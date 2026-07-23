@@ -1,1 +1,23 @@
-{"generated_at": null, "signals": []}
+{
+ "generated_at": "2026-07-23T19:00:52+00:00",
+ "signals": [
+  {
+   "ts": "2026-07-23T19:00:49+00:00",
+   "title": "၂၀၂၆ ရခိုင်ရေဘေး - ကျန်းမာရေးပြဿနာနဲ့ စစ်ရေးအန္တရာယ်",
+   "markets": [
+    {
+     "market": "fx_kyat",
+     "direction": "bearish",
+     "confidence": 0.65,
+     "rationale": "New sanctions pressure the kyat"
+    },
+    {
+     "market": "gold",
+     "direction": "bullish",
+     "confidence": 0.65,
+     "rationale": "Kyat pressure drives savings into gold"
+    }
+   ]
+  }
+ ]
+}
