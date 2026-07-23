@@ -15,7 +15,8 @@ RULES = [
     # ---- kyat / gold macro triggers -------------------------------------
     {
         "name": "sanctions",
-        "patterns": ["sanction", "ပိတ်ဆို့", "အရေးယူပိတ်"],
+        "patterns": ["sanction", "ဒဏ်ခတ်", "ပိတ်ဆို့အရေးယူ",
+                     "စီးပွားရေးပိတ်ဆို့", "အရေးယူပိတ်ဆို့"],
         "signals": [
             ("fx_kyat", "bearish", 0.65, "New sanctions pressure the kyat"),
             ("gold", "bullish", 0.65, "Kyat pressure drives savings into gold"),

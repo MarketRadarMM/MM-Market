@@ -30,10 +30,10 @@ BROWSER_AGENT = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
 SEEN_PATH = os.path.join(BASE, "docs", "data", "seen.json")
 
 MARKET_LABELS = {
-    "gold":       ("🪙", "ရွှေ / Gold"),
+    "gold":       ("💰", "ရွှေ / Gold"),
     "fx_kyat":    ("💵", "ကျပ်ငွေ / Kyat FX"),
     "rice":       ("🌾", "ဆန် / Rice"),
-    "pulses":     ("🫘", "ပဲမျိုးစုံ / Pulses"),
+    "pulses":     ("🌱", "ပဲမျိုးစုံ / Pulses"),
     "edible_oil": ("🛢", "စားသုံးဆီ / Edible oil"),
     "fuel":       ("⛽", "စက်သုံးဆီ / Fuel"),
 }
