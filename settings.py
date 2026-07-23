@@ -5,8 +5,9 @@ FEEDS = {
     "Myanmar Now (EN)": "https://myanmar-now.org/en/feed/",
     "Myanmar Now (MM)": "https://myanmar-now.org/mm/feed/",
     "Irrawaddy":        "https://www.irrawaddy.com/feed",
-    "DVB (Burmese)":    "https://burmese.dvb.no/feed",
     "Frontier Myanmar": "https://www.frontiermyanmar.net/en/feed/",
+    "RFA Burma (EN)":   "https://www.rfa.org/english/news/burma_news/rss2.xml",
+    # DVB removed 2026-07: their new site no longer offers RSS.
 }
 
 # Discreet mode: public output (website + Telegram) carries NO outlet names

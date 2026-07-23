@@ -25,6 +25,8 @@ from settings import FEEDS, DISCREET, MAX_SIGNALS, MAX_SEEN
 
 BASE = os.path.dirname(os.path.abspath(__file__))
 SIGNALS_PATH = os.path.join(BASE, "docs", "data", "signals.json")
+BROWSER_AGENT = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                 "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36")
 SEEN_PATH = os.path.join(BASE, "docs", "data", "seen.json")
 
 MARKET_LABELS = {
@@ -59,7 +61,7 @@ def fingerprint(article_id):
 def fetch_new(seen):
     for source, feed_url in FEEDS.items():
         try:
-            parsed = feedparser.parse(feed_url)
+            parsed = feedparser.parse(feed_url, agent=BROWSER_AGENT)
         except Exception as e:
             print(f"[warn] {source}: {e}", file=sys.stderr)
             continue
