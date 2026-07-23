@@ -1,0 +1,175 @@
+<!doctype html>
+<html lang="my">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>ဈေးကွက်ရေဒါ · Market Radar</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Noto+Sans+Myanmar:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --lacquer:#1b1410;      /* Burmese lacquerware black-brown */
+    --lacquer-2:#241a14;
+    --gold:#d2a24c;
+    --gold-dim:#8a6c34;
+    --parchment:#ece2cf;
+    --muted:#a3937c;
+    --bull:#6fae7e;
+    --bear:#cf6a58;
+    --watch:#c9b06a;
+    --line:rgba(210,162,76,.28);
+  }
+  *{box-sizing:border-box}
+  body{
+    margin:0;background:var(--lacquer);color:var(--parchment);
+    font-family:"Noto Sans Myanmar",system-ui,sans-serif;
+    font-size:15px;line-height:1.65;
+    background-image:radial-gradient(ellipse 90% 50% at 50% -10%,rgba(210,162,76,.08),transparent);
+  }
+  .wrap{max-width:660px;margin:0 auto;padding:28px 16px 60px}
+
+  header{text-align:center;padding:10px 0 22px;border-bottom:1px solid var(--line)}
+  .rule{width:120px;height:1px;background:var(--gold-dim);margin:10px auto;position:relative}
+  .rule::after{content:"◆";color:var(--gold);font-size:8px;position:absolute;left:50%;top:-7px;transform:translateX(-50%)}
+  h1{font-family:Fraunces,serif;font-weight:700;font-size:30px;letter-spacing:.5px;margin:4px 0 0;color:var(--gold)}
+  .sub{margin:2px 0 0;font-size:16px;font-weight:500}
+  .updated{color:var(--muted);font-size:12.5px;margin-top:10px}
+
+  /* signature: the gold-shop board */
+  .board{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin:20px 0 26px}
+  .cell{
+    background:var(--lacquer-2);border:1px solid var(--line);border-radius:6px;
+    padding:10px 6px;text-align:center;cursor:pointer;color:var(--parchment);
+    font:inherit;font-size:12.5px;transition:border-color .15s;
+  }
+  .cell:hover{border-color:var(--gold)}
+  .cell:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
+  .cell.active{border-color:var(--gold);background:#2c2016}
+  .cell .em{font-size:18px;display:block}
+  .cell .dir{display:block;font-weight:700;font-size:13px;margin-top:2px}
+  .dir.bullish{color:var(--bull)} .dir.bearish{color:var(--bear)}
+  .dir.neutral{color:var(--watch)} .dir.none{color:var(--muted);font-weight:400}
+
+  .card{
+    background:var(--lacquer-2);border:1px solid rgba(210,162,76,.16);
+    border-left:3px solid var(--gold-dim);border-radius:6px;
+    padding:14px 16px;margin-bottom:12px;
+  }
+  @media (prefers-reduced-motion:no-preference){
+    .card{animation:in .35s ease both}
+    @keyframes in{from{opacity:0;transform:translateY(5px)}to{opacity:1}}
+  }
+  .card time{color:var(--muted);font-size:12px}
+  .badges{margin:6px 0 4px;display:flex;flex-wrap:wrap;gap:6px}
+  .badge{font-size:12.5px;font-weight:700;padding:2px 9px;border-radius:99px;border:1px solid}
+  .badge.bullish{color:var(--bull);border-color:var(--bull)}
+  .badge.bearish{color:var(--bear);border-color:var(--bear)}
+  .badge.neutral{color:var(--watch);border-color:var(--watch)}
+  .headline{font-weight:500;font-size:15.5px;margin:4px 0 2px}
+  .why{color:var(--muted);font-size:13px;margin:0}
+
+  .empty{color:var(--muted);text-align:center;padding:40px 10px}
+  footer{margin-top:36px;padding-top:16px;border-top:1px solid var(--line);
+         color:var(--muted);font-size:12px;text-align:center;line-height:1.7}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Market Radar</h1>
+    <p class="sub">မြန်မာ့ကုန်စည်ဈေးကွက် သတင်းအချက်ပြစနစ်</p>
+    <div class="rule"></div>
+    <p class="updated" id="updated">တင်နေသည်…</p>
+  </header>
+
+  <div class="board" id="board" role="group" aria-label="ဈေးကွက်ရွေးရန်"></div>
+  <div id="feed"></div>
+
+  <footer>
+    ဤစနစ်သည် သတင်းများကို အလိုအလျောက် ဖတ်ရှုပြီး ဈေးကွက်သက်ရောက်မှုကို ခန့်မှန်းပေးသည့် စမ်းသပ်ကိရိယာသာ ဖြစ်သည်။ မှားယွင်းနိုင်သည်။ ရင်းနှီးမြှုပ်နှံမှု အကြံဉာဏ် မဟုတ်ပါ။<br>
+    Automated experiment · signals can be wrong · not investment advice
+  </footer>
+</div>
+
+<script>
+const MARKETS = {
+  gold:       ["🪙","ရွှေ"],
+  fx_kyat:    ["💵","ကျပ်/ဒေါ်လာ"],
+  rice:       ["🌾","ဆန်"],
+  pulses:     ["🫘","ပဲ"],
+  edible_oil: ["🛢","စားသုံးဆီ"],
+  fuel:       ["⛽","စက်သုံးဆီ"]
+};
+const DIRS = {bullish:"တက်ရိပ် ▲", bearish:"ကျရိပ် ▼", neutral:"စောင့်ကြည့် ◆", none:"—"};
+let DATA = [], FILTER = null;
+
+function timeAgo(iso){
+  const m = Math.round((Date.now() - new Date(iso)) / 60000);
+  if (m < 60)   return m + " မိနစ်အကြာ";
+  if (m < 1440) return Math.round(m/60) + " နာရီအကြာ";
+  return Math.round(m/1440) + " ရက်အကြာ";
+}
+
+function latestDir(mk){
+  for (const s of DATA){
+    const hit = s.markets.find(x => x.market === mk && x.direction !== "neutral");
+    if (hit) return hit.direction;
+  }
+  for (const s of DATA) if (s.markets.some(x => x.market === mk)) return "neutral";
+  return "none";
+}
+
+function renderBoard(){
+  const b = document.getElementById("board"); b.innerHTML = "";
+  for (const [mk,[em,label]] of Object.entries(MARKETS)){
+    const d = latestDir(mk);
+    const c = document.createElement("button");
+    c.className = "cell" + (FILTER === mk ? " active" : "");
+    c.innerHTML = `<span class="em">${em}</span>${label}<span class="dir ${d}">${DIRS[d]}</span>`;
+    c.onclick = () => { FILTER = (FILTER === mk ? null : mk); renderBoard(); renderFeed(); };
+    b.appendChild(c);
+  }
+}
+
+function renderFeed(){
+  const f = document.getElementById("feed"); f.innerHTML = "";
+  const rows = DATA.filter(s => !FILTER || s.markets.some(m => m.market === FILTER));
+  if (!rows.length){
+    f.innerHTML = '<p class="empty">ယခုအချိန်တွင် အချက်ပြမှု မရှိသေးပါ။ စနစ်သည် မိနစ် ၃၀ တစ်ကြိမ် သတင်းစစ်ဆေးနေပါသည်။</p>';
+    return;
+  }
+  for (const s of rows.slice(0,120)){
+    const card = document.createElement("article");
+    card.className = "card";
+    const badges = s.markets.map(m => {
+      const [em,label] = MARKETS[m.market] || ["•", m.market];
+      return `<span class="badge ${m.direction}">${em} ${label} ${DIRS[m.direction]} ${Math.round(m.confidence*100)}%</span>`;
+    }).join("");
+    const why = s.markets.map(m => m.rationale).filter(Boolean).join(" · ");
+    card.innerHTML =
+      `<time datetime="${s.ts}">${timeAgo(s.ts)}</time>
+       <div class="badges">${badges}</div>
+       <p class="headline">${escapeHtml(s.title)}</p>
+       <p class="why">${escapeHtml(why)}</p>`;
+    f.appendChild(card);
+  }
+}
+
+function escapeHtml(t){ const d = document.createElement("div"); d.textContent = t || ""; return d.innerHTML; }
+
+fetch("data/signals.json?v=" + Date.now())
+  .then(r => r.json())
+  .then(j => {
+    DATA = j.signals || [];
+    document.getElementById("updated").textContent =
+      j.generated_at ? "နောက်ဆုံးစစ်ဆေးချိန် — " + timeAgo(j.generated_at) : "စတင်လည်ပတ်ရန် ပြင်ဆင်နေဆဲ";
+    renderBoard(); renderFeed();
+  })
+  .catch(() => {
+    document.getElementById("updated").textContent = "ဒေတာ မရရှိသေးပါ";
+  });
+</script>
+</body>
+</html>
