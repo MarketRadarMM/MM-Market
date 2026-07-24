@@ -10,9 +10,11 @@ FEEDS = {
     # DVB removed 2026-07: their new site no longer offers RSS.
 }
 
-# Discreet mode: public output (website + Telegram) carries NO outlet names
-# and NO article links — only the market signal, headline text and rationale.
-DISCREET = True
+# Publishing switches. To go back to fully discreet output, set both to False.
+# SHOW_ALL_NEWS: website lists every article (non-market ones marked neutral).
+# INCLUDE_LINKS: article titles link to the source; Telegram alerts carry the link.
+SHOW_ALL_NEWS = True
+INCLUDE_LINKS = True
 
 # Keep this many signals on the public site (newest first).
 MAX_SIGNALS = 300

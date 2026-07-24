@@ -21,7 +21,7 @@ import feedparser
 import requests
 
 from classifier_rules import classify_rules
-from settings import FEEDS, DISCREET, MAX_SIGNALS, MAX_SEEN
+from settings import FEEDS, SHOW_ALL_NEWS, INCLUDE_LINKS, MAX_SIGNALS, MAX_SEEN
 
 BASE = os.path.dirname(os.path.abspath(__file__))
 SIGNALS_PATH = os.path.join(BASE, "docs", "data", "signals.json")
@@ -66,7 +66,8 @@ def fetch_new(seen):
             print(f"[warn] {source}: {e}", file=sys.stderr)
             continue
         for entry in parsed.entries:
-            article_id = entry.get("id") or entry.get("link", "")
+            url = entry.get("link", "")
+            article_id = entry.get("id") or url
             if not article_id:
                 continue
             fp = fingerprint(article_id)
@@ -74,7 +75,7 @@ def fetch_new(seen):
                 continue
             title = (entry.get("title") or "").strip()
             summary = (entry.get("summary") or entry.get("description") or "").strip()
-            yield fp, source, title, summary
+            yield fp, source, title, summary, url
 
 
 def telegram_send(text):
@@ -102,6 +103,8 @@ def format_telegram(sig):
         lines.append(f"   ↳ {m['rationale']}")
     lines.append("")
     lines.append(f"📰 {sig['title']}")
+    if INCLUDE_LINKS and sig.get("url"):
+        lines.append(sig["url"])
     return "\n".join(lines)
 
 
@@ -113,31 +116,34 @@ def main():
 
     new_articles = 0
     new_signals = 0
-    for fp, source, title, summary in fetch_new(seen):
+    for fp, source, title, summary, url in fetch_new(seen):
         new_articles += 1
         seen.add(fp)
         seen_list.append(fp)
 
         result = classify_rules(title, summary, source)
-        if not result.get("relevant") or not result.get("markets"):
+        has_signal = bool(result.get("relevant") and result.get("markets"))
+        if not has_signal and not SHOW_ALL_NEWS:
             continue
 
         sig = {
             "ts": datetime.now(timezone.utc).isoformat(timespec="seconds"),
             "title": title,
+            "source": source,
             "markets": [
                 {"market": m["market"], "direction": m["direction"],
                  "confidence": round(m.get("confidence", 0), 2),
                  "rationale": m.get("rationale", "")}
-                for m in result["markets"]
-            ],
+                for m in result.get("markets", [])
+            ] if has_signal else [],
         }
-        if not DISCREET:
-            sig["source"] = source
+        if INCLUDE_LINKS and url:
+            sig["url"] = url
         signals.insert(0, sig)
-        new_signals += 1
-        telegram_send(format_telegram(sig))
-        time.sleep(1)  # keep Telegram happy
+        if has_signal:
+            new_signals += 1
+            telegram_send(format_telegram(sig))   # Telegram: signals only, never the firehose
+            time.sleep(1)  # keep Telegram happy
 
     store["signals"] = signals[:MAX_SIGNALS]
     store["generated_at"] = datetime.now(timezone.utc).isoformat(timespec="seconds")
