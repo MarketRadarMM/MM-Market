@@ -7,6 +7,7 @@ FEEDS = {
     "Irrawaddy":        "https://www.irrawaddy.com/feed",
     "Frontier Myanmar": "https://www.frontiermyanmar.net/en/feed/",
     "RFA Burma (EN)":   "https://www.rfa.org/english/news/burma_news/rss2.xml",
+    "Khit Thit":        "https://yktnews.com/feed/",
     # DVB removed 2026-07: their new site no longer offers RSS.
 }
 
