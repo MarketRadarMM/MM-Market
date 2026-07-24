@@ -67,6 +67,14 @@
   .badge.bullish{color:var(--bull);border-color:var(--bull)}
   .badge.bearish{color:var(--bear);border-color:var(--bear)}
   .badge.neutral{color:var(--watch);border-color:var(--watch)}
+  .badge.none{color:var(--muted);border-color:rgba(163,147,124,.5);font-weight:500}
+  .headline a{color:var(--parchment);text-decoration:none;border-bottom:1px dotted var(--gold-dim)}
+  .headline a:hover{color:var(--gold)}
+  .src{color:var(--gold-dim);font-size:11.5px;margin-left:8px}
+  .toggle{display:block;margin:0 auto 16px;background:none;border:1px solid var(--line);
+          border-radius:99px;color:var(--muted);font:inherit;font-size:12.5px;
+          padding:5px 16px;cursor:pointer}
+  .toggle.on{color:var(--gold);border-color:var(--gold)}
   .headline{font-weight:500;font-size:15.5px;margin:4px 0 2px}
   .why{color:var(--muted);font-size:13px;margin:0}
 
@@ -85,6 +93,7 @@
   </header>
 
   <div class="board" id="board" role="group" aria-label="ဈေးကွက်ရွေးရန်"></div>
+  <button class="toggle" id="toggle" onclick="SIGNALS_ONLY=!SIGNALS_ONLY;renderToggle();renderFeed()"></button>
   <div id="feed"></div>
 
   <footer>
@@ -103,7 +112,14 @@ const MARKETS = {
   fuel:       ["⛽","စက်သုံးဆီ"]
 };
 const DIRS = {bullish:"တက်ရိပ် ▲", bearish:"ကျရိပ် ▼", neutral:"စောင့်ကြည့် ◆", none:"—"};
-let DATA = [], FILTER = null;
+let DATA = [], FILTER = null, SIGNALS_ONLY = false;
+
+function renderToggle(){
+  const t = document.getElementById("toggle");
+  t.className = "toggle" + (SIGNALS_ONLY ? " on" : "");
+  t.textContent = SIGNALS_ONLY ? "◆ အချက်ပြများသာ ပြထားသည် — အားလုံးပြရန် နှိပ်ပါ"
+                               : "သတင်းအားလုံး ပြထားသည် — အချက်ပြများသာ ကြည့်ရန် နှိပ်ပါ";
+}
 
 function timeAgo(iso){
   const m = Math.round((Date.now() - new Date(iso)) / 60000);
@@ -135,7 +151,9 @@ function renderBoard(){
 
 function renderFeed(){
   const f = document.getElementById("feed"); f.innerHTML = "";
-  const rows = DATA.filter(s => !FILTER || s.markets.some(m => m.market === FILTER));
+  let rows = DATA;
+  if (SIGNALS_ONLY || FILTER) rows = rows.filter(s => s.markets.length > 0);
+  if (FILTER) rows = rows.filter(s => s.markets.some(m => m.market === FILTER));
   if (!rows.length){
     f.innerHTML = '<p class="empty">ယခုအချိန်တွင် အချက်ပြမှု မရှိသေးပါ။ စနစ်သည် မိနစ် ၃၀ တစ်ကြိမ် သတင်းစစ်ဆေးနေပါသည်။</p>';
     return;
@@ -143,15 +161,22 @@ function renderFeed(){
   for (const s of rows.slice(0,120)){
     const card = document.createElement("article");
     card.className = "card";
-    const badges = s.markets.map(m => {
-      const [em,label] = MARKETS[m.market] || ["•", m.market];
-      return `<span class="badge ${m.direction}">${em} ${label} ${DIRS[m.direction]} ${Math.round(m.confidence*100)}%</span>`;
-    }).join("");
+    const badges = s.markets.length
+      ? s.markets.map(m => {
+          const [em,label] = MARKETS[m.market] || ["•", m.market];
+          return `<span class="badge ${m.direction}">${em} ${label} ${DIRS[m.direction]} ${Math.round(m.confidence*100)}%</span>`;
+        }).join("")
+      : `<span class="badge none">➖ ဈေးကွက်သက်ရောက်မှု မတွေ့ပါ</span>`;
     const why = s.markets.map(m => m.rationale).filter(Boolean).join(" · ");
+    const safeUrl = (s.url && /^https?:\/\//.test(s.url)) ? s.url : null;
+    const titleHtml = safeUrl
+      ? `<a href="${escapeHtml(safeUrl)}" target="_blank" rel="noopener noreferrer">${escapeHtml(s.title)}</a>`
+      : escapeHtml(s.title);
+    const src = s.source ? `<span class="src">${escapeHtml(s.source)}</span>` : "";
     card.innerHTML =
-      `<time datetime="${s.ts}">${timeAgo(s.ts)}</time>
+      `<time datetime="${s.ts}">${timeAgo(s.ts)}</time>${src}
        <div class="badges">${badges}</div>
-       <p class="headline">${escapeHtml(s.title)}</p>
+       <p class="headline">${titleHtml}</p>
        <p class="why">${escapeHtml(why)}</p>`;
     f.appendChild(card);
   }
@@ -165,7 +190,7 @@ fetch("data/signals.json?v=" + Date.now())
     DATA = j.signals || [];
     document.getElementById("updated").textContent =
       j.generated_at ? "နောက်ဆုံးစစ်ဆေးချိန် — " + timeAgo(j.generated_at) : "စတင်လည်ပတ်ရန် ပြင်ဆင်နေဆဲ";
-    renderBoard(); renderFeed();
+    renderToggle(); renderBoard(); renderFeed();
   })
   .catch(() => {
     document.getElementById("updated").textContent = "ဒေတာ မရရှိသေးပါ";
