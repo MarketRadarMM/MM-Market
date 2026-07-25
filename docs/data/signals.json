@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-07-25T15:00:23+00:00",
+ "generated_at": "2026-07-25T15:30:23+00:00",
  "signals": [
+  {
+   "ts": "2026-07-25T15:30:18+00:00",
+   "title": "အိန္ဒိယလူငယ်တွေ ဆန္ဒပြမှု ရပ်ဆိုင်း၊ ပညာရေးဝန်ကြီးနုတ်ထွက်ပေးရ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cd0xnxmj0gxo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-07-25T13:30:21+00:00",
    "title": "ဒေါ်အောင်ဆန်းစုကြည်ပါ ငြိစွန်းနိုင်တဲ့ UEC ရဲ့ ဥပဒေပြင်ဆင်ချက်",
