@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-07-28T10:00:36+00:00",
+ "generated_at": "2026-07-28T10:30:31+00:00",
  "signals": [
+  {
+   "ts": "2026-07-28T10:30:25+00:00",
+   "title": "Junta airstrike kills woman, injures two in birthplace of Myanmar’s top Catholic cleric",
+   "source": "Myanmar Now (EN)",
+   "markets": [
+    {
+     "market": "pulses",
+     "direction": "bullish",
+     "confidence": 0.55,
+     "rationale": "Conflict in bean/sesame heartland threatens supply"
+    }
+   ],
+   "url": "https://myanmar-now.org/en/news/junta-airstrike-kills-woman-injures-two-in-birthplace-of-myanmars-top-catholic-cleric/"
+  },
   {
    "ts": "2026-07-28T09:30:23+00:00",
    "title": "စစ်ဘေးကြားက အသက် ၇၆ နှစ်အဘွားတစ်ယောက်",
