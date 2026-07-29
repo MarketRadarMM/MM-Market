@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-07-29T11:00:30+00:00",
+ "generated_at": "2026-07-29T11:30:28+00:00",
  "signals": [
+  {
+   "ts": "2026-07-29T11:30:22+00:00",
+   "title": "“စတားလင့်ခ် ပိတ်သွားလို့ ဒီအလုပ်တွေ အကုန်ရပ်တန့်မှာ မဟုတ်ဘူး။ တက်မရှိရင် လက်နဲ့လှော်မှာပဲ”",
+   "source": "Myanmar Now (MM)",
+   "markets": [
+    {
+     "market": "pulses",
+     "direction": "bullish",
+     "confidence": 0.55,
+     "rationale": "Conflict in bean/sesame heartland threatens supply"
+    }
+   ],
+   "url": "https://myanmar-now.org/mm/news/79926/"
+  },
   {
    "ts": "2026-07-29T11:00:25+00:00",
    "title": "Myanmar junta airstrike kills at least eight civilians in Bago Region village: NUG",
