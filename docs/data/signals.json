@@ -1,6 +1,26 @@
 {
- "generated_at": "2026-07-31T03:00:29+00:00",
+ "generated_at": "2026-07-31T03:30:23+00:00",
  "signals": [
+  {
+   "ts": "2026-07-31T03:30:16+00:00",
+   "title": "ငွေလိမ်စင်တာတွေကြောင့် DKBA နဲ့ ခေါင်းဆောင်ပိုင်းတွေကို EU ဒဏ်ခတ်",
+   "source": "BBC Burmese",
+   "markets": [
+    {
+     "market": "fx_kyat",
+     "direction": "bearish",
+     "confidence": 0.65,
+     "rationale": "New sanctions pressure the kyat"
+    },
+    {
+     "market": "gold",
+     "direction": "bullish",
+     "confidence": 0.65,
+     "rationale": "Kyat pressure drives savings into gold"
+    }
+   ],
+   "url": "https://www.bbc.co.uk/burmese/live/c87neg7j9e3t?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-07-30T15:00:25+00:00",
    "title": "ပြန်ပေးဆွဲငွေတောင်းမှုတွေ မကြာခဏဖြစ်နေတဲ့ပုပ္ပါးနဲ့ ပျောက်ဆုံးနေတဲ့ခရီးသွား ၁၁ ဦး",
