@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-07-31T03:30:23+00:00",
+ "generated_at": "2026-07-31T04:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-07-31T04:00:18+00:00",
+   "title": "ခင်ဦးမြို့နယ် ကျေးလက်ဒေသ ဗုံးကြဲခံရ၊ နွားကျောင်းသားတစ်ဦး သေဆုံး",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/80009/"
+  },
+  {
+   "ts": "2026-07-31T04:00:17+00:00",
+   "title": "AI ကြောင့်ဖြစ်တဲ့အလုပ်လက်မဲ့ပြဿနာကို ရင်ဆိုင်တိုက်ပွဲဝင်နေတဲ့အမျိုးသမီးတွေ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cx2k7rn3yypo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-07-31T03:30:16+00:00",
    "title": "ငွေလိမ်စင်တာတွေကြောင့် DKBA နဲ့ ခေါင်းဆောင်ပိုင်းတွေကို EU ဒဏ်ခတ်",
