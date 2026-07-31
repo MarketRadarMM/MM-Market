@@ -1,6 +1,26 @@
 {
- "generated_at": "2026-07-31T08:30:21+00:00",
+ "generated_at": "2026-07-31T09:00:25+00:00",
  "signals": [
+  {
+   "ts": "2026-07-31T09:00:20+00:00",
+   "title": "အွန်လိုင်းငွေလိမ်ဂိုဏ်းများနှင့် ပတ်သက်၍ DKBA နှင့် ခေါင်းဆောင် ၅  ဦးကို အီးယူ ဒဏ်ခတ်",
+   "source": "Myanmar Now (MM)",
+   "markets": [
+    {
+     "market": "fx_kyat",
+     "direction": "bearish",
+     "confidence": 0.65,
+     "rationale": "New sanctions pressure the kyat"
+    },
+    {
+     "market": "gold",
+     "direction": "bullish",
+     "confidence": 0.65,
+     "rationale": "Kyat pressure drives savings into gold"
+    }
+   ],
+   "url": "https://myanmar-now.org/mm/news/80029/"
+  },
   {
    "ts": "2026-07-31T07:30:16+00:00",
    "title": "စစ်တပ်စစ်ကြောင်း ဖလူးတောင်ခြေရောက်လာ ၊ BGF နဲ့ ခွဲထွက်DKBA အဖွဲ့ လမ်းပြပေးနေ",
