@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-07-31T09:00:25+00:00",
+ "generated_at": "2026-07-31T09:30:29+00:00",
  "signals": [
+  {
+   "ts": "2026-07-31T09:30:23+00:00",
+   "title": "ဖိအားတွေကြားက အလုပ်သမား ကူညီရေးအဖွဲ့တွေ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/80032/"
+  },
+  {
+   "ts": "2026-07-31T09:30:22+00:00",
+   "title": "ဗိုလ်ချုပ်ကြီးရဲဝင်းဦး ရဲ့ ရက် ၁၀၀",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c171w8zyzq2o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-07-31T09:00:20+00:00",
    "title": "အွန်လိုင်းငွေလိမ်ဂိုဏ်းများနှင့် ပတ်သက်၍ DKBA နှင့် ခေါင်းဆောင် ၅  ဦးကို အီးယူ ဒဏ်ခတ်",
