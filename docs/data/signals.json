@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-03T03:30:19+00:00",
+ "generated_at": "2026-08-03T04:00:26+00:00",
  "signals": [
+  {
+   "ts": "2026-08-03T04:00:21+00:00",
+   "title": "ရေမကြီးခင်နဲ့ ‌ရေကျချိန်လုပ်ရမယ့်အချက်တွေ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cpvyvznmd72o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-08-03T03:30:14+00:00",
    "title": "ငဝန်မြစ်ရေကာတာကျိုးတဲ့ 'လေးမျက်နှာ'မှာ ရေထပ်တက်လို့အရေးပေါ် အကူအညီလိုအပ်နေ",
