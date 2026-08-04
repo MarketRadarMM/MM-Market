@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-08-04T06:30:31+00:00",
+ "generated_at": "2026-08-04T07:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-08-04T07:00:20+00:00",
+   "title": "အိုးဘိုထောင်တွင် ရင်သားကင်ဆာဖြစ်နေသူ  NLD ပါတီဝင် ၁ ဦး ဆေးကုသနိုင်ရေး ခက်ခဲနေ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/80083/"
+  },
+  {
+   "ts": "2026-08-04T07:00:19+00:00",
+   "title": "NUG says Mingin school ban is not national policy, cites local security concerns",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/nug-says-mingin-school-ban-is-not-national-policy-cites-local-security-concerns/"
+  },
   {
    "ts": "2026-08-04T06:00:24+00:00",
    "title": "Myanmar junta chief set for first Thailand visit as self-appointed president",
