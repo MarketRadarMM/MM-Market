@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-08-05T10:30:19+00:00",
+ "generated_at": "2026-08-05T11:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-08-05T11:00:21+00:00",
+   "title": "လေးမျက်နှာမြို့ရေဘေး နောက်ဆုံးအခြေအနေ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/80164/"
+  },
+  {
+   "ts": "2026-08-05T11:00:20+00:00",
+   "title": "Wa delegation holds talks with Myanmar junta as analysts see possible political concessions",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/wa-delegation-holds-talks-with-myanmar-junta-as-analysts-see-possible-political-concessions/"
+  },
   {
    "ts": "2026-08-05T10:00:17+00:00",
    "title": "Imprisoned NLD member’s health worsens after regime denies breast cancer treatment for almost one year",
