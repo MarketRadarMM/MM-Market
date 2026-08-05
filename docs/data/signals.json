@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-08-05T03:30:19+00:00",
+ "generated_at": "2026-08-05T04:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-08-05T04:00:19+00:00",
+   "title": "လုပ်အားကိုသာပိုင်ကြတဲ့ လယ်သမားတွေရဲ့ မျှော်လင့်ချက်မဲ့ဘဝ",
+   "source": "Myanmar Now (MM)",
+   "markets": [
+    {
+     "market": "rice",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "Rice-market story — read for direction"
+    }
+   ],
+   "url": "https://myanmar-now.org/mm/news/80134/"
+  },
   {
    "ts": "2026-08-05T03:00:26+00:00",
    "title": "ကျားဖြန့်နဲ့ မူးယစ်ဆေးပြဿနာကို နှိမ်နင်းဖို့ နေပြည်တော်ရောက် 'ဝ'အဖွဲ့ကို ဦးမင်းအောင်လှိုင်ပြော",
