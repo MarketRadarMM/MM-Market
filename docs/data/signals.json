@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-08-06T08:30:24+00:00",
+ "generated_at": "2026-08-06T09:00:29+00:00",
  "signals": [
+  {
+   "ts": "2026-08-06T09:00:25+00:00",
+   "title": "ထိုင်းရောက် မြန်မာစစ်ခေါင်းဆောင်ကို ကန့်ကွက် ဆန္ဒပြ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/80215/"
+  },
+  {
+   "ts": "2026-08-06T09:00:24+00:00",
+   "title": "Myanmar junta raids online scam hub in southern Shan, arrests 49 including 38 Chinese nationals",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/myanmar-junta-raids-online-scam-hub-in-southern-shan-arrests-49-including-38-chinese-nationals/"
+  },
   {
    "ts": "2026-08-06T08:00:19+00:00",
    "title": "Myanmar junta launches counteroffensive after KIA, allies seize outpost near Shwegu",
