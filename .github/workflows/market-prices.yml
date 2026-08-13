@@ -27,6 +27,18 @@ jobs:
       - name: Fetch prices
         run: python fetch_prices.py
 
+      # Must run after fetch_prices: it reads prices_latest.json to work out
+      # the street-vs-CBM spread.
+      - name: Fetch market data
+        run: python fetch_market.py
+
+      # Same script as the one-off backfill, but only two pages deep. Merges
+      # today's readings into series.json without re-walking the archive.
+      - name: Update series
+        env:
+          TG_PAGES: '2'
+        run: python backfill_history.py
+
       - name: Commit data
         run: |
           git config user.name  "github-actions[bot]"
