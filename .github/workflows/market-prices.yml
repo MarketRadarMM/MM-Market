@@ -2,9 +2,7 @@ name: market-prices
 
 on:
   workflow_dispatch:          # lets you run it by hand from the Actions tab
-  schedule:
-    - cron: '30 2 * * *'      # 09:00 MMT
-    - cron: '30 7 * * *'      # 14:00 MMT
+ 
 
 permissions:
   contents: write             # required to commit data back to the repo
@@ -30,10 +28,15 @@ jobs:
       - name: Fetch prices
         run: python fetch_prices.py
 
-      - name: Commit data
+   - name: Commit data
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add docs/data/
-          git diff --staged --quiet || git commit -m "data: prices $(date -u +%Y-%m-%dT%H:%MZ)"
-          git push
+          git diff --staged --quiet && exit 0
+          git commit -m "data: update $(date -u +%Y-%m-%dT%H:%MZ)"
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push origin main && exit 0
+            sleep 5
+          done
+          exit 1
