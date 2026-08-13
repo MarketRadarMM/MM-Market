@@ -20,9 +20,13 @@ from datetime import datetime, timezone
 
 import feedparser
 import requests
+import urllib3
 
 from classifier_rules import classify_rules
-from settings import FEEDS, SHOW_ALL_NEWS, INCLUDE_LINKS, MAX_SIGNALS, MAX_SEEN
+from settings import (FEEDS, SHOW_ALL_NEWS, INCLUDE_LINKS, MAX_SIGNALS,
+                      MAX_SEEN, INSECURE_TLS)
+
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 BASE = os.path.dirname(os.path.abspath(__file__))
 SIGNALS_PATH = os.path.join(BASE, "docs", "data", "signals.json")
@@ -71,7 +75,7 @@ def fingerprint(article_id):
     return hashlib.sha256(article_id.encode("utf-8")).hexdigest()[:20]
 
 
-def fetch_feed(feed_url):
+def fetch_feed(source, feed_url):
     """
     Return (entries, note). Never raises.
 
@@ -80,9 +84,12 @@ def fetch_feed(feed_url):
     set. A blocked feed was therefore indistinguishable from a feed with no
     new articles, and failed silently. The note explains which it is.
     """
+    verify = source not in INSECURE_TLS
+
     try:
         resp = requests.get(
-            feed_url, headers=FEED_HEADERS, timeout=25, allow_redirects=True
+            feed_url, headers=FEED_HEADERS, timeout=25,
+            allow_redirects=True, verify=verify,
         )
     except Exception as e:
         return [], f"request failed: {type(e).__name__}"
@@ -97,7 +104,8 @@ def fetch_feed(feed_url):
     entries = parsed.entries or []
 
     if entries:
-        return entries, f"{len(entries)} entries"
+        tls = "" if verify else " (TLS unverified)"
+        return entries, f"{len(entries)} entries{tls}"
 
     # Empty: work out why, so the log is actionable
     head = body[:200].lstrip().lower()
@@ -111,7 +119,7 @@ def fetch_feed(feed_url):
 
 def fetch_new(seen):
     for source, feed_url in FEEDS.items():
-        entries, note = fetch_feed(feed_url)
+        entries, note = fetch_feed(source, feed_url)
         print(f"[feed] {source:20s} {note}", file=sys.stderr)
 
         for entry in entries:
