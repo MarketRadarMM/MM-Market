@@ -12,8 +12,10 @@ INCLUDE_LINKS are enabled in settings.py.
 """
 
 import hashlib
+import html as html_mod
 import json
 import os
+import re
 import sys
 import time
 from datetime import datetime, timezone
@@ -45,6 +47,8 @@ FEED_HEADERS = {
     "Cache-Control": "no-cache",
 }
 
+TAG_RE = re.compile(r"<[^>]+>")
+
 MARKET_LABELS = {
     "gold":       ("💰", "ရွှေ / Gold"),
     "fx_kyat":    ("💵", "ကျပ်ငွေ / Kyat FX"),
@@ -73,6 +77,13 @@ def save_json(path, data):
 
 def fingerprint(article_id):
     return hashlib.sha256(article_id.encode("utf-8")).hexdigest()[:20]
+
+
+def strip_html(s):
+    """Feed summaries are HTML. Keyword rules should not see markup."""
+    if not s:
+        return ""
+    return re.sub(r"\s+", " ", html_mod.unescape(TAG_RE.sub(" ", s))).strip()
 
 
 def fetch_feed(source, feed_url):
@@ -107,7 +118,6 @@ def fetch_feed(source, feed_url):
         tls = "" if verify else " (TLS unverified)"
         return entries, f"{len(entries)} entries{tls}"
 
-    # Empty: work out why, so the log is actionable
     head = body[:200].lstrip().lower()
     if "html" in ctype or head.startswith(b"<!doctype html") or head.startswith(b"<html"):
         return [], "blocked -- served HTML instead of a feed"
@@ -119,6 +129,12 @@ def fetch_feed(source, feed_url):
 
 def fetch_new(seen):
     for source, feed_url in FEEDS.items():
+        # Google News descriptions are not article excerpts. They contain
+        # OTHER headlines from the same publisher plus "View Full Coverage"
+        # links, so feeding them to the classifier matched keywords from
+        # unrelated articles. Use the title alone for these feeds.
+        via_google = "news.google.com" in feed_url
+
         entries, note = fetch_feed(source, feed_url)
         print(f"[feed] {source:20s} {note}", file=sys.stderr)
 
@@ -130,8 +146,19 @@ def fetch_new(seen):
             fp = fingerprint(article_id)
             if fp in seen:
                 continue
+
             title = (entry.get("title") or "").strip()
-            summary = (entry.get("summary") or entry.get("description") or "").strip()
+            if via_google:
+                # Google News appends " - Publisher"; the source is already
+                # shown separately in the UI.
+                if " - " in title:
+                    title = title.rsplit(" - ", 1)[0].strip()
+                summary = ""
+            else:
+                summary = strip_html(
+                    entry.get("summary") or entry.get("description") or ""
+                )
+
             yield fp, source, title, summary, url
 
 
