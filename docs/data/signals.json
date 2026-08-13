@@ -1,0 +1,292 @@
+{
+ "generated_at": "2026-08-13T18:08:20+00:00",
+ "signals": [
+  {
+   "ts": "2026-08-13T18:06:01+00:00",
+   "title": "ကိုလံဘီယာတွင် ပြင်းအား ၇.၄ ငလျင်လှုပ်ခတ်၊ လူ ၁၃၀ ကျော် သေဆုံး၊ နိုင်ငံကို အရေးပေါ်အခြေအနေ ကြေညာထားရ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/80330/"
+  },
+  {
+   "ts": "2026-08-13T18:06:01+00:00",
+   "title": "သံတွဲနှင့်အမ်း ဗုံးကြဲခံရမှု ၁၆ ဦးသေ၊ ၁၄ ဦးဒဏ်ရာရ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/80333/"
+  },
+  {
+   "ts": "2026-08-13T18:06:01+00:00",
+   "title": "နယ်စပ် လက်နက်စီးဆင်းမှုပိတ်ပင်ရေး မြန်မာစစ်ခေါင်းဆောင် တောင်းဆိုချက်ကို ထိုင်းလက်ခံ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/80343/"
+  },
+  {
+   "ts": "2026-08-13T18:06:01+00:00",
+   "title": "“မိသားစုနဲ့ စစ်မြေပြင်မှာတွေ့ရင် မသနားဘူး”",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/80353/"
+  },
+  {
+   "ts": "2026-08-13T18:05:59+00:00",
+   "title": "စစ်ကိုင်းတိုင်းရှိ မြို့နယ်များ ရေဘေးကျရောက်နေသော်လည်း စစ်တပ်က လေကြောင်းတိုက်ခိုက်မှုများ ဆက်လက်ပြုလုပ်နေ",
+   "source": "Myanmar Now (MM)",
+   "markets": [
+    {
+     "market": "pulses",
+     "direction": "bullish",
+     "confidence": 0.55,
+     "rationale": "Conflict in bean/sesame heartland threatens supply"
+    }
+   ],
+   "url": "https://myanmar-now.org/mm/news/80357/"
+  },
+  {
+   "ts": "2026-08-13T18:05:59+00:00",
+   "title": "တိုင်းရင်းသားအဆင့်မြင့် ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသရရှိရေး မိုင်းလားအဖွဲ့ တောင်းဆို",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/80371/"
+  },
+  {
+   "ts": "2026-08-13T18:05:59+00:00",
+   "title": "ကိုလံဘီယာငလျင်ဘေးမှသေအံ့ဆဲဆဲ ကလေးငယ်ကိုခက်ခက်ခဲခဲ ကယ်တင်နိုင်ခဲ့",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/80376/"
+  },
+  {
+   "ts": "2026-08-13T18:05:59+00:00",
+   "title": "မိုးမိတ်မြို့အနီး စစ်တပ်နှင့် KIA တိုက်ပွဲပြင်းထန်",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/80379/"
+  },
+  {
+   "ts": "2026-08-13T18:05:59+00:00",
+   "title": "ယင်းမာပင်ခရိုင်တွင် ပညာရေးကူညီပေးနေသည့် အရပ်ဘက်အဖွဲ့ဝင် ၁၉ ဦးကို စစ်တပ်ဖမ်းဆီး",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/80383/"
+  },
+  {
+   "ts": "2026-08-13T18:05:59+00:00",
+   "title": "“တရားဝင်အစိုးရကို ဒီအိမ်နဲ့ ပတ်သက်ပြီး ကျွန်တော်လွှဲပေးဖို့ တာဝန်ရှိတယ်”",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/80388/"
+  },
+  {
+   "ts": "2026-08-13T18:05:58+00:00",
+   "title": "From palace stages to exile: A Myanmar dancer who chose conscience over ceremony",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/from-palace-stages-to-exile-a-myanmar-dancer-who-chose-conscience-over-ceremony/"
+  },
+  {
+   "ts": "2026-08-13T18:05:58+00:00",
+   "title": "Explainer: Who are the companies and cronies backing Myanmar junta leader’s Thailand visit?",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/explainer-who-are-the-companies-and-cronies-backing-myanmar-junta-leaders-thailand-visit/"
+  },
+  {
+   "ts": "2026-08-13T18:05:58+00:00",
+   "title": "AA court hands down death penalty and prison terms in rape-murder case",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/aa-court-hands-down-death-penalty-and-prison-terms-in-rape-murder-case/"
+  },
+  {
+   "ts": "2026-08-13T18:05:58+00:00",
+   "title": "16 dead and tens of thousands displaced by flooding across central Myanmar",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/16-dead-and-tens-of-thousands-displaced-by-flooding-across-central-myanmar-nug/"
+  },
+  {
+   "ts": "2026-08-13T18:05:58+00:00",
+   "title": "‘One Rohingya from every household’: Myanmar junta formalises forced conscription in Rakhine State",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/one-rohingya-from-every-household-myanmar-junta-formalises-forced-conscription-in-rakhine-state/"
+  },
+  {
+   "ts": "2026-08-13T18:05:58+00:00",
+   "title": "Pro-junta militia kills four civilians after KIA attack on base",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/pro-junta-militia-kills-four-civilians-after-kia-attack-on-base/"
+  },
+  {
+   "ts": "2026-08-13T18:05:58+00:00",
+   "title": "Myanmar junta airstrike kills 14 in Rakhine State’s Thandwe Township",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/myanmar-junta-airstrike-kills-14-in-rakhine-states-thandwe-township/"
+  },
+  {
+   "ts": "2026-08-13T18:05:58+00:00",
+   "title": "Myanmar military escalating aerial attacks on civilians: UN probe",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/myanmar-military-escalating-aerial-attacks-on-civilians-un-probe/"
+  },
+  {
+   "ts": "2026-08-13T18:05:57+00:00",
+   "title": "Myanmar regime continues airstrikes amid flooding in Sagaing",
+   "source": "Myanmar Now (EN)",
+   "markets": [
+    {
+     "market": "pulses",
+     "direction": "bullish",
+     "confidence": 0.55,
+     "rationale": "Conflict in bean/sesame heartland threatens supply"
+    }
+   ],
+   "url": "https://myanmar-now.org/en/news/myanmar-regime-continues-airstrikes-amid-flooding-in-sagaing/"
+  },
+  {
+   "ts": "2026-08-13T18:05:57+00:00",
+   "title": "Fighting erupts between junta and KIA troops near Mongmit in northern Shan",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/fighting-erupts-between-junta-and-kia-troops-near-mongmit-in-northern-shan/"
+  },
+  {
+   "ts": "2026-08-13T18:05:55+00:00",
+   "title": "ဒေတာသုံးစွဲမှုနည်းသည့် ဆိုက်ကိုသွားရန်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cwy69wyx71go?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-08-13T18:05:55+00:00",
+   "title": "ရက် ၁၀၀ အတွင်း ဦးမင်းအောင်လှိုင် ဘာလုပ်နိုင်ခဲ့လဲ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c3r0nq32rxlo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-08-13T18:05:55+00:00",
+   "title": "မြန်မာရထားပေါ်က အငြင်းပွားဖွယ်ခရီးသွားများ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c86npdgd71po?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-08-13T18:05:55+00:00",
+   "title": "NUG မန်းတိုင်း(ပကဖ)တာဝန်ခံ မိုင်းလားနယ်ထဲ ဘယ်လိုဖမ်းဆီးခံခဲ့ရသလဲ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cly5qjx03nvo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-08-13T18:05:55+00:00",
+   "title": "ဗိုလ်ချုပ်ကြီးရဲဝင်းဦး ရဲ့ ရက် ၁၀၀",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c171w8zyzq2o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-08-13T18:05:55+00:00",
+   "title": "''စစ်တပ်ပြောတဲ့ဖက်ဒရယ်နဲ့ ကျွန်တော်တို့ ပြောတဲ့ဖက်ဒရယ်မတူဘူး'' - ဒေါက်တာ ဆလိုင်းလျန်မှုန်းဆာခေါင်း",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cjd42jnpp9eo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-08-13T18:05:55+00:00",
+   "title": "‌နေပြည်တော်နဲ့အပြိုင် SCEF အင်ဂျင်ပါဝါတည်ဆောက်နိုင်မလား",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/crl7017n4k6o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-08-13T18:05:55+00:00",
+   "title": "NUG တရားရေးရဲ့ မစီရင်နိုင်သေးတဲ့အမှုတွေ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cq61d39yeg8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-08-13T18:05:55+00:00",
+   "title": "ငဝန်မြစ်ရေကာတာ ကျိုးပေါက်မှု မပြင်နိုင်သေးရင် လေးမျက်နှာရေဘေး ပိုဆိုးလာနိုင်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c04kvldern7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-08-13T18:05:55+00:00",
+   "title": "မြန်မာကျောင်းသားတွေ ချီးဗနင်းပညာတော်သင်ဆုလျှောက်ခွင့်မရတော့ပါ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c4gke00njjwo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-08-13T18:05:55+00:00",
+   "title": "ထိုင်းရဲ့ သေနတ်ကိုင်ဆောင်မှုဥပဒေကို ပိုတင်းကျပ်ပြဋ္ဌာန်းမယ် - ထိုင်းဝန်ကြီးချုပ်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c3ekdx0e7yqo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-08-13T18:05:55+00:00",
+   "title": "ဦးမင်းအောင်လှိုင်ရဲ့ထိုင်းခရီးက သူ့ရဲ့ သံတမန်ရေးအထီးကျန်မှုကိုချိုးဖျက်ပေးနိုင်ခဲ့လား",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c2lqgwy2k7po?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-08-13T18:05:55+00:00",
+   "title": "ရှိတ်ဟာစီနာ ပြန်လာနိုင်မလား",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cgjew99v335o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-08-13T18:05:55+00:00",
+   "title": "ဘုရင့်နောင် - အကျယ်ဆုံး မြန်မာ လက်နက်နိုင်ငံရှင်၊ ကမ္ဘာ့အမွေအနှစ် ခေါင်းလောင်းစာ ရေးထိုးခဲ့သူ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cwyd4d1x4x8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-08-13T18:05:55+00:00",
+   "title": "စစ်ကိုင်း - စစ်ဘေးအပြင် အဆိုးဆုံးရေဘေးထပ်ကြုံနေရ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c07r0njm1x8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-08-13T18:05:55+00:00",
+   "title": "KIA စစ်ဗျူဟာအတွက် အရေးကြီးတဲ့ မိုးမိတ်ကို စစ်တပ်က ထိန်းချုပ်ဖို့ ကြိုးပမ်း",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cwye27y25ygo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-08-13T18:05:55+00:00",
+   "title": "အာဆီယံဘုံ ၅ ချက်ကို မလိုက်နာသရွေ့ မြန်မာကို အာဆီယံမှာ နေရာမပေးဖို့ APHR ပြော",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.co.uk/burmese/live/cwe8kp2glyr4t?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-08-13T18:05:55+00:00",
+   "title": "ကရင်မှာ DKBA ဘာကြောင့် အင်အားကြီးလာလဲ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cr7kv9zn940o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-08-13T18:05:55+00:00",
+   "title": "၂၀၂၆ မိုးကာလ - ရန်ကုန်မှာ ပြင်းထန်ဝမ်းပျက်ဝမ်းလျှောဘာကြောင့်ဖြစ်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c9w0e4kre4ro?at_medium=RSS&at_campaign=rss"
+  }
+ ]
+}
