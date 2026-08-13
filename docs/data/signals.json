@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-08-13T20:00:20+00:00",
+ "generated_at": "2026-08-13T20:30:26+00:00",
  "signals": [
+  {
+   "ts": "2026-08-13T20:30:24+00:00",
+   "title": "Westerner Behind the Wheel",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9XWjRCQWxyY3hzOEp6S1ZfUnpoRjNtajlTMmJwem9lNmNGdjllTlVxYVpLTmtYVGVSbFgxakVFZHpROHdGTHgwU0FZZXZKLTdNN2ZFcFlualZWR0Q1TXhiSmJ4Qnk5UFNSc0JkV3FBSUh3Zw?oc=5"
+  },
+  {
+   "ts": "2026-08-13T20:30:24+00:00",
+   "title": "Miss Grand Orlando Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rVkM1LThVZTdjSTdNU2NCZUJtSUllUFRKMm1Ra0MtcndKc1ppWDlxMmZHYXI0ajQ5ZmlJTHlqR0ZfeWs2UkdBYkEwWmJTSDVyTElkczh4RVFDaUQybHQ4?oc=5"
+  },
+  {
+   "ts": "2026-08-13T20:30:24+00:00",
+   "title": "Myanmar’s 10 Key Economic Moments of 2019",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZVBTMnBlZDBWLWpscUVGNmhmYVdVTVdrcDlPdVNzWmQ3cVQ3WU1uSkR1aTNEeFdHSFo5VHRPOXpraFczOU1pbmFEOURkYU5PRlhmT3Z6SzA4NFJxRE9sVVdPeDBqYjBJWXZlbDlka1NCWDRrSFJvcmJfRGp6bXcxNmVJWQ?oc=5"
+  },
   {
    "ts": "2026-08-13T19:38:37+00:00",
    "title": "Chairman of State Administration Council Commander-in-Chief of Defence Services Senior General Min Aung Hlaing inspects local training depot and Tatmadaw TV Broadcasting Unit (Taungnyo) in Taungnyo Station",
@@ -2119,27 +2140,6 @@
     }
    ],
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMmFER2V3RlpGRk5nLVVsTzB3OFhINnVSenliUnRYM2xrX09CUUFmVWhIZUhpNlVTa2lOUEU1SHNMZ1RjQ0JWMnlEc0ZtOUhabjdEVWVDWlFGRVNSQVMzcnV3d1lKY3FfWTB2c0w4TnlGMUhLQlJWMWFZVWhGbk4xQg?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:20+00:00",
-   "title": "U Soe Thet Naung appointed as Ambassador of Myanmar to Brunei Darussalam",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM0REcl9FakFSS3RxOUhOeHBNZHJRYjBaQ240aTlzaFlleVBXdzdfZE91cl9sa1JKTFBfSERDd3ZFODVPUHppTUV0R3R5NHJrWnNuNU9nSnZnNVlEN2lfbERLT0t6TFVnVWl5ZVJmb2x2bGRmTWxEQ2dtT3BYUmc0UDZJeHdOMER3UFNKLWQtUXBBQ3RCaWlmRVk0aElfUQ?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:20+00:00",
-   "title": "Appointment of Head of Service Organization",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5CTEg2VG9KckhheEU0R09NRUV5LTNQM1ZqbThPRm5CUDNHLUZmQl85Y092NURkRF9jSEZuNHNzYzBHcW9SMXltNHZwdEF3aVNGVTUxT0E2S2ZiTHdSUEpsN0VuVm1sQkhoUFlZRFhxQmtoWWE5ZVoxRE1n?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:20+00:00",
-   "title": "Myanmar Embassy releases a statement on new demand letters",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbXZoWm85WFpobkFYb2FQNkZIN3h3QWtfWlBLelBUUFo4WHRjbnRfMW1ZVy1jYW5CX3JqVlhHYlVzbFB6SE4yTEo2TXVzcWxMT1dhSkozQWVCWDdXNmhhX3M0U1YxU2JCdHdWYU9HSG83Q1FLY1Ezanh1d25RTTZDM3lOVm1md2NEdUtr?oc=5"
   }
  ]
 }
