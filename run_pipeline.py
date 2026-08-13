@@ -6,8 +6,9 @@ Each run: fetch feeds -> classify NEW articles with the free rules engine ->
 append signals to docs/data/signals.json (which the website reads) ->
 optionally post each signal to a Telegram channel.
 
-Discreet by design: no outlet names or article URLs in any public output,
-and only hashed fingerprints of seen articles are stored in the repo.
+Only hashed fingerprints of seen articles are stored in the repo. Outlet
+names and article URLs appear in public output only when SHOW_ALL_NEWS /
+INCLUDE_LINKS are enabled in settings.py.
 """
 
 import hashlib
@@ -28,6 +29,17 @@ SIGNALS_PATH = os.path.join(BASE, "docs", "data", "signals.json")
 BROWSER_AGENT = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
                  "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36")
 SEEN_PATH = os.path.join(BASE, "docs", "data", "seen.json")
+
+# feedparser sends only a User-Agent. Bot filters usually also inspect
+# Accept and Accept-Language, so fetch through requests with a fuller set
+# of headers and hand the bytes to feedparser afterwards.
+FEED_HEADERS = {
+    "User-Agent": BROWSER_AGENT,
+    "Accept": ("application/rss+xml, application/xml, text/xml, "
+               "application/atom+xml;q=0.9, */*;q=0.8"),
+    "Accept-Language": "en-US,en;q=0.9,my;q=0.8",
+    "Cache-Control": "no-cache",
+}
 
 MARKET_LABELS = {
     "gold":       ("💰", "ရွှေ / Gold"),
@@ -59,14 +71,50 @@ def fingerprint(article_id):
     return hashlib.sha256(article_id.encode("utf-8")).hexdigest()[:20]
 
 
+def fetch_feed(feed_url):
+    """
+    Return (entries, note). Never raises.
+
+    feedparser.parse() does NOT raise on HTTP errors -- a 403, a Cloudflare
+    challenge page or a 404 all return normally with entries == [] and bozo
+    set. A blocked feed was therefore indistinguishable from a feed with no
+    new articles, and failed silently. The note explains which it is.
+    """
+    try:
+        resp = requests.get(
+            feed_url, headers=FEED_HEADERS, timeout=25, allow_redirects=True
+        )
+    except Exception as e:
+        return [], f"request failed: {type(e).__name__}"
+
+    if resp.status_code != 200:
+        return [], f"HTTP {resp.status_code}"
+
+    body = resp.content
+    ctype = (resp.headers.get("content-type") or "").lower()
+
+    parsed = feedparser.parse(body)
+    entries = parsed.entries or []
+
+    if entries:
+        return entries, f"{len(entries)} entries"
+
+    # Empty: work out why, so the log is actionable
+    head = body[:200].lstrip().lower()
+    if "html" in ctype or head.startswith(b"<!doctype html") or head.startswith(b"<html"):
+        return [], "blocked -- served HTML instead of a feed"
+    if getattr(parsed, "bozo", 0):
+        exc = getattr(parsed, "bozo_exception", None)
+        return [], f"parse error: {type(exc).__name__ if exc else 'unknown'}"
+    return [], "0 entries"
+
+
 def fetch_new(seen):
     for source, feed_url in FEEDS.items():
-        try:
-            parsed = feedparser.parse(feed_url, agent=BROWSER_AGENT)
-        except Exception as e:
-            print(f"[warn] {source}: {e}", file=sys.stderr)
-            continue
-        for entry in parsed.entries:
+        entries, note = fetch_feed(feed_url)
+        print(f"[feed] {source:20s} {note}", file=sys.stderr)
+
+        for entry in entries:
             url = entry.get("link", "")
             article_id = entry.get("id") or url
             if not article_id:
