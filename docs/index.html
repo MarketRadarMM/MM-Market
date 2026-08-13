@@ -19,6 +19,7 @@
     --bull:#6fae7e;
     --bear:#cf6a58;
     --watch:#c9b06a;
+    --exch:#8fb0a0;         /* exchange tier */
     --line:rgba(210,162,76,.28);
   }
   *{box-sizing:border-box}
@@ -37,8 +38,53 @@
   .sub{margin:2px 0 0;font-size:16px;font-weight:500}
   .updated{color:var(--muted);font-size:12.5px;margin-top:10px}
 
-  /* signature: the gold-shop board */
-  .board{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin:20px 0 26px}
+  /* ---- tabs ---- */
+  .tabs{display:flex;gap:8px;margin:18px 0 20px;border-bottom:1px solid var(--line)}
+  .tab{flex:1;background:none;border:0;border-bottom:2px solid transparent;
+       color:var(--muted);font:inherit;font-size:14px;padding:9px 4px;cursor:pointer}
+  .tab.on{color:var(--gold);border-bottom-color:var(--gold);font-weight:700}
+  .tab:focus-visible{outline:2px solid var(--gold);outline-offset:-2px}
+  .panel[hidden]{display:none}
+
+  /* ---- source tiers ---- */
+  .tier{display:inline-block;padding:1px 8px;border-radius:99px;
+        font-size:11px;border:1px solid;vertical-align:middle}
+  .tier.official {color:var(--gold);   border-color:var(--gold)}
+  .tier.exchange {color:var(--exch);   border-color:var(--exch)}
+  .tier.community{color:var(--watch);  border-color:var(--watch)}
+
+  .group{margin:0 0 26px}
+  .group-head{display:flex;align-items:baseline;gap:8px;flex-wrap:wrap;
+              margin:0 0 9px;padding-bottom:6px;border-bottom:1px solid rgba(210,162,76,.14)}
+  .group-head h2{font-size:15px;margin:0;font-weight:700;color:var(--parchment)}
+  .group-note{font-size:11.5px;color:var(--muted);margin:6px 0 0;line-height:1.6}
+
+  /* ---- price tiles ---- */
+  .prices{display:grid;grid-template-columns:repeat(auto-fit,minmax(96px,1fr));gap:8px}
+  .px{background:var(--lacquer-2);border:1px solid var(--line);border-radius:6px;padding:9px 6px;text-align:center}
+  .px .k{display:block;font-size:11.5px;color:var(--muted)}
+  .px .v{display:block;font-size:15px;font-weight:700;margin-top:3px}
+  .px .u{display:block;font-size:10.5px;color:var(--gold-dim)}
+
+  /* ---- charts ---- */
+  .chart{background:var(--lacquer-2);border:1px solid rgba(210,162,76,.16);
+         border-radius:6px;padding:12px 12px 8px;margin:0 0 10px}
+  .chart-head{display:flex;justify-content:space-between;align-items:baseline;gap:10px;margin-bottom:2px}
+  .chart-title{font-size:13.5px;font-weight:700}
+  .chart-now{font-size:14px;font-weight:700}
+  .chart-chg{font-size:12px;margin-left:6px}
+  .chg-up{color:var(--bull)} .chg-dn{color:var(--bear)} .chg-flat{color:var(--muted)}
+  .chart svg{display:block;width:100%;height:auto;margin-top:4px}
+  .chart-legend{display:flex;gap:12px;flex-wrap:wrap;font-size:11px;color:var(--muted);margin-top:4px}
+  .chart-legend i{display:inline-block;width:10px;height:2px;vertical-align:middle;margin-right:4px}
+  .chart-readout{font-size:11.5px;color:var(--muted);min-height:1.4em;margin-top:2px}
+  .ranges{display:flex;gap:6px;justify-content:center;margin:0 0 14px}
+  .range{background:none;border:1px solid var(--line);border-radius:99px;color:var(--muted);
+         font:inherit;font-size:11.5px;padding:3px 12px;cursor:pointer}
+  .range.on{color:var(--gold);border-color:var(--gold)}
+
+  /* ---- news board ---- */
+  .board{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin:0 0 20px}
   .cell{
     background:var(--lacquer-2);border:1px solid var(--line);border-radius:6px;
     padding:10px 6px;text-align:center;cursor:pointer;color:var(--parchment);
@@ -68,28 +114,17 @@
   .badge.bearish{color:var(--bear);border-color:var(--bear)}
   .badge.neutral{color:var(--watch);border-color:var(--watch)}
   .badge.none{color:var(--muted);border-color:rgba(163,147,124,.5);font-weight:500}
+  .headline{font-weight:500;font-size:15.5px;margin:4px 0 2px}
   .headline a{color:var(--parchment);text-decoration:none;border-bottom:1px dotted var(--gold-dim)}
   .headline a:hover{color:var(--gold)}
   .src{color:var(--gold-dim);font-size:11.5px;margin-left:8px}
+  .why{color:var(--muted);font-size:13px;margin:0}
   .toggle{display:block;margin:0 auto 16px;background:none;border:1px solid var(--line);
           border-radius:99px;color:var(--muted);font:inherit;font-size:12.5px;
           padding:5px 16px;cursor:pointer}
   .toggle.on{color:var(--gold);border-color:var(--gold)}
-  .headline{font-weight:500;font-size:15.5px;margin:4px 0 2px}
-  .why{color:var(--muted);font-size:13px;margin:0}
 
-  /* price strip */
-  .prices{display:grid;grid-template-columns:repeat(auto-fit,minmax(96px,1fr));gap:8px;margin:0 0 12px}
-  .px{background:var(--lacquer-2);border:1px solid var(--line);border-radius:6px;padding:9px 6px;text-align:center}
-  .px .k{display:block;font-size:11.5px;color:var(--muted)}
-  .px .v{display:block;font-size:15px;font-weight:700;margin-top:3px}
-  .px .u{display:block;font-size:10.5px;color:var(--gold-dim)}
-  .px-meta{text-align:center;font-size:11.5px;color:var(--muted);margin:0 0 22px;line-height:1.7}
-  .px-meta a{color:var(--gold-dim)}
-  .px-badge{display:inline-block;padding:2px 9px;border-radius:99px;font-size:11.5px;border:1px solid var(--watch);color:var(--watch)}
-  .px-badge.stale{border-color:rgba(163,147,124,.5);color:var(--muted)}
-  .px-flag{color:var(--bear);font-size:11.5px;margin-top:4px}
-  .empty{color:var(--muted);text-align:center;padding:40px 10px}
+  .empty{color:var(--muted);text-align:center;padding:34px 10px;font-size:13.5px}
   footer{margin-top:36px;padding-top:16px;border-top:1px solid var(--line);
          color:var(--muted);font-size:12px;text-align:center;line-height:1.7}
 </style>
@@ -103,11 +138,25 @@
     <p class="updated" id="updated">တင်နေသည်…</p>
   </header>
 
-  <div class="board" id="board" role="group" aria-label="ဈေးကွက်ရွေးရန်"></div>
-  <div class="prices" id="prices"></div>
-  <p class="px-meta" id="prices-meta"></p>
-  <button class="toggle" id="toggle" onclick="SIGNALS_ONLY=!SIGNALS_ONLY;renderToggle();renderFeed()"></button>
-  <div id="feed"></div>
+  <div class="tabs" role="tablist">
+    <button class="tab on" id="tab-market" role="tab" aria-selected="true">ဈေးကွက်</button>
+    <button class="tab"    id="tab-news"   role="tab" aria-selected="false">သတင်း</button>
+  </div>
+
+  <!-- ================= MARKET ================= -->
+  <section class="panel" id="panel-market" role="tabpanel">
+    <div id="tiles"></div>
+
+    <div class="ranges" id="ranges"></div>
+    <div id="charts"><p class="empty">ဂရပ်များ တင်နေသည်…</p></div>
+  </section>
+
+  <!-- ================= NEWS =================== -->
+  <section class="panel" id="panel-news" role="tabpanel" hidden>
+    <div class="board" id="board" role="group" aria-label="ဈေးကွက်ရွေးရန်"></div>
+    <button class="toggle" id="toggle"></button>
+    <div id="feed"></div>
+  </section>
 
   <footer>
     ဤစနစ်သည် သတင်းများကို အလိုအလျောက် ဖတ်ရှုပြီး ဈေးကွက်သက်ရောက်မှုကို ခန့်မှန်းပေးသည့် စမ်းသပ်ကိရိယာသာ ဖြစ်သည်။ မှားယွင်းနိုင်သည်။ ရင်းနှီးမြှုပ်နှံမှု အကြံဉာဏ် မဟုတ်ပါ။<br>
@@ -116,16 +165,242 @@
 </div>
 
 <script>
+/* ============================ shared ============================ */
+function escapeHtml(t){ const d=document.createElement("div"); d.textContent=t||""; return d.innerHTML; }
+function fmt(n){ return typeof n==="number" ? n.toLocaleString("en-US") : null; }
+function timeAgo(iso){
+  const m = Math.round((Date.now() - new Date(iso)) / 60000);
+  if (m < 60)   return m + " မိနစ်အကြာ";
+  if (m < 1440) return Math.round(m/60) + " နာရီအကြာ";
+  return Math.round(m/1440) + " ရက်အကြာ";
+}
+
+const TIERS = {
+  official:  {my:"တရားဝင် (ဗဟိုဘဏ်)", cls:"official"},
+  exchange:  {my:"စတော့အိတ်ချိန်း",     cls:"exchange"},
+  community: {my:"လူမှုကွန်ရက်",        cls:"community"}
+};
+
+/* ============================ tabs ============================== */
+document.getElementById("tab-market").onclick = () => switchTab("market");
+document.getElementById("tab-news").onclick   = () => switchTab("news");
+function switchTab(which){
+  for (const k of ["market","news"]){
+    const on = k === which;
+    const t = document.getElementById("tab-"+k);
+    t.classList.toggle("on", on);
+    t.setAttribute("aria-selected", on ? "true" : "false");
+    document.getElementById("panel-"+k).hidden = !on;
+  }
+}
+
+/* ============================ charts ============================ */
+/* Hand-drawn inline SVG: no library, no CDN, no build step. */
+
+let SERIES = null, MARKET = null, RANGE = 90;
+const RANGES = [[30,"၃၀ ရက်"],[90,"၉၀ ရက်"],[365,"၁ နှစ်"],[0,"အားလုံး"]];
+
+function cutoff(days){
+  if (!days) return "0000-00-00";
+  const d = new Date(Date.now() - days*86400000);
+  return d.toISOString().slice(0,10);
+}
+
+function pick(rows, key, days){
+  const lo = cutoff(days);
+  const out = [];
+  for (const r of rows || []){
+    if (!r.date || r.date < lo) continue;
+    const v = r[key];
+    if (typeof v === "number" && isFinite(v)) out.push({d:r.date, v:v});
+  }
+  return out;
+}
+
+/* lines: [{label, color, pts:[{d,v}]}] */
+function drawChart(title, tier, unit, lines, note){
+  const all = lines.flatMap(l => l.pts);
+  if (all.length < 2) return "";
+
+  const W = 300, H = 84, PL = 4, PR = 4, PT = 6, PB = 6;
+  const dates = [...new Set(all.map(p => p.d))].sort();
+  const xOf = d => PL + (dates.indexOf(d) / Math.max(1, dates.length-1)) * (W-PL-PR);
+  let lo = Math.min(...all.map(p=>p.v)), hi = Math.max(...all.map(p=>p.v));
+  if (lo === hi){ lo -= 1; hi += 1; }
+  const pad = (hi-lo)*0.12; lo -= pad; hi += pad;
+  const yOf = v => PT + (1 - (v-lo)/(hi-lo)) * (H-PT-PB);
+
+  const paths = lines.map(l => {
+    const d = l.pts.map((p,i) => (i?"L":"M") + xOf(p.d).toFixed(1) + " " + yOf(p.v).toFixed(1)).join(" ");
+    return `<path d="${d}" fill="none" stroke="${l.color}" stroke-width="1.6"
+             stroke-linejoin="round" stroke-linecap="round"/>`;
+  }).join("");
+
+  const main = lines[0].pts;
+  const first = main[0].v, last = main[main.length-1].v;
+  const chg = first ? ((last-first)/first*100) : 0;
+  const cls = chg > 0.05 ? "chg-up" : (chg < -0.05 ? "chg-dn" : "chg-flat");
+  const arrow = chg > 0.05 ? "▲" : (chg < -0.05 ? "▼" : "—");
+
+  const legend = lines.length > 1
+    ? `<div class="chart-legend">` + lines.map(l =>
+        `<span><i style="background:${l.color}"></i>${escapeHtml(l.label)}</span>`).join("") + `</div>`
+    : "";
+
+  const t = TIERS[tier] || TIERS.community;
+  const id = "c" + Math.random().toString(36).slice(2,8);
+
+  return `<div class="chart">
+    <div class="chart-head">
+      <span class="chart-title">${escapeHtml(title)} <span class="tier ${t.cls}">${t.my}</span></span>
+      <span class="chart-now">${fmt(Math.round(last*100)/100)}<span class="chart-chg ${cls}">${arrow} ${Math.abs(chg).toFixed(1)}%</span></span>
+    </div>
+    <svg viewBox="0 0 ${W} ${H}" preserveAspectRatio="none" data-chart="${id}"
+         role="img" aria-label="${escapeHtml(title)}">${paths}</svg>
+    ${legend}
+    <div class="chart-readout" id="${id}">${escapeHtml(unit)} · ${main[0].d} → ${main[main.length-1].d}</div>
+    ${note ? `<div class="group-note">${escapeHtml(note)}</div>` : ""}
+  </div>`;
+}
+
+function renderCharts(){
+  const box = document.getElementById("charts");
+  if (!SERIES){ box.innerHTML = '<p class="empty">ဂရပ်ဒေတာ မရရှိသေးပါ</p>'; return; }
+
+  const street  = SERIES.street  || [];
+  const myanpix = SERIES.myanpix || [];
+  const out = [];
+
+  /* --- YSX --- */
+  out.push(drawChart("MYANPIX · ရန်ကုန်စတော့အိတ်ချိန်း", "exchange", "အမှတ်",
+    [{label:"MYANPIX", color:"#8fb0a0", pts:pick(myanpix,"close",RANGE)}]));
+
+  /* --- gold --- */
+  out.push(drawChart("ရွှေ · ကျပ်/ကျပ်သား", "community", "ကျပ်/ကျပ်သား", [
+    {label:"၁၆ ပဲရည်", color:"#d2a24c", pts:pick(street,"gold_16pe",RANGE)},
+    {label:"၁၅ ပဲရည်", color:"#8a6c34", pts:pick(street,"gold_15pe",RANGE)}
+  ]));
+
+  /* --- FX --- */
+  const cbmUsd = MARKET && MARKET.cbm && MARKET.cbm.rates ? MARKET.cbm.rates.USD : null;
+  out.push(drawChart("ဒေါ်လာ (USD) · ကျပ်", "community", "ကျပ်",
+    [{label:"လမ်းဘေးဈေး", color:"#d2a24c", pts:pick(street,"USD",RANGE)}],
+    cbmUsd ? `ဗဟိုဘဏ် တရားဝင်နှုန်း — ${fmt(cbmUsd)} ကျပ် (ယနေ့)` : null));
+
+  out.push(drawChart("ဘတ် (THB) · ကျပ်", "community", "ကျပ်",
+    [{label:"THB", color:"#d2a24c", pts:pick(street,"THB",RANGE)}]));
+
+  out.push(drawChart("ယွမ် (CNY) · ကျပ်", "community", "ကျပ်",
+    [{label:"CNY", color:"#d2a24c", pts:pick(street,"CNY",RANGE)}]));
+
+  /* --- fuel --- */
+  out.push(drawChart("စက်သုံးဆီ · ကျပ်/လီတာ", "community", "ကျပ်/လီတာ", [
+    {label:"ရန်ကုန် ၉၂", color:"#d2a24c", pts:pick(street,"YGN_92",RANGE)},
+    {label:"ရန်ကုန် ၉၅", color:"#cf6a58", pts:pick(street,"YGN_95",RANGE)},
+    {label:"မန္တလေး ၉၂", color:"#6fae7e", pts:pick(street,"MDY_92",RANGE)},
+    {label:"မန္တလေး ၉၅", color:"#8fb0a0", pts:pick(street,"MDY_95",RANGE)}
+  ]));
+
+  const html = out.filter(Boolean).join("");
+  box.innerHTML = html || '<p class="empty">ဤကာလအတွင်း ဒေတာ မလုံလောက်ပါ</p>';
+}
+
+function renderRanges(){
+  const r = document.getElementById("ranges");
+  r.innerHTML = RANGES.map(([d,label]) =>
+    `<button class="range${d===RANGE?" on":""}" data-d="${d}">${label}</button>`).join("");
+  r.querySelectorAll(".range").forEach(b => {
+    b.onclick = () => { RANGE = +b.dataset.d; renderRanges(); renderCharts(); };
+  });
+}
+
+/* ===================== current price tiles ====================== */
+function tile(k, v, u){
+  const s = fmt(v); if (s === null) return "";
+  return `<div class="px"><span class="k">${escapeHtml(k)}</span>`+
+         `<span class="v">${s}</span><span class="u">${escapeHtml(u)}</span></div>`;
+}
+
+function group(title, tier, tiles, note){
+  const body = tiles.filter(Boolean).join("");
+  if (!body) return "";
+  const t = TIERS[tier] || TIERS.community;
+  return `<div class="group">
+    <div class="group-head"><h2>${escapeHtml(title)}</h2>
+      <span class="tier ${t.cls}">${t.my}</span></div>
+    <div class="prices">${body}</div>
+    ${note ? `<p class="group-note">${note}</p>` : ""}
+  </div>`;
+}
+
+function renderTiles(street, market){
+  const box = document.getElementById("tiles");
+  const out = [];
+
+  /* --- community: street prices --- */
+  if (street && street.values){
+    const g = street.values.gold || {}, fx = street.values.fx || {}, fu = street.values.fuel || {};
+    const L = street.labels || {};
+    const stale = street.status === "stale";
+    const note =
+      (street.post_date ? `စျေးနှုန်းရက်စွဲ — ${escapeHtml(street.post_date)}` : "") +
+      (stale ? " · ဟောင်းနေပါပြီ" : "") +
+      (street.source_disclaimer_my ? `<br>${escapeHtml(street.source_disclaimer_my)}` : "");
+
+    out.push(group("ရွှေ", "community", [
+      tile((L.gold_16pe&&L.gold_16pe.my)||"၁၆ ပဲရည်", g.gold_16pe, "ကျပ်/ကျပ်သား"),
+      tile((L.gold_15pe&&L.gold_15pe.my)||"၁၅ ပဲရည်", g.gold_15pe, "ကျပ်/ကျပ်သား")
+    ], note));
+
+    out.push(group("ငွေလဲနှုန်း — လမ်းဘေးဈေး", "community", [
+      tile("ဒေါ်လာ", fx.USD, "ကျပ်"), tile("ဘတ်", fx.THB, "ကျပ်"),
+      tile("ယွမ်", fx.CNY, "ကျပ်"),  tile("စင်္ကာပူ", fx.SGD, "ကျပ်")
+    ]));
+
+    out.push(group("စက်သုံးဆီ", "community", [
+      tile("ရန်ကုန် ၉၂", fu.YGN_92, "ကျပ်/လီတာ"), tile("ရန်ကုန် ၉၅", fu.YGN_95, "ကျပ်/လီတာ"),
+      tile("မန္တလေး ၉၂", fu.MDY_92, "ကျပ်/လီတာ"), tile("မန္တလေး ၉၅", fu.MDY_95, "ကျပ်/လီတာ")
+    ]));
+  }
+
+  /* --- official: CBM --- */
+  if (market && market.cbm && market.cbm.status === "ok"){
+    const r = market.cbm.rates || {};
+    const d = market.derived || {};
+    const spread = d.fx_spread
+      ? `လမ်းဘေးဈေးသည် တရားဝင်နှုန်းထက် <strong>${d.fx_spread.premium_pct}%</strong> ပိုမြင့်နေသည်။`
+      : "";
+    out.push(group("ငွေလဲနှုန်း — တရားဝင်", "official", [
+      tile("ဒေါ်လာ", r.USD, "ကျပ်"), tile("ဘတ်", r.THB, "ကျပ်"),
+      tile("ယွမ်", r.CNY, "ကျပ်"),  tile("စင်္ကာပူ", r.SGD, "ကျပ်")
+    ], (market.cbm.as_of ? `ရက်စွဲ — ${escapeHtml(market.cbm.as_of)}<br>` : "") + spread));
+  }
+
+  /* --- exchange: YSX --- */
+  if (market && market.ysx && market.ysx.status === "ok"){
+    const y = market.ysx;
+    out.push(group("ရန်ကုန်စတော့အိတ်ချိန်း", "exchange", [
+      tile("MYANPIX", y.close, "အမှတ်"),
+      tile("ပြောင်းလဲမှု", y.change_pct, "%"),
+      tile("ကုမ္ပဏီ", y.listed, "ခု")
+    ], y.as_of ? `ရက်စွဲ — ${escapeHtml(y.as_of)}` : null));
+  }
+
+  box.innerHTML = out.filter(Boolean).join("") ||
+    '<p class="empty">ဈေးနှုန်းများ မရရှိသေးပါ</p>';
+}
+
+/* ============================= news ============================= */
 const MARKETS = {
-  gold:       ["💰","ရွှေ"],
-  fx_kyat:    ["💵","ကျပ်/ဒေါ်လာ"],
-  rice:       ["🌾","ဆန်"],
-  pulses:     ["🌱","ပဲ"],
-  edible_oil: ["🛢","စားသုံးဆီ"],
-  fuel:       ["⛽","စက်သုံးဆီ"]
+  gold:["💰","ရွှေ"], fx_kyat:["💵","ကျပ်/ဒေါ်လာ"], rice:["🌾","ဆန်"],
+  pulses:["🌱","ပဲ"], edible_oil:["🛢","စားသုံးဆီ"], fuel:["⛽","စက်သုံးဆီ"]
 };
 const DIRS = {bullish:"တက်ရိပ် ▲", bearish:"ကျရိပ် ▼", neutral:"စောင့်ကြည့် ◆", none:"—"};
 let DATA = [], FILTER = null, SIGNALS_ONLY = false;
+
+document.getElementById("toggle").onclick = () => {
+  SIGNALS_ONLY = !SIGNALS_ONLY; renderToggle(); renderFeed();
+};
 
 function renderToggle(){
   const t = document.getElementById("toggle");
@@ -134,19 +409,12 @@ function renderToggle(){
                                : "သတင်းအားလုံး ပြထားသည် — အချက်ပြများသာ ကြည့်ရန် နှိပ်ပါ";
 }
 
-function timeAgo(iso){
-  const m = Math.round((Date.now() - new Date(iso)) / 60000);
-  if (m < 60)   return m + " မိနစ်အကြာ";
-  if (m < 1440) return Math.round(m/60) + " နာရီအကြာ";
-  return Math.round(m/1440) + " ရက်အကြာ";
-}
-
 function latestDir(mk){
   for (const s of DATA){
-    const hit = s.markets.find(x => x.market === mk && x.direction !== "neutral");
+    const hit = s.markets.find(x => x.market===mk && x.direction!=="neutral");
     if (hit) return hit.direction;
   }
-  for (const s of DATA) if (s.markets.some(x => x.market === mk)) return "neutral";
+  for (const s of DATA) if (s.markets.some(x => x.market===mk)) return "neutral";
   return "none";
 }
 
@@ -155,9 +423,9 @@ function renderBoard(){
   for (const [mk,[em,label]] of Object.entries(MARKETS)){
     const d = latestDir(mk);
     const c = document.createElement("button");
-    c.className = "cell" + (FILTER === mk ? " active" : "");
+    c.className = "cell" + (FILTER===mk ? " active" : "");
     c.innerHTML = `<span class="em">${em}</span>${label}<span class="dir ${d}">${DIRS[d]}</span>`;
-    c.onclick = () => { FILTER = (FILTER === mk ? null : mk); renderBoard(); renderFeed(); };
+    c.onclick = () => { FILTER = (FILTER===mk ? null : mk); renderBoard(); renderFeed(); };
     b.appendChild(c);
   }
 }
@@ -166,9 +434,9 @@ function renderFeed(){
   const f = document.getElementById("feed"); f.innerHTML = "";
   let rows = DATA;
   if (SIGNALS_ONLY || FILTER) rows = rows.filter(s => s.markets.length > 0);
-  if (FILTER) rows = rows.filter(s => s.markets.some(m => m.market === FILTER));
+  if (FILTER) rows = rows.filter(s => s.markets.some(m => m.market===FILTER));
   if (!rows.length){
-    f.innerHTML = '<p class="empty">ယခုအချိန်တွင် အချက်ပြမှု မရှိသေးပါ။ စနစ်သည် မိနစ် ၃၀ တစ်ကြိမ် သတင်းစစ်ဆေးနေပါသည်။</p>';
+    f.innerHTML = '<p class="empty">ယခုအချိန်တွင် အချက်ပြမှု မရှိသေးပါ။</p>';
     return;
   }
   for (const s of rows.slice(0,120)){
@@ -195,60 +463,35 @@ function renderFeed(){
   }
 }
 
-function escapeHtml(t){ const d = document.createElement("div"); d.textContent = t || ""; return d.innerHTML; }
-  /* ---- price strip (Telegram-sourced, unofficial) ---- */
-function renderPrices(d){
-  const box  = document.getElementById("prices");
-  const meta = document.getElementById("prices-meta");
-  const v = d.values || {}, gold = v.gold || {}, fx = v.fx || {}, fuel = v.fuel || {};
-  const L = d.labels || {};
-  const fmt = n => typeof n === "number" ? n.toLocaleString("en-US") : null;
+/* ============================= load ============================= */
+const v = "?v=" + Date.now();
+let street = null;
 
-  const tiles = [];
-  const add = (k, val, u) => {
-    const s = fmt(val); if (s === null) return;
-    tiles.push(`<div class="px"><span class="k">${escapeHtml(k)}</span>`+
-               `<span class="v">${s}</span><span class="u">${escapeHtml(u)}</span></div>`);
-  };
+Promise.allSettled([
+  fetch("data/prices_latest.json"+v).then(r=>r.json()),
+  fetch("data/market_latest.json"+v).then(r=>r.json()),
+  fetch("data/series.json"+v).then(r=>r.json())
+]).then(([p,m,s]) => {
+  street = p.status==="fulfilled" ? p.value : null;
+  MARKET = m.status==="fulfilled" ? m.value : null;
+  SERIES = s.status==="fulfilled" ? s.value : null;
+  renderTiles(street, MARKET);
+  renderRanges();
+  renderCharts();
+});
 
-  add((L.gold_16pe && L.gold_16pe.my) || "၁၆ ပဲရည်", gold.gold_16pe, "ကျပ်/ကျပ်သား");
-  add((L.gold_15pe && L.gold_15pe.my) || "၁၅ ပဲရည်", gold.gold_15pe, "ကျပ်/ကျပ်သား");
-  [["USD","ဒေါ်လာ"],["THB","ဘတ်"],["SGD","စင်္ကာပူ"],["CNY","ယွမ်"]]
-    .forEach(([c,my]) => add(my, fx[c], "ကျပ်"));
-  [["YGN_92","ရန်ကုန် ၉၂"],["YGN_95","ရန်ကုန် ၉၅"],
-   ["MDY_92","မန္တလေး ၉၂"],["MDY_95","မန္တလေး ၉၅"]]
-    .forEach(([k,my]) => add(my, fuel[k], "ကျပ်/လီတာ"));
-
-  if (!tiles.length){ meta.textContent = "စျေးနှုန်းများ မရရှိသေးပါ"; return; }
-  box.innerHTML = tiles.join("");
-
-  const stale = d.status === "stale";
-  
-  meta.innerHTML =
-    `<span class="px-badge${stale ? " stale" : ""}">`+
-    `${stale ? "ဟောင်းနေပါပြီ" : "အတည်မပြုရသေး"}</span><br>`+
-    (d.post_date ? `စျေးနှုန်းရက်စွဲ — ${escapeHtml(d.post_date)}<br>` : "")+
-    `ရင်းမြစ် — ${escapeHtml(d.source_label_my || "လူမှုကွန်ရက်")}<br>`+
-    escapeHtml(d.source_disclaimer_my || "");
-}
-
-fetch("data/prices_latest.json?v=" + Date.now())
-  .then(r => r.json())
-  .then(renderPrices)
-  .catch(() => {
-    document.getElementById("prices-meta").textContent = "စျေးနှုန်းများ မရရှိသေးပါ";
-  });
-
-fetch("data/signals.json?v=" + Date.now())
+fetch("data/signals.json"+v)
   .then(r => r.json())
   .then(j => {
     DATA = j.signals || [];
     document.getElementById("updated").textContent =
-      j.generated_at ? "နောက်ဆုံးစစ်ဆေးချိန် — " + timeAgo(j.generated_at) : "စတင်လည်ပတ်ရန် ပြင်ဆင်နေဆဲ";
+      j.generated_at ? "နောက်ဆုံးစစ်ဆေးချိန် — " + timeAgo(j.generated_at)
+                     : "စတင်လည်ပတ်ရန် ပြင်ဆင်နေဆဲ";
     renderToggle(); renderBoard(); renderFeed();
   })
   .catch(() => {
     document.getElementById("updated").textContent = "ဒေတာ မရရှိသေးပါ";
+    renderToggle(); renderBoard(); renderFeed();
   });
 </script>
 </body>
