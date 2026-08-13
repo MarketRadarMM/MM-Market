@@ -1,6 +1,969 @@
 {
- "generated_at": "2026-08-13T18:30:46+00:00",
+ "generated_at": "2026-08-13T18:41:45+00:00",
  "signals": [
+  {
+   "ts": "2026-08-13T18:41:45+00:00",
+   "title": "No vigils: Hong Kong’s Victoria Park silent on Tiananmen crackdown anniversary",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/china/2026/06/03/hong-kong-victoria-park-tiananmen-square-china/"
+  },
+  {
+   "ts": "2026-08-13T18:41:45+00:00",
+   "title": "Satellite pics reveal Vietnamese construction boom in disputed Spratly chain",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/southchinasea/2026/06/08/vietnam-south-china-sea-spratly-island-construction/"
+  },
+  {
+   "ts": "2026-08-13T18:41:45+00:00",
+   "title": "Dalai Lama undergoes left knee surgery in New Delhi",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/tibet/2026/06/08/dalai-lama-knee-surgery/"
+  },
+  {
+   "ts": "2026-08-13T18:41:45+00:00",
+   "title": "Report: China’s maritime outposts could distract Taiwan’s allies if Beijing invades",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/southchinasea/2026/06/08/south-china-sea-outpost-taiwan/"
+  },
+  {
+   "ts": "2026-08-13T18:41:45+00:00",
+   "title": "Uyghur human rights activist condemns death sentences in Bangkok bombing",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/uyghur/2026/06/11/uyghur-thailand-bombing-verdict/"
+  },
+  {
+   "ts": "2026-08-13T18:41:45+00:00",
+   "title": "Satellite images suggest North Korea is upgrading ports for new, larger destroyers",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/korea/2026/06/16/north-korea-shipyard-chongjin-nampo/"
+  },
+  {
+   "ts": "2026-08-13T18:41:45+00:00",
+   "title": "Turtle power: how China uses scientific research to try to bolster territorial claims",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/southchinasea/2026/06/24/china-philippines-scarborough-shoal-turtles/"
+  },
+  {
+   "ts": "2026-08-13T18:41:45+00:00",
+   "title": "Taiwan’s robodogs signal military shift to unmanned systems in rivalry with China",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/southchinasea/2026/06/25/robot-dog-taiwan-south-china-sea/"
+  },
+  {
+   "ts": "2026-08-13T18:41:45+00:00",
+   "title": "Border cities bright at night as North Korea goes solar",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/korea/2026/06/27/north-korea-solar-plant-boom/"
+  },
+  {
+   "ts": "2026-08-13T18:41:45+00:00",
+   "title": "PNG received millions after Cyclone Maila, but some residents still wait for relief",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/pacific/2026/07/02/china-papua-new-guinea-cyclone-relief/"
+  },
+  {
+   "ts": "2026-08-13T18:41:45+00:00",
+   "title": "U.S. still China’s main rival despite report on Japan and Philippines’ capabilities",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/southchinasea/2026/07/03/china-japan-philippines-south-china-sea/"
+  },
+  {
+   "ts": "2026-08-13T18:41:45+00:00",
+   "title": "Tibetan activist dies after setting himself on fire outside UN headquarters",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/tibet/2026/07/03/tibet-united-nations-self-immolation-china/"
+  },
+  {
+   "ts": "2026-08-13T18:41:45+00:00",
+   "title": "China’s Pacific missile test sends message to U.S. allies, analysts say",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/china/2026/07/07/china-missile-test-pacific-fiji-australia/"
+  },
+  {
+   "ts": "2026-08-13T18:41:45+00:00",
+   "title": "Myanmar removes at least 15 statues of national hero Gen. Aung San nationwide",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/myanmar/2026/07/10/aung-san-statue-removed-burma-suu-kyi-father/"
+  },
+  {
+   "ts": "2026-08-13T18:41:45+00:00",
+   "title": "Australia-Fiji pact signals Canberra-led Pacific security posture",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/pacific/2026/07/10/fiji-australia-ocean-of-peace-alliance/"
+  },
+  {
+   "ts": "2026-08-13T18:41:45+00:00",
+   "title": "Philippines marks 10 years since historic South China Sea court ruling",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/southchinasea/2026/07/11/philippines-china-disputed-sea-west/"
+  },
+  {
+   "ts": "2026-08-13T18:41:44+00:00",
+   "title": "China’s sanctions on Philippine defense chief put Japan ties in spotlight",
+   "source": "RFA (EN)",
+   "markets": [
+    {
+     "market": "fx_kyat",
+     "direction": "bearish",
+     "confidence": 0.65,
+     "rationale": "New sanctions pressure the kyat"
+    },
+    {
+     "market": "gold",
+     "direction": "bullish",
+     "confidence": 0.65,
+     "rationale": "Kyat pressure drives savings into gold"
+    }
+   ],
+   "url": "https://rfa.org/english/southchinasea/2026/07/14/philippines-teodoro-china-sanctions-japan/"
+  },
+  {
+   "ts": "2026-08-13T18:41:44+00:00",
+   "title": "North Korean buildings near DMZ could be rocket infrastructure, experts say",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/korea/2026/07/16/north-korea-rocket-shelter-buildings/"
+  },
+  {
+   "ts": "2026-08-13T18:41:44+00:00",
+   "title": "Chinese police arrest Uyghur sisters and mother in Urumqi for sending goods to Turkey",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/uyghur/2026/07/17/urumqi-xinjiang-china-police-turkey-arrest-mother-sisters/"
+  },
+  {
+   "ts": "2026-08-13T18:41:44+00:00",
+   "title": "New bridge between North Korea and China could open soon – 12 years after completion",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/korea/2026/07/21/north-korea-china-new-yalu-bridge/"
+  },
+  {
+   "ts": "2026-08-13T18:41:44+00:00",
+   "title": "Exclusive: Kim Aris warns ASEAN against legitimizing Myanmar military government",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/myanmar/2026/07/22/aung-san-suu-kyi-kim-aris-burma/"
+  },
+  {
+   "ts": "2026-08-13T18:41:44+00:00",
+   "title": "‘Quantum entanglement’: Love song asserts China’s South China Sea claims",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/southchinasea/2026/07/22/south-china-sea-music-video-song/"
+  },
+  {
+   "ts": "2026-08-13T18:41:44+00:00",
+   "title": "Explained: China’s ‘ethnic unity and progress promotion’ law",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/tibet/2026/07/24/explainer-china-ethnic-unity-law-tibet-uyghur/"
+  },
+  {
+   "ts": "2026-08-13T18:41:44+00:00",
+   "title": "Taiwan tests economic leverage after Papua New Guinea closes representative office",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/pacific/2026/07/29/taiwan-png-lng-trade-office-closure/"
+  },
+  {
+   "ts": "2026-08-13T18:41:44+00:00",
+   "title": "Solomon Islands signs security agreement with US, reaffirms neutrality",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/pacific/2026/08/01/solomon-islands-security-agreement-usa/"
+  },
+  {
+   "ts": "2026-08-13T18:41:44+00:00",
+   "title": "PNG’s closure of Taiwan trade office signals expanded economic ties with China",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/pacific/2026/08/05/png-taiwan-china-trade-office/"
+  },
+  {
+   "ts": "2026-08-13T18:41:44+00:00",
+   "title": "Clash of Clans knockoff popular in North Korea with more than 40,000 players online",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/korea/2026/08/06/clash-of-clans-knockoff-north-korea/"
+  },
+  {
+   "ts": "2026-08-13T18:41:44+00:00",
+   "title": "Satellite imagery shows work underway on Laos’ latest large Mekong River dam",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/laos/2026/08/06/mekong-dam-pak-beng-construction/"
+  },
+  {
+   "ts": "2026-08-13T18:41:44+00:00",
+   "title": "Taiwan soft-pedals Scarborough claim as Manila ties take priority",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/southchinasea/2026/08/11/taiwan-philippines-scarborough-shoal-filing/"
+  },
+  {
+   "ts": "2026-08-13T18:41:44+00:00",
+   "title": "Late former premier Zhu Rongji used economics to tighten China’s grip on Tibet",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/tibet/2026/08/12/china-zhu-rongji-obituary-tibet-influence/"
+  },
+  {
+   "ts": "2026-08-13T18:41:44+00:00",
+   "title": "YGH reports 182 acute diarrhoea cases between 9 and 12 August - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWktObzRndVZaVkltak1PSmNpRnZ0N0JKdUtFRzZadXBuYUo3RlNUaVh3RUk4Wl9KbjVMTTBuQi1DeFhjbjZBcHdYV1ZfTVNGbnFrSERINkdzZ0FXRmFqX3BtRDduam9DRkR1akthMzFoRXIwX2oyeVAweVlFUkZXTmRadGtEamxMRVNMOHhUbw?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:44+00:00",
+   "title": "1-night, 2-day Birdwatching & Nature Photography Tour organized - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcW5JUUVKOWVnVUsyR3NrSG41V0JHWFg2MmlaOF91djhQUC1fTV9EZlo1T2hEQ2pJNkZHQXlQaExJc1VJR1ZOb25nMTR3dVhmRnA1TEtDdHhSeEc1TXE0cmtlNXJ2Tm5zNmQxS3YxZ2NidDNUZklKOUJnX2FOR1hEYkZxNFRlYXp5eU1zNWR3?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:44+00:00",
+   "title": "Yangon Police intensify area-based crime prevention operations - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWWJQOWI1dUdjVnVrVmxsRzFjN25GOGRtOTVRN2FXNmp2Q2xRWmVsUUpkaTlYR0hSdjYxQUd6Rm9ndzFTNEp0eTl4X1JucmJvWF92Y2QweElzMXlrRl9lc2laUDcyS3pLZ1hwVXJST3I4UEhOeDhrQ2Vyekt6Y2pScUNHOWtEYXFESnljeld0Sm8?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:44+00:00",
+   "title": "2026 Inter-Ministry Futsal Tourney quarterfinals continue - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcDhfdUI2ZEVxSXhWdEJJMDA2T1FaZTRQRVdpekx0N2x6N0gyRy1UVmI0eUVBYlZCa0pELWNsWExfRjdTZ3ZLbllIS2o0QlFPa0xUV2RuRnhBU1Awbnh3c3ZtOGNYbms2dDhlSUdvWVQ1N1F5V0ptdFZEcnpvTERHM3NueWM0SVVrT3c?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:44+00:00",
+   "title": "121-Year-Old Man, Taninthayi Woman Named Myanmar’s Oldest Living Citizens - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdjU2YVZnYk5aYjFFbXA3V1FnZ1BNS2RtM01tcUNTdm9OQkdLUkxJdjdOeDY2MV8yQXRaTkNIQ09VNkttR3NKLUpQYlFYblU2bm1QQkE3Q1Jsd3lCZlRLTE1RRjRieVFINmVINmtVM25ZWmdfOGx5WVhydExsUjdiLV9XN0NOSWRsZEFBLS1SU2tnNnBsRFFPaHBsUEw?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:44+00:00",
+   "title": "Thayezay-Madaya train to resume during Taungpyone Festival - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQM09JbE9ZTDE2Wi1GclZmYU92bEszbDVfQ2ZZWlBJT1B3d29KRGd0TmFNN0FrRVBBLV9HTUloeDFIUU1aTFhFVHM0VnBXV1k3dUZudTJINk9tbVUya2pwd0dHc1oxdGNWYXBqMlQ2aVFQSkdaMmxNd1Q0d3hhamxIMjFOZ3pmSTh1Sjdv?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:44+00:00",
+   "title": "Tatkon’s MSY village project introduced, committee formed - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRnpVVkRrSUJFNzkxRDBqck5RMnlwc0t1em1JYXd5bG1STmtuYzV1MnFvQWM4cFAzTGdFLXFEVmtnSFd4SUtock8tU3k4UTBsSnRJRS1icjE4N2VhYXdjSW5mVnlXWXRvNk5kUElJdTk4UTZ6Rm4xZ2QtcVlrY1V4QjlneHZJWDdjcEE?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:44+00:00",
+   "title": "Pyidaungsu/Amyotha Hluttaw Speaker signs condolence book on demise of Laos National Assembly President Mr Xaysomphone Phomvihane - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYkMyTGpUMkZsNXRVc3lnT3FYTXlJdm5WVl85djVXLVI5czFiWGtUUTU0WDkxdkV6VzRKZ3J5MmNhd2kwNThISW4za1hrOGZEbHo3TVZZUjl3ZmtPRHdHeHZkRTMyMm56WnNoVmFaRUQ5RDlTZGpXU2gxR2pZX3l6YWdUalJoSGVDZ0JTNWlZM2d4XzNNYTlDOVRyblRIOWYyTmF4YzdOYmxXX05CdVlqME9EeGgtbHYwekxFcWpFNzFROE1WNFAxczhtdlJKYmNMeURBNGJHbW1rM0NHQWF2alljTG1NejVC?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:44+00:00",
+   "title": "Myanmar exports 21,000+ tonnes of fishery products to China in 4 months - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNemNRb1Q4UjZ1dTJaUFh5TVYtb1V3aXFjMDNiNzNOaE1mQ2dSUjRUZ3JTQUk4S2tIbGhQcFNIOVRJS2xMNlo0ODZkWDkyc3pKSzQ3Zi0xdUZ6UmxacEdOeUNoWnhtVHYwSC1uTHJ3ZjFrcG95MnRqMVhkcEtzR0VLT3o3clRlTFNqSmFueHVHU2VsbV9XbjV5bjdR?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:44+00:00",
+   "title": "Foreign photographers document Bagan’s landscapes, culture - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMWhTQkFQVHRfbXMxOEgyUHJITzlUeW1RYW9GTk1kamtEZFFZa1Y4WnhmLWxuTnFSWGcxUnFaeDVoNXJSekY0WVRxLWhCeDVZWTduVE1iZUZUNjNfQ2gzbmJXbUNucFR0VTZiQXBCZjBXazlUVXNXamMteXlNY2VaM2s4RWhyUDFSeGxPLThB?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:44+00:00",
+   "title": "GFS offers Shelf Life & Packaging Training in late Aug - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQ0hvdHBRUFh5TjRpcTN0Y2FINDZNSklaQy1yZmtqNWNXVDVzN2Izajd5MGgtRmNtdHRrallGcDJHQnFPMFU4MFVCcFNaQkJIUWtLSVpoa1FiUEM2cy00Q0dHVUd1dXFnUW52ZENLY1ZSTW1xWUU4NW9GWHRUMTJoeFlicw?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:44+00:00",
+   "title": "Rescue, relief operations continue in flood-hit areas - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeXU4M3A2WG5RWXRFY3pQVjE0SmRhMU5zQ3p6VTNCNnRJbWJNWmVHdFduWTdlakw0RnZ0UlFGcm9Ea3lpNFllNUZ5MnNsenp6SFFtNDFlNHhMaWhhQ216NktiUHljR0VrRU1LaW1vUGNyYnoxZWpIM2JFNFBnMk54elFMRQ?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:44+00:00",
+   "title": "Nyaunglebin’s MSY village project introduced, committee formed - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ0wwbUlDdlZGVnR4UG8xangwVGhEQzdDU3RrMHNvdUtoVnhzOEhLMDRXTVpESGJkRXo0eWVfZVZqb25zek1EdzcyeEpkdzFiVGVlck5IaHZ4UjRpRmJwQ0lZeVk1QkJScEk1b00yVHh0dTdEYzBGM3J1NTBZTzNKZk1SVHRQek9VMlhxYTNR?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:44+00:00",
+   "title": "Zeyathiri’s beef cattle farming operated under RBF project - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQy1BWEhFbzlNaUpqSnhQdUR0OFRMVU9udGlGZEhVSlZpZXhVZGJ6U091RHF6LXpfZnlDcnpuZlMyc0phVXBRaElScGhxekNqWl9NTGdWVko2WjAzRngwWXlpWTVjSnlYSTh5UERyb0F6TFlsUjQ3N0lBRDBjRk1LVVROS0pCN01IQnc?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:44+00:00",
+   "title": "MEC: ACPE certification opens for professional engineers - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUHRPVnYzUzdULVAyMzgzZ2Qtbmt0ZWN1SXl3Y3ZLZ1FITWJNVlNLZVJ5cFp3bG0tcXZjTmJSQlFKRzBaUmFyMDN1a05CMmxvVG5YcVBvMF9QbHEwWXBVT3RCWElwdjlQdDROODlyOXVxV0FqdHNsZXZNdjBwMWpZNFVrRlhnQ0E?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:44+00:00",
+   "title": "Sitagu Cakku Dana Hospital (Hsipaw) to kick off 57th free eyesight donation in September - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNGRjQlpKNnlWbTJ2djRlaEdaaUZvZzlOQTZjWFdaaEdvN0dfeEZhb0wtcmYtOEVLRHdVNkxJRTNHTFVsNlpKTDNwYzROWnZTSFFhekFhMGRPX010LWlHaEhHRlBqM1hSU0hUWGlocmNQN1ZOcVlIcElMcHVVOEUxOUt4c0I5MHJxRWhlc3BXcVJoMl9OSVVNMXBYZzNLLXpEY3VWMGxLMDB3WjRnMHpWZA?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:44+00:00",
+   "title": "Yangon United to meet Ezra FC in AFC Challenge League Qualifiers - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdHZ2bk1jX29LYVR0Z2t2TURkbTB0d1ozc3FWbFA4UFI5bDlvSmdEVll1ck9fbVB6dXNKWDB2VzI5RHloTmtuWG5FZUdBRDJaT0xfVHVzdDBhNjYzSzFXOEtQeEhWSE5sSHZNaVA5UXQwOUxtT3N6Y1pDZ0ZvWk83ck5SNndxNjJ5Q2JmZF8wRTQxVDg?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:44+00:00",
+   "title": "Zalun offers free basic sewing course - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rdkYxTHpJU1lJa3NiMW1kQVVBWGNVSFo1Y2Nmb00xN3ZZQ0xRUzVQSVJlekpkWEJQNU5EaXRXZ0RtWl94MlM5QUhvWGlXY0JLSFVucTRJYy1FX3JiSFVHc0N2cUhYaUhMaFVLdVA1Yw?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:44+00:00",
+   "title": "Applications open for 27th Japanese Speech Contest - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWjVTWE5MQTd2UU5FSXdXdmdWekpmNFI3eERzenRqVktUZUw0SldTcUFVY1NqNmd6TW5xbEY0Q3ZsQVB6cEl1VlIyTVVQRWZHOGY4cVYyREZYQ0FKVW5td3hnU3dlNnd4YWpNeU1PSUotdW9mcFJuZ0h2XzAwcy1TOQ?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:44+00:00",
+   "title": "Myanmar deports 6 undocumented foreign entrants - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ETndpd1FmOGV2US1EbFVybjR1aml4RXhiazhxTGYybW5aT0pKaTlPSFZDTjU4MHZmSlJjdmRXcWVBTURFVzFLejRuUS1xdTlOeEE3dHRHb2VneWU5Rm5peklJSUFIMXFfWGpIX3lmTnJuS2pKZTdVbEVQMjk?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:44+00:00",
+   "title": "Rural Development Funds disbursed in Sinbaungwe - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1vdEFFelBnbHYycE9sOGVib053aFNSTnppX0ZBTTR0S21pVjk5c29sc3g0X0MxdXdELVpub1plTDl0Wm5CZjBtcHNYTDJfd1NrUEtwQVhSUnllelpwbVlGMzBEWlAwcWhGZ21XVjVkR2QwMW4zejJ5Vy12eVA?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:44+00:00",
+   "title": "Eastern Shan State trials Pawsan Hmwe, Basmati rice - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTmFWZkFOVTZUSFpMTzN2ZVYxZXFPeEl1ODUySjVKX2VPYlNPUjRpU3Rvem1qZ3YtazJRYUxDWmxhdG9IeHFfSEJVOENhcHdocFdKbHBDYlFXVE1qeVQ4RGJrZmZjRU9oUlQydDlYZHpiQ205bFVSRzFHNWhCWXRBbA?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:44+00:00",
+   "title": "Falam Restores 400V Power Lines - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZSHdaNzd5M1duTFFsUU1HZmJCS0hMWHFZeTNlem9MdnlqNnpEZGx2b0c4ZU9nNkItblhTSzNta1g4VWdVR056MXViZXpiVjVpSDFhQmtCVm5tby1oc0JHRmdRSjlsUmM?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:44+00:00",
+   "title": "Yedashe distributes fertilizer inputs to monsoon crop farmers - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX040WHhXRFUxbjdPNnlYWlRTUWwwQVZTYWJSQWJIU2Q5RmxoX1hrSndKZk0xeDRqQk1ZN3oxVVN1NkFZVDYzSlZuUHd2QjN0QXhJVXRFSVNfSWdpbDRILXJJeXBTT19qSjF1SWw5WnExTlRaaUkxd2paMkNCNkI2alNEVHBEOFNJUGQ2cG9CTQ?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:42+00:00",
+   "title": "MCDC bids tenders for diesel, Octane-92, and premium diesel procurement - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [
+    {
+     "market": "fuel",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "Fuel-market story — read for direction"
+    }
+   ],
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT1JHdVowUFQzQlhkb01IU1dZQTJzaUdxc2p4eFFLSDAtT2FaaWE5UmlKUXJEeUpkREhtTnVORWhKM0plakJqYTQyR1BXQlZNWjQ3VzJGcDNSQVFlNTljMGRLbTM3WFd3dmdIUXRkTlZyZjl1ZGdYblhuVXhZcDBNM2FRTnc3OXBKNlFsSzdQTW43RWdMMVdXOTVR?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:42+00:00",
+   "title": "Yenangyoung’s Emerald Green Village Project activities inspected - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQURNV1BRdUNINHN4RkhPeEFYM3RlQ3FBSlo5XzdhVU9zUzN6andDSUk3TURuakd3ZHlOa3pVUFNsbjdfUUZkVE54TXVNYjRXN1VlV1NlbmpDb2JWZDZLeThzTXNqUVJ6dGliMlVaSU16Ulc2WVBKYnZ6ZUM0V2RJVjQ4TGNxejBsNm81WnBwRVRXQQ?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:42+00:00",
+   "title": "Taunggyi’s MSY village project briefed; committee formed - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdUViUHhqQXlOUWNlVU4tRWRweTNQMk8zMjVKME5rdzJLbUpHZVd0UlBRT2d6X1lodVdIU3VUZzZTd1BLYnBLaUdwR3RxLXVBYzBJLUYwU0RZdzI2RzhTaUd5QnVtcEZMZENNWUxsRmY3bXoxbkhuRzNXeVdySEMwNU5sV3lIQQ?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:42+00:00",
+   "title": "Kyaukpadaung’s model village project initiated; committee formed - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMThva3pMNUV1MzlibGJLSHdubkszcVdyYkhsVW1qcDlMNERiRUtHTVF5QlJKQ3FqY0pQX3lUUVo5UGhGLWlkUWQtU09LY2w4RzVwemhnUTZVQ3lldDFiZmo4cldYb3BTdnI3WmZKMWY5am9MWnRyRzNUU01xUEJtd3FnR1J3dlpDOVhVX09EUk8?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:42+00:00",
+   "title": "Kalaw’s VDP project introduced; committee formed - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81QWdnbno5LTM4Mkd5Ry1tTGFUWmpFeWU4M29hZklBczZWMWRFSEVmT21HYmp4dFp5XzVHbHNULW42VG5lVzU3WlN0SlhvdzFIanEzcUJqZjNueHFYMWFMWEJJNkhLZExXN2NtYWJrWDIzbk5KM1RXWmZjQQ?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:42+00:00",
+   "title": "Hpa-an’s Mya Sein Yaung project activities inspected - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdU1LelR4Y2tRa3hIS1F0clV5UnNMMERKX2RteC13b1o5ZTY5TllWbmF0UVhTNkZtVzROTTBkSVdweE1yamV6WnlVQkw2ckRhR3VSYk9wWjZuSEM4cGZFQXFZT3JaOHBzNFJvUW4yVzA0MUR3d0dHLWtNYy1pb2VmS05B?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:42+00:00",
+   "title": "Ayeyawady Region CM directs post-flood recovery efforts - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYnhubklNZGo1MGtLZ2lKbUt3R1pKMVBqd3NWRW1ZY3JVY1pmVTBEcS1Od0tTUDFKSXFwZXlqM2NlenVFU0t6Zjk1RDAyQkhQTm9uVzJBNE01ZWdfRlpFVmc0M3lmRnJNSWVWR0pOQ0lyQ3VZU19HcThKb0ZMYVJTdUNhNVZ2ZDA?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:42+00:00",
+   "title": "Placement test held for out-of-school students for 2026-2027AY - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZTk1MGNRVmVxTjBpakEweGE3VGVMNERuY1FFRDRZYkI3bE9RM0NhNlFlZVZLLVdrV2VvOGRfMnJrTlZDWExoaXRxZzdKa0tRT0ptVURMRExobUJQUGw0LVlmcDZnVC0xbEZGb0I2cUFrdFJTc2lkZlpEU2g1bldqYVRzeDVHZTRpUThwelBTYng?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:42+00:00",
+   "title": "Heavy rain damages retaining wall in Hsipaw - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5lUXh5QVNyY3E2VTR2RkZZMHN4WE52OU5Pb3N2YkdNQTMxclZFLWtBcFlmWmd0alc0WW1lZGNxeDJva3NRYUZKT3p4RVVFcDkwb0VfaHQyVTlPT3Jxd0ZyWExCOEdJS2VpZkZwb0RJN3ZoOXVLOHZJ?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:42+00:00",
+   "title": "Four ministries advance in inter-ministry futsal knockouts - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYjFCcE0zbEJNOWhwb2lLejl5bEZ0amY3V3hPbVRBeW9Pc0FaZFVkR2U3THFwYVpoS2k2dVhwY1VYUEE0am1IdFNycnhJMVdBTVg5QTJfWmh2U1ZEci10ZmhXeXp0eUxtdER5NVdXaFlMQ0dWWW5ySTB2NnlZQXBaZzg3bm5UcF80Z284?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:42+00:00",
+   "title": "Futsal quarterfinals set after knockout wins - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00YmN1TnpQRm1FbXQzNFhGNl9KR3U1MW5nV1dNOV9IRVlBa1hpZzFWNnBvMWVScXByR0ZGNkVmdUJTWWJRQ0gxX0psRmJBUmhaSkVVc3RsUWJsVzV4OUNBNjQ1aVNpUThVZ21sR0xkdU1RWlN3WjJXaQ?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:42+00:00",
+   "title": "FIFA to contribute US$300K to reconstruction of MDY Football Academy - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYzd4eDh5OVV0N3o5NEVsRFFoQkZOWGJiaEpyM2VhQjF4Zi1WUV8zbU42M296cFFlX3hyb1VnaDhpSzBtaWVQdGg5NGhYVzBtRTRBcGlIcXVMUUl3N25ZNnJpdWRYTTd6SXkzaTFnQVBZejNvQXlZeUNLSG1NM19keTlfVUpvVUpuaVEzazFPZkdOaGRjdGNj?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:42+00:00",
+   "title": "Mya Sein Yaung Village Project Field Inspection Conducted in Myohoung Village, Kyain-Seikkyi Township - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdmtxX2hPWkxnZFAxY0h2RzlmZTV0X0ZPb0drR01fd3dkWElOTjZwbkZrQ04wdl8xUnlFSFQyTzlHRkRiRWJCc2dhWk1BWGhSSTAydVpRVWpXZ0l6cWJ6eExiX1RrSE5vVDV6eC1zOU5nYm9BV05WLXQ3M0o1UUxmNmUwTGdsVFlFMHRJQ2pFY0sxOXNPNDh2TWNhU09sSlZsdnN1UmxTVUp3S3lYbktXSWF4Mi0yMTNMeUM4SDc1RXlfVDA?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:42+00:00",
+   "title": "Ngawun River recedes at Aingthabyu intersection in Laymyethna - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa05UU1BnbU1SdTZGbk9DTjVON3EzTUFUZF83Mks5S2tzRnpfdGhYUlJ0NFdzRkRBTHdhd0hJRkU1d1NrMmpFMzFDV1JYNFZrT0Z4Z29FVGNoRElMRVRETURlQ1BQZFRueDZLM0szb3drbEFJdW5tODQzLS1KTVAzSlpFYVBYa1RfZmJONFhKTQ?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:42+00:00",
+   "title": "Sagaing Region strengthens flood prevention measures along Chindwin River - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcmZZSWkwcG1HcjBuQ3JVNHZGaVVmSGZEODhRNG9qSGo3QWRGeWJ3TXdJdndZYTFueWpTNTNpVzRaZXczZ2RJaTVEdmVXdGJKWTJqTWpqV3ZEdHc2MG5lRWw5S0hJdWFmdWNhN2pabEN5MkRGb1ZpdFBOa1VDTEJ2M1BKalVFcjdnYUx2SFVmcFRxWDU5QXpFaG90ZDlWLW8?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:42+00:00",
+   "title": "Kalaw’s DRD implements VDP project - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00TXVwLTRNVWlhVl9SbDMxbWhIT21MNlN2Z1hQTGk1SkZpbzFfdDRyTndxUktXMmlYeUZJZ0Y5VHFCQzVWWXF0a01wdUdENzVEbWdiWWVCZi16ZEZQQXVnOExVUEtHcUtBdVE?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:40+00:00",
+   "title": "Diesel tenders worth K200M floated for Pyu Creek Dam - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [
+    {
+     "market": "fuel",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "Fuel-market story — read for direction"
+    }
+   ],
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeVZESUJtUGVTeV81bU8yOU4yM3F0Q1Q4WVlyd1hFSWNFWHRRaVZPeThuaWJ4emcwbTd0b1dOYWZNaktvYTFLZm90emp5ZHAxcTc2T21vS1l5SU1Ta3RYSW1BYU5GdERPRXhKb2dJQVNua1NjSFR1VmdxNzZrNFVrclo0RQ?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:40+00:00",
+   "title": "New Dokhtawady Bridge to feature Myanmar’s first EradiQuake bearings - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRHpKWFV0ZXJpUENCeDJ0WnVnNmQ3b1lVSFhzYmU0ZHNlcXlXNzJLRkJrbW52bTlpQVBmVThlMXFjYmwtc1JVcjZvQ2hBbmpCc2VtNEZlSmVyTzBEU0VKQjlIVjVQekFkMEdJY1JnZ1p6MFVldHVsajBIU0NEWXlHOWF6dFZPeEk5OWpEXzNQc0xIZWJQWjVV?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:40+00:00",
+   "title": "Flooding in Kyunhla inspected; assistance provided for evacuees - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUFloYWNKMDdwdWlZckoxUF8wel9qdmx4MVZqVUdiUGp3Tkk1U00tVTNLZE5wOWZ3UDV5Q3RYazNkc1VhUGFfZzlTbmx0NUY3cXY1QUtlWV81V2QxXzFDcGNfY3pkd2h6My0zdmZPNVdWUlFVUFFYV3V0OWJWT0w3TFc2cXJDNjZSYW52ZGdUOEs?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:40+00:00",
+   "title": "DMH warns of high waves on Myanmar’s coastline - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9TUXRpVjBQQzd4M3JaTWJ2UkNQN3NtRkpsZjBxM3ZLSWwzQnBiMm5vLXZuQjRaUTZBWS1QN1hneVFzR216WUpKLUVGZmx5VFpfS0tGSlpUYV9uMjhmNTJDcGRvdWpuMS1Dbk1qUDBJNjYtZFo5WTQtdXhB?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:40+00:00",
+   "title": "Livestock Farming Operations underway in Hpa-an District - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWS12ajR2a3o3V2tvOEtVcXpWZFV5bUU1eWk5aGxOU2x2UHo1R19Zbmc0SjI5WDFPWFB2OGlOUndpSHdhM1RQRVBEdGphVzdWbS1Pem4wYlQzT1RiVm0ycTRQNWtqbU81amFzdG5sT3pyTUw0YnJCYWVINjZRQnlTa0tjeWNwd0ZI?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:40+00:00",
+   "title": "Results and certificates released for July 2026 TOP-J Examination - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTlZsbnROV1g0UHlpVEdfUnlNX2l2aWc3MVNGWlpMUGdZc0FoWmtJZmMxd2VEWE5pY3BNVFJaREFCOE5uVnRYbnVJbGptbnNoakNzM1I4TFhaa1hQeXkxWV9BSzdzZVZoUk1vVGVPRWJYYVFKOXhPeWt4cFR2OXlEUGpsS2h2NHBpY0t4Rzl3eGtxWlRP?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:40+00:00",
+   "title": "Bagan welcomes over 180K visitors in 7 months - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzbVRkdE9OVUdpWG5zcHgySGVUYTBFc3k0bmViMTA5YkxaQ2xZUWt3Y204blNtWDRnUEFTSlJ4d1BwVFVSSHRqY3NWR0psSTduX2tUYTNUNXBFdndYTjhEa3BlMmtBRVdjWlQ0RHpqU2d3cVNEd295Wktn?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:40+00:00",
+   "title": "CAFEO 44 in Indonesia invites research papers - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE52WHhMQklZbzNsRFFmanNzVmgycHdWMFhVa0Z5OGt5ZzdyXzJhQk5sME9RRXhqNGFSYVlrTE5ITU45aEtlakZTSWRUNmFMQ25zWThXenZnMnNIR1N5d0JwR1M4NUc3YzVRdHdRNlFOWkx1YTAybDczOVJB?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:40+00:00",
+   "title": "14th intake of International Trade Course set for early Sept - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPejVvNXJoSVFuSTNrRC11X3RieXVKcUlpUlZoeDltMmZlSmhoQS0yTy1VN1JVMjBUX0VUVTltcHR1Zjh0OHE2YWdnYnZLYWtKWjNKR21oWlhaM1k3MGJ2WXAwV0V2Yjg3TEljSFJYTWxPa052YVZEQ3p2R3hDaTlCOXhER1dKNHFEbWFJS3F3?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:40+00:00",
+   "title": "Rural youth under training at electric welding course - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMEFaOTVQM3NtaDNTU1I0XzdmWW5xZUdKSjdEbXZmU25YX0xJTTg2NU4yeU1hNGZFMUpTa3JLaUZ5YlR6bXBxMnFCZG55ZEd6MDBueXctdmpWMi05YmVFNFVfb1R1ZTZHMGw1YTVfX3FaOEFvZ042a0pvaUd5dTQ2c2RMZDE?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:40+00:00",
+   "title": "MMPO warns of legal action over sales of industry-owned properties - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd2VkSkFqR293U25fMWZpU0lPd0VHbEJLZTl6ZjNfbTRjVXNYNndZS3kzU1hYaC1qQ1dDeFNrNXZrcXZ0R2g2aHhEWTJTb1JKa3gzUkF6Q21DODNNV1dnS0VQY2pNWjBNN3ZfdE53LV9GZnBTcm5haVhrMUMyUlg5cXlFbUJSWXJhcmsxS2xPSVFKSTRmVVE?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:40+00:00",
+   "title": "Floodwaters overflow railway in Kyonpyaw, halting train services temporarily - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWkhHWUF0VWg2TUN5MVNVRWk1VU41X1Z3RUVSZ1p0QXB2NUtmbEF1SWw1RU5QcEZvYWRlRFp1ZUsyNjdzZ0h5LURlU2x4bWlKQTlzemJUVnNnQWVXeU4tVFpHdUR0RE5NTzJQNDhmR0ZDeUdwb2Y2WDlGTTNDMkJLZllfbVl2a3NSRFk1cWVaRlBnUFJwRFk4cjFBTTBQTjVCb1E?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:40+00:00",
+   "title": "Film artistes make donations to flood recovery efforts in Ayeyawady Region - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNamxtREJDdTlHZDBDSmpsRjNPWWpoaHlTR0QxdHowOUNldFN6VUVwdEl0UnV1VTFLWDN3WXE2Q0NSN0lUVVE2bEpGMHZTVUdVdnUtUjFwbDl2SDJiRERfQXhfMS1mWGVUZVZsbkdRVEdwdVl3eVAyX0FVOW5kQXJOMXlrVnFMT3hVdzlIOVYxZVo1WmhmZ2JCU01Ccm0zcENC?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:40+00:00",
+   "title": "Research papers called for CAFEO 44 to be held in Indonesia - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRExXU3BJdXVoS05xcS0zbDR3NFlpZ0N0SWI2UUoyRTZmbk9ZRl9mZUFaTXFSN2ZabjVyZzBIbS1pWXVYRi1IbmNya3BFdWx2TjJhNVFickxBZGktamJYeUUzNzd0TnFIbTRERzNpT0YyRjFVN2E5LVplaTI0X1ROWjFDLTBqRlVTeW5zUw?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:40+00:00",
+   "title": "DICA blocklists 23 firms, directors over loan defaults - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa0FYbl9QRlhfYTU5RnF1N29TRFFjUWtwU3NEMG85UDBDWTNZaXNCTE5SaEM1cGNxLWxrQ191Nm90ZVk4VTB0dHlJTlF2M3BCQ1d4QzVzazVLZTVaMjkzVVpCZHh0Y2VRcy1oWnExX3FoRDNtckExMjZVR1NCNWhaUUJ0UFQ?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:39+00:00",
+   "title": "60 undocumented Chinese nationals arrested in Muse - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [
+    {
+     "market": "pulses",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "China border trade affects bean flows"
+    },
+    {
+     "market": "rice",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "Border status affects rice exports"
+    },
+    {
+     "market": "fuel",
+     "direction": "neutral",
+     "confidence": 0.45,
+     "rationale": "Border routes also carry imported goods"
+    }
+   ],
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMmFER2V3RlpGRk5nLVVsTzB3OFhINnVSenliUnRYM2xrX09CUUFmVWhIZUhpNlVTa2lOUEU1SHNMZ1RjQ0JWMnlEc0ZtOUhabjdEVWVDWlFGRVNSQVMzcnV3d1lKY3FfWTB2c0w4TnlGMUhLQlJWMWFZVWhGbk4xQg?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:39+00:00",
+   "title": "U Soe Thet Naung appointed as Ambassador of Myanmar to Brunei Darussalam - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM0REcl9FakFSS3RxOUhOeHBNZHJRYjBaQ240aTlzaFlleVBXdzdfZE91cl9sa1JKTFBfSERDd3ZFODVPUHppTUV0R3R5NHJrWnNuNU9nSnZnNVlEN2lfbERLT0t6TFVnVWl5ZVJmb2x2bGRmTWxEQ2dtT3BYUmc0UDZJeHdOMER3UFNKLWQtUXBBQ3RCaWlmRVk0aElfUQ?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:39+00:00",
+   "title": "Appointment of Head of Service Organization - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5CTEg2VG9KckhheEU0R09NRUV5LTNQM1ZqbThPRm5CUDNHLUZmQl85Y092NURkRF9jSEZuNHNzYzBHcW9SMXltNHZwdEF3aVNGVTUxT0E2S2ZiTHdSUEpsN0VuVm1sQkhoUFlZRFhxQmtoWWE5ZVoxRE1n?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:39+00:00",
+   "title": "Myanmar Embassy releases a statement on new demand letters - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbXZoWm85WFpobkFYb2FQNkZIN3h3QWtfWlBLelBUUFo4WHRjbnRfMW1ZVy1jYW5CX3JqVlhHYlVzbFB6SE4yTEo2TXVzcWxMT1dhSkozQWVCWDdXNmhhX3M0U1YxU2JCdHdWYU9HSG83Q1FLY1Ezanh1d25RTTZDM3lOVm1md2NEdUtr?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:39+00:00",
+   "title": "Round-the-clock efforts reinforce Ngawun Embankment - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZXpXaFZCYWt5N2dvVzUwQlFEa1pnN01UcFdZaGZSSUh6NkxBZzFzeGpQM2YxT19HenRzcTdrSHJJaUxaYldwNER1bmhBSXhlaC1SaC1hNm9PYTRZckUwM1hINFFCWTFZYmswQlBIU1JqRGVpLWczeVBDTnpFQjBlUmt3?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:39+00:00",
+   "title": "YGN to press ahead with underground cable conversion - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeGw3QmUwbG9VNUQyektjd3ViWFNFYzZZY19pcGdEN3c0UGFwZmJDdVo1R2ZIazlkNEJXWDNUZmJwZnUxbng0ZFlYdWh1dGgxbm42YmZrQTVveWxHdk1YY2psNlBLeGdzX0ZlNnRvMEstNzExN2NjS2lqVy1jUV96Sk5zRQ?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:39+00:00",
+   "title": "People’s Military Service Training 4/2024 graduates honoured - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPblhURHJHZUpna0plTmg0V2k2VHFUNXVINERWaGd0b3BNTEYwMU5vd1FwWVlaNVdUYTFhdy10WkwyU2xOejZ4YUFUQXpVdGgxajhrRVNfWjdneE94T2N1eEhZNFFYbUVVRDV3bFdta3lsOEN4OC0yLTZneWdjWTJrUGtQZVUxMFRWQVoxRg?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:39+00:00",
+   "title": "Emergency works shield Ngawun Embankment from escalating erosion - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ2E5S0ctRzNRTTdJWFVlZXhqTHBEQVVzQzZFeTAxNXQwQTBQNE9nWk5iNHVyZkVyQllBVlJ0enRUS1ZvejdTMUdlQ1VEa0dpdzJ1TXdSNDhKZ3lET1cxQThBSDFSd1VwYXJvM0Njb001UFlJS3ptRWFIRGktM3hwenRpaXlaVmh4QWJhbUdsUzlYUlU?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:39+00:00",
+   "title": "SIBA, Russia’s Buddhist Foundation sign cooperation agreement - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVHNsN2pIOWFOcnMtMmd4Q0hWdTRnRUFxdlI1TlJBOHZtMjhndzhqbGtqZUp5YjVZVGY4ZjRZaEJXS2k5OHdCeV9TQl9pV3JRRzVHeGdxc05FdkJjREx6LXkzS0paTGhCalgtejFXLXRpQkNOWU5ISGpWNlZ4UURja21RaWZRZFlZa0I0SA?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:39+00:00",
+   "title": "Agri Dept offers National-Level Rubber Tapper Level-1 Training - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdlNsbXhFcGVtVDNxWDFUdXQ0VGYtTmh4cTFPRHlEN18zcXlFMFRYRVYwUE4xU25NejNCakxwb3Y3NGRrVTUyNEJDRENQYm81STVTUWNsZ0xmMU5UaFhOa3Q3Wk4zN1h6aE82SVBsLUxfSjNhcW1rSWkyWVFOWl93NlZ0M1V5UFlEaXdhQmJlVjQ?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:39+00:00",
+   "title": "Ayeyawady FC Women ramp up training ahead of AFC Women’s Champions League - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZm5VQm1GVEQyRVBqelB5Qjdyam41SkdoTVE1aUxQTUhYaUJQSmY2QVQ4VDdidTN4QW0xYndMMjBVUThCb2N1NWdqVmF1dnFFWTE2R2VVUlI4S1FQT3ZScUtsN3JEV3RfM1JoZ1dUdlFGTjVNVDBDWjV6WHlBMk43RWVjZHVQLW5PbFMzYWxIVmtGTk8yWFA2eDRZOWxRdw?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:39+00:00",
+   "title": "Myanmar shines at King’s Cup Sepak Takraw Championship with gold, 3 silvers - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUVhLRTQxbHgyOGVzck1RNmJTZVRMTWItN25MSTJJbnJ0eWVuNHJYT2ZCb0NTRGlDSFk2T19ZcE41ZS1zZkU4TjQ3cnBmQzFGRjJWMi1TOVJ3QVI0Z2dGblNrWWYzQnlqZnQ4QWdFMVRyTHo3V3BndjI0dmpuVnhEVm1xUEktMGowa2h1c0lOQk95ZlNPMWpsLWtMajVQREE?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:39+00:00",
+   "title": "Myanmar eFootball Mobile team moves up to world’s 40th rank - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbDY5bzJ6Y1lJVmdhSWgwQmtYSlAxaWU2MjIwQjM2NEVqenhSaWtucFRnYWJXcV9MODFRVTc2OEVCLVFFNHVpVzRqVUJzdkNPQVVlQW0xVFZVRzV1OTBSYl9mX1pPbEhiZUxNa0RUTERDY214RlMyUDZRQzU3YVhWUVBlR2lRRHNuSE9v?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:39+00:00",
+   "title": "Elephant camps across regions/states mark World Elephant Day - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV05EMmpQRnJBOVoyQjFaMEg2S0lBVWtUd0xzWVdWckMzbTZ4Z0E4VGsyMkxaRHlTQWEyTUxWSjM3X0VvUm0teHpmZmdrNDhtbUhHb0puOXluaTVIaTJualU5ZnVLZnlWdWtpeWczOS02MkViUDhpYUJBVG1zRUV1akRiS1E2TTNzOWRORV9B?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:39+00:00",
+   "title": "Returning frontline troops honoured in Hmawby, Mawlamyinegyun - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUXB5YndxQ2VwR3dJLVBiRHV2NEZULXdUUkRLdzk4ZFhoRW9CZ2xKdnZHSU1Xanh1VENUZV9jMi12TTFpTXBWdGlCVGhQMGZWSVdNT3ktWFhjLWhoQzBibkdmV29OdnNtRTVObU9ObHFkLXFXaTFsQTV1LWZRdDAyRm5nbEg3a0RLTU96MTRB?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:39+00:00",
+   "title": "MRF and Vietnamese firms discuss rice seed collaboration - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU21BMUVRMDNsd0NQQ0tkdm8xcEFKNmMybmtBUVhkQl9qckJpNjdZU1AwcVhqYWxYSFduemUtMnBSbjlsemYwSGJoTWRpMk1tTTRiRTRmTm5BWDIyZjVkbGVFbUZyWDBNUVVsclRlT291YW0zZ3E3VDhhZUg1MFJCQzdzUnVZdHVl?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:39+00:00",
+   "title": "MRCS provides K62.55M+ as second batch to 139 quake victims in Sagaing - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWlJ3UXN2X1prRTE3aEN1VmZIZmVEOGR4TnVLSGgwR1pENHdaU25SNEJLNENCZFlsVlZ1dHlHTFBnZjNuNjZpN3NhUS1Mb2pJbnpDRXhFVm02YUFEMGZ6MHM1b1BsOGE4bnB2T2RvTldtRTJwdEVGUUFJSXNpNVRxRFprUHJvMHcyV2puY0RvLWRKYjdaVUh2S193?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:39+00:00",
+   "title": "Articles Archives - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JNlZKQkJUTzZ4blp4VWhUYWhvekxzN01fX1NQUjh4ZktYY3BuWENWYVpOTlF1am5NY0R1QTRaVUhJVzlMbEVidXpkU1BVNnEtNm0yZ2JMTnRnTmVkZlB3?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:39+00:00",
+   "title": "Basic foodstuffs provided in Chin State - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wVzh3Qk9LR3Q0amdDLW5fQ2FpdmppeVJYb1F6cFNxdjJoSU9KLWM2eGVPWjlIa0d1ZnJkTEREOTNRR20tNzFtYWFQYzFtRDNwUENCbTR4UmlyNzREaU1wOEhHWFlITl9hZmFUcGpQMVpuZw?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:39+00:00",
+   "title": "Ayeyawady Region Chief Minister calls for expansion of quality corn production - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWmQ4WVdHRjFRS0NnRW1mdFZ3S2dBN3ZNX0JxQXF0WHhSVVNLb2pvbHBrWThPeEEwVjZuRUI4cnBoSVJoNWVqWFBEcHFJUERzRDZOZkp1ajVmUE1zUGpkVUd3QzFBLXZROTVNakl4RF8yN1ViS1FwWW92ZnFCVXZjR3dYanFMd0Y3OTd0NUpTTTBHUXlTY1BTZGZ3bWF2Y1cwYzNaUW1R?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:39+00:00",
+   "title": "Defence, Construction reach Inter-Ministry Futsal Championship finale - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPemtvR0s0QmZZMmtIUjFSYWl5dGdGSVVXX1lIOHdqdkJvb2V0Rmh2ZGdycGFQRnoyd1EzYnFuanRzYnAtcGhPZGJqLWNudXptVFVFYXRLSlI5WThyaWRXZk04NWlCTExzQmE1enA2Mk9xZTNjNWRxVHJWLWlxTHFTU2I0QTJzQTZkdlQycHQ5bmUtTkhYbFdYaw?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:39+00:00",
+   "title": "Toll Pass RFID tested at 6 checkpoints on Yangon-Mandalay Expressway - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUjlXZE5lazFwa1JSQjd6OVVrV041S2NhZUZObFFSTWxuWGlTMFdoN1pNaU9rMV82NWkxY3dVcFlFTHJzMmZRZ3pwMHZNWl9LVFZEOEh1aElLV1UyRVEyM2R5amVaSk5jRnRVSmdlaWZFVTZHeFNFbDRVZkMzbmNWQWxCSVVWUnBJdlc4bnlIRHBMUEFkTWZ4TA?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:39+00:00",
+   "title": "9 undocumented foreign entrants detained in Myanmar - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxON3g4bUs0T1c4WHBiMVFjWE83UGd3cVQtLUlDeUpYSWRqRUd1eGJvbnNSd2UwU0tiWFpnVXNnU3FGMU1EbjJ3TWRJRTVPZ2lTQlA0M2dja2NYRW1vX1lUVzVZSk01dXJaUTFBN1pQRXpJOXFtX0ZoeVlwX290bU9kbllB?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:39+00:00",
+   "title": "Passports with more than 5 years’ expiry must be renewed in Myanmar - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeDQ2ekNwUnAxeUx5WC11WVRUcm4xbWpNM2tEZVV1NHBXWmFfa3UwcDJYcHp5VTdtNGE4Wkw1ZDFhalhHSHFhQ0xVcDNfUldZSTYxTGMtemhjT0l3RGlTVWc2NVFwZzVhM0RaOENvbnFndWx3OS1LTTJXclBNNTg4UTcyLWx4UzA0b00wR3RBY1U3bkZyVWc?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:39+00:00",
+   "title": "Myanmar, Vietnam eye agri, rural development cooperation - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNU3dhTGJ5SkFmc3JZRVhrRVdwZFdGWENITVdfMktTSi1RcEpPMFpSZ1Z6ZjlQRXJYVXoxTkw1ZnJhUXN4NS1WZlhnUlhFVjdGRVhXbkZkcXZwOHJHVV9RMnNCR1NHbU5lZVZNbHVLdElHREJQR25PUUdnWlRfSEwyRUVsb2pfUQ?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:39+00:00",
+   "title": "5th Yangon International Gems and Jewellery Fair unveiled - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ25fSnpQSHh4Q3BPdTJ2RXVKeHVBdmhGSnB3TG9EOGpkSkFqTWpOdzVLQ0NObnN0Wi14ZzhzU2tzZmdYSlBkX1JEb0lEX3YwR3lPMk1OTDR3dUNSdWNpODhvdTRISkF0R0NhdnZYbVdXSk5tdnVSckZMN1BVd0NJaDZGY0RzcU9XMGc?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:39+00:00",
+   "title": "156 offenders linked to online scams, gambling arrested - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMk1xdVNBZ0VCTHZUZUtTUGQ1VHVOcDNsTDRDSDdKYy1NSGNrZmJZbDZ6YWlUY0huV1lOc2Vua3NGLVFDdWExOC1wb0c3TXQ3MWhfUmZGejJEX0tFWk00WG1Pc1VZOGVXaEhTZVNXcEpqMVJYQXRGWklONkh0WjUtZkZWaTRyUQ?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:39+00:00",
+   "title": "Futsal fireworks ignite intense knockout stage battles - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWC1RU0pHdkdpQjNLbFB3d0ZfRmliQXRXOHpuLVlfWnoyWU14RVp3LUVQbURETWxrM2ZycW1Xa1RYTFBoYXc4cEtjVFpQOGZhMjktYzlFRXd6SUNYOWdZa0JfR1BRc1BraC1CVGxKZVhLbTNJOEktLXdKZGxaeXhEN0lQc3V3dw?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:39+00:00",
+   "title": "Atway Amyin No 365 - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wakdhcHRPeWNRRFhmOFdhTS1felJYaGJ0QWZJaGpNQk9IQkQ2YXpNbS1EUEVJdGNObG1nRXE2c2hpZFJ1UkdrUFFGMW5jdkhJdDMwLW5n?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:39+00:00",
+   "title": "80+ million kyats given to six artefact-donors up to June - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaWw2OThuVllLNXQ2X2xyYXhzUi00c0dXZTJJRjRwYkdOcFp0eURYMmM0VU5rb2ZmZXExM2xyZEdMYjFGbXRQT1RvRUgxbzZjMTJELUNkUkdjcVdobUpkYl9ycXFTRFBXSlByNGFyY1ZpdzJtN3ZHZlY1X3F3Z1U1VFZFRW9td2NN?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:39+00:00",
+   "title": "Myanmar, Egypt explore cooperation to improve cotton production - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUTZVdDV0VDBRY09hbnppSkwydzJiQjVvcVNsaTl3NTcybWhwLXRVaVZ2SlBpa3ZoN2RuSks0SFdoVVpOcGFlSkU1U2h4bmI4NzZ4TnhQczRyZjNDRkNJdWdyUzBLbDZ5RENJQmRYU2JGWF80UlRaSmlzNllSSUtmaXVBZTRmRmtzVjZ4bjFnVGE?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:39+00:00",
+   "title": "Sheet piling work underway to reinforce Ngawun embankment - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNThlUzl0V2V0VDB4ampuTVJKc1ZRUlBuVG5hSjJORFpwT1dHZTk1QWp6TkFiaEpwTTBiajF1amd2bEJSRkI4UTRBWjlVRkczQkJhSlJPTU9TMnlSWUU0M2lzczN3ckdRdTNTcXJhM1NSTklaVk8wS1l3eWdIbF9SX0ZKaFdjN3JJR0E?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:39+00:00",
+   "title": "Myanmar Hosts 37th ASEAN Environment Officials Meeting - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNb1NwQThMQzR6ODFhYlZiTkdrUkV0dkI0dUNxSDh4SFQ2WUh0Mk5vc3BzSDE0NVlUbDEzOVExMG8wM1Z6Sm5FcTN0c2cxLWpjTG8wU1k2VHFZbVVtbE9YYUhWN0JvMk5KQ290WmpZdEU0X285cVZ5NWxzNFE1Y0R1RGdiVHFzQQ?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:39+00:00",
+   "title": "Yangon Police Step Up Crime Prevention, Law and Order - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUm9GcFc2bGh0SDVwMnNmb2dnMFNnVE16OGFJZnBGUkRaZjJERVc4Q0NvX0k1SWEtLUdReFpUcGFEV2xqMEstWUNFcHE2SDNxY29ZODBQTURZZGlxeDh3a0ZSbFlDZC1IcTdIOTdYWHEzM1A3cHdoMkRqdE8xR2xpRUp0VQ?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:39+00:00",
+   "title": "Ngawun riverbank protection, embankment reinforcement underway - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRElKVGR0ZEJ5Q2hyTkZkMWJRZXRZZXZTMUQyc0h1T2Y4WDU1OFNib2xGUlZoVGtMdENRaXNLNTRTdVUxeXNZbGRSSGJfRDlPVTNPZ2tOS0t0Vjgyc0FEOTk5VGRJY253RUl2eG5rNDNGQ2NDaGtCOGNGdzFQNHNkVUhIZ0ZFanl2NlR3VDdKWQ?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:39+00:00",
+   "title": "Recuse, cleanup activities continue in Laymyethna - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1rTWY3aHp4eHlScWR4MHo3WVRjdjVnM3gwMUdsNjNTa3RxZDZ3TWtJUldpVUZVYmVnM2d4OE9zYkVtLW5kMzBER3JNZkNWY0QwYmYxU21ndkNkNFBxUkNJVjhjVENYMzZ6cUdPRGVhTFluTE9yS013NGx6UER6dw?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:39+00:00",
+   "title": "Nippon Foundation to Support Myanmar’s Peace Process and Flood Rehabilitation Efforts - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbUt0Mmk1VzJvNE5FZ2lidXRCZjRIV0h2eVA3cUQ0RlZsX0hpTUNzX1M2amgyeW5uRmtWcTZ2eS1Od0pwMjMwTjRJWW5iU3BSUnJhVUxFcFZsckdvanhjSFVUQlc5S0Faa0hRVHFvVTZVN0tscjhZV1VtRmlrT0JoVDZBRmF4bzFDTFFXWjRPUUJxUUdsMExzMXZaQkhOUzJuZVZhWWFMS3VjTEd5OUE?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:39+00:00",
+   "title": "Sports Archives - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxT2kxZl9LeC03OERhN3J1S3lZNzJ5alVxYnVFNGdJelRxbFhZeEIySlBTNHhmSVlqU1lSM2kxNGlCLVhTS2VJMHZCdXlUaDBBTUE?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:39+00:00",
+   "title": "E-Paper Archives - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YdlNDRXlRZnpOS3AyRjlhVmJrNlQydVRqMGNHSnlWdnVkd3ZlWmpUNW80RGpBM05qOG90bVQtcV84UWVDZFRjQVFKbG5ETThWQ01v?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:39+00:00",
+   "title": "Free Download Newspaper PDF (E-Paper) - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE16WFk0S2dzbmMzOHhfMjNDSlJvdDEyVFJiM0FSZnNlQ3NfcDNqQmJldGwtdF91MW1BY29fcURDTnFzLXF2d0Q0?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:39+00:00",
+   "title": "11 August 2026 - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1paFB3ZDJJRDF0R2VyT2pUV3JIYm9oRDdDaFdNMjNOd0dPYll2YWxiUDBTMzg4M3JpQ192Z0lFeVFqTnRuMTkyNlU3WnllUzdJ?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:39+00:00",
+   "title": "12 August 2026 - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE02TlUybXlpUGpVdi1icGFORzJkSFRRRGd5RW03ZVNXc2tRckZOOHFmV3ZBOEZkZnpHQWxYMGVhbmhlaENwWURqeGRwZVFKRnFN?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:39+00:00",
+   "title": "13 August 2026 - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZT2F1OEJuM1F3Q1FVWUxGb3JNUGpXSTVwcVVHOGJ3Ql9jV2hZSDRCTWRJdkVEWWZILUJ6VUl5UlBZcnc1VFp2TFdWRl9SeVhh?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:39+00:00",
+   "title": "9 August 2026 - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBaSjFhcFNNaVlONmhKckN5dXVpY0FPdUEtV2ZnSHRkVk9zWWFtWGhQMGN1VEg1a3Y2Y1AxRlhKTGRpMGs5VzRlMEVLTUxQazA?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:39+00:00",
+   "title": "Trial cultivation of Pawsan and Basmati rice begins in Shan State (East) - Global New Light Of Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV3dtbTlYN1VtUDZIOU5RcU45RXFXR0hvemVaWWZzN19NQmZWRmZYaUZoblR0S3NDMW93U29PaF84c3duSHlTcTU5T25fREFMWUxJaUkzbXhicmZVNHVlR2w1aXNKbHpkQ0pVejJHWGFtcXhRRGttOF9RVm04bjNkRE9kQk13ZW53MjJLVmlZWmRzU2xIZlN4N09jMA?oc=5"
+  },
+  {
+   "ts": "2026-08-13T18:41:38+00:00",
+   "title": "- Frontier Myanmar",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzZHJyNENlZ1luT0tqOHoxMnl1cE5XRGhOQnhXckktTGEtT1BiSGkzVndBNktLX3ZCZFR5bGZXRmJzSWRSNjVPNmZrVk80dTFPUGFGZg?oc=5"
+  },
   {
    "ts": "2026-08-13T18:06:01+00:00",
    "title": "ကိုလံဘီယာတွင် ပြင်းအား ၇.၄ ငလျင်လှုပ်ခတ်၊ လူ ၁၃၀ ကျော် သေဆုံး၊ နိုင်ငံကို အရေးပေါ်အခြေအနေ ကြေညာထားရ",
