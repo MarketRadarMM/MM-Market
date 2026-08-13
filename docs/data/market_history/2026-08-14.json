@@ -1,0 +1,78 @@
+{
+  "fetched_at": "2026-08-13T20:17:18.722961+00:00",
+  "tiers": {
+    "official": {
+      "my": "တရားဝင်",
+      "en": "Official (CBM)"
+    },
+    "exchange": {
+      "my": "စတော့အိတ်ချိန်း",
+      "en": "Exchange (YSX)"
+    },
+    "global": {
+      "my": "ကမ္ဘာ့ဈေးကွက်",
+      "en": "Global market"
+    },
+    "community": {
+      "my": "လူမှုကွန်ရက်",
+      "en": "Community-reported"
+    }
+  },
+  "tical_troy_oz": 0.5339,
+  "cbm": {
+    "tier": "official",
+    "status": "ok",
+    "note": null,
+    "rates": {
+      "USD": 2100.0,
+      "EUR": 2420.15,
+      "SGD": 1639.79,
+      "THB": 63.4,
+      "CNY": 311.34,
+      "JPY": 1317.77,
+      "MYR": 513.51,
+      "INR": 22.01,
+      "KRW": 147.71,
+      "AUD": 1480.29,
+      "GBP": 2832.06
+    },
+    "per_100": [
+      "IDR",
+      "JPY",
+      "KHR",
+      "KRW",
+      "LAK",
+      "VND"
+    ],
+    "as_of": "2026-08-13"
+  },
+  "world_gold": {
+    "tier": "global",
+    "status": "error",
+    "note": "HTTP 404",
+    "xau_usd": null,
+    "as_of": null
+  },
+  "ysx": {
+    "tier": "exchange",
+    "status": "ok",
+    "note": null,
+    "index": "MYANPIX",
+    "close": 829.31,
+    "change": 4.39,
+    "change_pct": 0.53,
+    "volume": 4846.0,
+    "value_mmk": 41419700.0,
+    "listed": 8,
+    "market_cap_mil_mmk": 1573098.0,
+    "as_of": "2026-08-13"
+  },
+  "derived": {
+    "fx_spread": {
+      "cbm_usd_mmk": 2100.0,
+      "street_usd_mmk": 4440,
+      "premium_pct": 111.4
+    },
+    "implied_xau_usd": 4273.3
+  }
+}
