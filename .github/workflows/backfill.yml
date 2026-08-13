@@ -1,0 +1,46 @@
+name: backfill
+
+# One-off seeding of docs/data/series.json with the full historical archive.
+# Run this once from the Actions tab. After that, market-prices keeps the
+# series current on its daily run.
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+env:
+  TG_CHANNEL: ${{ secrets.TG_CHANNEL }}
+  DATA_DIR: docs/data
+  PUBLIC_MODE: '1'
+  TG_PAGES: '60'        # ~1200 posts back; the archive spans about 3 years
+
+jobs:
+  seed:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Backfill history
+        run: python backfill_history.py
+
+      - name: Commit data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data/
+          git diff --staged --quiet && exit 0
+          git commit -m "data: backfill series"
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push origin main && exit 0
+            sleep 5
+          done
+          exit 1
