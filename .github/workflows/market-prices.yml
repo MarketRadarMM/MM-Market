@@ -2,7 +2,6 @@ name: market-prices
 
 on:
   workflow_dispatch:          # lets you run it by hand from the Actions tab
- 
 
 permissions:
   contents: write             # required to commit data back to the repo
@@ -28,7 +27,7 @@ jobs:
       - name: Fetch prices
         run: python fetch_prices.py
 
-   - name: Commit data
+      - name: Commit data
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
