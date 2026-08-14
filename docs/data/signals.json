@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-14T19:30:22+00:00",
+ "generated_at": "2026-08-14T20:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-08-14T20:00:21+00:00",
+   "title": "Voices from the coup, two years on",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SamNwQXU2U0lMOWpLZlZ1UDl4eFZvczVaSlo5LVM4T2N1STNhYV9CaWlvTE5HR2dGQ0xEaVlCdWdwSzlJVXl2U0s3NWw0MXpZb3RtdFRlQjFoUkNIRjZoUWxHaDdjM2ZfVnhTTkpnWFN5Ni12Y08xRw?oc=5"
+  },
   {
    "ts": "2026-08-14T19:30:22+00:00",
    "title": "Acting President of the Republic of the Union of Myanmar Chairman of the State Security and Peace Commission Senior General Min Aung Hlaing opens Digital Myanmar Forum and Exhibition",
@@ -2114,13 +2121,6 @@
    "source": "Khit Thit",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE00MHlYSmhsVTZHM3Z5WFZPLU5KSWtqZ1VNRE80eXJLRGpPU0puWVJ0X19LZURZWXJUX203aUVWTUlIb3JxTU00Nm9YZw?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:25+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ISnZkU251U1hzSmhWOEJWeDRDdUE5S011SGRhaVRkeURZZ3NrY1RVTks3MXkxZDRiMlZ3elFtaDJhOXk3Z3p0WGpndw?oc=5"
   }
  ]
 }
