@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-08-14T05:30:22+00:00",
+ "generated_at": "2026-08-14T06:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-08-14T06:00:22+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FNzhmLUJXN0ZGSWNoTjhGazE1R05rdURDWHZ3NndvMWlLWGZHVEcyanIwNXhnSHF2enppdFFBYy01Vm1xN00xVTdPOA?oc=5"
+  },
+  {
+   "ts": "2026-08-14T06:00:20+00:00",
+   "title": "အာဆီယံကို အန်တုဖို့ စစ်အုပ်စု ဘယ်ကနေ အင်အားရနေတာလဲ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/80391/"
+  },
   {
    "ts": "2026-08-14T04:00:20+00:00",
    "title": "နေကြာ Archives",
@@ -2100,20 +2114,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYnhubklNZGo1MGtLZ2lKbUt3R1pKMVBqd3NWRW1ZY3JVY1pmVTBEcS1Od0tTUDFKSXFwZXlqM2NlenVFU0t6Zjk1RDAyQkhQTm9uVzJBNE01ZWdfRlpFVmc0M3lmRnJNSWVWR0pOQ0lyQ3VZU19HcThKb0ZMYVJTdUNhNVZ2ZDA?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:23+00:00",
-   "title": "Placement test held for out-of-school students for 2026-2027AY",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZTk1MGNRVmVxTjBpakEweGE3VGVMNERuY1FFRDRZYkI3bE9RM0NhNlFlZVZLLVdrV2VvOGRfMnJrTlZDWExoaXRxZzdKa0tRT0ptVURMRExobUJQUGw0LVlmcDZnVC0xbEZGb0I2cUFrdFJTc2lkZlpEU2g1bldqYVRzeDVHZTRpUThwelBTYng?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:23+00:00",
-   "title": "Heavy rain damages retaining wall in Hsipaw",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5lUXh5QVNyY3E2VTR2RkZZMHN4WE52OU5Pb3N2YkdNQTMxclZFLWtBcFlmWmd0alc0WW1lZGNxeDJva3NRYUZKT3p4RVVFcDkwb0VfaHQyVTlPT3Jxd0ZyWExCOEdJS2VpZkZwb0RJN3ZoOXVLOHZJ?oc=5"
   }
  ]
 }
