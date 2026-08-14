@@ -1,6 +1,125 @@
 {
- "generated_at": "2026-08-14T22:30:24+00:00",
+ "generated_at": "2026-08-14T23:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-08-14T23:00:20+00:00",
+   "title": "Model village project introduced; committee formed",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04eUowZGc5dVFjT3hfQVZSUnlLSldIeGkxS25JRHpsekppNmRON0xCTnQ0N0FJVWtLaVQyc0hpcE0xdGhkZTdWb21Rdnh6ZUdYOWlzaE90WWI2MHNaQUdqczZIQTM5T2h0c2xWTWJ4M0xlZk9sSGdHVDVlbU51aXc?oc=5"
+  },
+  {
+   "ts": "2026-08-14T23:00:20+00:00",
+   "title": "Yaksawk opens free agricultural technology course",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13TEtiQmZwMkxxdFJfQ2l3LU53U2tXMURqYlBZb0tpNDRlZmxYNDFuYmdERWNwa0pUOUgweHhvVlZwY19ST2JzalZMUkhPNDdZd3hXd3hVMzFXWnpvRFdXRk9mOUo2VFdMUmRzczRPTUR1N1NsZ3ZLcFQxdWRTTmc?oc=5"
+  },
+  {
+   "ts": "2026-08-14T23:00:20+00:00",
+   "title": "People’s Military Service Training 25 graduation ceremonies held",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQc2FUTDhXbFZ5SHhsMDJyNVZIbG1WeVlNYWc4eW1mb3o2WUF3eU5xZ3lnZUJnNlFKZVY4RV9pZ2xLWXl2aUZmS0FIbWhxNDA3U24tTzFqMlFQYVVxYlkzUEo1R0NoOVhDUVotQzMyOXJkVXU4WUtQNEhPNnVvdVpNY3FDRmtzYWY0VG4xYWZGT0RFUQ?oc=5"
+  },
+  {
+   "ts": "2026-08-14T23:00:20+00:00",
+   "title": "Customs to auction seized consumer goods, general items",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNTc3S3JybVlELVRDSjdjZnNCWFpwRWJwOG9ubW5FNHM0dFdKZ2g3WTJCNUhiSnBONDd0MEFqR3N6TE9UWUVfWDZVbktaRk41NF9FdVo4eDJvd0FYMkM2WDNRb2IwcTgxaTlCNE54T19IVnRjMWRvbUktU21jZTg2TWsyb0dfUQ?oc=5"
+  },
+  {
+   "ts": "2026-08-14T23:00:20+00:00",
+   "title": "YRCM Sets Free City Run for Yangon Runners, Beginners",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLXJmaVBhdk4xRHNQY1J1WmdkSThDdjRBc2JSa25tTTlCR1dDeUpMb1JPSXZJOUpoMldxTnZiQUVVc3A3d0xCX2h2RDUzbmVwcnNhUkozdUJHZ0lBTjMzM2Q2aUZaRWVmWkUxWFdTM1U4ZTBFeXhMOVo2ZkkwRV9VWHVOaw?oc=5"
+  },
+  {
+   "ts": "2026-08-14T23:00:20+00:00",
+   "title": "Yangon Region hospitals to provide meals for needy patients",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORWRJOHlWMmE3a29wdVVhT1Zid3JXX0hjYUcwU1dmYWxiQTNCNDBMUWhlanVQaWVwaEJkZXFOTTBZZG9QSGM3STdLRDNTaUhmT0FVaW1Icl9GNHh0NUxWV3FLV0d2NU1FRWJrRnkwcTktbzgwS09zQTRFUklmZ1JWUFpKTlRncXRraWY1ZA?oc=5"
+  },
+  {
+   "ts": "2026-08-14T23:00:20+00:00",
+   "title": "Myanmar honey export generates over US$1M in Apr-Nov",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ1NBYnQ0YVRWa1hSTi1WbUtzNTV0Nmh2bjB5OHVVeVpETS1xeGJkLVVVdjhEODFuWk4ycWpnemIwVXlXZG5UUTktcUhRSXBMTmdaTTJfM2RibDkwRVRURGVsLUZHVWRCS0NkamFVWlY0QlFLRkc2UGZTck5yWmQ4cXRn?oc=5"
+  },
+  {
+   "ts": "2026-08-14T23:00:20+00:00",
+   "title": "MSY funds disbursed; air pollution awareness talk held in Kyaiklat",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONkZHLVNxdHpkTTdnT2pWS3RiX1N2eEd5eTUyVHg1SGJoQXgzWkNXeFowNmVpQ1NyYXJKM2RlU2lLT0hSWFBRNmVjTV9GR2tBTW1mQ1p3ZkY2cEl5ODBLdkg4b1ROcVVSQVJGWG10VDlvU1FMUWFzdzd3MWVFblFmMUVpOFZXcGJ2TjNzck82SzRDMmVT?oc=5"
+  },
+  {
+   "ts": "2026-08-14T23:00:19+00:00",
+   "title": "ငြိမ်းချမ်းစွာဆန္ဒပြမှု Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNR3QxeDRES2k1SnFTc3BVTWRzdkpBRVlidDI1cFlZYWs3NVBVTm1fV0h0NnNqZlpzQmMyek9Nbk9tbU5fd1F0alluSElTdXN6YkZzMy1UM015MzNmNFNNSkFrN3h4WjFrNHVKM3VVS1ZUcDRhV09YQU5aRlVmVldQWVJCLW9HMzRSWDR6cjVTcGoxLWVLQTV4YVVUQ0hpdHJlaG4yaGlVUFNLN2hhR2NMeHBnQ3pYMEZndVdSV2o3QUpYOUg2UG0tbkVYbzloTW9aVm12VlFFZEF1WXdTQUhFZ3VyN04wZFRZY25UN1dQcWczTjd3N3VJemhHaENSOFBtcjhCQTBBajl6TDBwbHFEaDlNREpEVVZRTjBRZnJ0MGJOZmRFOGE3MldmYmtrdFc1dVZ3Y0QtTXJQVmZnTC1CQ1FoMzFSYTRNbHZhODlhWQ?oc=5"
+  },
+  {
+   "ts": "2026-08-14T23:00:19+00:00",
+   "title": "Opinion | People’s Outcries Must Be Heeded, Not Neglected",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdG9mc1hmRTF3RldtcVRPb2hsOG5YVy1QSVYxWkVCNW9VZzU4LU5zSFZaamdpeEhORDR6SF9PS0tJYkVVejhyeDZxTEtJXzhhWHVseEJzUExyemlMZDE0OW1VWWlabk9JREVzTC1tc0FKczVKR2RUU015NFN5MDZybk9Zb013by04ZkhndWp6ajd6TXE5SWp0eGloZHg3dw?oc=5"
+  },
+  {
+   "ts": "2026-08-14T23:00:19+00:00",
+   "title": "Gripen Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpOG1FdlZPbkNCMl9DbEdpaTRjaVhVMXM5c09PMFlPZnlnVUkwRzhRTUlzTzE1SXgxNFNsb0lwckNKTGVVcEJrV3I3RVNZeG8?oc=5"
+  },
+  {
+   "ts": "2026-08-14T23:00:19+00:00",
+   "title": "အရည်ပျော် Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM1VLNjdlT3VqckFkVnNCdGhjdktlRGlWRHpzaEVYdkJHZFlya1dmN2dSMl9RdFhGYmZGQ285M2kzdElDMFQyQ0FzVkZrQ05sZkdRbWJicERMU2RxTTQ0R2k5Z3VWRDViNU43RkZnTFBQVkU1aC1ELWZRdWRJc0ZkeXpfV2RDdUdlUDNYU0t2VThtSXIydnEtaFhuYU1TYUs5TlVRU1JNLUlnLTZPZzBsc1RpSQ?oc=5"
+  },
+  {
+   "ts": "2026-08-14T23:00:19+00:00",
+   "title": "တတိယနေရာလုပွဲ Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQ1BUa0I5dXVtbVVyOUhuQmJBT25FdXRlREkySVNXMzlkTUJEOWhIeTBDZ2hMN3ZuMlg4djFQV1pITjJUTmtOQlhzbllCWFN3Y1FJQjJ1UGhkTXlpVlVDQUk4bXdHYXNLRGozRDUyYWpLbC1TdzBrbGJnYWRVZ2Y3THVsNVBpTHFvLWJ2bDNGUDNMbExxUjFXcVhOWmRtXzgtcHZtWlNLbEJfMnkzN0VFS0VBY2hfS1R6cFhGaVZ2V01mNU5FbGo3VmxTNHM2a1pvZUJyN0dxTm5LeFZwbkRucnFHaw?oc=5"
+  },
+  {
+   "ts": "2026-08-14T23:00:19+00:00",
+   "title": "International Gateways Group of Companies Limited Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNjFZamcwVDVyS2hvY1ItWGpJdzJLcUNNV3BhUWRIUVN1ZWp3NDlpQ1ktMlRrWnQ4RHFrc2F5WEd0M3JwRmVIMmdUY3JrcFFBX1JobC1rcnJINGZQbjhqZl8tbmVoandRUy13bU9hSnR4VzVyQ3ZqYWQ4SUstbkdrTmpPYTQtcGw1?oc=5"
+  },
+  {
+   "ts": "2026-08-14T23:00:19+00:00",
+   "title": "Government’s Message to Investors: Myanmar Open for Business",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOelNZdl9RLVBkeXdrRTcyd1IzNFktd1BvVEpiUjhXbTJFMktCcXlwdzduTWpnQk9MSGd0NTRBTXp6UzI3WW51SkQxOHloRUlSQUlWS1hFRm1QRzZLbVg1QWF0cnotbm41V3d0a1drZXdZVTVjOGxyMUNPdmN0eFdpd0xGa1dUdTg2REJhR3lWZTE?oc=5"
+  },
+  {
+   "ts": "2026-08-14T23:00:19+00:00",
+   "title": "Gov’t Working on Final Decision for Myitsone Dam, Minister Says",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONy1vQzgxRGV5SHBzX2syNmhNa1VNbmV5UUItM0F4czB0NjlxaUZIQzZFbHNVSlkzUEFlYjd1cGYyMm9RRVFnTDNxdGhYcjc4NUl1WE5HeDgtY251VUhwd3otT0NNN0dvTXZuOW9waV9DelpsQ0pfdU1EMl83Uk0zeXg2NUJ0NzJFM0V6U2ZGdDNIaGh6bjRpUWxxQjM?oc=5"
+  },
+  {
+   "ts": "2026-08-14T23:00:19+00:00",
+   "title": "Soldiers and Civilian Die in Western Myanmar Booby Trap",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQTBQTkZSbzRLTFAwU0hWQlhOVFVBc1ZtS2tfTjVBWUNyck0wenkzb053ZjB6MHRPTE9hRjNpaHJuSGNuZC1wTmN0YlRHZHFDYjQxckJuRUdOOTZBNkI3eDhLSVFJUTh3dm5aTkFLRFMyb0FTcnJoTzM3QzhLUUQ2RUV2VC1ncnZRMkt6Yko0OUw5aXZG?oc=5"
+  },
   {
    "ts": "2026-08-14T22:30:23+00:00",
    "title": "The tenacity of military influence",
@@ -2002,125 +2121,6 @@
    "source": "Khit Thit",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE42ekV2ZVZNZHNSblh1eE12eU1lS1VJQ2k4d19SUkhFaHlJTlBiS0g5MkEtZU53VnZDaFVVd2VNMnpBeFdTSTZtMV80cw?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:25+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DXzBzbkQ0OXhhNHRVNTJYSEdOSTg1TG8teG4yeDJRZzFIaEpobHRQb25xZURPeWZNRzdQQlJIeHRMZUVNSzlQbjB6MA?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:25+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBzT2VPR1NSWWQ4Q05nYUx4bGRiX0NiZGh4UWR6ZDFuLWFJelZ4bjIzeFFLRlpRZVR3dU9BVTc0S2xBWko5WXN2SHlHTQ?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:25+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1faHlKeTJvMWUxeVlaU1lKQk4tZXdTYUZ6aGt6bk1CV081WXlmUHhkOTUwU1NLM21rOWpkREdvdS03YTU2NkxHZHJScw?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:25+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5meF9MUHNmLUcxekpjSHY1M2k3YmZBeEM3MTZOSTFnWUd0UEF5NFNyMG9lQ1JTTjYwWFhMckIxX0RPWjFQM0ItQmRDcw?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:25+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5IUmV1SExUa1JQOElFRmQxclVyYmRMMlV0WllKZFpaT3RBcE5HWVhUeVowdUFIMWh3aUt0UDVpdmlwVzFPVmlSVzZ3?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:25+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DUmcybHctYkxxOHBOeVdTREtUMkhXaGVCWjg1ZXpoZ3IwRHQ0d2ozclA0NjN2QmJDYW5XV2RVdzJkNG1tN19jUTNqYw?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:25+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5iSHRhdzRFVFQtZ0NJUDlYNVAweUNBRWg0UHNmbDIxVTVYd3hNSFVLMnVMUHlVYklpUVN3ejFTZENGbFlYWHZ1bUlLbw?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:25+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44dFJyWXlfaDUteklHbFY5VVBzV1kwQ0dQNEcwY241blkxd05RQmNpVzdVNk1zNEZIb0czRGNOLXVQYl9pVTktcC1wcw?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:25+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBXd3hhYldFOHM3Qjh2ZGxsVjNSdUhzMHA5VUh3ZnNGR1lCMU0zdFp4eVhMSHhpOU0yeW1URU5KUUhfSUVDdmVlU0t3?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:25+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1OUUJ6eFdjSU8xT3RPUWo3N3k3Q3czWURYUnA0T3JPQnloRjBYd3FpWnBWWjFqVHpTeS02dU5jWENMWDZKOTVsQ0Q4cw?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:25+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5GTV9VMXhGUDBqbmEyNGVjZDJ0Y0hBWDVLdnVRZU9ES05nQ0xCRkRBZ1BkVTlHS0Q0aVdZTXBVUDJ2SExlaGJ3aQ?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:25+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5iVndKMEJxMy1SN01wbENjXzJiQ3ZQQWdNeHZyRmhsczFjc1ptdGNYaXJLVVBMY2Z1dGtfeW5JaEEydkZ2TEE5VHdSTQ?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:25+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9QMnoyTXZFa1dEY2tQZ3ZpU01VMkM3bFg3a1lHMmFBQjhMbmpUNmY0aHZBdmlWT3dzYkdMcjUybmJMMnVUZ0x4OWc1Yw?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:25+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9KTDgtY25ETFhMVEczajNYZVZYR1RTN3d3OXRWSVhtaUUzMHJqWV9ERWRCYW5NSHZ2WU1NT0ZzcWR4LVhwaWgybEJ3MA?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:25+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1YWkJQNVhOa05mdmJqb0llODBlVU9qRnptcXh6WmkwQWNxejgwMDBVYnJaOXFmczVwNHlyVzA0T1NpN3NQUW1CMjZTOA?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:25+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0ya1JmTnJTUk9aM1JjaWRoLUxXYUlVS2t1U0dnbGVBU2x1R1RtckRZLWVMLUFfSGwwR2J5anVZWXhsNUE1S2tSZm9IQQ?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:25+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1sM3l4b3hFeFBER2Z3ZkxDdXB1MlFzU3hfSm5ZVWlJLW5SMVRMNnhDeDFNY3BaRWtYeWxRYVRYQ29zdG1WVkhMdmVXMA?oc=5"
   }
  ]
 }
