@@ -5,6 +5,29 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex">
 <title>ဈေးကွက်ရေဒါ · Market Radar</title>
+
+<!-- ---- share cards (neutral: no rates, no numbers) ---- -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Market Radar">
+<meta property="og:title" content="Market Radar">
+<meta property="og:description" content="Myanmar market data: gold, currencies, fuel, YSX. Automated experiment — not investment advice.">
+<meta property="og:url" content="https://marketradarmm.github.io/MM-Market/">
+<meta property="og:image" content="https://marketradarmm.github.io/MM-Market/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Market Radar">
+<meta name="twitter:description" content="Myanmar market data: gold, currencies, fuel, YSX.">
+<meta name="twitter:image" content="https://marketradarmm.github.io/MM-Market/og.png">
+
+<!-- ---- installable app ---- -->
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#1b1410">
+<link rel="apple-touch-icon" href="icon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Market Radar">
+
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Noto+Sans+Myanmar:wght@400;500;700&display=swap" rel="stylesheet">
@@ -51,7 +74,6 @@
   .tier.exchange {color:var(--exch);  border-color:var(--exch)}
   .tier.community{color:var(--watch); border-color:var(--watch)}
 
-  /* three columns */
   .cols{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;align-items:start}
   @media (max-width:900px){ .cols{grid-template-columns:1fr} }
 
@@ -65,7 +87,6 @@
   .sect{font-size:11.5px;color:var(--muted);margin:12px 0 6px;letter-spacing:.3px}
   .sect:first-of-type{margin-top:0}
 
-  /* stock / rate rows */
   .row{display:flex;justify-content:space-between;align-items:baseline;gap:8px;
        padding:5px 0;border-bottom:1px solid rgba(210,162,76,.08);font-size:13px}
   .row:last-child{border-bottom:0}
@@ -74,6 +95,7 @@
   .row .vl{text-align:right;white-space:nowrap}
   .row .vl b{font-weight:700}
   .row .vl i{font-style:normal;font-size:11px;margin-left:5px}
+  .row .vl .gap{display:block;font-size:10.5px;color:var(--gold);margin-top:1px}
   .up{color:var(--bull)} .dn{color:var(--bear)} .flat{color:var(--muted)}
 
   .big{display:flex;justify-content:space-between;align-items:baseline;
@@ -86,7 +108,6 @@
           border-radius:6px;text-align:center;font-size:12px;line-height:1.5}
   .spread b{font-size:17px;color:var(--gold);display:block}
 
-  /* charts */
   .ranges{display:flex;gap:6px;justify-content:center;margin:24px 0 14px}
   .range{background:none;border:1px solid var(--line);border-radius:99px;color:var(--muted);
          font:inherit;font-size:11.5px;padding:3px 12px;cursor:pointer}
@@ -104,7 +125,6 @@
   .chart-legend i{display:inline-block;width:10px;height:2px;vertical-align:middle;margin-right:4px}
   .chart-foot{font-size:10.5px;color:var(--muted);margin-top:3px}
 
-  /* news */
   .board{display:grid;grid-template-columns:repeat(6,1fr);gap:8px;margin:0 0 18px}
   @media (max-width:760px){ .board{grid-template-columns:repeat(3,1fr)} }
   .cell{background:var(--lacquer-2);border:1px solid var(--line);border-radius:6px;
@@ -176,7 +196,6 @@
 </div>
 
 <script>
-/* ============================ helpers =========================== */
 function esc(t){ const d=document.createElement("div"); d.textContent=t||""; return d.innerHTML; }
 function fmt(n,dp){
   if (typeof n!=="number" || !isFinite(n)) return null;
@@ -197,7 +216,6 @@ const TIERS = {
   community:{my:"လူမှုကွန်ရက်",cls:"community"}
 };
 
-/* ============================= tabs ============================= */
 document.getElementById("tab-market").onclick = () => switchTab("market");
 document.getElementById("tab-news").onclick   = () => switchTab("news");
 function switchTab(w){
@@ -208,7 +226,6 @@ function switchTab(w){
   }
 }
 
-/* ============================ state ============================= */
 let SERIES=null, MARKET=null, STREET=null, RANGE=90;
 const RANGES=[[30,"၃၀ ရက်"],[90,"၉၀ ရက်"],[365,"၁ နှစ်"],[0,"အားလုံး"]];
 
@@ -293,7 +310,11 @@ function renderStreet(){
   box.innerHTML = h;
 }
 
-/* ====================== column 3: official ====================== */
+/* ====================== column 3: official ======================
+   The official rate is the headline figure here -- an earlier version
+   showed the street rate in bold under a heading that said "official",
+   which contradicted itself. The gap is labelled ကွာဟ and coloured gold
+   rather than green: a 111% divergence is not a gain, it is a spread. */
 function renderOfficial(){
   const box = document.getElementById("col-official");
   const cbm = MARKET && MARKET.cbm;
@@ -306,11 +327,14 @@ function renderOfficial(){
            <span class="tier official">${TIERS.official.my}</span></div>`;
 
   if (r.USD){
+    const p = d.USD;
     h += `<div class="big"><span class="lab">ဒေါ်လာ (USD)</span>
           <span class="val">${fmt(r.USD)}</span></div>`;
+    if (p) h += `<p class="col-note" style="margin:0 0 6px">
+                 လမ်းဘေးဈေး ${fmt(p.street)} · ကွာဟ ${p.premium_pct}%</p>`;
   }
 
-  h += `<div class="sect">တရားဝင် / လမ်းဘေး ကွာဟချက်</div>`;
+  h += `<div class="sect">တရားဝင်နှုန်း (ကျပ်)</div>`;
   const names = {USD:"ဒေါ်လာ",THB:"ဘတ်",CNY:"ယွမ်",SGD:"စင်္ကာပူဒေါ်လာ"};
   let any = false;
   for (const c of ["USD","THB","CNY","SGD"]){
@@ -318,15 +342,15 @@ function renderOfficial(){
     any = true;
     const p = d[c];
     h += `<div class="row">
-      <span class="nm">${esc(names[c])}<small>တရားဝင် ${fmt(r[c])}</small></span>
-      <span class="vl">${p ? `<b>${fmt(p.street)}</b><i class="up">+${p.premium_pct}%</i>`
-                           : `<i class="flat">—</i>`}</span></div>`;
+      <span class="nm">${esc(names[c])}<small>${c}${p?` · လမ်းဘေး ${fmt(p.street)}`:""}</small></span>
+      <span class="vl"><b>${fmt(r[c])}</b>
+        ${p?`<span class="gap">ကွာဟ ${p.premium_pct}%</span>`:""}</span></div>`;
   }
   if (!any) h += `<p class="empty">—</p>`;
 
   const s = (MARKET.derived||{}).fx_spread;
   if (s){
-    h += `<div class="spread"><b>+${s.premium_pct}%</b>
+    h += `<div class="spread"><b>${s.premium_pct}%</b>
           လမ်းဘေးဒေါ်လာဈေးသည် ဗဟိုဘဏ် တရားဝင်နှုန်းထက် မြင့်နေသည်</div>`;
   }
 
@@ -515,6 +539,13 @@ fetch("data/signals.json"+vq).then(r=>r.json())
     document.getElementById("updated").textContent="ဒေတာ မရရှိသေးပါ";
     renderToggle(); renderBoard(); renderFeed();
   });
+
+/* installable app */
+if ("serviceWorker" in navigator){
+  window.addEventListener("load", () => {
+    navigator.serviceWorker.register("sw.js").catch(()=>{});
+  });
+}
 </script>
 </body>
 </html>
