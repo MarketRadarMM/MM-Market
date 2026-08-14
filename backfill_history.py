@@ -11,12 +11,12 @@ Sources:
 Safe to re-run: rows merge by date. Run once with a large TG_PAGES to seed,
 then daily with TG_PAGES=2 to stay current.
 
-OUTLIER FILTERING (added 2026-08):
+OUTLIER FILTERING:
 The source is hand-typed and occasionally drops a digit -- one gold reading
-came through about 90% below its neighbours, which drew a crash on the chart
-that never happened. Every numeric series is now checked against a local
-median and implausible points are removed. This runs on the merged result,
-so re-running repairs values already stored.
+came through about 90% below its neighbours, drawing a crash on the chart
+that never happened. Every numeric series is checked against a local median
+and implausible points are removed. This runs on the merged result, so
+re-running repairs values already stored.
 """
 
 import json
@@ -43,8 +43,8 @@ TG_DELAY = float(os.environ.get("TG_DELAY", "1.5"))
 SERIES_PATH = OUT_DIR / "series.json"
 
 # A daily move larger than this against the local median is treated as a
-# typo rather than a market event. Gold and FX in Myanmar are volatile but
-# not this volatile -- a genuine 40% single-day move would be historic.
+# typo rather than a market event. Myanmar gold and FX are volatile but not
+# this volatile -- a genuine 40% single-day move would be historic.
 OUTLIER_TOLERANCE = 0.40
 MEDIAN_WINDOW = 5          # points either side used to build the median
 
@@ -70,26 +70,36 @@ def _median(vals):
 
 def sanitize(rows, keys):
     """
-    Drop implausible values in place. Compares each point against the median
-    of its neighbours rather than the previous point alone, so a single bad
-    reading cannot drag the reference with it.
+    Remove implausible values.
+
+    Values are snapshotted into a list before anything is deleted. An earlier
+    version read neighbours straight out of `rows` while deleting from it,
+    so the first removal made every later lookup raise KeyError.
     """
     removed = 0
     for key in keys:
-        idx = [i for i, r in enumerate(rows) if isinstance(r.get(key), (int, float))]
+        idx = [i for i, r in enumerate(rows)
+               if isinstance(r.get(key), (int, float))]
         if len(idx) < 5:
             continue
-        for pos, i in enumerate(idx):
+
+        vals = [rows[i][key] for i in idx]          # snapshot
+        drop = []
+
+        for pos in range(len(idx)):
             lo = max(0, pos - MEDIAN_WINDOW)
             hi = min(len(idx), pos + MEDIAN_WINDOW + 1)
-            neighbours = [rows[idx[j]][key] for j in range(lo, hi) if j != pos]
+            neighbours = [vals[j] for j in range(lo, hi) if j != pos]
             med = _median(neighbours)
             if not med:
                 continue
-            v = rows[i][key]
-            if abs(v - med) / med > OUTLIER_TOLERANCE:
-                del rows[i][key]
-                removed += 1
+            if abs(vals[pos] - med) / med > OUTLIER_TOLERANCE:
+                drop.append(idx[pos])
+
+        for i in drop:                              # delete afterwards
+            rows[i].pop(key, None)
+            removed += 1
+
     return removed
 
 
@@ -257,7 +267,6 @@ def merge(existing, new):
     out = {r["date"]: r for r in existing if r.get("date")}
     for date, row in new.items():
         if date in out:
-            # Fill gaps in an existing row without overwriting known values
             for k, v in row.items():
                 out[date].setdefault(k, v)
         else:
