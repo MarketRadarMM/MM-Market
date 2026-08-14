@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-14T16:30:21+00:00",
+ "generated_at": "2026-08-14T17:00:31+00:00",
  "signals": [
+  {
+   "ts": "2026-08-14T17:00:30+00:00",
+   "title": "Download",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5lUHg2SzA0N2ZCLVBSa3NqaHZXRzhINDhtaEg1SmpKQ25udWxaUzd1U3AtZXZjNVJEck5wRkhZemZRdlI2c0xEMg?oc=5"
+  },
   {
    "ts": "2026-08-14T15:30:19+00:00",
    "title": "Bago Region aims fish surplus beyond local demand in FY2025-26",
@@ -2114,13 +2121,6 @@
    "source": "Khit Thit",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ldFlVLWpoRGxiWE9YQWZRR0k1eXd2dHJtN3ZfTGlWYlltX250LW8wWVg0cTZXVC1yWnVkZW5OVDhVbGU2Wk9lXzQ2VQ?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:25+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9vbTZfam9KNUJ5NDctTmJ2eTRlVDMxbmozakpKR2R3RERzRUN5cnVfd04zUktOWkhUYTdqSWhneGVBQ3ZnSS1hTkJNMA?oc=5"
   }
  ]
 }
