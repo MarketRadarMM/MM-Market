@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-13T23:30:21+00:00",
+ "generated_at": "2026-08-14T00:00:26+00:00",
  "signals": [
+  {
+   "ts": "2026-08-14T00:00:24+00:00",
+   "title": "Myanmar Bans Incoming Commercial Flights to Tackle COVID-19",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYmwtV21HVVFQRHFmaHhqR3dmMks1ZWhKcjdXSm1aejQ0RGJJUmY4Y2pLaHdsQWxMT003OE52WGRnWVRwNmlRbGFnbmRza19samZXcUV1clFrdXFvVjR4Y0RtNW11T1NNNnBKamdQM1lLc3N4OVJNS2JIY1J1emJsVDF4dElDQ0xJNnl6UE9GdHN3c3liaC1SZ2JIZWlMOFU?oc=5"
+  },
   {
    "ts": "2026-08-13T22:30:20+00:00",
    "title": "SSPC Vice Chairman Deputy Commander-in-Chief of Defence Services Commander-in-Chief (Army) Vice-Senior General Soe Win pays homage to Inle PhaungdawU Pagoda at bejewelled chamber and inspects repairs of damaged religious buildings caused",
@@ -2114,13 +2121,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTlZsbnROV1g0UHlpVEdfUnlNX2l2aWc3MVNGWlpMUGdZc0FoWmtJZmMxd2VEWE5pY3BNVFJaREFCOE5uVnRYbnVJbGptbnNoakNzM1I4TFhaa1hQeXkxWV9BSzdzZVZoUk1vVGVPRWJYYVFKOXhPeWt4cFR2OXlEUGpsS2h2NHBpY0t4Rzl3eGtxWlRP?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:22+00:00",
-   "title": "Bagan welcomes over 180K visitors in 7 months",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzbVRkdE9OVUdpWG5zcHgySGVUYTBFc3k0bmViMTA5YkxaQ2xZUWt3Y204blNtWDRnUEFTSlJ4d1BwVFVSSHRqY3NWR0psSTduX2tUYTNUNXBFdndYTjhEa3BlMmtBRVdjWlQ0RHpqU2d3cVNEd295Wktn?oc=5"
   }
  ]
 }
