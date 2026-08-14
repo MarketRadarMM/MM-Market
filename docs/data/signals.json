@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-08-14T22:00:22+00:00",
+ "generated_at": "2026-08-14T22:30:24+00:00",
  "signals": [
+  {
+   "ts": "2026-08-14T22:30:23+00:00",
+   "title": "The tenacity of military influence",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWZGRoZ09reUJLbjZfX29ZVDRmQ0F1b24tckFKUFRhMFMxdHNyWklmdkpmbFFGQU5HcTA3RVRYYmhrTXZJakluaWVMdTdUSjNCZVo0ZGs3V0lhWWZ5cFdPR2p3c3Q5dXdnLW1SaDVjVm1SM1Jia21TRU13?oc=5"
+  },
+  {
+   "ts": "2026-08-14T22:30:23+00:00",
+   "title": "Detained civilian leader Aung San Suu Kyi receives partial pardon",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWmRaZEdYd0UxNGZIbEFRTHRkak1YMFI1Q2JJMUVXNnFUc00xX0t5VVNSTUZRdUs3bWR1dldjRmxTWHZIZG5idldZcnBKZm9TcWhRZ2RrTzltdGtCbXBlMjRmcW9Wb242U3liNEppRTdneFJaQlR5WWJ5MHllOWlUelRzUWVoMXFtaHRNdGNMazBqUEJSZW82V2hPbUZRX2g1ZzZr?oc=5"
+  },
   {
    "ts": "2026-08-14T22:00:22+00:00",
    "title": "- yktnews.com",
@@ -2107,20 +2121,6 @@
    "source": "Khit Thit",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1sM3l4b3hFeFBER2Z3ZkxDdXB1MlFzU3hfSm5ZVWlJLW5SMVRMNnhDeDFNY3BaRWtYeWxRYVRYQ29zdG1WVkhMdmVXMA?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:25+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0yVWZ5TUdqMC1ya2pKcjRnY0djdlFobE5YWE5WWWNDT3U0NWdjZExwQk02YjF1RVJsUGtYRlZibUY5MjBwYW1hOG5VVQ?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:25+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1XREs0QXRCWkdOdlpJWG9xdURaN3ZxZjNwYThwdWRZTEQ4NHR5dUNQNGJRZUgxaFphcG5YQVNnZmRMalVSUkNTejFScw?oc=5"
   }
  ]
 }
