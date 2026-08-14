@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-14T01:23:33+00:00",
+ "generated_at": "2026-08-14T01:30:24+00:00",
  "signals": [
+  {
+   "ts": "2026-08-14T01:30:23+00:00",
+   "title": "Flood Relief, Cleanup Continue across Ayeyawady Region",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUkRQQ051ZzVEYjBuYzg2N0NTS1JQSENmUllPOXpfeU8yaUREcWhWcXQ5SFR5SGcyX0hRQnNueWtEek5GV09wVjhYaDFyMllvdmdrV0dMMFBWTDBvSTJpOEo2LXVPQ1BmUnhacENFREFYR00yYnNJMGFzRENfS0dIMWFaSWg?oc=5"
+  },
   {
    "ts": "2026-08-14T01:23:31+00:00",
    "title": "Military Sacks its Appointed Kachin Security Affairs Minister After Kachin Jade Disaster",
@@ -2114,13 +2121,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUFloYWNKMDdwdWlZckoxUF8wel9qdmx4MVZqVUdiUGp3Tkk1U00tVTNLZE5wOWZ3UDV5Q3RYazNkc1VhUGFfZzlTbmx0NUY3cXY1QUtlWV81V2QxXzFDcGNfY3pkd2h6My0zdmZPNVdWUlFVUFFYV3V0OWJWT0w3TFc2cXJDNjZSYW52ZGdUOEs?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:22+00:00",
-   "title": "DMH warns of high waves on Myanmar’s coastline",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9TUXRpVjBQQzd4M3JaTWJ2UkNQN3NtRkpsZjBxM3ZLSWwzQnBiMm5vLXZuQjRaUTZBWS1QN1hneVFzR216WUpKLUVGZmx5VFpfS0tGSlpUYV9uMjhmNTJDcGRvdWpuMS1Dbk1qUDBJNjYtZFo5WTQtdXhB?oc=5"
   }
  ]
 }
