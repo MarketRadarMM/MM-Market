@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-14T11:00:22+00:00",
+ "generated_at": "2026-08-14T11:30:22+00:00",
  "signals": [
+  {
+   "ts": "2026-08-14T11:30:20+00:00",
+   "title": "16 PDF members rejoin legal framework",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kUzB3M2ltSVIwNFk0bE1QUDNCeG1iWXItWlg3bElmaUZ6d1FBTDRwUnZKUWtkV2ZJaWQ2T0p1b2VYYzZ4Y0wtZEZhdEtwS3VvbWVndjBrcnk2cEh5TXhPWmdBUVp5M2Y5ZWx6VHBiMA?oc=5"
+  },
   {
    "ts": "2026-08-14T11:00:22+00:00",
    "title": "Healthcare in Chin State and Naga Self-Administered Zone",
@@ -2100,13 +2107,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcW5JUUVKOWVnVUsyR3NrSG41V0JHWFg2MmlaOF91djhQUC1fTV9EZlo1T2hEQ2pJNkZHQXlQaExJc1VJR1ZOb25nMTR3dVhmRnA1TEtDdHhSeEc1TXE0cmtlNXJ2Tm5zNmQxS3YxZ2NidDNUZklKOUJnX2FOR1hEYkZxNFRlYXp5eU1zNWR3?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:25+00:00",
-   "title": "Yangon Police intensify area-based crime prevention operations",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWWJQOWI1dUdjVnVrVmxsRzFjN25GOGRtOTVRN2FXNmp2Q2xRWmVsUUpkaTlYR0hSdjYxQUd6Rm9ndzFTNEp0eTl4X1JucmJvWF92Y2QweElzMXlrRl9lc2laUDcyS3pLZ1hwVXJST3I4UEhOeDhrQ2Vyekt6Y2pScUNHOWtEYXFESnljeld0Sm8?oc=5"
   }
  ]
 }
