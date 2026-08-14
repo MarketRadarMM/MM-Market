@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-14T14:00:21+00:00",
+ "generated_at": "2026-08-14T14:30:24+00:00",
  "signals": [
+  {
+   "ts": "2026-08-14T14:30:23+00:00",
+   "title": "Construction materials provided to rebuild houses in Falam",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaEIyZGNHT2dEeDFEUC1Mc2tJalNpZmV5dUYtR2tDNWtxYXNydTlPWFh4MGREWWJZa1pGZzAtUUl3X1ctZVVLYjNjNnhxSmV3ZkpJcUZDenQyMERiYTViQ3RMeklRUDhGV3YwS3VnN2dFbi1qSzh5ZjY2RnRLdE1GbDJvaC14dW5mcG5j?oc=5"
+  },
   {
    "ts": "2026-08-14T14:00:20+00:00",
    "title": "TTTC to recruit trainees for EV Maintenance & Troubleshooting Training",
@@ -2114,13 +2121,6 @@
    "source": "Khit Thit",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5hR0VxYlF5WUtqNjJxbHYwNkc5SmV5T3NQam9XeFk4UUFtdmFkZVd6SWhOek5WUHVOSHI4akpUVDNuVENweG9zWXRoaw?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:25+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1STUlmcVFJd3AtbTZZSmlGMC04S3hPUndHN1oxSnVTaWRRWmV2TFNPbGtnZDZJcFh5X2ExbXpyeWFZVkpLLVkyVnZ3?oc=5"
   }
  ]
 }
