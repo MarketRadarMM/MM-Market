@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-08-14T09:30:23+00:00",
+ "generated_at": "2026-08-14T10:00:30+00:00",
  "signals": [
+  {
+   "ts": "2026-08-14T10:00:30+00:00",
+   "title": "President’s Office holds press conference",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nb1BBc09GUFc0MDlMemNhY1pNY1pYMHlqQWR5NHhxMnlrOWdlSEVtd1JZYVYyc0NiMmNiQmVpU0ZYSEFVV1Q3WWVvM1QwTWJEaGJHaFZ2LVM3U0ZfeWg5eV9CaVpaZGVpODctWWdnMUQ?oc=5"
+  },
+  {
+   "ts": "2026-08-14T10:00:29+00:00",
+   "title": "Tender Invited for Radio Frequency System Spare Parts",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOHhYMkt6VldpcVpYVnN5UzVLRV85QTdrRV8zbjlWOXN5RXdtUnNPUWNyWC13UzlDRGE1UEpBc1Q1TDhuaUJhRWUzYnh5QjJPdk92cExRR3pCa3NxelZoWDdiUV94ZXZoX3dnM29MOXdocDQ2cVFpemlBYi1UVmphRGlRRDI?oc=5"
+  },
   {
    "ts": "2026-08-14T09:30:20+00:00",
    "title": "Regime arrests 19 CSO members on suspicion of supporting education in resistance areas",
@@ -2093,20 +2107,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ0wwbUlDdlZGVnR4UG8xangwVGhEQzdDU3RrMHNvdUtoVnhzOEhLMDRXTVpESGJkRXo0eWVfZVZqb25zek1EdzcyeEpkdzFiVGVlck5IaHZ4UjRpRmJwQ0lZeVk1QkJScEk1b00yVHh0dTdEYzBGM3J1NTBZTzNKZk1SVHRQek9VMlhxYTNR?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:25+00:00",
-   "title": "Zeyathiri’s beef cattle farming operated under RBF project",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQy1BWEhFbzlNaUpqSnhQdUR0OFRMVU9udGlGZEhVSlZpZXhVZGJ6U091RHF6LXpfZnlDcnpuZlMyc0phVXBRaElScGhxekNqWl9NTGdWVko2WjAzRngwWXlpWTVjSnlYSTh5UERyb0F6TFlsUjQ3N0lBRDBjRk1LVVROS0pCN01IQnc?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:25+00:00",
-   "title": "MEC: ACPE certification opens for professional engineers",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUHRPVnYzUzdULVAyMzgzZ2Qtbmt0ZWN1SXl3Y3ZLZ1FITWJNVlNLZVJ5cFp3bG0tcXZjTmJSQlFKRzBaUmFyMDN1a05CMmxvVG5YcVBvMF9QbHEwWXBVT3RCWElwdjlQdDROODlyOXVxV0FqdHNsZXZNdjBwMWpZNFVrRlhnQ0E?oc=5"
   }
  ]
 }
