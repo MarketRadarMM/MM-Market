@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-14T09:00:32+00:00",
+ "generated_at": "2026-08-14T09:30:23+00:00",
  "signals": [
+  {
+   "ts": "2026-08-14T09:30:20+00:00",
+   "title": "Regime arrests 19 CSO members on suspicion of supporting education in resistance areas",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/regime-arrests-19-cso-members-on-suspicion-of-supporting-education-in-resistance-areas/"
+  },
   {
    "ts": "2026-08-14T09:00:31+00:00",
    "title": "Police rescue kidnapped Yangon jeweller within 12 hours, arrest 9 suspects",
@@ -2100,13 +2107,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUHRPVnYzUzdULVAyMzgzZ2Qtbmt0ZWN1SXl3Y3ZLZ1FITWJNVlNLZVJ5cFp3bG0tcXZjTmJSQlFKRzBaUmFyMDN1a05CMmxvVG5YcVBvMF9QbHEwWXBVT3RCWElwdjlQdDROODlyOXVxV0FqdHNsZXZNdjBwMWpZNFVrRlhnQ0E?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:25+00:00",
-   "title": "Yangon United to meet Ezra FC in AFC Challenge League Qualifiers",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdHZ2bk1jX29LYVR0Z2t2TURkbTB0d1ozc3FWbFA4UFI5bDlvSmdEVll1ck9fbVB6dXNKWDB2VzI5RHloTmtuWG5FZUdBRDJaT0xfVHVzdDBhNjYzSzFXOEtQeEhWSE5sSHZNaVA5UXQwOUxtT3N6Y1pDZ0ZvWk83ck5SNndxNjJ5Q2JmZF8wRTQxVDg?oc=5"
   }
  ]
 }
