@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-08-14T07:30:18+00:00",
+ "generated_at": "2026-08-14T08:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-08-14T08:30:19+00:00",
+   "title": "India extends free import policy for pulses to March 2027",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSTVUTDlDQU5LVHRQaXlEcDZ2QXh3SjdiR085Qmo1ai1ydTFyd2JQYUE4WVFHMHlGTTJhVXhGQjdaWGxnMkozOWlGVW1qeVFMaXA5ZDNiZ1BsYTZjMmtPR2RpQllrUEpKdTI2Sy1NWThMV0ZMNm9ZNFFjQlJnQjZLMlZKb0NoT2tlbHc?oc=5"
+  },
+  {
+   "ts": "2026-08-14T08:30:18+00:00",
+   "title": "Cross-dressing in Myanmar: from mystical brides to lip-synching queens",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVlRkMlo2QkVWbEVXeTlVckFTaEt4SkFoSEJYc1F6MkV4WmxzY3UxVHktNDZYbXk1VFgzczhqOGtVVks0XzByS2NkM0EtUXlKbzllcHlFVGZFMEU2LVc0TnpXaU84Z2J2eDhVdTVVRnZLUmhUbDdiMm1FZkdEOVFOQ1pFYTlEbGFyNE5VeFM1NW40LW5wazk3UEloeDBjYmVDeXhYNHl1UEk?oc=5"
+  },
   {
    "ts": "2026-08-14T07:30:17+00:00",
    "title": "Provide special care for students’ physical and mental health",
@@ -2093,20 +2107,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rdkYxTHpJU1lJa3NiMW1kQVVBWGNVSFo1Y2Nmb00xN3ZZQ0xRUzVQSVJlekpkWEJQNU5EaXRXZ0RtWl94MlM5QUhvWGlXY0JLSFVucTRJYy1FX3JiSFVHc0N2cUhYaUhMaFVLdVA1Yw?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:25+00:00",
-   "title": "Applications open for 27th Japanese Speech Contest",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWjVTWE5MQTd2UU5FSXdXdmdWekpmNFI3eERzenRqVktUZUw0SldTcUFVY1NqNmd6TW5xbEY0Q3ZsQVB6cEl1VlIyTVVQRWZHOGY4cVYyREZYQ0FKVW5td3hnU3dlNnd4YWpNeU1PSUotdW9mcFJuZ0h2XzAwcy1TOQ?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:25+00:00",
-   "title": "Myanmar deports 6 undocumented foreign entrants",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ETndpd1FmOGV2US1EbFVybjR1aml4RXhiazhxTGYybW5aT0pKaTlPSFZDTjU4MHZmSlJjdmRXcWVBTURFVzFLejRuUS1xdTlOeEE3dHRHb2VneWU5Rm5peklJSUFIMXFfWGpIX3lmTnJuS2pKZTdVbEVQMjk?oc=5"
   }
  ]
 }
