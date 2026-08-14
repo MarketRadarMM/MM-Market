@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-14T00:00:26+00:00",
+ "generated_at": "2026-08-14T00:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-08-14T00:30:20+00:00",
+   "title": "YGH reports 182 acute diarrhoea cases between 9 and 12 August",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWktObzRndVZaVkltak1PSmNpRnZ0N0JKdUtFRzZadXBuYUo3RlNUaVh3RUk4Wl9KbjVMTTBuQi1DeFhjbjZBcHdYV1ZfTVNGbnFrSERINkdzZ0FXRmFqX3BtRDduam9DRkR1akthMzFoRXIwX2oyeVAweVlFUkZXTmRadGtEamxMRVNMOHhUbw?oc=5"
+  },
   {
    "ts": "2026-08-14T00:00:24+00:00",
    "title": "Myanmar Bans Incoming Commercial Flights to Tackle COVID-19",
@@ -2114,13 +2121,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWS12ajR2a3o3V2tvOEtVcXpWZFV5bUU1eWk5aGxOU2x2UHo1R19Zbmc0SjI5WDFPWFB2OGlOUndpSHdhM1RQRVBEdGphVzdWbS1Pem4wYlQzT1RiVm0ycTRQNWtqbU81amFzdG5sT3pyTUw0YnJCYWVINjZRQnlTa0tjeWNwd0ZI?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:22+00:00",
-   "title": "Results and certificates released for July 2026 TOP-J Examination",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTlZsbnROV1g0UHlpVEdfUnlNX2l2aWc3MVNGWlpMUGdZc0FoWmtJZmMxd2VEWE5pY3BNVFJaREFCOE5uVnRYbnVJbGptbnNoakNzM1I4TFhaa1hQeXkxWV9BSzdzZVZoUk1vVGVPRWJYYVFKOXhPeWt4cFR2OXlEUGpsS2h2NHBpY0t4Rzl3eGtxWlRP?oc=5"
   }
  ]
 }
