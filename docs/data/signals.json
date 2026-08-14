@@ -1,6 +1,34 @@
 {
- "generated_at": "2026-08-14T03:30:20+00:00",
+ "generated_at": "2026-08-14T04:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-08-14T04:00:20+00:00",
+   "title": "နေကြာ Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQWZ4WDNzeDFoMThhSmozcGh2dGxQaGpueG05Q3BTNENQRm9aM29GVHBIbHVIUVZxYUR3czNKMVFJdUhvbWNqeVh5MkN4eHRLZUJLY1ZfbjNycHN4aURUU2RNWktVYzZuUFZOQ1c4d3Y4SGRYNXByOHVINHhHT1A0c0xLZw?oc=5"
+  },
+  {
+   "ts": "2026-08-14T04:00:20+00:00",
+   "title": "တပ်ရင်း ၁၀၀၃ Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQT05XcTV5WERQSWtDZWpnYzFRRVNLbGJrZkZiVVpqTUVUUGg5dzVzaFVtSFpIejlLa3NGbEtSSmRIMUpmNGMzNGtJVVBvdEIxZEEtaDVtbWZRRkdmWmF6bWxIN2R5Z3FSYjR3c0FxdDBMSS0yZUt2ajE0UWFmM09mbThSOWVISVBnZUcyUHpBVnlsd2J2N0JYdlJNeWtSaUVHZmV5SmxqNDNXNHJRX19KWE1LWHQxZzFGam4wTmJnSXYxN012aGdVSXhWYm8?oc=5"
+  },
+  {
+   "ts": "2026-08-14T04:00:20+00:00",
+   "title": "ကေအိုင်အေ Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeF8yNENMRFVRdnhRTDE0UGpwU05PT2xPZjF4d2tidnNiaTNHZHUxV1dOeVlIMlF6LWtsRTdQMTJtbnBFdkhsN0V0N3c4cGtaNnFUQnFHdm51ZTNaZnlkeTdMLVctNldNXzBYOHBRRVh4bTFoRkFGRVlaR0VUQXNzQzZnS1Z3VldYOWpRU3E5SzFIOVlwc2VCS29SSlNLT2JlU2RMZVlBWFRnaVFTMjVTdDVsSQ?oc=5"
+  },
+  {
+   "ts": "2026-08-14T04:00:20+00:00",
+   "title": "သင်္ဂါယနာ Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZTBNek1ucU5DM2RCSExyRmc3V0tJNjZsaUYzLW96cXlNVEFFRU5yS1ZvbFJURTVfR1ROQWFySXktWkk2dmttRmpJWjFWUmRQOUlYSEpWZGZJVklva3RlLV9QOXhaMnZaUkVuYUdodjVtOS1reVNSQS11R09VNjRrWUdua1FyYTVRTE5Ga1l2WkU3akoxaUZQdmlnT0NldU03c0wwQ3dPU3FsWEx2N3NwYmd0Zw?oc=5"
+  },
   {
    "ts": "2026-08-14T03:00:18+00:00",
    "title": "Yangon Police ramp up crime prevention, public awareness campaigns",
@@ -2086,34 +2114,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5lUXh5QVNyY3E2VTR2RkZZMHN4WE52OU5Pb3N2YkdNQTMxclZFLWtBcFlmWmd0alc0WW1lZGNxeDJva3NRYUZKT3p4RVVFcDkwb0VfaHQyVTlPT3Jxd0ZyWExCOEdJS2VpZkZwb0RJN3ZoOXVLOHZJ?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:23+00:00",
-   "title": "Four ministries advance in inter-ministry futsal knockouts",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYjFCcE0zbEJNOWhwb2lLejl5bEZ0amY3V3hPbVRBeW9Pc0FaZFVkR2U3THFwYVpoS2k2dVhwY1VYUEE0am1IdFNycnhJMVdBTVg5QTJfWmh2U1ZEci10ZmhXeXp0eUxtdER5NVdXaFlMQ0dWWW5ySTB2NnlZQXBaZzg3bm5UcF80Z284?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:23+00:00",
-   "title": "Futsal quarterfinals set after knockout wins",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00YmN1TnpQRm1FbXQzNFhGNl9KR3U1MW5nV1dNOV9IRVlBa1hpZzFWNnBvMWVScXByR0ZGNkVmdUJTWWJRQ0gxX0psRmJBUmhaSkVVc3RsUWJsVzV4OUNBNjQ1aVNpUThVZ21sR0xkdU1RWlN3WjJXaQ?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:23+00:00",
-   "title": "FIFA to contribute US$300K to reconstruction of MDY Football Academy",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYzd4eDh5OVV0N3o5NEVsRFFoQkZOWGJiaEpyM2VhQjF4Zi1WUV8zbU42M296cFFlX3hyb1VnaDhpSzBtaWVQdGg5NGhYVzBtRTRBcGlIcXVMUUl3N25ZNnJpdWRYTTd6SXkzaTFnQVBZejNvQXlZeUNLSG1NM19keTlfVUpvVUpuaVEzazFPZkdOaGRjdGNj?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:23+00:00",
-   "title": "Mya Sein Yaung Village Project Field Inspection Conducted in Myohoung Village, Kyain-Seikkyi Township",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdmtxX2hPWkxnZFAxY0h2RzlmZTV0X0ZPb0drR01fd3dkWElOTjZwbkZrQ04wdl8xUnlFSFQyTzlHRkRiRWJCc2dhWk1BWGhSSTAydVpRVWpXZ0l6cWJ6eExiX1RrSE5vVDV6eC1zOU5nYm9BV05WLXQ3M0o1UUxmNmUwTGdsVFlFMHRJQ2pFY0sxOXNPNDh2TWNhU09sSlZsdnN1UmxTVUp3S3lYbktXSWF4Mi0yMTNMeUM4SDc1RXlfVDA?oc=5"
   }
  ]
 }
