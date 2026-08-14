@@ -1,6 +1,34 @@
 {
- "generated_at": "2026-08-14T10:00:30+00:00",
+ "generated_at": "2026-08-14T10:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-08-14T10:30:16+00:00",
+   "title": "‌နေပြည်တော်နဲ့အပြိုင် SCEF အင်ဂျင်ပါဝါတည်ဆောက်နိုင်မလား",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/crl7017n4k6o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-08-14T10:30:16+00:00",
+   "title": "NUG တရားရေးရဲ့ မစီရင်နိုင်သေးတဲ့အမှုတွေ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cq61d39yeg8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-08-14T10:30:16+00:00",
+   "title": "လက်နက်တွေကုန်သွားလို့ ထရမ့်က အီရန်နဲ့အပစ်ရပ်လိုက်တာလား",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c1k183x3p37o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-08-14T10:30:16+00:00",
+   "title": "ဟော်မုဇ်ရေလက်ကြားပြန်ဖွင့်ရေး အီရန်က ထရမ့်ကို တောင်းဆိုတဲ့ ၆ ချက်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c07r0e0zzr7o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-08-14T10:00:30+00:00",
    "title": "President’s Office holds press conference",
@@ -2079,34 +2107,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNemNRb1Q4UjZ1dTJaUFh5TVYtb1V3aXFjMDNiNzNOaE1mQ2dSUjRUZ3JTQUk4S2tIbGhQcFNIOVRJS2xMNlo0ODZkWDkyc3pKSzQ3Zi0xdUZ6UmxacEdOeUNoWnhtVHYwSC1uTHJ3ZjFrcG95MnRqMVhkcEtzR0VLT3o3clRlTFNqSmFueHVHU2VsbV9XbjV5bjdR?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:25+00:00",
-   "title": "Foreign photographers document Bagan’s landscapes, culture",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMWhTQkFQVHRfbXMxOEgyUHJITzlUeW1RYW9GTk1kamtEZFFZa1Y4WnhmLWxuTnFSWGcxUnFaeDVoNXJSekY0WVRxLWhCeDVZWTduVE1iZUZUNjNfQ2gzbmJXbUNucFR0VTZiQXBCZjBXazlUVXNXamMteXlNY2VaM2s4RWhyUDFSeGxPLThB?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:25+00:00",
-   "title": "GFS offers Shelf Life & Packaging Training in late Aug",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQ0hvdHBRUFh5TjRpcTN0Y2FINDZNSklaQy1yZmtqNWNXVDVzN2Izajd5MGgtRmNtdHRrallGcDJHQnFPMFU4MFVCcFNaQkJIUWtLSVpoa1FiUEM2cy00Q0dHVUd1dXFnUW52ZENLY1ZSTW1xWUU4NW9GWHRUMTJoeFlicw?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:25+00:00",
-   "title": "Rescue, relief operations continue in flood-hit areas",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeXU4M3A2WG5RWXRFY3pQVjE0SmRhMU5zQ3p6VTNCNnRJbWJNWmVHdFduWTdlakw0RnZ0UlFGcm9Ea3lpNFllNUZ5MnNsenp6SFFtNDFlNHhMaWhhQ216NktiUHljR0VrRU1LaW1vUGNyYnoxZWpIM2JFNFBnMk54elFMRQ?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:25+00:00",
-   "title": "Nyaunglebin’s MSY village project introduced, committee formed",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ0wwbUlDdlZGVnR4UG8xangwVGhEQzdDU3RrMHNvdUtoVnhzOEhLMDRXTVpESGJkRXo0eWVfZVZqb25zek1EdzcyeEpkdzFiVGVlck5IaHZ4UjRpRmJwQ0lZeVk1QkJScEk1b00yVHh0dTdEYzBGM3J1NTBZTzNKZk1SVHRQek9VMlhxYTNR?oc=5"
   }
  ]
 }
