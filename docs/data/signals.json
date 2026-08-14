@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-08-14T12:00:24+00:00",
+ "generated_at": "2026-08-14T12:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-08-14T12:30:18+00:00",
+   "title": "YGN palm oil wholesale reference price shows slight decrease",
+   "source": "GNLM",
+   "markets": [
+    {
+     "market": "edible_oil",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "Edible-oil story — read for direction"
+    }
+   ],
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdXk1Z0IxZDV0UTV5d0xuV05WZUIwZlRlTHVyYlgwcDVfcDR0a2VwWlRPR3RvNllpeTJ0VHhPSkdmdTBLS2FWbWhPdF8zRjZRdUlDV2t6MXk1WGtQSS1tbl9vTjhXLWVFSXJGeHpjSXJTbnNIaXV1cFpVcTlBNjF5RmNyUkxvem01WF9SUEZR?oc=5"
+  },
   {
    "ts": "2026-08-14T11:30:20+00:00",
    "title": "16 PDF members rejoin legal framework",
@@ -2100,13 +2114,6 @@
    "source": "Khit Thit",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5yaEkzVVdtZkttei1sTkZXRWxSNmhnTjRSOWRuVFREVS1reGc2TE5Xc2gxbmJSandXaFVUNEtIZGdZQWo3RkhTekNVYw?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:25+00:00",
-   "title": "1-night, 2-day Birdwatching & Nature Photography Tour organized",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcW5JUUVKOWVnVUsyR3NrSG41V0JHWFg2MmlaOF91djhQUC1fTV9EZlo1T2hEQ2pJNkZHQXlQaExJc1VJR1ZOb25nMTR3dVhmRnA1TEtDdHhSeEc1TXE0cmtlNXJ2Tm5zNmQxS3YxZ2NidDNUZklKOUJnX2FOR1hEYkZxNFRlYXp5eU1zNWR3?oc=5"
   }
  ]
 }
