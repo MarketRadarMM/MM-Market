@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-15T03:00:22+00:00",
+ "generated_at": "2026-08-15T03:33:03+00:00",
  "signals": [
+  {
+   "ts": "2026-08-15T03:33:02+00:00",
+   "title": "Does Burma’s Army Still Hold a License to Kill?",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSklIQ05DeVpzZGVEVENJU0Z0S1VwSkNtRExxcUJKdFJkS2tackI4RV9hLTM0ekxGenpPQ3hjaU1VQzktOS1UdFBKQ2dBVjNUbTlYYU1Ja3duT2Q1X052QjFyVl9PeWRiZjVXQ1MxbmtwdEpXNmJucjAxX3dMSmJISk1CSnNHdG94T0ZSNllB?oc=5"
+  },
   {
    "ts": "2026-08-15T03:00:22+00:00",
    "title": "Opening ceremony of commemorative statues of retired commanders-in-chief and commanders-in-chief of Defence Services who performed duty in successive eras held to mark 76th Anniversary of Armed Forces Day",
@@ -2114,13 +2121,6 @@
    "source": "Khit Thit",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ENkNYZlB1cGtLbDR0aDdZT0pJZTBIb2F5dGdYeHE3S2ZHUWdRNFJ1NHFkMnlqNlpJVjFRSVpRcnVQc3ItZ3NQbFZ3Yw?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:25+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBnTXlPSThDdDdyM3VXX29ORS1jQXFnTnhmOC1FbUtVTDJRV1lpTDhnOXVSWU1aN2UzRS0xc3p1eEhONkU2N1lzdXRn?oc=5"
   }
  ]
 }
