@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-08-15T08:00:22+00:00",
+ "generated_at": "2026-08-15T08:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-08-15T08:30:17+00:00",
+   "title": "Senior medical specialists provide free healthcare to over 1,200 patients in Kengtung",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYVA4Nk9pbWhsbDFpSGViYVpybm5sTVoyR0tYX2lGZ2kxRUtJdkt2RzdMeW84djRHOWpsLWRGLVdnZXJrOVI1Mlo4Yi1QeXJqVVBPMWZMVUhjR2tscDVOUG81blVOZFFnUW0zRk1hVXlUQ1pfc0ZMVVkxaWNETTc3amtQRndmRmlMa0h4MnVmUWxTcWh3ZUxCNnMzSldPWjQ4bXVRbUczTENjcS11Mmc?oc=5"
+  },
+  {
+   "ts": "2026-08-15T08:30:17+00:00",
+   "title": "Has the United States Forgotten Suu Kyi?",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT3RxY0k1S1hSUVkxd2RyQUhaOEdyQ0l3M0dKOHRpZE1rNzhVNHVjVzdqT3l2TXRWcGxmOUVjYk83M0Vqc3JKZlRqdms3TGdleGxGTUtiRndYdVAyRjZzTUN1VXJYcGU5MzNmNFk3RjlFS2hCdEtDTGtNWjI4Ri1lNzJlbTNtUGFjYmdvU3RLT2lENjA?oc=5"
+  },
+  {
+   "ts": "2026-08-15T08:30:14+00:00",
+   "title": "ချစ်မိသွားလို့ မောင်နှမ မဟုတ်ကြောင်း စစ်ဆေးဖို့ ဥပဒေကို ချိုးဖောက်ခဲ့ကြတဲ့ လူငယ်နှစ်ဦး",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cy0j2684505o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-08-15T07:30:17+00:00",
    "title": "Empowering youth for the future State",
@@ -2100,27 +2121,6 @@
    "source": "Khit Thit",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5DWU9RWmR2SXR3Ry1wd2J1N1ZTbEdjMXg0ZnRLeGZwVzIwaDZtSzZPV3doVjI5OEhwV3dzaWJIU004UklqVXhQbHdzbw?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:25+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DMzZCZGJza1pGQjNRQm0xcnEyM25VUmU2T21ZZ01BWnlFOGpGeDkyQWhBVFNSN2R3TVBoS29QNm84R0YxT0d6WldrVQ?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:25+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5jVDhGNlkwb05IZk1sRkJfYks3a2FvNXhEMmtjeHNPVXE3cWRPenlDMGhZQ1hDVl9mWXNnbk5lZU81ME90YmZTMnp3?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:25+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9wd3Nxb2VHT09JeXZScUoxM2ZKRjNEa3R3TUlTcUR6c0g5QVRpeG1GN2hTcVV1ZFhoS3d0Z2NvbWpLNkFuTlpvLTNR?oc=5"
   }
  ]
 }
