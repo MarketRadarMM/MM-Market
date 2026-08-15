@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-08-15T04:30:17+00:00",
+ "generated_at": "2026-08-15T04:43:02+00:00",
  "signals": [
+  {
+   "ts": "2026-08-15T04:43:02+00:00",
+   "title": "Taunggyi holds public awareness talk in Pantpon Model Village",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMjFTbkhXa252dUlpUlVWUHJ5aVFNdmxkYVo0bWVoQ294a2tCb2FBTzlhbHpMMGtuUEw0MV82aXRaLVBKTmw5eE15NlhMcjMtNzhsYzlXdEZkTHdzeHlscklQZEZHOUgxQUViOTZPbzlQRlc3M1ByeUNBZG9CTVN1MjUzeC1JZlpnOTVLTmdFTQ?oc=5"
+  },
+  {
+   "ts": "2026-08-15T04:43:02+00:00",
+   "title": "15 August 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CTTRsOEVZZVd3eVF2ZHRWelNIOC1QV1FVWjRXWGZEMU1Wd3pXSVVQWkVUaGtacTRfeVQzZkhBS2pMbE8tcTBVbVVWcFBlV1Nt?oc=5"
+  },
   {
    "ts": "2026-08-15T03:33:02+00:00",
    "title": "Does Burma’s Army Still Hold a License to Kill?",
@@ -2107,20 +2121,6 @@
    "source": "Khit Thit",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4yZVdrVXFNS1VoWlR2V1FNN1A0MTkwM1hLSmVUdmlKYS1xaWZFeWxGQ2NiQTlCNU1IRGRhQldIcDNLN2R4aXF6dXdPZw?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:25+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9sNWltaU5TU254Z2ZKQldkM2x0S3J3RENmR01pbEkteWQ1RHpNVnM1dWg4aGFtMW5RZGlCZ2dueFh0R2VIUFcyZU9vMA?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:25+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ENkNYZlB1cGtLbDR0aDdZT0pJZTBIb2F5dGdYeHE3S2ZHUWdRNFJ1NHFkMnlqNlpJVjFRSVpRcnVQc3ItZ3NQbFZ3Yw?oc=5"
   }
  ]
 }
