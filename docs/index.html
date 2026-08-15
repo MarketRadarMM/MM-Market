@@ -358,14 +358,27 @@ function renderStreet(){
            <span class="tier community">${TIERS.community.my}</span></div>`;
 
   if (g.gold_16pe){
-    h += `<div class="big"><span class="lab">${esc((L.gold_16pe&&L.gold_16pe.my)||"၁၆ ပဲရည်")}</span>
+    h += `<div class="big"><span class="lab">${esc((L.gold_16pe&&L.gold_16pe.my)||"အခေါက်ရွှေ (စနစ်ဟောင်း)")}</span>
           <span class="val">${fmt(g.gold_16pe)}</span></div>`;
+    if (g.gold_16pe_buy)
+      h += `<p class="col-note" style="margin:0 0 6px">ပြန်ဝယ်ဈေး — ${fmt(g.gold_16pe_buy)} ကျပ်</p>`;
   }
   if (g.gold_15pe){
-    h += `<div class="row"><span class="nm">${esc((L.gold_15pe&&L.gold_15pe.my)||"၁၅ ပဲရည်")}
-          <small>ကျပ်/ကျပ်သား</small></span>
+    h += `<div class="row"><span class="nm">၁၅ ပဲရည်<small>စနစ်ဟောင်း · ကျပ်/ကျပ်သား</small></span>
           <span class="vl"><b>${fmt(g.gold_15pe)}</b></span></div>`;
   }
+  if (g.gold_16pe_new || g.gold_15pe_new){
+    h += `<div class="sect">စနစ်သစ် (16.329g) · ကျပ်/ကျပ်သား</div>`;
+    if (g.gold_16pe_new)
+      h += `<div class="row"><span class="nm">အခေါက်ရွှေ<small>${g.gold_16pe_new_buy ? "ပြန်ဝယ် " + fmt(g.gold_16pe_new_buy) : "စနစ်သစ်"}</small></span>
+            <span class="vl"><b>${fmt(g.gold_16pe_new)}</b></span></div>`;
+    if (g.gold_15pe_new)
+      h += `<div class="row"><span class="nm">၁၅ ပဲရည်<small>စနစ်သစ်</small></span>
+            <span class="vl"><b>${fmt(g.gold_15pe_new)}</b></span></div>`;
+  }
+  if (v.wg_usd)
+    h += `<div class="row"><span class="nm">ကမ္ဘာ့ရွှေဈေး<small>USD/oz</small></span>
+          <span class="vl"><b>${fmt(v.wg_usd)}</b> <i class="flat">$</i></span></div>`;
 
   const fxRows = [["USD","ဒေါ်လာ"],["THB","ဘတ်"],["CNY","ယွမ်"],["SGD","စင်္ကာပူဒေါ်လာ"]]
     .filter(([c]) => fx[c]);
@@ -417,6 +430,20 @@ function renderOfficial(){
                  လမ်းဘေးဈေး ${fmt(p.street)} · ကွာဟ ${p.premium_pct}%</p>`;
   }
 
+  /* YGEA reference gold -- relayed via the community channel, so it is
+     labelled as a reference, not claimed as a direct official feed. */
+  const sv = (STREET && STREET.values) || {};
+  if (sv.ygea){
+    const sg = (sv.gold || {}).gold_16pe;
+    const gap = sg ? ((sg / sv.ygea - 1) * 100).toFixed(1) : null;
+    h += `<div class="sect">ရွှေ ရည်ညွှန်းဈေး</div>
+      <div class="row">
+        <span class="nm">YGEA<small>လူမှုကွန်ရက်မှ ထပ်ဆင့်ရရှိ</small></span>
+        <span class="vl"><b>${fmt(sv.ygea)}</b>
+          ${gap ? `<span class="gap">လမ်းဘေးဈေးက ${gap}% ပိုမြင့်</span>` : ""}</span>
+      </div>`;
+  }
+
   h += `<div class="sect">တရားဝင်နှုန်း (ကျပ်)</div>`;
   const names = {USD:"ဒေါ်လာ",THB:"ဘတ်",CNY:"ယွမ်",SGD:"စင်္ကာပူဒေါ်လာ"};
   let any = false;
@@ -439,7 +466,7 @@ function renderOfficial(){
 
   h += `<p class="col-note">`+
        (cbm.as_of ? `ရက်စွဲ — ${esc(cbm.as_of)}<br>` : "")+
-       `မြန်မာ့ရွှေအတွက် တရားဝင် ဒေတာရင်းမြစ် မရှိပါ။`+
+       `YGEA ရည်ညွှန်းဈေးသည် လူမှုကွန်ရက်မှ ထပ်ဆင့်ရရှိသော ကိန်းဂဏန်းဖြစ်သည်။`+
        `</p>`;
   box.innerHTML = h;
 }
@@ -507,8 +534,13 @@ function renderCharts(){
     [{label:"MYANPIX",color:"#8fb0a0",pts:pick(mx,"close",RANGE)}]));
 
   out.push(chart("ရွှေ","community","ကျပ်/ကျပ်သား",[
-    {label:"၁၆ ပဲရည်",color:"#d2a24c",pts:pick(s,"gold_16pe",RANGE)},
-    {label:"၁၅ ပဲရည်",color:"#8a6c34",pts:pick(s,"gold_15pe",RANGE)}]));
+    {label:"အခေါက် (ဟောင်း)",color:"#d2a24c",pts:pick(s,"gold_16pe",RANGE)},
+    {label:"၁၅ ပဲ (ဟောင်း)",color:"#8a6c34",pts:pick(s,"gold_15pe",RANGE)},
+    {label:"အခေါက် (သစ်)",color:"#8fb0a0",pts:pick(s,"gold_16pe_new",RANGE)},
+    {label:"၁၅ ပဲ (သစ်)",color:"#6fae7e",pts:pick(s,"gold_15pe_new",RANGE)}]));
+
+  out.push(chart("ကမ္ဘာ့ရွှေဈေး","community","USD/oz",
+    [{label:"WG",color:"#c9b06a",pts:pick(s,"wg_usd",RANGE)}]));
 
   const cbmUsd = MARKET&&MARKET.cbm&&MARKET.cbm.rates ? MARKET.cbm.rates.USD : null;
   out.push(chart("ဒေါ်လာ (USD)","community","ကျပ်",
