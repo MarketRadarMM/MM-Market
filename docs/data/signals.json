@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-15T07:00:19+00:00",
+ "generated_at": "2026-08-15T07:30:17+00:00",
  "signals": [
+  {
+   "ts": "2026-08-15T07:30:17+00:00",
+   "title": "Empowering youth for the future State",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9YVE9nUlhKQjhhaDJ5RTJHNDE5bFE0bGZQRlVvUUdYMm11VGIyQ2YydmtnWmFsRHJmMFlNb1VwTEpGd29JaVpyUDBMamlQSUZqMG9Ib3FzVVNlM2RyMWJLbFdqang0RktPQXNKVkRXOA?oc=5"
+  },
   {
    "ts": "2026-08-15T06:30:17+00:00",
    "title": "Vice President urges all citizens to protect Myanmar’s cultural heritage",
@@ -2114,13 +2121,6 @@
    "source": "Khit Thit",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9wd3Nxb2VHT09JeXZScUoxM2ZKRjNEa3R3TUlTcUR6c0g5QVRpeG1GN2hTcVV1ZFhoS3d0Z2NvbWpLNkFuTlpvLTNR?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:25+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5NbVpDcHlzb1ZKVktLYVpCc3VXVTFzam9QT0lXRGpMOHdPc0MzdC1tNk91THdXN2laa3BhZ1FxY010aEdmd3hSN2pR?oc=5"
   }
  ]
 }
