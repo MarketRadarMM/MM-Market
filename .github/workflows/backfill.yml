@@ -12,6 +12,7 @@ permissions:
 
 env:
   TG_CHANNEL: ${{ secrets.TG_CHANNEL }}
+  TG_CHANNEL2: ${{ secrets.TG_CHANNEL2 }}
   DATA_DIR: docs/data
   PUBLIC_MODE: '1'
   TG_PAGES: '60'        # ~1200 posts back; the archive spans about 3 years
