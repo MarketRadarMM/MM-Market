@@ -239,14 +239,26 @@ def todays_stocks():
 
 # --------------------------------------------------------------------------
 
-def merge(existing, *new_maps):
-    """Merge by date, then per key. Existing values always win."""
+def merge(existing, *new_maps, overwrite_dates=()):
+    """
+    Merge by date, then per key.
+
+    Historical dates: existing values win, so re-running a backfill can
+    never rewrite the past. Dates in `overwrite_dates` (today, in normal
+    daily use): NEW values win -- this is what lets the six intraday cron
+    runs walk today's row forward from the 10AM price to the market close.
+    Without it the first run of the day froze the row and the close was
+    silently discarded.
+    """
     out = {r["date"]: dict(r) for r in existing if r.get("date")}
     for new in new_maps:
         for date, row in new.items():
             if date in out:
-                for k, v in row.items():
-                    out[date].setdefault(k, v)
+                if date in overwrite_dates:
+                    out[date].update(row)
+                else:
+                    for k, v in row.items():
+                        out[date].setdefault(k, v)
             else:
                 out[date] = dict(row)
     return [out[d] for d in sorted(out)]
@@ -274,10 +286,15 @@ def main():
     # Primary first: where both channels report the same date, the
     # primary's reading wins for shared keys (existing series rows still
     # outrank both).
-    street = merge(prev.get("street", []), primary, legacy)
-    myanpix = merge(prev.get("myanpix", []), backfill_ysx())
+    today = datetime.now(MMT).strftime("%Y-%m-%d")
+
+    street = merge(prev.get("street", []), primary, legacy,
+                   overwrite_dates={today})
+    myanpix = merge(prev.get("myanpix", []), backfill_ysx(),
+                    overwrite_dates={today})
     xau = prev.get("xau", [])                      # superseded by wg_usd
-    stocks = merge(prev.get("stocks", []), todays_stocks())
+    stocks = merge(prev.get("stocks", []), todays_stocks(),
+                   overwrite_dates={today})
 
     dropped = sanitize(street, STREET_KEYS)
     dropped += sanitize(myanpix, ["close"])
