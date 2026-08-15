@@ -25,7 +25,7 @@
 <meta name="theme-color" content="#1b1410">
 <link rel="apple-touch-icon" href="icon-192.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="apple-mobile-web-app-title" content="Market Radar">
 
@@ -54,6 +54,23 @@
     background-image:radial-gradient(ellipse 90% 40% at 50% -8%,rgba(210,162,76,.08),transparent);
   }
   .wrap{max-width:1240px;margin:0 auto;padding:26px 18px 60px}
+
+  /* ---- in-app browser bar ----
+     Facebook/Messenger/Instagram open links in their own webview, which
+     blocks PWA installation entirely. Nothing can force a real browser
+     from inside it, so this offers a hand-off instead. Dismissible: it
+     must never stand between a reader and the prices. */
+  .iab{display:none;background:var(--lacquer-2);border-bottom:1px solid var(--gold-dim);
+       padding:11px 14px;font-size:13px;line-height:1.5}
+  .iab.on{display:block}
+  .iab-in{max-width:1240px;margin:0 auto;display:flex;align-items:center;
+          gap:10px;flex-wrap:wrap;justify-content:center;text-align:center}
+  .iab-txt{color:var(--parchment)}
+  .iab-txt small{display:block;color:var(--muted);font-size:11.5px}
+  .iab-btn{background:var(--gold);border:0;border-radius:99px;color:#1b1410;
+           font:inherit;font-size:12.5px;font-weight:700;padding:6px 16px;cursor:pointer}
+  .iab-x{background:none;border:0;color:var(--muted);font:inherit;font-size:12px;
+         cursor:pointer;text-decoration:underline}
 
   header{text-align:center;padding:6px 0 18px;border-bottom:1px solid var(--line)}
   .rule{width:120px;height:1px;background:var(--gold-dim);margin:9px auto;position:relative}
@@ -161,6 +178,15 @@
 </style>
 </head>
 <body>
+
+<div class="iab" id="iab">
+  <div class="iab-in">
+    <span class="iab-txt" id="iab-txt"></span>
+    <button class="iab-btn" id="iab-btn"></button>
+    <button class="iab-x" id="iab-x">ဆက်ဖတ်ရန်</button>
+  </div>
+</div>
+
 <div class="wrap">
   <header>
     <h1>Market Radar</h1>
@@ -197,6 +223,62 @@
 </div>
 
 <script>
+/* ================= in-app browser hand-off =================
+   Messenger, Facebook, Instagram, Viber, Line and WeChat all render pages
+   in an embedded webview that disables PWA installation. There is no way
+   to force a real browser from inside one -- Android can offer an intent://
+   hand-off on tap, and iOS has no equivalent at all, so it gets copy-link
+   plus an instruction. Auto-redirecting is deliberately avoided: in-app
+   browsers block it, and it is what malicious pages do. */
+(function(){
+  const ua = navigator.userAgent || "";
+  const inApp = /FBAN|FBAV|FB_IAB|FBIOS|Instagram|Line\/|Viber|MicroMessenger|Messenger/i.test(ua);
+  if (!inApp) return;
+
+  try { if (sessionStorage.getItem("iab-hide") === "1") return; } catch(e){}
+
+  const ios = /iPhone|iPad|iPod/i.test(ua);
+  const bar  = document.getElementById("iab");
+  const txt  = document.getElementById("iab-txt");
+  const btn  = document.getElementById("iab-btn");
+  const url  = location.href.split("#")[0];
+
+  if (ios){
+    txt.innerHTML = "ဖုန်းတွင် အက်ပ်အဖြစ် သိမ်းရန် — Safari ဖြင့် ဖွင့်ပါ" +
+                    "<small>လင့်ခ်ကူးယူပြီး Safari တွင် ကူးထည့်ပါ</small>";
+    btn.textContent = "လင့်ခ် ကူးယူရန်";
+    btn.onclick = async () => {
+      let ok = false;
+      try { await navigator.clipboard.writeText(url); ok = true; } catch(e){
+        try {
+          const i = document.createElement("input");
+          i.value = url; document.body.appendChild(i);
+          i.select(); i.setSelectionRange(0, 99999);
+          ok = document.execCommand("copy");
+          document.body.removeChild(i);
+        } catch(e2){}
+      }
+      btn.textContent = ok ? "ကူးယူပြီးပါပြီ ✓" : url;
+    };
+  } else {
+    txt.innerHTML = "ဖုန်းတွင် အက်ပ်အဖြစ် သိမ်းရန် — Chrome ဖြင့် ဖွင့်ပါ" +
+                    "<small>ဤဘရောက်ဇာတွင် သိမ်းဆည်း၍ မရပါ</small>";
+    btn.textContent = "Chrome ဖြင့် ဖွင့်ရန်";
+    btn.onclick = () => {
+      location.href = "intent://" + location.host + location.pathname +
+                      "#Intent;scheme=https;package=com.android.chrome;end";
+    };
+  }
+
+  document.getElementById("iab-x").onclick = () => {
+    bar.classList.remove("on");
+    try { sessionStorage.setItem("iab-hide", "1"); } catch(e){}
+  };
+
+  bar.classList.add("on");
+})();
+
+/* ============================ helpers =========================== */
 function esc(t){ const d=document.createElement("div"); d.textContent=t||""; return d.innerHTML; }
 function fmt(n,dp){
   if (typeof n!=="number" || !isFinite(n)) return null;
