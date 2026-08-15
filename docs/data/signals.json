@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-15T11:30:19+00:00",
+ "generated_at": "2026-08-15T12:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-08-15T12:00:22+00:00",
+   "title": "Corporate Governance Seminar & Panel Discussion Talk 2026 held at UMFCCI",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLXdxTWdXMEgydXFjUjF4OUZxcTZhNndtM1hmb1ZUcnI1UXAzS1U0QjdTNUlPZENicFRfbW5tS2hHRnZkUWZ4VnlDakFzYjNUWXNLbGZ6WVFaMkNuTUJfa05GaWxNQVN1REtzbzVicmFHczV5T2ViLVpPcnB0c0IwbUF1WVVIZTZKa21fTVpZa2ZNbDY1U2xkLWRkdw?oc=5"
+  },
   {
    "ts": "2026-08-15T11:30:19+00:00",
    "title": "- yktnews.com",
@@ -2114,13 +2121,6 @@
    "source": "Khit Thit",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fdjhJUkhyT1IzdVBSMTJHY3hmRHAzbENlalZvSXVQdG5kWVM3VnRiM0h1UkdWTElsZmk1aVFFeHdPZzhrUmJDLWNXTQ?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:25+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBGY1dlQWxsbEJ2VUxWQlBkcDVJUXBPQXE0R3JpN3R1T2dIMjlfR2RwZUxpczN4bFBBZVVuNGU1TEYxQmdBRDE3TzRWYw?oc=5"
   }
  ]
 }
