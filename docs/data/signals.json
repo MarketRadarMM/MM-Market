@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-15T05:00:24+00:00",
+ "generated_at": "2026-08-15T05:30:22+00:00",
  "signals": [
+  {
+   "ts": "2026-08-15T05:30:21+00:00",
+   "title": "Upholding Empathy and Courtesy in Public Service",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Tc2p1SldzTEx6SXJzMEpMTmxTdkxOQWNyQkxSQlozNmRsQ3cyT1BUb0Fqb3dSY1RTM2J2SDQtbkp4YjVibU1jN2JaNWxGeGdmYnUyTzc0ZmpBc3JoU1cwME1HWkZpTkwxX2R5R2xILXJyYmRLRGJVRGRvVE13QQ?oc=5"
+  },
   {
    "ts": "2026-08-15T05:00:24+00:00",
    "title": "Senior General Thadoe Maha Thray Sithu Thadoe Thiri Thudhamma Min Aung Hlaing to the ceremony to mark the 78th Anniversary of Independence Day 2026",
@@ -2114,13 +2121,6 @@
    "source": "Khit Thit",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5LUVBka2FqazhtYm11QjhXZWlvRTctcnE5VVBOMy1DSjRCWE5YYmg0OEM1X1dVeXBIenJIdFI1Zm44cERCX0I3d1BOTQ?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:25+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUTWF0cURNYi1BNS1Ha3dRNy01VlFyTFh6M3ZiQVc5eEtVSG5rSFlDeUhmRnVKM08tNUs2dnBXSUQtb1JLUkhnekxrMA?oc=5"
   }
  ]
 }
