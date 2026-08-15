@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-15T21:00:26+00:00",
+ "generated_at": "2026-08-15T21:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-08-15T21:30:19+00:00",
+   "title": "16 August 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFByX3VKWDFGTjF6UlJmX1lpQTZNV2t1VzR1ZXktUE5oajg3U082TU93VHZrM1AxWlV2d09TZHlUZ2VxMUtHV0xSS2NGQmt2cWtl?oc=5"
+  },
   {
    "ts": "2026-08-15T21:00:24+00:00",
    "title": "စာပေဗိမာန်ဆု Archives",
@@ -2114,13 +2121,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNemlIOEk1ZVk4ZUVrMGM0M0NiaF9Yalk2WkdXd2pXaEZCQWszclljb2RfYV92dHlrb1VLZm9uZG5iUER1OVZyNS1ZU2FhVjE3VnIyUXYweXF5MHg2UmxkNGJnTlJ4ZFdvZ2FmdEN3LW05clEwenBDdnlrNUttS3NmazNvZVJUWFdCc1RhQlduYnZPTTZ4dTRkX2l6b1o1a1RmRDFxSDJfVnFFcjR5SWlfaHJ2alRRYTZaY293cy1md2h0aHc?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:26+00:00",
-   "title": "Christopher Staker Delivers Oral Argument at the ICJ",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LWHFsVkxUV1J3UW1ucWZpZXdUcEtTRV9iQUVsRmdpR2FMNVJiSEdXT0tjb2ZDWmZQSVZpS2RJbm5JQzZYUWg0V2dVYmlXWTR1OXJJSTR5QkhZUUpGNGxaQ002SkI1X0NVSFpRLXdKSDVKNHJjYlg0?oc=5"
   }
  ]
 }
