@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-08-14T23:30:21+00:00",
+ "generated_at": "2026-08-15T00:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-08-15T00:00:23+00:00",
+   "title": "Myanmar, Guangxi eye robust trade, AI, and cultural ties",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS016M05qRXF4S0RzYjlMNGtiMDdIdGgwOGRveWl5Zmp4V3NuN3Zmb2pwLWZLN3FmY2JORnVOeHlOdXU4SEVNQjVOLW9NTW1pc012cndqSDJLQU5GWTRfcTN2aWJ6REc2LWt3OFhzSGdVRnV4aW9hRW9tSmpRamZNemhnNEQ?oc=5"
+  },
+  {
+   "ts": "2026-08-15T00:00:23+00:00",
+   "title": "YCDC Systematically Chlorinates Water Supply Network",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRHllYXdoUXhRNDlwcUttdEdhSHRIMGZPVXg4RHJwYWVSdWtqT3k5blR6a2ZXUThqYm1pVV80dzIwWnU1LU1SNE9qd1RxMGNlcVdVb1hxcTF6NFV4VlgtajlhTnM4anUzZjAwSUJaNWtWREJnTWF2aWY4ejgtanBIb0Q3cw?oc=5"
+  },
+  {
+   "ts": "2026-08-15T00:00:23+00:00",
+   "title": "Returning Tatmadaw members welcomed in Taninthayi Region",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWFl4b0ZUd096MlItbmRtcGFuZnBGTVliMkJPWFZlcldTY1k4c2J4TFdzalJQdUp3TXQ5VXRvUUxic0Z5LThoRHpWTFlYM05FZUlpUjZrdFByUzhlRnVKSXV2QTcxQUJqNFByRlNrOGdOb2ZqeVJPa3ItSlVzRGNLd2ZzdW81djdO?oc=5"
+  },
   {
    "ts": "2026-08-14T23:30:20+00:00",
    "title": "Thayawady’s completed concrete wheel-track road inspected",
@@ -2100,27 +2121,6 @@
    "source": "Khit Thit",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9oSF9SWVJRTmtjU0V3TU9BV2RlSWVvYmotanM1SEUtVDk5N2thajBpdTd3cU1iaXBZNnB1S25USE5PLTdXMmhFX2ZzSQ?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:25+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB4Y2RSLXl3aFZfaVUxTF9VUmdEeDdvc1BQUk1nN1JveUR5SWNhVTNMSG9xdTJ5ZEp5SkpQam5CT3N3RS10TUlfenJaQQ?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:25+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA0NEJadjN0UWxFaVVuT0dEZVZVMkNwZzhFelg3Q0tqRXF1U2hsWktYOUpRcV95MmhGV0s5VkstWVBNMHA0LWwwZUZvVQ?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:25+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTakEteWZxT1J4d2NGV1QxZHdPVmFmdkdCQWpmTkM4MUNiN2FibnZERkR3T2xoaTVZZEFPVmhkTHY2MllkalYwWk9TOA?oc=5"
   }
  ]
 }
