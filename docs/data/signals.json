@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-15T16:00:22+00:00",
+ "generated_at": "2026-08-15T16:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-08-15T16:30:19+00:00",
+   "title": "Aung San Suu Kyi hit with two new criminal charges",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNa3AycDNMc2pORGJyMWY4bzZWM24zS251SEJzT1g4ZVIyT1dqSVdncENhNmJlZ3UtMk9DLVMzakRPZlhEOGY0SFFDS2l2b2dzckpXRkR4NkV1RHVsSENRT0tXTnczSTFTZGFlem1ZNlJURHJXaktCS0RTalVmeXJMOXJ0aXFJdS1RXzl3eFpFQQ?oc=5"
+  },
   {
    "ts": "2026-08-15T16:00:22+00:00",
    "title": "470 males and 47 females, totalling 517 from PDF terrorist groups including KIA, AA and PLA terrorist groups accepting the peace processes of the State and the Tatmadaw return to the legal fold, and transferred to parents and gardians systematically",
@@ -2114,13 +2121,6 @@
    "source": "Khit Thit",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9YdFdUVk9YTDNWNE1CcjJuOUM0SmFFSVdYQXNGZW00RTZuWU5PLS1NeWRMU1o5YWg1b0R5UzBsLXh3XzZFVUgxV1p3?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:25+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1vSTV2YlZCQVY3S25ULWhOaWhmdjdFQVlTSkU4Y1gxQ19leHdUZmxCU1haRkFPU1BDMmdGTXZqQjZXUmlKR19KZHcxdw?oc=5"
   }
  ]
 }
