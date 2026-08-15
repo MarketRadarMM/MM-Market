@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-08-15T14:00:22+00:00",
+ "generated_at": "2026-08-15T14:30:23+00:00",
  "signals": [
+  {
+   "ts": "2026-08-15T14:30:23+00:00",
+   "title": "Opening ceremony of Convocation Hall (multipurpose hall) of Naypyitaw State Academy held Acting President of the Republic of the Union of Myanmar, Chairman of State Security and Peace Commission Senior General Min Aung Hlaing graces the ceremony",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN3hPT2tReG1pTVVucC1xMjRWbW5ERzRfc1FqRHk4OEdURkdpZzdQem9WaGVPbVJLLUE5RTZ6OENESDBhYzd4YWdiS3B1aHgtNzJGTTJTTlZ1bDdsQXZEaHBUaW9hSUV4TDNOUWNKSG5zRmdPa0dTOWlITzQtRlJ4M21wUVpld3VnSjZoeW9NRTNHOHY1WWJuOFc2VFByYmM2aURoOVVDX2dyZkxnYXFsOGF4Y2d1Z2tCX0xPTw?oc=5"
+  },
+  {
+   "ts": "2026-08-15T14:30:23+00:00",
+   "title": "Senior General Min Aung Hlaing cordially meets town elders and departmental personnel of Homalin and Wuntho, presents Covid-19 prevention, control and treatment aids",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sTnFnTGthUUZUYktRY1VsVGVWTm8wc0Z3dVJPWVZBSTMwV3MxR3RMYWl5M2FiRGlOZmp0ODdBUGpnbEhIdXJrMHNIbnpHaDRjT3Z1ZjFkSHNJdw?oc=5"
+  },
   {
    "ts": "2026-08-15T14:00:22+00:00",
    "title": "Acting President of the Republic of the Union of Myanmar, Chairman of State Security and Peace Commission, Senior General Min Aung Hlaing meets district- and township-level departmental officials and local elders from Homalin",
@@ -2107,20 +2121,6 @@
    "source": "Khit Thit",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5aSkttY3FtOVVvMEtwUUhjeVRWaE5TYW1qeDdpNnFxbmwxQ3VUbkw1U0xjbUlUVldnQVpvZW96VXEwX3lqeW85YUtn?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:25+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44aEFqU09rUWo3WkFSaDZzS1Z2cnNfdmN5T0JCX0lwSmxWeEpVRWFkMldVSTRZQ1J5Z3F4a3gzZ19lVzZtbmlrNDkwQQ?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:25+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBWWlJ5VU1MLV9SQkYxYUp6WjkzVDFJVFlrN3pVM2xGUnVfaU5xUWNSd2c2UzdsTWVrT242TWN4RGJWX0czOUZyOUY3QQ?oc=5"
   }
  ]
 }
