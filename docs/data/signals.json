@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-15T09:30:18+00:00",
+ "generated_at": "2026-08-15T10:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-08-15T10:00:21+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ZdjctRnlEbF9PeldYRnRueko4QjZIeGJFbG53Mlhvd01XRFFETWpqS053VjBqLWRETkVQakkzSVhOcW9rUGhoY1duNA?oc=5"
+  },
   {
    "ts": "2026-08-15T08:30:17+00:00",
    "title": "Senior medical specialists provide free healthcare to over 1,200 patients in Kengtung",
@@ -2114,13 +2121,6 @@
    "source": "Khit Thit",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBqMm9BUnpHeXBPOVZLcEx3ZWkzTE9hSFpCSVNEcXBLUFc1VDZVeU1NMGY1Nk1KRnJPVUtiUlR6bkJtMHZMS2NLX1Jnaw?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:25+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5DWU9RWmR2SXR3Ry1wd2J1N1ZTbEdjMXg0ZnRLeGZwVzIwaDZtSzZPV3doVjI5OEhwV3dzaWJIU004UklqVXhQbHdzbw?oc=5"
   }
  ]
 }
