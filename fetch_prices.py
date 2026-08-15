@@ -91,7 +91,7 @@ MONTHS = {m: i for i, m in enumerate(
 FX_CODES = ("USD", "GBP", "EUR", "SGD", "AUD", "AED", "CAD", "MYR",
             "THB", "TWD", "JPY", "HKD", "CNY", "INR", "KRW")
 BUYSELL_RE = re.compile(r"Buy\s*([\d.,]+)\s*[-–—]\s*Sell\s*([\d.,]+)", re.IGNORECASE)
-FX_HEAD_RE = re.compile(r"\b(" + "|".join(FX_CODES) + r")\s*1\b", re.IGNORECASE)
+FX_HEAD_RE = re.compile(r"\b(" + "|".join(FX_CODES) + r")\s*1", re.IGNORECASE)
 
 BOUNDS = {
     "USD": (1_000, 20_000), "GBP": (1_000, 25_000), "EUR": (1_000, 20_000),
