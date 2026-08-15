@@ -3,7 +3,7 @@
    Data is always fetched network-first: a stale price shown as current
    would be worse than showing nothing. */
 
-const SHELL = "mr-shell-v2";
+const SHELL = "mr-shell-v3";
 const SHELL_FILES = ["./", "./index.html", "./icon-192.png", "./icon-512.png"];
 
 self.addEventListener("install", e => {
