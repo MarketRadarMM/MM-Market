@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-08-15T01:30:23+00:00",
+ "generated_at": "2026-08-15T02:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-08-15T02:00:21+00:00",
+   "title": "A message sent by Acting President of the Republic of the Union of Myanmar, Chairman of the State Security and Peace Commission Senior General Thadoe Maha Thray Sithu Thadoe Thiri Thudhamma Min Aung Hlaing to the ceremony to mark the 52nd Anni",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWXVNcUZfb05iMWE4TmhaWk03VmhPN1FvNUNBMnBESHg5dTZJYkxzeXBsZEVxelkwSGlscnpsSGxSNHNNZ1pjdENhMklJTGh6anh3R0xzRlVKaXBrajFsR25ReGFtZDQ1OTFmQW1DR2VxRXlNV0hvcEZmc1hDM1N6WW5HWHJqcERoVWk5VFJPbEZfamJkSlZNTHJyWEY4Tk9OM1MwZExQRjQ1Q3loQXJmR3FRd3NDNGVpNGl2SGY5aw?oc=5"
+  },
+  {
+   "ts": "2026-08-15T02:00:21+00:00",
+   "title": "Vice Chairman of State Administration Council Deputy Prime Minister Vice-Senior General Soe Win addresses International Day for Disaster Risk Reduction 2024",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVWU4WW9SRGdVZW0zUUxiaTFkUGh0TVl1MWhhRGtzdzJlSllfODBYY1cyNWU4UVhQUVVTXzhqemVkYm5rWUJubHNZUV9QelJzSkpNNV9lTG93aFFnR0txLWVyV0lFbVJmeUFuN1BWQ3ZmdmJPSG1HTW5qNW0xUDVhaERkeDR4MzhQYXJ3d2ZrdmZkVGYyM0hSRUFSM0lXT3ZnT19jSVlOZURIMFkzTVNucGc5RjdVakczM0JWbDBzRQ?oc=5"
+  },
   {
    "ts": "2026-08-15T01:00:26+00:00",
    "title": "The message sent by President of the Republic of the Union of Myanmar Agga Maha Thray Sithu Agga Maha Thiri Thudhamma U Min Aung Hlaing to the ceremony to mark the International Workers’ Day",
@@ -2107,20 +2121,6 @@
    "source": "Khit Thit",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9XRFZ0NGc5bVppZ0tzcXV6YmtyYUFGRGpLVXlTV3BfdENIb2t4Z2MteDNOUjZ5TlVKbU5TYXQyeXFrZ0JwNnJyZWJ3?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:25+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBraVhWZHNBU2o4RC0xVGRrYmNSUDNsczJDV3RSWFFidUkyd0FLakJoY182UEh1SGFGYVBDR01LY3F4Ykc0d3A0QlBOcw?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:25+00:00",
-   "title": "2545",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBSbVN1OG1tdENCZ2liT3BrRVdxMXFjLUpRa05QX0c5WmNNRURpNENpM0h4RGxKejJBT0RNak5NUUdCWGw4Y2Q5Unl3dURTVFBiUC1BZUZaSQ?oc=5"
   }
  ]
 }
