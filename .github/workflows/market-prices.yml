@@ -8,6 +8,7 @@ permissions:
 
 env:
   TG_CHANNEL: ${{ secrets.TG_CHANNEL }}
+  TG_CHANNEL2: ${{ secrets.TG_CHANNEL2 }}
   DATA_DIR: docs/data
   PUBLIC_MODE: '1'
 
