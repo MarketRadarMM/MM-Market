@@ -1,30 +1,55 @@
 {
   "source": "community",
-  "fetched_at": "2026-08-15T13:30:19.035474+00:00",
+  "fetched_at": "2026-08-15T18:03:59.509750+00:00",
   "status": "ok",
   "confidence": "amber",
-  "flags": [],
-  "posted_at": "2026-08-15T10:03:10+00:00",
+  "posted_at": "2026-08-15T13:22:38+00:00",
   "post_date": "2026-08-15",
-  "age_hours": 3.5,
+  "age_hours": 4.7,
   "labels": {
     "gold_16pe": {
-      "my": "၁၆ ပဲရည် (အခေါက်ရွှေ)",
-      "en": "16 pè yay (99.9%)"
+      "my": "အခေါက်ရွှေ (စနစ်ဟောင်း)",
+      "en": "Pure gold, old system (16.606g)"
     },
     "gold_15pe": {
-      "my": "၁၅ ပဲရည်",
-      "en": "15 pè yay"
+      "my": "၁၅ ပဲရည် (စနစ်ဟောင်း)",
+      "en": "15 pè yay, old system"
+    },
+    "gold_16pe_new": {
+      "my": "အခေါက်ရွှေ (စနစ်သစ်)",
+      "en": "Pure gold, new system (16.329g)"
+    },
+    "gold_15pe_new": {
+      "my": "၁၅ ပဲရည် (စနစ်သစ်)",
+      "en": "15 pè yay, new system"
+    },
+    "gold_16pe_buy": {
+      "my": "ပြန်ဝယ်ဈေး (စနစ်ဟောင်း)",
+      "en": "Buyback, old system"
+    },
+    "ygea": {
+      "my": "YGEA ရည်ညွှန်းဈေး",
+      "en": "YGEA reference price"
+    },
+    "wg_usd": {
+      "my": "ကမ္ဘာ့ရွှေဈေး",
+      "en": "World gold (USD/oz)"
     }
   },
-  "unit": "MMK per tical (ကျပ်သား)",
+  "unit": "MMK per tical (ကျပ်သား); ရောင်းဈေး unless marked",
   "values": {
     "gold": {
-      "gold_16pe": 10080000,
-      "gold_15pe": 9480000
+      "gold_16pe": 10100000,
+      "gold_16pe_buy": 10040000,
+      "gold_15pe": 9500000,
+      "gold_16pe_new": 9930000,
+      "gold_16pe_new_buy": 9870000,
+      "gold_15pe_new": 9340000
     },
+    "wg_usd": 4376,
+    "ygea": 7050000,
     "fx": {
-      "USD": 4420,
+      "USD": 4400,
       "THB": 133.89,
       "SGD": 3461,
       "JPY": 28.01,
@@ -38,9 +63,9 @@
       "YGN_95": 3770
     }
   },
-  "source_disclaimer_my": "ခန့်မှန်းစျေးသာဖြစ်ပြီး တစ်နေရာနှင့်တစ်နေရာ ကွာဟနိုင်ပါသည်",
+  "source_disclaimer_my": "ခန့်မှန်းဈေးသာဖြစ်ပြီး တစ်နေရာနှင့်တစ်နေရာ ကွာဟနိုင်ပါသည်",
   "source_disclaimer_en": "Estimates only; prices vary by location",
-  "posted_at_mmt": "2026-08-15T16:33:10+06:30",
+  "posted_at_mmt": "2026-08-15T19:52:38+06:30",
   "source_label_my": "လူမှုကွန်ရက်မှ စုစည်းသည်",
   "source_label_en": "community-reported"
 }
