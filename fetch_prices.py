@@ -444,7 +444,7 @@ def main():
     # Primary channel: gold + FX (+ WG, YGEA arrive with the gold post)
     chosen = None
     if CHANNEL2:
-        values, chosen, err = collect(CHANNEL2, wanted=("gold", "fx"))
+        values, chosen, err = collect(CHANNEL2, wanted=("gold", "fx_detail"))
         if err:
             out["note"] = err
         elif values:
