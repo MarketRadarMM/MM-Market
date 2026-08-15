@@ -2,21 +2,15 @@
 """
 Backfill and maintain docs/data/series.json.
 
-Sources:
-  - YSX  : market-summary page carries a daily MYANPIX table back to 2016
-  - Stooq: daily XAU/USD history (best-effort; often unavailable)
-  - Telegram: t.me/s/<channel>?before=<id> walks the archive backwards
-  - market_latest.json: today's per-company YSX closes, appended daily
+Walks BOTH Telegram channels (primary TG_CHANNEL2, legacy TG_CHANNEL):
+the primary supplies gold / FX / world gold / YGEA, the legacy channel
+supplies fuel and the deep 2023+ history. Rows merge per-key by date, so
+the two sources fill each other's gaps without overwriting.
 
-Safe to re-run: rows merge by date. Run once with a large TG_PAGES to seed,
-then daily with TG_PAGES=2 to stay current.
+Also refreshes MYANPIX from YSX and per-company closes from
+market_latest.json, and runs the outlier filter over everything.
 
-OUTLIER FILTERING:
-The source is hand-typed and occasionally drops a digit -- one gold reading
-came through about 90% below its neighbours, drawing a crash on the chart
-that never happened. Every numeric series is checked against a local median
-and implausible points are removed. This runs on the merged result, so
-re-running repairs values already stored.
+Run once with a large TG_PAGES to seed, then daily with TG_PAGES=2.
 """
 
 import json
@@ -30,7 +24,7 @@ from pathlib import Path
 import requests
 from bs4 import BeautifulSoup
 
-from fetch_prices import parse_post, CHANNEL, UA
+from fetch_prices import parse_post, CHANNEL, CHANNEL2, UA
 
 OUT_DIR = Path(os.environ.get("DATA_DIR", "data"))
 MMT = timezone(timedelta(hours=6, minutes=30))
@@ -42,11 +36,8 @@ TG_DELAY = float(os.environ.get("TG_DELAY", "1.5"))
 
 SERIES_PATH = OUT_DIR / "series.json"
 
-# A daily move larger than this against the local median is treated as a
-# typo rather than a market event. Myanmar gold and FX are volatile but not
-# this volatile -- a genuine 40% single-day move would be historic.
 OUTLIER_TOLERANCE = 0.40
-MEDIAN_WINDOW = 5          # points either side used to build the median
+MEDIAN_WINDOW = 5
 
 
 def _num(s):
@@ -57,7 +48,7 @@ def _num(s):
 
 
 # --------------------------------------------------------------------------
-# Outlier removal
+# Outlier removal (snapshot first, delete after -- see earlier KeyError fix)
 # --------------------------------------------------------------------------
 
 def _median(vals):
@@ -69,23 +60,14 @@ def _median(vals):
 
 
 def sanitize(rows, keys):
-    """
-    Remove implausible values.
-
-    Values are snapshotted into a list before anything is deleted. An earlier
-    version read neighbours straight out of `rows` while deleting from it,
-    so the first removal made every later lookup raise KeyError.
-    """
     removed = 0
     for key in keys:
         idx = [i for i, r in enumerate(rows)
                if isinstance(r.get(key), (int, float))]
         if len(idx) < 5:
             continue
-
-        vals = [rows[i][key] for i in idx]          # snapshot
+        vals = [rows[i][key] for i in idx]
         drop = []
-
         for pos in range(len(idx)):
             lo = max(0, pos - MEDIAN_WINDOW)
             hi = min(len(idx), pos + MEDIAN_WINDOW + 1)
@@ -95,11 +77,9 @@ def sanitize(rows, keys):
                 continue
             if abs(vals[pos] - med) / med > OUTLIER_TOLERANCE:
                 drop.append(idx[pos])
-
-        for i in drop:                              # delete afterwards
+        for i in drop:
             rows[i].pop(key, None)
             removed += 1
-
     return removed
 
 
@@ -146,33 +126,8 @@ def backfill_ysx():
     return rows
 
 
-def backfill_xau():
-    rows = {}
-    try:
-        resp = requests.get("https://stooq.com/q/d/l/?s=xauusd&i=d",
-                            headers=HEADERS, timeout=40)
-        if resp.status_code != 200:
-            print(f"[xau] HTTP {resp.status_code}", file=sys.stderr)
-            return rows
-        lines = resp.text.strip().splitlines()
-        if len(lines) < 2:
-            print("[xau] empty response", file=sys.stderr)
-            return rows
-        header = [h.strip().lower() for h in lines[0].split(",")]
-        for line in lines[1:]:
-            rec = dict(zip(header, [c.strip() for c in line.split(",")]))
-            date, close = rec.get("date"), _num(rec.get("close"))
-            if date and close:
-                rows[date] = {"date": date, "close": close}
-    except Exception as e:
-        print(f"[xau] {type(e).__name__}", file=sys.stderr)
-        return rows
-    print(f"[xau] {len(rows)} daily rows", file=sys.stderr)
-    return rows
-
-
 # --------------------------------------------------------------------------
-# Telegram archive
+# Telegram archives (both channels)
 # --------------------------------------------------------------------------
 
 def _page(channel, before=None):
@@ -196,10 +151,36 @@ def _page(channel, before=None):
     return out
 
 
-def backfill_street(channel):
+def flatten(parsed):
+    """One parsed post -> flat {key: value} for the series row."""
+    row = {}
+    gold = parsed.get("gold") or {}
+    for k in ("gold_16pe", "gold_15pe", "gold_16pe_buy",
+              "gold_16pe_new", "gold_15pe_new", "gold_16pe_new_buy"):
+        if gold.get(k):
+            row[k] = gold[k]
+    for k, v in (parsed.get("fx") or {}).items():
+        row[k] = v
+    for k, v in (parsed.get("fuel") or {}).items():
+        row[k] = v
+    if parsed.get("wg_usd") is not None:
+        row["wg_usd"] = parsed["wg_usd"]
+    if parsed.get("ygea") is not None:
+        row["ygea"] = parsed["ygea"]
+    return row
+
+
+def walk_channel(channel, label):
+    """
+    {date: {key: value}} for one channel's archive.
+
+    Walking is newest-first, and per-key setdefault means the LAST post of
+    each day wins -- i.e. the market-close reading rather than the 10AM one,
+    which is the right value for a daily series.
+    """
     rows = {}
     if not channel:
-        print("[street] TG_CHANNEL not set -- skipped", file=sys.stderr)
+        print(f"[{label}] channel not set -- skipped", file=sys.stderr)
         return rows
 
     before = None
@@ -207,7 +188,7 @@ def backfill_street(channel):
         try:
             posts = _page(channel, before)
         except Exception as e:
-            print(f"[street] stopped at page {page}: {type(e).__name__}",
+            print(f"[{label}] stopped at page {page}: {type(e).__name__}",
                   file=sys.stderr)
             break
         if not posts:
@@ -217,18 +198,14 @@ def backfill_street(channel):
         for p in posts:
             parsed = parse_post(p["text"])
             date = parsed.get("post_date")
-            gold = parsed.get("gold") or {}
-            fx = parsed.get("fx") or {}
-            fuel = parsed.get("fuel") or {}
-            if not date or not (gold or fx):
+            if not date:
                 continue
-            row = {"date": date}
-            for k in ("gold_16pe", "gold_15pe"):
-                if gold.get(k):
-                    row[k] = gold[k]
-            row.update(fx)
-            row.update(fuel)
-            rows.setdefault(date, row)
+            flat = flatten(parsed)
+            if not flat:
+                continue
+            day = rows.setdefault(date, {"date": date})
+            for k, v in flat.items():
+                day.setdefault(k, v)
 
         if not nums:
             break
@@ -237,12 +214,11 @@ def backfill_street(channel):
             break
         time.sleep(TG_DELAY)
 
-    print(f"[street] {len(rows)} dated readings", file=sys.stderr)
+    print(f"[{label}] {len(rows)} dated readings", file=sys.stderr)
     return rows
 
 
 def todays_stocks():
-    """Per-company closes from market_latest.json, one row per day."""
     p = OUT_DIR / "market_latest.json"
     if not p.exists():
         return {}
@@ -263,19 +239,24 @@ def todays_stocks():
 
 # --------------------------------------------------------------------------
 
-def merge(existing, new):
-    out = {r["date"]: r for r in existing if r.get("date")}
-    for date, row in new.items():
-        if date in out:
-            for k, v in row.items():
-                out[date].setdefault(k, v)
-        else:
-            out[date] = row
+def merge(existing, *new_maps):
+    """Merge by date, then per key. Existing values always win."""
+    out = {r["date"]: dict(r) for r in existing if r.get("date")}
+    for new in new_maps:
+        for date, row in new.items():
+            if date in out:
+                for k, v in row.items():
+                    out[date].setdefault(k, v)
+            else:
+                out[date] = dict(row)
     return [out[d] for d in sorted(out)]
 
 
-STREET_KEYS = ["gold_16pe", "gold_15pe", "USD", "THB", "CNY", "SGD",
-               "JPY", "AUD", "YGN_92", "YGN_95", "MDY_92", "MDY_95"]
+STREET_KEYS = ["gold_16pe", "gold_15pe", "gold_16pe_buy",
+               "gold_16pe_new", "gold_15pe_new", "gold_16pe_new_buy",
+               "wg_usd", "ygea",
+               "USD", "THB", "CNY", "SGD", "JPY", "AUD", "EUR", "GBP", "MYR",
+               "YGN_92", "YGN_95", "MDY_92", "MDY_95"]
 TICKERS = ["FMI", "MTSH", "MCB", "FPB", "TMH", "EFR", "AMATA", "MAEX"]
 
 
@@ -287,12 +268,18 @@ def main():
         except json.JSONDecodeError:
             prev = {}
 
-    street  = merge(prev.get("street", []),  backfill_street(CHANNEL))
-    myanpix = merge(prev.get("myanpix", []), backfill_ysx())
-    xau     = merge(prev.get("xau", []),     backfill_xau())
-    stocks  = merge(prev.get("stocks", []),  todays_stocks())
+    primary = walk_channel(CHANNEL2, "street2")
+    legacy = walk_channel(CHANNEL, "street")
 
-    dropped  = sanitize(street, STREET_KEYS)
+    # Primary first: where both channels report the same date, the
+    # primary's reading wins for shared keys (existing series rows still
+    # outrank both).
+    street = merge(prev.get("street", []), primary, legacy)
+    myanpix = merge(prev.get("myanpix", []), backfill_ysx())
+    xau = prev.get("xau", [])                      # superseded by wg_usd
+    stocks = merge(prev.get("stocks", []), todays_stocks())
+
+    dropped = sanitize(street, STREET_KEYS)
     dropped += sanitize(myanpix, ["close"])
     dropped += sanitize(stocks, TICKERS)
     if dropped:
@@ -300,8 +287,9 @@ def main():
 
     series = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
-        "note": "Daily series. street = community-reported; "
-                "myanpix/stocks = Yangon Stock Exchange; xau = world gold spot.",
+        "note": "Daily series. street = community-reported (wg_usd = world "
+                "gold USD/oz, ygea = YGEA reference); myanpix/stocks = "
+                "Yangon Stock Exchange.",
         "street": street, "myanpix": myanpix, "xau": xau, "stocks": stocks,
     }
 
@@ -310,7 +298,7 @@ def main():
         json.dumps(series, ensure_ascii=False, separators=(",", ":")),
         encoding="utf-8")
 
-    for k in ("street", "myanpix", "xau", "stocks"):
+    for k in ("street", "myanpix", "stocks"):
         rows = series[k]
         span = f"{rows[0]['date']} .. {rows[-1]['date']}" if rows else "empty"
         print(f"[series] {k:8s} {len(rows):5d} rows  {span}", file=sys.stderr)
