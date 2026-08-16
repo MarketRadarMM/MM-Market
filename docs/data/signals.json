@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-16T01:30:22+00:00",
+ "generated_at": "2026-08-16T02:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-08-16T02:00:23+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBkeHB4eExZZ1J4dVZlS1RLc2stcGIxZ1N1VnNMQ0hPbkdxaE1McWdfWnl1YU1GVjI1VzJpeGktb2VTUU5FcWhabWt5NA?oc=5"
+  },
   {
    "ts": "2026-08-16T00:30:17+00:00",
    "title": "Myanmar ignoring Rohingya genocide trial measures: activists",
@@ -2114,13 +2121,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYW5HU2p6Tm5Cak9zQ2dkMWdGQTMzcmRwYWcteWpKaF80R0lmYVZnWkpwQU1tNFpjMTJYckxmbnBRMUJTdG0yaGw4M3RzcVhtS21jWWJLRzl2YTZhQUFqTnphY3YwOV8tR09nZ25DMEdyNkhiZmNrSzFlSmxBX3M2bWpvRjdaUXRMeTJSMllqUXYtbDdhWndwaURzV1Bld1lSa0Vtc2Y0NA?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:26+00:00",
-   "title": "Families of Office of Defence Services Commander-in-Chief (Army, Navy and Air) hold first rainy season tree planting ceremony for 2026",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONlM0dzJELUlJb2tUQmpHNzk0WjJKUHB0d1pjWTRCLXNfaG1GeWZsTmFkRGFQQ3ozd0JJel9uamdFUVEzMzNxUUtzMG4zSDVSbVJRNjFvY1lub0NaVHhrMGNEaFFKMVJpZHE3alVuT0VWYkRiVGxIcHlKMWNjOWk0eTR4dDl6aTZLbWRyU1pmZ21RRGc4UkVBVFBIOXdPdFMtcVNOSHdVelZ4emFvTGJTUEk0VW41b1dIZEE?oc=5"
   }
  ]
 }
