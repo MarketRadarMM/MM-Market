@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-08-16T02:30:24+00:00",
+ "generated_at": "2026-08-16T03:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-08-16T03:00:22+00:00",
+   "title": "MIFFA reconstituted as Myanmar Logistics Association (MLA)",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOVd2WHdheVRQQTRla2NtNU1SbkVpQ2IwT3V1TFVRODhGTkpQMnRPbDhkeEcwdWpUeGdhS1NsWWo0YmdQb1A4b1cyakVDZzctQklDa0NWNUEwUlkwQmVtLU85ZUZCSnBKWjdIRjhPVFhBV1l2Q3AyV05OcV91X2ZDZFlTMlJtSjRC?oc=5"
+  },
+  {
+   "ts": "2026-08-16T03:00:21+00:00",
+   "title": "Chrissy Teigen Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkOEQwRHFtSDJwNjlsNEdZbWVfM1ZWd3o1ZW8xWE1IZm4tOTB0MkpGaVdESG9QYkw0VzcxU0REQU1ueXFvVEpRNEcwU1ZXd0FBSDE3dnlrV3hmUQ?oc=5"
+  },
+  {
+   "ts": "2026-08-16T03:00:19+00:00",
+   "title": "သြဂုတ် ၁၆ ရက်သတင်းများအနှစ်ချုပ် - ဦးမင်းအောင်လှိုင်ရဲ့ ရုရှားခရီးစဉ်မှာ ပူတင်နဲ့တွေ့မယ်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c78ggnv91x1o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-08-16T02:30:24+00:00",
    "title": "Chairman of State Security and Peace Commission Commander-in-Chief of Defence Services Senior General Min Aung Hlaing attends commissioning of 40,000-ton dry dock of Naval Shipyard HQ and war vessels of Tatmadaw (Navy)",
@@ -2093,27 +2114,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZmNyT0xvakdlQ0VVY1ltNDJIS0djN0JTT0VBdDdDVWVVV3lXclFVcTMyRm13Q0xjem5adzRUQWo0bkNDblo3d0lzbmhYZFh5clJtYlFBWl9wcVNRT0xTOURQYW0tMGNrVEhEelJOVEFRUElTU0V5ZS1lVmhvRXdWOE1MVmVFRDcxUEx6SmVpSVNDeWdpUjI0T2VKZWNRRFUtTUpfLTV3SXVzUTU5UTZ1bTM2dkZ2Y0JMWFZCUmNGOFdlNTFFZEFMYkx3?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:27+00:00",
-   "title": "2024 Myanmar Motion Picture Academy Awards Presentation Ceremony held Chairman of State Administration Council Prime Minister Senior General Min Aung Hlaing delivers opening address and presents Lifetime Awards for Motion Pictures Achievement",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZldtWHMzYzBvSm9LLUdqUDgtRjRhNUFDeTQ0ODdsdERrRGtBSHVQQWVUMHhhVUxqWUdUcTR5eVlGYjlua0RqNGY5VFkzS051UmR6cjg2WlBSRW4tMW9MVFRqem55UmNiMGZ2Qk8xejNfdU03VTh6YWNEUGVfV1lWYVpwbHdsZndQcUVtNkNsTFdqa1JKLWJVTXJPOUl1TXp3WEJ5RTM4b2ZRVjNobklCYUREUXZBN1FtbDlqLVA4SQ?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:27+00:00",
-   "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing receives delegation led by Chairman of the National Democratic Alliance Army(NDAA) U Htein Lin",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUXlWT3FaVDBEeXhwVVNjekxlRGNRVXpyU2k2WE5ZaEpNdFQ3dXBQWW1nWklDY1QtejJJRWtPWkpQMFVudl9rY1ZmUW9EUFN1dUZOcmIxejZERGJxNTBpVlJGWjI2YVNBcDIyM1JjS3VzbnhzOG5GUEt1c0FnMERFOHdSMjlFM1g5NFV0eFNMMG5WelBuTVhxTlJoSWN0Snc5dFNaRDBWZkZfaktYdkU1TktkN3FncmY1aW5n?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:27+00:00",
-   "title": "High-level Myanmar delegation led by President U Min Aung Hlaing arrives back from Thailand to Myanmar",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdlcyd2xLZExMNlBKenktUjBNUDNxUjhSVkN0MGJLMkdOMEw4REFPLXB6dDNHTm1aU29tYXJ3Si12NUhsMm5xbzRNb25BWjJtZ3NQaTZaV3ZFT202eFprQS1pQ0Z4MmxxcEo3bU1KU0pxekhxUFJodWZjbU1qZnhGOUxJRVFlcUtpcnNIWW5UMFgxems4UW03OVZqbjlOVF9WVnBFMWpwLS1rOUw2SE9Cc0NsTXg?oc=5"
   }
  ]
 }
