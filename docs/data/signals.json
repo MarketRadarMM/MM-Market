@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-16T05:00:23+00:00",
+ "generated_at": "2026-08-16T05:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-08-16T05:30:15+00:00",
+   "title": "ငလျင်ကြောင့် လူအသေအပျောက်များစေတဲ့အချက် ၇ ချက်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c5ygm718gxko?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-08-16T04:30:17+00:00",
    "title": "A commemorative speech delivered by Acting President of the Republic of the Union of Myanmar, Chairman of the State Security and Peace Commission Senior General Min Aung Hlaing at the ceremony to confer Honorary Doctor of Public Administration (D.P",
@@ -2107,13 +2114,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM0RiNU9Tdk51Qjg0LUNnUmo3RWM5RlNnMS1lN1BFeDJwNlRXYXZuS1hOeWFOckxEaDRtUlJWa0ZUazloX0ZRdU5BQ3kxcDRZMFRReXFXN3B5bVUyU3dWVW9TV3p0ZEVxRktoeW1uazhBS1N1ZS0xalRxVmhzTmlEMkVXd25RSTJEbGtJeDk3eFBhNjhmTkJNTWNIZFAzNWNBNVVGWTNseFZjNnRWMUhsYU5kazJPU3NBMWE4?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:27+00:00",
-   "title": "Strengthening School Health in Myanmar: Building a Healthier Future for the Nation’s Youth",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWm5fLW9FTmI4bDFFS0gyOEdGSlM4cV91c0FVUTJfUU0ybkQ4eWhYYXlmcWRIeV9VVFp3MW10QWhMNTNQTzk3WkRkUFF2ZzJ5MHBxem1qakx5TFM1ZTc0OHNrTy02Wlh3LTJlbGFvVHlCWjFKRDFxOHl1bkQ2azNkdnkxT1hSYnRvUDJOZUdOdTBGbkxoaGRGaGNIWm5lVXM?oc=5"
   }
  ]
 }
