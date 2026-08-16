@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-16T06:30:19+00:00",
+ "generated_at": "2026-08-16T07:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-08-16T07:00:21+00:00",
+   "title": "မဲနယ် Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRkZEYmlGYUQxVXVSblVuOU5GNTItTW4yRnM0eGF0YWJrOEYzaUpsLTh4WXZsejJlZnFXVk1pS2toSV9YMjF4YU9Va1JraFpYVGZUNTBwWkRaQ3J6WnJSb0FGRkJrYlBNanFjbW03UmY4bDZoRzl0VFFaT2s1SnFpazZ1UQ?oc=5"
+  },
   {
    "ts": "2026-08-16T06:30:19+00:00",
    "title": "10 August 2026",
@@ -2107,13 +2114,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRnMzUUI0NDlGQjFtRDIzYXZSeVMzT091TEc3WVJlc1JOaDl4Wno1ZkI3YjJHLWFzZmJpN1NTbjRtZkluQTNnWDU3b1V2TDhJTm5ldEhuVmpBMmpaVWdMU0RlT2xQaFk3OGI4ZHA5bjVXV0JLam5vSXhMRmt2RllCc2hfa0xfc0xXSmI2RElKQU1mNC02OWl1ZTVfaXlhb1RfeFVFVURFTEx2aHZRV2JDNU5hVllXTEtEYk1j?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:27+00:00",
-   "title": "Republic of the Union of Myanmar, Thailand hold meeting and sign MoU and agreements",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONGVPb3BvVHpWbElZM0ZDS3o2S3kwME5ZemszcFJWUlVfVWhGNDFCcWViMVZjRGROLWlGT24xaUdBREVfNFUycGFOMG5ldTFVbC1lMzNEcDAtYWJ4bFFPVEtVX1FMWG0zQ29ILTNra25Pd3lxRG52Z3dpd2JqN1R3NnBTTmFMbWlHLVowNjl5NXVLM3dKM3Z1cWpGNA?oc=5"
   }
  ]
 }
