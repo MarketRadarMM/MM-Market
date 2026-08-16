@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-08-16T22:30:22+00:00",
+ "generated_at": "2026-08-16T23:00:28+00:00",
  "signals": [
+  {
+   "ts": "2026-08-16T23:00:25+00:00",
+   "title": "Fuel price caps dip this week ending 20 Aug",
+   "source": "GNLM",
+   "markets": [
+    {
+     "market": "fuel",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "Fuel-market story — read for direction"
+    }
+   ],
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5iMThOS2s3N3hfd256SkF5X3FIam92dk5LOEx2SGgyY1VfTlRSeWVSOHp3MnFpWjd3Q2daUHFZb3pLdlF5dUhrUzBnaFJONFk4TkdCUk1iZzlrVnMxeWJZd3VSTTdrSmI2bF9DTzRtUXdmUUk3TzZn?oc=5"
+  },
   {
    "ts": "2026-08-16T21:00:20+00:00",
    "title": "Food Policy Commission meeting held with an address by Commission Chairman President U Min Aung Hlaing",
@@ -2127,13 +2141,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSUw0VmgtOExMWW1IU3MxOEFuUkZCY0VNcHZ1VWxLVWVkZ0pSNVZQVmozU2tYS0szaHZpZFdtUmtVTTJKRFBGR2NKY2ZSSWE0WGdrWE5XU2o1VUpLMUR5ZWNkRHhHS1lnNXJWYXB4c1A1LW1xUWtweHd0dEZhYUNHMDZZVUc0SEE3aXhpeTU1T3hVOEdEbXpEdVAwaTYxcXVyUEJGUE14QVI2S0g5cW92eGtLWnkxZkhER0NBZWpCVzBJUmc?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:27+00:00",
-   "title": "Chairman of State Administration Council Prime Minister Senior General Min Aung Hlaing addresses SAC meeting 5/2023",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRDE5YmZSVlVMa21TSnRMQmtxZTZRMUNzTW8xdjRXX3JKSF9fSEZBVlZFSFhTd2ZNd00xeUZNcU42TFN0LXljVGFrZWhKZGFfRzFMZ3lkNzdTaFZPc09DOFFTLTdJM3l0WTlFM19lVFl2cXZ3a18zNUU2aGpuOHdrNnRyMFFQTFpkWV9VS1dhUVZ0dVZObWFMTmdENTBqbXBLdnU2em8xbnM3MzhsZm9ZVnFHcjdxSTZlNlc5Z0VaWlMwcHZ4?oc=5"
   }
  ]
 }
