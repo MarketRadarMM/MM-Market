@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-08-16T03:00:23+00:00",
+ "generated_at": "2026-08-16T03:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-08-16T03:30:19+00:00",
+   "title": "Indian Ambassador visits Myeik to boost trade and community ties",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS01mMkt3Q3RMT0dnS2ZnbEI4clZvS0dZV1BibjByR0FnV3lqZ2NHdlhaeGdCTV9Nc2Z6ZFRXeFRicllMYi1veU9ZWlJUU1RiNk1tM0pFT0dObXhRNklCdVVNUW1nUEZpV1h3cmlpZHNxZ3VSdWxxN19ZZmlzRmQxM0psTE5QSUluUGo3aVdMbTJjNW8?oc=5"
+  },
+  {
+   "ts": "2026-08-16T03:30:19+00:00",
+   "title": "34 Chinese nationals linked to online scams arrested in Laikha",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVHBhMGRDdUE0SDNsTFVfUjZrdmhhVXNtLUx6X0xiM0xET0ZBLXBWV3VrRzc1dVQ2RDBBaWNjNTlXWUMyajk5ZTh3MTFJV25WcndBTVV6cC1NSFFVTGc2N2pvdTNKajVLSjVuY2Ntck5VQ0RRbDJFNU9wcGM1TGVSemUyRXpHV0Vmcmg1bWx0ZHc?oc=5"
+  },
+  {
+   "ts": "2026-08-16T03:30:19+00:00",
+   "title": "Shwe Padauk Fish Market facilitates local consumption",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdFg3YjRxZUhKWVUtNTFUbHZqNXFmU0QtNEV1N0xuWTBsdldyMEVIb3J5RDU5OWhIejJNVGtrRXA3d1VaMEpTTGUwU3loeVBxQkRZc0FiMmhGT0JObWswRjBpR0NxVVA0WlI0dHJkMXM5ZkpBNUNVSHRSQ19KaHdVLXJPcDU?oc=5"
+  },
   {
    "ts": "2026-08-16T03:00:22+00:00",
    "title": "MIFFA reconstituted as Myanmar Logistics Association (MLA)",
@@ -2093,27 +2114,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPejIzOTZnUGJNck8xY2t2VG5kOHkxMUpjT0pTaXF4UlFBWGZCcUVJSzRCVG5qejhlTnJJSVFYNHhJN2J2RGd1a3I2MExpTi0wSzRoYXdYNzlkSXA0SElHV0RmZERvZ3BjTjJHUVBwRWFTVEFPUXFuUEpGb2tPdWU3enFjUjRrQ1NHQWpzU012WHQzVFZBb0ZCSlZvWm1yVC1pNFI3eTF3LVV1TmFqcnFCdHp4LXBZcmpENGFnS3Z3?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:27+00:00",
-   "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing meets with Prime Minister of Laos",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQakw4MlRNejRNbERuWEg1YlJaR3JKdjV6UFUwZWJ5M09FN2h4M1VOaU1WazNxdGEwUkdHYllJOE9GOGJDQlZMenZBeGV1d2JzUmxpVzdteHkxNEFoQTh3M0YyN20xZzVkRWJmT0J2T09uVTlYbGVWenB3NkpLUTVHVndrMzBOSGtQWE9yelhpM0JPOE80R1hZUkpTMmNNdTdR?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:27+00:00",
-   "title": "SSPC Secretary Commander-in-Chief of Defence Services General Ye Win Oo attends 79th Anniversary of Directorate of Public Relations and Psychological Warfare of the Office of the Commander-in-Chief (Army)",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMkhMMWR0UTlPVWF0cmJiX202RnBjc0d5bTRjNVg5anlrcUNTZTJQM1FXNVdWUEcwUmtUQXgxc0F6YVNYR3hTaGlLS0RWNUFkUkIzeWdWQzVUN0JBSmc5RVk4UjN6MHc1emk3R2hXdEZUU3hvbkN0cW9CVUktSWZucGs5VWJfTW9hMmFzZVd4cEdyQVJZbUViaEQyc3Q2amgxcnBjdmU2Ti01amEzdE9lVTlVUQ?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:09:27+00:00",
-   "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing delivers speech to staff, families of Myanmar Embassy, Military Attaché Office, scholarship trainees in Beijing, China",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZmNyT0xvakdlQ0VVY1ltNDJIS0djN0JTT0VBdDdDVWVVV3lXclFVcTMyRm13Q0xjem5adzRUQWo0bkNDblo3d0lzbmhYZFh5clJtYlFBWl9wcVNRT0xTOURQYW0tMGNrVEhEelJOVEFRUElTU0V5ZS1lVmhvRXdWOE1MVmVFRDcxUEx6SmVpSVNDeWdpUjI0T2VKZWNRRFUtTUpfLTV3SXVzUTU5UTZ1bTM2dkZ2Y0JMWFZCUmNGOFdlNTFFZEFMYkx3?oc=5"
   }
  ]
 }
