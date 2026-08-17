@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-17T07:30:22+00:00",
+ "generated_at": "2026-08-17T08:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-08-17T08:00:21+00:00",
+   "title": "ကရင်နီ စစ်ရှောင်အမျိုးသမီးတွေရဲ့ မမြင်ရတဲ့ လုံခြုံရေးအန္တရာယ်",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/80422/"
+  },
   {
    "ts": "2026-08-17T07:30:18+00:00",
    "title": "Junta chief makes trip to Russia",
@@ -2134,13 +2141,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUnI4akxXNDR3VE16aWltNmQ3WUhJbnVweUJIZm82SFFVNXh5NEU3WUtFU0tqTG1oZllfWFA4b18tU1ltU0NYc1dmNm41bUhZODFPazRkS3BtLXduU19HZmdLT000ZjdCYWp3cW1BWm5fdmNFWV8waWRNbk0zNWFFR2s2YmZLNU10TDRGVDFOYVNZZVBVd3hhc1RmU2p1UU9kb2hmMmF3VQ?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:38:35+00:00",
-   "title": "Persons & Issues in the News in 2018",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQNTFSNnd2Ym9lUHM3SDNxdGQyVnM4WGNTX3VJNHpyb3J6ZVdqdm1vdmp6dkJIYkF4NkhoV3hWRHNjY1VSdFNwUWV5MkhodkptOFMzMGNlODJRc2FGSmtiS2hBMy1rN1ItSE9CYk03dUNaQQ?oc=5"
   }
  ]
 }
