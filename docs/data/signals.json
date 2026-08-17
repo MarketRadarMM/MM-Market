@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-08-17T14:00:22+00:00",
+ "generated_at": "2026-08-17T14:30:24+00:00",
  "signals": [
+  {
+   "ts": "2026-08-17T14:30:23+00:00",
+   "title": "Chairman of State Administration Council Prime Minister Senior General Min Aung Hlaing takes part in coordination meeting on development of cotton, edible oil, coffee, meat and dairy product sectors Development of farming and production businesses will i",
+   "source": "Myawady",
+   "markets": [
+    {
+     "market": "edible_oil",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "Edible-oil story — read for direction"
+    }
+   ],
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVy1qM0xpNGN6ZVBXRnRnZDBFb2plaFM4VnM2YUMyaGNKT1VYLXJmYmxfWVFZNUZFWkRhMEtZVG9xRmtZc01zbDN6RXVDT2x5Z3FVVkwtODhhUlVmQ2o4VGpuU1diT2pyUGNpLWNad21qTndUQnhFTklQMW1HV2xMNzVqdVpTYkg1R242bU9aREI4cTNweUNWTE1UeTQ4b0oxUXZzUlZLSzQwTmZxMHhENUdUbGU2VUIwSDc2cGNVc3M?oc=5"
+  },
+  {
+   "ts": "2026-08-17T14:30:22+00:00",
+   "title": "Ayeyawady FC finish 1st half of season unbeaten, winning 3-0 over Shan United",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWFdtN2VrZmNrZGpxZ2x4ZjFCTUdoeFhOVmtkMlRmREFsOW96dEpwWWt1S204WWM5dHd0Ym5WOHRiUXEtRzhiRkZHY19tTGFKYmh2T2dLcWdnamk1UmpaU2JHVUdpZ21jMmE2b2tZNlJlNVp0RnhyYjVnNVl0ZGpZVjEyNXFXS0VDaG4wOUNWNlowTE9kMWkwZGVTd2F0UGFZTWEw?oc=5"
+  },
   {
    "ts": "2026-08-17T14:00:22+00:00",
    "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing formally opens the “ Myanmar-China Investment and Trade Networking Summit” (MCITP – 2026) Shanghai, and discusses promotion of investment and trade between the two countries",
@@ -2147,20 +2168,6 @@
    "source": "Khit Thit",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FNzhmLUJXN0ZGSWNoTjhGazE1R05rdURDWHZ3NndvMWlLWGZHVEcyanIwNXhnSHF2enppdFFBYy01Vm1xN00xVTdPOA?oc=5"
-  },
-  {
-   "ts": "2026-08-14T06:00:20+00:00",
-   "title": "အာဆီယံကို အန်တုဖို့ စစ်အုပ်စု ဘယ်ကနေ အင်အားရနေတာလဲ",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/80391/"
-  },
-  {
-   "ts": "2026-08-14T04:00:20+00:00",
-   "title": "နေကြာ Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQWZ4WDNzeDFoMThhSmozcGh2dGxQaGpueG05Q3BTNENQRm9aM29GVHBIbHVIUVZxYUR3czNKMVFJdUhvbWNqeVh5MkN4eHRLZUJLY1ZfbjNycHN4aURUU2RNWktVYzZuUFZOQ1c4d3Y4SGRYNXByOHVINHhHT1A0c0xLZw?oc=5"
   }
  ]
 }
