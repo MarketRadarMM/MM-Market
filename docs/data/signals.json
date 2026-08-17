@@ -1,6 +1,41 @@
 {
- "generated_at": "2026-08-17T03:00:21+00:00",
+ "generated_at": "2026-08-17T03:30:23+00:00",
  "signals": [
+  {
+   "ts": "2026-08-17T03:30:22+00:00",
+   "title": "YRTC cancels planned YBS fare hike to avoid burdening commuters",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ0dCV25pZFdSUTVXTWFJR25ZSzhkQ3MyN2RMb2tzSkN2a05WU2U1WHhveXkzUWNNQ191d1ZGNmRtSV9ocGt3Q01NTFBjU1BoT0I5QVJJYURaLU5pbkhDaTdmbU5vTlJaWE9lTHRENm8yNUFuaWFpVHh3U1lLMkc0aUVzZzFtNkFCTXFJeTBlSnBCQQ?oc=5"
+  },
+  {
+   "ts": "2026-08-17T03:30:22+00:00",
+   "title": "Students and teachers from Hlegu BEHS explore national and space museums",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS0hGMDBhTjNIdmZKWXp5QTR0dTYxT0ZzYjJGSVoteHJtVDJYY09taHplSm5vem5wMWZhekxVcmtFSHU1MWNwZkhSSU5TSlREY2RSbzlhdlhEZ0c2Mnl4OEpBZE92dVRpTS1PR0dUenBCMmxBZXQ0SUU3cExYV1MtSHdkQ2JqaFN1WmdpUGF0X0w4MFRHM3Z2OWlxbjE4Zw?oc=5"
+  },
+  {
+   "ts": "2026-08-17T03:30:22+00:00",
+   "title": "Yangon authorities step up crime prevention measures",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxON3ZseGx3ZnluLUNOeXU1dHdWSmZDZ1REZzNOd00ydWsxRmNLRHpMOFpwR2hPZlR3OGFmSDVpV0ZLU2kxbDBDV3Y2STNyRGtLLXVUZHpTTDhCLTdnZUtzSEE2Z2FjRkRJc1pwb0xUZ1pCRHR1N2VDUDVVbGt3bXBVVlBVaw?oc=5"
+  },
+  {
+   "ts": "2026-08-17T03:30:22+00:00",
+   "title": "YPS gets 500,000 subscribers",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLUkJwUGQyLWJHaEFXZE01NVZGdFQ1cHZyY2dkcmZ5V1dPNDNHZl91MzZRMVVubU9KWE95Rlo5ZGlPbnhUaEo0UEl4a2xyTGNoNVhuS2hPQ01EMGx4cXhEejFB?oc=5"
+  },
+  {
+   "ts": "2026-08-17T03:30:21+00:00",
+   "title": "နှိမ်နင်းမှုကြား ကမ္ဘောဒီးယားမှ မြန်မာအထိ ရွှေ့ပြောင်းနေသည့် အွန်လိုင်းငွေလိမ်လုပ်ငန်းကွန်ရက်များ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/80410/"
+  },
   {
    "ts": "2026-08-17T03:00:20+00:00",
    "title": "Engineers strengthen weakened sections of Ngawun embankment",
@@ -2106,41 +2141,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQlhSSzk2Y3JpeGNYT0NwX1dCLTU0dkp6elNRd05KUUMyN2p4TUQ2UC1jLVNldXhEQl9peXd5YnRSTEEybVFXR05STUVFUWIzU1phMEJVTVMwWV8wRXk4NUNuSFlmOUx2bFlTZmZmaWg3VkpCZmdqTFotQW9tTnFCLUhVNko1ekxrV0VjbldwdndEZm9xcWg0?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:18:46+00:00",
-   "title": "Int’l New York Times’ Thai Printer Refuses to Run Front-Page Story",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZXcydzFZTWZJZnBPSXFqOGpyNUxhRG5SM3p1ZndhN0FWbEZMLVo4VUlob1dJSDBmV3FiZUxldjBFSFBTT1RjRHd0UmhhYkQyOVNERnJHZUw1RkpIQVZDYkx6ZkloV29JV0ltMFBCOGU3SXF3aVZTWG9rS1luNWxINXFCb3lZS0puY2FPWlZZZVNWeF9ocHJLZEJsUlN3ajdr?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:18:46+00:00",
-   "title": "Myanmar to Punish Facebook Users for Posting Fake Govt Order",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS1lzMC1BVmFGWXdBRG5BN25fYXNoXzcyZlZ1ZnJQZUZSeGl6bXZXS0RfTGJWNDVEVEtNVFFucUpQZkxwaGo0bXViS1NwTGtrRmpJdnJjbWMtT0tDdWp4dlpoRTYweDNXazZ6RHV0M1duU1I5bWNsTU1WWUJidGlOM29WTVFyZDc0aFJaNl9vNnJPUUJ3MFVLSjBtTQ?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:18:46+00:00",
-   "title": "Four Arakanese Deportees from Singapore Arrive in Yangon",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeG9UUEU5d2dCeDN0dmU3VTNnT3Y5RGhITWJxLVlmN25IUDFBQ3dMdV81eGQ0QWwycWg0R0Ric1FTc1JSWmZQWnhOVW9jSTFvendtT1JCU2haYlFVTDBqX0x6NnZyalpCLTVKYUhsZzV2RVpxNzFPTWJQMzE3bFpBaHVDdWhyR3BYWk9HR0tWWDctbkli?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:18:46+00:00",
-   "title": "From the Archive | Recalling a Birthday Marked in Silence",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRXZBalQ0eXB6ekJXamhkcVhmd1RhdS1ZTkloVFNvNWZzemRpR1NjTDRuaEFUVkhieGkydUJacXZpRHBsZUZxOEcxbGcxZHVOaGRmWVhKbGxlLXVka2JpaDJCc01PaWp3TVdrRXYxRTBIaUtBOUR4Smk1cVhmMmY3dkZZeXA4aFND?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:18:46+00:00",
-   "title": "Three Inmates Who Live-Streamed Shwebo Prison Riot Punished",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRVRCOG1oeVJVaHdQcU0zeXppQUhOY1h0Tm1LdmtUUkY0MnViV2l3TmpBdWU3Y2FvR2o1YVJnTk83MzBFWVUyeElsNHR6aVBnWmlpTTVCQThKRkViV0lZT0dIQ1dEcER1T2Fid2FvMUpNSWwxLXcxd2tkQ1BOcjhJWTZaR1FYTExyell1SUltM1F0RjQzcU5yaUY0R0xUZw?oc=5"
   }
  ]
 }
