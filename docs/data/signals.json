@@ -1,6 +1,62 @@
 {
- "generated_at": "2026-08-17T10:30:20+00:00",
+ "generated_at": "2026-08-17T11:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-08-17T11:00:21+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9qR05BdkN0UjVPVzRScEdPaVdPMUN1S0pKWVV3ajF6T1E5c3hwY0FIV0ppeFpWVFlMd2lzT096MTFkTG5HR1VudmhZbw?oc=5"
+  },
+  {
+   "ts": "2026-08-17T11:00:21+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE83YXlmVFZ2VVI2ekdDWVJES0t0OFJQRlBTaXp2SldfWDZkZVpqcGVPLVlld3lRSko2SmpWallZNHRVYkIzV3RFR3JLTQ?oc=5"
+  },
+  {
+   "ts": "2026-08-17T11:00:21+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8wX0NuM1NVd2VRZEdnZmtCLXptd1VxNk8zYjYtd3RORm9idDlLTUJqWEV0dWdBSk5fTkFuMXd4LVJpNURUa0ZTY2xoZw?oc=5"
+  },
+  {
+   "ts": "2026-08-17T11:00:21+00:00",
+   "title": "Over 1,000 Youths Attend Youth Talk 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5XYWlxRllkMHFyTk9PMk9KbGNCSFlqQ2FEMkhCSUJwUmdRenhrQ09ZVHpKN0IwamxqNnlLc2lfbzNlbkhxTmt4U3lEQm42SENGbVZBYndObTduZkdYT1ZHQ2NjOTNrbzQzS210MDdQVzVqUQ?oc=5"
+  },
+  {
+   "ts": "2026-08-17T11:00:20+00:00",
+   "title": "North, South Korea Begin Talks Before Possible Pyongyang Summit",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPejNYUW8wSFd3bEZlSnZhMEE0WXUxdTMwLW9aV0tpN3Rzc3FYYjhYZ3lQREE5RlF4NGszX0tGcUpONW1yd01iTjRCdExSZEFrQzhHdDk4U3dLaE1yb2hxLTE5RWNMOFE3cERrWWlCYUNuRXF4c3UzNGVjVWtzNUtVamQ3R0RZcFdBN3VLMGM0ZDR4dWpxeXQwd0IzTTI?oc=5"
+  },
+  {
+   "ts": "2026-08-17T11:00:20+00:00",
+   "title": "War Against the Junta | Over 160 Myanmar Junta Troops Killed in Just Over a Week of Resistance Attacks",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcm5MYUYzLWs3dlNHM2hVbi1zWnFQMjc4NjB6UUxGOVh6ZVZ1WTZJcmlfQno4VVU3NmcwRF81Y0FmeXQ0Q01CVmtrVkhQcjcwWS12SmtwQVdudXhzUHRNY002UHJyZDN3NFFxQ2VwekRjQ0lSY29kNTQ3ZU84N0o3dk40YzRHbVljNmoxMkhqbTA3Tm9NZENXSzBVMEE0OE1nbFJ4T1ZjdmhlT3R2VWlfc1NNa1ZFcEFqcFpBTg?oc=5"
+  },
+  {
+   "ts": "2026-08-17T11:00:18+00:00",
+   "title": "မကွေးတိုင်း ပစ်ခတ်မှုအတွင်း အရှို(ချင်း)တော်လှန်ရေးခေါင်းဆောင်အပါအဝင် ၃ ဦး သေဆုံး",
+   "source": "Myanmar Now (MM)",
+   "markets": [
+    {
+     "market": "pulses",
+     "direction": "bullish",
+     "confidence": 0.55,
+     "rationale": "Conflict in bean/sesame heartland threatens supply"
+    }
+   ],
+   "url": "https://myanmar-now.org/mm/news/80447/"
+  },
   {
    "ts": "2026-08-17T10:30:19+00:00",
    "title": "- yktnews.com",
@@ -2105,55 +2161,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUkRQQ051ZzVEYjBuYzg2N0NTS1JQSENmUllPOXpfeU8yaUREcWhWcXQ5SFR5SGcyX0hRQnNueWtEek5GV09wVjhYaDFyMllvdmdrV0dMMFBWTDBvSTJpOEo2LXVPQ1BmUnhacENFREFYR00yYnNJMGFzRENfS0dIMWFaSWg?oc=5"
-  },
-  {
-   "ts": "2026-08-14T01:23:31+00:00",
-   "title": "Military Sacks its Appointed Kachin Security Affairs Minister After Kachin Jade Disaster",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWENoTDJUamZtRWR4U0c4ejRuZE9KWHlNLWdfMVd5TzhlZ01KVUlBVEZ0R251endYazRKYzBPZE1ud3k1VDl2WVJrX0N0MWpqdmVZOGt4bl9IT0NWRTVmOTJ4QWZSdThEOFFYMjdpRDRxSDJVZFlsM0QzdTRqNGd0cGo0NFk0ZWZjZVcybUxGOENEVTdxaXgwQmJ4dTNhRjZLYTZHckVGWWhWSzk5RjF0Nkp1YUY0MGpxMlNVYQ?oc=5"
-  },
-  {
-   "ts": "2026-08-14T00:30:20+00:00",
-   "title": "YGH reports 182 acute diarrhoea cases between 9 and 12 August",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWktObzRndVZaVkltak1PSmNpRnZ0N0JKdUtFRzZadXBuYUo3RlNUaVh3RUk4Wl9KbjVMTTBuQi1DeFhjbjZBcHdYV1ZfTVNGbnFrSERINkdzZ0FXRmFqX3BtRDduam9DRkR1akthMzFoRXIwX2oyeVAweVlFUkZXTmRadGtEamxMRVNMOHhUbw?oc=5"
-  },
-  {
-   "ts": "2026-08-14T00:00:24+00:00",
-   "title": "Myanmar Bans Incoming Commercial Flights to Tackle COVID-19",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYmwtV21HVVFQRHFmaHhqR3dmMks1ZWhKcjdXSm1aejQ0RGJJUmY4Y2pLaHdsQWxMT003OE52WGRnWVRwNmlRbGFnbmRza19samZXcUV1clFrdXFvVjR4Y0RtNW11T1NNNnBKamdQM1lLc3N4OVJNS2JIY1J1emJsVDF4dElDQ0xJNnl6UE9GdHN3c3liaC1SZ2JIZWlMOFU?oc=5"
-  },
-  {
-   "ts": "2026-08-13T22:30:20+00:00",
-   "title": "SSPC Vice Chairman Deputy Commander-in-Chief of Defence Services Commander-in-Chief (Army) Vice-Senior General Soe Win pays homage to Inle PhaungdawU Pagoda at bejewelled chamber and inspects repairs of damaged religious buildings caused",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSUhxR0JsTTMxeW1IdVZjNGlQbV9qRHZmY0M0cU1SMTZETlNiYUhiYWllaDItOXhITDBodVNvSDdBSGc0MTZkX0Jxd0lDUXZ0LW9kVzBBWkV3QVdFTXZmVmstcHNYUWJmUlhVY2E5czB1QWxlQmJfQnFYdEN2QUljWUtBNHJWLURiRjdhSkpEeUpwQ1FFSS1sd0NqQmpIa01DS2RJemhRUklfRl84UDktdjd3bVltSklMYzlJbw?oc=5"
-  },
-  {
-   "ts": "2026-08-13T22:30:20+00:00",
-   "title": "81st Armed Forces Day commemorative dinner held",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sdkZsT3puNnItU3dXdnE2dWJ4NnpzT1FHeTE3Tzl2OUNCaGhlOGVrTnQ4X3pTb2kxQmJSYlFPdWxDTXh3UGJ2QWk4VlpabTZLUFlmRWlzVHB1ZGVrbHBmY3pIQlQ2dTUzVjFXQUliak9OTUxPb0luSDdJTjE2WE0?oc=5"
-  },
-  {
-   "ts": "2026-08-13T22:30:20+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE11V3Z3RTNfX3JDcTFEdzhmWFNnTFhWSlB0RmhmQU9EeWNUWFBtZWNNeUkyaUtBOUY3bHpNcm9tTUplcDkzRFVEc2pR?oc=5"
-  },
-  {
-   "ts": "2026-08-13T21:30:23+00:00",
-   "title": "Growing fears: Myanmar farmers face fertiliser, fuel dearth",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc0VVcVF3WDE2ZllFMnEzQm45QWFLYmRhQlJ4ZEIzS2xIdlN1RklseldLZUtLeVNRcmo2Z085S0xtcVR4UktYN2xEU1lreXhDYk9GN3ZndHVScjgyRXgxakptajlTdTd4OWhrck9LYUlUem9SS3RvcEVndEF0b3NwWFlORF9ETkxtSE9BUGVpLWNzZlRFeHVVeA?oc=5"
   }
  ]
 }
