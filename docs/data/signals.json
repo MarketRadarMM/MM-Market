@@ -1,6 +1,34 @@
 {
- "generated_at": "2026-08-17T10:00:24+00:00",
+ "generated_at": "2026-08-17T10:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-08-17T10:30:19+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44YU1zMWNxMFFRUmh5cDRKSHBFWFNIQTN4MDNOOXkwdTRzdlJqa1huUjVDTUJid1dwbWw4NDlfN3lud0xoejdZR0JYRQ?oc=5"
+  },
+  {
+   "ts": "2026-08-17T10:30:19+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5aSzNXaGQ1TU9IUjdzUndvWC1nSndBR2ZTSlh1bWNuSUZDcTB5YXZiT0d5NmlrZ1gtN1doVHdkSUxPOWItMGpodmFJbw?oc=5"
+  },
+  {
+   "ts": "2026-08-17T10:30:18+00:00",
+   "title": "Opinion | Our Right to Information Is Inseparable From Our Right to Expression",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNemRBbC1wanZmVjJlaEY1a0pxY19CcXFCMDhSRHdfVWY4aDNsanp3RnJELTI5T01SQUxENHpOX3V6R3RmVjJkSUd1bnJGRW10SkQwWExPcG5QQi02T0gwYVJ0LXJjLXBwMzl1aHRHZWVnTVBlYWdBd21LdTgxUG1VOUhBV3dkdXZKSEM5YWJaR1B5NzdfNHk3YmwyZTVQSjA?oc=5"
+  },
+  {
+   "ts": "2026-08-17T10:30:17+00:00",
+   "title": "နိုင်ငံခြားကုန်သွယ်ရေး ဒီဂျစ်တယ်ပလက်ဖောင်း ရေးဆွဲရန် ရုရှားနည်းပညာကုမ္ပဏီကို စစ်အစိုးရက အလုပ်အပ်",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/80431/"
+  },
   {
    "ts": "2026-08-17T10:00:24+00:00",
    "title": "- yktnews.com",
@@ -2126,34 +2154,6 @@
    "source": "Frontier Myanmar",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc0VVcVF3WDE2ZllFMnEzQm45QWFLYmRhQlJ4ZEIzS2xIdlN1RklseldLZUtLeVNRcmo2Z085S0xtcVR4UktYN2xEU1lreXhDYk9GN3ZndHVScjgyRXgxakptajlTdTd4OWhrck9LYUlUem9SS3RvcEVndEF0b3NwWFlORF9ETkxtSE9BUGVpLWNzZlRFeHVVeA?oc=5"
-  },
-  {
-   "ts": "2026-08-13T21:00:21+00:00",
-   "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing delivers an address at the International Youth Day 2026",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV1c0RHY4WWg4dkwwTTVoN3ZQZjU4WlBUUmFSNTg1NFRaaG0wMHJ1Ql9Oa0Yxb3k3TmFLay0xMEk3d1lzTlNlYXF2Ny1YNVpxQ184VUY3Ul9Dc2xpUkxyUkN1amp4Nm5BQnI3WWtkRERaNzdObXYtbEd5UUIzTE15MFFILXNUMEE2Rmc2TXdwVGF3VGV2cXhCdmpzeGgyVGlYTUQxNm5rYVhMdWZtVFNSODdiQ0w2a1FyaVp1U2NjZ20?oc=5"
-  },
-  {
-   "ts": "2026-08-13T21:00:21+00:00",
-   "title": "Acting President of the Republic of the Union of Myanmar, Chairman of State Security and Peace Commission, Senior General Min Aung Hlaing gives instructions on urban development and pleasantness in Mandalay",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYW51RkhXbjUxeUlxVDY1UnJDa0Z2S3lMOGJSdEdKQkJQcUo4elJCcUFlUUlMUy1wUXZ2ZXE0R3o4anVQbllpeGZlYmZzQnl0N0o0MjRvTlU5VmdwSXhiVlRaT1lXbGMydzRDX1A2THkwZmVTWkc1Sm12c1ptT2c3UmxCbWI2S0F5TkxJNXhSdE5SYWU1RnRLeHRqZkZXMS0tdlA1c00wYkhBdFR5MElWbzJZaE1fTTZiY05BbUd3?oc=5"
-  },
-  {
-   "ts": "2026-08-13T21:00:21+00:00",
-   "title": "Authorities uncover truth about seeking ransoms under threat of enlisting in people’s military service",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNN0RvS2ppQWI5emk5RDRTMjdEX1RyQlp4T2FEUlhTR0xxaTVTMlYzNVZKa1Q0RGxaTmNwWGhiWHNfblphRkh1a3AyUlpXTW1HM19Ja01YcUlsZE9BVlBNOVIzVlJqVEFXNUNZN3VVOGJVRV8zWHVHTVA5Mm8zQnNzamJHR00xVVVYYjlucXR3NWZ1ZVM4OGRtcnpTQnVlanNpSTZJbmRrcXVkODFpRGFZSE9EbGRTVW5PZEE?oc=5"
-  },
-  {
-   "ts": "2026-08-13T21:00:21+00:00",
-   "title": "Myawady Daily Newspaper 2-9-2022.pdf",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQTV96X01WTWdYdDNjOWltQVFEcm5kSGdsZ01meWUwNF90UWpoQ2UtTW5NdU9nRXZQdFJIY2xKeVd6QklPQ3lZejQtbUdqR3VmQ2k5YXNzalNBWDhuV0IxaVR3OThXUkIzOWdHY3YtTE93ZVdTTEpCRnZ3dl8tSTZBanU4WTQ0cTc5cXhPXzhuWE1IaWRYWWhPel9LVmwxbVFreUFZQm5sS3U2c1ZRcFZHNXlsSHprSWJQVDU5RGtmRHhRZ3lVQkswYW1KeW9pbzNqNDBUSTRQam5QWXByQjVjRU5fbUc5TFVuaTJkR3JNRHBtRmI0VVBTU0ZRWm94NUUybF9BZA?oc=5"
   }
  ]
 }
