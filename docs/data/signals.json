@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-17T13:00:26+00:00",
+ "generated_at": "2026-08-17T13:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-08-17T13:30:19+00:00",
+   "title": "Flood warnings issued for Myinmu, Pakokku, Nyaung-U, Hpa-an, Madauk, and Myitnge",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX3ZRRnJaRl9xczRhTGtwcjJGTDhUMTVBdGFhOE1nQUgySmw1ZlhFLXBBRkEzdTl5bk1ubFVCSk1LXzU3Q3duczJoNmFhSE5OMTY3dDJDdzE0UERGN2gwdTlhVURWMmgtV19YOFFLNTlQaWltZnNjaGlqQThJa3lpZFBiY1ltZnlRRGt1MDlOWFZRby1SWW9iVVFYdkZBX3hWS3c?oc=5"
+  },
   {
    "ts": "2026-08-17T13:00:26+00:00",
    "title": "SAC Chairman Prime Minister of the Provisional Government of the Republic of the Union of Myanmar Senior General Min Aung Hlaing delivers address at meeting 1/2021 of Provisional Government of the Republic of the Union of Myanmar",
@@ -2154,13 +2161,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeF8yNENMRFVRdnhRTDE0UGpwU05PT2xPZjF4d2tidnNiaTNHZHUxV1dOeVlIMlF6LWtsRTdQMTJtbnBFdkhsN0V0N3c4cGtaNnFUQnFHdm51ZTNaZnlkeTdMLVctNldNXzBYOHBRRVh4bTFoRkFGRVlaR0VUQXNzQzZnS1Z3VldYOWpRU3E5SzFIOVlwc2VCS29SSlNLT2JlU2RMZVlBWFRnaVFTMjVTdDVsSQ?oc=5"
-  },
-  {
-   "ts": "2026-08-14T04:00:20+00:00",
-   "title": "သင်္ဂါယနာ Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZTBNek1ucU5DM2RCSExyRmc3V0tJNjZsaUYzLW96cXlNVEFFRU5yS1ZvbFJURTVfR1ROQWFySXktWkk2dmttRmpJWjFWUmRQOUlYSEpWZGZJVklva3RlLV9QOXhaMnZaUkVuYUdodjVtOS1reVNSQS11R09VNjRrWUdua1FyYTVRTE5Ga1l2WkU3akoxaUZQdmlnT0NldU03c0wwQ3dPU3FsWEx2N3NwYmd0Zw?oc=5"
   }
  ]
 }
