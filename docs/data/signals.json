@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-17T11:00:22+00:00",
+ "generated_at": "2026-08-17T11:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-08-17T11:30:17+00:00",
+   "title": "Myanmar junta column kills nearly 30 civilians in offensive to retake Magway oil field",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/myanmar-junta-column-kills-nearly-30-civilians-in-offensive-to-retake-magway-oil-field/"
+  },
   {
    "ts": "2026-08-17T11:00:21+00:00",
    "title": "- yktnews.com",
@@ -2154,13 +2161,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.co.uk/burmese/live/cr4gxy75ljg2t?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-08-14T01:30:23+00:00",
-   "title": "Flood Relief, Cleanup Continue across Ayeyawady Region",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUkRQQ051ZzVEYjBuYzg2N0NTS1JQSENmUllPOXpfeU8yaUREcWhWcXQ5SFR5SGcyX0hRQnNueWtEek5GV09wVjhYaDFyMllvdmdrV0dMMFBWTDBvSTJpOEo2LXVPQ1BmUnhacENFREFYR00yYnNJMGFzRENfS0dIMWFaSWg?oc=5"
   }
  ]
 }
