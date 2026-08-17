@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-08-17T05:00:22+00:00",
+ "generated_at": "2026-08-17T05:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-08-17T05:30:19+00:00",
+   "title": "Corn price dips as demand cools down",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9yUjlVTlhEdnBaUWVSSlNxU2NGelpfbjR4Tk1kWGMzckFSajE2QWU4cEpLQ19GZzR1SnNTbGNmbU5pTzFHbnZvME45ZmRMRHBuTGVhMnJ6aUI0U2ZPSW9ueHlVVDRBSWR3Z0xkWndR?oc=5"
+  },
+  {
+   "ts": "2026-08-17T05:30:19+00:00",
+   "title": "146 Myanmar workers deployed to S Korea under EPS",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdFkwMi1EXzZVTHA0b0hjYVRYT0JyQmxUbnM3VHVWeldvWU44cG8xYk5pS3o2WmJxenp1a2JIM1ZYTDlEejdIa01yWDlWdW5aRlJLdEhIcGNTeGNVV204aWZzWWVaT29MQm5Ca2s4eDN0U0RmRmVyQUd0bTV4RDYyWFdMTFY?oc=5"
+  },
+  {
+   "ts": "2026-08-17T05:30:19+00:00",
+   "title": "School Health Programmes Boost Student Nutrition, Growth",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMlJYRHlBLWg5bm4zVFBDaWhaLXhZVGVSZnVvbnY3OWY4aEFGU05wNzYyMlZWbHFuRlhzcjl2dXlEVE9jOVBNeFJhc3JwLWQ0V2VZVzA3N2VqSmtuLVdHYlQ2c2tDeXlnZ3VIekgtMU9SaWtINVhQQ21KM29DLU5FQS1CWnZQR28?oc=5"
+  },
   {
    "ts": "2026-08-17T05:00:20+00:00",
    "title": "Opinion | Women’s Participation in Politics Undermined by the NLD",
@@ -2120,27 +2141,6 @@
    "source": "Frontier Myanmar",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12ZTU4TEZPS3daOFhmLUFXQzY2OS1SUnZ0WmFmY1ppWk1uZnlVSWtpem5TdTJkMVl5X2hWb0NuNTF5WGR2T0p3SFViSHJ3RkR0VzVSS09OaTJPbGxWT0c2ckhCX3ZDNnB5SHNrZTN3?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:30:17+00:00",
-   "title": "Ten Things to Do in Yangon This Week",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sMGU1bVBHWU5yZHgxMndDSG93VUFwZVRmTFJGVl9VNnVFcjFqZWM4UXJPbnduQVVmQ1I2cHZXb2ZrZnBlZGZ5djBXWDR3QWZVV3hjanVncURxV2poZ0NIMU1LYUFodFJub2tHUHZmd2YwdklmcXc?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:30:17+00:00",
-   "title": "Combating Fake News in the Time of Coronavirus in Myanmar",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZzZkSEVKTW5KUUNya2pMTk9DVEtqWHJvQUtCUzZHclRLSUFTWWJJOXJNWlBUXzlYX1lZUE9JYmhjU0tBOTRnTFZ2SEY4WHZGbXRzcUROMktvRThzQ01UQUEtNUtHZnNNeUNnWjZZMGFOckNlNjZ4M2pCSkwyZzJqLXZlM0pxdkZvWlZkbEp3RQ?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:30:17+00:00",
-   "title": "Asian Highway 1 Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4yS1AxVnpaci1FSXJRZEk1T1BpTHdTRkFOWEJsM1NsYThMeDAxVFBVSG82c19Jc1ZlQkxGUkh1eGMxTS11YmlzQW1SUG5UZmx4WUxSZmpEazQ?oc=5"
   }
  ]
 }
