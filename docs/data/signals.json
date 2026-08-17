@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-08-17T15:00:27+00:00",
+ "generated_at": "2026-08-17T15:30:22+00:00",
  "signals": [
+  {
+   "ts": "2026-08-17T15:30:21+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBlN1FqbTVlYnFnQklFNVl1b3V3TndWbUdqNENMVlBVU195cGVWak50cDFfNFVPSUtMQ2l2RnBxdHRXVmtOSEI5eFFXVQ?oc=5"
+  },
+  {
+   "ts": "2026-08-17T15:30:21+00:00",
+   "title": "Mongyang’s Emerald Green village project activities inspected",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeDNjRzh4U2R2OFgyVFJtNnZ3Q3k2RUh0Vlp6NnBpenh2STZDaGxNQmlVdjhDMFlHWVFGMG50UTBnWktoX3VYSTg1WkdhVGdDUHRwaVVpRU0tZjJvcTlkX3I5anNNekRvR19TR0FvZVpreHAxNnlwaF91clloaE5PT0lZUVdHMXJBYVVGeTFR?oc=5"
+  },
   {
    "ts": "2026-08-17T15:00:26+00:00",
    "title": "KBZ Bank, Shwe Minn Tha Foundation sign MoU",
@@ -2154,20 +2168,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeTN6bm1iNnE4NURPazIzd2FVMUs0WGNKSzJwTk54enhNczJkZGtvZHFCMVhMbG9vYVNLVVlpWGk5dG1BVTZkdjBXYTdHZDVEejB6d2RrdTdjVFZYZXZ0aVhIcFhUUDY2blZfTFQ1LVBMV1JudFhCVm1YYm1PZVFvdEs0UktPMUhJQ2NHdEQ5TXpFRDA1bGU3Nnlfcll1WDJmUEZxVUh6YmhKVFBnbzdUdnBRZURFQXBMX1NN?oc=5"
-  },
-  {
-   "ts": "2026-08-14T06:30:19+00:00",
-   "title": "Man arrested for stealing K60M in Kamayut",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGa1NaTWVTUk5KVWljYmpXWXhPREpPLXZVZEUxZVF5V1BxcHM3V3YwZkdKUE1aNkhoTnZuTUk0UGlESDlEeThJazJ1U3ZKSU5Ubl9yVVBDR01lUHdwQ3RxS0c3cjJkVFVhNVNpX3VfaGIzWWVP?oc=5"
-  },
-  {
-   "ts": "2026-08-14T06:30:15+00:00",
-   "title": "ယူကရိန်းစစ်ပွဲမှာ အောင်ပွဲရပြီလို့ 'ပူတင်' ဘယ်တော့မှ ပြောနိုင်မှာမဟုတ်ဘူး - နိုဘယ်လ်ဆုရှင် မူရာတော့ဗ်",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c8jnvn1n728o?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
