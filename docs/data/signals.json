@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-17T04:30:20+00:00",
+ "generated_at": "2026-08-17T05:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-08-17T05:00:20+00:00",
+   "title": "Opinion | Women’s Participation in Politics Undermined by the NLD",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSVdITU1LbVh0dGtwVl9qSGxMUFk0R0x4SzRzY1ZYN3ZEbWE4blJsX2FuMjhUVmRhLWZCM1pHeVMzV0FaMlBNWkFadFhiNWZvM3N0aHhKLWZTcUxsZUhzanlFWmVVMDl3cWdPOWFoeHBEMG1YOU8yd3RDdmU2VnpFLXZOdmhVc0E1VHFTVWlBY3k3NVlhTFBucGxtVko?oc=5"
+  },
   {
    "ts": "2026-08-17T04:30:18+00:00",
    "title": "ဆိုရန်တိုဗီလာ Archives",
@@ -2134,13 +2141,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4yS1AxVnpaci1FSXJRZEk1T1BpTHdTRkFOWEJsM1NsYThMeDAxVFBVSG82c19Jc1ZlQkxGUkh1eGMxTS11YmlzQW1SUG5UZmx4WUxSZmpEazQ?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:18:48+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9CWTl5cDNHLU1LMGJuell3Vk1IYjRMaElnVmNQOVBncG9iVEY5RzRmc3lsa05xb0x2Y0R1RDdFenRSc0V0Y0M2LURHTQ?oc=5"
   }
  ]
 }
