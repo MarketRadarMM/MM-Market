@@ -1,6 +1,55 @@
 {
- "generated_at": "2026-08-17T03:30:23+00:00",
+ "generated_at": "2026-08-17T04:00:19+00:00",
  "signals": [
+  {
+   "ts": "2026-08-17T04:00:18+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5LZ3N2dmp3TkpQQXE4VWE5MVdRTjk0V3dyR3h3OU15ejZfMmFTOWgteGlxOF9FaXhoWlY5ZE5seElFcTNGVU5NcHZn?oc=5"
+  },
+  {
+   "ts": "2026-08-17T04:00:18+00:00",
+   "title": "Yangon steps up chlorination to prevent diarrhoeal diseases among city dwellers",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZXN3d1dkN29lbWVESFhBNXFKOUFwQ1J2UFNzZmNEcGgwM0d6V0EtRUhScHZlTUhrVzRvb0ttYTVLMVVtMGtNQ0UzaENkaWFOSUhLTkNFVl9fWUhOR01hRk9GUm9HUlJobmJIbUd2dFVHZU1fSk0yMmd4OElzYy1scDI2aXQ0TTZtWGZaRTdOa2tKeklKSGc4dmVVd1BEVlozRW4tbE5Kbw?oc=5"
+  },
+  {
+   "ts": "2026-08-17T04:00:18+00:00",
+   "title": "Myanmar’s GW-11 Rice Fetches Record Price in Philippine Market",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVk9yS2I3NUJnS1JRTlZKUlZ0RUp6UlFReC1UbVdJTVdmVzFuVWxtWWJReGZVUGpUd3NzUTVEY29JQVZmMnpkMDdmNlNmRUVOR1lNRzNrY0FhWGNiMUViU1NlNnpKS1ppTkhSUXBCVzRpcEhBQ0JUd2c3Y3VwRURtSWRUOHZhNVRkcENLOGYwOA?oc=5"
+  },
+  {
+   "ts": "2026-08-17T04:00:18+00:00",
+   "title": "Yangon Region grows sugarcane for export",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzNTlVZGtxTHpPQUJGVGoyZzJ5V0xOTDVpY1o1RVFQcnJOMWNGZkhOYmR4OTBIWUhVUUVoYl8xV1NBUjM0aV9IVmdQQkZya3h0ZmVFWHRfWjk1OWRKWTZsbVlnTjAzTDQ3Y1lDOG1ZUmtsNFU?oc=5"
+  },
+  {
+   "ts": "2026-08-17T04:00:17+00:00",
+   "title": "Queen Supayalat Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBKSVpSaW4wakNnOGdtY0g5REFxNWlodVRRcV9xZ0JuMldOeVFOM050VlQzbGUtTV9jT1JrR3R3UkdVY0hsRFM2WFdTRzN1R3FGMUQ4MkEtMjM?oc=5"
+  },
+  {
+   "ts": "2026-08-17T04:00:17+00:00",
+   "title": "camp Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1OenAwMUVVM1kzaXlxelJHaVBlczlTeWhsUFFWODhHX2NpOHo2MTFXd0pFVUlXMHBhVV8yYXRfSzhLbkZHZEx6VzBR?oc=5"
+  },
+  {
+   "ts": "2026-08-17T04:00:17+00:00",
+   "title": "Ceremony at Rangoon's Secretariat Commemorates Martyrs’ Day",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMVIydGpTa3RNeDFkZWNHNUdPd3pKMjlFd3dVVVc0NHlTc011TzZPNnZ6SjI2YUc2OEJsYmNjNlFGMGgwVUVoVFU1MDJjQ0RXRlZiWGtPRHpGRVBqT2hGV193c05mMmlGUzRENngycGZLTlAyT0xZRFlFNW5TRnEza0d4di0xVmU0M3ZVZmFoYmMxNWNHX1ZwLVZIcUgydEZpdUJ0TFBXMDBhdFVlRE5nY285M2JJcVYwbk1HMHhpMEFyUQ?oc=5"
+  },
   {
    "ts": "2026-08-17T03:30:22+00:00",
    "title": "YRTC cancels planned YBS fare hike to avoid burdening commuters",
@@ -2092,55 +2141,6 @@
    "source": "Khit Thit",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5kMzBINzk5bnZ4TWs0MXhua0xDN3VEMXd2TTA5d210OHk2X1RuS1F5Wmo0NG5ScGFhZ1piNERRX0x0dFRtOTc2OA?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:18:48+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4yeEFxd1Njb2lKemVJRjQzckpVdFdYRW50MGJJUGQ1Y3pUd1lkUUI2aGxOaDlwNDhsTW5YM2FranlFUEx1TTdqUnRhdw?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:18:48+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1oTE11V2V5aEV6LVRleU45c0RUM2lkSTVtUkxiTEkwWWlZaUJGcGtwUzM5UnlERGEwTlliblQ4UnBCOVZmOUhxR192Zw?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:18:48+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4wdEhlZHo0c09DYXVxRExCVk5Pc2hZQ1RISkVJSzJCRXZiaUhqQm9mdFBsVk5mRlBPSEhUQmRIOTBJeElwX3AzYVFMZw?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:18:47+00:00",
-   "title": "PyinOoLwin’s Emerald Green village project introduced; committee formed",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRWhxUUotcFBvOXpFWHFLaGxPdko0aUZiVGdEWWZTM053ZG9SZHlYcHVvQ3E3VlF0dW9WSE9wUGxFV0RxZ3ZVc2R1NUpDZlE0a3d5S043N05DYnhzNWpmUzRreVFnRkUycUcydUtYbHQyenVBMjg3VVhkWDVVVmZuOWotSUZoMVFlblFFTk0yUTdtYkRuZHMyekhB?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:18:46+00:00",
-   "title": "Ominous Rumblings in Myanmar’s ‘Abode of Kings’",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX3ZmU0liZS1hOWUzZzR1aDNKQlBfcURUcDNMTTlPNHFOeVBoS1UxMlRkTGMxVHlXcnI5cTRfZkVKYXVMc3ZVcElpX1kwanVXQUU5MjB4aGNnOWM3aXpJbVRlOWNGcC0zTTg0UDJtTy15MjNwYVd6YVR6aW1DbFY4MldvSEtDN1ZGSG9LcVAtT3dKMUFWczE0Y0o4X01NaFU?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:18:46+00:00",
-   "title": "Ten Things to Do in Yangon This Week",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5yR0RYR0hXaXlLNWtPYUNyOHdpUlFZNjRQaDdhTXd6NHRhWk5FcW5CQzVmUFNQYUo0QVNMajlTMHB5MEFVcEJ0ZkpGSnJJeGprczdUSEVPeDl4Yi1zWFpUcTlRNGV1eC11bEdJdHp0RlBacmZh?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:18:46+00:00",
-   "title": "US Lists Myanmar Among Worst Offenders of Human Trafficking",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQlhSSzk2Y3JpeGNYT0NwX1dCLTU0dkp6elNRd05KUUMyN2p4TUQ2UC1jLVNldXhEQl9peXd5YnRSTEEybVFXR05STUVFUWIzU1phMEJVTVMwWV8wRXk4NUNuSFlmOUx2bFlTZmZmaWg3VkpCZmdqTFotQW9tTnFCLUhVNko1ekxrV0VjbldwdndEZm9xcWg0?oc=5"
   }
  ]
 }
