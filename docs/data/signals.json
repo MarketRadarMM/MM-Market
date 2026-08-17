@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-17T21:30:22+00:00",
+ "generated_at": "2026-08-17T22:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-08-17T22:00:21+00:00",
+   "title": "18 August 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MYkJmZS16a2p2b0pLcFpuMV8tR0Z4TFBRMlM1VWhaX0RlV2lJem5JMWdoLWZTN0xJVktmOW93b2J5UkxIa1NiZTNLa19FQ29M?oc=5"
+  },
   {
    "ts": "2026-08-17T20:30:24+00:00",
    "title": "Inle Lake Hotel Proposal Denied",
@@ -2161,13 +2168,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRWhxajgydW80bjlERy02bUFlVjFFd2RVdEVvalRBS0Y1OHhER3Npc3Z1N05GSERaYjBqTXBYQTdzRkhfWWFVek5SVlg1OXJHWkE2azlWdVMwdmxaajVWSFVKZ3BIcEZVMUQwV2NHajg0X0dzWnlrYnlYckZuRjJvYklPYjlyMkgyYWJBRWNYSmdqMnpSajBQY082OUVGR0FXUDgySk91LUltbHNOR1ZzeW41UWdzNU9mSXRUU3lKOA?oc=5"
-  },
-  {
-   "ts": "2026-08-14T07:30:16+00:00",
-   "title": "ပူးပေါင်းစစ်ဆင်မှု Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQQUJjM2xjNUQ1WG1uUV8zeERpXzdJSElSS1FualdaZ0p0LXpaTXduNWdHVnoyVW1sd2dsMWxMVGxCc3lqQjVCaU1WSWlBTmc0RS1zbW1RNVotNEFzczU0U1FQQWkxR0lBeEFuTVQ2RzNrVzVoYTZQZW5CZTJpeWJRalE4XzhKMFM4RHBpTHRndHM1b19VUTBZWUJPNlZuSUZUWW9tc2szaXdXUmdJSWFxSFE5ZlJzWnoxblpKTEllX2Q0RGYtQ2Y3bUhLdms3Q0dIVHpfMnFucEVVbkRPRkJFdk9XazJtMHNnVXp4VEJEZjZZWUY4SU4xaW0zR3dKY3RseVZzSFhLa0J3TlRpNXdwaC1wRkF1TkdUemgyQVNyYw?oc=5"
   }
  ]
 }
