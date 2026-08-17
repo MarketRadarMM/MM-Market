@@ -1,6 +1,55 @@
 {
- "generated_at": "2026-08-17T02:00:19+00:00",
+ "generated_at": "2026-08-17T02:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-08-17T02:30:18+00:00",
+   "title": "Shwedagon Pagoda to install 250 more CCTV cameras",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TaTlILXZ4MG5MdzVCRXo1NHNNZmM2bTJJSFlBLUFfUzN6Z1pOVE9SdFhMR2k0cDRtd1pGRTlXZlBvSUVUVmpmYVZkYVR3N3FsazBYaW04ZTVDQ01kbXk1Rlg5ZXF5R3BvVTZDZGkybTlUZ0hmUXNXQTllU041Q2s?oc=5"
+  },
+  {
+   "ts": "2026-08-17T02:30:18+00:00",
+   "title": "KBZMS General Insurance holds Building Continuity Through Resilience seminar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ3BzRkZwM0NwRXpOWS1qLVc0dFFPOGJFMHFWTXJaVDNlWlNkYU5BaG05OVdNYjh6WWNoOHNMTklPVmZnSlRPNVo1bXV3MVliUkprejRNZGxvWGk0OVAwRXpuN21iUGN2c0FzV1AzX3Rpcy11WmVpeDVqYVNkYUdaN20xamRJS3NxMkcwOGo0bEtuOVIxMVZqcVIyZ1lYUjNJcHJV?oc=5"
+  },
+  {
+   "ts": "2026-08-17T02:30:18+00:00",
+   "title": "Applications open for Synergy between Art and Architecture programme",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTkJzbTJocTdkaW5sTmNEZEVkUFdSbVVlcTRkT2puS05vbWFpdEU3dkNNR25PUGQ0Y0YtRWRyY0luSDBTN2VkNnJfM3FGRVVpbWF1ZEY4X053X0FFWnFLUHg2ZVVJTGRGLWdnVWptamtlWDVhdTljX2F1MjBBWlc1VjBydUJISFdvTmNVQjhic0NBTGFGVTVQQQ?oc=5"
+  },
+  {
+   "ts": "2026-08-17T02:30:18+00:00",
+   "title": "Mongla’s MSY income-generating activities inspected",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcTdwQ3M4S0Z0MHJ0M080X250UF8yeHNPLTE4R3o5T0pYT1JURG9LbzdBSXB2YUZhZXVyUi1uS2lHZE9oU0FiekRfU1ItTnFzTE41R0ZyMFl3UzlXMW95ZExnbGhhcnJEN1J0U0JMT3UwUVluS2toQ0dPeTFmbUNGcg?oc=5"
+  },
+  {
+   "ts": "2026-08-17T02:30:18+00:00",
+   "title": "Eight clubs to compete in Myanmar’s first international invitational futsal tournament",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPXzlLN29YaElpaUl5UHU0SFg0cWNwcVFQRUdEcndQTTFsb2Rnd2w2bk1XQkdZWm9Ia2ZaOFdIeWVfU2dNemkyUEhQSlJTQjYzdmVEU1VIWkxCV3ltMkNtd3BXaF9uN1hJMDBBTk9xdl9sYlkwcC1kWjk2ZGMyaVB4VFpVNkNLaDBrV3dwNmRhZGcxMERLNGFYUjdnQ2lLV2NEaUhTa3NyUG81d0hubkZn?oc=5"
+  },
+  {
+   "ts": "2026-08-17T02:30:18+00:00",
+   "title": "Awareness event on cultural heritage preservation in Bagan held at Shwezigon Pagoda",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaS1idXg5VVhOc2hfaU4yeW5RcVdvX1ZnR21CUVRRU3Z3R202S3U5MlRtbWN2M29sejl2aVJjUW9pSXRPQTY3c1RRQkxwWkF6b28xdm1FUjA1SmltTHlDaksyamFuUzNRWndOOWVTS25kWWhTTzl3akFHTVk0bW1rU1dDeWkzb04xTkNSMHllR2VJd3hRazFSUTRhYmI4WnNpV2tHSDdtaXI2TXhV?oc=5"
+  },
+  {
+   "ts": "2026-08-17T02:30:18+00:00",
+   "title": "Myanmar women’s team begin Asian Games preparations",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNclZkNl84Z1UtUTZSUG5hMU94MXdkbDJhX1hkWDZJcmdxb1IzUFFZcG5oWHNqcVpvYUgzT1p4N2RTamJwUFh0SGE2bjRtMzA1S2JLTUNRYy1MdlpRSktIVjlMV3BkVHpOOUxXMVBIMWpiWVFlRXQ4MlhBRTBuRk1hbA?oc=5"
+  },
   {
    "ts": "2026-08-17T02:00:19+00:00",
    "title": "- yktnews.com",
@@ -2092,55 +2141,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMDJSX0ZmTl9pRW1OSlBDQm1HVTdzRF9EZWhhYkVWNS04bzBJZ0JhVWloLXhTY0Jkb1ZwQ1ltaldINjMwcXNsRldxUHBTZEJFNVhRbzhOdDc5MnI3Zm00aUU5R1VIQWs5NmprSk0yVGRjYkhyV2tGMVdVX05welp1M09aVVE3Z25zdEhKd1ZVVWdiSW1Wa3hzLXF2OGh4Z3plZnc?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:18:46+00:00",
-   "title": "World Bank’s Economic Outlook for Myanmar in 6 Points",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORll5VGh5RHRTdFp2ckdSeGhYU3RVUm13ZUUxY2g2V1J6TGxGU3owZFFETFd0ZzNQTTFFdzZWSEZuVVpoQ0VITTZoV2FaZ2pjZ0JMN0J2bVhvUkI2b3BhUE5IOXduaWVNbnZfalJ0a2xjMWpDN0V1eHhtbVVReDc4THl6WHdYV3U2bjdhbnpQS0VsWWxyRGNaQw?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:18:46+00:00",
-   "title": "Opinion | Urgent Political Action Needed to Solve Rakhine’s Problems",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa2RqNU9HTnY2bFhoNGdhcXFWdFdPZ2U5VUdRbFF5REttRnRzRWRoOUlrSW1kRFJhc21Kd2ZjQTRzYUZCdk85V1VjRno2LTdxN3dHRHlVQ1gtRjJBYk5NMnAxMXpOZ1RhMFJPT1Qxd0tYYktPd0JKOGg1ZElHSmFNOG9Pa3hyWm92STlVWkFXSlFkaDd6WjhlT0xESGZsUXprekZCdXZR?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:18:46+00:00",
-   "title": "Opinion | Myanmar Caught in Her Own Trap",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1mal9Od2dwbWVvR2RPbjlQc3piYXgwT0NMRnJnR25KRUxtUXNVaUdyRDBleXVveUl1T1pxZUw2b1JVSmdtNUJyNGQyQXVhTVVGajZHZXM0S1E5ZzhLREYwcVBYcm9rMGVnaGJuRk9kazZIZUhNT1FCWUd1aw?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:18:46+00:00",
-   "title": "Myanmar Gov’t, Armed Groups Agree “In Principle” On Draft Ceasefire",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRUNsWDdjUzN5NmxaM3htcm52WUl4eDBLZ3pIZUlFOUMzN3oyTHdMN190Q0xheFRlcTlYVGtFMmViZ0xXUllsWFRBTmY1aXhKNG8wWGRsdFJMV19DX3ZiT0dRbGVBbUg4bFZxMHZMYld6UFFPMjNfdXFXMk9NTElkd0tyb3htbU55SXVTMld1SkdSMDdfY0NDVVBoQmhDVUdh?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:18:46+00:00",
-   "title": "ASEAN Leaders Voice Disappointment at Myanmar Junta as Summit Proceeds Without It",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRzdyUWd6WmxqSGdwelRCUEJ3clhTbklSR3pEQjRneThfTXlVSVFPZmdYQWJRVkIzbXJEYWV1TUs0QlRiXzlScEQ4ZDdocjM0ZXl0a3o0WVhKV3hBN0JPSnNVa2lJYk5GZ2hZdEpua2lxSEVhVjdVNXVsX1FMWFJSVnFFZ0FNVVc4YnhKSy1GZGtBdnNablliV2pZNHdpV21tQWpFZFd0eDdkTWNwWmxzUGhOQlViNWNuay11R05CYU8?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:18:46+00:00",
-   "title": "Opinion | Myanmar Can No Longer Afford to Ignore the Threat of Nationalism",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT1IzOW1SZnJJVkVNYXdsaWhZNFZjTlJYYjNObF9Fd1J3Q0tjZ0ZSQUxuVXA1U3F0Y1E0STlkVld2UDI1XzZBVVFwcDJUUEllZ2t2OTAydjZ4cmpFcng3ZXRlUnlSQmgxZmhrLTd2eTVFS2xsOVBzV0hqQno0eGhrbmNxTWFwX05Zb2NPMWtzSTZaWFV1MVNWN21RZXFHS3dBTi1WdWllbw?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:18:46+00:00",
-   "title": "Who Failed Myanmar?",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB6NU1yTTlrbnJjUUVIVndHemVacnhqUnkxWFVWam93Z3pObzJxNkxrVktzRXB1UW1RV3Q5YmFrUTZNVm43QVRDLVItMWFRcFZkTFJmblY5SjR0VjdNblNyNWZkbzNsOThyUVlUWDFoUXV6d1ZBNDNJYjVR?oc=5"
   }
  ]
 }
