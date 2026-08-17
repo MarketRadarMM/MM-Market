@@ -1,6 +1,33 @@
 {
- "generated_at": "2026-08-17T08:00:24+00:00",
+ "generated_at": "2026-08-17T08:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-08-17T08:30:18+00:00",
+   "title": "Chin National Day Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ETElvYm9iM3k2MnV0eG1ZcHYtVmJ5VFFOWkI0QUhyZXJ0T1Mwb0VFRjFpNG1pMUlyNmR4TmlZRkN2VEt1QXJUXzVvR01ISG4yQ0x6QzVGbnYtazQ?oc=5"
+  },
+  {
+   "ts": "2026-08-17T08:30:15+00:00",
+   "title": "Myanmar junta awards major trade software contract to sanctioned Russian tech group",
+   "source": "Myanmar Now (EN)",
+   "markets": [
+    {
+     "market": "fx_kyat",
+     "direction": "bearish",
+     "confidence": 0.65,
+     "rationale": "New sanctions pressure the kyat"
+    },
+    {
+     "market": "gold",
+     "direction": "bullish",
+     "confidence": 0.65,
+     "rationale": "Kyat pressure drives savings into gold"
+    }
+   ],
+   "url": "https://myanmar-now.org/en/news/myanmar-junta-awards-major-trade-software-contract-to-sanctioned-russian-tech-group/"
+  },
   {
    "ts": "2026-08-17T08:00:21+00:00",
    "title": "ကရင်နီ စစ်ရှောင်အမျိုးသမီးတွေရဲ့ မမြင်ရတဲ့ လုံခြုံရေးအန္တရာယ်",
@@ -2127,20 +2154,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOEZVS1MyS3NReTUwWFRCUXhYX0Q5V2lTSWg5UlNjMnJFMzNUY0Z4X2FYTFhVbkpLWVZCS3pNU3c1X253MlpFLXdhNHdJeHdDVE81Q1RXTzlIVWtobGZBcWdEa0RieHcxYWtIUVhxTGxWWnhucnpYYXpiek03ZTFxQ19MaXI1Ui1RQlFqemtxUUxfNGxhYWZQVzh4eUZtZTZ1T1pKUkRoR1VtSm1Xb2d6M1d3cW5xcFhDTjNKU2Jwc0pKa3M?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:38:37+00:00",
-   "title": "President U Min Aung Hlaing cordially encourages flood-affected people and provides relief supplies in Laymyethna Township, Hinthada District, Ayeyawady Region",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObHhYaHVIWGlZM0t0LUhTeDYyM2hFc2dTUC1HbXV3X2E4Z3dTcFltaDJpSnkwVDB0VzhXZl92RWtVS3diNHhDcGxfNUdIR3dlbFZnREJWV0J5bkV4MVNNTk1XSzJmb194dTNsbzg3eUt2ZWlzc3JjQVFsZmpFNlFiN1ZmcFB3ZkRZNi01dmNQRjFuWWROczNXUUpKT25pdlRsREp6TnBoZnlTcWZOSFNKeDRQWXVsR29uTDF6cUpnbEhJeXMt?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:38:35+00:00",
-   "title": "Myanmar Police Insisted on Meeting, Gave Documents: Reuters Reporter",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUnI4akxXNDR3VE16aWltNmQ3WUhJbnVweUJIZm82SFFVNXh5NEU3WUtFU0tqTG1oZllfWFA4b18tU1ltU0NYc1dmNm41bUhZODFPazRkS3BtLXduU19HZmdLT000ZjdCYWp3cW1BWm5fdmNFWV8waWRNbk0zNWFFR2s2YmZLNU10TDRGVDFOYVNZZVBVd3hhc1RmU2p1UU9kb2hmMmF3VQ?oc=5"
   }
  ]
 }
