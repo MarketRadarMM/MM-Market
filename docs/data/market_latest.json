@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-17T02:45:25.491764+00:00",
+  "fetched_at": "2026-08-17T03:45:23.034367+00:00",
   "tiers": {
     "official": {
       "my": "တရားဝင် (ဗဟိုဘဏ်)",
@@ -223,6 +223,6 @@
       "street_usd_mmk": 4420,
       "premium_pct": 110.5
     },
-    "implied_xau_usd": 4280.0
+    "implied_xau_usd": 4288.4
   }
 }
