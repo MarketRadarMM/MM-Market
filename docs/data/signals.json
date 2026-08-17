@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-08-17T02:30:19+00:00",
+ "generated_at": "2026-08-17T03:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-08-17T03:00:20+00:00",
+   "title": "Engineers strengthen weakened sections of Ngawun embankment",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT0dkblQ1RVI4X2J2X1VnWFBoRVdUSVprY2JYajRadkNBSUgzUGFoNVVscGlYMDFNd0JwcnVPdDFRMEo0TkpWMEVGTmNLWVRTYlRIVDFQVGpzT0JVUEREb091ekYtNmw0T19XaFExeVczTHRJdEw2LXQxRS1XRTVpeUJzUV9XWUJIQnY2Mg?oc=5"
+  },
+  {
+   "ts": "2026-08-17T03:00:20+00:00",
+   "title": "Returning frontline troops honoured in Mingaladon, Phayagyi",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPamNKd3BSZW1yQmZ2T0Z6YWZNQy1EOUUxaFppTEo3Um9xdnc1NEhfdzVyQ0tCbWltc0t5NUFjUGhaakkwRFZscE5helF4MWRNeDV6MjRFWVF4OXVCekYyaUhCc0ZlVHo5cXF0U2VITGRkakdqWUxBZmdYMkMxUXE4V2YwODlLSlhyV0xv?oc=5"
+  },
+  {
+   "ts": "2026-08-17T03:00:20+00:00",
+   "title": "Lewe District wraps up construction capacity-building course",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTURLcUMtVE1CT3pjTUZMTExaVFJhVWFMM1ZiZjdBQW91U25ZWHg3Y3lNNjJzYUQxa3hMWDlBV194VnFlYndKTmtIaEdhemUxNTkzOG9fbjBRSVE2TlJTVFpIRjVyNHpxenMwdTBEQkZVQjlzXzRoNDlKRjdhOWRSU2hnaHd6NW4tQVpCVmhn?oc=5"
+  },
   {
    "ts": "2026-08-17T02:30:18+00:00",
    "title": "Shwedagon Pagoda to install 250 more CCTV cameras",
@@ -2120,27 +2141,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRVRCOG1oeVJVaHdQcU0zeXppQUhOY1h0Tm1LdmtUUkY0MnViV2l3TmpBdWU3Y2FvR2o1YVJnTk83MzBFWVUyeElsNHR6aVBnWmlpTTVCQThKRkViV0lZT0dIQ1dEcER1T2Fid2FvMUpNSWwxLXcxd2tkQ1BOcjhJWTZaR1FYTExyell1SUltM1F0RjQzcU5yaUY0R0xUZw?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:18:46+00:00",
-   "title": "Patheingyi Officials Demolish Structures Illegally Built on Farmland",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWUd4VzAzTm8tZ2tDSUdFbnVYRjFHOVlueGJFamRnc0FTS0ctRXh0N1ZTakZsRE12THNTSmF5SDJtZFRBT0hSREJORXNIcU5zOGFHZTRfenlad1d6YnB2S1RzNldNNTNtdHUzUWdoNGpjbktoSlVfcEpLU2ppOGdCM2hSWDNrTzBXdTk0S29ta0wxLTkwb2ZkR3lNVjRmWWJqZGhOZTIzamVsUHM?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:18:46+00:00",
-   "title": "Comedy Group Defend State Counselor Joke",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcW9DV2ZHTktXcWY3c082ZEFOQUZhazBxc2hCQTRpYi0zSWNWZ0dxQ1FtcWt3MzVPY1o2aUtudktlYzhVUTEyU2JwaHdQNWFyc2FDSEhJcFBqUVZjbnMyQ0hyYzJ0WnV2REdzRmNxWWRMZ1dxSjBaM3dIc0R5ZUw1REp3?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:18:46+00:00",
-   "title": "Lawyers Call for Myanmar Coup Chiefs to Face High Treason Charges",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMDJSX0ZmTl9pRW1OSlBDQm1HVTdzRF9EZWhhYkVWNS04bzBJZ0JhVWloLXhTY0Jkb1ZwQ1ltaldINjMwcXNsRldxUHBTZEJFNVhRbzhOdDc5MnI3Zm00aUU5R1VIQWs5NmprSk0yVGRjYkhyV2tGMVdVX05welp1M09aVVE3Z25zdEhKd1ZVVWdiSW1Wa3hzLXF2OGh4Z3plZnc?oc=5"
   }
  ]
 }
