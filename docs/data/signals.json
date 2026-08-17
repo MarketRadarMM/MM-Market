@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-08-17T04:00:19+00:00",
+ "generated_at": "2026-08-17T04:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-08-17T04:30:18+00:00",
+   "title": "ဆိုရန်တိုဗီလာ Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONjhjOThWVXRQWnNyTUxmdzRWRjFVbS10dGFHbHV3bVZlMGQ0QkYwQ1V1WHIydWhIT1owNWc3S2QtdzEzMTh2M3RoQ2Z4OV9FUkRSU2JkWVduRklGQ0VwY2ZoaGZDNXJCekxIQjFSYXR5Y2R3U3pqci1FeDBlUFpILWhlX1V5ZGREWnJ6ZGlBRVNHR2ppS2RQTk5SSTZvdlVHN2pZN1BheGlZNVlpN0M3Q2RXYmVleDJ5LW9mZ2tqSkJsY3EycnZ5YWNpSlZiZ20yQVBReHJtcUc4Y3gyNTI0UFE4QQ?oc=5"
+  },
+  {
+   "ts": "2026-08-17T04:30:18+00:00",
+   "title": "ပင်စိမ်းရွက် Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbHlUYW51TGVvQm5yNVlyV3kzaGJvVEVfNDRzWkRRQmhkTVhiQzcwLUdjY0dXaE5wS3VNZzJ2Y3JaZ2NpZVpocFNBVXk0UlJ3YjBJallNd1FSbGFOX2hxWjdnWjdqUHNZV3pVTHM0bkcxaHZMLWpNd3UxWTVaQlhlUXVyYmotUW4wS2JNc28wNDhfTUg3bVNabmlBa3NyQmdtZ2JBN2JreXcyMmUySmpFLW1hSWQta1FPLXZyTGdIQzFrSEJXYTR5ay1QNnY4QTN6aERMdDFhdw?oc=5"
+  },
+  {
+   "ts": "2026-08-17T04:30:17+00:00",
+   "title": "အရပ်သား၂ဒါဇင်နီးပါးသတ်ဖြတ်ခဲ့သည့် စစ်တပ်စစ်ကြောင်း ရေနံမြေအနီး ရောက်လာ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/80413/"
+  },
   {
    "ts": "2026-08-17T04:00:18+00:00",
    "title": "- yktnews.com",
@@ -2120,27 +2141,6 @@
    "source": "Khit Thit",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9CWTl5cDNHLU1LMGJuell3Vk1IYjRMaElnVmNQOVBncG9iVEY5RzRmc3lsa05xb0x2Y0R1RDdFenRSc0V0Y0M2LURHTQ?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:18:48+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE03NjQwT1NEQXdfWEdrX3BvaTNieXpsNEVScmFrSWI4YzNGSk9NYTdaMk1ldkZUbVRjNnpKQ0Ria2lOdzd2dFJUVDdR?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:18:48+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE12aW1JcllFZWV6dFQ3akM3YnU1LUVIV2UzRFV3UGVIN0xJMUd3ZldZU1BSOHdBSUtZa3BKcGRXSHd3dUdfOHhNU0Z3?oc=5"
-  },
-  {
-   "ts": "2026-08-13T19:18:48+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5kMzBINzk5bnZ4TWs0MXhua0xDN3VEMXd2TTA5d210OHk2X1RuS1F5Wmo0NG5ScGFhZ1piNERRX0x0dFRtOTc2OA?oc=5"
   }
  ]
 }
