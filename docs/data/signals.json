@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-17T20:00:23+00:00",
+ "generated_at": "2026-08-17T20:30:26+00:00",
  "signals": [
+  {
+   "ts": "2026-08-17T20:30:24+00:00",
+   "title": "Inle Lake Hotel Proposal Denied",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE10SUV2cERFSzlxZFJpNDdPcnI3bjh2R25FSG9EWjNxaFpvWTYwNDN3NlVJNXBmZjIyRGI1TVlfUk9lSTN0OUcxUEE4RjNYVVJWR0VvOUE5UWkzZ2NtMFdhN3RpY283a2FTcVhaNnZERTJoNkZkSWc?oc=5"
+  },
   {
    "ts": "2026-08-17T18:00:20+00:00",
    "title": "Min Aung Hlaing Sets Off on First Russia Trip of His Presidency",
@@ -2161,13 +2168,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQQUJjM2xjNUQ1WG1uUV8zeERpXzdJSElSS1FualdaZ0p0LXpaTXduNWdHVnoyVW1sd2dsMWxMVGxCc3lqQjVCaU1WSWlBTmc0RS1zbW1RNVotNEFzczU0U1FQQWkxR0lBeEFuTVQ2RzNrVzVoYTZQZW5CZTJpeWJRalE4XzhKMFM4RHBpTHRndHM1b19VUTBZWUJPNlZuSUZUWW9tc2szaXdXUmdJSWFxSFE5ZlJzWnoxblpKTEllX2Q0RGYtQ2Y3bUhLdms3Q0dIVHpfMnFucEVVbkRPRkJFdk9XazJtMHNnVXp4VEJEZjZZWUY4SU4xaW0zR3dKY3RseVZzSFhLa0J3TlRpNXdwaC1wRkF1TkdUemgyQVNyYw?oc=5"
-  },
-  {
-   "ts": "2026-08-14T07:30:16+00:00",
-   "title": "ဆည်ရေ Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdUhHbDFKMF9DMDU5UDBBYUZnUlhOa2ZqTkc4dTVsaV9Td3g1YjBDVGxOX1BoMDU3RXVVVlFlc25fc3RJdDBmQzY1Nl9TZzh5OWlYU0RlNzBtSXN4MXNQcmpZYVpvYXoxVVF1RVp2a2tkYW1yZDlDMUpzSkhvNXljRkNVOA?oc=5"
   }
  ]
 }
