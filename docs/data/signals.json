@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-08-17T09:30:19+00:00",
+ "generated_at": "2026-08-17T10:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-08-17T10:00:24+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1GUmZxbWdHeVNhZTlPWG9GZW1YM2F6UklDVmVPMWZ2eF9HMVRzS0hpY2d4Xzdqc2VmMkJCbXlnZldCLU81a3FBR2laZw?oc=5"
+  },
+  {
+   "ts": "2026-08-17T10:00:22+00:00",
+   "title": "ပင်လည်ဘူးမြို့နယ် ကင်းပန်းရွာဗုံးကြဲခံရမှု ကလေးအပါအဝင် ၄ ဦးသေဆုံး",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/80425/"
+  },
   {
    "ts": "2026-08-17T09:00:23+00:00",
    "title": "Uncategorized Archives",
@@ -2140,20 +2154,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQTV96X01WTWdYdDNjOWltQVFEcm5kSGdsZ01meWUwNF90UWpoQ2UtTW5NdU9nRXZQdFJIY2xKeVd6QklPQ3lZejQtbUdqR3VmQ2k5YXNzalNBWDhuV0IxaVR3OThXUkIzOWdHY3YtTE93ZVdTTEpCRnZ3dl8tSTZBanU4WTQ0cTc5cXhPXzhuWE1IaWRYWWhPel9LVmwxbVFreUFZQm5sS3U2c1ZRcFZHNXlsSHprSWJQVDU5RGtmRHhRZ3lVQkswYW1KeW9pbzNqNDBUSTRQam5QWXByQjVjRU5fbUc5TFVuaTJkR3JNRHBtRmI0VVBTU0ZRWm94NUUybF9BZA?oc=5"
-  },
-  {
-   "ts": "2026-08-13T21:00:19+00:00",
-   "title": "First Rohingya Death From COVID-19 Reported in Bangladesh Refugee Camp",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWFNoU1BvT0w1ZGVCN1FuMWZXMkxHYnlnbUIzSndsLUlsX1RvRzZSRUliNU9ZTDVJTUkxWlVsMEVBNENBSF9qUFlOZlNfYWFSTFZ1Vm1uVkFxOGs5Qms0QXd6LUhhR2dWRklzUWx3aXR5TFdxWVpIRWdPZlBWZ1NPcGpkVnF0NTgxa20zSlp1OGh4M0hNR2t6bHBNRTlvYWxXZ3VrRDF3?oc=5"
-  },
-  {
-   "ts": "2026-08-13T20:30:24+00:00",
-   "title": "Westerner Behind the Wheel",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9XWjRCQWxyY3hzOEp6S1ZfUnpoRjNtajlTMmJwem9lNmNGdjllTlVxYVpLTmtYVGVSbFgxakVFZHpROHdGTHgwU0FZZXZKLTdNN2ZFcFlualZWR0Q1TXhiSmJ4Qnk5UFNSc0JkV3FBSUh3Zw?oc=5"
   }
  ]
 }
