@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-17T14:30:24+00:00",
+ "generated_at": "2026-08-17T15:00:27+00:00",
  "signals": [
+  {
+   "ts": "2026-08-17T15:00:26+00:00",
+   "title": "KBZ Bank, Shwe Minn Tha Foundation sign MoU",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nWUREV1JlUmhkUWZ6c3hvaDJaV2xCNWFJN21vZ2pPTDZJWUJ2cm1faDJCMEVJT0c4MlZ4RG5ST1ZKcFhUOE1tbkJ5U3NvRmdwazJDV19xbl9TbTZBdHhFZ1RaRHpObmNCSW1GczctUDQ1cXZWdVE?oc=5"
+  },
   {
    "ts": "2026-08-17T14:30:23+00:00",
    "title": "Chairman of State Administration Council Prime Minister Senior General Min Aung Hlaing takes part in coordination meeting on development of cotton, edible oil, coffee, meat and dairy product sectors Development of farming and production businesses will i",
@@ -2161,13 +2168,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/c8jnvn1n728o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-08-14T06:00:22+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FNzhmLUJXN0ZGSWNoTjhGazE1R05rdURDWHZ3NndvMWlLWGZHVEcyanIwNXhnSHF2enppdFFBYy01Vm1xN00xVTdPOA?oc=5"
   }
  ]
 }
