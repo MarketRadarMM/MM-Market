@@ -1,6 +1,48 @@
 {
- "generated_at": "2026-08-18T00:00:24+00:00",
+ "generated_at": "2026-08-18T00:30:23+00:00",
  "signals": [
+  {
+   "ts": "2026-08-18T00:30:22+00:00",
+   "title": "Monsoon rains submerge villages, fields in Myanmar",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN1dySWZMb28zejNpcTY5OUlzY1FUckd6aTBWenNaek9PZGtsaFhMTFI4cUxDOFJsd0xDTVZMa2lPLUVoWFVodjhoVlpHaUhnQW80UDM2OUp0ZXprdk9mci1JWEZCRW40NHZGMlVlTTVIMld5RVY5eml0ZTlJaTlCTG5jcXVraXRUU1l5Xy1B?oc=5"
+  },
+  {
+   "ts": "2026-08-18T00:30:21+00:00",
+   "title": "နာရီ ၁၁၀ Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYzZFcXV6SU83NlZxWXVoS0ItQmFYNl8yQ0FKbUl6T241cS1aZk9EbXRpNDl0b0JKa0FFcFJ0MHU5Z3NkQlFCMW5yQWNhS0xBbFJzSmREUld1OTZqMVJ0dzdkUzN0SnFMM1RPRE10S1Z3SG55OEE1UnAtZkpRY1E3ckowWE9UbmJMV3BjQ24xU29wT25PdlZUOFdtN24?oc=5"
+  },
+  {
+   "ts": "2026-08-18T00:30:21+00:00",
+   "title": "Burma",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tWU9Jb3B2WVlSU21oYkZob2dGeDlMTFVGVGdWc2RJdUhjWVVfUkRkSDlmVnM4Z0l4Q01jZ1BxTmpsVUtMS2NFWDR1cmZZTEJCbDNYUW5SZVA?oc=5"
+  },
+  {
+   "ts": "2026-08-18T00:30:21+00:00",
+   "title": "Chinese Drone Deal Behind Downfall of Myanmar Junta’s Chief Propagandist",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcWNkUmJmUFJKZzNhMUxYcEh0eExKSUh6U3BiUktKd1pTWVlJVl93Mko2UFR5T0psaTl6ZER0V1FhR0ZFLXJYVFRhVUZsY0pqaGdzVUhpQ25nampZN0xSamVmZ2lDQU1VMmUwT0ZMVjRQR0JXTEY1U3R6eTYwRkV0bTJJNEt6d2haVDB3OXhCRkdqQVVaWmJsUUZaLWpDSkhvVGhMZXlIZVh0R3FJdllGXzJrUQ?oc=5"
+  },
+  {
+   "ts": "2026-08-18T00:30:21+00:00",
+   "title": "Business | Myanmar Junta Boss’s Budget Built on Economic Fantasy",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMFdHTTlnMlNoaFFKUEYxRGRiOG9LWVFCdlZmWUluVHU3blpEbEFFc0lxWlNLYXNkOHVUbThhbm8tNzNiT0xHcVZCS1R0V2JodjNBUWI1dGxsdEkzM3Nucm9oVkRiWjJ1c2ZpUUdndmJHVmRYQUJaV2RBMWh4WGhEMFB5M01VMWJlNFItNlRhRGFBcExQQXpB?oc=5"
+  },
+  {
+   "ts": "2026-08-18T00:30:21+00:00",
+   "title": "Ex-Envoy to China Named Foreign Minister as Regime Deepens Beijing Ties",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPb0pnYWxtOGx6aFdDTV9iVVBvRnNSdWlUVmQtSmxndUg1WERxYXJvOGtNQk9Pbm5yQ1hPTFpuZW1jTzVFV2laMy1kQ05VejI1ZXJZVlhTdnFTQ2FTMmhpMW9lV0lBLU4ya0dhY2tJeXZpekh3NVZkd29YOUVWMXFCVnBoaFlVZnJZOG1CNXRTR3pJZElScTFPbHJRYkJtYTJYaGNlNzdfd1RKLUY0Y0FpNEJ6c0oxOUt2bjA0cWZEQ2JoalkxZm1NTEJteXM0UQ?oc=5"
+  },
   {
    "ts": "2026-08-17T23:00:24+00:00",
    "title": "Thai Foreign Minister Hopes to See More ‘Measurable Progress’ in Myanmar",
@@ -2126,48 +2168,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nb1BBc09GUFc0MDlMemNhY1pNY1pYMHlqQWR5NHhxMnlrOWdlSEVtd1JZYVYyc0NiMmNiQmVpU0ZYSEFVV1Q3WWVvM1QwTWJEaGJHaFZ2LVM3U0ZfeWg5eV9CaVpaZGVpODctWWdnMUQ?oc=5"
-  },
-  {
-   "ts": "2026-08-14T10:00:29+00:00",
-   "title": "Tender Invited for Radio Frequency System Spare Parts",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOHhYMkt6VldpcVpYVnN5UzVLRV85QTdrRV8zbjlWOXN5RXdtUnNPUWNyWC13UzlDRGE1UEpBc1Q1TDhuaUJhRWUzYnh5QjJPdk92cExRR3pCa3NxelZoWDdiUV94ZXZoX3dnM29MOXdocDQ2cVFpemlBYi1UVmphRGlRRDI?oc=5"
-  },
-  {
-   "ts": "2026-08-14T09:30:20+00:00",
-   "title": "Regime arrests 19 CSO members on suspicion of supporting education in resistance areas",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/regime-arrests-19-cso-members-on-suspicion-of-supporting-education-in-resistance-areas/"
-  },
-  {
-   "ts": "2026-08-14T09:00:31+00:00",
-   "title": "Police rescue kidnapped Yangon jeweller within 12 hours, arrest 9 suspects",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPem9tMnZUTDUxajV2V2JjWUJMUnhyUGhOSW1idFRDYi1OQ1B2QXNoUDV0SXAwbDlENElDY3lvOEE2VlI4VGZocWQ0Y21IcU1sN0EzSkdFNFFoNzVsY29lN1B4VmxCbF9EMW5CbkRpaXBLcXE5cWpFTG8yVXYwdUZTMW54SktId0E0d2cteXlVc3ZXWWlYdUsyX1JvVlkwMEk?oc=5"
-  },
-  {
-   "ts": "2026-08-14T08:30:19+00:00",
-   "title": "India extends free import policy for pulses to March 2027",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSTVUTDlDQU5LVHRQaXlEcDZ2QXh3SjdiR085Qmo1ai1ydTFyd2JQYUE4WVFHMHlGTTJhVXhGQjdaWGxnMkozOWlGVW1qeVFMaXA5ZDNiZ1BsYTZjMmtPR2RpQllrUEpKdTI2Sy1NWThMV0ZMNm9ZNFFjQlJnQjZLMlZKb0NoT2tlbHc?oc=5"
-  },
-  {
-   "ts": "2026-08-14T08:30:18+00:00",
-   "title": "Cross-dressing in Myanmar: from mystical brides to lip-synching queens",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVlRkMlo2QkVWbEVXeTlVckFTaEt4SkFoSEJYc1F6MkV4WmxzY3UxVHktNDZYbXk1VFgzczhqOGtVVks0XzByS2NkM0EtUXlKbzllcHlFVGZFMEU2LVc0TnpXaU84Z2J2eDhVdTVVRnZLUmhUbDdiMm1FZkdEOVFOQ1pFYTlEbGFyNE5VeFM1NW40LW5wazk3UEloeDBjYmVDeXhYNHl1UEk?oc=5"
-  },
-  {
-   "ts": "2026-08-14T07:30:17+00:00",
-   "title": "Provide special care for students’ physical and mental health",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWXpQSDF4dVJXcElNVGR0U2c2blM5VXhaSTNLajZBZG1uLVRiRkxCaHdjcUxvd2RyM2t6X2ZVSWxiRWdBUWZ1c2VnOWZCUmhOb3hlNTUxbXFfWElfNFhHQVdCU2w2cF9Td3h6cEItTEU3Y29EdVpzV21xek1TbFRmRXZZT1pSUzlwZkZueGpn?oc=5"
   }
  ]
 }
