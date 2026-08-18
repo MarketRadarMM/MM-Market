@@ -1,6 +1,34 @@
 {
- "generated_at": "2026-08-18T09:30:54+00:00",
+ "generated_at": "2026-08-18T10:00:26+00:00",
  "signals": [
+  {
+   "ts": "2026-08-18T10:00:26+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1FcHNibDFzdDVDZ0c1aU1leGJLQVY2WEptaURYeGd2ZndyMERsSjBfa0wxcmJVTTNCQjJCWEp5cDZIWHowd2NCR0RMZw?oc=5"
+  },
+  {
+   "ts": "2026-08-18T10:00:25+00:00",
+   "title": "Pyu’s MSY village project introduced, working group formed",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY3JJUkYwcTVfcVhWTjBZeFhhRUVTUHp3eTdDSVhiQjFSNlljbHZhNWI5UHZrTFg2OFAzLU4yZVpUbjFheTFLM1NDZ3FxNG96TmF1bnZfdFo5U0prYUlOdGU5akY0MXBQWlYtVjkwa19Tc2V1Mlk0VUQ0X3diclVjMTdxV1d0N2cx?oc=5"
+  },
+  {
+   "ts": "2026-08-18T10:00:25+00:00",
+   "title": "Profiles of Some of the Hundreds Wounded at the Hands of Myanmar’s Regime",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVGxKZ2xDMUdVTFNiOTk4Ykd5VVpnOVRva1UwMFVjTjIyQkxJTTZKT2xxbk5MaFUxWm0xM1Jid1UyMjByVWljR3JHMDBDM2h1UFdPQzNHSXJHUF9qME9EU0hwMXBRSDgxeW56U1hjWThkcnZkYXJrbFRJUUhvaTN6V0x5T01vWFNyUmdPT2tJcTdPRWc?oc=5"
+  },
+  {
+   "ts": "2026-08-18T10:00:24+00:00",
+   "title": "ရေဘေးသင့် စစ်ကိုင်းဒေသကို လေယာဉ်၊ ဒရုန်းဖြင့် တိုက်ခိုက်မှုကြောင့် ၂ ဦးသေဆုံး",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/80474/"
+  },
   {
    "ts": "2026-08-18T08:30:16+00:00",
    "title": "Army Chief Archives",
@@ -2158,34 +2186,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcnZSUnFtamE5S2t1S3Y0bUJGNGFQLVhMcnk4SFBubC1pWWU3VXZIdEM1Q3ZVZXN4T1dTODFfODl5WVA5OXFWWmNyRVVoM3FfaWZhSzMxZEJxQ3BBWEJxWVFxTmNLMXRUcUFVUGUyMm9LNlNSRVVSTEJzUktwaG51X3diY25WTWFHMWNpZTNUZkI4blhiTmVSMDFzNGdFRG5CRVV3RG1kbEtiVEE?oc=5"
-  },
-  {
-   "ts": "2026-08-14T23:00:20+00:00",
-   "title": "Model village project introduced; committee formed",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04eUowZGc5dVFjT3hfQVZSUnlLSldIeGkxS25JRHpsekppNmRON0xCTnQ0N0FJVWtLaVQyc0hpcE0xdGhkZTdWb21Rdnh6ZUdYOWlzaE90WWI2MHNaQUdqczZIQTM5T2h0c2xWTWJ4M0xlZk9sSGdHVDVlbU51aXc?oc=5"
-  },
-  {
-   "ts": "2026-08-14T23:00:20+00:00",
-   "title": "Yaksawk opens free agricultural technology course",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13TEtiQmZwMkxxdFJfQ2l3LU53U2tXMURqYlBZb0tpNDRlZmxYNDFuYmdERWNwa0pUOUgweHhvVlZwY19ST2JzalZMUkhPNDdZd3hXd3hVMzFXWnpvRFdXRk9mOUo2VFdMUmRzczRPTUR1N1NsZ3ZLcFQxdWRTTmc?oc=5"
-  },
-  {
-   "ts": "2026-08-14T23:00:20+00:00",
-   "title": "People’s Military Service Training 25 graduation ceremonies held",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQc2FUTDhXbFZ5SHhsMDJyNVZIbG1WeVlNYWc4eW1mb3o2WUF3eU5xZ3lnZUJnNlFKZVY4RV9pZ2xLWXl2aUZmS0FIbWhxNDA3U24tTzFqMlFQYVVxYlkzUEo1R0NoOVhDUVotQzMyOXJkVXU4WUtQNEhPNnVvdVpNY3FDRmtzYWY0VG4xYWZGT0RFUQ?oc=5"
-  },
-  {
-   "ts": "2026-08-14T23:00:20+00:00",
-   "title": "Customs to auction seized consumer goods, general items",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNTc3S3JybVlELVRDSjdjZnNCWFpwRWJwOG9ubW5FNHM0dFdKZ2g3WTJCNUhiSnBONDd0MEFqR3N6TE9UWUVfWDZVbktaRk41NF9FdVo4eDJvd0FYMkM2WDNRb2IwcTgxaTlCNE54T19IVnRjMWRvbUktU21jZTg2TWsyb0dfUQ?oc=5"
   }
  ]
 }
