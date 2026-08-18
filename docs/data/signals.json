@@ -1,6 +1,34 @@
 {
- "generated_at": "2026-08-18T21:30:20+00:00",
+ "generated_at": "2026-08-18T22:00:25+00:00",
  "signals": [
+  {
+   "ts": "2026-08-18T22:00:24+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1XX0tSOVh4cmN5R2VEM1NubDZRYmRHbm5heTRYbXl0UlBxUHZjMzRUWHpEc3VDMDYwNnE0N3N2b05qbFZ1ZzFxZWoxbw?oc=5"
+  },
+  {
+   "ts": "2026-08-18T22:00:24+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UcDNMbmxycUJJdFZUMFR6Vno5Zk5xRVo5MlpDaVk5NmhfaTdOalY0cVVobGdKTUZySTVQU2NhdXh5b3BhMGxRQTBmbw?oc=5"
+  },
+  {
+   "ts": "2026-08-18T22:00:24+00:00",
+   "title": "19 August 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5QWUJneVI0YkV4bV85QVJNUkpDYTFYUE11U0VDc3VCSjhiSjh6ZzdSMndoajZsbzVhbUh4Z2hmWVUyVHVpejFpTHdIUVVKS0JV?oc=5"
+  },
+  {
+   "ts": "2026-08-18T22:00:23+00:00",
+   "title": "Myanmar Junta Blackmailing Parents to Enforce Conscription",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmtyVWZuOVgyTldHZGROM3NOSC1YX1VGbmFqcm5UWkR6MVZSOUxDejZjTURDM1lfUEJ2bkNvRDAtNUN5NVE0MjdJQUxxcnoyRmh4OEdOYTNYMjBkQUVZbFVUNmVBOXoyOW9SVGxNdmJmQWlXRC00d0FhbXN4cjZheG5HakE4R3NVM1UwZlhUcFZMcm12X3hWRHBEdDJnMlpIOWc?oc=5"
+  },
   {
    "ts": "2026-08-18T21:30:18+00:00",
    "title": "Myanmar Regime Again Bars Daw Aung San Suu Kyi From Honoring Father on Martyrs’ Day",
@@ -2158,34 +2186,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZURjNDZyZlRCVU8ybEdsR1RhRXNYaG82QWt4cl9hRENvRDBqcno4VHFKZ3hsaE0yUmE0QTRUOG9lN01DVHZpajZDbHd3X3JaeWxZTFd4VDFBNm9menk2a09zYU82MG05R3VVUS1UTGluc1lUY05wR3ptRnFJWjFFc0FFREtBdEtEdmJZMnpKVVpDREh3RFdUeEIwMVBlSVUzZFE?oc=5"
-  },
-  {
-   "ts": "2026-08-15T17:00:21+00:00",
-   "title": "Senior General Thadoe Maha Thray Sithu Thadoe Thiri Thudhamma Min Aung Hlaing to the ceremony to mark the 78th Anniversary of Independence Day 2026",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTmJidFJZdkdZcG94LXpCcDVTNUJLVW41ZFBocEpsUzJzeHBjcVpIQVhxVUpod0JKalUzWUlqaXpxd1JfYVQyRlkwWGpTN0tUSWw0ZVEzR0RyeUVhdS1oSzZDWGFicVcxcFR1Rmk0N1NxbnJnYWJ1eXpCRTdsVDBBNTNoc2dnemx5ZFZWMTcwYVZVZXZkNEZ0TWplR0xqOFRqVmJfODB2ZkQ5b2g0cHphOHpCd2VfQXJIZXZV?oc=5"
-  },
-  {
-   "ts": "2026-08-15T16:30:19+00:00",
-   "title": "Aung San Suu Kyi hit with two new criminal charges",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNa3AycDNMc2pORGJyMWY4bzZWM24zS251SEJzT1g4ZVIyT1dqSVdncENhNmJlZ3UtMk9DLVMzakRPZlhEOGY0SFFDS2l2b2dzckpXRkR4NkV1RHVsSENRT0tXTnczSTFTZGFlem1ZNlJURHJXaktCS0RTalVmeXJMOXJ0aXFJdS1RXzl3eFpFQQ?oc=5"
-  },
-  {
-   "ts": "2026-08-15T16:00:22+00:00",
-   "title": "470 males and 47 females, totalling 517 from PDF terrorist groups including KIA, AA and PLA terrorist groups accepting the peace processes of the State and the Tatmadaw return to the legal fold, and transferred to parents and gardians systematically",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSG5RMzNIbjFFZktEODJjRkV6UWhDOHQxd2ZRWjRCazNzNmwydVRTS2NWNjV6c1RqMHhXZmdseHNfcm1neU84RGFMcWhKUXNhUk1TV21saW9UZDBFdUR6bzBjRng0bnNnMVJwMlBZZkFhX2N5eUIyd09UUnByd2tOMUpOZXlXbThsV2FOVmdEVUhKd0pPTjJFMHdrcWtKc0t3QVlUaHhhend1ZWxaUlVuMFkwbndERHRwNW1FZjdR?oc=5"
-  },
-  {
-   "ts": "2026-08-15T16:00:22+00:00",
-   "title": "A speech to be delivered by Acting President of the Republic of the Union of Myanmar and Chairman of the State Security and Peace Commission Senior General Min Aung Hlaing at the opening ceremony of “Forum on the Dawn of a New State”",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSXBtTHFpMEtjUG9OVVJ6eHVzWTl0OGtiWUdONHR4ZlVxaWlMb2otMHJmNUtZWE5xendhNEJKQTJpME9fQ2UyVV9xZnU1cHF2UGtURTd3LUhFcUNBN0lOY0RuMHdSNUpnaVRoNVNjcXpCbHhkZVIxNVlpUWlrUDZ2aFc4bF9ObmZCcG44VE12Y3M5cEstbkM3RWo2VmJEM3U4NEpvTkVRdEU4ZlFnc0lmbU1oa2U4VHk1eUZNOGhuTEZqZw?oc=5"
   }
  ]
 }
