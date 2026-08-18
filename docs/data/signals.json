@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-18T12:00:21+00:00",
+ "generated_at": "2026-08-18T12:30:23+00:00",
  "signals": [
+  {
+   "ts": "2026-08-18T12:30:20+00:00",
+   "title": "Myanmar junta airstrike kills four near Pinlebu after BNRA commanders escape custody",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/myanmar-junta-airstrike-kills-four-near-pinlebu-after-bnra-commanders-escape-custody/"
+  },
   {
    "ts": "2026-08-18T12:00:20+00:00",
    "title": "National Archives",
@@ -2179,13 +2186,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YUDBVQ0NfMjRTbXFOZDVqV0pzbEl1MGpBRklkTWVBRzZiRDhMVnVDaTN1aS1rR01LX2hQS3ZLQ25oV2NZcGFoVklFbjFLZXlBY3VoaGp0SlZrMnRKYXZvNkswZkJ1aEFOR2FKVk5wQVRDZ0xfdEgzZXlPckRrUQ?oc=5"
-  },
-  {
-   "ts": "2026-08-15T03:00:17+00:00",
-   "title": "သြဂုတ် ၁၅ ရက်သတင်းများအနှစ်ချုပ် - ဒေါ်အောင်ဆန်းစုကြည်ကိုလွှတ်ပေးဖို့ အမေရိကန်ပြောဆိုချက် စိတ်မသက်မသာဖြစ်ရတယ်လို့ နေပြည်တော်တုံ့ပြန်",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/crk5v54eemro?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
