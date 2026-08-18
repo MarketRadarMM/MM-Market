@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-08-18T01:30:19+00:00",
+ "generated_at": "2026-08-18T02:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-08-18T02:00:20+00:00",
+   "title": "Reconstruction of Japan Pagoda on the Sagaing Hill commences",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMmUxOXBGRFV4Y3o4MS1sc1MwMzVKRUt4ajVoaTVKLWpXX2Z0TWlIY05fNFFFdFlURXdSRWlpbDhidDJuVmlNX1pDem1tSVNfWEFZVnU0YWpibG9QOVE1WDRUQjI3MUVxcTdId3AzOW5uc3VmZjY0YjlqQ083Znl6eERwUEhHSGFOekJLZjNR?oc=5"
+  },
+  {
+   "ts": "2026-08-18T02:00:19+00:00",
+   "title": "Myanmar General in Charge of Shan State Disaster Handed Surprise Promotion",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWWlyc1ZTVGNjc2FfdUM3di1uN3FnTTloUkE1ZzFEZkh6Nm9HX1NReEVSVktZQXlBbzZSUnBpMjBnVWhDbjc4b1VSLUFSOEh1aXk4SDlTb3cybGc2d1dqUlp4SFdmb3h6UGl3aGZJY2xlS0tXcW1jM0R4NUphSG1LWVY1N21kTVJWek9pVVAwQ2dkcWRLUzJhSnRKMW5LWGhVdXZld0t3STFRYmxWbjQ4RktDVTQ4c2M?oc=5"
+  },
+  {
+   "ts": "2026-08-18T02:00:19+00:00",
+   "title": "Proposed US-led tech hub in the Philippines will secure supply chains, create jobs",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/southchinasea/2026/08/18/pax-silica-philippines-us-clark/"
+  },
   {
    "ts": "2026-08-18T01:30:19+00:00",
    "title": "2026 World Environment Day observed, with an address by President of the Republic of the Union of Myanmar U Min Aung Hlaing",
@@ -2160,27 +2181,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUHBYTTVxZEdUTUktX19wZG1ldGJlSkdrT25SSjUwVmZjdlBzakxIMmFHczlYdk5YVWFvbFJUWTNSRFpUY3hRSGhESGRzV2RKZE1GMzBja2hFeElmS2hNcHYyRU5uTmZRc1FaWXlqZFNGSjNnRnV6blB2WXR4Y3BUM21VV0UwcUlYN2x0ck1FSDJFTjlCT04w?oc=5"
-  },
-  {
-   "ts": "2026-08-14T11:00:20+00:00",
-   "title": "Sitagu Sayadaw inspects maintenance work at Moscow Shwezigon Pagoda",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOVhGQV8wMDczQ1RnMkRoWDA2UTdRU2s4cXZiNnc5N2oyR1FyOUY3OHNKajZpUXZsajFEeVdmVDRhQTBOMHkyOTdMbzZCQUJWRzJRLTNDUi0xcG5nckhmOG1DVS1lTzBDUG4ycDhNdXd5ZjJmT1FwdTZhbzIta1JFcThtTmZhUlRRMHNzcElVdVV6TVBpRjRJ?oc=5"
-  },
-  {
-   "ts": "2026-08-14T11:00:19+00:00",
-   "title": "Five Myanmar Election Staff Face Prosecution for Alleged Fraud",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUER3NHl2MUMzUC1tcXpTWVh4dlVLdFBKajVDTHJfQWdJQTgwS1hYMU1FR2ZzMFJkUTBSemhYNTJlV1pJZWpoSkR0cDhpWWpfdk9EWmhmVVpmWGVnXzB3RnNxTXhhLW1zdTBfbURrb01RZ1h6cFYwanpZSC1BaVVkbHBvX3lzc3ZiOXJxZnQydEZjaVd4YlI4QWNRZWtNeGhMSnRIRDdVY1M3ZGFHTmZqWUlnc19WZw?oc=5"
-  },
-  {
-   "ts": "2026-08-14T11:00:18+00:00",
-   "title": "Myanmar junta airstrike kills eight family members in southern Rakhine State",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/myanmar-junta-airstrike-kills-eight-family-members-in-southern-rakhine-state/"
   }
  ]
 }
