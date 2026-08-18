@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-08-18T15:30:35+00:00",
+ "generated_at": "2026-08-18T16:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-08-18T16:00:21+00:00",
+   "title": "Chinese base or wild rumour? The Coco Islands mystery",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQTJzQ01BbjVBNWhEdXliZFBqM3NBY0FlUmlBM2lFdEdFNndNb2xFX1BMSDBJMlRUek9ZbnN1QTNUTWJscnZPUEtDZlRaaDVUZUk0Ui1fY0pUUnlDUTRCU29mSzBlazVtR3RyRmd6VV9oSThFUmJaMTBLeFlmNDhrUHlyZ3BvekNzWDNDd1BXbnUxUQ?oc=5"
+  },
+  {
+   "ts": "2026-08-18T16:00:21+00:00",
+   "title": "Preparations for Chinese new year in Rangoon",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVnpSMGF1ZGE2VHlwUlVWUmhDTVVENklGS0pNMXVQUU5TSzJJSGxhRGpNZ1Y1bmZueXNzM1ZaYUd4RUlJVGIzd3BQU21ZMVB2MGtoUVJVb0JGdllJaEhXekFfTnZQQjFRal8xTG5nT1plNFUybUV0WFgtZ2NYeVJSbGFoMW5BRTU5RjdkS1VoeWxGdC13eFRuT0ZPdW9Qcjg?oc=5"
+  },
+  {
+   "ts": "2026-08-18T16:00:21+00:00",
+   "title": "Myanmar Labor Attaché in Thailand Charged with Corruption",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONmVZX0p1Z2Yxb21CZGJWemRnVE55dTFDb2JnYlJUQjFydTFiRHBoWDNfcFV0bi1IaDNGUWZTc0p5cHZfcE9MWDNnU2pDU2dqb2tUeG0zakU5T1kybmlfcXJmTHU5cmljWVZSMTVBWkJQXzFyOHJtbVhQN0g0Y1VWQlhrTUFqWXNoLTZxWF91S0J1YkpNQmc?oc=5"
+  },
   {
    "ts": "2026-08-18T14:30:21+00:00",
    "title": "Dozens of Civilians Killed in Rakhine as Myanmar Regime Turns to Tested Strategy",
@@ -2165,27 +2186,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZmJpWEE5QWpOcGxKdGRramJRV0hCc3dIbkJDVUpnYkJlYjFIaFpWdnBUVWFUYUZLQXZFUG84UjVkYlFPSDIyNFNqekdmT0FOVlhValRsUW00ekJWRW40VHlCdjBGbFFrVEpLb0xtSENJVHVxX0FSN0dGeWttN3NyUl9NLXZjRjJDU0taNGNHcjJveXdBOWpnbkVxMVgydWJBazRtVmlOV3V1ZnJfc3dGM09hdEFpVW4tb3RjazN6Wmg?oc=5"
-  },
-  {
-   "ts": "2026-08-15T05:00:24+00:00",
-   "title": "Press Statement on Myanmar's ongoing efforts on repatriation of displaced persons from Rakhine State",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUFlXaHhVakpnQzdBbGd3dFNkMG5DdzdyN3IxME8yazBRbEZObVJYNjBOVEY3QWpTMUNCWXBROUJfZkhDeWpRdUZYd1dYd2hnVGpmbTg3dUI3RnRaWnJDNE5Gb3MyeFp5ckVGdmppWl8zNlVDY3Vyb0gzNFZ2QWpHd1FoUkNVY1Z6WUFWakVyUDVxYWlLaWJwYVhCTDN3QUo2TjZMVFItcnluMldWWTAwZnA1RFc1Yldyc2c?oc=5"
-  },
-  {
-   "ts": "2026-08-15T05:00:23+00:00",
-   "title": "‘His sins can’t be erased’: Junta leader to consecrate Buddha image",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNi1HV0ZvMmt2ZFowYkR6NGhYQWw3ZUV5NDdxWW1lUXVtaHlPYXpxOEZUSTk0aTZETDlvVkZfWlNzeVk1LXp3cnFaYWNWOFQ0WGRib1V4YWRzcDQyT254WWJYSnhrVElTd2M4UTVjaHZIRVc5dlpBUWlRUDhzY2wxbXQwdmdFMUVNaElLa3dRVF9Bd2dJN2ZBckdoQ2l3bXV0?oc=5"
-  },
-  {
-   "ts": "2026-08-15T05:00:22+00:00",
-   "title": "Prisoners Held by Myanmar Junta Dying of COVID-19",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOajFEWVA4bzVQcXdVaVAtWG1uZUVKOVg3NE5qbk52eDltZGZ3Wk44a3lSNlYwWlI1Wm96LXlpSDRyV01aRDFzdWFRRDVqZTdMeEtYOWRoMjFTcDUycWp1ZzM5bm1Ub2dpeTRYYVkyVGI1NFAtMU52WFVtNjNZQ0tmQm53aVVRMXJsMWw0V0RrOVNlOGxCRkE?oc=5"
   }
  ]
 }
