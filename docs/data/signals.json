@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-18T11:00:24+00:00",
+ "generated_at": "2026-08-18T11:30:24+00:00",
  "signals": [
+  {
+   "ts": "2026-08-18T11:30:21+00:00",
+   "title": "China’s anti-Japan propaganda meets backlash in Myanmar",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/chinas-anti-japan-propaganda-meets-backlash-in-myanmar/"
+  },
   {
    "ts": "2026-08-18T11:00:24+00:00",
    "title": "Passing out Parade of Thura Company of 124th Intake of Defence Services (Army) Officers Training School (Bahtoo) held",
@@ -2179,13 +2186,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU0tYWExFSDdETkdhUHd4VkZXRmJPc0lPQzZEZG9vdm1JVXYzUlpkRWQwQTR6Z1VaZ1ExWXZ2WVYwRlBKZFhCV25VZFpaaVdnMnI5WldaR1RnRzAzYUFZX29JMlZscHlFU0w5dF9wSGMwRjhlWFJvb3FhWEdSbkFSQ0R6eld4dFNYVFZKNmRTcF9Rd1UtaGpRekpsb2dJUERndlJCazVJY3Q4UVRGZFdrRlpQQ1J1cVpBWDNDY1JnMA?oc=5"
-  },
-  {
-   "ts": "2026-08-15T01:00:25+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBoX3FUVHlhYVU1UXI2ZEhNdVVjenlXdXlULXVLZm1KejN0ck9KQ3BLRWhrZXlDakotaG1vQ3BIbEJtUW1wMTBqSXBiUQ?oc=5"
   }
  ]
 }
