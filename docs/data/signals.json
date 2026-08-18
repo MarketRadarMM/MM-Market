@@ -1,6 +1,95 @@
 {
- "generated_at": "2026-08-18T04:00:29+00:00",
+ "generated_at": "2026-08-18T04:30:31+00:00",
  "signals": [
+  {
+   "ts": "2026-08-18T04:30:30+00:00",
+   "title": "City Winner Co to empower MSME agro-producers through direct market access",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTFVnQV8zazJIT2c4U1RTUXp0Y1N4cDY1YU5qM1hsbTdyZ0tzelFRdWJkOHlPaVN0ZVlPYlR5dE11LXdOVlNGMVBsMUVkeC1wYnp1T2JNOTg2R3otRlRZZjN3YmRjYjhidFZDa2NlaUxWcHZPa0FQZHliU3RCWHhPYkw3RGxIWDVTbUVEd1liNk5qYlRwUk5wNnJ5N1Q2dk1Y?oc=5"
+  },
+  {
+   "ts": "2026-08-18T04:30:30+00:00",
+   "title": "Staff capacity-building advanced Excel training concludes",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZnZsaFpoakEwckFxajQ5LTg1WDZVcVhkdWJ0NUNOTndyUnNRNVdicDFRNUZTXzdsZVhpT1kxMmkxczJPMTdHRzdDVXpwS3labF82aDJOdXRyQndqSUlueU1fRFo0X3k1WlpfcnEtaXlYUVhPNUVsNmNSaU51RXVtVDhwUF9vZGNpZ2c?oc=5"
+  },
+  {
+   "ts": "2026-08-18T04:30:29+00:00",
+   "title": "Neighbors in Need: Six Key Takeaways from Min Aung Hlaing’s India Trip",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZU4wSXJELWxlUG96SFlaLU5XN3NmTFIyT0FybExHSTBRbTkzR1NIOUhrWWxLLU9XekxnRXB4Yklkcm5CREpwWk8yVnVuNWcyTEd5NnlCbG9naEI0RnRVSHRTN256U0pwN2VMVzFGZlJVVWVZYUJiTDExd2tndDhyRmRZMlplRG5rT1dXWXFNNl9TOXA0R3RJWEEtNUo3NlpTTjVWeVoxQkp1eUJDSE5B?oc=5"
+  },
+  {
+   "ts": "2026-08-18T04:30:27+00:00",
+   "title": "Business | Myanmar Junta Reopens Key Thai Border Trade Route Amid Security Concerns",
+   "source": "Irrawaddy",
+   "markets": [
+    {
+     "market": "pulses",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "China border trade affects bean flows"
+    },
+    {
+     "market": "rice",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "Border status affects rice exports"
+    },
+    {
+     "market": "fuel",
+     "direction": "neutral",
+     "confidence": 0.45,
+     "rationale": "Border routes also carry imported goods"
+    }
+   ],
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY0Q2VS1LdnBZbzh1QUZxUmxpZC1XeHFDZ3FCRjFSMFYtS2RnTDZZbGx4cEtJS3ZPaHBZM2hrdEE5dVg1amZ6M1huOEtJYXlWR0U0eW5MZTR4ZUtWMzZzbUR3cWthejdieEJUN3FScTB1SVBHWWh6OFJ1aTBrRml6SW5udi1ManpZMk83cDVDSUh3QkptV0RWVEstUVdSQlJReEp1aDdMOEFQcUFFeUoxR1lR?oc=5"
+  },
+  {
+   "ts": "2026-08-18T04:30:27+00:00",
+   "title": "Business | Myanmar Junta Chief Unveils EV Trade-In Plan for Market Led by His Children",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcjZiT1Z3X3ZQTnc2Z1BxcTBNY1JrUzFkd2EyeHZDTU5NLUJ2VzVFd3pNMHNnRkJsc1R5aHNOMF83MzFIZGdlYUFoX2g1UGsxM2o1dmhhVmxlWjBNdUJSS2YtTXpGUEt6SllBaVQ1aXdfcXRFbERpVXRXdVN6aV9FX1FSaUQ4ZzVXZlIwaE9Xd0dQZmdUSHlHZkt3OVlld1pDU01lc2NqZTN4cVBGMkFtSTNEdTRydw?oc=5"
+  },
+  {
+   "ts": "2026-08-18T04:30:27+00:00",
+   "title": "Min Aung Hlaing Names Cabinet Dominated by Military Figures",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY2pRcUFEbDE0S2lUYjVMUEFkVWN0emZLY2RiRHc2Y1V2WExqNlIydDZIeEx1b1BHS3RUSFpuY1kyV082ekQzRjh0ZGlSdVJEUm8tUHQtRk1UVHF2ZVZxNDQ0WWhHZkEwU0JNWEZBc0RTd01hNEF6S21RakR1R1I2QW9tTmdMWk16c1JidmhrZVhVc2o2cG9QVkhiTi1mbXN6cmJsQ0VxQQ?oc=5"
+  },
+  {
+   "ts": "2026-08-18T04:30:27+00:00",
+   "title": "Chiang Rai Communities Mark World Water Day With Demands to Tackle Cross-Border Pollution",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQlZBZGVuOGgyZUxqWnJQQmpTYW1DZ1dxQmYtOF85bDlBWjZUaGJya1NMUkI0WXJoZV9KdDFZVW1mS3N0WWVfODAwNTlhVThaTGsyamVGVFRFdEtTWE1rVHdnYVVLWFVWZDAwaUNhUVFJMzNvNlkxaTd6a0wySFg3YlUycGJyUVhWUXlUU2Rod05nRU5GcVhOd0poZUtxLVRQQU85YlNvRm1pbXBOeENmUWZtMnBXbEVGcTJmbW5BekZqZWQtTTVudVVpaw?oc=5"
+  },
+  {
+   "ts": "2026-08-18T04:30:27+00:00",
+   "title": "Guest Column | Myanmar, Beyond Balkanization",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWjFGbXpYRmtJUVlYcWVKMEI2N1Zic0xMNDVQem0yOHBsRG10ODVKZE1Od2RfLWRLa09vQnFUUTd5YWlsSlA2OEZ1a1NCVm1yajlSdzNodHExaGFWX3pSTUZlMllFUHF4TUZCTVRrU2gwRllDTDFSeGp1VkdCMmZMNHN6OFFnV2s?oc=5"
+  },
+  {
+   "ts": "2026-08-18T04:30:27+00:00",
+   "title": "Chin State Residents Suffer Under Myanmar Military’s Brutal ‘Four-Cuts’ Strategy",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeUY4QlRjVjE1LWhjYjRMRklwU3lUdloxd2RzdWQxdFZwQ19TWS04QnkwM3VnZE9BdWdOQno3UTcwd0VJMElEcVFiNGJwREg3bkgtb3RMTlplLTAtenI0YnFGOVNkc0NCS2x1cTQ3Tjg4Y2RjNEtGbG1pa0I4S2dibk9mYmprOEZScmpQREpLOTF3MVIxcnMxSVBKbTYxQV9RN1AxS1doNDRXM2duSlJ5bVZWS21TMkRqekhZ?oc=5"
+  },
+  {
+   "ts": "2026-08-18T04:30:27+00:00",
+   "title": "Wa Become First Ethnic Force to Congratulate Min Aung Hlaing on Presidency",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQzFlbTAzbElnMHhqYUdhcnZKQVNTR2pWeU5lV0pkZFYxN1VlSXpnQk9VMVphWWp4aDhmdldLMEtsYjV4Vm82TUZjeXhGdWxOVEEyNTdXQVJUckh4YjN0U1NHakRZZVNfNDBpTXlNMjB2OS1OVDhpaUlPSVZoOHJvRjNIamZNNktHVFpEMnhCdTFUZFFlX2oyLWdlUUtYbnFUVHNSOUJmMlQ1VXBYMWNQekFfWm12NE0?oc=5"
+  },
   {
    "ts": "2026-08-18T04:00:29+00:00",
    "title": "School uniforms, sportswear provided to Women’s Football Academy (Mandalay)",
@@ -2097,76 +2186,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQTBQTkZSbzRLTFAwU0hWQlhOVFVBc1ZtS2tfTjVBWUNyck0wenkzb053ZjB6MHRPTE9hRjNpaHJuSGNuZC1wTmN0YlRHZHFDYjQxckJuRUdOOTZBNkI3eDhLSVFJUTh3dm5aTkFLRFMyb0FTcnJoTzM3QzhLUUQ2RUV2VC1ncnZRMkt6Yko0OUw5aXZG?oc=5"
-  },
-  {
-   "ts": "2026-08-14T22:30:23+00:00",
-   "title": "The tenacity of military influence",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWZGRoZ09reUJLbjZfX29ZVDRmQ0F1b24tckFKUFRhMFMxdHNyWklmdkpmbFFGQU5HcTA3RVRYYmhrTXZJakluaWVMdTdUSjNCZVo0ZGs3V0lhWWZ5cFdPR2p3c3Q5dXdnLW1SaDVjVm1SM1Jia21TRU13?oc=5"
-  },
-  {
-   "ts": "2026-08-14T22:30:23+00:00",
-   "title": "Detained civilian leader Aung San Suu Kyi receives partial pardon",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWmRaZEdYd0UxNGZIbEFRTHRkak1YMFI1Q2JJMUVXNnFUc00xX0t5VVNSTUZRdUs3bWR1dldjRmxTWHZIZG5idldZcnBKZm9TcWhRZ2RrTzltdGtCbXBlMjRmcW9Wb242U3liNEppRTdneFJaQlR5WWJ5MHllOWlUelRzUWVoMXFtaHRNdGNMazBqUEJSZW82V2hPbUZRX2g1ZzZr?oc=5"
-  },
-  {
-   "ts": "2026-08-14T22:00:22+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9HclBOQ2gySFhwbi1ycnVQVlA3MEZSNVZvc0I4eWZ0eHJPREkzenRvYjRzVUFWVTZ5bE1ia21Yb2dYNHotNlBVRmJtbw?oc=5"
-  },
-  {
-   "ts": "2026-08-14T21:30:23+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1xakVfT0R1eHJxcGs1STh0Z2ViVWx1NjZqdGZpUDJ0MGRSbGlRSndWQnQ4amRKQ2lkWWFzREdjYm5TeHcwVEpicDBqaw?oc=5"
-  },
-  {
-   "ts": "2026-08-14T21:00:20+00:00",
-   "title": "Sexual Abuse Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DT1poOUVNNnNlUGd2dXlUVEZhVjNjV3VaV3lzZWZMU0QweG1qRnR4bmozNTMtcFRjMlNDRmUxS05MWXNGNTMyU1I5R1BCQU5RRV9rS3ZUYw?oc=5"
-  },
-  {
-   "ts": "2026-08-14T21:00:20+00:00",
-   "title": "Military to Military Relations: An Option but Not the Solution",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZVR3Rm1YMFdPMmpXSGRRTlVKMFBSRThTbWNGS3labDFQOU93RmlHakxOckl4Y29QamFLMWxHREZqQ3VmZnFLbDRKLTR4WGYtQ1RYLVg2RUh2bkZ3TlBCTkRXeG00Y3g2dkZtUUV6bkVoS1pBc1VZV1NMWXRFQk56MGdQcWNENzgyRFhhYVNMVVB1MFVLcURVUnRDelB2TWw1SEczcmpsNDlzWk5scmQ3Tmg0bw?oc=5"
-  },
-  {
-   "ts": "2026-08-14T20:30:18+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4ybVYwUkZ3c3RUdUktUGwwZGdYUUxUUjJxWGdqS0dfRnJKRFluQTgyMDA2bVcwMjlwdWpMQll0STFGUzhtd0dhbWtnSQ?oc=5"
-  },
-  {
-   "ts": "2026-08-14T20:30:17+00:00",
-   "title": "ဟဲလင်ကဲလား Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUWJDVDh1aFFobXhyWU1ZUE5RSnRPX2syOW92NmR5MFZhS1UtdUhEYzhmN2J3SzVVeXh2aDFOX29DRVg2a2R5LW9icTNnM1BLVHV4MGd2NkxHeG1OV2JhQXNOdUNUbmcxMVd2ZkswdnJxWDlBNHRIMHBrZ2cyT3ZDazlhbnFCbktYa0VZY1lYY01ybGVtUjlETWI4VVlSMlFueXFMU2ZhbHFYWUNCRlVkTEtiY0NqcVo5V25RdURVUQ?oc=5"
-  },
-  {
-   "ts": "2026-08-14T20:30:17+00:00",
-   "title": "Elderly in HK Look to China for Affordable Care",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZFhIWjNXZFlnM2x2cHFBWXRZSEtOU29EdW55M054TWc2bmdZbXF3cVlmYXhNeEJpeGpqUzMySy1rdVE5bUNTajJuLW9heWwwLTRsOFNsbzZoMmVmMmU0S2ZSWHlBeE1acElTczQyY0FiNklzQVJLcGFCZHMyLTdjd3dYNFc?oc=5"
-  },
-  {
-   "ts": "2026-08-14T20:30:17+00:00",
-   "title": "Govt Vows Action After Myanmar Villagers Demand Fertilizer Factory’s Closure Over Pollution",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbkFSal93eV80YlQ5NlhBeTFaLVVuVElFb2tqNTdIbk82LW1rOHUtbllDZjY3dDIxZlBKQkVFOEk5c1NxYm4wd2J4UWJvaHp2aXJ0dEVrR1ZzeHFCMkF0ZXRFVWRydzdndlFhQ2xvOXJHcGN2RmRkRnR3MWlHZml5aDZuVDQ3X2VvRDZJaVVPLWZsVHkxMjBjSUQyWE4tNjBDVlNvcDhVZ3J3dzhMS1h3Q3RNcEplZ2lkN2FlVlhn?oc=5"
   }
  ]
 }
