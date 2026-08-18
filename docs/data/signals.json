@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-18T14:00:25+00:00",
+ "generated_at": "2026-08-18T14:30:23+00:00",
  "signals": [
+  {
+   "ts": "2026-08-18T14:30:21+00:00",
+   "title": "Dozens of Civilians Killed in Rakhine as Myanmar Regime Turns to Tested Strategy",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ1puQUpnUnJ5Y2d5SmprcWxKaXVRMjRhRGlBWVhCZmQ2V1c5d3J2UHZuWjgyWEFnMVZBUVZlU0FhU1JYN3pGSC1iYXFlWE5uWXE2SGE3SllnX3RiazJiTTdaVXNybmdaZEZ4cXdWSnhsRGJoM3ZacHhqcWtuVWhpWmlVXzVHdjYwY01LY0dweG0xYjNCV2NNZEpaTEMtZGpxOWtfc0MybGh5a0NfY2V0N2ZIT0tWRWVrWGpzUGpmaw?oc=5"
+  },
   {
    "ts": "2026-08-18T14:00:23+00:00",
    "title": "Cat and mouse: Myanmar netizens find cracks in draconian VPN ban",
@@ -2179,13 +2186,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOajFEWVA4bzVQcXdVaVAtWG1uZUVKOVg3NE5qbk52eDltZGZ3Wk44a3lSNlYwWlI1Wm96LXlpSDRyV01aRDFzdWFRRDVqZTdMeEtYOWRoMjFTcDUycWp1ZzM5bm1Ub2dpeTRYYVkyVGI1NFAtMU52WFVtNjNZQ0tmQm53aVVRMXJsMWw0V0RrOVNlOGxCRkE?oc=5"
-  },
-  {
-   "ts": "2026-08-15T05:00:21+00:00",
-   "title": "မြန်မာ-ထိုင်းနယ်စပ် လုံခြုံရေး ထိုင်းအစိုးရ တင်းကျပ်လာ",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/80404/"
   }
  ]
 }
