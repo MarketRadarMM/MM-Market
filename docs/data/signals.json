@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-18T08:00:24+00:00",
+ "generated_at": "2026-08-18T08:30:17+00:00",
  "signals": [
+  {
+   "ts": "2026-08-18T08:30:16+00:00",
+   "title": "Army Chief Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zWFZqeHg4dEx3U2c2ejdfTWczM09UdnRzLUdwWVV4N1lfZ1RJTUJIbXUzbXZqbHIzU0NCMlFBQWx1NzNuTzRTbjNPamVQQUFQekE?oc=5"
+  },
   {
    "ts": "2026-08-18T08:00:24+00:00",
    "title": "Speech Delivered by Commander-in-Chief of Defence Services, Senior General Thadoe Maha Thray Sithu,Thadoe Thiri Thudhama Min Aung Hlaing, at the Parade of the 80th Armed Forces Day on 27 March 2025",
@@ -2179,13 +2186,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNTc3S3JybVlELVRDSjdjZnNCWFpwRWJwOG9ubW5FNHM0dFdKZ2g3WTJCNUhiSnBONDd0MEFqR3N6TE9UWUVfWDZVbktaRk41NF9FdVo4eDJvd0FYMkM2WDNRb2IwcTgxaTlCNE54T19IVnRjMWRvbUktU21jZTg2TWsyb0dfUQ?oc=5"
-  },
-  {
-   "ts": "2026-08-14T23:00:20+00:00",
-   "title": "YRCM Sets Free City Run for Yangon Runners, Beginners",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLXJmaVBhdk4xRHNQY1J1WmdkSThDdjRBc2JSa25tTTlCR1dDeUpMb1JPSXZJOUpoMldxTnZiQUVVc3A3d0xCX2h2RDUzbmVwcnNhUkozdUJHZ0lBTjMzM2Q2aUZaRWVmWkUxWFdTM1U4ZTBFeXhMOVo2ZkkwRV9VWHVOaw?oc=5"
   }
  ]
 }
