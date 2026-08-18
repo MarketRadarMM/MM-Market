@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-08-18T12:30:23+00:00",
+ "generated_at": "2026-08-18T13:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-08-18T13:00:21+00:00",
+   "title": "Local News Archives",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jOFhjUjE2NHhSQW1NWVphbm1MQ3hwUXNIS0ZSVWdqTzMtTXdJNFFJMDBnVThVTjBMMnhhQnZwQ1dFT2pPUTF4a181bkZWenUtRlMydVhCNA?oc=5"
+  },
+  {
+   "ts": "2026-08-18T13:00:20+00:00",
+   "title": "Myanmar Parliament Passes Official Rejection of ASEAN’s Five-Point Peace Plan",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQeEJmbVdEclh0VHJJc2d3bnRONWIyUEtCTW95dDM0RU1HT1g2MXByMFE1aE1hbzBZN1RKVTZ1cUZsLUllTkxkcElwcmZRSlcyaWlxMV9lb1d2U2UwX3VPV3JXMTctYmhyS3N3c05rSTdNTTNWUjZHN3o4dUNsemRwTjNSNURhc1VSRGNkTXhwQUluWmxoNjROOTVtNGtSTGNISnFlTGozM0djZUI5NURZTk9CVERuTDRVRGRiSEFpN2hzdXNHVDlEX3AtclNJbm5nMURpeVRKTkE5eVZxdVNvQkhXUVZFNFFOdW43Mmpobi12bXMyZEQ0eTBFdWxVUE81bFJDZ3h3?oc=5"
+  },
+  {
+   "ts": "2026-08-18T13:00:19+00:00",
+   "title": "ကုန်ဈေးနှုန်းတက်၊ လုပ်ခမတက် — အထည်ချုပ်အလုပ်သမား ၇၀၀ ကျော်ရဲ့ ၆ ရက်ကြာ တောင်းဆိုမှု",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/80490/"
+  },
   {
    "ts": "2026-08-18T12:30:20+00:00",
    "title": "Myanmar junta airstrike kills four near Pinlebu after BNRA commanders escape custody",
@@ -2165,27 +2186,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CTTRsOEVZZVd3eVF2ZHRWelNIOC1QV1FVWjRXWGZEMU1Wd3pXSVVQWkVUaGtacTRfeVQzZkhBS2pMbE8tcTBVbVVWcFBlV1Nt?oc=5"
-  },
-  {
-   "ts": "2026-08-15T03:33:02+00:00",
-   "title": "Does Burma’s Army Still Hold a License to Kill?",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSklIQ05DeVpzZGVEVENJU0Z0S1VwSkNtRExxcUJKdFJkS2tackI4RV9hLTM0ekxGenpPQ3hjaU1VQzktOS1UdFBKQ2dBVjNUbTlYYU1Ja3duT2Q1X052QjFyVl9PeWRiZjVXQ1MxbmtwdEpXNmJucjAxX3dMSmJISk1CSnNHdG94T0ZSNllB?oc=5"
-  },
-  {
-   "ts": "2026-08-15T03:00:22+00:00",
-   "title": "Opening ceremony of commemorative statues of retired commanders-in-chief and commanders-in-chief of Defence Services who performed duty in successive eras held to mark 76th Anniversary of Armed Forces Day",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOUNzQnhaZ252THJzQ3JWR0ZOZEJCMzByNTVTVlVPZkE2cEJZck1wTGFjbF9oSFpyX0lSc3J1QzhJSVQtVFZnVkluM3E3dDJnd29BclY5MEUtd3dTaWpVMDRMNDhUVXNNRDVWS3BpajRMS1dvNWVCRHZCbmdLSWx1OVJHbVhGR05xZnNja2JVaW94QWFCbXpzb1BMemp3R3BpUEFPNExXY2VKU0l6VjlPd2RkVC12eXcyeFdndjlLWkItSHBCQjRyV3dwZEJaQlhRMVdN?oc=5"
-  },
-  {
-   "ts": "2026-08-15T03:00:21+00:00",
-   "title": "Singapore tops FDI list in Myanmar as of Jan-end",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YUDBVQ0NfMjRTbXFOZDVqV0pzbEl1MGpBRklkTWVBRzZiRDhMVnVDaTN1aS1rR01LX2hQS3ZLQ25oV2NZcGFoVklFbjFLZXlBY3VoaGp0SlZrMnRKYXZvNkswZkJ1aEFOR2FKVk5wQVRDZ0xfdEgzZXlPckRrUQ?oc=5"
   }
  ]
 }
