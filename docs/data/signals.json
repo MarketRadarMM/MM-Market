@@ -1,6 +1,54 @@
 {
- "generated_at": "2026-08-18T01:00:21+00:00",
+ "generated_at": "2026-08-18T01:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-08-18T01:30:19+00:00",
+   "title": "2026 World Environment Day observed, with an address by President of the Republic of the Union of Myanmar U Min Aung Hlaing",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV2YxVWpoNkNhdU5qSnY5dDhzRkRwbWs3QW5waktpeUlmWEljbTBRNDlpYS1ZYkdNcVpjUDlBdHhxLXJ6V0llUFlEZ0tFOTlnRUhqNFFUWlN2Umo4eUEyTVZWNVluT1U3Ukh3TDFXQ2FHNVEwcUg2MElHX25GNFQtUGtEMTA2dnVqZzg3aVZnY0RGUEhBRjFtUF9KaklDUldiTDdGUF9fMzZFelM5YW5rT1RfcUxqV0ta?oc=5"
+  },
+  {
+   "ts": "2026-08-18T01:30:19+00:00",
+   "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing inspects undertakings for urban development and socio-economic development of PyinOoLwin",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLXdRTmdTazd4bWRIODF2SWtNeFJTV0JaWjNITUhhYlhnNXRSdkRjTzV6Z0d3aFBIQkx1dEh3N29mUXNGei16ZVNKbHFmbDRocTFsYjRUd2YydGdUR2JISUlnaGU5UnJyM2pSRGRTclREaU1tS0k0c2dUN0t0ZE1hNHhKVndlQkM5bk00ZHE0TjA1WnNodXd3X05KTDhvdUFKYVppRXFLWXlVRjRITmxuSEdNYWk1OFpx?oc=5"
+  },
+  {
+   "ts": "2026-08-18T01:30:18+00:00",
+   "title": "Maung Theikdhi’s 7th Anniversary Art Exhibition held",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZVh3ekp5YzJNM2FUNkp3SlcyV3BvbkFUOWNHVl84aEpXZWxIVHlhdU5RRUluWVZqdTlRZEFVSHZwZGVCQkwtME5vRENaODN4WVhRbWV1S0dJUU5pYVotYTN1UmZxSkNyQlBmTFJLbUI0ZHRWeU9EZ3JxWk1hdTZjeW1B?oc=5"
+  },
+  {
+   "ts": "2026-08-18T01:30:15+00:00",
+   "title": "မက္ကာသဘောတူညီချက် - တူရကီ၊ ဆော်ဒီနဲ့ ပါကစ္စတန်တို့ 'မွတ်ဆလင် နေတိုး'အဖွဲ့ဖြစ်လာနိုင်လား",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cvgjy627906o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-08-18T01:30:13+00:00",
+   "title": "နေပြည်တော်နဲ့ ရုရှားကို ဘာကပေါင်းစည်းပေးနေတာလဲ",
+   "source": "BBC Burmese",
+   "markets": [
+    {
+     "market": "fx_kyat",
+     "direction": "bearish",
+     "confidence": 0.65,
+     "rationale": "New sanctions pressure the kyat"
+    },
+    {
+     "market": "gold",
+     "direction": "bullish",
+     "confidence": 0.65,
+     "rationale": "Kyat pressure drives savings into gold"
+    }
+   ],
+   "url": "https://www.bbc.com/burmese/articles/c3r0eqlwl77o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-08-18T00:30:22+00:00",
    "title": "Monsoon rains submerge villages, fields in Myanmar",
@@ -2133,41 +2181,6 @@
    "source": "Myanmar Now (EN)",
    "markets": [],
    "url": "https://myanmar-now.org/en/news/myanmar-junta-airstrike-kills-eight-family-members-in-southern-rakhine-state/"
-  },
-  {
-   "ts": "2026-08-14T10:30:16+00:00",
-   "title": "‌နေပြည်တော်နဲ့အပြိုင် SCEF အင်ဂျင်ပါဝါတည်ဆောက်နိုင်မလား",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/crl7017n4k6o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-08-14T10:30:16+00:00",
-   "title": "NUG တရားရေးရဲ့ မစီရင်နိုင်သေးတဲ့အမှုတွေ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cq61d39yeg8o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-08-14T10:30:16+00:00",
-   "title": "လက်နက်တွေကုန်သွားလို့ ထရမ့်က အီရန်နဲ့အပစ်ရပ်လိုက်တာလား",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c1k183x3p37o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-08-14T10:30:16+00:00",
-   "title": "ဟော်မုဇ်ရေလက်ကြားပြန်ဖွင့်ရေး အီရန်က ထရမ့်ကို တောင်းဆိုတဲ့ ၆ ချက်",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c07r0e0zzr7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-08-14T10:00:30+00:00",
-   "title": "President’s Office holds press conference",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nb1BBc09GUFc0MDlMemNhY1pNY1pYMHlqQWR5NHhxMnlrOWdlSEVtd1JZYVYyc0NiMmNiQmVpU0ZYSEFVV1Q3WWVvM1QwTWJEaGJHaFZ2LVM3U0ZfeWg5eV9CaVpaZGVpODctWWdnMUQ?oc=5"
   }
  ]
 }
