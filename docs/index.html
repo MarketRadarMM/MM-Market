@@ -142,6 +142,9 @@
   .chart-legend{display:flex;gap:10px;flex-wrap:wrap;font-size:10.5px;color:var(--muted);margin-top:4px}
   .chart-legend i{display:inline-block;width:10px;height:2px;vertical-align:middle;margin-right:4px}
   .chart-foot{font-size:10.5px;color:var(--muted);margin-top:3px}
+  .stock-sel{margin:7px 0 2px}
+  .stock-sel select{background:var(--lacquer);border:1px solid var(--line);border-radius:6px;
+    color:var(--parchment);font:inherit;font-size:12px;padding:5px 8px;width:100%;cursor:pointer}
 
   .board{display:grid;grid-template-columns:repeat(6,1fr);gap:8px;margin:0 0 18px}
   @media (max-width:760px){ .board{grid-template-columns:repeat(3,1fr)} }
@@ -309,7 +312,7 @@ function switchTab(w){
   }
 }
 
-let SERIES=null, MARKET=null, STREET=null, RANGE=90;
+let SERIES=null, MARKET=null, STREET=null, RANGE=90, STOCK_PICK="FMI";
 const RANGES=[[30,"၃၀ ရက်"],[90,"၉၀ ရက်"],[365,"၁ နှစ်"],[0,"အားလုံး"]];
 
 /* ========================== column 1: YSX ======================= */
@@ -486,7 +489,7 @@ function pick(rows,key,days){
   return out;
 }
 
-function chart(title,tier,unit,lines,note){
+function chart(title,tier,unit,lines,note,extra){
   const all = lines.flatMap(l=>l.pts);
   if (all.length < 2) return "";
   const W=300,H=76,PL=3,PR=3,PT=6,PB=6;
@@ -517,6 +520,7 @@ function chart(title,tier,unit,lines,note){
       <span class="chart-title">${esc(title)} <span class="tier ${t.cls}">${t.my}</span></span>
       <span class="chart-now">${fmt(Math.round(last*100)/100)}<span class="chart-chg ${chgCls(chg)}">${chgArrow(chg)} ${Math.abs(chg).toFixed(1)}%</span></span>
     </div>
+    ${extra||""}
     <svg viewBox="0 0 ${W} ${H}" preserveAspectRatio="none" role="img"
          aria-label="${esc(title)}">${paths}</svg>
     ${legend}
@@ -560,23 +564,26 @@ function renderCharts(){
     {label:"မန္တလေး ၉၅",color:"#8fb0a0",pts:pick(s,"MDY_95",RANGE)}]));
 
   const TK=["FMI","MTSH","MCB","FPB","TMH","EFR","AMATA","MAEX"];
-  const CL=["#d2a24c","#8fb0a0","#cf6a58","#6fae7e","#c9b06a","#8a6c34","#a3937c","#ece2cf"];
-  /* Rebase each stock to 100 at the start of the range. Share prices span
-     2,000-18,500 kyat, so on a shared absolute axis every daily move is
-     sub-pixel and the chart reads as flat lines. Indexed to a common
-     start, what the eye sees is relative performance. */
-  const rebase = pts => {
-    if (pts.length < 2 || !pts[0].v) return [];
-    const b = pts[0].v;
-    return pts.map(p => ({d: p.d, v: Math.round(p.v / b * 10000) / 100}));
-  };
-  const stockLines = TK.map((t,i)=>({label:t,color:CL[i],pts:rebase(pick(sk,t,RANGE))}))
-                       .filter(l=>l.pts.length>1);
-  if (stockLines.length)
-    out.push(chart("ကုမ္ပဏီ နှိုင်းယှဉ်ချက်","exchange","အညွှန်း · စမှတ် = 100",stockLines));
+  const NAMES={FMI:"First Myanmar Investment",MTSH:"Myanmar Thilawa SEZ Holdings",
+    MCB:"Myanmar Citizens Bank",FPB:"First Private Bank",TMH:"TMH Telecom",
+    EFR:"Ever Flow River Group",AMATA:"Amata Holding",MAEX:"Myanmar Agro Exchange"};
+  /* One company at a time, absolute price, chosen by dropdown. Eight thin
+     stocks on one axis said nothing; one clean line per company does. */
+  const avail = TK.filter(t => pick(sk,t,RANGE).length > 1);
+  if (avail.length){
+    if (!avail.includes(STOCK_PICK)) STOCK_PICK = avail[0];
+    const sel = '<div class="stock-sel"><select id="stock-pick" aria-label="ကုမ္ပဏီ ရွေးရန်">' +
+      avail.map(t => `<option value="${t}"${t===STOCK_PICK?" selected":""}>${t} · ${esc(NAMES[t]||t)}</option>`).join("") +
+      '</select></div>';
+    out.push(chart(STOCK_PICK+" · ပိတ်ဈေး","exchange","ကျပ်",
+      [{label:STOCK_PICK,color:"#8fb0a0",pts:pick(sk,STOCK_PICK,RANGE)}], null, sel));
+  }
 
   const html=out.filter(Boolean).join("");
   box.innerHTML = html || '<p class="empty">ဤကာလအတွင်း ဒေတာ မလုံလောက်ပါ</p>';
+
+  const sp = document.getElementById("stock-pick");
+  if (sp) sp.onchange = e => { STOCK_PICK = e.target.value; renderCharts(); };
 }
 
 function renderRanges(){
