@@ -1,6 +1,41 @@
 {
- "generated_at": "2026-08-19T06:30:22+00:00",
+ "generated_at": "2026-08-19T07:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-08-19T07:00:20+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9JbVJFT0pON1kybVozUFdvM3BaclF4MTVaOXFrTlc5N1kxenZRc1NWS0Y3TjNnUzZqVjNxYm55NV9NMl9ZRWMta0pwUQ?oc=5"
+  },
+  {
+   "ts": "2026-08-19T07:00:20+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9TZEdCbkxKU0lqeW9STFBvSkpiZGxoUjNoNmY2ejU1aGlXa1doTkxrZ2FqZFJWTHREbmRnUE5QVVB2em4wVXBXOGlB?oc=5"
+  },
+  {
+   "ts": "2026-08-19T07:00:20+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5yMjZ0MktfZHFlRGVXOExZNUxBYk9zTnZjLWxBMUw1NnNHbDhGSUVjaUdwMXlFejJKaHJRZjFKWFdwOVB4N2ZHcDg0VQ?oc=5"
+  },
+  {
+   "ts": "2026-08-19T07:00:20+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1GMFgxQ05FYi1ZZ2NUZ0tNRXJHaHpzbGE0QVdTcUw1Nks2dmF2Z0pMVFhuWTUzakljQm9hdEtzZWRFbVJNaGQwbkNB?oc=5"
+  },
+  {
+   "ts": "2026-08-19T07:00:20+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1XQmhUX2ZVRjBNd3pDZ1FpQy1ERmlQOEhBR1JBSGNab0pvLV9nMnRyLThEUXNPcjd4VjBOZHRObWJPdXZvdDdsWlRR?oc=5"
+  },
   {
    "ts": "2026-08-19T06:30:22+00:00",
    "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing holds talks with Prime Minister of Russian Federation H.E. Mikhail Vladimirovich Mishustim",
@@ -2151,41 +2186,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRkZEYmlGYUQxVXVSblVuOU5GNTItTW4yRnM0eGF0YWJrOEYzaUpsLTh4WXZsejJlZnFXVk1pS2toSV9YMjF4YU9Va1JraFpYVGZUNTBwWkRaQ3J6WnJSb0FGRkJrYlBNanFjbW03UmY4bDZoRzl0VFFaT2s1SnFpazZ1UQ?oc=5"
-  },
-  {
-   "ts": "2026-08-16T06:30:19+00:00",
-   "title": "10 August 2026",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9JRVRDeG1pUnZDYkNoeHBKR0pvUVJhN0FmeG44b2hqczhaSXRuTXZCaWh6TTZFZGo2cHo5WG1pT1R6NkRYdW12cENfdFdPN1l3?oc=5"
-  },
-  {
-   "ts": "2026-08-16T06:30:18+00:00",
-   "title": "Conflict shoots up malaria cases on the Thai-Myanmar border",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcWNIZTRiLXBGU0JmdXpCRjMtS0VpV2RvZ1ZJcjlWYTdKVk81UlpPRF83NXUyNDJVSE52ajg3Wl9qaEVVOHd6VVBXRFR5MWN3S0lXYS1LTjdzb0lBcm5QX0FsR1Q3ekhxN2dINUZ3MTQ5MFktX1ZiMHdEQ2hlMlhBdi10OWk3UEpiUXlPTjZXX05MR25TQ29nSXk3VQ?oc=5"
-  },
-  {
-   "ts": "2026-08-16T06:30:18+00:00",
-   "title": "Fact or fiction? Inside the regime’s ‘fact-checking’ team",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaG1TZU1HZm9zWl9RMndyNEgwdkVXUmtEMDRMeHJKMU1KTUx5Sl9rSDlmcUNKb3U1UVkyZFdBcWpzQzdHM2ttZDlMcDJ0Sl8yQ1VJVERuY2ZaR1B1cVNYVWpqRHZ0TWxfcFdNNTgzNS1Pb05WQkFheVhEaUZrR1V0cWpkX1ZXeDBMa2wwVHZ1aWcza0E?oc=5"
-  },
-  {
-   "ts": "2026-08-16T05:30:15+00:00",
-   "title": "ငလျင်ကြောင့် လူအသေအပျောက်များစေတဲ့အချက် ၇ ချက်",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c5ygm718gxko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-08-16T04:30:17+00:00",
-   "title": "A commemorative speech delivered by Acting President of the Republic of the Union of Myanmar, Chairman of the State Security and Peace Commission Senior General Min Aung Hlaing at the ceremony to confer Honorary Doctor of Public Administration (D.P",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV01Mc3ptT2V6MFVtZHVkNnU4MW5LU182NXJnMEcteWpYamx0TklrOTBnRTMxMDhJZlpGMTZTUzVMOHlUaWpTVjF6ZGtYMVBTRXRUTGNtblRrdTZxWEJ0Q3ZWTFMwN2FNbWdBY1FJdU90dmVabUVDT0dmb2J5V2dMU2ExOWdsenhzYjYwZHVHZndtN0s2bXJFRkN6N1I3VjliTG1HOFZNcUppYlR1NGx6NUF2VTA3T2NKQmtlUVRpNkNIS2s?oc=5"
   }
  ]
 }
