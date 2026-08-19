@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-19T07:00:21+00:00",
+ "generated_at": "2026-08-19T07:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-08-19T07:30:16+00:00",
+   "title": "Asho Chin resistance leader killed in Myanmar military ambush",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/asho-chin-resistance-leader-killed-in-myanmar-military-ambush/"
+  },
   {
    "ts": "2026-08-19T07:00:20+00:00",
    "title": "- yktnews.com",
@@ -2179,13 +2186,6 @@
    "source": "Frontier Myanmar",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbW9ETDBXUVg2RjZOQU5vdlVMRTAwcnBPd2NBTWxISzlCeEtYZnROZUd6bDBDTS1WMzdJOWtPemQ2TldoUm4tX25WQnIzMWRYU2VNWTE0ZnBrT1l3dk14ZUpCWjJaZ3ZHVS04VkJvR1B4UjR0NzdudHR4djJpSEZ5YjRtZW1jMTA5eGNKbGQxbUVOd0xsMXdWRDhqQjhKdFRkclJzTFZR?oc=5"
-  },
-  {
-   "ts": "2026-08-16T07:00:21+00:00",
-   "title": "မဲနယ် Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRkZEYmlGYUQxVXVSblVuOU5GNTItTW4yRnM0eGF0YWJrOEYzaUpsLTh4WXZsejJlZnFXVk1pS2toSV9YMjF4YU9Va1JraFpYVGZUNTBwWkRaQ3J6WnJSb0FGRkJrYlBNanFjbW03UmY4bDZoRzl0VFFaT2s1SnFpazZ1UQ?oc=5"
   }
  ]
 }
