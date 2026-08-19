@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-08-19T12:30:22+00:00",
+ "generated_at": "2026-08-19T13:00:26+00:00",
  "signals": [
+  {
+   "ts": "2026-08-19T13:00:25+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HWGcwYWdjRkZmcE83QmtVY0ZpeWtEUDV5RFR1eXNTY0EwQlhzeHVYLW5uM2hXYklTVWNpbndSU2JWTUhrUmtZOVVtdw?oc=5"
+  },
+  {
+   "ts": "2026-08-19T13:00:23+00:00",
+   "title": "စစ်တပ် အာဏာမစွန့်သရွေ့လက်နက်ကိုင်နှင့် နိုင်ငံရေးတိုက်ပွဲများ ဆက်ရှိနေမည်ဟု KNU ဆို",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/80533/"
+  },
   {
    "ts": "2026-08-19T12:30:21+00:00",
    "title": "Burying the dead: Myanmar’s Muslim COVID volunteers",
@@ -2172,20 +2186,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTkdsdkRjLTF6Y1NJRzAxOUNxd2QwLUxSbkozUm9UX3RpLW1NUUMxeTNnYmxGSzVYWU9ra2kyZ2cwVTRZd2pSUzZGYmxZZnJ2MTBZcm1GNUFEX2w5cG5BakhRWDR6MFZaMmpHajBiSzZrTVozbk5OZnZSQ3NlMWVyRU04NEFJRHJ6RGFmS3B4WkRFdUpmUERMVFozYnhXazFa?oc=5"
-  },
-  {
-   "ts": "2026-08-16T20:00:20+00:00",
-   "title": "Blast in resistance-held Myanmar kills dozens: rescuers",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbjVCUExYSXFsUmpzajhQazd5THNLdmpOcnQwR21nY0pfbi1ZdEZ5ckRPbzBKUVNEWkZ1WVZja0dPdUpmY05UTlBqemxSUFNqM3NHQTZ5eFV3WThVbXZlWWdwWVF6Undua283V25BTWg2V2c5bktsektmV2VIY2hBT0E1M0ZmbGZ6V0dhNEoxcExENlNE?oc=5"
-  },
-  {
-   "ts": "2026-08-16T18:30:21+00:00",
-   "title": "Searching for solutions for the Rohingya",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYnNvRXY2bUJVLVBOcXliX2NfaTloR2N6TThGQWNNczV3LWxucDZWOVlZQkozdXl0dmw5amNsMjVFWGk4bG1tQU1KbDFCTEZ6RFpFMnBBeGk0SDhfX2QxWjdXQ0szQ3pfZjhsR05nN1NTVFI1cEJ0blI2OV9rUUlOUWhn?oc=5"
   }
  ]
 }
