@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-19T07:30:20+00:00",
+ "generated_at": "2026-08-19T08:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-08-19T08:00:22+00:00",
+   "title": "Admission of medical students to be cancelled unless they register",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeklPVi15VW1lcl9ZWVNiblM2RFYtcFFqV0FpRDRzNS1EQ0Y5U1JOQXU5R0Q1MHF5ZDVLWTRvZ3IzOVV4b3Fjb0NJRnZsUlczVF94UHlUeE9QdmdwRXV1b3Y4b1RuVnNGRE0tUGFkWWJKNVJSMVdRVkhQRDl1bmVxTUE0R0NZOEhjcVFZSENCYXJKVmNxT3c?oc=5"
+  },
   {
    "ts": "2026-08-19T07:30:16+00:00",
    "title": "Asho Chin resistance leader killed in Myanmar military ambush",
@@ -2179,13 +2186,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaDFmT2h4V2xFdS1haFdSeVd3TlBZR1dBWVBINlN3OTR1SVYxQ3hrbXYyTFMxdWpWcWNLMGpObjhPTGdBNEpZVnNaeXM4enlEU2VybUQ3bEREYjlZME5EQ25Ha3B4MUhTUGlWbGNicU5xbHE3dEo3eHU5UTRTd3ZZM0twM0oyQUg2QnZWeVZkeTZIME1PNzQ5MG15NXhoTnFjc2tvblVhNWI1LU82WGs0WU9sTmNxdnk5YTlTdTlrZkY?oc=5"
-  },
-  {
-   "ts": "2026-08-16T08:00:21+00:00",
-   "title": "‘I’m losing so much’: Classrooms fall silent in embattled Rakhine State",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbW9ETDBXUVg2RjZOQU5vdlVMRTAwcnBPd2NBTWxISzlCeEtYZnROZUd6bDBDTS1WMzdJOWtPemQ2TldoUm4tX25WQnIzMWRYU2VNWTE0ZnBrT1l3dk14ZUpCWjJaZ3ZHVS04VkJvR1B4UjR0NzdudHR4djJpSEZ5YjRtZW1jMTA5eGNKbGQxbUVOd0xsMXdWRDhqQjhKdFRkclJzTFZR?oc=5"
   }
  ]
 }
