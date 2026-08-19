@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-08-19T04:00:22+00:00",
+ "generated_at": "2026-08-19T04:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-08-19T04:30:19+00:00",
+   "title": "EU Pledges Support for Women Garment Factory Workers in Myanmar",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcUNYOGFtalpmWnF4VDJ1Yk45SDFvR0hXbDhScE5SZklmb25VMWw2cy1fUXNmUllXeHlpVENNV1BFMWh3eGg2T1AtTHIxT1cwZ0NoQ3FUY3RiRmpuenp5b3NIT0FRVElObldCVDNlX3VFX1VwbGhIbUJxWWdCb183d2REVGhrdzV5NHFteG9DbDE1U1NlU2tSQnBnNVB5SklwNUFTTzhFNXYyX2xrVEM3cWpCS1RxUzJrbTZ2bg?oc=5"
+  },
+  {
+   "ts": "2026-08-19T04:30:19+00:00",
+   "title": "Impeccable Appraisal of the Myanmar Imbroglio",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQN3ZCV3QtZjJydnB5UkJOSkRDdm4waVRwNVN1R3d5SnZIZTM5WXpNYkYyTHp4YVZYb3M2Zk81bkZjSlFRTXVWRmtSNE9VclBOS3BDMzhqZ0hkbDdHNG9jcVFVckEwV2dsNXZWajk3bk14cDIyV0hENks2REVCQkI1Q3cxMDJTd2ttV2pocWN4eGsxc3A1?oc=5"
+  },
+  {
+   "ts": "2026-08-19T04:30:19+00:00",
+   "title": "On This Day | When Myanmar Cast Off Its Colonial Tongue Under Japanese Rule",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWk1ZQkJEczRWRU5fWldGY3ZMY2tZWUMwbjE1X0k3OF9KLV9pcjRLSWhuQ0Z0ZnpVU0MzNnVzeW9HZTJWT0QwN2U0SEZjcTZhckVycFEwZ1UyNGYzRXhqQWdrTkh6WkJoaWVrV2p6YWtiakt0MmJhaExfTUJSNHhyTGR4TF8xQk5aRE9qeTM3TTRTU2Zuam1YZUp4a0ZBT1k?oc=5"
+  },
   {
    "ts": "2026-08-19T03:30:17+00:00",
    "title": "Beijing resumes demolition of major Tibetan Buddhist academy, satellite imagery shows",
@@ -2165,27 +2186,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS01mMkt3Q3RMT0dnS2ZnbEI4clZvS0dZV1BibjByR0FnV3lqZ2NHdlhaeGdCTV9Nc2Z6ZFRXeFRicllMYi1veU9ZWlJUU1RiNk1tM0pFT0dObXhRNklCdVVNUW1nUEZpV1h3cmlpZHNxZ3VSdWxxN19ZZmlzRmQxM0psTE5QSUluUGo3aVdMbTJjNW8?oc=5"
-  },
-  {
-   "ts": "2026-08-16T03:30:19+00:00",
-   "title": "34 Chinese nationals linked to online scams arrested in Laikha",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVHBhMGRDdUE0SDNsTFVfUjZrdmhhVXNtLUx6X0xiM0xET0ZBLXBWV3VrRzc1dVQ2RDBBaWNjNTlXWUMyajk5ZTh3MTFJV25WcndBTVV6cC1NSFFVTGc2N2pvdTNKajVLSjVuY2Ntck5VQ0RRbDJFNU9wcGM1TGVSemUyRXpHV0Vmcmg1bWx0ZHc?oc=5"
-  },
-  {
-   "ts": "2026-08-16T03:30:19+00:00",
-   "title": "Shwe Padauk Fish Market facilitates local consumption",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdFg3YjRxZUhKWVUtNTFUbHZqNXFmU0QtNEV1N0xuWTBsdldyMEVIb3J5RDU5OWhIejJNVGtrRXA3d1VaMEpTTGUwU3loeVBxQkRZc0FiMmhGT0JObWswRjBpR0NxVVA0WlI0dHJkMXM5ZkpBNUNVSHRSQ19KaHdVLXJPcDU?oc=5"
-  },
-  {
-   "ts": "2026-08-16T03:00:22+00:00",
-   "title": "MIFFA reconstituted as Myanmar Logistics Association (MLA)",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOVd2WHdheVRQQTRla2NtNU1SbkVpQ2IwT3V1TFVRODhGTkpQMnRPbDhkeEcwdWpUeGdhS1NsWWo0YmdQb1A4b1cyakVDZzctQklDa0NWNUEwUlkwQmVtLU85ZUZCSnBKWjdIRjhPVFhBV1l2Q3AyV05OcV91X2ZDZFlTMlJtSjRC?oc=5"
   }
  ]
 }
