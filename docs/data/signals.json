@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-08-19T10:00:22+00:00",
+ "generated_at": "2026-08-19T10:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-08-19T10:30:18+00:00",
+   "title": "Fleet Exercise-2020 conducted with involvement of attack submarine Minye Theinkhathu of Tatmadaw (Navy) to enhance defence prowess of State",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWkFuSUV4TDhJUVNWSThZRjE3WnI0SHBaQm9NSWxfVm56M25WXzluZk9KSGhsSF9FTHBUQ0NfTl9KR1RCelhmazQzUFVjV0xVR0x3dW0tVUtPa0NtMk9UZmk3U3NySDZrWEdpdzcwUUpvM0UwRjVCdENWb0VkYkd4NkNZbUVJRnljMjhlLXBCd2xBVEtfRElSdnZ5RkEyUFo5OHd2SXpOYUlaSDVWcWhZUW1Jd3BLOUV1V2dMaFZqQUR5U3M?oc=5"
+  },
+  {
+   "ts": "2026-08-19T10:30:16+00:00",
+   "title": "Myawaddy Launches ‘Crackdown’ on Sex Trade as HIV Infections Surge",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaVdhekZfMVBadEd2eEEzX2RuZnhlR2ctTW1TOC1IVGhZM041R3JHSl9PVFIzMUQweUhuaWROajhUaW9CMmhTYjZ3R1kxamtXS0JjbENBX1E4Q2E5Q0FtZWN6aVNCRXBIU2FzcDBabFBfUlg2OGpBWE1TYW5aSTJCcFpKQ0ZNR19hc2E2d255TUUySWpTc0FkU3RIajJnV3Juc2VDRnpsSlFNUQ?oc=5"
+  },
+  {
+   "ts": "2026-08-19T10:30:16+00:00",
+   "title": "Editorial | Why Myanmar’s Future Lies Beyond the Centralized State",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPem5nbmwwako5cE4xMDgzZ2lRQTBuc2NIZUtWYy1UZFcxM0xhUkNFbEJfTU9LRnJzbzJLdUFqcnhTckhCcXlWOGFES0FEdVdFQTBra3pOaUNJTm8tbG1kTURFZWpGSTBOc3NKVm42RWwxNVQyMlRZOENRSjhrajdkRF9BdjlNVkZtOVBmaC04Wm5fUGU0NEVjVFFUa0ttVUhQOU5EWA?oc=5"
+  },
   {
    "ts": "2026-08-19T10:00:22+00:00",
    "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing and high-level Myanmar delegation arrive in Russian Federation to pay an Official Visit",
@@ -2165,40 +2186,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY0pDQW54X2tUckVjR0FfNlFTSjlpbXg4ZmJBS3hqZEVUYzdwdkxGeUNocl9Fd1hIdHdOTjY2MzhHQXBlYTcxNE41OVJfLWF3VXdyT25neEJqRHhHRG5KTnI3SFB5RjJtM2o5cS1HUHppYkJSUHRCbXBLeWJCWl9ZUUpZRVgyQ3JG?oc=5"
-  },
-  {
-   "ts": "2026-08-16T13:00:20+00:00",
-   "title": "U Nay La",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1oSVkwRzltOFpqVXNGVkhia2t0QThJUTV2eWV5Y3I3TTRlM3U0Zmt1MmFYc3BqVEZPN3JaQ0twcXlWakF1WmJVQW1teHotOURweVBiSHAzYlVNR0w2N01KVy1RaVdPM3VpamI5MERR?oc=5"
-  },
-  {
-   "ts": "2026-08-16T12:35:20+00:00",
-   "title": "Bridge Dept invites tenders for YGN-MDY railway overpass project",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdzN3dk9ieWtlVnJjMWNGaVFTMDRSNENXREs2c0JWd2JVX2xabVNCQkF6NmRaZFpQY2Q0VUFuVFZaYnVsLXJhbDgyV2Z1Z0NZNUdFVkFQSi1scWlqOUtKbnplTE1FQmhTNXNncEc0NU14MGxXY0YyaE5JSjlZYXdCWFZzR2VYVWhYaEloQ01sbWlIZ0E?oc=5"
-  },
-  {
-   "ts": "2026-08-16T12:35:18+00:00",
-   "title": "No ‘silver bullet’: Experts weigh in on America’s latest Myanmar sanctions",
-   "source": "Frontier Myanmar",
-   "markets": [
-    {
-     "market": "fx_kyat",
-     "direction": "bearish",
-     "confidence": 0.65,
-     "rationale": "New sanctions pressure the kyat"
-    },
-    {
-     "market": "gold",
-     "direction": "bullish",
-     "confidence": 0.65,
-     "rationale": "Kyat pressure drives savings into gold"
-    }
-   ],
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOazhqNWJITVR6cUNwUDhlWlhGT2t3OG9TakpjOUhEY2tRWGFseVBRLTdlODRyMF9KYVNaV21GSzdfWDgtY2xQRUNaN2VsVGhtbkZHaUpZNmltSVlxVjBmV25jejZ1aWpnY0J3WjRRb0s3QjZXNTVvLS1LYVUtZ3JmTHRzUVRnckR5cW1iSHBwYW1va2xESkV6dXJjbXpWek9reW1MZXkyaVYxZw?oc=5"
   }
  ]
 }
