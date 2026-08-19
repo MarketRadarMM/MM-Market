@@ -349,12 +349,12 @@ function renderYsx(){
 function renderStreet(){
   const box = document.getElementById("col-street");
   if (!STREET || !STREET.values){
-    box.innerHTML = '<p class="empty">လမ်းဘေးဈေး မရရှိပါ</p>'; return;
+    box.innerHTML = '<p class="empty">ပြင်ပဈေး မရရှိပါ</p>'; return;
   }
   const v = STREET.values, g = v.gold||{}, fx = v.fx||{}, fu = v.fuel||{};
   const L = STREET.labels||{};
 
-  let h = `<div class="col-head"><h2>လမ်းဘေးဈေး</h2>
+  let h = `<div class="col-head"><h2>ပြင်ပဈေး</h2>
            <span class="tier community">${TIERS.community.my}</span></div>`;
 
   if (g.gold_16pe){
@@ -427,7 +427,7 @@ function renderOfficial(){
     h += `<div class="big"><span class="lab">ဒေါ်လာ (USD)</span>
           <span class="val">${fmt(r.USD)}</span></div>`;
     if (p) h += `<p class="col-note" style="margin:0 0 6px">
-                 လမ်းဘေးဈေး ${fmt(p.street)} · ကွာဟ ${p.premium_pct}%</p>`;
+                 ပြင်ပဈေး ${fmt(p.street)} · ကွာဟ ${p.premium_pct}%</p>`;
   }
 
   /* YGEA reference gold -- relayed via the community channel, so it is
@@ -440,7 +440,7 @@ function renderOfficial(){
       <div class="row">
         <span class="nm">YGEA<small>လူမှုကွန်ရက်မှ ထပ်ဆင့်ရရှိ</small></span>
         <span class="vl"><b>${fmt(sv.ygea)}</b>
-          ${gap ? `<span class="gap">လမ်းဘေးဈေးက ${gap}% ပိုမြင့်</span>` : ""}</span>
+          ${gap ? `<span class="gap">ပြင်ပဈေးက ${gap}% ပိုမြင့်</span>` : ""}</span>
       </div>`;
   }
 
@@ -452,7 +452,7 @@ function renderOfficial(){
     any = true;
     const p = d[c];
     h += `<div class="row">
-      <span class="nm">${esc(names[c])}<small>${c}${p?` · လမ်းဘေး ${fmt(p.street)}`:""}</small></span>
+      <span class="nm">${esc(names[c])}<small>${c}${p?` · ပြင်ပ ${fmt(p.street)}`:""}</small></span>
       <span class="vl"><b>${fmt(r[c])}</b>
         ${p?`<span class="gap">ကွာဟ ${p.premium_pct}%</span>`:""}</span></div>`;
   }
@@ -461,7 +461,7 @@ function renderOfficial(){
   const s = (MARKET.derived||{}).fx_spread;
   if (s){
     h += `<div class="spread"><b>${s.premium_pct}%</b>
-          လမ်းဘေးဒေါ်လာဈေးသည် ဗဟိုဘဏ် တရားဝင်နှုန်းထက် မြင့်နေသည်</div>`;
+          ပြင်ပဒေါ်လာဈေးသည် ဗဟိုဘဏ် တရားဝင်နှုန်းထက် မြင့်နေသည်</div>`;
   }
 
   h += `<p class="col-note">`+
@@ -544,7 +544,7 @@ function renderCharts(){
 
   const cbmUsd = MARKET&&MARKET.cbm&&MARKET.cbm.rates ? MARKET.cbm.rates.USD : null;
   out.push(chart("ဒေါ်လာ (USD)","community","ကျပ်",
-    [{label:"လမ်းဘေး",color:"#d2a24c",pts:pick(s,"USD",RANGE)}],
+    [{label:"ပြင်ပ",color:"#d2a24c",pts:pick(s,"USD",RANGE)}],
     cbmUsd?`တရားဝင် ${fmt(cbmUsd)}`:null));
 
   out.push(chart("ဘတ် (THB)","community","ကျပ်",
@@ -561,10 +561,19 @@ function renderCharts(){
 
   const TK=["FMI","MTSH","MCB","FPB","TMH","EFR","AMATA","MAEX"];
   const CL=["#d2a24c","#8fb0a0","#cf6a58","#6fae7e","#c9b06a","#8a6c34","#a3937c","#ece2cf"];
-  const stockLines = TK.map((t,i)=>({label:t,color:CL[i],pts:pick(sk,t,RANGE)}))
+  /* Rebase each stock to 100 at the start of the range. Share prices span
+     2,000-18,500 kyat, so on a shared absolute axis every daily move is
+     sub-pixel and the chart reads as flat lines. Indexed to a common
+     start, what the eye sees is relative performance. */
+  const rebase = pts => {
+    if (pts.length < 2 || !pts[0].v) return [];
+    const b = pts[0].v;
+    return pts.map(p => ({d: p.d, v: Math.round(p.v / b * 10000) / 100}));
+  };
+  const stockLines = TK.map((t,i)=>({label:t,color:CL[i],pts:rebase(pick(sk,t,RANGE))}))
                        .filter(l=>l.pts.length>1);
   if (stockLines.length)
-    out.push(chart("ကုမ္ပဏီ ပိတ်ဈေး","exchange","ကျပ်",stockLines));
+    out.push(chart("ကုမ္ပဏီ နှိုင်းယှဉ်ချက်","exchange","အညွှန်း · စမှတ် = 100",stockLines));
 
   const html=out.filter(Boolean).join("");
   box.innerHTML = html || '<p class="empty">ဤကာလအတွင်း ဒေတာ မလုံလောက်ပါ</p>';
