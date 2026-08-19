@@ -1,6 +1,62 @@
 {
- "generated_at": "2026-08-19T01:30:17+00:00",
+ "generated_at": "2026-08-19T02:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-08-19T02:00:21+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4tdmlZMVlRM1pMVnZiRGwwNlE0T05PeU5rSGtwSGFxaTlISldQTzhDakdaclMtWlVSWkl2ZEtrNllmZFB6OVBFaXJB?oc=5"
+  },
+  {
+   "ts": "2026-08-19T02:00:21+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBzckJ2bEZEbGhJMllTRFpReFp5QUxVNmM4dFY1enhaUFBsZFFzVHhxUW1sREdGTWE0MkRXRWtoQ0NLSjJRWXhYb3ZoRQ?oc=5"
+  },
+  {
+   "ts": "2026-08-19T02:00:21+00:00",
+   "title": "Myanmar, India sign MoU on development project",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9GRnFodUQzVnZMUV9TTU82MTNRZzVTX1hSbVhYYU5SMmFsZWg3Tk5PVUlMU0NpaTBuSVliSXBESXNIbTNrMEFzUU05bWhDU1o5M2hwSU1QbUd0bWVzYWljZThrRWo2S1cwVE9Rb1JMZUdBek9OX25tOXpn?oc=5"
+  },
+  {
+   "ts": "2026-08-19T02:00:21+00:00",
+   "title": "VDP projects completed in 3 Hopong villages",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mYlJIRzRzbUFqTHJGYWVRY25IWWZCcUFjUFJmTkFRb0twN1ZyTnNzRXFlQXlET0NvOGZTb3ctMDMtRk1qbDh4OGtJdXNReGFMMlhOSGhFSGw3N3NrNlp4V21IbW5XNnRzWlpCbU1Edmg5ZWpUeG5Z?oc=5"
+  },
+  {
+   "ts": "2026-08-19T02:00:21+00:00",
+   "title": "5 teams advance to Inter-Region and State Lethwei finals",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcDFhejh5Rlp2VGx6Qzl2dDl5YVpYRjZpWTc3N21KTDVrMGl5YmR4NU9OOTFpR2VscUZTRXc4OHlNMWJtMnhpcUxxdTlKZVBBcjNzampTenFQbDZ6a0JjYThmdThZUUNGaVI2ZHFPVE11SUFmSU5nX2NqT0pPU0NKbGh3ZEFDWWc2?oc=5"
+  },
+  {
+   "ts": "2026-08-19T02:00:21+00:00",
+   "title": "Amyotha Hluttaw Speaker Meets Lawng Waw Literature and Traditional Culture Association Delegation",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMW9GUEtod1g3U0JXbW43aDJfZlM4M1pya1JGenhyWnNIOHZTQWd0T3hRTnd2eERRNFBTRzQ5ODRoZDFNc3JqUldHLTJDX1g2bWdmdU51MkxNYWhYZHVQOHdwSkhndnZSRFJjdGFFT3NrRWJ1ZlZMMTJzcHMxQTNjUHIyVi1zRnBHcmZiU1BDaGZIM0pEbzZmdzBhem1Md0haQ2RtZDBCSmtZOU9kc0JSSnVLWGhXbW9zbDFDS05UMA?oc=5"
+  },
+  {
+   "ts": "2026-08-19T02:00:21+00:00",
+   "title": "President U Min Aung Hlaing lays wreath to pay tribute at Tomb of the Unknown Soldier in Moscow",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObDZBSWNPaGxJQzNZUC1kVWJmQUYtcmRnMVJoS1R2M2J0TnEyYjRqUklXM1FKT01jc0NnN1hzRTNuQWs2NDYxaHFKYmRVemsxRWJUSjU1eUhnVzEyd3E0MkdHSVRFTnZRS19qQUNKYjFETVItbEhadWJGTklRVF9oN0FFLTRSTDlObHBRTUV3aVEwNXBuV1gzb0F4dThtSjNiTU9JX1Z6WWctOXA5eUx6dmxyZlNGSkhmTXhSYg?oc=5"
+  },
+  {
+   "ts": "2026-08-19T02:00:21+00:00",
+   "title": "Floodway Closure Works Continue Along Low Ngawun Embankment",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcElmeXBXa3JXQjhzNDRlekI0VFJTWWpJeVdlSDVzTzM2LUpGSlZlUG5DWWtMSkFBbHB4bDYxMnV1YUlrWTBBVWlzNXZ4X3hVdTlPMl9RNUNMQ3ZlaC1aam1vT09OSmttNEp1dFVfQjFFXy15ZnZZWWREd3VTYVZLdDMtd3c4SUxKd2ZzOA?oc=5"
+  },
   {
    "ts": "2026-08-19T01:30:17+00:00",
    "title": "Politic magazine features its interview with Senior General Min Aung Hlaing under the heading “The Armed Forces is the guarantee for the perpetuation of peace, sovereignty and territorial integrity of a nation”",
@@ -2130,62 +2186,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUV9WRTUtSGFVRDJxX0hxdHcydUtrc0JFRFpMWmxTelpVcUJzYVRhbm5aUGM0a1ZydXVQNDlGZm1LSjJ6Z09WR2p1dlRlRzJqQnhkTXhBV3FBcFZpdGdTa19RWVZHQWxfSnVILTBvNHRscGhiWWNsN0NzQjJ4RHVRM1NpTlotaE1zWmpXMWstcHlyVlh0Qy1IRHUxRVVsbUFiWFNFODZETDVXbmlrUkhVT0tDMENHeFRfUWJlcXZzWkQ4LTQ?oc=5"
-  },
-  {
-   "ts": "2026-08-16T02:30:24+00:00",
-   "title": "Chairman of State Administration Council Prime Minister Senior General Min Aung Hlaing meets union level officials and officials of union ministries",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVkE0Y1hLUndtN0ROX2czSnB3N3FETC1YUWZCMGlpdTZQTjJ6M2xQeXc0Mmx6em5wUUgyUnRFY1FjNHV6cGoyM0RndGFtRGlLVW1sMHdfQnkySlVuVVR1U0ROOFBmalkzVms2WE15MkRNbm5icXRkLXVvZ1UxejRSTHo3c2V0cGxsZDdLZHlyRGN6U092TGZVaTlDSHdSWVVkTWVFZXA1QlNlOHVNYUI0SExDS1JiQmwyQldmOE85TTk3QQ?oc=5"
-  },
-  {
-   "ts": "2026-08-16T02:30:24+00:00",
-   "title": "Senior General Min Aung Hlaing at the 10th Anniversary Celebration of the Nationwide Ceasefire Agreement (NCA)",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRWI1M0cyY1JnVmJjN0VuZjA3LWRVNE1zTXd6VlZ2Mkp4TVZsU1k3RzVFSVMzU0kyV2hEQ1V0NmpFRmlta25MT1ZHNllEX1VvbG5Xd2d2R0JvZ0VMTmtOVVExaU1lSVNURUs5ZGc1MDZUT0VlRV9RTkNTM3J4bHJqTkdGWm5hWmlDYk9OWGVpVVNhZTlhMXB3VmJQZUpYNTk0dVRxdU1UT1pLYkF2ZWNXSlZGMWh1X2JUMXZHaHZB?oc=5"
-  },
-  {
-   "ts": "2026-08-16T02:30:24+00:00",
-   "title": "Chairman of State Administration Council Prime Minister Senior General Min Aung Hlaing addresses meeting 3/2021 of Union government of Republic of Union of Myanmar",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeUhtQ2tQQ0Rqb1ZmdjB3VWN1SDBQcTN0ODA3a0Mycl9KX0FJWDNnVXVHRmdjeUtacGJydVhWV1RMaEFWTllWTFpKeG54VG50UTE0OW9FRWxZUERqMDBuczBoVHp0T3dFdXVwcThpRDBGMnhXcmx2b3lKX1l2X1VMSEJuWDRKMWpjVm03VjNUVFRzMGxWaXRZa2NFZzhVejRuTHoxaW5FQXpXY0oyTm5wbGxHakhWWXpkUFE?oc=5"
-  },
-  {
-   "ts": "2026-08-16T02:30:23+00:00",
-   "title": "President of the Republic of the Union of Myanmar, His Excellency U Min Aung Hlaing To Pay Official Visit to the Russian Federation",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUjRPTkx5UVRSZ0p5MjdkMm9zVTU2bDZLLUdKLW04czN0N0ZCQ3BMXzNKVF9xWVVFMkhRYVZ0T1ZBc0sxWjYtZUttNlU5S2p4d00xZEt4OWZ1UHFkUVR3LUdtZ3hMazFJNUZfeDZnQWo5b3dhT0hzbjZfUU9HSnZfekc3bEhUeDFUUjNaaTR6cFdqM29VbDZwTlVuS0pBbGFFeDk1SlRNSkVtRFJBVTQyQjBvRXhMT1hqVG1paGxFaGE4QW9sVDVxMlJUcmZWUHZiNi1HZXVVX1ZTekFBQkVMYWplYmh4djZUNEVF?oc=5"
-  },
-  {
-   "ts": "2026-08-16T02:30:23+00:00",
-   "title": "Flood relief efforts continue in Ayeyawady Region",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BcVdHSEhRNVY2LVNwc3RWeGtudmh6Y2hrenNKcjRBMURGVkZtSzktcUdxQnE0OHVodmxmeElZZlo1LTV1OENoTEViSHFibGlnOVk0WWFrRHhXY3UxUDg3Qm4yR2tlN1d1ZG9NUEQtRXRzdThkdHhENTJ1UlE3OWs?oc=5"
-  },
-  {
-   "ts": "2026-08-16T02:30:23+00:00",
-   "title": "Flood protection works underway in Letpadan",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50VVl4WHFpcm94MWVDVkIzYXc5SWNQUkVDVjQ0cVRMYW9MTEdHT0dnNVdFMEZWdlU5Zl9hY0E3cXpiWm05bzY4SEJlaVhzU3luSzBJcGRQRmJOZWtYd2VXUXlXTWdVMkZNa0k2elI2YVk2ZVAzcHBB?oc=5"
-  },
-  {
-   "ts": "2026-08-16T02:30:22+00:00",
-   "title": "Opinion | As Summit Season Begins, ASEAN Has Many Issues to Address",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcWRBTTdURmlrRW1Mc0ZzZjJDakdSdXoxRS1VMTQzMW1MTVY0T2pyaGZYdUVFN2lCU0NnenBPa2gyajFNX01tWXpQcUlaWkhOVFBfR0xNaHl2bUEwSDlldThLeWtpbUtLVHBLV2pRUFRIUWFEWndwNl9uOGxnS2JtUmx5RUU3RDlRVlJDRnNkSHBsWWd2TWJwQkhIUU5nOHc?oc=5"
-  },
-  {
-   "ts": "2026-08-16T02:00:23+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBkeHB4eExZZ1J4dVZlS1RLc2stcGIxZ1N1VnNMQ0hPbkdxaE1McWdfWnl1YU1GVjI1VzJpeGktb2VTUU5FcWhabWt5NA?oc=5"
   }
  ]
 }
