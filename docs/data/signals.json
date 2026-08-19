@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-08-19T13:30:22+00:00",
+ "generated_at": "2026-08-19T14:00:28+00:00",
  "signals": [
+  {
+   "ts": "2026-08-19T14:00:27+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5xR3F3VlFORjBLQl95Um9yZkZmYjdzdVpsR0xjRk12cDd2WXdqQ1F1VFF6M2JEQlJzMzF2dkJHeS05OF9raGpXVThUVQ?oc=5"
+  },
+  {
+   "ts": "2026-08-19T14:00:27+00:00",
+   "title": "Yangon’s 138-year-old blower station designated as heritage site",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdWVnTTJBRTNqRTlwYlMyVEU0bjdYbGI3UmgwTDNkbjR5LXRKVmJyWDhYVTZNVE5vaDdHYlpyRERMZWs1VFI0TVU4azBrRkZybnBBcjZkNUVpYjlzNUpXSEtJRUpLNVgtWnhBeUlPam1qcDN0SFd2b0ZZdURqamJZSW05T2N3aWNzcmpQQTRTbDEwUQ?oc=5"
+  },
+  {
+   "ts": "2026-08-19T14:00:27+00:00",
+   "title": "Pyithu Hluttaw Speaker Receives Belaya Rus Party Chairperson",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObVBTME9jUHRxa3VUZkx1RlRlQ2cyMHhJT2lMQ1ZOcmxMX2J4ZEZPVXZld2JHQjJBOXU5VHBZbXAzNGZXd05xTGhWQWhUUzF5by1NTWU3dmNRVkhMcnpyV29QSkQxem1FM2UyXzdEUlR6V3Exb25PbXJ3bFBKaFMwZFAyeXBoTm5QeGlxNHZR?oc=5"
+  },
   {
    "ts": "2026-08-19T13:00:25+00:00",
    "title": "- yktnews.com",
@@ -2165,27 +2186,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNR3dGYjdkYTVNRnQzRkppYkNXRU5vLVJ6MVZlM3ktMjNsbFBqZGowczJkWjExYWVObFJkeEJDZWdLcmJMck5jZnlJNjJLTnFfbHU1VVF4MUd4RU5LVjZJMi1jSy1zbEtJUVh6bDg1ZlM3Nl9JRDhjWW5pMnc2NUpsRXItR3E?oc=5"
-  },
-  {
-   "ts": "2026-08-16T21:00:19+00:00",
-   "title": "Mandalay to host World Education Expo Myanmar on 10-11 Oct",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSUNVNHJpd2VhWERDRXdGaWZLVGFfM1JFT1pGRnlmRlg1aDRmaEh3bjNBRjRndWhqeFRVcV8xM01Ta3lpUkJCbVp4TVRSbjhWLXR5TVFRUHlDcG1nQW1lNGpYM0pGcjViMXJLNG9PRkVYcnpGRFFDVHd5aklKbFE3QW9iNkZmZ1VId0xn?oc=5"
-  },
-  {
-   "ts": "2026-08-16T21:00:18+00:00",
-   "title": "ကူနီ Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83WXNkeFFZelZFSmtHM1RMV2c4ejZMQ1BsUTV4d1o4bjZfMzZMUF95cjVlbDc0YklPUFBjYTF1REFTdXpLOG9jQVc0a2NNRWZrS2JtbkNtT1cwcEZNM2dabHQ2QXVPcVc0UC1CSm9Zc0w2clRIRnEw?oc=5"
-  },
-  {
-   "ts": "2026-08-16T20:30:18+00:00",
-   "title": "Guest Column | AUKUS Alliance Poses Challenges to Other Powers",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTkdsdkRjLTF6Y1NJRzAxOUNxd2QwLUxSbkozUm9UX3RpLW1NUUMxeTNnYmxGSzVYWU9ra2kyZ2cwVTRZd2pSUzZGYmxZZnJ2MTBZcm1GNUFEX2w5cG5BakhRWDR6MFZaMmpHajBiSzZrTVozbk5OZnZSQ3NlMWVyRU04NEFJRHJ6RGFmS3B4WkRFdUpmUERMVFozYnhXazFa?oc=5"
   }
  ]
 }
