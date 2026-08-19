@@ -1,6 +1,33 @@
 {
- "generated_at": "2026-08-19T08:30:22+00:00",
+ "generated_at": "2026-08-19T09:03:56+00:00",
  "signals": [
+  {
+   "ts": "2026-08-19T09:03:55+00:00",
+   "title": "Renovation continues for damaged offices in Falam, Tiddim, Tonzang",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcTZGaEtzaXZrRjVSWHJWSzRic1l1dXBvOXU1NUMxdmw2bXJxTVNCWHV5cE1jUGpIelFGWXJTdERWYWo2M09UZXEwcjdsbWpJbGRnWENwMGhJQVAySUhTNDAwdGN3cTdadGJHQktEaWs3WERheVZzTWNZMnJqZXphUjhxV1RqcWFsWDRndEIzbURNRHM?oc=5"
+  },
+  {
+   "ts": "2026-08-19T09:03:51+00:00",
+   "title": "စစ်ခေါင်းဆောင်၏ ရုရှားခရီးစဉ်တွင် ပိတ်ဆို့အရေးယူမှုများ ကျော်လွှားရန်၊ စွမ်းအင်နှင့် နည်းပညာများ ပူးပေါင်းရန် သဘောတူ",
+   "source": "Myanmar Now (MM)",
+   "markets": [
+    {
+     "market": "fx_kyat",
+     "direction": "bearish",
+     "confidence": 0.65,
+     "rationale": "New sanctions pressure the kyat"
+    },
+    {
+     "market": "gold",
+     "direction": "bullish",
+     "confidence": 0.65,
+     "rationale": "Kyat pressure drives savings into gold"
+    }
+   ],
+   "url": "https://myanmar-now.org/mm/news/80512/"
+  },
   {
    "ts": "2026-08-19T08:30:20+00:00",
    "title": "Judge Promises Open, Independent Trial in Child Rape Case",
@@ -2172,20 +2199,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBTNE9TTTljcWdQeGVxaUxLN2M5OGkyVTJjTEpEem9XSWVuY0ZVYUt3TmJzaXd5WVI2TVUtNldwM1FIZzNy?oc=5"
-  },
-  {
-   "ts": "2026-08-16T10:30:18+00:00",
-   "title": "Senior General Min Aung Hlaing attends 78th Founding Anniversary of Tatmadaw (Navy)",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMWxEZWFVX21QUWpOQVctY3ZIbk5md21fQU12TkFRaERiMzQ1NG5nWmhoalI2OVR3ZWExbFdXWjNPaWZNRDIzZ3ZHVkFJa280S3dkZDR4NE9JRkNqV19KSGtPVTdEWXFVMFBvanZJUmVhMjhJTTd3U2M3MDlIcm1qekNWcnFjREc0T0RaY3J0c2VvSUlMM1VpQ3p4Q05IczN3dHlv?oc=5"
-  },
-  {
-   "ts": "2026-08-16T10:30:18+00:00",
-   "title": "Top food scientist: 'I wouldn't touch bagged salad in a million years' - stark warning as toxic lettuce fuels spread of 'explosive diarrhoea' parasite",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVC12ZW1JTllJNU1CTzVDTjB2MVVPbXc5czVsZFEta3FFZ05tZl9qZWZocFlrT3BsSTJJcXRIXy03N05na29HWHp5aXAwUHpqN2IwYk5IWnVzLU9pY3FoYjJBSnNWWmU4c0g3emo5blg1QVZUc2luVjZXNnM0dmpvNjZvREl0R0lBZUJVYkZ6WjF1YVo2WWdXTUZhNTgySUNPSnlmcnBNaHNjMUU4aEVlSmpVbEhNcXl2SmE3bURCaw?oc=5"
   }
  ]
 }
