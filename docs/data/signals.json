@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-19T18:30:23+00:00",
+ "generated_at": "2026-08-19T19:00:25+00:00",
  "signals": [
+  {
+   "ts": "2026-08-19T19:00:24+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBlMEJYcWVTcXVDbGxoTTVKV1l6ZVUwcWlkNWpocEdhaHJ2b2VIZlNvZk9lMTRES3lmWWJHRXNHWDUyLXhJWWFSWnpjdw?oc=5"
+  },
   {
    "ts": "2026-08-19T17:58:08+00:00",
    "title": "- yktnews.com",
@@ -2179,13 +2186,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbERoUDNUSUE2ZVhTRHFmdWN5X1FLM0VJQW9tU2NMZ05oaGhYaUw1V2xVQ2huSjRwcWVBRGZDYjNUY2dhSEJDblNUSnUzOHBkSnpzQnliRk40c0hya2d5eFpETmR5clE1ZXE0bWxMTWVFT1FMeGU5aTdvVFdQN2dUbkJsNEk5ald5T2NCWWZxQTFFZXhHUWQ5X1RJakxCMlVzbnBHX2gxM1p1clo5ZldOd1NITHl6Y0k?oc=5"
-  },
-  {
-   "ts": "2026-08-16T21:00:20+00:00",
-   "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing inspects development undertakings in Taungoo region, and gives directives",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOE5MZkV3T3RoTS1IT0FFT1ZQSjJsS1NhazY1WWdWV2RTdHY0OTRfbVVtSmd6Ykl4ZTgtWHRvYXNYNVctNzl2ODNLTmFLSk1vR2xlbWlPNm9QYmZCWVRPQ3Y1U3RybF9xSGc0el9selhzYnVKMkkwektTcm5pZDhlRjZqVld3clpMNDJUVjlpbzNBNTZsak9JZnN6T0RWMUhfRm12dzZsRFVvR1IzdUxwSGNDampycUJ2SlVGcUZJT3p1N251?oc=5"
   }
  ]
 }
