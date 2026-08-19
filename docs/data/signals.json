@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-19T00:30:21+00:00",
+ "generated_at": "2026-08-19T01:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-08-19T01:00:22+00:00",
+   "title": "News",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QbU9BclN3VWlTOEVWX2lXLTJsdXZ6aUdiTTZ5RjlOMDhMWmVSYzlnZVBuaEZJVXFsekpoZFNrSm91djhJR1N1SnctajlVNk5tM3JB?oc=5"
+  },
   {
    "ts": "2026-08-19T00:30:19+00:00",
    "title": "Guest Column | China’s Lancang-Mekong Cooperation: A Wolf in Sheep's Clothing",
@@ -2179,13 +2186,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZGFtN1hNeDg3bUs5Qm1VdVo5dVJjMlFBcXRxTkVWOGNJWElKaVpHWHE3enlCUEZNUDNTLWlhZ2hWZTY0V3BWMENQTGNOOUFCZnJVZGtIUkhKdjlOTHV2c2hsTWNlSlhhTFB4V3dqUTcyMFdhSVBfcks2cmNDRTBvSWpSMWZUVGp3?oc=5"
-  },
-  {
-   "ts": "2026-08-15T21:30:19+00:00",
-   "title": "16 August 2026",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFByX3VKWDFGTjF6UlJmX1lpQTZNV2t1VzR1ZXktUE5oajg3U082TU93VHZrM1AxWlV2d09TZHlUZ2VxMUtHV0xSS2NGQmt2cWtl?oc=5"
   }
  ]
 }
