@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-19T03:00:21+00:00",
+ "generated_at": "2026-08-19T03:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-08-19T03:30:17+00:00",
+   "title": "Beijing resumes demolition of major Tibetan Buddhist academy, satellite imagery shows",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/tibet/2026/08/19/larung-gar-china-demolition-buddhist-monks/"
+  },
   {
    "ts": "2026-08-19T03:00:20+00:00",
    "title": "Bangladesh begins transfer of Rohingya to controversial island",
@@ -2179,13 +2186,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOVd2WHdheVRQQTRla2NtNU1SbkVpQ2IwT3V1TFVRODhGTkpQMnRPbDhkeEcwdWpUeGdhS1NsWWo0YmdQb1A4b1cyakVDZzctQklDa0NWNUEwUlkwQmVtLU85ZUZCSnBKWjdIRjhPVFhBV1l2Q3AyV05OcV91X2ZDZFlTMlJtSjRC?oc=5"
-  },
-  {
-   "ts": "2026-08-16T03:00:21+00:00",
-   "title": "Chrissy Teigen Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkOEQwRHFtSDJwNjlsNEdZbWVfM1ZWd3o1ZW8xWE1IZm4tOTB0MkpGaVdESG9QYkw0VzcxU0REQU1ueXFvVEpRNEcwU1ZXd0FBSDE3dnlrV3hmUQ?oc=5"
   }
  ]
 }
