@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-19T22:30:24+00:00",
+ "generated_at": "2026-08-19T23:00:28+00:00",
  "signals": [
+  {
+   "ts": "2026-08-19T23:00:26+00:00",
+   "title": "Announcement 2/2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tLTRtam1OWmdkRG5oaDFxWUZscGxZZmpwd01Ta3VPNWxYSkJKcnVRMzlGamRKOTcyNEI3Q0lHYTNOZmF0clEzR0wwQWtGRDhoTlJFTmlOTQ?oc=5"
+  },
   {
    "ts": "2026-08-19T22:00:27+00:00",
    "title": "- yktnews.com",
@@ -2172,13 +2179,6 @@
    "source": "Khit Thit",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5nT0VNYW9xWWZYVnE1QjQ5Q0c2Y2hIdUtvUHBWbTZaQ081cldUTWJmeWItblB4ZTQydkJGUzVrQmNwU19NVVNsSEtPSQ?oc=5"
-  },
-  {
-   "ts": "2026-08-17T02:00:19+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4tem9icFlXM2R6THJ1NDhXTnFmVm1iWjYtNWJCQ2YtX2NLX2FrdHpVdVJObHhuWDB5VjduLWZHM1ZIWTJtU25yYkpR?oc=5"
   }
  ]
 }
