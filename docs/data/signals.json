@@ -1,6 +1,48 @@
 {
- "generated_at": "2026-08-19T10:30:18+00:00",
+ "generated_at": "2026-08-19T11:00:26+00:00",
  "signals": [
+  {
+   "ts": "2026-08-19T11:00:26+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9jRmI5bmNkSHQ0TG5zbGxVajJueW5pZE13UXpuYkVnYTN1aEdKa1MzMnR0S0VPZUN1emIwcXhRUHliOG5HeXNic1Bn?oc=5"
+  },
+  {
+   "ts": "2026-08-19T11:00:26+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE16VUpwVW96MEZaTTdDTUN1dTJYbEF2WVlXZkpZZUtieGRHb2FpNldvRkJKalRWc05hT29KMzR6Ylo1MV83XzNENkcxYw?oc=5"
+  },
+  {
+   "ts": "2026-08-19T11:00:26+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE90SHkwVWVyelRsTXpkRU9IUmxvaXB6SkpSZUQ2X3BlYVdTWjVuRzJWbHVrNE45bG03QnBkUzM4NE9LMjctaVpQTmNmMA?oc=5"
+  },
+  {
+   "ts": "2026-08-19T11:00:23+00:00",
+   "title": "SRF ရဲဘော်ဟောင်းများ NUG တပ်ဖွဲ့အဖြစ်  တာဝန်ထမ်းမည်ဟု ထုတ်ပြန်",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/80519/"
+  },
+  {
+   "ts": "2026-08-19T11:00:21+00:00",
+   "title": "Myanmar military airstrikes kill at least two civilians in flood-hit Sagaing",
+   "source": "Myanmar Now (EN)",
+   "markets": [
+    {
+     "market": "pulses",
+     "direction": "bullish",
+     "confidence": 0.55,
+     "rationale": "Conflict in bean/sesame heartland threatens supply"
+    }
+   ],
+   "url": "https://myanmar-now.org/en/news/myanmar-military-airstrikes-kill-at-least-two-civilians-in-flood-hit-sagaing/"
+  },
   {
    "ts": "2026-08-19T10:30:18+00:00",
    "title": "Fleet Exercise-2020 conducted with involvement of attack submarine Minye Theinkhathu of Tatmadaw (Navy) to enhance defence prowess of State",
@@ -2151,41 +2193,6 @@
     }
    ],
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYVZOU3JNbHZ0VUF2V1dsZ3FMbHhKWWdKbFBGczBEYlNsdmRlNFdTTzFFWmJQZ3VZajFtQ1pCSVRhVzdibjI3c2ZpbnptUkhaWlRrNzY0VWVrYm1CZi14ZUhhUUJJMEZqS2NGV0xmQkFVemVYRjFFRzF5alhaTF85NXVkNm9HN2t2?oc=5"
-  },
-  {
-   "ts": "2026-08-16T14:30:21+00:00",
-   "title": "State Administration Council Chairman Prime Minister Senior General Min Aung Hlaing addresses meeting 18/2021 of State Administration Council",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUXNnZVlIbGJOaEJ4Qmh6QzdfOGVvV2x5OTZMQ0prUHNHWUpvbnZOVkZlXzhoWlhRUk1RMjRqSEhqdHZqZmN2MHAzeVoxLXJHX2Y1U1lHQmVqUTRQNEZiOFoyMTg5YnJVOEZTQkk1TFd3LTV1WTQ0OTZIVEJWenhzREpMcjZlYTZuWEc5OFNnMDJ5U2UwRW1PbjJPMUZkR0VkRkV2LXZwR0E0MVd1Y0YwaExCTVhnMzdyQjU4UC1fSQ?oc=5"
-  },
-  {
-   "ts": "2026-08-16T14:30:21+00:00",
-   "title": "Acting President of the Republic of the Union of Myanmar, Chairman of the State Security and Peace Commission Senior General Min Aung Hlaing delivers address at the opening ceremony of a Forum on The Dawn of a New State (Trust, Stability & Developm",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUTJMSE1QWXhhcDBEUVQwaXlFMjM4eG5XUFQ2QUVPMGNCZ21KZl9oMld5VjBxTmxRRGJVSE1MUXlNRk5sYVVRaGJmZDd3UmxUQnZGYlRPR0ZEZWZrbHJPY3BLUjdudHVodC1WWmRlMkRLdVNrbjdmRVBVcnlFX1JXX0hoUkxqRXVJRlpnRmI5eXp0MkYzaTdEbjJOQjFnRlhHY0lwVGxVOEE3cTlJcFdVTVdUdXFiN0ZW?oc=5"
-  },
-  {
-   "ts": "2026-08-16T13:30:16+00:00",
-   "title": "News",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xeVR6bENtblI1TkVFUGRoeUEyWk1wWTI2aHdUMDA0OTZuVmhzLW1VLWF6d2NoVVJNS1JackJ0WVBDT1lwc2dWajBvbnpiY2ZKWTltNQ?oc=5"
-  },
-  {
-   "ts": "2026-08-16T13:30:14+00:00",
-   "title": "အာဖဂန်မှာ တာလီဘန်အာဏာရပြီး ၅ နှစ်အကြာ အနောက်ကမ္ဘာလွှမ်းမိုးမှုကျန်သေးလား",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cz0559ym9epo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-08-16T13:00:20+00:00",
-   "title": "NSPNC and NDAA hold peace and regional development talks",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY0pDQW54X2tUckVjR0FfNlFTSjlpbXg4ZmJBS3hqZEVUYzdwdkxGeUNocl9Fd1hIdHdOTjY2MzhHQXBlYTcxNE41OVJfLWF3VXdyT25neEJqRHhHRG5KTnI3SFB5RjJtM2o5cS1HUHppYkJSUHRCbXBLeWJCWl9ZUUpZRVgyQ3JG?oc=5"
   }
  ]
 }
