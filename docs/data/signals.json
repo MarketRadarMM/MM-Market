@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-08-20T18:00:26+00:00",
+ "generated_at": "2026-08-20T18:30:23+00:00",
  "signals": [
+  {
+   "ts": "2026-08-20T18:30:23+00:00",
+   "title": "Auspicious ceremony to present religious titles for 2026 and donate provisions held",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNFk5SC1uU1RtNzVJa3poRU94V19sOWtrUW9qbHZtLThxQzZQWWg0MkZTbWJtbGMwamRfc09QMjU1eFVFNF9EUUNWYVpGcm1yejBHbzJmTzk5cW9LN09objI0ZlJ5NEVQb2s2Q1dxNy0xcE5GZUZuaFRTOFhGdW05dDlIWkdOYjVYcU5ka0hGZnVNMTcwMDVHeks5LTRRR3pTVjlxaE1B?oc=5"
+  },
+  {
+   "ts": "2026-08-20T18:30:23+00:00",
+   "title": "Vice President Daw Nan Ni Ni Aye attends and delivers address at the Fifth International Forum on Trans-Himalayan Cooperation",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTThDVXdCWEpvSGtpdVRmTFdFMGw5eGc5NmkxRWIzZE9JR2FGQnFFSmlUaVM2YlV5aU5VWDZhaGl2YlB3ZXhYd21VSFdZX2Qxd2RhMm82dVppOWVvUmdVN25kNVhjc25GVV9sYTFqSkp2ak9obENkN0w0dnNHV1p4Z2NKRjlqVk1idE1Tam1tWTFqc3RET1dQWGV2dEdmcWt2QUItazB5cXJEcWs5ZnFwUnFSTWhNQTg?oc=5"
+  },
   {
    "ts": "2026-08-20T18:00:25+00:00",
    "title": "- yktnews.com",
@@ -2158,27 +2172,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPejNYUW8wSFd3bEZlSnZhMEE0WXUxdTMwLW9aV0tpN3Rzc3FYYjhYZ3lQREE5RlF4NGszX0tGcUpONW1yd01iTjRCdExSZEFrQzhHdDk4U3dLaE1yb2hxLTE5RWNMOFE3cERrWWlCYUNuRXF4c3UzNGVjVWtzNUtVamQ3R0RZcFdBN3VLMGM0ZDR4dWpxeXQwd0IzTTI?oc=5"
-  },
-  {
-   "ts": "2026-08-17T11:00:20+00:00",
-   "title": "War Against the Junta | Over 160 Myanmar Junta Troops Killed in Just Over a Week of Resistance Attacks",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcm5MYUYzLWs3dlNHM2hVbi1zWnFQMjc4NjB6UUxGOVh6ZVZ1WTZJcmlfQno4VVU3NmcwRF81Y0FmeXQ0Q01CVmtrVkhQcjcwWS12SmtwQVdudXhzUHRNY002UHJyZDN3NFFxQ2VwekRjQ0lSY29kNTQ3ZU84N0o3dk40YzRHbVljNmoxMkhqbTA3Tm9NZENXSzBVMEE0OE1nbFJ4T1ZjdmhlT3R2VWlfc1NNa1ZFcEFqcFpBTg?oc=5"
-  },
-  {
-   "ts": "2026-08-17T11:00:18+00:00",
-   "title": "မကွေးတိုင်း ပစ်ခတ်မှုအတွင်း အရှို(ချင်း)တော်လှန်ရေးခေါင်းဆောင်အပါအဝင် ၃ ဦး သေဆုံး",
-   "source": "Myanmar Now (MM)",
-   "markets": [
-    {
-     "market": "pulses",
-     "direction": "bullish",
-     "confidence": 0.55,
-     "rationale": "Conflict in bean/sesame heartland threatens supply"
-    }
-   ],
-   "url": "https://myanmar-now.org/mm/news/80447/"
   }
  ]
 }
