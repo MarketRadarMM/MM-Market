@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-20T16:00:24+00:00",
+ "generated_at": "2026-08-20T16:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-08-20T16:30:17+00:00",
+   "title": "Quarantine Out",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE41MGRNa1BsX0ZPX1Vtc1ZkeVA5VXg0SlJCX2FGWXVKWk1lak14Z0doY1R0UnlnWTZGNko1bWZSMlBNa2dfUlU5X3hPdk5kNk1oS282MlJhelFxZUFhSWJxQnkxc2oxcWgwVDlCRlNR?oc=5"
+  },
   {
    "ts": "2026-08-20T16:00:22+00:00",
    "title": "Doomed to engage? Bangladesh and the AA",
@@ -2172,13 +2179,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNemRBbC1wanZmVjJlaEY1a0pxY19CcXFCMDhSRHdfVWY4aDNsanp3RnJELTI5T01SQUxENHpOX3V6R3RmVjJkSUd1bnJGRW10SkQwWExPcG5QQi02T0gwYVJ0LXJjLXBwMzl1aHRHZWVnTVBlYWdBd21LdTgxUG1VOUhBV3dkdXZKSEM5YWJaR1B5NzdfNHk3YmwyZTVQSjA?oc=5"
-  },
-  {
-   "ts": "2026-08-17T10:30:17+00:00",
-   "title": "နိုင်ငံခြားကုန်သွယ်ရေး ဒီဂျစ်တယ်ပလက်ဖောင်း ရေးဆွဲရန် ရုရှားနည်းပညာကုမ္ပဏီကို စစ်အစိုးရက အလုပ်အပ်",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/80431/"
   }
  ]
 }
