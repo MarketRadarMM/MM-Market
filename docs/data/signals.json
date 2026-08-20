@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-20T00:30:18+00:00",
+ "generated_at": "2026-08-20T01:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-08-20T01:00:21+00:00",
+   "title": "Traditional Myanmar Delicacies",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqak5UdXVYMEQyM1ZvZjhBNHRPN2tjMThGUDVHU2VhaUM5SUJJX1kteU5yYk5zYXo3SGd4UlBla2V2YzRKa0ptVzBXNHVPdjZXY3dVRU42aU5QTFFpbUxEa19uTUs1R0xz?oc=5"
+  },
   {
    "ts": "2026-08-19T23:30:18+00:00",
    "title": "Myanmar Regime Rejects ASEAN Peace Plan, Pushes for Full Reinstatement",
@@ -2172,13 +2179,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaS1idXg5VVhOc2hfaU4yeW5RcVdvX1ZnR21CUVRRU3Z3R202S3U5MlRtbWN2M29sejl2aVJjUW9pSXRPQTY3c1RRQkxwWkF6b28xdm1FUjA1SmltTHlDaksyamFuUzNRWndOOWVTS25kWWhTTzl3akFHTVk0bW1rU1dDeWkzb04xTkNSMHllR2VJd3hRazFSUTRhYmI4WnNpV2tHSDdtaXI2TXhV?oc=5"
-  },
-  {
-   "ts": "2026-08-17T02:30:18+00:00",
-   "title": "Myanmar women’s team begin Asian Games preparations",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNclZkNl84Z1UtUTZSUG5hMU94MXdkbDJhX1hkWDZJcmdxb1IzUFFZcG5oWHNqcVpvYUgzT1p4N2RTamJwUFh0SGE2bjRtMzA1S2JLTUNRYy1MdlpRSktIVjlMV3BkVHpOOUxXMVBIMWpiWVFlRXQ4MlhBRTBuRk1hbA?oc=5"
   }
  ]
 }
