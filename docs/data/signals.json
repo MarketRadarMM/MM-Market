@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-20T18:30:23+00:00",
+ "generated_at": "2026-08-20T19:00:25+00:00",
  "signals": [
+  {
+   "ts": "2026-08-20T19:00:25+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5CcnhkSmc1M095cHNyLVoydkNISjNrZG9RUlJZWVBfNmdaMXRtWGNRRDlOaUktcUF3c1hhSE5ENXJFekh0M3VyMlhmQQ?oc=5"
+  },
   {
    "ts": "2026-08-20T18:30:23+00:00",
    "title": "Auspicious ceremony to present religious titles for 2026 and donate provisions held",
@@ -2165,13 +2172,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5XYWlxRllkMHFyTk9PMk9KbGNCSFlqQ2FEMkhCSUJwUmdRenhrQ09ZVHpKN0IwamxqNnlLc2lfbzNlbkhxTmt4U3lEQm42SENGbVZBYndObTduZkdYT1ZHQ2NjOTNrbzQzS210MDdQVzVqUQ?oc=5"
-  },
-  {
-   "ts": "2026-08-17T11:00:20+00:00",
-   "title": "North, South Korea Begin Talks Before Possible Pyongyang Summit",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPejNYUW8wSFd3bEZlSnZhMEE0WXUxdTMwLW9aV0tpN3Rzc3FYYjhYZ3lQREE5RlF4NGszX0tGcUpONW1yd01iTjRCdExSZEFrQzhHdDk4U3dLaE1yb2hxLTE5RWNMOFE3cERrWWlCYUNuRXF4c3UzNGVjVWtzNUtVamQ3R0RZcFdBN3VLMGM0ZDR4dWpxeXQwd0IzTTI?oc=5"
   }
  ]
 }
