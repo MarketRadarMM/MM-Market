@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-20T13:30:19+00:00",
+ "generated_at": "2026-08-20T14:00:25+00:00",
  "signals": [
+  {
+   "ts": "2026-08-20T14:00:23+00:00",
+   "title": "Analysis | Who Took Part in Myanmar Regime’s 100-Day ‘Peace’ Talks?",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVGZjWVdmazJ1bVhxS1RiM3lvcFJtTWRXclRtTlAzUUJ6N1huQWJPOF9RZjI0c1J4NXh3VGRtbUFDYURJbEpicjVxUHJaMXZNc19fSVlKenowbWgtMHhRUGpUZTZVaWFPSlNVT1YtM3J6Q29GYlk1Z3FxZnVSTUFUc3Fjcm50RE5XTFhZLUhrMlFteUs3QWphcGh0bFhGWFNyREE?oc=5"
+  },
   {
    "ts": "2026-08-20T13:30:15+00:00",
    "title": "မြန်မာစစ်တပ် ထိုင်းကိုတောင်းဆိုတဲ့ လက်နက်လမ်းကြောင်း ဖြတ်တောက်ရေး ဖြစ်တန်ခြေ",
@@ -2172,13 +2179,6 @@
    "source": "Khit Thit",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yZmR2VnBWcE11d3o2d3VHTnBYNm5RLVlSTnhzbFJZVnRKWjE2ZU9nUXYyeE1WdjBrVWJteUhhZWwza2ZiREpBLXVWWQ?oc=5"
-  },
-  {
-   "ts": "2026-08-17T06:00:24+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92VGcxaERiYjBtaGRXNzhLYnB4bXVsb3JMRzlybFU2OXpIMjJfWnE5M0htOHU2MTdKNmlOV2pfWHZzVnB2bTRmS3F1VQ?oc=5"
   }
  ]
 }
