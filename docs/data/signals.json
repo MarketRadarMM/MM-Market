@@ -1,6 +1,33 @@
 {
- "generated_at": "2026-08-20T15:00:25+00:00",
+ "generated_at": "2026-08-20T15:30:23+00:00",
  "signals": [
+  {
+   "ts": "2026-08-20T15:30:22+00:00",
+   "title": "Construction wins 2026 Inter-Ministry Futsal Championship",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT1U4eFVabVJnUnQzTUFYbVlRdVFVQ3VCcVRTVVczamlTdHVSVWNMVzkwMzY1Mk42TFd3TU5zMmg0NlRHVlJ2bC1ZaEFHeDNmSkxFdjFlTFo2UU9BNTM5anR1NmR2aFhYNUgzRGQ1X1VWYkpPVTA2WGxSNmZkTEFtZ2FiXzhXQl8wbnc?oc=5"
+  },
+  {
+   "ts": "2026-08-20T15:30:16+00:00",
+   "title": "နေပြည်တော်နဲ့ ရုရှားကို ဘာကပေါင်းစည်းပေးနေတာလဲ",
+   "source": "BBC Burmese",
+   "markets": [
+    {
+     "market": "fx_kyat",
+     "direction": "bearish",
+     "confidence": 0.65,
+     "rationale": "New sanctions pressure the kyat"
+    },
+    {
+     "market": "gold",
+     "direction": "bullish",
+     "confidence": 0.65,
+     "rationale": "Kyat pressure drives savings into gold"
+    }
+   ],
+   "url": "https://www.bbc.com/burmese/articles/c3r0eqlwl77o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-08-20T15:00:23+00:00",
    "title": "Prisoners released at Insein Prison, 3rd Jan 2012",
@@ -2152,20 +2179,6 @@
    "source": "Khit Thit",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1GUmZxbWdHeVNhZTlPWG9GZW1YM2F6UklDVmVPMWZ2eF9HMVRzS0hpY2d4Xzdqc2VmMkJCbXlnZldCLU81a3FBR2laZw?oc=5"
-  },
-  {
-   "ts": "2026-08-17T10:00:22+00:00",
-   "title": "ပင်လည်ဘူးမြို့နယ် ကင်းပန်းရွာဗုံးကြဲခံရမှု ကလေးအပါအဝင် ၄ ဦးသေဆုံး",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/80425/"
-  },
-  {
-   "ts": "2026-08-17T09:00:23+00:00",
-   "title": "Uncategorized Archives",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lRkNTclk2UFE0bkJyM2xxZk5WdnZtbzBVV25wLTVpYUpJM04yVkFPR0wwRmhGV3ZCVFZkQXVZZXBCRE9PRzJwOUpONzlreDV0Y3FDYkNnQ0cyOEk?oc=5"
   }
  ]
 }
