@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-20T13:00:24+00:00",
+ "generated_at": "2026-08-20T13:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-08-20T13:30:15+00:00",
+   "title": "မြန်မာစစ်တပ် ထိုင်းကိုတောင်းဆိုတဲ့ လက်နက်လမ်းကြောင်း ဖြတ်တောက်ရေး ဖြစ်တန်ခြေ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cn7n33rr2vno?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-08-20T13:00:23+00:00",
    "title": "- yktnews.com",
@@ -2172,13 +2179,6 @@
    "source": "Khit Thit",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92VGcxaERiYjBtaGRXNzhLYnB4bXVsb3JMRzlybFU2OXpIMjJfWnE5M0htOHU2MTdKNmlOV2pfWHZzVnB2bTRmS3F1VQ?oc=5"
-  },
-  {
-   "ts": "2026-08-17T06:00:24+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1GbEwxSnkwZnZmSVBFVEpCYS02dllVN0tzdVhzN05kMnlndzE2VVZwN2QzMUFiQXh2Wl8xeDgwX2dac0lHeU5LUWV3VQ?oc=5"
   }
  ]
 }
