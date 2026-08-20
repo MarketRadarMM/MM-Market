@@ -1,6 +1,41 @@
 {
- "generated_at": "2026-08-20T09:30:23+00:00",
+ "generated_at": "2026-08-20T10:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-08-20T10:00:20+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9GNjJzYTVvQm4zaEdCckZrQkI4M1Nla0Z3SVRxdk1JUTJhQ1ZxSUZBNHJRcDIzTHU0SEJ0MlE0cGxOdkRnV3V4WVJibw?oc=5"
+  },
+  {
+   "ts": "2026-08-20T10:00:20+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBNcDIxS1hlQWtwdmdIeXpXdXJXbWYtbFJib19sclN3cGZDU29oQ0hXblZmWGoxcU9FUVcxTlRMVnBCamRMaUJ2TzkwRQ?oc=5"
+  },
+  {
+   "ts": "2026-08-20T10:00:20+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8wbUdCRGs1a3dyMkk4eHA4aDBucVpLSEhPbVJJc1BjMWZHcVBrZHhSSGpkMUJnQWJSeE0wVUpXZnBsSl9zd09FM3Zndw?oc=5"
+  },
+  {
+   "ts": "2026-08-20T10:00:20+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5DamNvZUhWMVNuTzgtWTEzYmZ0Sm9oVTBFZ2xKSFJoVkhYX2U1WmZsRzJCTnhodHdQdE5CU2dtazFkekR6Y1ZtS2cwYw?oc=5"
+  },
+  {
+   "ts": "2026-08-20T10:00:20+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4taGlDc3dLc0JYdGxDS2tpRHdLYm1UekYtdmo1bUZoTlI2eUFHeHRZTU5IRlJRR3hzWTJVQm93WkhIdkl3b012Yg?oc=5"
+  },
   {
    "ts": "2026-08-20T09:00:22+00:00",
    "title": "စစ်အုပ်ချုပ်ရေးလက်အောက် မြို့ပြက ခိုးဆိုးလုနှိုက် ယန္တရား",
@@ -2144,41 +2179,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbHlUYW51TGVvQm5yNVlyV3kzaGJvVEVfNDRzWkRRQmhkTVhiQzcwLUdjY0dXaE5wS3VNZzJ2Y3JaZ2NpZVpocFNBVXk0UlJ3YjBJallNd1FSbGFOX2hxWjdnWjdqUHNZV3pVTHM0bkcxaHZMLWpNd3UxWTVaQlhlUXVyYmotUW4wS2JNc28wNDhfTUg3bVNabmlBa3NyQmdtZ2JBN2JreXcyMmUySmpFLW1hSWQta1FPLXZyTGdIQzFrSEJXYTR5ay1QNnY4QTN6aERMdDFhdw?oc=5"
-  },
-  {
-   "ts": "2026-08-17T04:30:17+00:00",
-   "title": "အရပ်သား၂ဒါဇင်နီးပါးသတ်ဖြတ်ခဲ့သည့် စစ်တပ်စစ်ကြောင်း ရေနံမြေအနီး ရောက်လာ",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/80413/"
-  },
-  {
-   "ts": "2026-08-17T04:00:18+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5LZ3N2dmp3TkpQQXE4VWE5MVdRTjk0V3dyR3h3OU15ejZfMmFTOWgteGlxOF9FaXhoWlY5ZE5seElFcTNGVU5NcHZn?oc=5"
-  },
-  {
-   "ts": "2026-08-17T04:00:18+00:00",
-   "title": "Yangon steps up chlorination to prevent diarrhoeal diseases among city dwellers",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZXN3d1dkN29lbWVESFhBNXFKOUFwQ1J2UFNzZmNEcGgwM0d6V0EtRUhScHZlTUhrVzRvb0ttYTVLMVVtMGtNQ0UzaENkaWFOSUhLTkNFVl9fWUhOR01hRk9GUm9HUlJobmJIbUd2dFVHZU1fSk0yMmd4OElzYy1scDI2aXQ0TTZtWGZaRTdOa2tKeklKSGc4dmVVd1BEVlozRW4tbE5Kbw?oc=5"
-  },
-  {
-   "ts": "2026-08-17T04:00:18+00:00",
-   "title": "Myanmar’s GW-11 Rice Fetches Record Price in Philippine Market",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVk9yS2I3NUJnS1JRTlZKUlZ0RUp6UlFReC1UbVdJTVdmVzFuVWxtWWJReGZVUGpUd3NzUTVEY29JQVZmMnpkMDdmNlNmRUVOR1lNRzNrY0FhWGNiMUViU1NlNnpKS1ppTkhSUXBCVzRpcEhBQ0JUd2c3Y3VwRURtSWRUOHZhNVRkcENLOGYwOA?oc=5"
-  },
-  {
-   "ts": "2026-08-17T04:00:18+00:00",
-   "title": "Yangon Region grows sugarcane for export",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzNTlVZGtxTHpPQUJGVGoyZzJ5V0xOTDVpY1o1RVFQcnJOMWNGZkhOYmR4OTBIWUhVUUVoYl8xV1NBUjM0aV9IVmdQQkZya3h0ZmVFWHRfWjk1OWRKWTZsbVlnTjAzTDQ3Y1lDOG1ZUmtsNFU?oc=5"
   }
  ]
 }
