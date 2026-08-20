@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-08-20T08:30:24+00:00",
+ "generated_at": "2026-08-20T09:00:25+00:00",
  "signals": [
+  {
+   "ts": "2026-08-20T09:00:22+00:00",
+   "title": "စစ်အုပ်ချုပ်ရေးလက်အောက် မြို့ပြက ခိုးဆိုးလုနှိုက် ယန္တရား",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/80546/"
+  },
+  {
+   "ts": "2026-08-20T09:00:22+00:00",
+   "title": "မြန်မာတွင် မြှုပ်နှံထားသည့်စီမံကိန်းများတွင် အရင်းကျေသည့် ကာလအထိ အစုရှယ်ယာများပိုင်ခွင့် ရုရှားတောင်း",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/80552/"
+  },
   {
    "ts": "2026-08-20T08:30:22+00:00",
    "title": "Myanmar Junta Denies Daw Aung San Suu Kyi Is Dead – Without Offering Proof",
@@ -2165,20 +2179,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzNTlVZGtxTHpPQUJGVGoyZzJ5V0xOTDVpY1o1RVFQcnJOMWNGZkhOYmR4OTBIWUhVUUVoYl8xV1NBUjM0aV9IVmdQQkZya3h0ZmVFWHRfWjk1OWRKWTZsbVlnTjAzTDQ3Y1lDOG1ZUmtsNFU?oc=5"
-  },
-  {
-   "ts": "2026-08-17T04:00:17+00:00",
-   "title": "Queen Supayalat Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBKSVpSaW4wakNnOGdtY0g5REFxNWlodVRRcV9xZ0JuMldOeVFOM050VlQzbGUtTV9jT1JrR3R3UkdVY0hsRFM2WFdTRzN1R3FGMUQ4MkEtMjM?oc=5"
-  },
-  {
-   "ts": "2026-08-17T04:00:17+00:00",
-   "title": "camp Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1OenAwMUVVM1kzaXlxelJHaVBlczlTeWhsUFFWODhHX2NpOHo2MTFXd0pFVUlXMHBhVV8yYXRfSzhLbkZHZEx6VzBR?oc=5"
   }
  ]
 }
