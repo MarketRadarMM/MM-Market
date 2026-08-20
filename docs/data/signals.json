@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-20T21:30:20+00:00",
+ "generated_at": "2026-08-20T22:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-08-20T22:00:21+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA0RUQ3ZmZnSmtWQzlWdHl5d1lIS001S2dCbmtCcW9HVHNEV1E0NlJNZmhnbFdSbDNkcTZHUDU4amJyRHJCNV9MdHFkOA?oc=5"
+  },
   {
    "ts": "2026-08-20T20:30:22+00:00",
    "title": "Families of Tatmadaw (Army, Navy and Air) contribute cash donations to tar the Mingan Village main road from Taungniaye Monastery where Moegaung Pagoda built by King Alaungsithu is located and to upgrade PhaungdawU Pagoda mountain road, repair r",
@@ -2158,20 +2165,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nWUREV1JlUmhkUWZ6c3hvaDJaV2xCNWFJN21vZ2pPTDZJWUJ2cm1faDJCMEVJT0c4MlZ4RG5ST1ZKcFhUOE1tbkJ5U3NvRmdwazJDV19xbl9TbTZBdHhFZ1RaRHpObmNCSW1GczctUDQ1cXZWdVE?oc=5"
-  },
-  {
-   "ts": "2026-08-17T14:30:23+00:00",
-   "title": "Chairman of State Administration Council Prime Minister Senior General Min Aung Hlaing takes part in coordination meeting on development of cotton, edible oil, coffee, meat and dairy product sectors Development of farming and production businesses will i",
-   "source": "Myawady",
-   "markets": [
-    {
-     "market": "edible_oil",
-     "direction": "neutral",
-     "confidence": 0.5,
-     "rationale": "Edible-oil story — read for direction"
-    }
-   ],
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVy1qM0xpNGN6ZVBXRnRnZDBFb2plaFM4VnM2YUMyaGNKT1VYLXJmYmxfWVFZNUZFWkRhMEtZVG9xRmtZc01zbDN6RXVDT2x5Z3FVVkwtODhhUlVmQ2o4VGpuU1diT2pyUGNpLWNad21qTndUQnhFTklQMW1HV2xMNzVqdVpTYkg1R242bU9aREI4cTNweUNWTE1UeTQ4b0oxUXZzUlZLSzQwTmZxMHhENUdUbGU2VUIwSDc2cGNVc3M?oc=5"
   }
  ]
 }
