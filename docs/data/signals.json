@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-20T03:00:31+00:00",
+ "generated_at": "2026-08-20T03:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-08-20T03:30:19+00:00",
+   "title": "Loilem’s MSY village project loans disbursed",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE82RTJYa0RkRW5JS1A0c1NPVkhKSFpvNzkzSnFUaHRaTzUxSDVvSk5zWE4zUnl4NktOQlhtSmxTcVJfSkwtdFloZmhHZUloblkwYTd0VlZfQW9Eck1fQ0tHQjFTQXhJQ21tVWtCZlRONVE2bVJlM2pZ?oc=5"
+  },
   {
    "ts": "2026-08-20T03:00:27+00:00",
    "title": "ထိုင်း-မြန်မာနယ်စပ်က မှောင်ခိုလက်နက်လမ်းကြောင်းကို ပူးပေါင်းတိုက်ဖျက်ဖို့ မြန်မာတပ်ချုပ်ပြော",
@@ -2172,13 +2179,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT0dkblQ1RVI4X2J2X1VnWFBoRVdUSVprY2JYajRadkNBSUgzUGFoNVVscGlYMDFNd0JwcnVPdDFRMEo0TkpWMEVGTmNLWVRTYlRIVDFQVGpzT0JVUEREb091ekYtNmw0T19XaFExeVczTHRJdEw2LXQxRS1XRTVpeUJzUV9XWUJIQnY2Mg?oc=5"
-  },
-  {
-   "ts": "2026-08-17T03:00:20+00:00",
-   "title": "Returning frontline troops honoured in Mingaladon, Phayagyi",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPamNKd3BSZW1yQmZ2T0Z6YWZNQy1EOUUxaFppTEo3Um9xdnc1NEhfdzVyQ0tCbWltc0t5NUFjUGhaakkwRFZscE5helF4MWRNeDV6MjRFWVF4OXVCekYyaUhCc0ZlVHo5cXF0U2VITGRkakdqWUxBZmdYMkMxUXE4V2YwODlLSlhyV0xv?oc=5"
   }
  ]
 }
