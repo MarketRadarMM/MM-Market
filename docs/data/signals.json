@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-08-20T17:30:19+00:00",
+ "generated_at": "2026-08-20T18:00:26+00:00",
  "signals": [
+  {
+   "ts": "2026-08-20T18:00:25+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE93UV9haHNyaFpMUEJ3RmNvTHpJNmpmVzBIbXNzZERYUTdvU0U5anItd0lSWXNOMWZjTlpQOV9QTXNKZjVVd1E5c3VSbw?oc=5"
+  },
+  {
+   "ts": "2026-08-20T18:00:24+00:00",
+   "title": "Cambodia Rejects Calls to Bar Myanmar Junta Minister From ASEAN Meeting",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVlY2bDFtbFowS1lIbHR5WC10LTQ5a2g3RmxyMi1PZnZDaFJMZnYydlF2QjExYTkwaENsTjhkdEd4c0pncHdnRkdSZ0IxZEJCY19CSVJjWExTc2NtM2JLZWltd0h0QnZwc1h2NXB1NVZzcnNLWm5SRTUtcElfbkd0Ni1od0c4U1JJSko2ejh1QVdzR0l2WGhXcFk0QUVqdU9TX2c2REhzN05meDM1dkZvY01CSQ?oc=5"
+  },
+  {
+   "ts": "2026-08-20T18:00:24+00:00",
+   "title": "MOC-10 Commander Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGODZZNFdqcWdaRG1mVVBmUG9DXzhJMU9na29hNEwxSHdhRGpmZVZlRTJNWXMtdWFsZXZPbm5MNFNrWk9GVjdDRWpIRE1HNDF4cTJBbjdiTEFyZw?oc=5"
+  },
   {
    "ts": "2026-08-20T16:30:17+00:00",
    "title": "Quarantine Out",
@@ -2158,27 +2179,6 @@
     }
    ],
    "url": "https://myanmar-now.org/mm/news/80447/"
-  },
-  {
-   "ts": "2026-08-17T10:30:19+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44YU1zMWNxMFFRUmh5cDRKSHBFWFNIQTN4MDNOOXkwdTRzdlJqa1huUjVDTUJid1dwbWw4NDlfN3lud0xoejdZR0JYRQ?oc=5"
-  },
-  {
-   "ts": "2026-08-17T10:30:19+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5aSzNXaGQ1TU9IUjdzUndvWC1nSndBR2ZTSlh1bWNuSUZDcTB5YXZiT0d5NmlrZ1gtN1doVHdkSUxPOWItMGpodmFJbw?oc=5"
-  },
-  {
-   "ts": "2026-08-17T10:30:18+00:00",
-   "title": "Opinion | Our Right to Information Is Inseparable From Our Right to Expression",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNemRBbC1wanZmVjJlaEY1a0pxY19CcXFCMDhSRHdfVWY4aDNsanp3RnJELTI5T01SQUxENHpOX3V6R3RmVjJkSUd1bnJGRW10SkQwWExPcG5QQi02T0gwYVJ0LXJjLXBwMzl1aHRHZWVnTVBlYWdBd21LdTgxUG1VOUhBV3dkdXZKSEM5YWJaR1B5NzdfNHk3YmwyZTVQSjA?oc=5"
   }
  ]
 }
