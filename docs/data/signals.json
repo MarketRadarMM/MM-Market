@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-20T15:30:23+00:00",
+ "generated_at": "2026-08-20T16:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-08-20T16:00:22+00:00",
+   "title": "Doomed to engage? Bangladesh and the AA",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwSnFwa0NlOTlpOWZKcWpXRU1uVGcwdnhmRnEycm5hWnJGRDFzM01HQU00c3ZaOE5WSEpwd0dmajU0OFpWd2U1NjcwV3VwRWxUa09aVHpsSG0zS2lIaVpHMzVTc1dwbGozZzZHY0JJV21pSmZjRHhvNFJZZ2djVkk?oc=5"
+  },
   {
    "ts": "2026-08-20T15:30:22+00:00",
    "title": "Construction wins 2026 Inter-Ministry Futsal Championship",
@@ -2172,13 +2179,6 @@
    "source": "Myanmar Now (MM)",
    "markets": [],
    "url": "https://myanmar-now.org/mm/news/80431/"
-  },
-  {
-   "ts": "2026-08-17T10:00:24+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1GUmZxbWdHeVNhZTlPWG9GZW1YM2F6UklDVmVPMWZ2eF9HMVRzS0hpY2d4Xzdqc2VmMkJCbXlnZldCLU81a3FBR2laZw?oc=5"
   }
  ]
 }
