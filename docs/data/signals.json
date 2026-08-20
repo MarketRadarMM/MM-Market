@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-08-20T12:30:20+00:00",
+ "generated_at": "2026-08-20T13:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-08-20T13:00:23+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1Pak5KVThtSG4zOWtwTVNBbG1wVWdEZzV0NkI4TjdsYV9CNll2bTlnWVNaOVdZSEJpN2pTdzdJWm0xUk9HZlVWbmRB?oc=5"
+  },
+  {
+   "ts": "2026-08-20T13:00:23+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9XN3ZpemFfVnJ3aklGNlVXZGVlWm94ajdVLTRIbnpOSjhsYmZrMHB4REhIVzNHcjdaUGFwbHVBN2tjOUtxV0tQdThzWQ?oc=5"
+  },
   {
    "ts": "2026-08-20T12:30:18+00:00",
    "title": "Conscription Law Will Drive Myanmar Deeper Into War, Ethnic Armed Group Warns",
@@ -2165,20 +2179,6 @@
    "source": "Khit Thit",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1GbEwxSnkwZnZmSVBFVEpCYS02dllVN0tzdVhzN05kMnlndzE2VVZwN2QzMUFiQXh2Wl8xeDgwX2dac0lHeU5LUWV3VQ?oc=5"
-  },
-  {
-   "ts": "2026-08-17T06:00:23+00:00",
-   "title": "MIC approves 14 new investment projects",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GbjQ0VGE1U1RUUDBWeGNISmpId01PRXlSYklPUFBuLVJzb0lFSUl4MXF1Z2FFSjlhenNLNmk2bkZkdVVSelJNN0R6elBSNVN0ZWZKSmpJNTNES0lGcEdqX1pxaXNVVmlQVFVZMDRqc1R6TER2?oc=5"
-  },
-  {
-   "ts": "2026-08-17T06:00:23+00:00",
-   "title": "Myanmar and Belarus discuss enhancing tourism cooperation",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeWhaVGZOb3R2aFQzUjA3aktiZlpwMmFTQ3hFbzBRelVBdUxuUnlIS1hxbHQtSnd3dVVyTDJzTVRHRFFPRHlFUWkxNC1VN1pZZk1UYktZTkpFdTV1MjhSMnVoeDVxblJSdlU2dzUtcFRTanBoZGYtWVFBbVY3WjRNSmJTRHh0UDk5aEE?oc=5"
   }
  ]
 }
