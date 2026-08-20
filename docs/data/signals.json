@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-20T01:30:19+00:00",
+ "generated_at": "2026-08-20T02:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-08-20T02:00:23+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9STFpWY2plM1FoMzlBRk9teS05b3RCTFBFaVV4aVlQSk1VTEw4bG8wellwU0h2YTZ2bmpnVXVwQ0Y0RzdtT181NlM4dw?oc=5"
+  },
   {
    "ts": "2026-08-20T01:30:18+00:00",
    "title": "20 August 2026",
@@ -2172,13 +2179,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTkJzbTJocTdkaW5sTmNEZEVkUFdSbVVlcTRkT2puS05vbWFpdEU3dkNNR25PUGQ0Y0YtRWRyY0luSDBTN2VkNnJfM3FGRVVpbWF1ZEY4X053X0FFWnFLUHg2ZVVJTGRGLWdnVWptamtlWDVhdTljX2F1MjBBWlc1VjBydUJISFdvTmNVQjhic0NBTGFGVTVQQQ?oc=5"
-  },
-  {
-   "ts": "2026-08-17T02:30:18+00:00",
-   "title": "Mongla’s MSY income-generating activities inspected",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcTdwQ3M4S0Z0MHJ0M080X250UF8yeHNPLTE4R3o5T0pYT1JURG9LbzdBSXB2YUZhZXVyUi1uS2lHZE9oU0FiekRfU1ItTnFzTE41R0ZyMFl3UzlXMW95ZExnbGhhcnJEN1J0U0JMT3UwUVluS2toQ0dPeTFmbUNGcg?oc=5"
   }
  ]
 }
