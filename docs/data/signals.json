@@ -1,6 +1,55 @@
 {
- "generated_at": "2026-08-20T14:00:25+00:00",
+ "generated_at": "2026-08-20T14:30:25+00:00",
  "signals": [
+  {
+   "ts": "2026-08-20T14:30:25+00:00",
+   "title": "Acting President of the Republic of the Union of Myanmar and SSPC Chairman Senior General Min Aung Hlaing opens Space Museum (Yangon)",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQXVIUHdDd1FIb2xDNWhJVjZPdG5lQ3Y1bGJaWXc5SlNWS2J6Yi1FeGtJVUgzbnFqRFI0a3F0a1BnR1g1YTB5S005cFUxYWJZcld5elFaR2laYlV0dHpXeHhhTmowd0pCWEJJR3lKZDNkNTZQTGUwNXBkUUZMaG5xUWNPZlVDX0ppZ1QyWGZ2TGlOdW9nYkNBVTZqMDdHQzRNRVhqMV9qTUYxQWdSYWt3T3NOdUF6ajY2SS1wd1Vn?oc=5"
+  },
+  {
+   "ts": "2026-08-20T14:30:24+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5HU1d5NEliclNCVVpaVTBlWkZHajE1M2VObmhvUDRFR3FoR3I0TG9jTHNCVDBLTmQ3aVBsTkcwdXVFTmw1ak9NTlZR?oc=5"
+  },
+  {
+   "ts": "2026-08-20T14:30:24+00:00",
+   "title": "Times City to host 8th Thadingyut jewellery exhibition",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUFoxWWlzLUNFdjlod1VZODgzSFAyRm5VV3lFMmJrV0FxT19JTkM1TDdMUmgzT0JzRlVtNXNaZVdmMXpud3g0bWJUZFRQaEpBbU92VnVvY25pZF9IOGdpLVRVN3NvZ2JsNUUzWFFDMHYxSTUxZE96akFhaV9nUWZ5MFRPb1IxZw?oc=5"
+  },
+  {
+   "ts": "2026-08-20T14:30:24+00:00",
+   "title": "Myanmar migrant worker died at Thailand workplace paid condolence money worth 100,000 baht",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVzAxSU5MOEk4NHprcVN0Z0RSWHhfeV81MXVsckJpVlhyYWNGVDN0clZxRS1Ibm9JQllTS3lKaHduNDNsT2VNUURKRHpoYkI2STQycWFOejdYLUQ3cFktenJUbTNFUzN1WEpFWDBsRERjRXJVa0RFb0ZiN29XQjJxeDJNTGFlVXdoTEhDVzZnNHdOX2RsdzBhUl9tdGpRRHl3NnBIc1Qzb3FGR2liN19taHFwLVE?oc=5"
+  },
+  {
+   "ts": "2026-08-20T14:30:23+00:00",
+   "title": "Weary of war? Post-coup woes weigh on Myanmar",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQczU2VlRmdlVYbkt0U2NuajZfa3pYVlJyUFZhMjFMQ3c3bDFES0U5VWNHa1VlX1ZzYmNlZEh2MjZwWjZreHRhdlBtNW5QS1dDRzZWQWlaMXlzTXQ1ZW5YdXFhbFNUN1g0UDRqNjZ4MU8xNW50RkVrdjZWMFpIYzd2WUh0cHQxUm8?oc=5"
+  },
+  {
+   "ts": "2026-08-20T14:30:23+00:00",
+   "title": "Hyper-Aggressive Monetary Expansion Kicks Into Overdrive in Myanmar",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQXBXeEZ5SnVZalN6amdPOVNWVV9SMFlnaXVEa0lHcU1JSlk2cUFtU0pvd0lfNUNYQjZBZGpieWk2eGt2Wm1CTXpJVTdnSlN0YlhLc193MmtLVXYydWZ0Vlc4d0t4eGI5MlFnN0hPLWNHemRMOEtMLUphV0JLdkdsT3RfdmlyejZNcHBzcFM0Q3RUZXp2djlvZlZ3MVEyWDZkX0VuVUZXU0lHYlU?oc=5"
+  },
+  {
+   "ts": "2026-08-20T14:30:23+00:00",
+   "title": "Scam Operations Stage Comeback in Shwe Kokko Despite Crackdown Claims",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTS15Q0o0Zkt3d3ZNQnBxQ3F3UkJvT0FLdFh0WHVDNXZzSXQ0SzlCZ2huckNLb0ZCa190RmRVVmhYdVFjOXR6VGcwOVRLQkRnelJHdkRWdXNPZHJfT1g5U0RGaG9SWmNFTEZxLWxzb3dSQzNVMEJ1aXlhaHQzTGNHaFpXaU9weTBRSVNlUFExUlNoZUVEcTB1WVZFUWdpbFQycXpDeFM5NFMyTWVhdnlmZQ?oc=5"
+  },
   {
    "ts": "2026-08-20T14:00:23+00:00",
    "title": "Analysis | Who Took Part in Myanmar Regime’s 100-Day ‘Peace’ Talks?",
@@ -2117,68 +2166,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ETElvYm9iM3k2MnV0eG1ZcHYtVmJ5VFFOWkI0QUhyZXJ0T1Mwb0VFRjFpNG1pMUlyNmR4TmlZRkN2VEt1QXJUXzVvR01ISG4yQ0x6QzVGbnYtazQ?oc=5"
-  },
-  {
-   "ts": "2026-08-17T08:30:15+00:00",
-   "title": "Myanmar junta awards major trade software contract to sanctioned Russian tech group",
-   "source": "Myanmar Now (EN)",
-   "markets": [
-    {
-     "market": "fx_kyat",
-     "direction": "bearish",
-     "confidence": 0.65,
-     "rationale": "New sanctions pressure the kyat"
-    },
-    {
-     "market": "gold",
-     "direction": "bullish",
-     "confidence": 0.65,
-     "rationale": "Kyat pressure drives savings into gold"
-    }
-   ],
-   "url": "https://myanmar-now.org/en/news/myanmar-junta-awards-major-trade-software-contract-to-sanctioned-russian-tech-group/"
-  },
-  {
-   "ts": "2026-08-17T08:00:21+00:00",
-   "title": "ကရင်နီ စစ်ရှောင်အမျိုးသမီးတွေရဲ့ မမြင်ရတဲ့ လုံခြုံရေးအန္တရာယ်",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/80422/"
-  },
-  {
-   "ts": "2026-08-17T07:30:18+00:00",
-   "title": "Junta chief makes trip to Russia",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/junta-chief-makes-trip-to-russia/"
-  },
-  {
-   "ts": "2026-08-17T06:30:15+00:00",
-   "title": "နနွင်းနဲ့ပတ်သက်တဲ့ ကျန်းမာရေးအယူအဆတွေက တကယ်မှန်ရဲ့လား",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c39eydn7vk4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-08-17T06:00:24+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBmMDVwdEZhNGRRd3NFZnNEYnJPNHh6YTZ0RjBxRWQ1WXJTVXFsbGtXajBSdEg0VmVYb2o0S284OXN6bF90NGVDbHlRTQ?oc=5"
-  },
-  {
-   "ts": "2026-08-17T06:00:24+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE04RkpSaHNzZ2N5NGt5RnBtcFhQcXZPTnE2ajVpS0pGOEY1M2JUN3BOVjUtV1BfUkZCenhfRGVTU3M4NHZhYS1oc2tSSQ?oc=5"
-  },
-  {
-   "ts": "2026-08-17T06:00:24+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yZmR2VnBWcE11d3o2d3VHTnBYNm5RLVlSTnhzbFJZVnRKWjE2ZU9nUXYyeE1WdjBrVWJteUhhZWwza2ZiREpBLXVWWQ?oc=5"
   }
  ]
 }
