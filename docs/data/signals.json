@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-08-21T10:00:55+00:00",
+ "generated_at": "2026-08-21T10:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-08-21T10:30:19+00:00",
+   "title": "Guest Column | How Bangkok Is Legitimizing Myanmar’s Pariah Regime",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaWM2b3B2SC15Z3E5QzJ0R1VUdWJNREtRNFhkdW9sMHhiV0s0WXhGcGdVRjFMYkpqeUVEMjh4NnZ4aW9hVU4wa2FER1pheVNtdUVTaEpyX01UbnFwRVA0MnNBZVdrMVVPS2FzcW5ZaHo3RlJPRHRSSjl3X0NBNFROTnAyMy1TS2p3LTR0S1d1Z3EwUUYwN3lTSElCeGF1Y0R2enNxUw?oc=5"
+  },
+  {
+   "ts": "2026-08-21T10:30:19+00:00",
+   "title": "Regime Smuggling Crackdown Angers Allied Karen Scam Lords",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUUFUekxLa2J4aE43TmRsM1prUTc3Nnc3VW1lTHpNcFM3TW1FamNFVHdhRmU0UTRvaVQwa1FPaTRUclRvVWJQWEdtNkd0LWx2Y1BGR0s3RTZwYkNWYTk5cllyZUFrNmNGUWtMZUVsUjJiTFZXMXM2blhPZmU2dWdVVkpILVdCVUNuaTVXcjZidnFnQXlWYld5Q2NncXNTdDlx?oc=5"
+  },
+  {
+   "ts": "2026-08-21T10:30:17+00:00",
+   "title": "As many as 20 believed killed in Myanmar junta airstrike on Buddhist monastery",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/as-many-as-20-believed-killed-in-myanmar-junta-airstrike-on-buddhist-monastery/"
+  },
   {
    "ts": "2026-08-21T09:30:17+00:00",
    "title": "Quarantine Out",
@@ -2131,27 +2152,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY043ektBUVhVWHFIZU54eDlpSXFodkt0Y0lBcTVQQ3IybXM0dWNDcHQxcDBZX3lhVFJWcFJfenZ0aWZTd21nRkIxTGxSOVVxQy0xUXRGcndYdTVXb0NTcFRyVjdwYjJfU19VLVRQbTVzX25vVExjcXhhUVVDQnIwb0J0QWhSb0k3dHpYa2tBa1Iyd1M1UU9fQ0o0clphMzRJX1daYTZjZXpLbWFkc21WWExHWXA2bE11cGx3WG5oRTIxRjg?oc=5"
-  },
-  {
-   "ts": "2026-08-18T14:00:23+00:00",
-   "title": "Sinicization of Myanmar’s Borderlands Spreads as MNDAA Erases Ta’ang Identity",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWm1DUm1xVWtQZmZwaXNQQ0lVUlhMak9qY0xmVjd5NHFGMkJzdjhRa1BBd0hETk1mbklhdnNLc3hjRTgtdzVYcFhNNEV0ZXNUWHU0bjk1cTRPc3A4QVJEd3lJUzA0TlFXa0R5RXJ5XzBhTUhLeGNyYjl0bi1Fd2MyTy1Edl9aSy1FQV9fS1pRTXJ4bTd6Z0VYVXNfY2Z1d2s0b1RpNHY5X3duZUFvZk9KZjFIRm00b04z?oc=5"
-  },
-  {
-   "ts": "2026-08-18T13:00:21+00:00",
-   "title": "Local News Archives",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jOFhjUjE2NHhSQW1NWVphbm1MQ3hwUXNIS0ZSVWdqTzMtTXdJNFFJMDBnVThVTjBMMnhhQnZwQ1dFT2pPUTF4a181bkZWenUtRlMydVhCNA?oc=5"
-  },
-  {
-   "ts": "2026-08-18T13:00:20+00:00",
-   "title": "Myanmar Parliament Passes Official Rejection of ASEAN’s Five-Point Peace Plan",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQeEJmbVdEclh0VHJJc2d3bnRONWIyUEtCTW95dDM0RU1HT1g2MXByMFE1aE1hbzBZN1RKVTZ1cUZsLUllTkxkcElwcmZRSlcyaWlxMV9lb1d2U2UwX3VPV3JXMTctYmhyS3N3c05rSTdNTTNWUjZHN3o4dUNsemRwTjNSNURhc1VSRGNkTXhwQUluWmxoNjROOTVtNGtSTGNISnFlTGozM0djZUI5NURZTk9CVERuTDRVRGRiSEFpN2hzdXNHVDlEX3AtclNJbm5nMURpeVRKTkE5eVZxdVNvQkhXUVZFNFFOdW43Mmpobi12bXMyZEQ0eTBFdWxVUE81bFJDZ3h3?oc=5"
   }
  ]
 }
