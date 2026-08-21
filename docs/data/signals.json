@@ -1,6 +1,34 @@
 {
- "generated_at": "2026-08-21T12:30:21+00:00",
+ "generated_at": "2026-08-21T13:00:25+00:00",
  "signals": [
+  {
+   "ts": "2026-08-21T13:00:23+00:00",
+   "title": "ထီဆုကြီး Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPblRfMzh0M2dwaWlCU1V3cTRlMkRHVWtiVmhNdElXTGVJakFDRUcxV3EwUnZwb1N3YVFJbS1aN3dGMXpuekVydy0xMHU4VEdOejRJZEdmQWo2Q05hYkpWaVlTUXJYSTBTb2wwanhkXzZvM1ZKZ2pCRXh1YWp4amE1WE5uZl94V29HQnFZVklVR3JUc2ZBWlNMVE82bjROMEJfQV9rS3NtRQ?oc=5"
+  },
+  {
+   "ts": "2026-08-21T13:00:23+00:00",
+   "title": "Keith Flint Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GYXFrWHZta2dPRzlJVmZGbWhidTZFWWdMQ0dNbjhKdzlzUkxpY0R3dWN3R1NpVmdKaWpHYzNkT09jdFVrSmpfRlFXQnh6a1VldU5RSm5B?oc=5"
+  },
+  {
+   "ts": "2026-08-21T13:00:23+00:00",
+   "title": "KBZ Bank Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GYkJlQkdTa3UyYThwV0hBTDA0TGVNM2g0N1lPN3lTUlhBZHZ6ci16QlhuTU82aWI4QkZBOHd4bkJybktIa3E0ZXBTMVVieUlseFE?oc=5"
+  },
+  {
+   "ts": "2026-08-21T13:00:23+00:00",
+   "title": "Border Fighting Tops Agenda at Annual Thai-Myanmar Military Talks",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaWdYU0FmQ200S3BBajJzckRQWWJvMktWWnBmNG9xbnFiWHpaSUo4V1BoYzdkcERzaEtNd0ROeHQzXzQzRnVqN3NRcU1TWUwwbEg0OUY3Q0F6ZHJyUWVnVmJRV3NQN1BEa3N5XzdXTkw1eUFDN2VaNEhWdEt5U09idld1UzUzSDVhd2FoV3NNanNnOHRvMHJzVXpIZ211d2lfZWpTUzNhYTl2TG9lSVY4?oc=5"
+  },
   {
    "ts": "2026-08-21T12:30:19+00:00",
    "title": "uprisings Archives",
@@ -2124,34 +2152,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeXlmQ1RSZU1RQWcwcFJBWnFkYU9TdkQ5bUZtTUxzT1BJcENiTjNqQ2NXUkpiWTdiN1A1V1A2LVc4ZFU0bDB3UXlxLU45cTRJeWx5Sk0yLWMxc0RQSWJ2bEJ0eUxnaXpaR0hjNVZPbGUzcGxGZ0FZc2wzUURGMVZicDlGRWtRS0xCWXRzc3FCNUxKZmNHaWpubVp6Q2xEd2t2Q0J1RA?oc=5"
-  },
-  {
-   "ts": "2026-08-18T18:00:23+00:00",
-   "title": "Myanmar Parliament Passes Official Rejection of ASEAN’s Five-Point Peace Plan",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRC1zRkF6WkExOHgwUWtOMHdaSENDQ2QyUm83NHR2RmNNMWFVWkVNWk1CVmJNYjVoZXYxT2RLdzF4N3diMUx5ZFhVaWV3dTlnYmJwbG13aUhJVFY2T1o0Z1BXRnRhR1k2bl9zTWxOeDlmbk9BanJOc2FEODY4U0dSNTJxQW5Ec2x2emwxOExYMHVKd2otcWtVY2kyWTdiWGZYLWdSaVN4Y18yaFZyNV9GeUN1b1dTbVJnZTU5S2VPWGVwaVRTUXBYZGlNT2lTRjVpOC1mQg?oc=5"
-  },
-  {
-   "ts": "2026-08-18T17:00:25+00:00",
-   "title": "Speech Delivered by Commander-in-Chief of Defence Services Senior General Maha Thray Sithu Min Aung Hlaing at the Parade of the 77th Armed Forces Day on 27th March 2022",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdDRBcWYyRkk2QTFvSENiY1BWdENxejJJTVRFR3BjTENHTWxfeXRlajFpVzY4ejJ0b0dSWEtmLUoyUFhhV0dZS1RpSHJNWlNwbVVZbHJ0SXprazFrTk56Yk95ZUE0LWRBZXQ1T1g2eWd1ekt4QU1LblJyQ2laSUdiNlFUVEw3SWxLOGNuN05OYXJYV3JPR0VMRlIwZ0dBRWFnQkFtOTRXMXRNczdYYzFKMC16Tm1SX2tudEtTQ2NXQjI2QQ?oc=5"
-  },
-  {
-   "ts": "2026-08-18T16:30:19+00:00",
-   "title": "MFVP signs MoUs with 5 organizations to mark 20th anniversary",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMnh4WEw3dlR6cHZMZmpKV0xKRllpY2hhQ1VWd25COXU1REM2UGxuUmFBSjZuRUFndGtWdnhYLXIxeVAtT3lUaExHekZKRXY3UWFRVkdZdk1MbDhaLVRSX2pEdFk0WDNHX3FQOGt4WlpldHg1LW9pLUN2WWtUTkF5NjNBX1FKTVJuaGZ2NDVwYw?oc=5"
-  },
-  {
-   "ts": "2026-08-18T16:30:19+00:00",
-   "title": "MLA Welcomes IRU Membership",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iQ0UxZHVNMmdwZDNPS1NKZlBwWjVKeElYcjB6MXdKMHRTNGpQUlVFUVVoWlJfMVJFTnM0QnQxWlplM2h3RDdEV0ZQSnNwNFZSYjdmSEZKQXVITzBMMGNlaUxB?oc=5"
   }
  ]
 }
