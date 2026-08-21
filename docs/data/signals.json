@@ -1,6 +1,41 @@
 {
- "generated_at": "2026-08-21T13:30:21+00:00",
+ "generated_at": "2026-08-21T14:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-08-21T14:00:22+00:00",
+   "title": "The 9th Thailand-Myanmar High Level Committee Meeting takes place",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdVdhUXRzdnNLWS00NjE3Z3VYdlRBZktLZTVCQ3JsYnlaRkNhQl9DVGd3Qzh5ZzgxQ1ZuS1RndENJeW15clpkTEZNcWdFd3VTLUhTRkVjdzQwV0xoVUtBaUh2UzgzOTUyWDlEN2N6cERVbkFrd3hrSGZfVGpVcDctRjZpMlFZOGRvbXE5cQ?oc=5"
+  },
+  {
+   "ts": "2026-08-21T14:00:21+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCdFFaMFduQ0VTQ1ZBSzNURTRiNUt4WERBTWQyZVo0cXdXYVV2RmFuMGRubDJ5VTFfUEJEWWxKS1pmbjJYM3laMi1Kbw?oc=5"
+  },
+  {
+   "ts": "2026-08-21T14:00:21+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKRm1ZOG5JTGNGQ3JxajNJTG5BVWM3SHBaNGUxRnQ5NEs5c0pBMFV5XzBMWWZmczJBSHZiVTBSY3V3Zy1Nb0lDdktDNA?oc=5"
+  },
+  {
+   "ts": "2026-08-21T14:00:21+00:00",
+   "title": "Antivenom Stocked at Flood Relief Camps",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtTldFSHlYV3d1djVqNU9Zb2FsUWZ5OVBsYjE3QXJMWTB6Y3BEam5ETzl2Mkx6Y1l6TnY0RkphUnlnVkJXbzZtdTJGVGZRbjM1b0tsNWxmMWY1a1RBV0RNdlJSQlNLdFZPcFAwUm84N2Z2MHdCSnc?oc=5"
+  },
+  {
+   "ts": "2026-08-21T14:00:20+00:00",
+   "title": "COVID-19 Pandemic",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13Yk5nN1ZoRDEtbnBYX0VvRmJ1WEZpSUUzRVQwWURYb0hkSFVqRm51VzJ6Nzd1cW1hSTZCZ3ZqVmczWEZTalVVb3RPVHlwaThPWkRrMDBWMHNVbUplMnJ3Zm9UdDFJTlNLcHdheTQ4UQ?oc=5"
+  },
   {
    "ts": "2026-08-21T13:00:23+00:00",
    "title": "ထီဆုကြီး Archives",
@@ -2117,41 +2152,6 @@
    "source": "Khit Thit",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9TdnAyejBIMXRpTEZXMjhWNDIyVW9ieVZlYXh5eEI1eEZfQUFmaURlZkxvcnoxS0dGdm5DMUEyZXhlVy1RQm90eC1Hcw?oc=5"
-  },
-  {
-   "ts": "2026-08-18T18:00:25+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5oTzkzOUJKMHNHQVVCaFpsWnQzem92SEpnSGR0QklMRmtpZ2t2VkJfcHdvM0hEWS1fQWQyRm9RRjJiVGVNUkZSS1Nxaw?oc=5"
-  },
-  {
-   "ts": "2026-08-18T18:00:25+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1vQ2Z6WWx3Z014dXVqLXI4TVJqanNtQUppRFhZbUNZR1BHRmlaeURxUGdEZXA1TUlweWVTR0hFcl9hNUZZaENfSDJaMA?oc=5"
-  },
-  {
-   "ts": "2026-08-18T18:00:23+00:00",
-   "title": "‘We survive one day at a time’: The resistance holds on to Mawdaung",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYnE2ejFmTjNUc21xUUExZUwxOVk2Y2ZLdTJIVkNzR09taFdzQ2dkeE1wdGVVbXN6VW10cUJQMjNmRW9jRl9aMmV2YUVqTDIwNFhEOWtGckl5R0JfQkxkbGNPdUliTXFFM01HVzFicTl4STZGQVFJSi1WNkRwbHp1Q3U2TFJVS2M0ZUtKQ3FHalp5MEtCUEhCNzRia09NMHA5Tmc?oc=5"
-  },
-  {
-   "ts": "2026-08-18T18:00:23+00:00",
-   "title": "A day in the life of a Shwe Kokko scammer",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOUVYaUYtQTh1bER0SXRxYk5SM2tNRzZMaEVxY3dkZkI3QlMyQnROdmswcDliS0drYmtmbXJJeWJoYUhiUnFhMG1ja1FYY1Z1bmh4TzlUVTJGMEpJNHRjeTVoclB5RncyejI2RHNYbTA5TzNfVDRDQU1fYmRjdW1NVU5EWQ?oc=5"
-  },
-  {
-   "ts": "2026-08-18T18:00:23+00:00",
-   "title": "Myanmar Junta Lays Landmines Around Chinese-Backed Pipelines",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeXlmQ1RSZU1RQWcwcFJBWnFkYU9TdkQ5bUZtTUxzT1BJcENiTjNqQ2NXUkpiWTdiN1A1V1A2LVc4ZFU0bDB3UXlxLU45cTRJeWx5Sk0yLWMxc0RQSWJ2bEJ0eUxnaXpaR0hjNVZPbGUzcGxGZ0FZc2wzUURGMVZicDlGRWtRS0xCWXRzc3FCNUxKZmNHaWpubVp6Q2xEd2t2Q0J1RA?oc=5"
   }
  ]
 }
