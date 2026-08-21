@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-21T08:30:27+00:00",
+ "generated_at": "2026-08-21T09:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-08-21T09:00:21+00:00",
+   "title": "Business | Russia Tells Regime It Wants Majority Stakes in Dawei Investments",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGRRc3BaS1VGMFNNMGNkRWk0THJISHFTUVozcEgwR0htZlBKMHlMaHNoWmZiblFpWFBPRnVISE56d21fY1hYYmVuZF9TTUZIbk5EeWptMGp0MzR3SXlnSTNiTDZNSjViUlVDS21ObzZXYW9abGYwbUNHY0hRcXBtOTRmaWpLdVlmOTVLdGk1UmVnRmJkUmg5Q3dUWGdSZFk0eXpuYk5nTUw?oc=5"
+  },
   {
    "ts": "2026-08-21T08:30:25+00:00",
    "title": "ရေဝင် Archives",
@@ -2145,13 +2152,6 @@
    "source": "Myanmar Now (EN)",
    "markets": [],
    "url": "https://myanmar-now.org/en/news/myanmar-junta-airstrike-kills-four-near-pinlebu-after-bnra-commanders-escape-custody/"
-  },
-  {
-   "ts": "2026-08-18T12:00:20+00:00",
-   "title": "National Archives",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5OaDBaNlkzekV1THVzXzdOVzcxeGY1MTNEUUZuc2RIMXpMbWctX3NEZlNVNXZFMjl5OW1kVWlyTW4yV19KLUdYWTRza0c5SkpQandMeQ?oc=5"
   }
  ]
 }
