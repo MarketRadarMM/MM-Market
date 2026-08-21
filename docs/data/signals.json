@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-21T19:30:21+00:00",
+ "generated_at": "2026-08-21T20:00:26+00:00",
  "signals": [
+  {
+   "ts": "2026-08-21T20:00:24+00:00",
+   "title": "Fish Hung Out to Dry at a Village in Mon State",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoR3U5M2RiWldJMUphNUlDNHBxeWVBcUw5UF9DaUhlWkstalgwSnBqYjN2YWx4a0pmeXE2c29Nb2tYUmtjQVFueEx4U1Ywa1BQTXNscG5vb2J1dW9iMnZSWVg0NlNBdzVvemxBdER3?oc=5"
+  },
   {
    "ts": "2026-08-21T19:30:19+00:00",
    "title": "ကန်တော့ Archives",
@@ -2145,13 +2152,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUjVPRmgyUnRKeHlhN19WTHlnZHlBdWpERFNmY1cxMkl4Z2xOd01Cc0ZKQ0tFODlTY3d1T3JUUFhpbmU3N2d1dG5jb0ZRRDBfQ1lQWVl2a1FOY0RaTFMtV2NmRllyRElfY21MeXpHNF9kTTRMSzlCQncwTkZNV2FYRGdUd24xNUxwUUxYcWYzT1NPTkcw?oc=5"
-  },
-  {
-   "ts": "2026-08-18T23:30:22+00:00",
-   "title": "Kawkareik’s MSY village project activities inspected",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVGhhRDR5MEdzc3hXY0lvSkRlSzZyOGQ3MHZlaHRkUmRvZjZvSFZ3RVk3OEFKOWdxNkZXbFJJR01zZndwLVppUldENnBxbUNoTzM5eEVpcUl4VnNHVUZxQ1NackNaZ0pYWmFmQzk0OV9KNDNVWXdKT0V3LS1JUk5NNXZR?oc=5"
   }
  ]
 }
