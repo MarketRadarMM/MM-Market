@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-21T03:00:22+00:00",
+ "generated_at": "2026-08-21T03:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-08-21T03:30:15+00:00",
+   "title": "အမြွှာ ညီအစ်ကိုနဲ့ ညီအစ်မလက်ထပ်၊ အမြွှာဘုန်းတော်ကြီးတွေကချီးမြှင့်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c935zlxlq51o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-08-21T03:00:17+00:00",
    "title": "ဦးမင်းအောင်လှိုင်နဲ့ လူကာရှန်ကို အလွတ်သဘောတွေ့",
@@ -2145,13 +2152,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcjZiT1Z3X3ZQTnc2Z1BxcTBNY1JrUzFkd2EyeHZDTU5NLUJ2VzVFd3pNMHNnRkJsc1R5aHNOMF83MzFIZGdlYUFoX2g1UGsxM2o1dmhhVmxlWjBNdUJSS2YtTXpGUEt6SllBaVQ1aXdfcXRFbERpVXRXdVN6aV9FX1FSaUQ4ZzVXZlIwaE9Xd0dQZmdUSHlHZkt3OVlld1pDU01lc2NqZTN4cVBGMkFtSTNEdTRydw?oc=5"
-  },
-  {
-   "ts": "2026-08-18T04:30:27+00:00",
-   "title": "Min Aung Hlaing Names Cabinet Dominated by Military Figures",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY2pRcUFEbDE0S2lUYjVMUEFkVWN0emZLY2RiRHc2Y1V2WExqNlIydDZIeEx1b1BHS3RUSFpuY1kyV082ekQzRjh0ZGlSdVJEUm8tUHQtRk1UVHF2ZVZxNDQ0WWhHZkEwU0JNWEZBc0RTd01hNEF6S21RakR1R1I2QW9tTmdMWk16c1JidmhrZVhVc2o2cG9QVkhiTi1mbXN6cmJsQ0VxQQ?oc=5"
   }
  ]
 }
