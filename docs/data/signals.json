@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-21T17:01:01+00:00",
+ "generated_at": "2026-08-21T17:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-08-21T17:30:18+00:00",
+   "title": "Thayawady Emerald Green project activities inspected",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVG1oYUhXU2RFNmlReFpoQnk3NGRNNTJYYXFyTGV4WHJBakoyYmlrdDd6Z2tGR0RYWTlSRUZtUHgtc3pKRjRlM2JHV1lJT3ZEbmQwT1lOd2VFTnRmbjZDNWVwM09tQlRxeDZHelg2Rm9qLWlpXzlZalJScS1oNGNSRUlSWQ?oc=5"
+  },
   {
    "ts": "2026-08-21T16:30:24+00:00",
    "title": "ဧည့်မထ Archives",
@@ -2145,13 +2152,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTUxUVnltVUhJaU9JeFZKX3BvS1Y0c0pKV1M3elhMa0JqM1drYWlZeUE0RnR6Uk4xOVB2dGtoLVJXU19HZEFGV0tNX0g1TTgycHJtNXpaeDJMcmZHY0l5VXlmY1VERUptS2ZzX3NnS3VLOWpyeUJ2TzZYR2gxRWY5YWV0R2RGcVl4Wk9UcWF1Z3ZjdXZVRzZKMkk4Zjhla1RseDdsZkZXNl9LWTNma1FpQlRTNkZBcTRreEM4QmZVU0trZw?oc=5"
-  },
-  {
-   "ts": "2026-08-18T21:30:18+00:00",
-   "title": "Avigan Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ERC1tTjBBSWwwQUdFeW4tcEdHV2laTjdnejM4SVc1TWE2TjZsbnVtQ1dxR2U5TlJVcmxRM1RfNEVZME4wWXFnMS0ydzI?oc=5"
   }
  ]
 }
