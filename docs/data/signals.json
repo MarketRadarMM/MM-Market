@@ -1,6 +1,34 @@
 {
- "generated_at": "2026-08-21T06:30:18+00:00",
+ "generated_at": "2026-08-21T07:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-08-21T07:00:20+00:00",
+   "title": "Contact",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE10aWtZZ3M2ZEtVZnFxUWltYVVTZVlwaTBmZGlpQm42eWR1aC1xeVFXQkp6WklfaThwYW5TLUJPSGoxeVdtYmNtZjJ1UQ?oc=5"
+  },
+  {
+   "ts": "2026-08-21T07:00:20+00:00",
+   "title": "Junta Cronies",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BM1dsc2tRc2tld211eDVIUUlya1BUM0hjdmVMakZFbHhMeFpzUkFXcDNhaXZxX1ZLZ2JVbDFhZ3BpcnBtSm5kMndRNEl5ZzF4enZVMm5WODJPZDQ1czBYNw?oc=5"
+  },
+  {
+   "ts": "2026-08-21T07:00:20+00:00",
+   "title": "Thingyan 2019",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWUHZvMURQVVR0LVBGVUVqTG5KOUxNbG51WTZockN2NUFrLXFuLTQ4dkNqZ3Z0Ymh4MzROSjhXSFBBYm5qTUhhd0dSenV0UnJDZWhCZE5lem1HSVBuZHBOY0wxdHVBRFA3dEFPaE1QWQ?oc=5"
+  },
+  {
+   "ts": "2026-08-21T07:00:19+00:00",
+   "title": "စိုက်/မွေးကဏ္ဍတွင် ရင်းနှီးမြှုပ်နှံရန် ရုရှားလုပ်ငန်းရှင်များကို စစ်ခေါင်းဆောင် ဖိတ်ခေါ်",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/80572/"
+  },
   {
    "ts": "2026-08-21T06:30:18+00:00",
    "title": "President U Min Aung Hlaing delivers opening address at Myanmar-Belarus Business Forum",
@@ -2124,34 +2152,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/cz0559ym9epo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-08-18T11:30:21+00:00",
-   "title": "China’s anti-Japan propaganda meets backlash in Myanmar",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/chinas-anti-japan-propaganda-meets-backlash-in-myanmar/"
-  },
-  {
-   "ts": "2026-08-18T11:00:24+00:00",
-   "title": "Passing out Parade of Thura Company of 124th Intake of Defence Services (Army) Officers Training School (Bahtoo) held",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSWxzU3BDQ2V3ZDU1SmUxZnpReEV6Q3dvRjc5eWdTcXpXUE5UQmVjRC1mMlhMTFM5WnZORVd6UHBXako4RzE0ZF84T3ZOdF9ZQjFadTAyOGdYa3ZoZFI1c1JJOW45SzMxUDdtR0RJQTNYUi1sRlVhaUJpb2RzQVl4N0JiUDUtejJXd0lkdlVxT0J4dlVmYmZZZ0xwVGpvYzQwdzlRajJ4QVExQ1NPSWVwOVU3a0FZNUs4cm9UMVVhYUpRSmwwa2c?oc=5"
-  },
-  {
-   "ts": "2026-08-18T11:00:23+00:00",
-   "title": "Mongla Region Sees Intensified Push for Peace and Stability",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQa3NoaFJoUWYyMENGdC1idHR2Nkw2SjBYbDFac0pqRnQtZkZzQ1hiZk05eDdqdWpxak1MbWluSnhUTFFlR2tIR0EzWjN6OHc0RjkyQy13dmppV051a1VOS2lneXMtOTA2XzRZQUh5S2l1Rll6dTZOV2R6XzNtV1ktSGNYTWFsRUdJeUVzQQ?oc=5"
-  },
-  {
-   "ts": "2026-08-18T11:00:22+00:00",
-   "title": "honoring Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFVjZ3R3doemIySjFPTUJ1VWlpVHhna3lfUDJBNXdrVTJBRTlkWHBHMGtTRE9uN0JwNExYM2ktSTZlUVdIVGdjQXU0WXpXZlE?oc=5"
   }
  ]
 }
