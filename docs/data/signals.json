@@ -1,6 +1,41 @@
 {
- "generated_at": "2026-08-21T17:30:19+00:00",
+ "generated_at": "2026-08-21T18:00:27+00:00",
  "signals": [
+  {
+   "ts": "2026-08-21T18:00:27+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5FQkFfUWRQSmhIckxsZFpLLXBsM0tjdXhfZHBGNHdqTTBHWkxMcjNLRzBmQUlKZ0ZWLWk1LVcxallnWm9UX1FzVlJn?oc=5"
+  },
+  {
+   "ts": "2026-08-21T18:00:25+00:00",
+   "title": "ဘောင်းဒွတ်ရွာ Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSDhlTmFicEhkWm10ZUxtRGxqQVZRQ0U1bFNuLXJjbHlSUjFQTV9EUy1UdURBTFFnVVR3dW5EUHBoZHBPQUxVbHQxTnZUV0RWZ21WQTBqYXN6Y0tMSWRKbmJGbHluMm04bVNrc0RKUmdFcGtILVRQUzFXeEJXZzZrNmEwT0pJZHhzWGxOQUdpRlhQaWJSS29KZkNVMGNLeGJVQmR0RUtLQ0Z3cE5xOWJiR3lRdGQya3o3SzhQcXF2eERYRzFnMktxQ0lwcy1UOGNWQjloeDlqWU9YN2NPN3ZQaDREMA?oc=5"
+  },
+  {
+   "ts": "2026-08-21T18:00:25+00:00",
+   "title": "PUBG Mobile Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5weVBwdUhzQVpXZGxWQTFPdUJqVUFFM1RqT2hqOWtfVmJBZ1JxWFVXaVY2WUQ1bjU3bWFrQUJHanV0UlpHUG5ob2c5aUtBZ3d4bk42TkpR?oc=5"
+  },
+  {
+   "ts": "2026-08-21T18:00:25+00:00",
+   "title": "နံနံပင် Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTHdLWi1fcEUxY3FsQ0dxZkJ2dlpMdnRNVXY5TWhRQklGNVlWOWo0NE1wNk1Ya3RvTTh0OFh5bkZUaHU0UmFaV3VzeEFqc3RsRVl1ME1GcHA3Y2ZKcENlTXlmWFNuNTFocU85c0V5VjdWRkxXbXkwOGJKSjk4RFAzYU50UWltWDdDRmwwNnhNS3ZPSkNIQ296Qk1Rcw?oc=5"
+  },
+  {
+   "ts": "2026-08-21T18:00:25+00:00",
+   "title": "Polling Station in Dagon Myothit, 1 Apr 2012, Yangon, Myanmar.",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1US0xdnlrN2hBRlhLYUlFUWdFOFdKR05RWW10cEVreFdSeTB3RXU2WTBMdk1BUDFBVTRSNm0tUzV0WEc2RWUyVE91enRFT08zNHZwdTlBU1J2VldBNnE0ZU50QkhrUUhIM0MzN2pR?oc=5"
+  },
   {
    "ts": "2026-08-21T17:30:18+00:00",
    "title": "Thayawady Emerald Green project activities inspected",
@@ -2117,41 +2152,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdjdjeEM5M3RWUVZVSjNhQnVDN05BdWpBbW5GVUdxRU9aR1VFU3BjMmdTdzZLMjE3NWM3aHltSjJLaE1kOGFLbG1wSXZVRU5ucm9Hd2E0b3g3VXFiYTZja2x3b3pjalJUbTF5TkxXdWhmUXBydk5xMnBMdDhhUjRtcXFHMFFHa3BEUnRiLQ?oc=5"
-  },
-  {
-   "ts": "2026-08-18T22:00:24+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1XX0tSOVh4cmN5R2VEM1NubDZRYmRHbm5heTRYbXl0UlBxUHZjMzRUWHpEc3VDMDYwNnE0N3N2b05qbFZ1ZzFxZWoxbw?oc=5"
-  },
-  {
-   "ts": "2026-08-18T22:00:24+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UcDNMbmxycUJJdFZUMFR6Vno5Zk5xRVo5MlpDaVk5NmhfaTdOalY0cVVobGdKTUZySTVQU2NhdXh5b3BhMGxRQTBmbw?oc=5"
-  },
-  {
-   "ts": "2026-08-18T22:00:24+00:00",
-   "title": "19 August 2026",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5QWUJneVI0YkV4bV85QVJNUkpDYTFYUE11U0VDc3VCSjhiSjh6ZzdSMndoajZsbzVhbUh4Z2hmWVUyVHVpejFpTHdIUVVKS0JV?oc=5"
-  },
-  {
-   "ts": "2026-08-18T22:00:23+00:00",
-   "title": "Myanmar Junta Blackmailing Parents to Enforce Conscription",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmtyVWZuOVgyTldHZGROM3NOSC1YX1VGbmFqcm5UWkR6MVZSOUxDejZjTURDM1lfUEJ2bkNvRDAtNUN5NVE0MjdJQUxxcnoyRmh4OEdOYTNYMjBkQUVZbFVUNmVBOXoyOW9SVGxNdmJmQWlXRC00d0FhbXN4cjZheG5HakE4R3NVM1UwZlhUcFZMcm12X3hWRHBEdDJnMlpIOWc?oc=5"
-  },
-  {
-   "ts": "2026-08-18T21:30:18+00:00",
-   "title": "Myanmar Regime Again Bars Daw Aung San Suu Kyi From Honoring Father on Martyrs’ Day",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTUxUVnltVUhJaU9JeFZKX3BvS1Y0c0pKV1M3elhMa0JqM1drYWlZeUE0RnR6Uk4xOVB2dGtoLVJXU19HZEFGV0tNX0g1TTgycHJtNXpaeDJMcmZHY0l5VXlmY1VERUptS2ZzX3NnS3VLOWpyeUJ2TzZYR2gxRWY5YWV0R2RGcVl4Wk9UcWF1Z3ZjdXZVRzZKMkk4Zjhla1RseDdsZkZXNl9LWTNma1FpQlRTNkZBcTRreEM4QmZVU0trZw?oc=5"
   }
  ]
 }
