@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-21T07:30:21+00:00",
+ "generated_at": "2026-08-21T08:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-08-21T08:00:20+00:00",
+   "title": "ရခိုင်တွင် လေကြောင်းနှင့် စစ်ကျန်လက်နက်ကြောင့် ရိုဟင်ဂျာများအပါအဝင် ၁၄ ဦးဒဏ်ရာရ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/80577/"
+  },
   {
    "ts": "2026-08-21T07:00:20+00:00",
    "title": "Contact",
@@ -2145,13 +2152,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcHB5X3hHR3EwcHpTQlFIcjJMaERYejlBcUNNYWctX0EtVkRFSnhiblAtVlpUZDlrYTZheUJ3c0dTaS16Yl95QUZfVjk4LTg5ZE5Gbk5nWUFlTG5SNFZ4b0pVZzBibWZXcHAtRjBnQlQ0cjJReHJqQWk0UUlMbUxxY0IwY1BVVWtrMTlBSExVTDF5QkJlSDc2d0VUcTVZOHhHaFBUT2VhMVpjMkdLLTA0WDgxRUYwTnQ1eFBR?oc=5"
-  },
-  {
-   "ts": "2026-08-18T12:00:18+00:00",
-   "title": "အာဖဂန်မှာ တာလီဘန် အာဏာရပြီး ၅ နှစ်အကြာ အနောက်ကမ္ဘာလွှမ်းမိုးမှု ဆက်ရှိနေသေးလား",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cz0559ym9epo?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
