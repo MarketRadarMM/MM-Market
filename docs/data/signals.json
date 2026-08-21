@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-08-21T19:00:22+00:00",
+ "generated_at": "2026-08-21T19:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-08-21T19:30:19+00:00",
+   "title": "ကန်တော့ Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR2NPaGpHWEhOVzBXWm9rb2NicFpnVGhWcXRkcWg0LUdxXzZSS2l6TXpIdnVseG5ZSVRLb3RfdEJwRnVxdDBkVkUwdmZWck13Wl9nSTZuWTBzNGdSNlBLMTNJMFR2eFA5c29JTjVDMzY3elh0eDBMNkxIWXhORGJ4ZjRwX2hlTnhMc3pQNEc2OUdRNHBocXkyRnBSbw?oc=5"
+  },
+  {
+   "ts": "2026-08-21T19:30:19+00:00",
+   "title": "အရပ်လက်သည် Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaVhkUHVLSW9qSzduQzJRSjExZlVMcXQ3NzVval9YeEJQX3gyaV9vZmZybnhXZzhHNjdMUTRSMlg4ejNiNVg0bzBrMzhXTjM2Tk8ydVByaFM3cDB1cldsQXRwVE5OdDE0WkRPeS1PU3UzTGFhN1lYdUpSQ0NBT3N0T2FNeXZ4MVBXWTVQSXBwODQxMnBfTEVBX2Znbzg5Y3ZmM0l0Tm9PTEtuRTYzLVZwbllpOTJMV0h1aTRXOWtWbw?oc=5"
+  },
   {
    "ts": "2026-08-21T18:00:27+00:00",
    "title": "- yktnews.com",
@@ -2138,20 +2152,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVGhhRDR5MEdzc3hXY0lvSkRlSzZyOGQ3MHZlaHRkUmRvZjZvSFZ3RVk3OEFKOWdxNkZXbFJJR01zZndwLVppUldENnBxbUNoTzM5eEVpcUl4VnNHVUZxQ1NackNaZ0pYWmFmQzk0OV9KNDNVWXdKT0V3LS1JUk5NNXZR?oc=5"
-  },
-  {
-   "ts": "2026-08-18T23:30:22+00:00",
-   "title": "Tachilek inspects livelihood training, VDP project completion in 3 villages",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM1RHMGpUVGVzTFpFZE9pNlNOa2dnWVB3NTVHWlFOMDZhNFBoZl9DNWEwMmktWjRET2EtUUprWmk2M0tRMWhUWlhjbXBmSmE2WWZVUGJ4emlLUXNYWHhrbl9mWk1VNHAxQmttelZqNDFSaU9wUnN6MnpuNzhCTkowbzdzbFkxbUcwVmxCdF80UklRcTB2YXlGWE14cWE4aEll?oc=5"
-  },
-  {
-   "ts": "2026-08-18T23:30:22+00:00",
-   "title": "YAU’s outstanding students offered Myanmar Awba scholarships",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdjdjeEM5M3RWUVZVSjNhQnVDN05BdWpBbW5GVUdxRU9aR1VFU3BjMmdTdzZLMjE3NWM3aHltSjJLaE1kOGFLbG1wSXZVRU5ucm9Hd2E0b3g3VXFiYTZja2x3b3pjalJUbTF5TkxXdWhmUXBydk5xMnBMdDhhUjRtcXFHMFFHa3BEUnRiLQ?oc=5"
   }
  ]
 }
