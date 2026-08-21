@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-08-21T05:30:20+00:00",
+ "generated_at": "2026-08-21T06:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-08-21T06:00:22+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9TSXhfUmJzTDUyRjByUENCQzNnZXYyRklXLU10bWxibzZvYUIyS1FtR3NWT242d19BLXhBLVlFZUx0eFg2VDktbGRKcw?oc=5"
+  },
+  {
+   "ts": "2026-08-21T06:00:21+00:00",
+   "title": "Write For Us",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4tUHJFM0h0ejFQclVKa0pIeTQxTVU0bEtvQWdLWlBzbldiUmtSWDk4OG1qZmppUm1nZjhQeUxYdkNXOUdCUkFsMWRqQnc2QQ?oc=5"
+  },
+  {
+   "ts": "2026-08-21T06:00:19+00:00",
+   "title": "US designates citizen held in China as ‘wrongfully detained’",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/us-designates-citizen-held-in-china-as-wrongfully-detained/"
+  },
   {
    "ts": "2026-08-21T05:00:25+00:00",
    "title": "U Aung Min Oo presents Credentials to President of Federal Republic of Somalia",
@@ -2112,27 +2133,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVGxKZ2xDMUdVTFNiOTk4Ykd5VVpnOVRva1UwMFVjTjIyQkxJTTZKT2xxbk5MaFUxWm0xM1Jid1UyMjByVWljR3JHMDBDM2h1UFdPQzNHSXJHUF9qME9EU0hwMXBRSDgxeW56U1hjWThkcnZkYXJrbFRJUUhvaTN6V0x5T01vWFNyUmdPT2tJcTdPRWc?oc=5"
-  },
-  {
-   "ts": "2026-08-18T10:00:24+00:00",
-   "title": "ရေဘေးသင့် စစ်ကိုင်းဒေသကို လေယာဉ်၊ ဒရုန်းဖြင့် တိုက်ခိုက်မှုကြောင့် ၂ ဦးသေဆုံး",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/80474/"
-  },
-  {
-   "ts": "2026-08-18T08:30:16+00:00",
-   "title": "Army Chief Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zWFZqeHg4dEx3U2c2ejdfTWczM09UdnRzLUdwWVV4N1lfZ1RJTUJIbXUzbXZqbHIzU0NCMlFBQWx1NzNuTzRTbjNPamVQQUFQekE?oc=5"
-  },
-  {
-   "ts": "2026-08-18T08:00:24+00:00",
-   "title": "Speech Delivered by Commander-in-Chief of Defence Services, Senior General Thadoe Maha Thray Sithu,Thadoe Thiri Thudhama Min Aung Hlaing, at the Parade of the 80th Armed Forces Day on 27 March 2025",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVmpzNGFqeG5oN1o4WDRqb2pqZmJJeXBtZ2RoT1hKWnFqSnVNVm9yY2oyakk1Y1dScVN3VGNSaWlBRGFVbndCMWVtQ2o3Ml8zaHJ0YXZ5NGVrbG1sbFpzUmZHQjZfSnN6Q3NULVdraVdxREVoRWFzM0h4M0s3cENMdWtEV3ptSUJaUnBWS0plbmQxZF9ESEltYjZYSGZGeVBfeV96MVlacUNZRy1NUkNxMEp6a293WVJuS2JEbXJ3?oc=5"
   }
  ]
 }
