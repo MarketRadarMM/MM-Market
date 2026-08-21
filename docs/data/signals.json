@@ -1,6 +1,102 @@
 {
- "generated_at": "2026-08-21T06:00:22+00:00",
+ "generated_at": "2026-08-21T06:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-08-21T06:30:18+00:00",
+   "title": "President U Min Aung Hlaing delivers opening address at Myanmar-Belarus Business Forum",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNnJqUzRuSTFZak1Ccm5QNm9rZFZPdzNxUEZrVVFmemhCRzVyX192THYwV0JQRG52SXgtcFctVEFmeXBlQkxEUHgwdWFpcFJIZ0hLbXpPdzZGYWt0TG5QLVN4T1ljbU1LaXNLanNZRE5QelczLVVXbTBFTldWWDFGM3BMc2t0cTNlLUI3eVdmSkVRNWtWdUpqSGxCQm54NDdGZWhjMzZiQWNEdw?oc=5"
+  },
+  {
+   "ts": "2026-08-21T06:30:18+00:00",
+   "title": "Vice President Daw Nan Ni Ni Aye delivers speech at meeting 1/2026 of National Committee on the Rights of Persons with Disabilities",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRkR6TWtsZUNUb0dURG5xTWtGbEt2OE1hR1ZvcXdGOTlMMURFM2I5TDBFQWU5Yl84VHh1RGhxV2I5YW9IYmticTFKdl96UUlTOTlOUFVRZnVYVi1uMHZGNXNrTjRtTVQxa1pVY3dPNjdmVFkyazFyVWxYdnJrVUhKVGhHSDBiN04xX0dPODV6Z284U1JaUzBfTWV5MEZjelZSMW12VTFZZjg4Q2ZvMVVEYWlOV1R4NGNEOUpv?oc=5"
+  },
+  {
+   "ts": "2026-08-21T06:30:18+00:00",
+   "title": "Tatmadaw columns apprehend 23 online fraud and gambling perpetrators along with equipment in Kehsi Township, Southern Shan State",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdlROTV91MGxrREpJMWNYYXpyWnpzUDRDMjYwb0llMXVINm9wT3U0b01tblpIcE5RMERkZnRHRmlJenduQWVHcTJ5SkRxdDVRRVEyeWtvZml5WjB5SUUtNUNmTHBTUVY0amF4VjA0TnBzV2tZN2lFaW02aGV0T1p3Xzd5d1VkZ1RCcnh4LWw0czI1NkJYZzNic0ZsWWlhRW1mN3BCeDdLMldpM3dENlZnZnVEZnpCeXVIdEpnRzQ1dw?oc=5"
+  },
+  {
+   "ts": "2026-08-21T06:30:18+00:00",
+   "title": "Myawady Daily Newspaper 13-3-2023_0.pdf",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOc2hYOE1sWHdwS21QWm5JclBTZ2g3ck1HWEs3aWxyLWhmS01PY2VsQTFYN21SN0dNellmY25uYk16QzdBbmxNUkZrT20yYjZNcXBLUkhsaGg2SkZYWmpDR3VOaUtXZzFaV05KdXdOdGxwSU1TUFFjYU5qd2I0LTZTUUlqTFV4MFpkVnFzdXRLOFVUVldGVmRTaFRmOTA5czRBM2FCRUZTbS0zRFladVhNUGNMVjlFUmNURkJfQ2dzUlpydzJOOW02MjBCZ1JBV204RkpUa0h5Y3JFS3h5akRlQndJbVpFcTAtaEtVbGtyeFZLdVo2SzFMdEJENTdBZw?oc=5"
+  },
+  {
+   "ts": "2026-08-21T06:30:16+00:00",
+   "title": "Myanmar-China border trade surpasses US$2.4 bln in 8 months",
+   "source": "GNLM",
+   "markets": [
+    {
+     "market": "pulses",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "China border trade affects bean flows"
+    },
+    {
+     "market": "rice",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "Border status affects rice exports"
+    },
+    {
+     "market": "fuel",
+     "direction": "neutral",
+     "confidence": 0.45,
+     "rationale": "Border routes also carry imported goods"
+    }
+   ],
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSzlZWEpORWFVT0wtUFBsNTNBVzdGeW81bWlFTjh4R2J1V0VDT1U3MU8tVVNMYUs4TEpUbUhXcnI4VWltTkVRZUhCZGFIYUJzWGgzZ1RVTHFQanM1N3U3LXBRMk5NUkZDVGV6Smc5UUhOaTYyRjB0MXhmNXVNY1g3RkZ1Z2Y5NEZWTDg0?oc=5"
+  },
+  {
+   "ts": "2026-08-21T06:30:16+00:00",
+   "title": "Contact Us",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBja2p6UF9FaGFSSm9NSmpXazhlcm1QOUdCVUFuNHM4aUkwaHNCSW5FQ3pSNExRZ3FiWnFiR1Vtdmh5R3NJalFzam5VRQ?oc=5"
+  },
+  {
+   "ts": "2026-08-21T06:30:15+00:00",
+   "title": "‘Like Talking to Dead People’: Late Singapore PM Lee’s Verdict on Previous Myanmar Junta",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcU91cVlsOEZ4cnMtVHVRVUJvQkQ1N1I2aExIMTk4aFVUa2hYbDdWbXNUd19LQ2Ffc1d0aU5WcUhzamN4TE5oM2EtcFUwbjhmX1FmOEV1U3hXcjVmWThGaXM5cFZ3U0FDeTdKUGZyc2R4ZEkteG9QbVB6Y0xacHEyUklLOXF6dENaOXZmOXZQTWpNdmduaG9Xb0NMdTRTMlVZZWVyMDMzaWFrRl8wWHB3SVFBSUNIcmV0QUdRZWpVQWpjZFN4ekNfbmoxSUU?oc=5"
+  },
+  {
+   "ts": "2026-08-21T06:30:15+00:00",
+   "title": "Meet Zaw Win Shein, Hotel Magnate in an Era of Collapse",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMGljRzZBcFpmT0pOd1FTd1g2VzlRU3RHTHhOWmlEMlBOc3I3cF9Tcjhjam93U2JIc1VNeHRtUXdmQ1dHa2czTldKNTVwNDNmSk00bUpPQzZvYUR3NlJOQU9Mb04wUHRhMkpYb0EwdlRxSkpxZGdpREM0TVFaejM5eWQweHA0UVdwNjI0ZW5rbXZhbk1Cd29tN1RwNXBCNVNlVUluQw?oc=5"
+  },
+  {
+   "ts": "2026-08-21T06:30:15+00:00",
+   "title": "Battle Intensifies as Arakan Army Pushes Into Ayeyarwady Region",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQV0QySWk4UEhrek9yQUZFQUJUVnJpUk5GUEhIM2k1VzJCdkFiOUhXNG5HRTltNVZFOTdzQVliUl9kNW9NMDU3OVN0OXhETE1kMjY5aG1pWmFWOHZ1aEQxbmVqMHNlUk9GemthY0lRMWVWZUxXV3BBd1QtUmpXdlpZVE1ORUVhRUJxR0preWxMUnlEOWlxZFphTkcxaGJpVEMzNDVJQVlqRkZpOWdDS2p5cURQOTRBUDI1QjJOalFn?oc=5"
+  },
+  {
+   "ts": "2026-08-21T06:30:15+00:00",
+   "title": "Mask",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0ySUhVODRpUnF4TEZDX3Q4cmpMVEpEX2hYNkJjMTYwanJsZFpoMnBvV0RwaXVmWGNsZUVBNXluSGNzdVhCVWlqZEhUM05ZNUdBcDM1ek1ubVdyUzVlZXVPSDRnOFdOdFdnQmpEZGNaQQ?oc=5"
+  },
+  {
+   "ts": "2026-08-21T06:30:15+00:00",
+   "title": "Polling Station in Dagon Myothit, 1 Apr 2012, Yangon, Myanmar.",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1IMHplSjlMX0lRT1V0eGFSemduWlBiR0hSdEZiY0dEd1BLTHRFQTVGN3QzSGR1UmFlTXVTU1VNejJGTjlqanZPU1pmOFB0WE9ZU1p4UTNiaTVFQzJhTXlvSG5NTGRYVTZEblZKVEJ3?oc=5"
+  },
   {
    "ts": "2026-08-21T06:00:22+00:00",
    "title": "- yktnews.com",
@@ -2056,83 +2152,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFVjZ3R3doemIySjFPTUJ1VWlpVHhna3lfUDJBNXdrVTJBRTlkWHBHMGtTRE9uN0JwNExYM2ktSTZlUVdIVGdjQXU0WXpXZlE?oc=5"
-  },
-  {
-   "ts": "2026-08-18T11:00:22+00:00",
-   "title": "HIV Infections Surge in Myawaddy Amid Control ‘Black Hole’",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWnU5WG5VdmRpdWJSS0hKSC1SSGVQZk9rZWlsYk11OUwzeFRPYllpdHA2N09TUXY0Z0FRVm1rcHl0bnQzUmR2el8wb1JKUmxtUWNtUzJxNXdTaFA2bmYtVENnbGItaFhzdzdZNi1TTjhONE0wanVqRnd5bzhmUDdmUlpsdUdZd3JwSU9wSl8zNjllUzFnOEtXaTNORWthb2M?oc=5"
-  },
-  {
-   "ts": "2026-08-18T11:00:21+00:00",
-   "title": "ဗိုလ်မင်းအောင်လှိုင်နှင့် မိသားစုဝင်များကိုင်ဆောင်ကြသည့် နံပါတ်အဆန်းပါ ပတ်စ်ပို့များ",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/80485/"
-  },
-  {
-   "ts": "2026-08-18T10:30:18+00:00",
-   "title": "Guest Column | Min Aung Hlaing Regime Tests Limits of Thailand’s Balancing Act on Myanmar",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX1dQYl9aTU9nNWFnWDg4RGFaVlFfZV9tcUlDT1BZUHRpOGstT1BDc2hnVTN3TzlnOE5OREtKTXBhV21zY3hwUEdRSkkwalVnV1BJd1NtdUlrR1J4Wm0taWliTmZ4LUVmLThlVjdPOW5JR3JqWk5wTlNBQzRiaXdfMmJXai1tb2VpWHlXN0czU19yNXNIUWtGZWhfT2JZc0ZQZ0J4VDA2QW1ZZF9PSW9rSkxaS0w3SGc1RWFja0FFZUFXbVU?oc=5"
-  },
-  {
-   "ts": "2026-08-18T10:30:16+00:00",
-   "title": "စစ်ကိုင်း - စစ်ဘေးအပြင် အဆိုးဆုံးရေဘေးထပ်ကြုံနေရ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c07r0njm1x8o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-08-18T10:30:16+00:00",
-   "title": "ကရင်မှာ DKBA ဘာကြောင့် အင်အားကြီးလာလဲ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cr7kv9zn940o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-08-18T10:30:16+00:00",
-   "title": "ယူကရိန်းစစ်ပွဲမှာ အောင်ပွဲရပြီလို့ 'ပူတင်' ဘယ်တော့မှ ပြောနိုင်မှာမဟုတ်ဘူး - နိုဘယ်လ်ဆုရှင် မူရာတော့ဗ်",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c8jnvn1n728o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-08-18T10:30:16+00:00",
-   "title": "ချစ်မိသွားလို့ မောင်နှမ မဟုတ်ကြောင်း စစ်ဆေးဖို့ ဥပဒေကို ချိုးဖောက်ခဲ့ကြတဲ့ လူငယ်နှစ်ဦး",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cy0j2684505o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-08-18T10:30:16+00:00",
-   "title": "ဦးအေး မဖြစ်ခဲ့တဲ့ ဦးစိုးဝင်း",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cwym2m3g04lo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-08-18T10:00:26+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1FcHNibDFzdDVDZ0c1aU1leGJLQVY2WEptaURYeGd2ZndyMERsSjBfa0wxcmJVTTNCQjJCWEp5cDZIWHowd2NCR0RMZw?oc=5"
-  },
-  {
-   "ts": "2026-08-18T10:00:25+00:00",
-   "title": "Pyu’s MSY village project introduced, working group formed",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY3JJUkYwcTVfcVhWTjBZeFhhRUVTUHp3eTdDSVhiQjFSNlljbHZhNWI5UHZrTFg2OFAzLU4yZVpUbjFheTFLM1NDZ3FxNG96TmF1bnZfdFo5U0prYUlOdGU5akY0MXBQWlYtVjkwa19Tc2V1Mlk0VUQ0X3diclVjMTdxV1d0N2cx?oc=5"
-  },
-  {
-   "ts": "2026-08-18T10:00:25+00:00",
-   "title": "Profiles of Some of the Hundreds Wounded at the Hands of Myanmar’s Regime",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVGxKZ2xDMUdVTFNiOTk4Ykd5VVpnOVRva1UwMFVjTjIyQkxJTTZKT2xxbk5MaFUxWm0xM1Jid1UyMjByVWljR3JHMDBDM2h1UFdPQzNHSXJHUF9qME9EU0hwMXBRSDgxeW56U1hjWThkcnZkYXJrbFRJUUhvaTN6V0x5T01vWFNyUmdPT2tJcTdPRWc?oc=5"
   }
  ]
 }
