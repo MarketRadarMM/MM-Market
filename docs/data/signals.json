@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-08-21T09:00:23+00:00",
+ "generated_at": "2026-08-21T09:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-08-21T09:30:17+00:00",
+   "title": "Quarantine Out",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45LWdsTmczaDY1MXBJQ3pfaERKSWoyeGlXWlZOSlJsUFUxU1ZfYkFqLWRpZ1dfUkcxOTltaVRjRzhOTi1JcHlCWEx0N3Z1bm43NENRRkQ5eV83MFYxRExkOFc4dFdkNmlSbVpodkR3?oc=5"
+  },
+  {
+   "ts": "2026-08-21T09:30:16+00:00",
+   "title": "တရားစခန်းကျင်းပနေသည့် မြောင်မြို့နယ် ဘုန်းကြီးကျောင်းကို စစ်တပ်ဗုံးကြဲမှု လူ ၁၂ ဦးသေ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/80583/"
+  },
   {
    "ts": "2026-08-21T09:00:21+00:00",
    "title": "Business | Russia Tells Regime It Wants Majority Stakes in Dawei Investments",
@@ -2138,20 +2152,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQeEJmbVdEclh0VHJJc2d3bnRONWIyUEtCTW95dDM0RU1HT1g2MXByMFE1aE1hbzBZN1RKVTZ1cUZsLUllTkxkcElwcmZRSlcyaWlxMV9lb1d2U2UwX3VPV3JXMTctYmhyS3N3c05rSTdNTTNWUjZHN3o4dUNsemRwTjNSNURhc1VSRGNkTXhwQUluWmxoNjROOTVtNGtSTGNISnFlTGozM0djZUI5NURZTk9CVERuTDRVRGRiSEFpN2hzdXNHVDlEX3AtclNJbm5nMURpeVRKTkE5eVZxdVNvQkhXUVZFNFFOdW43Mmpobi12bXMyZEQ0eTBFdWxVUE81bFJDZ3h3?oc=5"
-  },
-  {
-   "ts": "2026-08-18T13:00:19+00:00",
-   "title": "ကုန်ဈေးနှုန်းတက်၊ လုပ်ခမတက် — အထည်ချုပ်အလုပ်သမား ၇၀၀ ကျော်ရဲ့ ၆ ရက်ကြာ တောင်းဆိုမှု",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/80490/"
-  },
-  {
-   "ts": "2026-08-18T12:30:20+00:00",
-   "title": "Myanmar junta airstrike kills four near Pinlebu after BNRA commanders escape custody",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/myanmar-junta-airstrike-kills-four-near-pinlebu-after-bnra-commanders-escape-custody/"
   }
  ]
 }
