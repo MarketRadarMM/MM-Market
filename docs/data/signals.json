@@ -1,6 +1,69 @@
 {
- "generated_at": "2026-08-22T00:30:58+00:00",
+ "generated_at": "2026-08-22T01:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-08-22T01:00:20+00:00",
+   "title": "Low pressure area may intensify into a depression in late August",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQblJ2SUNIR0VvNzRSNGdWR19IWWs3eVh5VXgtNWxfWGVMZWM1UXZpZGZraHB3V3p3b19ybUYyY0hvUzJJYmxoM211OXpXR09MZy1aX1RoeGt5cHVna01HN1Y2Mm5RbXNoV1hZeGJidjVjdlpzTEJSXzRQZDEwZzVqTTV6cksxX04yMkd0ZGpzTHctRDQ?oc=5"
+  },
+  {
+   "ts": "2026-08-22T01:00:20+00:00",
+   "title": "Myanmar, Belarus to deepen cooperation in education sector",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSzgzYll3ODFKSzdFRU13dFQ1YmNsay1RR2VCVlJqLTZGbG81bmpWNnBJZnNNMzlkaE1ndk5tOTZMWlZMTEpMU2pGWS1WQmZlTVdSTVFiMjhZaUtWcGdhbS1abGRPTTVYX2thdXpZQUZMeHA2ZGZXdVdSWDBkbXRyVjB2LURXNkp4OUE?oc=5"
+  },
+  {
+   "ts": "2026-08-22T01:00:20+00:00",
+   "title": "Rescue and relief efforts press on in inundated areas",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcVBIUk5aWm5QSms4SDhLMVBVLTJKNmdvUWhja3VSMzVZYkRqWm9DOUlINndhZ1Z4NzBaVlM3enctTjg0MWdBYTFGODBfeWRjQzRLZ09VR1otMC1iNjNWZmpkdXlXMXB5S3RNaUNnNjA3QTZBRk1nQ1I5MVpOYmJNY2pLUFM?oc=5"
+  },
+  {
+   "ts": "2026-08-22T01:00:20+00:00",
+   "title": "MoFA Dy Minister receives UNRC/HC ai",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52SF94c0pKTGtBLU1wc0pZS1pnUkoyQmFSanlMRENUZHNHemdTYW5HSWltME04SkZ1QzNJTW1ob2ZGSWlUM1BuancwYzdkanpOYnVZQ2xkam9jSjVCaTJjTUVSYU9sSlY5Y25IQk1n?oc=5"
+  },
+  {
+   "ts": "2026-08-22T01:00:20+00:00",
+   "title": "Myanmar, Belarus health ministers discuss cooperation",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVDZEY3lZRFZjdjkzd2JKZ1plOTRSSW9oMmRzNGRBVVhHWFRNdWdIcjZ4bGRtRDlYdHRPSVo1UzZfclBPelY2QWplYlQwSDNJakJ3R2JuX2NLMS1iTWQwU2FTZTFQaXpmUnNaX3pGc0M3RUp5TGx3U3hNOGEyZ3h4Q093UQ?oc=5"
+  },
+  {
+   "ts": "2026-08-22T01:00:20+00:00",
+   "title": "2 Myanmar fighters suffer defeats at ONE 167",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82S0RZSS1uSS1DdW5zU2dfRE1vQ1lEQXZvZ256WjBLTzBwdWIwVlZQYUVSV1JCcE5yaGk5SXJuX2YyMjhNRjNrRmt6MFZVOEEybUR4RXpyX0RkWnJ5X21UUmNKX3dmQkFCcm1kdkNuNnl5UlVYdGNpdQ?oc=5"
+  },
+  {
+   "ts": "2026-08-22T01:00:19+00:00",
+   "title": "Fish Hung Out to Dry at a Village in Mon State",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QbmtqamVpVnFHVC1FYndldkVaNjVWdDdGUDhFX01yWnJSSkc3c2ptYnhoaElOQ2RIVHhfcUdSWnI2MkxnZVViYkVrVjdTNjZFSXlEekwzQV8xOHVyQXdLUEgxUjlDSE9yOHRfTmh3?oc=5"
+  },
+  {
+   "ts": "2026-08-22T01:00:19+00:00",
+   "title": "Myanmar Ministers, Journal",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NRUdyaXRObEdGeXFmV2Y1ZmxrbjQ1cHJ0QWxfYU44UkIzTnZZUTl1YXE0RkFDVzVJZDRCMExkZ0c0aE5pSFlUSmJGVWRiTHQyWW9LRGo3S2tZTEhVTUdiQlA0WXgxUWdISkZHbFA4RQ?oc=5"
+  },
+  {
+   "ts": "2026-08-22T01:00:19+00:00",
+   "title": "Secretariat Prepared for Martyrs' Day Commemorations",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xY0tnamxUVzBHdU9tUlZHMFdxcXBxQW9NRk53bUdxQ191c1lvNktYMF9wc1gxTmozMlVpM0xvcWtERElLcDVrWno0cTBPZE4taW9XR29Pb1N4Y2ZZcWVLeU40RjJRWW1DTnZzUmdoWQ?oc=5"
+  },
   {
    "ts": "2026-08-22T00:00:25+00:00",
    "title": "AML/CFT/CPF Training opens for legal professionals",
@@ -2095,82 +2158,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPem5nbmwwako5cE4xMDgzZ2lRQTBuc2NIZUtWYy1UZFcxM0xhUkNFbEJfTU9LRnJzbzJLdUFqcnhTckhCcXlWOGFES0FEdVdFQTBra3pOaUNJTm8tbG1kTURFZWpGSTBOc3NKVm42RWwxNVQyMlRZOENRSjhrajdkRF9BdjlNVkZtOVBmaC04Wm5fUGU0NEVjVFFUa0ttVUhQOU5EWA?oc=5"
-  },
-  {
-   "ts": "2026-08-19T10:00:22+00:00",
-   "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing and high-level Myanmar delegation arrive in Russian Federation to pay an Official Visit",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNWpjY0xtLVk3WS1DZmt0aXpzc0RmTnJZXzRKUmtmNWZRenIzVENCNWJaS0ljQ0EyaFM4STN4cEtXMjMyYVZCVnRsXzdqT2dUajF3d3A5TFIzbmV2WGlubnNNZ2p6X3ZHNy0tOXQyX2cwTy1MdmJZOWRpWlJmTzRyMGxkbmpzMGljMUU1NDZfbFYzTnp0R3BVNnlfbWhYcWo0bS1ENEVyWGI1dVZ2aVFUanNDTm1LczNCUmFmVm42YTJXeHFL?oc=5"
-  },
-  {
-   "ts": "2026-08-19T10:00:20+00:00",
-   "title": "ရှမ်းမြောက်တွင် အရပ်သား ပစ်ခတ်ခံရပြီးနောက်  KIA ဂိတ်ကို ဒေသခံများ မီးရှို့",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/80516/"
-  },
-  {
-   "ts": "2026-08-19T09:31:44+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5mZ3VyOV9PMUdHUXlOQ2M2RjlqY2t5RUJOM3NaSkNzUWItelRKd1REZmpQek5KNlZFVDlXVHdJUEVuUmU4aHN5dw?oc=5"
-  },
-  {
-   "ts": "2026-08-19T09:31:44+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9IQXppTm82X0lfUDRuVWZQbG1udzB5LUlDM2c1eWdqUWpoODZweldjYndHc1VqbkRpZjJqLVliQlR6OGxLM1RVR3pKRQ?oc=5"
-  },
-  {
-   "ts": "2026-08-19T09:31:44+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5mWnFSZktuaGlMOHNwYzFuLTVNZXlkLVAtZ1BMdU41TzZWZ1NVT0l5TkxOUXQ5Szh4SnBJS1JJMXdwVnBlSzhuT0dpQQ?oc=5"
-  },
-  {
-   "ts": "2026-08-19T09:31:44+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5teFR3UkNjSEZoNmhrdzdfVWJqQ1ZZN2I2WHJWRTdLendGU2dHMEtnTklrQjVpcVEwQTZKSmxnc2xYT01oYVF1UEVn?oc=5"
-  },
-  {
-   "ts": "2026-08-19T09:31:40+00:00",
-   "title": "အိန္ဒိယသတို့သမီးသေဆုံးမှု- ခင်ပွန်းနဲ့ ယောက္ခမကို ရဲတပ်ဖွဲ့က တရားစွဲ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c5yvn645w0qo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-08-19T09:03:55+00:00",
-   "title": "Renovation continues for damaged offices in Falam, Tiddim, Tonzang",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcTZGaEtzaXZrRjVSWHJWSzRic1l1dXBvOXU1NUMxdmw2bXJxTVNCWHV5cE1jUGpIelFGWXJTdERWYWo2M09UZXEwcjdsbWpJbGRnWENwMGhJQVAySUhTNDAwdGN3cTdadGJHQktEaWs3WERheVZzTWNZMnJqZXphUjhxV1RqcWFsWDRndEIzbURNRHM?oc=5"
-  },
-  {
-   "ts": "2026-08-19T09:03:51+00:00",
-   "title": "စစ်ခေါင်းဆောင်၏ ရုရှားခရီးစဉ်တွင် ပိတ်ဆို့အရေးယူမှုများ ကျော်လွှားရန်၊ စွမ်းအင်နှင့် နည်းပညာများ ပူးပေါင်းရန် သဘောတူ",
-   "source": "Myanmar Now (MM)",
-   "markets": [
-    {
-     "market": "fx_kyat",
-     "direction": "bearish",
-     "confidence": 0.65,
-     "rationale": "New sanctions pressure the kyat"
-    },
-    {
-     "market": "gold",
-     "direction": "bullish",
-     "confidence": 0.65,
-     "rationale": "Kyat pressure drives savings into gold"
-    }
-   ],
-   "url": "https://myanmar-now.org/mm/news/80512/"
   }
  ]
 }
