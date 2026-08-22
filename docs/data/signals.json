@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-22T15:30:19+00:00",
+ "generated_at": "2026-08-22T16:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-08-22T16:00:21+00:00",
+   "title": "MNHRC inspects Mawlamyine Jail, Youth Training Centre, Thaton Jail, Police Lock-ups, and Court Lock-ups",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcVhfa3JqSU40bVJtelZJTGtFMXlWWlF2ZkZuTEtCbkJUNXlrNzFKdWpWaHZBbGZGUjI5RGNhZDBrQWFnVU11OUttWk1OYTJvTmhrZEtlNGU0ckpOQ0V2Q1lFZFVkel9ablpoWXI5NHI0R0dMN2JXMkV6OWJoWUJMTUVMOVdPbGMyVnU3WF9pYVhaZXkwemlkbTlDZTdpc2pFb0lpa1otSjlzZ2gyOWlFOVdtbHkwYUc0bC1uZ1dqS05IUQ?oc=5"
+  },
   {
    "ts": "2026-08-22T15:00:18+00:00",
    "title": "Rescue hopes fading three days after deadly Myanmar quake",
@@ -2144,13 +2151,6 @@
    "source": "Khit Thit",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1Pak5KVThtSG4zOWtwTVNBbG1wVWdEZzV0NkI4TjdsYV9CNll2bTlnWVNaOVdZSEJpN2pTdzdJWm0xUk9HZlVWbmRB?oc=5"
-  },
-  {
-   "ts": "2026-08-20T13:00:23+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9XN3ZpemFfVnJ3aklGNlVXZGVlWm94ajdVLTRIbnpOSjhsYmZrMHB4REhIVzNHcjdaUGFwbHVBN2tjOUtxV0tQdThzWQ?oc=5"
   }
  ]
 }
