@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-08-22T09:30:20+00:00",
+ "generated_at": "2026-08-22T10:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-08-22T10:00:20+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5uN0JBMjNzQVpZNlI0M01oNHZ4SFBrc3RlY3lqakEwa2FyYzM2TkdFSHVsQ3FYZ3NaWGhRdTZYWDN0dGlQN092NF9wQQ?oc=5"
+  },
+  {
+   "ts": "2026-08-22T10:00:20+00:00",
+   "title": "Chinese Embassy holds reception to mark Chinese New Year in Yangon",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORnRlbE9rS3N1TEJZMHNPYVpOV2RvVENfRm1aSnVZbTZZeVlMVkhyY0Itdkpta0FmVXdESEhkbjN4ZFdFczVkVGt5enFYOUxxZi1fV2E5M2ZrQkVMb1ZfTGxLbDg4dV80MWNzX1EzU2ZlYUxrMHNPLUc2MjhyeHMyMmpEcTY1TDh0X0wyQm5mTHVNX0poRmc?oc=5"
+  },
+  {
+   "ts": "2026-08-22T10:00:19+00:00",
+   "title": "Yangon Photo Festival",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9aMlZXbXZaWG9uaXM1ZmJhRDJEWlN3eEVfU29wY3hMOEZKWUE3RXdwVDF3MV9WLVItSXVfS29mQTYzV3lDOExGbHdjUU9NazRwdWktbjJnc1pfSkRYNGVVdkNxRVg3XzBMX1dZRE1R?oc=5"
+  },
   {
    "ts": "2026-08-22T09:00:21+00:00",
    "title": "Ghoul ရုပ်ရှင် Archives",
@@ -2130,27 +2151,6 @@
    "source": "Khit Thit",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9STFpWY2plM1FoMzlBRk9teS05b3RCTFBFaVV4aVlQSk1VTEw4bG8wellwU0h2YTZ2bmpnVXVwQ0Y0RzdtT181NlM4dw?oc=5"
-  },
-  {
-   "ts": "2026-08-20T01:30:18+00:00",
-   "title": "20 August 2026",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE55aXBmWkxNUF9GcFoxbk9SWjRtNk1rWEJXbFFVWC1EaUUtOXNVa0NjSjVUT3ZwOUdRMk1tMXY0NUJ1VkFPVURWNzF2MGt4R0x1?oc=5"
-  },
-  {
-   "ts": "2026-08-20T01:30:17+00:00",
-   "title": "Myanmar ‘Remains Focus’ of U.S. Anti-Scam Operations",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYWh2VkhnQWNWYnZfSnBLZE9fYTlmQ2JDOHBPMVJJZ2RhaE9iUTZoUm14SllvdkxYR3FMZDZUTm9SWXpMZjlxaWo4dm9VQnBmOW80Z29xc3dBbmw1TzRrRWJjYzNsV2JKZFRNVUkyVDFZa1B4Q05XWWxOTE5qU2xkeUEwTGl3UmNZQ2JBQ01RalFDUmFWYXc?oc=5"
-  },
-  {
-   "ts": "2026-08-20T01:00:21+00:00",
-   "title": "Traditional Myanmar Delicacies",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqak5UdXVYMEQyM1ZvZjhBNHRPN2tjMThGUDVHU2VhaUM5SUJJX1kteU5yYk5zYXo3SGd4UlBla2V2YzRKa0ptVzBXNHVPdjZXY3dVRU42aU5QTFFpbUxEa19uTUs1R0xz?oc=5"
   }
  ]
 }
