@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-08-22T21:30:21+00:00",
+ "generated_at": "2026-08-22T22:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-08-22T22:00:23+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1hNGxrb2YyUU9kQnZDYTA1NzN4Yy1VcUJURjhBN0ZhWk5aSFdLZ3ZxaFExeFgwdllLUDJVS0pHLVZveDlJdmE5T0p2cw?oc=5"
+  },
+  {
+   "ts": "2026-08-22T22:00:22+00:00",
+   "title": "ထုံးဘိုရွာ Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSGozNElEZ2oxUDEyd09SdmhES214aWplSVcwUWpMMkZ0TUtBZlVmWTNQS053MDhTNjYtd0t4OURsdEotbmdkdUZ6eEdPTENkdGMzejhicU11QThkT2ltREo5Z2VhLUc1YkNUVC1XUkxGamVGRF9BM3U5V1ctTXNLUnBVbDVHclNGRTVoblJOelUxWUZEUGlwaFhLT0hjYnhXWmduSm1ZTENMQVp4VkR6WTRyY3Z4SlBxQVpOWnVDSQ?oc=5"
+  },
   {
    "ts": "2026-08-22T21:30:19+00:00",
    "title": "ယွန်းသီရိကျော် Archives",
@@ -2124,20 +2138,6 @@
    "source": "RFA (EN)",
    "markets": [],
    "url": "https://rfa.org/english/pacific/2026/08/20/china-pacific-five-year-plan-tafi/"
-  },
-  {
-   "ts": "2026-08-20T22:00:21+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA0RUQ3ZmZnSmtWQzlWdHl5d1lIS001S2dCbmtCcW9HVHNEV1E0NlJNZmhnbFdSbDNkcTZHUDU4amJyRHJCNV9MdHFkOA?oc=5"
-  },
-  {
-   "ts": "2026-08-20T20:30:22+00:00",
-   "title": "Families of Tatmadaw (Army, Navy and Air) contribute cash donations to tar the Mingan Village main road from Taungniaye Monastery where Moegaung Pagoda built by King Alaungsithu is located and to upgrade PhaungdawU Pagoda mountain road, repair r",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnQTl2QS1uM2ZlRkxLUmlITDRlc1RleV9uQllrQjMwdWZXSmxmSjlXRjRmRHhZbkNDTjRtaXlGMjlOOExOaWV0b0tBdGM4RDNvQUljc1J3NS03dw?oc=5"
   }
  ]
 }
