@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-22T02:30:20+00:00",
+ "generated_at": "2026-08-22T03:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-08-22T03:00:20+00:00",
+   "title": "2026 China Film Week marks 76th Anniversary of the establishment of the diplomatic relations between China and Myanmar; President of the Republic of the Union of Myanmar U Min Aung Hlaing and wife Daw Kyu Kyu Hla attend",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdXlmRUl5dnZzc1k3NGNhdUF2QkRUMGJZZERYZ3NBTFpmZjg3OWZ5eGJMQlUzNzh4V3VCeWd0UGtpSElKQnE1SnFMU1F2dEp1Z1V3YjFKZzRNNElPLVJ1OEY4djcxNjlkdzZTUDVTSWZjdnRtYnNXZms0SURVNzBxLXRtbWZmd3NPeDgxS1ZFV0lLQnl2aDB2aWgtNG93SXZrQkxoTUx1bFN5TUxOQ1hlakFjZDQ1U3B0cnRv?oc=5"
+  },
   {
    "ts": "2026-08-22T02:30:20+00:00",
    "title": "Chairman of State Administration Council Prime Minister of the State Senior General Min Aung Hlaing meets members of Kachin State Government, departmental personnel, members of district and township administration bodies and town elders",
@@ -2144,13 +2151,6 @@
    "source": "Myanmar Now (MM)",
    "markets": [],
    "url": "https://myanmar-now.org/mm/news/80524/"
-  },
-  {
-   "ts": "2026-08-19T11:30:17+00:00",
-   "title": "ဦးမင်းအောင်လှိုင်ရဲ့ထိုင်းခရီးက သူ့ရဲ့ သံတမန်ရေးအထီးကျန်မှုကိုချိုးဖျက်ပေးနိုင်ခဲ့လား",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c2lqgwy2k7po?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
