@@ -1,6 +1,55 @@
 {
- "generated_at": "2026-08-22T13:00:24+00:00",
+ "generated_at": "2026-08-22T13:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-08-22T13:30:17+00:00",
+   "title": "FusionSolar Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xV2JwMUhTTERESHI3cExGdlpWVW1tRjh0Tklpdk53cVlsZ3FCVUQ4UXEwLU44eFhHRWU1M1pTZkl2NlYzbmJyZFViZzB2NWJMVlNPYlN3?oc=5"
+  },
+  {
+   "ts": "2026-08-22T13:30:17+00:00",
+   "title": "ICH Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB4TDRoU09xRWpWaDVUZ3g5czZPNi1pOVlMaVcwekppUDZ0S1FfTlAza2N1TXVObE9kcFl5NFZIY3BxV2xrSm51ZHdrdw?oc=5"
+  },
+  {
+   "ts": "2026-08-22T13:30:17+00:00",
+   "title": "အိုးအိမ် Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcXVfUWhMUl9obTNBRTNNZFJHR3dsaDRWbXZPb2hhSnpjX1NIMlBUZDhYYmVVckg0R25fQUFYVmtnTHREa1Nsczh2b2pyOTQ2aHVUUW9tMjdXUDBWcFBibjcwTy02a1FydmVQeF81Mi1xRXhGZGdlOFpYd3BmakZtZWJRbUxKZWR1NUI2U0owQWhUclJRTjc0bnZucUxHRUtDcG5PVVVyOA?oc=5"
+  },
+  {
+   "ts": "2026-08-22T13:30:17+00:00",
+   "title": "ကိုလင်းထက် Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOemRPUThwVVc2QXlpSVJFc3BMd1JEamtKNkdmbkw2Y1ZYMjVqcjdTWU1CNGs2bmNSREt2YjZCcl80UTlDRV9IVHE2cXR1V2VSRGRKNDVlc2Q4RFluMWpwNWRCMkN5NlpuRmFPYVQzVjd6SWlSSVZyMHd1Z3FwNjBRdHRUYnRZTjJ0OV9pOTF2RGl1MklFQk1hVHY0YWF1ZWZMQmRjR0M4MFViN2dlVmFpd1k4Z1NEX0tjbkRIazUxZw?oc=5"
+  },
+  {
+   "ts": "2026-08-22T13:30:17+00:00",
+   "title": "Burma's pro-democracy leader Aung San Suu Kyi lifts her son Kim Aris at the Yangoon international airport after he had spent with his mother for two weeks in Rangoon, Burma. – The Irrawaddy",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrc1I5aG9neVl2d3lVTUVvS19qRFRYZEVHLW9hV2VCVlFsVTUtMkVQQ1VFTnFHaUtlakJmOGpnZjRSVnA2LTZVNXdhb3FzeDJaN3htMDN1czVyVjdDUVhyV2pMSU43SENxNk5LM3N3?oc=5"
+  },
+  {
+   "ts": "2026-08-22T13:30:17+00:00",
+   "title": "World AIDS Day celebration",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAyXzc3ZDVubjZTLWV6aUNJWFlBQTQ5eDFyWUNiWVIzdERod2pyWGNPR0UwSTZKWVBULUhzdHBZdTdJS0tReVFzZGJycWo1N3AwRmpmMThBSFJFZ3FqYjNqblpPTWxoT05McUJfSWEyUQ?oc=5"
+  },
+  {
+   "ts": "2026-08-22T13:30:17+00:00",
+   "title": "Horse-Drawn Transit",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmRTBaSUJIdkc0czlhcW9Wa1JWWWVzcFNYbWF2QzJCTXExNjkzemxlXzdKbExPcV9GMjJUaml5ZlZfX0x2a1J3cEJpeVhKX2pRbEN2VFY5OEhvOGFsRk9jSG1KWlhnMXBuWV93elZaYw?oc=5"
+  },
   {
    "ts": "2026-08-22T13:00:24+00:00",
    "title": "Yangon United continue signing new players",
@@ -2102,55 +2151,6 @@
    "source": "Myanmar Now (MM)",
    "markets": [],
    "url": "https://myanmar-now.org/mm/news/80546/"
-  },
-  {
-   "ts": "2026-08-20T09:00:22+00:00",
-   "title": "မြန်မာတွင် မြှုပ်နှံထားသည့်စီမံကိန်းများတွင် အရင်းကျေသည့် ကာလအထိ အစုရှယ်ယာများပိုင်ခွင့် ရုရှားတောင်း",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/80552/"
-  },
-  {
-   "ts": "2026-08-20T08:30:22+00:00",
-   "title": "Myanmar Junta Denies Daw Aung San Suu Kyi Is Dead – Without Offering Proof",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbm0xZGgxNzZMRFdybV94ZXhNNS1wRGszMG41eUVWbGVfMmlscHNMeVA2b2I4R1lBa2xHdHA3ZE9fREIxR0tnNzIzS2ZVM2FOTEZYLXdrcVpKZzh0MzEzZGo1ZHRlU3IxN29RZ3dHRnNiM0xrUC1MMnBxZS1adGlSaDFseFhPdmYzcnMzOFFuQTNFR01KZVEyVkVwQkphTXRnVXpKYURlSnNQTXpLbTh4ZjY1NEg?oc=5"
-  },
-  {
-   "ts": "2026-08-20T08:30:20+00:00",
-   "title": "မြိုင် ရေနံမှော်အနီး ရောက်နေသည့် စစ်တပ်နှင့် တော်လှန်ရေးတပ်များ တိုက်ပွဲဖြစ်နေ",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/80540/"
-  },
-  {
-   "ts": "2026-08-20T08:30:20+00:00",
-   "title": "Myanmar junta chief’s family used privileged status to secure ‘special number’ passports",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/myanmar-junta-chiefs-family-used-privileged-status-to-secure-special-number-passports/"
-  },
-  {
-   "ts": "2026-08-20T07:00:22+00:00",
-   "title": "Public health talk promotes diabetes prevention and effective management",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaEwtbU1ySWVpeENsZ3JDNDNsUmJzMUYyVVYyUEVCeTB3dlVmRHpQNjVRLTQxSFhqS2VlajRJVXl6aUdEUEhWR1B6MDdHYzZ0NGl0c1VmOXcxTUFVdTUyT1ZCb2sycUdLRURTRF9MV2dETmpJVEhCUllXcU9MUnV6ZUVCbkVreFBYdmpRZmk0SUtobFRFZy16RzhfZmtOZw?oc=5"
-  },
-  {
-   "ts": "2026-08-20T06:30:23+00:00",
-   "title": "Chairman of State Administration Council Prime Minister Senior General Min Aung Hlaing cordially meets Chairman of Interfaith Friendship Organization (Central) and executives, presents foodstuffs",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ1FhQTlGZ1Y4MnFmbUNfM0NJTnlGY1hVS3prTk11MmxLUHdUNUdlOVp5WEh5cUxFWkw0ZzdaWk10dW42Q29ZaUpsTzExaWo0bzZraWJsNHJmNXZIVUx4cm5Xa3lxcFhYQkxMZGVtVEtGVVltMjhWU1ZSaHllNE1YUnd2S1piaTVZRFY1TDIzX3ZkT3pxdXRzamc5cG0xZXlxVzl0TDI1TkliSjJNYU9VcF8xSnl2T2ZyalNlbWp3Q1ZZSFJ3cmpueHBTOTl4Yl8yTUE?oc=5"
-  },
-  {
-   "ts": "2026-08-20T06:30:23+00:00",
-   "title": "Vice President Daw Nan Ni Ni Aye addresses Central Committee Meeting on Intellectual Property Rights",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTDRoelNXU2RndjlCWUlfbUFLaWN6bk1IYUdoUEdkM1BxYWdNTTlsZnpJWldKWElSYUN5NG1relRzRHE1WkpDcXhCMTdRUVB5SmU2ZE9MTk9kdHBLTVNRaHRhazRodG9kOUdLd280S0RzMDlGeTA5ZzhxZ3VDdEc0QXhpV1NJb0kxX2xTc3U1REFXbWd3UFVvc082X2llV2NmMmxxdER1VnJFRkVadDUyb3dPOFJMOVdScktNR3c1SUFRS1U3bThGckxiZFJ3T00?oc=5"
   }
  ]
 }
