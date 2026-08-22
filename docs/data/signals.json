@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-08-22T04:30:19+00:00",
+ "generated_at": "2026-08-22T05:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-08-22T05:00:21+00:00",
+   "title": "Myanmar joins 14th ASEAN Ministerial Meeting on Youth and related meetings",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSGpGcHMwN2J4d2J4bzVTd1ZLMmlpV29lZGlPZHJHME9ENXRKZGhUSElOVjZ5ckxKdFlVYVhLLTJ2QW1zaXZ3NVBhOG5HZXdiYWhxYkZlYlVNWlZTRExRM0Jub2xyOVdueFJSTklKYWFsb0dSczJNX3A2NXdlZVU3eTRoYVRVX2U3djJTSXRFOUIyUnlEZkF1dnRjZHdTbUpQ?oc=5"
+  },
+  {
+   "ts": "2026-08-22T05:00:20+00:00",
+   "title": "Access Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40NFdYNkExd3JCOXVnV0dyMTlIMnhaS0E5Q0lvVkc4SXI4UDFoaGphZDhzbDZudklxVzZibzg1S3p6U3Q1QWp2S3NuU044SUk?oc=5"
+  },
   {
    "ts": "2026-08-22T04:30:19+00:00",
    "title": "Commander-in-Chief of Defence Services General Ye Win Oo meets and delivers remarks to staff of the Myanmar Military Attaché Office in Thailand and trainees",
@@ -2137,20 +2151,6 @@
    "source": "Khit Thit",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE80MklzSV9JTzYwOXdReDktb3EtN1RGT190MVZSel8tRTRNQ240MDNFYWdVUFRPcUhiNHdYVzBzUmg5YXFJU0cwd0JpUQ?oc=5"
-  },
-  {
-   "ts": "2026-08-19T11:30:21+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5NSGo5bFhpaDRrLUJCeXViMTE4QkdfVldOVE5GS2FSZEIxS0phQy1rQm44MG82Ty1HcTcycF9mOHFqMmY3Ym1sT196aw?oc=5"
-  },
-  {
-   "ts": "2026-08-19T11:30:21+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBLaUpaUmctY3A0alZKT3J5S2ozbmNmX3dBRVVUTjE3cms2cmk2MThLYUJEVEtaOUt6LTUwMXFOMnV3RnRvdXN4NzJZVQ?oc=5"
   }
  ]
 }
