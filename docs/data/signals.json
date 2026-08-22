@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-08-22T06:00:25+00:00",
+ "generated_at": "2026-08-22T06:30:26+00:00",
  "signals": [
+  {
+   "ts": "2026-08-22T06:30:24+00:00",
+   "title": "22 August 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8yTWR5Ml9uMVRJQnlCYUJvd05wbjNPb245NHdtdFJkWUVOWkxTRFpUYU9hRmp2UTk4b1k2V0hEd1BUb3BQM2ViVG14SUppaEdE?oc=5"
+  },
+  {
+   "ts": "2026-08-22T06:30:18+00:00",
+   "title": "ဦးသော်ကောင်း - ၃၂ နှစ်နဲ့ ဗဟိုစာကြည့်တိုက်မှူး ဖြစ်ခဲ့သူ ဖူကူအိုကာဆုရှင်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c2lqrnjrlxwo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-08-22T05:00:21+00:00",
    "title": "Myanmar joins 14th ASEAN Ministerial Meeting on Youth and related meetings",
@@ -2137,20 +2151,6 @@
    "source": "Frontier Myanmar",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVi13dFkxZ2tIc1ZjTTdMNGJXWHV2VC1hWjE5MngtUUZTd2ltZ2dHU25IVk11eExxUnl5X1dYTGQyb3k1cEppQ1VTd3ZzbmNCeUxlVnloUFowLXdwd2tqWkZfWmdpQ1RZR3pWcTFrWE51VzVtYmJKQmxOdkVXU3g3ZHJOa3NKWGs3b2FoN3NLYkZvcWw4ZnFmUG5FNDR2dWZDVlE?oc=5"
-  },
-  {
-   "ts": "2026-08-19T11:30:21+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9PQWdobGczV0pjZXVLREFHamdKamotaEJyNzE0eENzb0xmbUgyWURqWnd4anZTX21EOGxEU0dBTGxLOGJZQUpGV0J2SQ?oc=5"
-  },
-  {
-   "ts": "2026-08-19T11:30:21+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE80MklzSV9JTzYwOXdReDktb3EtN1RGT190MVZSel8tRTRNQ240MDNFYWdVUFRPcUhiNHdYVzBzUmg5YXFJU0cwd0JpUQ?oc=5"
   }
  ]
 }
