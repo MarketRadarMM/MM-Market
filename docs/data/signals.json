@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-22T19:00:21+00:00",
+ "generated_at": "2026-08-22T19:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-08-22T19:30:20+00:00",
+   "title": "Village project funds disbursed in Sinbaungwe",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBfdm0yNkNWcWRFRHRlaTVNa04tb2tlNlB3NkFQMlBPaE8xN2lodzExbndSWWlqLVUtWGx3dkZMMWItRklvM0hKNDRLMEtUbm9LdkxhNXBPdkJFZ19kb1N5eWRuTFBPUnRla2JZcEdSeWlheHEzOThWR3pn?oc=5"
+  },
   {
    "ts": "2026-08-22T18:30:22+00:00",
    "title": "State Administration Council Chairman Prime Minister of the State Senior General Min Aung Hlaing delivers address at meeting 2/2021 of Provisional Government of the republic of the Union of Myanmar",
@@ -2144,13 +2151,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/cvgjy627906o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-08-20T15:00:20+00:00",
-   "title": "GenZ တွေ သောကဖြေဖို့ အရက်အစား စပ်ဆေးတွေကို ရွေးလာကြပြီလား",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cly5exdn7rno?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
