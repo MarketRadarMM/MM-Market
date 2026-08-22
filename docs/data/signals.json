@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-22T20:30:20+00:00",
+ "generated_at": "2026-08-22T21:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-08-22T21:00:22+00:00",
+   "title": "Chairman of the Financial Commission Acting President of the Republic of the Union of Myanmar",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPME85ZGgwSkNYY09DUlpjZVBZbDVWRG56Vno5am8zdTJyZ1FPdEg2VVkwSWx5T1JDZkJnUzVoN3NmQ2tGLWRBbm9LVGlPV3UtTUhyQW90QW96RllUR0QxR084MzdoVkpCck9ucHJ0ekRjTzVJMzVjNDFDRWQ0ZTlVN09lWjlBdkd4VHJrNmprUlM0aE9rTW1VMXc0OGQ?oc=5"
+  },
   {
    "ts": "2026-08-22T20:30:19+00:00",
    "title": "State Government pledges aid for Thingan Nyinaung conflict victims",
@@ -2131,13 +2138,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OMWtPN0Z3ZE8zenhhTUFkS0FSdVpYSjlFZHJpNDVRMHQxRktRMS1iLXVSRDNEUUtiTnUxUHo5c1JBZ04zNlUxTTNoUURncU12LVBweUhRcTFXZmt4Q2dmRHhQR2xXVzZVMjJiMGJR?oc=5"
-  },
-  {
-   "ts": "2026-08-20T20:30:20+00:00",
-   "title": "COVID-19 Pandemic",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtdk1CNXJVYUZCS3dELWxpQWY4NFlwX3pqNVdaMzJrbjB4WHVxX0kyR3BzX2F3RWhMWk5ZYmZQclNlSjlHNHp5aC1fWk1GVXR3WDc0dG5XemlIMGFsQTMxYWhfVGRRZHNJZXFjbWZNOA?oc=5"
   }
  ]
 }
