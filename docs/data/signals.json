@@ -1,6 +1,60 @@
 {
- "generated_at": "2026-08-21T23:30:22+00:00",
+ "generated_at": "2026-08-22T00:00:26+00:00",
  "signals": [
+  {
+   "ts": "2026-08-22T00:00:25+00:00",
+   "title": "AML/CFT/CPF Training opens for legal professionals",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYU5WOWV0ckdlQjk0NS1nZWZCY29qd0xadjNmR3IxdHpXdVNlNEJhNGNlNjc0RV9xcW9obXNPMGRlb3U3N3Q0RG1zNk1LZmpFX1hob284NnpUREdjdGkzVkxDQk1VM25iTk5Cck1HVWFEWkxweEI3dTVSSHNsOXNneQ?oc=5"
+  },
+  {
+   "ts": "2026-08-22T00:00:25+00:00",
+   "title": "Bank erosion control works underway near Myanaung embankment",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM3pHQl8xTFB0bHhtNGlpTlNRM1k5TFFvTU92bjBJVElwMFo2OFNvQlBwOUVNaFZpS0NZYnBnZG5KWE1ySV9zTVo2T0pic2NLdzhqei1CaS1vb2xMclVRYkR0Q3RubkoxdmlRWlo1RUwwLTdycURISEJLZnE5YVFJbWgyYXJwWVlSdmZCR1JB?oc=5"
+  },
+  {
+   "ts": "2026-08-22T00:00:25+00:00",
+   "title": "Pindaya’s MSY village project loans disbursed",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oYV9OdW9hdVB1ZVktd0laaTZGa1kzbU9KWlRPbW9RVDJSOVhUdEdTUzduU2d5Q05vWThxMno2X3pCY2NMV2RMa3JyMFdieXJBQ0pJaEZBQmliQ04xdFpwMExBb0NUY0xDOWNXVDJZNUwwRFBuajhnbA?oc=5"
+  },
+  {
+   "ts": "2026-08-22T00:00:23+00:00",
+   "title": "Myanmar-China border trade hits US$280M in one month",
+   "source": "GNLM",
+   "markets": [
+    {
+     "market": "pulses",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "China border trade affects bean flows"
+    },
+    {
+     "market": "rice",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "Border status affects rice exports"
+    },
+    {
+     "market": "fuel",
+     "direction": "neutral",
+     "confidence": 0.45,
+     "rationale": "Border routes also carry imported goods"
+    }
+   ],
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYVMwOGQ3WHBOZHBjbkg5THJnMkRkVG8zakNiNFZETTRwT0lQUHNrWUhad0ZDY0dpQ01UTkkzN1RpNU9vMTM1SURrTVo0TVpTbmFLY0FqVi1SelBVZVJfNTlkRFZiWTNhT2Z0emp5QU1tYkt3M293X0dvb0ZzaHRCNUVR?oc=5"
+  },
+  {
+   "ts": "2026-08-22T00:00:23+00:00",
+   "title": "The fading hopes of Myanmar’s university students",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ2t2S3JSSnllT0E4bDhiV1hweS1ENS1JRUtXbUZPZUU3eVgtNERZYlA2SDNEZWRfVExiZFE0ZjJGWlhmRlhaeV9id2xKMHBKbjk4OVFBMG81M21MX2swNV94OXM0RC1FSWU1cFJjWE9Ob1h2bVg0WkFZMm0zak16WWVqT01naG5pMkk2dw?oc=5"
+  },
   {
    "ts": "2026-08-21T23:30:21+00:00",
    "title": "Thai Chief of Defence Forces hosts dinner for Myanmar Tatmadaw delegation",
@@ -2117,41 +2171,6 @@
     }
    ],
    "url": "https://myanmar-now.org/mm/news/80512/"
-  },
-  {
-   "ts": "2026-08-19T08:30:20+00:00",
-   "title": "Judge Promises Open, Independent Trial in Child Rape Case",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRVRMNUt3LVRabXo0MkI1TFBIVFdTbUZQSHNZYWk2dV9XSFppQlpNSXBOaTg4YkFZTkpETExUUWpuY3l0U3lIZzBtY2x5ZG5NR0QzU1cyRFJkSDktN3RhUjR6T01NUFN4NEM2UkpwekxmaXV2RVF3amwtU3JPejhtVmFocWRCNFZGVEVZX0o2VVo2d1BRUXdiaWx4TE8wVjg?oc=5"
-  },
-  {
-   "ts": "2026-08-19T08:30:20+00:00",
-   "title": "2025 Deadliest Year for Children in Myanmar Since Coup: UN",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRmk2dXFzRUoxNUJTYkwxN3F0eGQ4blBnblBXWXFXUlpvb3ZSZE9TOEpHZlJ0Yjc5dDBQVmVlanM1YzFjQ2VvUmY4WnRzSXc2MkVuYkZZSFVUSDBrcnNYMkhvS3FyRm9pNEVUb2ZNbVNTQTkwRlJlMlBKamNiMTdLSTN6Q3pXWWlMUS1DQk9nRkJvbE1fUlVlMnkwenFGV0hQcXBVNm9scUFnRWxPRDZmTUdPeHpJRjMwa2Fv?oc=5"
-  },
-  {
-   "ts": "2026-08-19T08:30:20+00:00",
-   "title": "Why So Many Young People Work Voluntarily in Myanmar’s Scam Compounds",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdUEtbklWME80WXQzdnF1dDJ6dmZ0NlhHaWtyakF5NjZjTUxJVlRSN1pRZ3Q4ZXJ6ZWlJX0VkaTNaVHF6Ql9sR0dmZVdwaEhkSFFMdkJPbVAyOC05bkhxb3BaaFY1WDNOa0lmNWZRN2gtaG9HaUQ3a0NxMG9tUkVFQXhnUGllZmdYcUpYZm84UEYwcVpEOU1yemY5MHpUMmZHZHFsVUhVWWJ6Tmpm?oc=5"
-  },
-  {
-   "ts": "2026-08-19T08:30:20+00:00",
-   "title": "Myanmar Junta Pounds Thai Border to Secure Trade Routes for New Regime",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORl9BSHNvaTVxVUYzZ1E4M0YyTDk5anYyUXE1QXZrNVJNLU9hc0xyWkp2X0tOcWEweTN3TXBwQlY5dHE1enJPTG1jTy1jaEF4cWZJYmVyb3BYa2xpZUF4RlVUcTNiRWozYzJBYm1vZWRUbzhRNlZuOXZzLV91SFFlWDhuTFRVdUlsNUt6TWxZdDBzMkNGWmZjbWQ2UWZacGhPRmlGUHFMMlJjbS1uU0JOY1h3?oc=5"
-  },
-  {
-   "ts": "2026-08-19T08:30:20+00:00",
-   "title": "On Leadership and Power in Myanmar",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSVFTYmRad0oyLVY2QlZVUW9adjJDc002UVNqbl8yMkpFX1FtUkJNenpCYTRnU2k0dUJma21HQlFIZU5NQ1ZmLTA4NGlRV3RwV252N2dneGxSNTJNUmtpWWV6UExCSDg5N2NFN0QwVGxVbm9kQTdTbFdhbi1JVXJXWHdDT0VJVUVuaG9BRg?oc=5"
   }
  ]
 }
