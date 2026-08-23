@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-23T11:30:20+00:00",
+ "generated_at": "2026-08-23T12:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-08-23T12:00:21+00:00",
+   "title": "KBZ users struggle under junta surveillance",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeGhRNl9FZnhMZmJoSk9fd00xM1BCMVBDM29HNG1PZVZxd2YzTG9tTE1DM043MmRFdVVoWG9JdVV2UmNKY0FnSmlra2lvWkM4dkFXZUhvZXh3RTl5UGh6YzRnTGNNdnk1RHdxNHNjMkZFeWhRUWl2UFhaTHFoek5ZOWxLbTFXQQ?oc=5"
+  },
   {
    "ts": "2026-08-23T11:30:18+00:00",
    "title": "နဂါး ဒေါ်ဦး Archives",
@@ -2119,13 +2126,6 @@
     }
    ],
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYVMwOGQ3WHBOZHBjbkg5THJnMkRkVG8zakNiNFZETTRwT0lQUHNrWUhad0ZDY0dpQ01UTkkzN1RpNU9vMTM1SURrTVo0TVpTbmFLY0FqVi1SelBVZVJfNTlkRFZiWTNhT2Z0emp5QU1tYkt3M293X0dvb0ZzaHRCNUVR?oc=5"
-  },
-  {
-   "ts": "2026-08-22T00:00:23+00:00",
-   "title": "The fading hopes of Myanmar’s university students",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ2t2S3JSSnllT0E4bDhiV1hweS1ENS1JRUtXbUZPZUU3eVgtNERZYlA2SDNEZWRfVExiZFE0ZjJGWlhmRlhaeV9id2xKMHBKbjk4OVFBMG81M21MX2swNV94OXM0RC1FSWU1cFJjWE9Ob1h2bVg0WkFZMm0zak16WWVqT01naG5pMkk2dw?oc=5"
   }
  ]
 }
