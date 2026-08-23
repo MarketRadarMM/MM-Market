@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-08-23T16:00:27+00:00",
+ "generated_at": "2026-08-23T16:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-08-23T16:30:17+00:00",
+   "title": "လျှောက် Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUjFpMFdhUVNfM2VBLURhLThCLUs1T3FJOHctQTFjQm5rb0F6RUljanFBNkxvbnI0Yk1pX2tabXdVdXRMaGRVWThjbmN6SUd4YXJ4QlJyS1dWeDYxSFlvRkpFUW95UG9pcC03bHN3NFUxMWo5d3puOFVmSC1hdUJ2Y3oxSFhXRFI5aFJNN1lCdTlDajJUMTVvc0lFUQ?oc=5"
+  },
+  {
+   "ts": "2026-08-23T16:30:17+00:00",
+   "title": "Horse-Drawn Transit",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91Z3psR1BZbGdfd1JoUkdFWGJRRVpaalFJdGwyMGtBRlVZWGNaVGZsNVp3WjFfZEpZeWtTRzRCamZWSkptNFY5NjlNWHFINmJyeEM0Z1UtSlJ6Ry1KdjJ1M1Z2aHNVSnE2QWtuZW1B?oc=5"
+  },
+  {
+   "ts": "2026-08-23T16:30:17+00:00",
+   "title": "Disinfection",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84SEgxSVgxMlA4Ry1RNFFnckdEMTZxTE04UWE1eFl2TEp3d0wyTEhrT25rMk9GaGpyTHlSSEVtQ0tHVHpoZl9xd1ByR0c1c2NreGFBZjY0cE9BakFtMnhsZzVQdlVycEszUHBQVXlQUQ?oc=5"
+  },
   {
    "ts": "2026-08-23T16:00:25+00:00",
    "title": "72nd Years Anniversary of Myanmar Navy",
@@ -2086,27 +2107,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTXpiUHNycW1JWXVXN1VnWFhqNkpnRkhYVm9JNjN1X01TanltWC15NW9GMFN4cHNUQzJCa1JzRVd0SFM2a1cwYnFXT0ZxOUtmSWNHeDAzdXppbmlDYnB0TXh3cmNFSTZMNHJRWnFmREFrNVFSWGhIQm9sUGVSVXZFcUhqeWp4SjNFRXViRGpxNWpSLTZZY1NZbVZDbkxWMl81RVM3aFZlaEhmdzJHVlVoY2hoQ0llaEZ4bXc?oc=5"
-  },
-  {
-   "ts": "2026-08-22T07:00:22+00:00",
-   "title": "Joint statements and mutual remarks made by President of the Republic of the Union of Myanmar U Min Aung Hlaing and President of the Republic of Belarus Mr. Aleksandr Lukashenko during their meeting with the media",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQblhyMFFGM2VJNm1KRFpraTJUVU55Ykhlbkt5Ri1CVDhBR0NtQ2hwSXNWci1fcHcyNy1sNkZuaVFzenNiTzYyV1hnMVVfSkdUazVNaXl3R093NnBDLVllbzNmNmp2LTBDUkxGaHRiTm1JaDVzNU1ueV8yV2hOdjlwV3RsZEJmcUpSUHFrUEk5WnJWMnlmR0E5V0wxaGFuRzIzc2Qwa25jcEdnRk1zOF9wRlR4Y1JSWmJjRFE?oc=5"
-  },
-  {
-   "ts": "2026-08-22T07:00:22+00:00",
-   "title": "Vice President Daw Nan Ni Ni Aye inspects National University of Arts and Culture (Mandalay)",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcmNSUG52ZUJIdzQtc0o5ZE1iNlhnRFAtU0dZM1UwMXA5VFJVZWhIXzA4VktuSy1aVTI2ajlEOUNKTWZhWmNycmVFZ2ltanlRampIQklvU19uRmJac3FYTXFOSF8wQ2txTURlWFRyVEdsbmNLbGphemFqMEc5OG5tYWpENENTdE4taDZfRHFUTEhrTENJZUc1M0x0NzhXdEg3RVIzanlhOU1XSWpaeWlr?oc=5"
-  },
-  {
-   "ts": "2026-08-22T07:00:22+00:00",
-   "title": "Vice President U Nyo Saw attends first meeting of National Land Use Council, delivers speech",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQay0xd0lIMFFmSlJKNkpaRHkxSDRNQV9ncHBkNnlmTG1CZ2kzSm5TMkR5UlJpZ0RDT2Zza1RMSWNBa0VyMVMxaV8wSEF3cHJpVXNVcE1ISm1YUVl1VnRsMEJXWEZCalJaNG5kcElhY0lDY0otQ19tblp2ZjdMUzk5RnIxR053SjBLU3dPdXFBN2QxVUFXRjJSTS1qSy1sLVJDa2lBbHBORTNxcmU3UlBUR3BRR1VQZw?oc=5"
   }
  ]
 }
