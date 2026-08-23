@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-08-23T13:00:23+00:00",
+ "generated_at": "2026-08-23T13:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-08-23T13:30:19+00:00",
+   "title": "ဘဝခရီး Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOEUwV3hhRkpwYjJ6X2U0anBFTkVLS1FJTy1MelRxOUxOZzRObzgyR0Znb2gzby12SE9GVGxlSE8ydEhBWDZvcU5LVGl6YzJpVEZtV0k2OGsxRmRaYjJiYjdPZjJGY1dpaXU3UkIwekpRWGZzSWVFVmVoWnM3NldDQUdVdVo5RHNwUEJFbzlROA?oc=5"
+  },
+  {
+   "ts": "2026-08-23T13:30:19+00:00",
+   "title": "Yangon University Book Festival",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92VW1KeE02ZG05QUtCVUlIX1U4S0lPa3hhV21ZTFZmdzM3enJQeVVEZGFOZ0cySXVOd0lYMTdlUFUxT1N3aVFEczU5SUE5anljQ1NtUDhvVVp6T2ZkVnVaSmluY1JMZFFfZi1KVVY3aw?oc=5"
+  },
+  {
+   "ts": "2026-08-23T13:30:19+00:00",
+   "title": "Arakan Advisory Commission Chairman Kofi Annan Press",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGTlRENVBtWTM1bTNXMDFqVWZjYW81T0xEYkg2bEZ2VjNiVmFBeWhVMEFSeXZJTUtLSG1ZREFBX2hiaUdsR2NVbjBFYWhtTXRsVG5hdTdLX2FCcWtxakJSSTVVUmpfLVlxR2RrcVI1Tjg?oc=5"
+  },
   {
    "ts": "2026-08-23T13:00:21+00:00",
    "title": "သဟိဂ်မြို့ Archives",
@@ -2086,27 +2107,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaTdHZTJkbDA3OUVxUE1wVjU1bl91TS1HRTJOM0RMNFpMelR1S252Y21HR1dMYkxCdE5taWJtaFZzWDRsWjFra1FmeWhoWkJMdXF2dDFoamVyN3lnTkRqQW52aHVWcUUxWVEyRGFoeWd3RWRZZUdma1JPdHRDQWxyQTliNzNKSTRmdmtvYVp1ajZSRkItM1FGNEZYVDhqV3JqbHFMdGJnYy05emN5RmJ5UFh4NWZ3aGZSaHZYNWpHal9KUVls?oc=5"
-  },
-  {
-   "ts": "2026-08-22T04:30:17+00:00",
-   "title": "ဒိုး Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPVlNZMC1YUkdpbzV1djNkX3NLN3JSSzFkN3hsaVp4aGZnbjVQZWlIRFBBVTNBYzc4bUpNeVBFUHpwaWhTQ2VwcGJsa3h2UUNWUnVxMG9fcmRZM3lhVF9JbXNldXVfVTlHc2h0NTNUU0ZPQmN1TG9Z?oc=5"
-  },
-  {
-   "ts": "2026-08-22T04:01:59+00:00",
-   "title": "Cyclone Mocha death toll rises to 29 in Myanmar",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX0o2VGJPelZTR0pBdGJXaVZsRngtdGpVNWR5SUZmWU1pUmJYaU5OLW9JcEdxc0gzbzI2bm9PZHZMZ3ZzUjlaeVV1NHJiV0pWdWhRTU1ZQjVXdnhMa080Zl9McjlQNHY1MEI0blZTSW1ZVkZWbjRmU3FtbE5OR1Z1VDZrblN4UGMzczBR?oc=5"
-  },
-  {
-   "ts": "2026-08-22T04:01:59+00:00",
-   "title": "Sexual violence in the fog of war",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1uR3RDOWRkbV96RzgwLWUzOEdDOGowVVF1MWhLMlo5Y3lZR196R3VFU2gwRmRfdlVOTXNHbzZ3TllsV2dadEVHQUpNY1BrZzBCR0tjcGZSVkNrY2I2MUlCUWJseEZNMl9DM1ozbjNvOU1JSk1ka1FrSQ?oc=5"
   }
  ]
 }
