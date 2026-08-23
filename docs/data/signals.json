@@ -1,6 +1,34 @@
 {
- "generated_at": "2026-08-23T06:00:22+00:00",
+ "generated_at": "2026-08-23T06:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-08-23T06:30:20+00:00",
+   "title": "SAC Chairman Prime Minister Senior General Min Aung Hlaing addresses the SAC meeting",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdFliYWxaaGpMYWJieHhSbU5XdjJhNVk1WHBQZjdvdWNuOC1KbjI0ZzNad1lib0tKMzMtX3YyVjlpTG1rLTFjc2xKV2VobDBack1leG5vanFVM3RUakJMS3dzQ0cwM18xWUt0X3dtaW5MMUdEeVlZYks3UEJFMGxVUnRaaFN1a0pCaEZDSGNMeHZrbno5Z3lTNGY3cVViVHlrbXRaMnM5QjFWTGc?oc=5"
+  },
+  {
+   "ts": "2026-08-23T06:30:20+00:00",
+   "title": "Vice President Daw Nan Ni Ni Aye attends and delivers remarks at the opening ceremony of the 2026 Myanmar Traditional Food Competition and Exhibition (Mandalay)",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQUI1OGtMYUI1dWhTTkprWnhKSUs2RUxZbUo5OHNzcF9JYkhrQTdobUt1U19LeWJURGdidFotYzNldmZHdnRkalljNVA4NXlpR2NrSGxtaFFtNkNfYzd5VldGUk55UHJCZUVMZkNaaUNvWXZFU250d0VtSGNBQVBzR0tWTHVaVG1YT1pHUlFaTUgtYVAzb0N3T3JEanhXaHR2ei1DQWtWY0duMzZwNXNydkNIckJfOVZXYXc?oc=5"
+  },
+  {
+   "ts": "2026-08-23T06:30:20+00:00",
+   "title": "President U Min Aung Hlaing meets Myanmar Embassy staff and trainees in Republic of Belarus",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNEFERTI0NHVxMGl6TkRpM1BUa3V4TmZOdVI2ZV9IOVVwTjl4d1NPbWZWWWYyazBNcEZjeFlPN0pnUEZneWxDcGhqaGY5endFbi1ENzBoQmJlTEVuaXRtRFREV3NYSEZTaUpPNmJhWHNpQkdWY3FWaUc3dmZ2RmI1TVYyQmJoYUhudWdnbTRBLXVycEdtbHk5V1BJX3dnS0xLUm9VV2g2Z0V4NzFE?oc=5"
+  },
+  {
+   "ts": "2026-08-23T06:30:19+00:00",
+   "title": "President U Min Aung Hlaing leaves Russian Federation for Republic of Belarus",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV2hJNnZOOFJGc0ZxOUxBMEVIMGJ2Mm9rT0IzTmo3a3ZOZ3FIalpHWjFxQXhJWG5PUm5jeXdwZ1pzSkZnblRPV0NDYU5uRWwzS3liamM2cXVRN3hKLXh6aDJmV2FUZzVQRGNDaHhvMVBkVi1lYzM1eEZOMk95M3pJa29RN1luRTByMWpXa3N1aE9uemMyV2VnZFhmVUVzd0VYY3JqTA?oc=5"
+  },
   {
    "ts": "2026-08-23T05:30:17+00:00",
    "title": "Headquarters of now defunct Communist Party of Burma",
@@ -2098,34 +2126,6 @@
    "source": "Khit Thit",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCdFFaMFduQ0VTQ1ZBSzNURTRiNUt4WERBTWQyZVo0cXdXYVV2RmFuMGRubDJ5VTFfUEJEWWxKS1pmbjJYM3laMi1Kbw?oc=5"
-  },
-  {
-   "ts": "2026-08-21T14:00:21+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKRm1ZOG5JTGNGQ3JxajNJTG5BVWM3SHBaNGUxRnQ5NEs5c0pBMFV5XzBMWWZmczJBSHZiVTBSY3V3Zy1Nb0lDdktDNA?oc=5"
-  },
-  {
-   "ts": "2026-08-21T14:00:21+00:00",
-   "title": "Antivenom Stocked at Flood Relief Camps",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtTldFSHlYV3d1djVqNU9Zb2FsUWZ5OVBsYjE3QXJMWTB6Y3BEam5ETzl2Mkx6Y1l6TnY0RkphUnlnVkJXbzZtdTJGVGZRbjM1b0tsNWxmMWY1a1RBV0RNdlJSQlNLdFZPcFAwUm84N2Z2MHdCSnc?oc=5"
-  },
-  {
-   "ts": "2026-08-21T14:00:20+00:00",
-   "title": "COVID-19 Pandemic",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13Yk5nN1ZoRDEtbnBYX0VvRmJ1WEZpSUUzRVQwWURYb0hkSFVqRm51VzJ6Nzd1cW1hSTZCZ3ZqVmczWEZTalVVb3RPVHlwaThPWkRrMDBWMHNVbUplMnJ3Zm9UdDFJTlNLcHdheTQ4UQ?oc=5"
-  },
-  {
-   "ts": "2026-08-21T13:00:23+00:00",
-   "title": "ထီဆုကြီး Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPblRfMzh0M2dwaWlCU1V3cTRlMkRHVWtiVmhNdElXTGVJakFDRUcxV3EwUnZwb1N3YVFJbS1aN3dGMXpuekVydy0xMHU4VEdOejRJZEdmQWo2Q05hYkpWaVlTUXJYSTBTb2wwanhkXzZvM1ZKZ2pCRXh1YWp4amE1WE5uZl94V29HQnFZVklVR3JUc2ZBWlNMVE82bjROMEJfQV9rS3NtRQ?oc=5"
   }
  ]
 }
