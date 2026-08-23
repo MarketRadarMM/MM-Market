@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-08-23T05:00:23+00:00",
+ "generated_at": "2026-08-23T05:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-08-23T05:30:17+00:00",
+   "title": "Headquarters of now defunct Communist Party of Burma",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WN2F6VEo3cVdpVDRYSzY2YXJRRlZGY0lwUjctOTYzeE5TSjFDajRSdXItX01CZjM5NDJwNlo3Yzh3cVdCaHVubjZCOTJ6dXJZUFgtUVlIYVhzOHR6cnl2MjJFR0Nta0VkOGhSelZn?oc=5"
+  },
+  {
+   "ts": "2026-08-23T05:30:17+00:00",
+   "title": "Aung San Suu Kyi visits Kaw-Hmu township",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SSkEtdzI3YUZSNzY3ZXpRdlctN1IwZ3VwdkI2WldqR0ozR2dyM0oyZVk4eFZnQi1ialJlTV8yM0NzWEpvVi1xR2VLclhTTGs5N0NLdVozRS1ad05rbk9QWTVPa2JpUngtUlVaM0ZTUQ?oc=5"
+  },
+  {
+   "ts": "2026-08-23T05:30:17+00:00",
+   "title": "Disinfection",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfa2RIc3lJQWVuRGtlRjc5MkdkWHl5OGdaRlE0Z1Q1N2RzZlI5d0JVSjJrdGlkU0xISkVMVkJtT29yUTZ1SHZWdG5sQlhvMW5YMjltdWZQLWd4eVRCNHB5QXdmZDB1UjNnUUp5Qk5hSQ?oc=5"
+  },
   {
    "ts": "2026-08-23T05:00:21+00:00",
    "title": "Edotco Archives",
@@ -2105,27 +2126,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPblRfMzh0M2dwaWlCU1V3cTRlMkRHVWtiVmhNdElXTGVJakFDRUcxV3EwUnZwb1N3YVFJbS1aN3dGMXpuekVydy0xMHU4VEdOejRJZEdmQWo2Q05hYkpWaVlTUXJYSTBTb2wwanhkXzZvM1ZKZ2pCRXh1YWp4amE1WE5uZl94V29HQnFZVklVR3JUc2ZBWlNMVE82bjROMEJfQV9rS3NtRQ?oc=5"
-  },
-  {
-   "ts": "2026-08-21T13:00:23+00:00",
-   "title": "Keith Flint Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GYXFrWHZta2dPRzlJVmZGbWhidTZFWWdMQ0dNbjhKdzlzUkxpY0R3dWN3R1NpVmdKaWpHYzNkT09jdFVrSmpfRlFXQnh6a1VldU5RSm5B?oc=5"
-  },
-  {
-   "ts": "2026-08-21T13:00:23+00:00",
-   "title": "KBZ Bank Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GYkJlQkdTa3UyYThwV0hBTDA0TGVNM2g0N1lPN3lTUlhBZHZ6ci16QlhuTU82aWI4QkZBOHd4bkJybktIa3E0ZXBTMVVieUlseFE?oc=5"
-  },
-  {
-   "ts": "2026-08-21T13:00:23+00:00",
-   "title": "Border Fighting Tops Agenda at Annual Thai-Myanmar Military Talks",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaWdYU0FmQ200S3BBajJzckRQWWJvMktWWnBmNG9xbnFiWHpaSUo4V1BoYzdkcERzaEtNd0ROeHQzXzQzRnVqN3NRcU1TWUwwbEg0OUY3Q0F6ZHJyUWVnVmJRV3NQN1BEa3N5XzdXTkw1eUFDN2VaNEhWdEt5U09idld1UzUzSDVhd2FoV3NNanNnOHRvMHJzVXpIZ211d2lfZWpTUzNhYTl2TG9lSVY4?oc=5"
   }
  ]
 }
