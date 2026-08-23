@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-23T03:00:19+00:00",
+ "generated_at": "2026-08-23T03:30:56+00:00",
  "signals": [
+  {
+   "ts": "2026-08-23T03:30:15+00:00",
+   "title": "GenZ တွေ သောကဖြေဖို့ အရက်အစား စပ်ဆေးတွေကို ရွေးလာကြပြီလား",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cly5exdn7rno?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-08-23T03:00:15+00:00",
    "title": "သြဂုတ် ၂၃ ရက်သတင်းများအနှစ်ချုပ် - စစ်တပ်က ငပလီမြို့ကို ၁ နာရီအတွင်း ဗုံးအလုံး ၁၀၀ ကျော်ကြဲခဲ့တယ်လို့ အေအေပြော",
@@ -2138,13 +2145,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQV0QySWk4UEhrek9yQUZFQUJUVnJpUk5GUEhIM2k1VzJCdkFiOUhXNG5HRTltNVZFOTdzQVliUl9kNW9NMDU3OVN0OXhETE1kMjY5aG1pWmFWOHZ1aEQxbmVqMHNlUk9GemthY0lRMWVWZUxXV3BBd1QtUmpXdlpZVE1ORUVhRUJxR0preWxMUnlEOWlxZFphTkcxaGJpVEMzNDVJQVlqRkZpOWdDS2p5cURQOTRBUDI1QjJOalFn?oc=5"
-  },
-  {
-   "ts": "2026-08-21T06:30:15+00:00",
-   "title": "Mask",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0ySUhVODRpUnF4TEZDX3Q4cmpMVEpEX2hYNkJjMTYwanJsZFpoMnBvV0RwaXVmWGNsZUVBNXluSGNzdVhCVWlqZEhUM05ZNUdBcDM1ek1ubVdyUzVlZXVPSDRnOFdOdFdnQmpEZGNaQQ?oc=5"
   }
  ]
 }
