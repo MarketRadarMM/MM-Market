@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-23T00:30:21+00:00",
+ "generated_at": "2026-08-23T01:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-08-23T01:00:22+00:00",
+   "title": "MoL Union Minister attends ASEAN dialogue on migrant labour in Manila",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRWVFdlhKZnNmZFkybFF2U2ZWYWh4YTBjbHhONTlyN3EyRU5wZW5PNFhjQTJoMFRnb1FLWVo1eXp3QVNWdjZISm5GVUlpQnFpcUtPT044N2JmTE9CbzRJREIzbDViSTlWNUtHbGoxRjRoOEhZeURzVkRpR1dfMmFfZlgzWUgyanVGbWJuN2dRSFdFQUhxbkJRdEhn?oc=5"
+  },
   {
    "ts": "2026-08-23T00:30:20+00:00",
    "title": "Sai Kham Leik Songs",
@@ -2138,13 +2145,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.co.uk/burmese/live/c6n0nl5v7r8qt?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-08-21T02:00:22+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Wa0I2dDlmS21RZVRtVGd5Y3FlQnlrRWI0aUdqbUFGMERFMHhHUlZlOFpqTGhnaURjUnZRUFBxMG9NSGtyRmFTVEJvWQ?oc=5"
   }
  ]
 }
