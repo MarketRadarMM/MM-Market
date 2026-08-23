@@ -1,6 +1,55 @@
 {
- "generated_at": "2026-08-23T22:30:22+00:00",
+ "generated_at": "2026-08-23T23:00:25+00:00",
  "signals": [
+  {
+   "ts": "2026-08-23T23:00:23+00:00",
+   "title": "Second day of Traditional Myanmar Food Competition and Exhibition held in Mandalay",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU1JhanE5Zy1ZWUZTMlNELUFpTTh1TzFERHA2eDAwd2ZPTzgzU2RaWHc3MkFHc1EtMmtyaHljeVkwSHlTREZCeEI5RndNNHB1UF8tdktsZFNxUjh2aEdsQXJ3eGFHNE45ZXp2d0ZfZjVGWlotakhnQnhwUDQzZWpDMXFYb0FZbHJEYUdJQVBPd3g0LWJKS3VITkRlWUVGdXUzSzJkX0dNeW1UX1k?oc=5"
+  },
+  {
+   "ts": "2026-08-23T23:00:23+00:00",
+   "title": "Flood relief efforts underway in Kyonpyaw District",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSVMzalF5cTBtSnB1SFdFUEN5YnhZbFlNUVhVTDR4bjhQQ21DYVRidmdTcmJIaS1udEZtWGxiWDVMZVdTVllVeGlGZ0VHVF9IVG40S0ptWUo4SHd6elFCanVqc2ZDU0NEaUpOZkRFTHBHUE9RNGIwTFJXU2hVbzNXaQ?oc=5"
+  },
+  {
+   "ts": "2026-08-23T23:00:23+00:00",
+   "title": "JLPT individual registration period extended",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2SlYtY2gwWVFUVkxQTHhwdmxRdWlBWGI2VmhKWHE3aE8zOHV1SzR6aDdRMkNqVDI0LVlYQ0xWZE42TDNvTGVoRXQwWUluUkkzUHBHcUVtZ20wWmZfNHlGQ1BaREhxRVZ6eFAwc2tyR1RqWjJ4TTBueQ?oc=5"
+  },
+  {
+   "ts": "2026-08-23T23:00:23+00:00",
+   "title": "Mon State govt plans to resume Thaton tyre factory",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORWZIa2FzWl9zR2E2dVgzMl9SSDBxdi14MFBWdG1OOW82TjlEV3VXVzh1dFphMVBSUDZ2LW9DWXZBQld6MVMyN3lOSTdzb3RpN2U1dGNQSlhoeEVYVFYxcVJfblFtOEZwdHBVMXVINFU0bDlLcXBIUFA2TjlUaVFVZA?oc=5"
+  },
+  {
+   "ts": "2026-08-23T23:00:23+00:00",
+   "title": "Emergency reinforcement underway to secure Ngawun embankment as river levels drop",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUl9qRDd4ampjcGtyczRFTzBjRlBDX1Z5amdYNlVQSC1pZWJoN0VoQTNXbzA3QkVudFpRYkZSN2YyM2x0ZlZWRTN5RDVuWnRybXpUQVd5ZGFDem5DLW5iMl9yaEpjVkRzdWJTa3AtZ1BTa2h0Yk9nTURndnBxcmVqVzlseFlzMVQ3eno3Zm4ybHFtRHdiVXNtSXc2TWJRRVF2ZzJ3ZWczdXJhZw?oc=5"
+  },
+  {
+   "ts": "2026-08-23T23:00:23+00:00",
+   "title": "Magnitude 4.7 earthquake strikes west of DaikU in Bago Region",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeU9YT0dRYnZtaklDOW11LXY0Y0Q3QVd5TFA1MkVzSlZFU3hRcUQ3bU5tR2NHalNMVThuM1Zod0llVF9BRk9rTXRmR3BEak5YQTc1QTJyS3pTdjFqWFpJVnZ5YTU3OGw5S0h2UDVLMS16RDlIRUNWS1ZvVUZiSTc2ZExPVWZhMkJTdnVqY3lacw?oc=5"
+  },
+  {
+   "ts": "2026-08-23T23:00:22+00:00",
+   "title": "Landmine Victims",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jbTYxT3BBVlo1MTZENVJ3X3ozV0NTcUxHLTZZTlRlcHh4b2M3Z2d2WnN5QlloV3AtS1NtdU9JbW80T0pkS19iWGRaRVJIWU81WktIeUlkekdkTEQ3cnlrS2FVUk53YjBRN0hZWnh3?oc=5"
+  },
   {
    "ts": "2026-08-23T22:30:21+00:00",
    "title": "Yangon to host Fire Dragon International Futsal Cup",
@@ -2084,55 +2133,6 @@
    "source": "Frontier Myanmar",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS3A3MzVUb09WRHlCMGJIR2dDMy14Zm1xSVg0bVJISDBsTVk1T1dSNzBYMW9WUEdBVlBrYV9UTTNNUmNONzNPN1JMQ3BMZnh5ekNRQkNCdFg4NW5USFNaa2pxdkxKLUVqSi1XQ1JnOEcyRE5Gcjl1aXNiV1EyMHRrOG1TbGE3YU5tVDJDMERBRUR5UllpXzhrMXBjVFdKWjVXNzdLQzRR?oc=5"
-  },
-  {
-   "ts": "2026-08-22T08:30:15+00:00",
-   "title": "The other side: A Myanmar Now investigation into Frontier",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTV9EWEU1YWpiSFRCV2g4RUE2OEVoNWpVOXkyUjJGaFFUOFRsSXpvZVJqekNVMlhmQnN5WFJWWnRrbHEzcXhaN24zR2ZlS25Yc09rT0FpYUMxeFZ5NDBUYWFNbHNZWnRPa0pxeFhjRXpmYnZpcFhsb19feXhQQ0o3N2xLT3FYUlp4MTYzVTlyVXZqOHBOY3dj?oc=5"
-  },
-  {
-   "ts": "2026-08-22T08:30:15+00:00",
-   "title": "‘We are living in fear’: Kidnappings menace Monywa",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYXlldURqel9nbXJSaTViNmIzU1pjeHdBVDB1aU1ZSE0tUkxkOFBxTzV2R2NQMFlMVEhoNWg4b3RNdnZFQTU3dllQUzVNUDhYajJhTmh5M3BqeXRsLTdKRkl2LTZMUm1HTzlBZ1EzY2s0VEltbGVXajhJa2dabHhFYkZPNlZoZmZpaXVj?oc=5"
-  },
-  {
-   "ts": "2026-08-22T08:30:15+00:00",
-   "title": "The price of control: War sinks Rakhine State’s economy",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTThXcUpMdHNxU0xaVE5xSUl1RTBXUU5nQmxfWEJOdU41OFA0MzZnV1B6Nk16aUpSNEU4R3Bmc0xScHc2akpzZ09yczJteGtyaFFGeVR6M1lZRUNkUTZCSVctREswQzVoVHVTcENxZ0ZCdzNidHlaQVl5TVlINzhiZlh4djBZNFB6QXlIUHR5TFgwVE0?oc=5"
-  },
-  {
-   "ts": "2026-08-22T08:30:15+00:00",
-   "title": "‘Worse than ever’: Inwa tourism in ruins",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SSmxNemNpSktWczBiQlplREtwNjRDTXZFYUs2T1lUUkRGNy1vMlMyVVFCWXkzTU43SG5FUDZZdFl1ZUFiWU9PaERtNmVudGpWaWJ2UEpoZDVKbTJNZkFzMzJQMm43MnF4VFo3Mk5rVlczM0xVa1lBdWhJMENqdw?oc=5"
-  },
-  {
-   "ts": "2026-08-22T08:30:15+00:00",
-   "title": "What we don't talk about when we talk about 'fake news'",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUHZTR2dkRFpPQ1phLWtBMlpfRE55RHlPM0JDbm9uQVJVaGZySEJ4U3F0d05jRzJtNnVtR3NvaFN0cjZ5QXd2Z1RodUF0d1dBdUNXSkQwTDZGNFlWLUtMUEVtcHRudVljTDNzanJmTjVab291Zlg3SHRkcjQ1VmhPMUtkbXhYUXlfb1lLNlRZQTVGUQ?oc=5"
-  },
-  {
-   "ts": "2026-08-22T08:30:15+00:00",
-   "title": "Facebook’s ‘lethal carelessness’ in Myanmar",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcFZmWDY0QjFtYy1TUDFBVzdLYU5PT19zXzBfaGZ4ZV9Del9wTnFZRmNqZ01sVmlVTHBzano3YXk3X3hudmxFbWNmektpM2Jpc0w1eWRCLTVQV181cmZ1MW42QkVhZURsV2tscVBNNWEwMmc2NGZ3REktT0VuSTVXTnN3?oc=5"
-  },
-  {
-   "ts": "2026-08-22T08:30:15+00:00",
-   "title": "Learning the hard way: Students warn against MBA scams",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdkdIc1FsNW5wWDQ0Qm4zUWF1VDFtb3BGTWZkeEhzVnNFU2x2ZHBXaUh3bzI1bXVGbGdqSVE3bFBMRkVPYmR2b1FYeF9JajlneExuOUlYOHRfZzktM0QyMHlFUFNac2FUTG5OblA4ZWRWNXd5ZUd4SmsyeGd5ZEZLNTVfbGlQLTktTDBJWnNhZDh3Ulk?oc=5"
   }
  ]
 }
