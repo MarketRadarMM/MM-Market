@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-08-23T19:30:20+00:00",
+ "generated_at": "2026-08-23T20:00:25+00:00",
  "signals": [
+  {
+   "ts": "2026-08-23T20:00:23+00:00",
+   "title": "Landmine Victims",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvckZKRXM2WEFfYnhCZC1LOV9na2xQWGFUeU9EenNXS01BdVR5a3hMZmtvWVVyZ1lDSUU0cmE3bzVtay1XMUtFbklpQmlONDlzd2c1VFJRODF0YlRqZjZ0SEhxZnJhaDI3eWZDVVh3?oc=5"
+  },
+  {
+   "ts": "2026-08-23T20:00:23+00:00",
+   "title": "Disinfection, Kamayut",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBQdm1nUVZLc1JoZUdwbk8zUTFXZE9iVjZoY2hzcnZUR3huV2ZHbkFFTjQxSE0zY3RUX1ZBSHVPdWpMUWR0TEdxejFJN1M5ZUJaUlJtTzlac181aEwzOXROX29uT3p2RFBoQ3BRYzVZbw?oc=5"
+  },
   {
    "ts": "2026-08-23T18:30:20+00:00",
    "title": "Full Moon Day of Thadingyut Celebrations in Mandalay",
@@ -2093,20 +2107,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcFVBZzV6OVNUb081YVBudVQ1eS1QVXJXb1RDNTlkSEViWE5PbEJxTTAyZU5rSmVYZWJaU09DLVNVbTJRMEJOeUR2bnVmUklJNDZFSmpKUHA4TTVfLWxaNWl1MVNzM1R4WXZOa1cwdFp2R25XOGlIMkcwUnNJc1dkSVQ5aw?oc=5"
-  },
-  {
-   "ts": "2026-08-22T08:00:18+00:00",
-   "title": "Myanmar Regime Pushes Myitsone Dam as Fix for Power Crisis",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObDNHRFhMYXBmZFdDdlJ3UGtrOHlyYkpGMjJsZWZTSHF1X3V4TkJYQTd2am43QmdCVkFaQjMyZzRJdlNTcTlmTlNJaEtVc1JqVTlrRWFGTFFTNldHX3dTakQ1MXFqakhBSFJNc3BtQzlKQW5yX2R3Z3RKUFdpU1UwanpsTFh0ZnRBMVVRQ2RnZTVJOUM0eGRyNnVpVG53WFU3X2ZuMHpRZVMxNmVvWWhrSW45QkM?oc=5"
-  },
-  {
-   "ts": "2026-08-22T07:00:22+00:00",
-   "title": "Vice Chairman of State Administration Council Deputy Commander-in-Chief of Defence Services Commander-in-Chief (Army) Vice-Senior General Soe Win meets with MSME entrepreneurs, departmental officials, local national races",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQm8xODhPcl9yU2xmcWRKZkV4Q0RRaWVNc1lPaWhNcFA0eXI2aDQ2Z2xoLW9oTVdvNTFXLUhQelhCNjRwMUlrQWtncE81QzJ1OTJVSi05WWZDa2RBTnZ1akVDSjl3SUZYMGxWT0xDTEpYSDFZX2RuZkpEUFkzSHEtZXU4T2NpTm43Vk5jZjdJZVNlMlZVUkVsY1JBeDR2dmQ1cVY1aE5RTFRBUVJ4LVNIczRBZ0ltQndpS0E?oc=5"
   }
  ]
 }
