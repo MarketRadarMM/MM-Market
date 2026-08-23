@@ -1,6 +1,90 @@
 {
- "generated_at": "2026-08-23T04:00:22+00:00",
+ "generated_at": "2026-08-23T04:30:22+00:00",
  "signals": [
+  {
+   "ts": "2026-08-23T04:30:20+00:00",
+   "title": "So, Daw Suu, you said you want to negotiate?",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85V3duY0hSSWVPMDkyMWt3THR0Y0NlYTlIa2hobGV3UXlfakNPY0ZLa0Z6eXNrUTFLd0s5SldmOEwxOWZGYmhMbUFUeTl5SElwM0FzU3FJWm51dzhXVTNfQw?oc=5"
+  },
+  {
+   "ts": "2026-08-23T04:30:20+00:00",
+   "title": "Landmine Victims",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WZXZYRTRmLXVhZVRoNnpUblJIN3hDTVMyYmxLVHRVbGY2d1BPZnBkMjdCeHhIc0IwcTNtdFpUSjBwbFR6WkJYQlV1ZV9fUXB5Tzh5RjRWd21BazkxWkliU0RXckR1OFM3NWgzTl93?oc=5"
+  },
+  {
+   "ts": "2026-08-23T04:30:20+00:00",
+   "title": "Spectacular scenes of Mt Popa",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1XS2lic3RibDNjUkVhVlg3TGJxcXFPbWp3NHZpMVVfY0I3Z000NnJNM3JJSkNRQ0s4dVJtUDM0TzRwUWJuNTdoSG9oTXkxeFAyQTZxb0JmdDY1eHdob19wWWo1V2Z0X0ExQk5ZZzV3?oc=5"
+  },
+  {
+   "ts": "2026-08-23T04:30:20+00:00",
+   "title": "Protest Against The Military Coup",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5QMXNXS2J4NGhnX0t2UVNMMVBKNGctbVBuelBjRVp5MDVtVGhWTVlWYzFaaUxISzRHQjVqVzBiUUhUMXNxLVpPMUtCcDRGcWtieHVFWVN4TVFCS0RHTUZaX1dlSy1Ta0s3NnlaUFFJdw?oc=5"
+  },
+  {
+   "ts": "2026-08-23T04:30:20+00:00",
+   "title": "2020 General Election and Tamwe",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1ZnpZMUNsRkxYQUFoX2otWk9lTXJJbnZLdkNsZk9KTDFMam5KVDFMaWhUblNUNHFhZmdKcGZnd2Jqd1VMMXNOdFRLNlA2ZzNzYTRsVHgyMlp3UlFmVmxUUG5wcV9ramllTHdkaVJtbDA?oc=5"
+  },
+  {
+   "ts": "2026-08-23T04:30:20+00:00",
+   "title": "Mine Victims",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JVDlHNEtna1FlNkh3S3NrNDVpc0F0Sm5pQmJPT3RzRHVIbzN3Z1ZBd0hTQW1KYlhSaTVjTzBnLUxnUTJfSVBjTlAxYTVfWm1IVEZ0eG0zODBrckhjLXRObmN3RFktOFRzVUtMU013?oc=5"
+  },
+  {
+   "ts": "2026-08-23T04:30:20+00:00",
+   "title": "Protest Against The Military Coup",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96RzVRQ05TS2VwcE9vQUJmWVdLRUhIbXBWSTJVbXJUNUFDR2JPLUtDdV9VYl9pejhrNzd5STVicWYwVUxWOXUycHdxN1NyOWxTZ0lya0xONWsxWUJjSVNsZ180UlVWNTAwTzk3YXlwYw?oc=5"
+  },
+  {
+   "ts": "2026-08-23T04:30:20+00:00",
+   "title": "Mandalay Building",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4tNEFCUnhidE1fRU9HR1dXMm5iMlRaZkZYb2dZVzRSSGF5OVpZLVBLTjBDNnN1aEdzVU5XTnJKNWpDX244SGQ3dkFtcjN0WTVmS3llYUswaWVXWU9iUlo3YkR1VmlHYjhrZk5GM3NJMA?oc=5"
+  },
+  {
+   "ts": "2026-08-23T04:30:20+00:00",
+   "title": "Myanmar Police EU training",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9NU0xIMkNlMno2b2tVcEcyM3hCYmJfQ1lwYzFZcTJYYm84ZXFaZkdSd0tPSl83T29IT09nYzJqM1l2TzI0VEk1elpmSjVHXzZwWGtyWmo5TjZScFFnOW0tLXMwNzFLaGtJR255YXFn?oc=5"
+  },
+  {
+   "ts": "2026-08-23T04:30:20+00:00",
+   "title": "Life Slowly Returning to Myanmar’s World Heritage Site in Bagan",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE02TVNMMHB6RVVWemJHSGZOM1hGSEQ0cVFtaDU2YnpYWE1lY0NFMzg1ZE83RHBOLXp6RWVnN3psd2R3TUVMUWZDUXlhdXBZT2lIbTVtUnNLRUVNTDRVQzlYRElaNzFJUXJFWV83N2Nicw?oc=5"
+  },
+  {
+   "ts": "2026-08-23T04:30:20+00:00",
+   "title": "National League for Democracy supporters in Pyin Oo Lwin",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96RnVJUjRHY0gtU0tOY2NrQ0VHU3YzUlNFMWFfTTBiWE9iN0x0OXVBTktfRXEwTFFDelFYZjVvNU81ZkRJSWZBUlBTWEJ1V1pyVHYxMy1CN1QyWU1jc3VlclMwTFU2MnVqeFctTmFDWQ?oc=5"
+  },
+  {
+   "ts": "2026-08-23T04:30:20+00:00",
+   "title": "Sawbwa Coffee",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUeTQxQkVLOWhkdW9WMGNBanZWYTZsTlBBazFZQXZLZzdiVG5uNUhVam9PMlpMQUtCUDZCVVpJNTFfWER6bi1vbXczeFVwemRqRFdWZTBxTnNKUmNTMDdBX3VjOFBuVlRxTkV1Unlpbw?oc=5"
+  },
   {
    "ts": "2026-08-23T04:00:22+00:00",
    "title": "Chairman of State Administration Council Prime Minister Senior General Min Aung Hlaing meets district and township level departmental officials, local elders and MSME entrepreneurs from Meiktila District, Mandalay Region, and discusses regional developm",
@@ -2042,109 +2126,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGRRc3BaS1VGMFNNMGNkRWk0THJISHFTUVozcEgwR0htZlBKMHlMaHNoWmZiblFpWFBPRnVISE56d21fY1hYYmVuZF9TTUZIbk5EeWptMGp0MzR3SXlnSTNiTDZNSjViUlVDS21ObzZXYW9abGYwbUNHY0hRcXBtOTRmaWpLdVlmOTVLdGk1UmVnRmJkUmg5Q3dUWGdSZFk0eXpuYk5nTUw?oc=5"
-  },
-  {
-   "ts": "2026-08-21T08:30:25+00:00",
-   "title": "ရေဝင် Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWlY3Q1hicmhDR0pTeTRVZDhsejVBcWZIN0d2c2VUV21QQWJwdWJRSHZ5ZnZ4WWlJY1lfSHhVNWZ2NVFQVDh3d0F4eG9vVF9YRE1QNEhvZjBpcFRMc3BlVkZ5VEFBelMxeWdRVFBzYXUyeWpZcXd1T2ZQSFZQWGxVcVVFbw?oc=5"
-  },
-  {
-   "ts": "2026-08-21T08:30:25+00:00",
-   "title": "Nine Massacres in Two Months Unmask Reality Behind Myanmar’s Rebranded Regime",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVlNweWd1X0hjZmUzWm9LUWlkUnA3YUMwTUItbWgwcFNZcmx5YWZLbmxGOFV1RTNOVW1jSUtSUkhqWFRQNDR0RmpJS2hKa2xlTmNDT2hxUVByb0ZwWWd0RUtHWlJSeXZ4S3RKRFZSWkhPTEZjV3luSy1MNG1mU1NNVTVPRFNWYlFZMUFPclYxWEZGNHkxcVA0QjAtWXdoRVYxY3ZFT0NvZG5QR21ORGd2c0NFSHE1a1ZEQ01YYzk3UkpTUWdXNVVjcmhpMUw2Zw?oc=5"
-  },
-  {
-   "ts": "2026-08-21T08:00:20+00:00",
-   "title": "ရခိုင်တွင် လေကြောင်းနှင့် စစ်ကျန်လက်နက်ကြောင့် ရိုဟင်ဂျာများအပါအဝင် ၁၄ ဦးဒဏ်ရာရ",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/80577/"
-  },
-  {
-   "ts": "2026-08-21T07:00:20+00:00",
-   "title": "Contact",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE10aWtZZ3M2ZEtVZnFxUWltYVVTZVlwaTBmZGlpQm42eWR1aC1xeVFXQkp6WklfaThwYW5TLUJPSGoxeVdtYmNtZjJ1UQ?oc=5"
-  },
-  {
-   "ts": "2026-08-21T07:00:20+00:00",
-   "title": "Junta Cronies",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BM1dsc2tRc2tld211eDVIUUlya1BUM0hjdmVMakZFbHhMeFpzUkFXcDNhaXZxX1ZLZ2JVbDFhZ3BpcnBtSm5kMndRNEl5ZzF4enZVMm5WODJPZDQ1czBYNw?oc=5"
-  },
-  {
-   "ts": "2026-08-21T07:00:20+00:00",
-   "title": "Thingyan 2019",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWUHZvMURQVVR0LVBGVUVqTG5KOUxNbG51WTZockN2NUFrLXFuLTQ4dkNqZ3Z0Ymh4MzROSjhXSFBBYm5qTUhhd0dSenV0UnJDZWhCZE5lem1HSVBuZHBOY0wxdHVBRFA3dEFPaE1QWQ?oc=5"
-  },
-  {
-   "ts": "2026-08-21T07:00:19+00:00",
-   "title": "စိုက်/မွေးကဏ္ဍတွင် ရင်းနှီးမြှုပ်နှံရန် ရုရှားလုပ်ငန်းရှင်များကို စစ်ခေါင်းဆောင် ဖိတ်ခေါ်",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/80572/"
-  },
-  {
-   "ts": "2026-08-21T06:30:18+00:00",
-   "title": "President U Min Aung Hlaing delivers opening address at Myanmar-Belarus Business Forum",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNnJqUzRuSTFZak1Ccm5QNm9rZFZPdzNxUEZrVVFmemhCRzVyX192THYwV0JQRG52SXgtcFctVEFmeXBlQkxEUHgwdWFpcFJIZ0hLbXpPdzZGYWt0TG5QLVN4T1ljbU1LaXNLanNZRE5QelczLVVXbTBFTldWWDFGM3BMc2t0cTNlLUI3eVdmSkVRNWtWdUpqSGxCQm54NDdGZWhjMzZiQWNEdw?oc=5"
-  },
-  {
-   "ts": "2026-08-21T06:30:18+00:00",
-   "title": "Vice President Daw Nan Ni Ni Aye delivers speech at meeting 1/2026 of National Committee on the Rights of Persons with Disabilities",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRkR6TWtsZUNUb0dURG5xTWtGbEt2OE1hR1ZvcXdGOTlMMURFM2I5TDBFQWU5Yl84VHh1RGhxV2I5YW9IYmticTFKdl96UUlTOTlOUFVRZnVYVi1uMHZGNXNrTjRtTVQxa1pVY3dPNjdmVFkyazFyVWxYdnJrVUhKVGhHSDBiN04xX0dPODV6Z284U1JaUzBfTWV5MEZjelZSMW12VTFZZjg4Q2ZvMVVEYWlOV1R4NGNEOUpv?oc=5"
-  },
-  {
-   "ts": "2026-08-21T06:30:18+00:00",
-   "title": "Tatmadaw columns apprehend 23 online fraud and gambling perpetrators along with equipment in Kehsi Township, Southern Shan State",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdlROTV91MGxrREpJMWNYYXpyWnpzUDRDMjYwb0llMXVINm9wT3U0b01tblpIcE5RMERkZnRHRmlJenduQWVHcTJ5SkRxdDVRRVEyeWtvZml5WjB5SUUtNUNmTHBTUVY0amF4VjA0TnBzV2tZN2lFaW02aGV0T1p3Xzd5d1VkZ1RCcnh4LWw0czI1NkJYZzNic0ZsWWlhRW1mN3BCeDdLMldpM3dENlZnZnVEZnpCeXVIdEpnRzQ1dw?oc=5"
-  },
-  {
-   "ts": "2026-08-21T06:30:18+00:00",
-   "title": "Myawady Daily Newspaper 13-3-2023_0.pdf",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOc2hYOE1sWHdwS21QWm5JclBTZ2g3ck1HWEs3aWxyLWhmS01PY2VsQTFYN21SN0dNellmY25uYk16QzdBbmxNUkZrT20yYjZNcXBLUkhsaGg2SkZYWmpDR3VOaUtXZzFaV05KdXdOdGxwSU1TUFFjYU5qd2I0LTZTUUlqTFV4MFpkVnFzdXRLOFVUVldGVmRTaFRmOTA5czRBM2FCRUZTbS0zRFladVhNUGNMVjlFUmNURkJfQ2dzUlpydzJOOW02MjBCZ1JBV204RkpUa0h5Y3JFS3h5akRlQndJbVpFcTAtaEtVbGtyeFZLdVo2SzFMdEJENTdBZw?oc=5"
-  },
-  {
-   "ts": "2026-08-21T06:30:16+00:00",
-   "title": "Myanmar-China border trade surpasses US$2.4 bln in 8 months",
-   "source": "GNLM",
-   "markets": [
-    {
-     "market": "pulses",
-     "direction": "neutral",
-     "confidence": 0.5,
-     "rationale": "China border trade affects bean flows"
-    },
-    {
-     "market": "rice",
-     "direction": "neutral",
-     "confidence": 0.5,
-     "rationale": "Border status affects rice exports"
-    },
-    {
-     "market": "fuel",
-     "direction": "neutral",
-     "confidence": 0.45,
-     "rationale": "Border routes also carry imported goods"
-    }
-   ],
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSzlZWEpORWFVT0wtUFBsNTNBVzdGeW81bWlFTjh4R2J1V0VDT1U3MU8tVVNMYUs4TEpUbUhXcnI4VWltTkVRZUhCZGFIYUJzWGgzZ1RVTHFQanM1N3U3LXBRMk5NUkZDVGV6Smc5UUhOaTYyRjB0MXhmNXVNY1g3RkZ1Z2Y5NEZWTDg0?oc=5"
   }
  ]
 }
