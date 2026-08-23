@@ -1,6 +1,111 @@
 {
- "generated_at": "2026-08-23T04:30:22+00:00",
+ "generated_at": "2026-08-23T05:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-08-23T05:00:21+00:00",
+   "title": "Edotco Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5ZE01cVd0RzZnSmxkeFEzclVtQTlTa3BUd096ZzVjUVJ1YjROTjdFVm0zOUhIS1ZTTExlM0NEOHozWW5qWmtVT3JvQ1NzUTQ?oc=5"
+  },
+  {
+   "ts": "2026-08-23T05:00:21+00:00",
+   "title": "ပေါက်စီ Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSWlkVGtJOVo3SDJlU1dORHVrdGRVSkF2bmMyN3dNRWcyampCbVdZWElONEhCSUZZMTRVTTZkNmItVlZQYkdjQktVUktVYV9DbjlxbXpRLWlTNFAzSjdqLXdLbEFwenhZYTh1NUtiaEcxRkcxRmRqaWZQMU14Ukl1YmJhVTZESXR0bUhkQW5HVGgtdVZ3SU11QXh5UQ?oc=5"
+  },
+  {
+   "ts": "2026-08-23T05:00:21+00:00",
+   "title": "TPDF Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBaU3NWQkwtS0F6WEg2ekpHVjR6LWEzNVV3QTgtbmk1LTBueFZabU5mV3kzTm4xT2EyQ0JPZ0RieG9PQ3RIZXB2aHRIVi0?oc=5"
+  },
+  {
+   "ts": "2026-08-23T05:00:21+00:00",
+   "title": "We Count Campaign Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1qRVJSUlpqaVNyNGRpSlJvQWVfRUtTeHJiazJMdTRxVC01bU1xeUFPN3RUb0VKWmJ6RGk2SXdDTmwzcmpvSEdvM2NDems4SE15ZE9HVzRYaVBGYTRRSkE?oc=5"
+  },
+  {
+   "ts": "2026-08-23T05:00:21+00:00",
+   "title": "Travel + Leisure Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tdWdpemFiYlY2UFlhbHVTX2VGY1ZDTGxfWjZLaDhMcjBEdTNEYTlyUV9JT0RqeFNGc05ZNFctdWlNa09tOEhnMjNCRnA2QUhfME8yOGQyRHhtdw?oc=5"
+  },
+  {
+   "ts": "2026-08-23T05:00:21+00:00",
+   "title": "Alert Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA5bFhWSGRFMXdrRkFPYjVScUVKWFZYZFJVV2laTWRTdU1ZenRqQjNQSGVoeVVtQl9rNkpra1lBbEVIdkZVai05Wlpwa1V1dw?oc=5"
+  },
+  {
+   "ts": "2026-08-23T05:00:21+00:00",
+   "title": "Headquarters of now defunct Communist Party of Burma",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45WXFNVkdMajJzaERJb2xCQUROczlILTRHT1JYbkNtcVlrM3BPZXQ2ZmVWMWM2N2NYMnlSZ0ExRmFUUWtiY0s1cDBDdnU4MlF2SmtFNjNjdHBNY1ZBX3NwZnlzeVA0ZjFmTWYxcDdB?oc=5"
+  },
+  {
+   "ts": "2026-08-23T05:00:21+00:00",
+   "title": "Yangon International Airport",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BOGhoRUJOLVlmQTNBSm1yeFZRVGZYWHExWDlkenBPYUN4VWhiNG5nRHItR3BlRUhPN2dIeVhUYzZKX1dqX3dmYnVYOXRPdkhPYkxibVhVcm9kUWZ6WDZJM0JlTDllUTZndzVpUE04Yw?oc=5"
+  },
+  {
+   "ts": "2026-08-23T05:00:21+00:00",
+   "title": "Chin Chaung Palace",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1xSVE2cXllRW4xMktzaFdVR0dmWVBBYjVWVjJueTFrMzZkaWVxZEg5cDk1Tm1IWmhhTVBZOVE2ZVF3NWV2VDlMSXJKdVQ5TFRpZTlrb2JtY1p6Mnd1Tlg2d3ppc0U2c3JzQ2ZsX2ln?oc=5"
+  },
+  {
+   "ts": "2026-08-23T05:00:21+00:00",
+   "title": "Spectacular scenes of Mt Popa",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GWURhZWxvS3RISEtKMEMxVmpQVUUtQm9peEg0Y0xCb2EwRGdJTkZKR1VON0tzSFlvREpaMzgyYnZUMlpleHdLc1k5MG5hcDkzeW42Y0l0RFR3c3g2dngwXzBPckIwTDFtWGVoa3djOA?oc=5"
+  },
+  {
+   "ts": "2026-08-23T05:00:21+00:00",
+   "title": "U.S. Secretary of State John Kerry",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CRllkVy05TmdhU0Z6cnRIanJQNndKaDNuN1M4M1lrQTNsZTJZWXFUaTlJeFRBUjM2cy1VbWc4a0FOZDNhTUhrZ3VtNW44NllhVzdZX3A4ZnZCb2lKSEF5QkxQVk0xQVlhRlhTYzN3?oc=5"
+  },
+  {
+   "ts": "2026-08-23T05:00:21+00:00",
+   "title": "Pigs",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5SS1HOG04bm02VjhzVzJPaFAyb2hoem5nYnF6WVd3R0ttaHVoNW9GTGdmTXV4U19sSzcyb182WS10YTdON3NRN3J0YjdCODdCVkRreTdzRHBFdXFBSTVIWEcwazRiOE9UWjdld0ZjTmg?oc=5"
+  },
+  {
+   "ts": "2026-08-23T05:00:21+00:00",
+   "title": "Northern Shan State Trip",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nWTJiUHJRQTd3SHJDeXBBcHNnSVpQMzJ5ek5ZN3p6UklwR2M4VEZHZU1fUmJ6N1ZqdFVCR2hvdEpLeld6TVIwT2lHUGhtNHBqbF8yS1dqT0xwMWlWclpROTdHa0ZFNGFPQnJONm4xdw?oc=5"
+  },
+  {
+   "ts": "2026-08-23T05:00:21+00:00",
+   "title": "Ex-child soldier Aung Ko Htwe",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OM1ZMVXV4TGpsdUNyb1d5Q0VTQmYwUk1IWnRJU2tFOE9FakFHb2JxVkp1azM0TzBGYjBmdzUwaWdfMmdXUHAtcmlUaVJ0aUNianNmME10SHFkUmdMdDNPOWNNY3RMdkQ2YVBtenR3?oc=5"
+  },
+  {
+   "ts": "2026-08-23T05:00:21+00:00",
+   "title": "Landmine Victims",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90YVFCX012TVZ5elJwVnVyTllvZEs1dkhXUHozV2REamsxYnZoeFQyNEtOR0NHSkM1ckRvV1lycmFyVkZrUnFMd18xbU9XVllGal9KbTl5S09ZcThlSlpiSDhLdDYwYmlWSTJPYmhR?oc=5"
+  },
   {
    "ts": "2026-08-23T04:30:20+00:00",
    "title": "So, Daw Suu, you said you want to negotiate?",
@@ -2021,111 +2126,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaWdYU0FmQ200S3BBajJzckRQWWJvMktWWnBmNG9xbnFiWHpaSUo4V1BoYzdkcERzaEtNd0ROeHQzXzQzRnVqN3NRcU1TWUwwbEg0OUY3Q0F6ZHJyUWVnVmJRV3NQN1BEa3N5XzdXTkw1eUFDN2VaNEhWdEt5U09idld1UzUzSDVhd2FoV3NNanNnOHRvMHJzVXpIZ211d2lfZWpTUzNhYTl2TG9lSVY4?oc=5"
-  },
-  {
-   "ts": "2026-08-21T12:30:19+00:00",
-   "title": "uprisings Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1BczJxZmhnTjJNREZ1bXhKUVdpZ2RKTDVhVVlnbHJQZUpUa3RkQVJRYTR0dDMtYVZ1cEhMNWVpM085dVZCVTBHM0t2bFJPWjdi?oc=5"
-  },
-  {
-   "ts": "2026-08-21T12:30:19+00:00",
-   "title": "Fourteen Mostly Elderly Meditators Killed as Regime Bombs Monastery in Sagaing",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeWtDb29tNkJEOFBIbXRKRzkzcU40ck1HMnQ5WjFxbzdvaTBiaU1DdUEwUG9DWW9lWGpGcTJUYmZwSHg1bkxnR240SF9lREE5RDB0eExZc21CcmtKaWV1b2FaOGFzblN0M2toUGZkeUZweHlnOURnNEQ5bHdDemZTY2VlZWVtWF8tZmFRX3JMSzNDdHprVlZlRW5Ib280TzFHWlc3Z3VpVVFSekJmS0FlaGQzd1lpelRZODBkUw?oc=5"
-  },
-  {
-   "ts": "2026-08-21T12:00:20+00:00",
-   "title": "တပ်ချုပ်၏ ထိုင်းခရီးစဉ်တွင် နယ်စပ်လုံခြုံရေး၊ လက်နက်မှောင်ခိုနှင့် အွန်လိုင်းလိမ်လည်မှုလုပ်ငန်း နှိမ်နင်းရန် အဓိက ဆွေးနွေး",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/80617/"
-  },
-  {
-   "ts": "2026-08-21T11:30:21+00:00",
-   "title": "Public warned of financial scams misusing MCCT programme name",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWDRwV3N3a19YRHIxV0RsQUFSOVNQOHpsbThCdjBLM0I5bGRTTFBJN3dQN2dMR1ZDTmRPdU1hcUlDMnVWcUFMWjVqLW1BMWk5eEotLW5tZmFrdTNHOUxuLU9aTHpEYWVObnlSdFl0Z3Z1MmNwdldzOHFSZTF1eFJnNXpnYk82bFc0V29UY3JUTQ?oc=5"
-  },
-  {
-   "ts": "2026-08-21T11:30:20+00:00",
-   "title": "China Denies US Citizen Held Since June Is Wrongfully Detained",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcnVaTXlqNXA1UC1DN0lZN09NUVliTU0zZFV0NnNPczV0VzVLR3pIaUZDWnQ3ZmxVZTJ0ZUZpNGRUdjVrTVVmZktqckVuMGRyNXpXa2plNjFvQnFvVkF0RGhibUhGOF9rMGpFc3lXblZBN0dwbVJyUHNTN0hzQzlTVE81alFUQUN0RTNWWFd2U0w2WkZ2am1rLVFjYXo3aHdJeTdkS3Z2RQ?oc=5"
-  },
-  {
-   "ts": "2026-08-21T11:30:20+00:00",
-   "title": "Beijing Plays Geneva Platform, Justice for Xingxing, and More",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbGRnemN3cWUxSm85UFliYzVXaTV1ajNGRTY5Y052Zk05aWdjTlgwU0R0a2dNc0MwR2o3dGdaUnl1amQ1TWR3NEtTc0tNSzdIMlpRSTdla0xVb2dpWHJNVUE1YnZCeTc4NjNINDVRUFBDVkJIUk1UNGhyd0tmVThHbXhEdC0zZWNUOV9EOHJ6WG5GOEZZTXZSUHAwYUlQMkpCeExzMFJSRjNnTXFKWnI0?oc=5"
-  },
-  {
-   "ts": "2026-08-21T11:30:20+00:00",
-   "title": "Yangon City and Development Committee (YCDC)",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40MURRbUZfZ0pXWVJwU2xjM0ZGVnpvWXdPZmI3RkFQVllXZDhfb29pMDA1azc5dWo3ODhoSlVNaktzMDQ0M1I0eDlYaUdXdXUwUnpaQlAzdUR6eG5NU01aanA5LXZnZ1RQTzA3VGt3?oc=5"
-  },
-  {
-   "ts": "2026-08-21T11:30:19+00:00",
-   "title": "စစ်တပ်နှင့် ခရိုနီ KBZ ဦးအောင်ကိုဝင်းတို့ ပူးပေါင်းတည်သည့် မော်စကိုရွှေစည်းခုံနှင့် သီရိပျံချီဘွဲ့ရ ရုရှားဗိုလ်ချုပ်",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/80589/"
-  },
-  {
-   "ts": "2026-08-21T11:30:18+00:00",
-   "title": "Russian companies want majority shares in Myanmar projects",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/russian-companies-want-majority-shares-in-myanmar-projects/"
-  },
-  {
-   "ts": "2026-08-21T10:30:19+00:00",
-   "title": "Guest Column | How Bangkok Is Legitimizing Myanmar’s Pariah Regime",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaWM2b3B2SC15Z3E5QzJ0R1VUdWJNREtRNFhkdW9sMHhiV0s0WXhGcGdVRjFMYkpqeUVEMjh4NnZ4aW9hVU4wa2FER1pheVNtdUVTaEpyX01UbnFwRVA0MnNBZVdrMVVPS2FzcW5ZaHo3RlJPRHRSSjl3X0NBNFROTnAyMy1TS2p3LTR0S1d1Z3EwUUYwN3lTSElCeGF1Y0R2enNxUw?oc=5"
-  },
-  {
-   "ts": "2026-08-21T10:30:19+00:00",
-   "title": "Regime Smuggling Crackdown Angers Allied Karen Scam Lords",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUUFUekxLa2J4aE43TmRsM1prUTc3Nnc3VW1lTHpNcFM3TW1FamNFVHdhRmU0UTRvaVQwa1FPaTRUclRvVWJQWEdtNkd0LWx2Y1BGR0s3RTZwYkNWYTk5cllyZUFrNmNGUWtMZUVsUjJiTFZXMXM2blhPZmU2dWdVVkpILVdCVUNuaTVXcjZidnFnQXlWYld5Q2NncXNTdDlx?oc=5"
-  },
-  {
-   "ts": "2026-08-21T10:30:17+00:00",
-   "title": "As many as 20 believed killed in Myanmar junta airstrike on Buddhist monastery",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/as-many-as-20-believed-killed-in-myanmar-junta-airstrike-on-buddhist-monastery/"
-  },
-  {
-   "ts": "2026-08-21T09:30:17+00:00",
-   "title": "Quarantine Out",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45LWdsTmczaDY1MXBJQ3pfaERKSWoyeGlXWlZOSlJsUFUxU1ZfYkFqLWRpZ1dfUkcxOTltaVRjRzhOTi1JcHlCWEx0N3Z1bm43NENRRkQ5eV83MFYxRExkOFc4dFdkNmlSbVpodkR3?oc=5"
-  },
-  {
-   "ts": "2026-08-21T09:30:16+00:00",
-   "title": "တရားစခန်းကျင်းပနေသည့် မြောင်မြို့နယ် ဘုန်းကြီးကျောင်းကို စစ်တပ်ဗုံးကြဲမှု လူ ၁၂ ဦးသေ",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/80583/"
-  },
-  {
-   "ts": "2026-08-21T09:00:21+00:00",
-   "title": "Business | Russia Tells Regime It Wants Majority Stakes in Dawei Investments",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGRRc3BaS1VGMFNNMGNkRWk0THJISHFTUVozcEgwR0htZlBKMHlMaHNoWmZiblFpWFBPRnVISE56d21fY1hYYmVuZF9TTUZIbk5EeWptMGp0MzR3SXlnSTNiTDZNSjViUlVDS21ObzZXYW9abGYwbUNHY0hRcXBtOTRmaWpLdVlmOTVLdGk1UmVnRmJkUmg5Q3dUWGdSZFk0eXpuYk5nTUw?oc=5"
   }
  ]
 }
