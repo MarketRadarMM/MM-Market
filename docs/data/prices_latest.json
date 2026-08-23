@@ -1,11 +1,11 @@
 {
   "source": "community",
-  "fetched_at": "2026-08-23T03:45:19.324033+00:00",
+  "fetched_at": "2026-08-23T04:45:18.235569+00:00",
   "status": "ok",
   "confidence": "amber",
   "posted_at": "2026-08-23T03:26:26+00:00",
   "post_date": "2026-08-23",
-  "age_hours": 0.3,
+  "age_hours": 1.3,
   "labels": {
     "gold_16pe": {
       "my": "အခေါက်ရွှေ (စနစ်ဟောင်း)",
