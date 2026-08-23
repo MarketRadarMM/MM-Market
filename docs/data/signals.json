@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-23T02:30:21+00:00",
+ "generated_at": "2026-08-23T03:00:19+00:00",
  "signals": [
+  {
+   "ts": "2026-08-23T03:00:15+00:00",
+   "title": "သြဂုတ် ၂၃ ရက်သတင်းများအနှစ်ချုပ် - စစ်တပ်က ငပလီမြို့ကို ၁ နာရီအတွင်း ဗုံးအလုံး ၁၀၀ ကျော်ကြဲခဲ့တယ်လို့ အေအေပြော",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cgr7rqdkrjdo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-08-23T02:30:20+00:00",
    "title": "- yktnews.com",
@@ -2138,13 +2145,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0ySUhVODRpUnF4TEZDX3Q4cmpMVEpEX2hYNkJjMTYwanJsZFpoMnBvV0RwaXVmWGNsZUVBNXluSGNzdVhCVWlqZEhUM05ZNUdBcDM1ek1ubVdyUzVlZXVPSDRnOFdOdFdnQmpEZGNaQQ?oc=5"
-  },
-  {
-   "ts": "2026-08-21T06:30:15+00:00",
-   "title": "Polling Station in Dagon Myothit, 1 Apr 2012, Yangon, Myanmar.",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1IMHplSjlMX0lRT1V0eGFSemduWlBiR0hSdEZiY0dEd1BLTHRFQTVGN3QzSGR1UmFlTXVTU1VNejJGTjlqanZPU1pmOFB0WE9ZU1p4UTNiaTVFQzJhTXlvSG5NTGRYVTZEblZKVEJ3?oc=5"
   }
  ]
 }
