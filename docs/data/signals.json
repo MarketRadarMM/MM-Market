@@ -1,6 +1,109 @@
 {
- "generated_at": "2026-08-23T22:00:22+00:00",
+ "generated_at": "2026-08-23T22:30:22+00:00",
  "signals": [
+  {
+   "ts": "2026-08-23T22:30:21+00:00",
+   "title": "Yangon to host Fire Dragon International Futsal Cup",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVS1vZ2doaGlNTkwtcU5heVZMZlU0WTdaWFE3bDNETHF0WUxXRzI3ZzhGejg4ZWxRWHJ4dU03eWFlRkRHb0REbnhlbEo4RzFUdUU3R1JsYXg3c01nS0VNMG51UmhkMXZtSlpHV3Q4S2tZQmlsWDA3a0xuVHdDeFpkYllR?oc=5"
+  },
+  {
+   "ts": "2026-08-23T22:30:19+00:00",
+   "title": "Minbu (Sagu) targets 40,000+ acres of monsoon paddy",
+   "source": "GNLM",
+   "markets": [
+    {
+     "market": "rice",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "Rice-market story — read for direction"
+    }
+   ],
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1UaU1STlhBQVdPQzlKYnhXa2Q1RGdmYV85cjdXUzVILUZjS0VhRVJTX2lrSWtzcmtvbHJnelMzd21yX25ONV9ZcXI5M3p0V0pTQzhkdWpaUzg1OF95T0xMYWZ6VkNJajR0UDF4XzVRUGduUW1udWZTWkQ4WUo?oc=5"
+  },
+  {
+   "ts": "2026-08-23T22:30:19+00:00",
+   "title": "Cleanliness at destinations key to tourism development",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNWxjZF9IYV9RaEpfTUhxX2NPNERSdV9LcWlTcl85X1F6ZnpWZllzQl9RTkpqSzc3c0lId3VEYWNGSk9HVnpQTzhOeEQ1bUpTSjFrNmoxWVpob1hFTnZTSVBHTnByT1lBVWZyUXNSY1ZxbDJHelBBNi03TG10ZXgzQlQwV0Vxdw?oc=5"
+  },
+  {
+   "ts": "2026-08-23T22:30:19+00:00",
+   "title": "Efforts underway to ensure crop insurance for farmers",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWTM5dko0ZTk5VWZNU0p0T1VvLWFuVW1OdWFTc1pqcjFobVRrSVYzVmx0MHZfUkVNanRlMm5WTHl5Z1NuT0VlM1I2UnBjb19tME1ibEktUFBjd1ZSZmZPUVdMTTdrZ2N5OW1RQnpCVTlmeUpnVEpUQ1dodldpSHZZbkJKV3A?oc=5"
+  },
+  {
+   "ts": "2026-08-23T22:30:19+00:00",
+   "title": "1M baht insurance coverage transferred to family of deceased migrant",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWEdvTjEtSS1pSElfUEcwNUZqWllZOUZJZlo1SXgwTnFIM0N3ejR4b2QzR3R4amxpb19rLVdURktIMGIwV1RyVk9SaHFLTVhoRW05WU5ZVkRsMFZ4Ymlwa1I2RERZemk5NzdSTDY4RjV3aE1HZWhyRUgtVmExeG5vV0lQVkc3ZFdOQ1M0dFVZUlFqM285MEpKUA?oc=5"
+  },
+  {
+   "ts": "2026-08-23T22:30:19+00:00",
+   "title": "Writer and poet Maung Thin Nwe (Myay Pyant) dies at 64",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbHRUcHVYVUZkbTQ4cmtfR1V5ajVfX0RuSDhIc09VVlB6dVNjeXdGeDdmTjNNVnpOT3lSRVVVOFpUaVJrRUtuWmg5X0E5dmxlWGtmLTVaREdXMmxzNkVfd0N6dHFLeGQ2S18tbXN5MGxpeEc0Q0E4NHYwUmg3TlFsVnhKYw?oc=5"
+  },
+  {
+   "ts": "2026-08-23T22:30:18+00:00",
+   "title": "20 arrested in Muse online scam raid",
+   "source": "GNLM",
+   "markets": [
+    {
+     "market": "pulses",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "China border trade affects bean flows"
+    },
+    {
+     "market": "rice",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "Border status affects rice exports"
+    },
+    {
+     "market": "fuel",
+     "direction": "neutral",
+     "confidence": 0.45,
+     "rationale": "Border routes also carry imported goods"
+    }
+   ],
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51b1NpOGlLTkIxYlVYZW1ndkp6cjd1MFUtUG1QeFRaU3hoajZ3ZG83MzJoc2w0N244Tkw3a3owNGZZZTJPTXZhQmpFSmNMMXI2LUFuTlItcmk0Skh2aWNzS3N6SkFDQUxIZTFDY3FR?oc=5"
+  },
+  {
+   "ts": "2026-08-23T22:30:18+00:00",
+   "title": "Ayeyawady FC beat Hang Yuan 1-0",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNZWhyamhkbnV4c05KTHMwcnFOQXA5TjJfZUI3a0dSRGU4N1VyVnJVYmRYb3hzWWV0R3pMTkgzeDNDbnNGYzFUY1VTNV9FZEJKczFGbWZyR2dvSGJPMmdPZHFBUDlvNWs?oc=5"
+  },
+  {
+   "ts": "2026-08-23T22:30:18+00:00",
+   "title": "Myanmar youth badminton team wins 15 golds",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJSTdmWl9yZC1NWnJxcVVrMW82SXEzZllvTng2djdlQk5nbEdrRWg0T3hUUUtKTVdPMkRuTzRjdVZWNWdqLVh6NEZyVXJBSFVHUS1hbmJQaFF1U1lhQXlPMDdfTWk4TXZwalhkM2NfVTkyNnRQVlE?oc=5"
+  },
+  {
+   "ts": "2026-08-23T22:30:18+00:00",
+   "title": "Account",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1NSFJubzM1djhfblhTNGZCdUR1c25ReGluSlBEcHNwMXUtc3k1SEdwQTRENGEzNjl3cldsS3FSMHhFX0N3bEdJ?oc=5"
+  },
+  {
+   "ts": "2026-08-23T22:30:18+00:00",
+   "title": "24 August 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iZGdESzFvMDFxd0g1UXFuMHJGTTRHcFlqWlNSUUVSSDJmUE1VYW9CVUtxLThxUmhnRWFBZWIyeWZJZUZzaDBoODZuSmllbVJo?oc=5"
+  },
   {
    "ts": "2026-08-23T20:30:19+00:00",
    "title": "ငါးဆားအုံကင် Archives",
@@ -2030,83 +2133,6 @@
    "source": "Frontier Myanmar",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdkdIc1FsNW5wWDQ0Qm4zUWF1VDFtb3BGTWZkeEhzVnNFU2x2ZHBXaUh3bzI1bXVGbGdqSVE3bFBMRkVPYmR2b1FYeF9JajlneExuOUlYOHRfZzktM0QyMHlFUFNac2FUTG5OblA4ZWRWNXd5ZUd4SmsyeGd5ZEZLNTVfbGlQLTktTDBJWnNhZDh3Ulk?oc=5"
-  },
-  {
-   "ts": "2026-08-22T08:30:15+00:00",
-   "title": "Eid far from home: Rohingya refugees celebrate with nostalgia",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMnhPZWtjeDFGNzk3MjJLTjgxYzUxazF4WmFRTVEyRmdaOW5hYzh0ZVFCeGpTdDN1NWExOVZKT1RXNjA1RUNNQi1tTXRYeHF1LU8wWUh2V2YteGcxYjFfdTFFWnF3T0VwRUxTc3c0SHVxd05rRUNzR2dvZEFTXzQzMGtKRURtaThBb0hHS180THk5dGxCQVVnQndtZ3c?oc=5"
-  },
-  {
-   "ts": "2026-08-22T08:30:15+00:00",
-   "title": "Myanmar paves way for junta chief to become ‘civilian’ president",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVVRSV2c1TUlQWTB3VHVVSHFiX3NxcTB1c0NDdTUzYlB4WkNkZF8wTVlXUnZ1cE5qOUNaQTFqRWtySkU3enVEMUZQeXdIRU94RjFYUHBxOWFtUzRwTllEdW43aFRCdlJMZGM3VGpIUkw3Ul91c3JPVnB1OFpXNXJGdTR1aTZqUUdjWklnVVA3THhkeDhhSTJhdW9NQjVzZkU?oc=5"
-  },
-  {
-   "ts": "2026-08-22T08:30:15+00:00",
-   "title": "‘Stabbing the heart’ of Myanmar: Junta moves to restart controversial dam project",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRXYtX2IweE9SeWYxbHdIeTJVUjQtRl9CbFRERzQxQ2M1MWJ5Um5FdmpYUmtvMzA3a0hzTGhrTi1jdlFvay11MTcyMmFnOGE0a0o2cHNjVFZHNUQxR0dhdzB2ckVkSlhvcXlaSDlrQ3VjNmlGczFXVkRqdGR1YWpDZ0tUZE1UcWcxVHd4aWp1VEFENXU5Y2tTWGtKckFrQm1HVGIxSkZGMW9zaXFiUkIyckV2cWk?oc=5"
-  },
-  {
-   "ts": "2026-08-22T08:30:15+00:00",
-   "title": "‘A global monster’: Myanmar-based cyber scams widen the net",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRTJrX0pMY0ZwQVJLYk9qLWNTSWZkdUttdC16SUctZFF6S1hPWjF5S2tLUzUtQlBOWTJpbFhWZ1dQMmlpMjhPQ0ZadUpjcHMwS1oyQWp5Xzh4Nlh5WGxfbkYtRWhDVGRLUUdXbkhDNkVtUzZ4Tk53S0NqdWEwYzc0bnNzQmkxd3VZTTRxQWNhMWJFNVBqZWpz?oc=5"
-  },
-  {
-   "ts": "2026-08-22T08:30:15+00:00",
-   "title": "The mystery man behind the Shwe Kokko project",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONzBTQ1BKeW1TZHFyNVd6aFBOUVBxaTF6Tk9TcnJ5dnJmRWZ6VjMxQ0NOWEd6OU9XYWZpb2ZvQUVqZGFUVlpOTjlJNEstX1VzV3RIeWxIaGo5djB5RDJvTktVdXRjQTRLaHctMjFHcWVSTnNHVnprbUkxcTA4aFhtMW1GQVBaSm0t?oc=5"
-  },
-  {
-   "ts": "2026-08-22T08:30:15+00:00",
-   "title": "သမဝါယမခေတ် Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaHlreXZNRmlWaEFkdVJRTlktQkNLQUNQUk84TE1RbjQxSXpLcE1ZeElJYU1zNUNxd1JXRXlCb19SZ2t3azBWNTBuMkpLWGQyMWlJbEhRNkNVOW9WR2Jyc0hvSVhIeWVraTRnaXlZdkNrNE1WSlZnQmdrc2F0UlJSb1VPZ05wMDJkd1F5TUxBbkZ3OERJMl9zSkt2WUZ1a3pDd1RXYnFZbHFDUXVBZktWM3Z0bWFsTUJPcXRxTWs5cw?oc=5"
-  },
-  {
-   "ts": "2026-08-22T08:30:15+00:00",
-   "title": "ဖျားနာ Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSjI0RmpaZERxV0t3UEZkc0h0M3phY1A3ZWhJXzRqZ0d3MC1zcVhkaDFSRldCZGFIajlPOVdlM0J4dDEwa2ZDX21lQnlQaTdWQXRuUTBHc2UxM1BEeUdPaWFGUjhPT0xKZGtJZ19NelZMS2szaW5UZUpsczVtQ1NGZUFZTFdXcklvb2REWkpCdw?oc=5"
-  },
-  {
-   "ts": "2026-08-22T08:00:18+00:00",
-   "title": "မာကိုရူဘီယို Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOd010UDZiTElveU1DcDltVFJwUWRmYi11VFVScktWYUs4MGU5MjJkbmhTU1ZlMWo0VXZWZmtrZlY1S1VqVl8xU2VMQ24ydm9ZbHV3N21Vbm9GNHJkZDluWXFkWXFnUjZFdk5CaWFQNEtTeXpSWk9JcWJPM1g0dWE4SzVYckpPRlFlRmdXUzNnVVoyZTZiQ3A0clVicTF2YVdNeEVVY3Zha2FIRmNiZkg1dHJpZVlYMzZpdVVNTXJWYU82TUMtSThQR3hRM3ByRE4xTEpMaFp5Yw?oc=5"
-  },
-  {
-   "ts": "2026-08-22T08:00:18+00:00",
-   "title": "“Now and Ever” ရုပ်ရှင် Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX0dGZE9YUk5KOHk2cHdEOFRJdGVYQXEtaEowTVUtM3JqM0VpcDRqNnFHVDBodzFIS25VeFlvTjdLWGl4UWRHMGpGMS1GWnktaXZibjFFdGZDSGNHcUEwQXliSkxPZHAtaF9HcS1way1nUEU1YjFwdnFlVmhxcTZCLTh6dzYyazRIamZuWUdFMjNQSzAya1FTYUxDVlRFd3k1dnNiTkZQSmdZVzlTTE5TM0RYRFYtcmJB?oc=5"
-  },
-  {
-   "ts": "2026-08-22T08:00:18+00:00",
-   "title": "PPCM အစည်းအဝေး Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbC1fOTAzWGVWU044a0dVVy05a0tZWmdWY19TMHBPaVBleHFVQWpwa3BfY0hpd0hja0steldJRjhLdm9wN1VZUG51ai1qTUxZVXVJdDVXN0puQl9mWndfUlBjZFdyYVQ4RGczVE5xcllrdDU4WkVidWxVWkE5ZjNGNF9jWUxBb1A0VEdXV3RqaXNkYUNZM1VPV2tyZ1JMSUg4YmU1S1JHZ3pYcklleW52N1ItQ25lc2ppOGc?oc=5"
-  },
-  {
-   "ts": "2026-08-22T08:00:18+00:00",
-   "title": "MN PDF Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90dU9WamtDdFZCbEV2UmIwYWVnRXVibTRrVExqa2gtUkVBSkt1TU1OOTk3bFdIQ3kta1d6VGF0b0Vtbm1Mb2dFTHZKRzJKNU0?oc=5"
   }
  ]
 }
