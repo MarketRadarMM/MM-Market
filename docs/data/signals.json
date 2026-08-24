@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-24T14:30:22+00:00",
+ "generated_at": "2026-08-24T15:00:27+00:00",
  "signals": [
+  {
+   "ts": "2026-08-24T15:00:25+00:00",
+   "title": "ထောင်နံရံလွန် Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTFdSRmlFYThTaTRRbGlXZlJNZUEyQkphZGcxb0pxVmFSSlBibWdfUFd3R0lzbEljdUwxMlJ5WmJpaVZjdm51MkZkSW5YTmRMQzBmdDZ3ZVNEOXdLcHRpcDBscVNkbmFoNDdnWkY2c2VIZ0xmYTNvSzdKdGQ3NFc0OTFLeElqUDZINGZ0QTR5WUNvX1NoVzhwMnY2cXBtem1sY3EyanJoNWVEZVdjei1oYW9mQ1hUUUxRYk1xdGQ5QldzazZZdE9HWEVmYTd0VzYyNHdBcW94ekZZc3hsTXV0WnNNVQ?oc=5"
+  },
   {
    "ts": "2026-08-24T14:30:20+00:00",
    "title": "A Charity’s Checkered Past",
@@ -2126,13 +2133,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GTzRtbkpLamh5Mms1bnE3VDZIaGpIblFiSE1JbzVLZmNZYUg1d2R3d095MEdDdVZzR2hZcTREYnEwUDRFMXFWcnlMeHR2RV9BdnJmVTMtQ2NBZmtSbjR5SjV3aWkzbUlTNUZEN1ln?oc=5"
-  },
-  {
-   "ts": "2026-08-22T20:30:18+00:00",
-   "title": "Quarantine Out",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jTF9aZEU2bThKRHQ5M19UM1M5V2RMdzJVQ3NKSUtUVFlLckdfVFNuRDFjT1FPY25oUi05dmN4aVhkZE1qeU50WXVJNmtEbmxCMmVVQkZ2UEViemd4b0RhOXBQRk9GNTBPSWtXbjZEdw?oc=5"
   }
  ]
 }
