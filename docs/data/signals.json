@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-24T09:00:35+00:00",
+ "generated_at": "2026-08-24T09:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-08-24T09:30:17+00:00",
+   "title": "ဘောရစ် ယဲ့လ်ဆင် Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNb2J1c0R5eGxDcHc0MHB6VGlxSmpRd3JMU0ZneVhvM2Q1Ymh5LTVlRUk1clMzT3p6RUlsNjc3UURaclF0YXAwVUxwbDYyOEx0SDRwYl82TWduU2o4R2Z4MUhIMXBEX3J5VTZ1VFZWclJPNE5SQllTRVMzSktxeDlnbFBUT0dJZlR0MXdWcnlWWFNtSHdxQ1IwVy1RVlgwTkUtSXNBSVNOZU5SOXE1UHRtd1pJS2dBQnVua2JnNXA0b2lNMTl6ODk5OEgzNkYtdl9HNDcxaTB1R2hDOENKbXFkcmtNbmpTNTNlZk9ZZGFDRDc?oc=5"
+  },
   {
    "ts": "2026-08-24T08:30:20+00:00",
    "title": "The Five Faces of Myanmar State Propaganda",
@@ -2126,13 +2133,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9aMTUweFdJSGppOGtCb2dLaS1rUzVxRWZ3clBzZ0RPODhaTWJMQnNBMFlMTmZoSUpXLU41VzIzQlVCSlBaWmNOamttcUZadkcwM1M0OHdGSTZ2Tm1VV0tmQWluWlQxMzNaWFFJUWlR?oc=5"
-  },
-  {
-   "ts": "2026-08-22T15:00:18+00:00",
-   "title": "Yangon International Airport",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TUVJRc2FHSWxFQTgyS3ZzV1MwUzVudlNycERkZHA5eklOaUFPVXF5LXhQb001YnlaY2FlV0VpbTdKOEFpX3BjOUEzUkZ2aHYySThlanAtWFlicWtBYkpYZkFHbnVMQVBBU3BXZ1hZWQ?oc=5"
   }
  ]
 }
