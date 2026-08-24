@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-24T21:00:23+00:00",
+ "generated_at": "2026-08-24T21:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-08-24T21:30:16+00:00",
+   "title": "Commitment Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hWXd0TDFGM254WTdjcGtFc29ja3lmYmRwMWJtWnJYWkMxcmc2OGRiLWpSQWYwOGZVTXloY1ljdXphbkZIYXJaMmZBSFRseHRvZGc?oc=5"
+  },
   {
    "ts": "2026-08-24T20:00:19+00:00",
    "title": "Index of /wp-content/cache/page_enhanced/www.irrawaddy.com/video/what-is-trumps-plan.html/embed",
@@ -2126,13 +2133,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0VG1pNXVaOHA2NmZiN2RDVHFENkdnT05IOXQ3MFVoQkpDc1BQOEFOa1MzLXN3S01hLVZiZVJpRnE0RTBIeUp5TGNKNGNSQU9UTGtsRTF3ZDVYTVByRDFDaml3TG5MSHhEc2VJT2VB?oc=5"
-  },
-  {
-   "ts": "2026-08-22T20:30:18+00:00",
-   "title": "Mg Saung Kha",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GdEJvOVJLYzk0dzh1bXhQVjVOX2NoQnFwQlZrTlRvTVk3YnVWbDRQSTZ1OGJ6VXdWUzhxZGFSZmxCcko0WGVkNFd6cjlJZXQwRUNMLWZkdHN2N3RSLTdCdkVKQWxKc1JYWkc4RHBR?oc=5"
   }
  ]
 }
