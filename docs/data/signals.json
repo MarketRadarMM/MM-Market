@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-08-24T03:00:24+00:00",
+ "generated_at": "2026-08-24T03:30:23+00:00",
  "signals": [
+  {
+   "ts": "2026-08-24T03:30:23+00:00",
+   "title": "Lawkananda Pagoda holds annual Buddha Pujaniya festival, rowing competition",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWHNoNGNmZVJuTUl0MVhGNHI3WThDQnhlY1EzbVpadUlrbzBBV1BnTzJDOXBtMXFwRUwyaUVNdF90RWhIQlljdTNtQWNKMEktbGdlSjNOaU8zT1VJUkpUT056WlJtbWZlTUt6VzZ0MXF1REJ0ZHFSTFUzZ2FWSXZ0SFJDU3ZTTlVveXVRZ0U5Q1p2RWNSWW5lLWUwbzhlejNF?oc=5"
+  },
+  {
+   "ts": "2026-08-24T03:30:18+00:00",
+   "title": "ကရင်နဲ့ ပဲခူးမှာ သောင်ရင်းနဲ့ စစ်တောင်းမြစ်ရေဆက်တိုးနေလို့ ဘေးလွတ်ရာရှောင်ဖို့ မိုးဇလသတိပေး",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.co.uk/burmese/live/cq3d79v9dxynt?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-08-24T03:00:23+00:00",
    "title": "Traditional Myanmar Delicacies",
@@ -2119,20 +2133,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Zd2s3cDZjSkI5a2EzYlVKYV9kbE1fQWhjbW5abW4yTDNIcTV3Q1ZWU0xtOHZxcjFXa05uTmdkMGN2VlhsOWVzNFpUbHh0VS0yTDFwN2lmS0tacG53bDkwRjFCRE1BckFSQlJHYXRR?oc=5"
-  },
-  {
-   "ts": "2026-08-22T10:30:23+00:00",
-   "title": "Yangon International Airport",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BWXl4d2pVa2xiSUh5anpfN2tKcVdaRFhjZjBDSzJQQUNOVGhlenNOalpBYlAtVFA2elI1UnB4ZUhsZExqQ3VVT2xDMjBCSVZMQ1ZhaGtUcmxRUzZSQ1RsdjJaUUdSSm1WR2V0ZVRR?oc=5"
-  },
-  {
-   "ts": "2026-08-22T10:30:23+00:00",
-   "title": "Air bagan press conference",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54cGt1V29qVzJKakpDZzFRWmxtZWpKSTAtOS1RYTkyZ1RCbWpWeUlhaGVSazNIMFNPeEk1VHluM1R0TzdTRmlmd1lpbDNXZzJMRGUxMHdxRlRRTXNQZkN4X1NxTUhCQjRUYm5qdmZR?oc=5"
   }
  ]
 }
