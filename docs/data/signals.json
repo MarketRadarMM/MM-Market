@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-24T00:00:25+00:00",
+ "generated_at": "2026-08-24T00:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-08-24T00:30:17+00:00",
+   "title": "အိန္ဒိယသရုပ်ဆောင် Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPU2NHSGtSbUlqa2MtNC1UbWJuUzBZbTJiTWVOOFVmZ1JEXzI5bkVLX2swb005UHBMNlo3U2VKb25HNGREWThjZHRBLVFTeHp6MXlRLXJFSDhOUjhldzVPeVdGNFJ3U0ZkNExEUVlnMjMtLVdKMUZ1QWo3WWV0QVgySkt4Vy0xWHFGVTh3UDZ4TVZzTmo4SzhUajdlbDZiYlNhY1VkakZMQWl1M0FKZnhWVG9kQ0hVN2gyY1hrV1JHM1lCZnFPcTFRVlA2RkhwSktvbmhEak5XN1lxSHZKTllyd2U1MVhWOUJ5eHBrMWM0WTJwZTVNM0x1QVUzdXhjRXlITXdaYTAtVkZGMHNVUzZoOS1rVQ?oc=5"
+  },
   {
    "ts": "2026-08-24T00:00:24+00:00",
    "title": "Kaung Si ရေတံခွန် Archives",
@@ -2126,13 +2133,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORnRlbE9rS3N1TEJZMHNPYVpOV2RvVENfRm1aSnVZbTZZeVlMVkhyY0Itdkpta0FmVXdESEhkbjN4ZFdFczVkVGt5enFYOUxxZi1fV2E5M2ZrQkVMb1ZfTGxLbDg4dV80MWNzX1EzU2ZlYUxrMHNPLUc2MjhyeHMyMmpEcTY1TDh0X0wyQm5mTHVNX0poRmc?oc=5"
-  },
-  {
-   "ts": "2026-08-22T10:00:19+00:00",
-   "title": "Yangon Photo Festival",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9aMlZXbXZaWG9uaXM1ZmJhRDJEWlN3eEVfU29wY3hMOEZKWUE3RXdwVDF3MV9WLVItSXVfS29mQTYzV3lDOExGbHdjUU9NazRwdWktbjJnc1pfSkRYNGVVdkNxRVg3XzBMX1dZRE1R?oc=5"
   }
  ]
 }
