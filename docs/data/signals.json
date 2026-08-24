@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-08-24T04:00:28+00:00",
+ "generated_at": "2026-08-24T04:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-08-24T04:30:18+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE84Q1pIN1FyYTVsSllkc2puX0tXTXpLVkxtZkhMY1k4UzA2UzlLR05Na2plZl84cU9lM3BmMjJ2U2VmQUM1dDRKdnd1Zw?oc=5"
+  },
+  {
+   "ts": "2026-08-24T04:30:18+00:00",
+   "title": "Efforts underway to promote agricultural and livestock-based industries in Pyay",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS1ZCQnUzOWpmQm1KR1Fhd2kweXJ2bC1TYmhNREtld0tURGRrVFY2bWZzeEh0VzJNSnJCZEVCOGhMMi1fZFZOWlpka0wwbUE0dkdJWlZLeFoxdHBqaGtiWlAwazh1U2psLUJ1VTVRUlJwMC1id1ZNYkxFNVhpTkl5SGl3Z1NlajZneGZST1MzNk5LdE05YzdWbnpBekRSY3BGalNZOG5GWQ?oc=5"
+  },
   {
    "ts": "2026-08-24T04:00:27+00:00",
    "title": "Kalaw Astro Youth Camp 2026 draws loads of applications",
@@ -2119,20 +2133,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAyXzc3ZDVubjZTLWV6aUNJWFlBQTQ5eDFyWUNiWVIzdERod2pyWGNPR0UwSTZKWVBULUhzdHBZdTdJS0tReVFzZGJycWo1N3AwRmpmMThBSFJFZ3FqYjNqblpPTWxoT05McUJfSWEyUQ?oc=5"
-  },
-  {
-   "ts": "2026-08-22T13:30:17+00:00",
-   "title": "Horse-Drawn Transit",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmRTBaSUJIdkc0czlhcW9Wa1JWWWVzcFNYbWF2QzJCTXExNjkzemxlXzdKbExPcV9GMjJUaml5ZlZfX0x2a1J3cEJpeVhKX2pRbEN2VFY5OEhvOGFsRk9jSG1KWlhnMXBuWV93elZaYw?oc=5"
-  },
-  {
-   "ts": "2026-08-22T13:00:24+00:00",
-   "title": "Yangon United continue signing new players",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uMFRNdnlYUHExZUtBU2hCTnJHRm44cWZjYWV6bzRVRWo1N0FMRkZsRERVREZRc253MWlYSFU0TEgwb0VEbWdOQ1VCcjVYQTFaZkQyY1c4VEV0WUFMY3BJb2Y2UE1CU0xvRmI4aUtqZks1RUhHOHc?oc=5"
   }
  ]
 }
