@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-24T13:01:00+00:00",
+ "generated_at": "2026-08-24T13:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-08-24T13:30:17+00:00",
+   "title": "How Myanmar’s regime turned a Buddhist retreat into a scene of death and destruction",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/how-myanmars-regime-turned-a-buddhist-retreat-into-a-scene-of-death-and-destruction/"
+  },
   {
    "ts": "2026-08-24T12:30:21+00:00",
    "title": "ဥပုသ်နေ့တွင် တရားရိပ်သာကို စစ်တပ်ဗုံးမိုးရွာ",
@@ -2126,13 +2133,6 @@
    "source": "Khit Thit",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1wSmFPUGZENXNpdldWdHJDdkVlcnhqajczcm44ZTlySWk4MTNaYkcwVHVHQnZ3ZHRUcHZoTnc5SzVXb3RVVmVYZWZuZw?oc=5"
-  },
-  {
-   "ts": "2026-08-22T18:00:18+00:00",
-   "title": "Lenovo Z6 စမတ်ဖုန်း Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdFNOX241TUJKVGR5NHR6RWVHMUlnRS14elNUdC1YQnViU1hra2huZmViMHdDdmdwSHhqQTBBZDBtdl9zMkVNV2FzTHVUakpla3pYR00xUFNoWXNnenl1Sk5aeUhtZG9HSEl2V0ZEM3VwOXpiblhPSnNLeVZSeVNrcjJHVjlFdDhoOURka0ZpNzZFVkxOTS0xRlhfY2xBNmxGbzctUWxaMjZ2R05Fd01Pazc3RVhWTTJzSnNNWUJfOGs?oc=5"
   }
  ]
 }
