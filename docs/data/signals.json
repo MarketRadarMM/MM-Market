@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-08-24T14:00:32+00:00",
+ "generated_at": "2026-08-24T14:30:22+00:00",
  "signals": [
+  {
+   "ts": "2026-08-24T14:30:20+00:00",
+   "title": "A Charity’s Checkered Past",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fejNuU2VXMUVFLXAxdHg4bFlObGozWXV6QndEa0VjbkJuaGlJeVJHUUoyMDVZT3E3N1pQZ0tITkR5ay1tcTRDUHFFcmJ5SERwMlpCbG00MFh0Z01acFZfR3phLURBbnE0?oc=5"
+  },
+  {
+   "ts": "2026-08-24T14:30:20+00:00",
+   "title": "ThaisAware Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50NTJvN3dEOEMzX2NuSjRVeUh6NF9UcXVISkx0THNxSURXM2NfYUg1aHo5b0tJZjdWTFpSV0FwcXBMb21iQnh6S1hwemt6dVV2OFRXcA?oc=5"
+  },
+  {
+   "ts": "2026-08-24T14:30:20+00:00",
+   "title": "Wa Self-Administered Region Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82ZGFGZ1JhSS1zazcwQjZZN0VOZXJhYlRnQTVGRkQ0U1VCNVY1QlF2ZDFUTDV6cDlQUUpUUDc5R25BTmhvLXBqT2dZNnBVWGVrdl9LYWdHMzZfb2RsbFRPSnctcVBXYlli?oc=5"
+  },
   {
    "ts": "2026-08-24T13:30:17+00:00",
    "title": "How Myanmar’s regime turned a Buddhist retreat into a scene of death and destruction",
@@ -2112,27 +2133,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jTF9aZEU2bThKRHQ5M19UM1M5V2RMdzJVQ3NKSUtUVFlLckdfVFNuRDFjT1FPY25oUi05dmN4aVhkZE1qeU50WXVJNmtEbmxCMmVVQkZ2UEViemd4b0RhOXBQRk9GNTBPSWtXbjZEdw?oc=5"
-  },
-  {
-   "ts": "2026-08-22T19:30:20+00:00",
-   "title": "Village project funds disbursed in Sinbaungwe",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBfdm0yNkNWcWRFRHRlaTVNa04tb2tlNlB3NkFQMlBPaE8xN2lodzExbndSWWlqLVUtWGx3dkZMMWItRklvM0hKNDRLMEtUbm9LdkxhNXBPdkJFZ19kb1N5eWRuTFBPUnRla2JZcEdSeWlheHEzOThWR3pn?oc=5"
-  },
-  {
-   "ts": "2026-08-22T18:30:22+00:00",
-   "title": "State Administration Council Chairman Prime Minister of the State Senior General Min Aung Hlaing delivers address at meeting 2/2021 of Provisional Government of the republic of the Union of Myanmar",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZ1BOUzBCNzJ4cVozcGVDN1R4ZDJkMndrM0ViSl9BenZmdlBpbEktbmZMbGpTaXAxNWtCQ2M4YXhWWmJxTVZaWVpVQnozMTItc3JuaHdzVm5NYzRTb2RYVTBkZ0FUZGM4enRJUHhETWVwN3V3LTFlUW15Q085RjdBdTh3cVp3Y3BiV3RaWDlZTW11QV9wTmpLYWU4bVhSQUJTeEFhNFJYY2VzUDJlS29XODAyRVN2RG8xYTUxOXlB?oc=5"
-  },
-  {
-   "ts": "2026-08-22T18:30:22+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1wSmFPUGZENXNpdldWdHJDdkVlcnhqajczcm44ZTlySWk4MTNaYkcwVHVHQnZ3ZHRUcHZoTnc5SzVXb3RVVmVYZWZuZw?oc=5"
   }
  ]
 }
