@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-24T12:00:27+00:00",
+ "generated_at": "2026-08-24T12:30:23+00:00",
  "signals": [
+  {
+   "ts": "2026-08-24T12:30:21+00:00",
+   "title": "ဥပုသ်နေ့တွင် တရားရိပ်သာကို စစ်တပ်ဗုံးမိုးရွာ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/80680/"
+  },
   {
    "ts": "2026-08-24T11:30:19+00:00",
    "title": "Rafting on the Alawan Lake gains popularity on social media",
@@ -2126,13 +2133,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdFNOX241TUJKVGR5NHR6RWVHMUlnRS14elNUdC1YQnViU1hra2huZmViMHdDdmdwSHhqQTBBZDBtdl9zMkVNV2FzTHVUakpla3pYR00xUFNoWXNnenl1Sk5aeUhtZG9HSEl2V0ZEM3VwOXpiblhPSnNLeVZSeVNrcjJHVjlFdDhoOURka0ZpNzZFVkxOTS0xRlhfY2xBNmxGbzctUWxaMjZ2R05Fd01Pazc3RVhWTTJzSnNNWUJfOGs?oc=5"
-  },
-  {
-   "ts": "2026-08-22T18:00:18+00:00",
-   "title": "Red Bull Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95VTlkTnB3WWZfcEZ3RTc3RXdkQ19ndW81dk5ZRVhSR3R0aS1sWWZkbUVnMVRpWk1PZFkydEZDblVDMm1yWHlhOE53WHdMMGRsVmc?oc=5"
   }
  ]
 }
