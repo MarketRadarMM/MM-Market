@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-08-24T08:00:20+00:00",
+ "generated_at": "2026-08-24T08:30:22+00:00",
  "signals": [
+  {
+   "ts": "2026-08-24T08:30:20+00:00",
+   "title": "The Five Faces of Myanmar State Propaganda",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWW1FUlVLZDhZMFEtU1Y4UEs4TVFZb213S25PNzFoa2t2UGI3cU9mZmxXRkx5cTVLOFV5ZXVUdkFzREZEOXZMVlhTMTZEaFNvSVdCQU5nbC1BazUtbmxwWDRtazl6UmdPNXNXd0VLVVVWNVJMVUc1VlBRajBUV2l5S3c5V2wyMHN3X3B1bw?oc=5"
+  },
+  {
+   "ts": "2026-08-24T08:30:20+00:00",
+   "title": "The Irrawaddy News Magazine [Covering Burma and Southeast Asia]",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Uc3BON2R6eFVtSjJBejFWaE1JbWpKXzV4WllfRHVlSXQ3Nm5RRW9SN2FscVJYdVA0TEFwOXRYclRtWGNOcUt3akJuWWJ3NkRsUExlWmlEUFZLT1FHZkl1R1hhQ1JjZVE?oc=5"
+  },
+  {
+   "ts": "2026-08-24T08:30:20+00:00",
+   "title": "ငဝန်တာ Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWlJvclBmX0hqX0dCVGsyVmx5RXR0ZzMwWUtuUlg0XzY3V0U2dWpuZWtEUTZ4SkszMzNaMHUwVlZRNFVORVgwaEdkNFBtakdqWTFfbTd3SC1VOTctMGx0VHgtZzVFRy1LQkpxSzduazI0d2V3dDVpZVlVeUw5TGdoc0p4SUlQMGlCMVEyUDRTNA?oc=5"
+  },
   {
    "ts": "2026-08-24T05:30:20+00:00",
    "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing visits landmarks in Tuva Republic",
@@ -2112,27 +2133,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TUVJRc2FHSWxFQTgyS3ZzV1MwUzVudlNycERkZHA5eklOaUFPVXF5LXhQb001YnlaY2FlV0VpbTdKOEFpX3BjOUEzUkZ2aHYySThlanAtWFlicWtBYkpYZkFHbnVMQVBBU3BXZ1hZWQ?oc=5"
-  },
-  {
-   "ts": "2026-08-22T15:00:18+00:00",
-   "title": "Ministers' Office Yangon",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45c3VXQ09hcUQwdTZibXpsdWtXbk12czl3UHlYR3ZHa2EwcGZYV0pzV2FJeGd2aXI1dFJGbnBCQUlja05YUkVuYWNvS3VVVjBPMGc4MURkRzdJaVR3YnczZUN2dTJnU1YweG1hZ2FzMA?oc=5"
-  },
-  {
-   "ts": "2026-08-22T14:30:21+00:00",
-   "title": "Senior General Thadoe Maha Thray Sithu Thadoe Thiri Thudhamma Min Aung Hlaing",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVENTOWRmMDU2b2NuM1d6aWR5RTRiVUxRalN6QXNNY3dYVmFRTFFBTEg5QUZycDItRmpYRUN1VTkwbHdOM2h5bEVpVEdXRTgxRjIwOEJHSE5ST29XQTNwVUYyS0NHMExCaWlHWnEzYkVvTlJlYnlQTlduRXpQbVJZbndHWDl0TzVMaGwzR3E1b05BZFVKcEdRRWx5MUk0R3g4ZGJNT0lKa29lbXBOSy1EWTJRNWc0cGxBYURRRE1aN3k?oc=5"
-  },
-  {
-   "ts": "2026-08-22T14:30:21+00:00",
-   "title": "Myanmar Tatmadaw delegation led by Commander-in-Chief of Defence Services General Ye Win Oo pays homage to Emerald Buddha Temple, visits National Aviation Museum of the Royal Thai Air Force and Armed Forces Development Command Headquar",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa2tIS2pZRzVYRGg2VHI1bURPSV9KTG9lSjZHWU93RFJQckJBZUtyYUJGblotSWtNb2lDWERudTVTS1gwOEo2VTlzVkJEMXJneS05V044MWpSUE1ab3Z5WEhxNDJ2T243QVd1Q3BodE5rNnd3aEhob0F3c294WGJNR01XOHM4SFdfZmtxMUNSVDRIWUtvQ21LRkJNbmFWZDc2aEhTRTRlVzd3OXp4dTlMLWVZRWdKTHAzb042TGpR?oc=5"
   }
  ]
 }
