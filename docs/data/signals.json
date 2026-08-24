@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-08-24T02:30:20+00:00",
+ "generated_at": "2026-08-24T03:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-08-24T03:00:23+00:00",
+   "title": "Traditional Myanmar Delicacies",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10dVc4dDJtLWFCRDk1MmN2NjlaNUlCVUI4Y2dCaEFuX2M1ZGJwN3lzWGE0czl6NEtIT1ZkTVBXOXlHeUNBN0JXWmV1OHNVTC1IczUyXzRMVnZWZEg1dWE5ZDFPQVlNWGZW?oc=5"
+  },
+  {
+   "ts": "2026-08-24T03:00:23+00:00",
+   "title": "Bailey bridge substituted for collapsed bridge in Laymyethna flood",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRF8zMGhLOVY5d01NUWxXZE5TZV83X1NnOXBOelE2N3FaN3lMY1RyQjBTa2MyNVlYTkxwZVdCNUl4cGQ4NWFjaUgtaEFZR3djd0lEekN4YWpfN25yZTVOVGgxWmlZMm1nTXZrX0FPNzhUUlpkNGZXMmszRWdEZkRpMm96Mlp3T29ELUpNalBmdTE5SmlnU2c?oc=5"
+  },
   {
    "ts": "2026-08-24T02:30:20+00:00",
    "title": "Chairman of State Security and Peace Commission Commander-in-Chief of Defence Services Senior General Min Aung Hlaing attends 78th Founding Anniversary of Tatmadaw (Air)",
@@ -2119,20 +2133,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54cGt1V29qVzJKakpDZzFRWmxtZWpKSTAtOS1RYTkyZ1RCbWpWeUlhaGVSazNIMFNPeEk1VHluM1R0TzdTRmlmd1lpbDNXZzJMRGUxMHdxRlRRTXNQZkN4X1NxTUhCQjRUYm5qdmZR?oc=5"
-  },
-  {
-   "ts": "2026-08-22T10:30:23+00:00",
-   "title": "Yangon International Airport",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rb1IwMnlhOWNTQXNpN0E4R0hHUzBOS2JNaUdMbE9BbUY5Z193NXpGUWlEZG13VGZjWUVVYXA2dVozVFlRN05qNm9KWFYzOUNHUW9QZVVCcnQtRWdxbWoyR0QzcmUzTkxjME14T1p0aw?oc=5"
-  },
-  {
-   "ts": "2026-08-22T10:30:23+00:00",
-   "title": "Mg Saung Kha",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YZ3JKMjJ1bWZHNWx3b01uR3o4YV9nSzh6dndUdG5pUzlxbXVmMlhUNmhKQ3o0SDFjV0JqbWhQbTVJdVJqOXlOb2JLQ0JzTVhiWDZlZDlYTjJreHphTEJYSzhUT2x3TWd5QmxGVlFR?oc=5"
   }
  ]
 }
