@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-24T03:30:23+00:00",
+ "generated_at": "2026-08-24T04:00:28+00:00",
  "signals": [
+  {
+   "ts": "2026-08-24T04:00:27+00:00",
+   "title": "Kalaw Astro Youth Camp 2026 draws loads of applications",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbkZQaGo0QXUtQXFJTnN2SUR1UnVzalRadEx2SUlvS2pDMHlhZW5vei1kRzNJMW9GZ0JHY3pSczNELTltbFBfd3hxY0dRTUxwU2RiTnRzUWxqTXVrcWxBcjZXbmVyX2dRRFhkVDdmMC1kQ3IwTkZ5WUU3VEFsWkItaVF4T24ySDg?oc=5"
+  },
   {
    "ts": "2026-08-24T03:30:23+00:00",
    "title": "Lawkananda Pagoda holds annual Buddha Pujaniya festival, rowing competition",
@@ -2126,13 +2133,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uMFRNdnlYUHExZUtBU2hCTnJHRm44cWZjYWV6bzRVRWo1N0FMRkZsRERVREZRc253MWlYSFU0TEgwb0VEbWdOQ1VCcjVYQTFaZkQyY1c4VEV0WUFMY3BJb2Y2UE1CU0xvRmI4aUtqZks1RUhHOHc?oc=5"
-  },
-  {
-   "ts": "2026-08-22T13:00:23+00:00",
-   "title": "US ambassador PC",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Zd2s3cDZjSkI5a2EzYlVKYV9kbE1fQWhjbW5abW4yTDNIcTV3Q1ZWU0xtOHZxcjFXa05uTmdkMGN2VlhsOWVzNFpUbHh0VS0yTDFwN2lmS0tacG53bDkwRjFCRE1BckFSQlJHYXRR?oc=5"
   }
  ]
 }
