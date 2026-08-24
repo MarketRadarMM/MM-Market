@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-24T04:30:19+00:00",
+ "generated_at": "2026-08-24T05:00:19+00:00",
  "signals": [
+  {
+   "ts": "2026-08-24T05:00:18+00:00",
+   "title": "Taunggyi launches farm-to-market road project",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE05WHFwRzIxalN5d3RkTEZjQjBkTUtlRk5mZmlYSTV0QmoxRmRVT2hQRVhQRzh0aGplMnpVMF9pS0RpVXZmTDc4aGtBRnM2M2ZGVE8tV2NNT3lkUXZDSExsSE5jYjBtcWpTYVltZjlBbzhSR3dhSzNWLVlB?oc=5"
+  },
   {
    "ts": "2026-08-24T04:30:18+00:00",
    "title": "- yktnews.com",
@@ -2126,13 +2133,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrc1I5aG9neVl2d3lVTUVvS19qRFRYZEVHLW9hV2VCVlFsVTUtMkVQQ1VFTnFHaUtlakJmOGpnZjRSVnA2LTZVNXdhb3FzeDJaN3htMDN1czVyVjdDUVhyV2pMSU43SENxNk5LM3N3?oc=5"
-  },
-  {
-   "ts": "2026-08-22T13:30:17+00:00",
-   "title": "World AIDS Day celebration",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAyXzc3ZDVubjZTLWV6aUNJWFlBQTQ5eDFyWUNiWVIzdERod2pyWGNPR0UwSTZKWVBULUhzdHBZdTdJS0tReVFzZGJycWo1N3AwRmpmMThBSFJFZ3FqYjNqblpPTWxoT05McUJfSWEyUQ?oc=5"
   }
  ]
 }
