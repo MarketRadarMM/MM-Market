@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-08-24T17:00:22+00:00",
+ "generated_at": "2026-08-24T17:30:28+00:00",
  "signals": [
+  {
+   "ts": "2026-08-24T17:30:27+00:00",
+   "title": "ATOM introduces ‘Bright Futures’ Scholarship for 10 outstanding students",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY1FjVGZQVGlkVnJDX05Ta29uV0Q2NXZqbURHaC1pdE8xVjRZcXhPSGJoU1Q1OUN0VXp6QmZQSjAxeXh5WGc5WWFzT2xFYTRYZDVaRjdWRElnWUVOb0RMWkZtTDRDakxtMHRxUmlQVnNnT1VEZnd2dGZmNmRXaVlKa2dVSlV4VzBVZ29Ya2xfZDRsWFRtcGNYUU8tQQ?oc=5"
+  },
+  {
+   "ts": "2026-08-24T17:30:27+00:00",
+   "title": "Up to 10,000 daily pilgrims visit Botahtaung Pagoda on religious occasions",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONkdocTl0Ry1lQVpsTDIzR0dZeHBXUWpCWUFsUExSQTBFOF9EdGlLZzFXMWlKRUtqVmxSNjBVM2dtcjdaUGt4cWFJZUU0YmhvODdyLVdWbWtmbjRXWGF4NWhwYnVNMTBJUjJsbmpaVlJBVGd5SGQtdEtwNUQ1UUlfMjUtTTNYV3duaXhraEVGTERrX3FfQkVZVUVQNDJsWjA?oc=5"
+  },
   {
    "ts": "2026-08-24T15:00:25+00:00",
    "title": "ထောင်နံရံလွန် Archives",
@@ -2119,20 +2133,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lMzJkdjVNS0FocnRteFZsUHlsS1o2eUE1Q0lCYnd2cENnOVhsRDdfbTVuR2NUeUxzZlR1YzN1UzkwYWhKbm40M21nalVHMWFnMC1nRC12c0VIbHJSUUFkbXFySnBPN1d6Y2tMbmt3?oc=5"
-  },
-  {
-   "ts": "2026-08-22T20:30:18+00:00",
-   "title": "Mg Saung Kha",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45aTI3R0VKNURtZGkxUUJ6WDhCSzEzZHRwU0RKbU5nLXA4V3p1VE11eVROdHZhYTctMUh3aGVLV2FKRkZveVVWQXBWOXF0cThOTE94WlRkTFlEX3NMWTRZSnRRSEx0ZFppWXZNcTlR?oc=5"
-  },
-  {
-   "ts": "2026-08-22T20:30:18+00:00",
-   "title": "Chin Chaung Palace",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GTzRtbkpLamh5Mms1bnE3VDZIaGpIblFiSE1JbzVLZmNZYUg1d2R3d095MEdDdVZzR2hZcTREYnEwUDRFMXFWcnlMeHR2RV9BdnJmVTMtQ2NBZmtSbjR5SjV3aWkzbUlTNUZEN1ln?oc=5"
   }
  ]
 }
