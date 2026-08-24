@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-24T01:00:29+00:00",
+ "generated_at": "2026-08-24T01:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-08-24T01:30:18+00:00",
+   "title": "Disinfection",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95NzVvU2Z3a0xfc215NnpvZDJvUjhwMklHNGh4Y1Q2VUhoaTR3T1dpekJxTUdtSHpEeTVCalFHUllQdVR4ZU93a2ZLcWpvdy1SMGxiZkVNcV91QW1jZEpwRzlSOEVBaXdpbl8zeDFB?oc=5"
+  },
   {
    "ts": "2026-08-24T00:30:17+00:00",
    "title": "အိန္ဒိယသရုပ်ဆောင် Archives",
@@ -2126,13 +2133,6 @@
    "source": "Khit Thit",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5uN0JBMjNzQVpZNlI0M01oNHZ4SFBrc3RlY3lqakEwa2FyYzM2TkdFSHVsQ3FYZ3NaWGhRdTZYWDN0dGlQN092NF9wQQ?oc=5"
-  },
-  {
-   "ts": "2026-08-22T10:00:20+00:00",
-   "title": "Chinese Embassy holds reception to mark Chinese New Year in Yangon",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORnRlbE9rS3N1TEJZMHNPYVpOV2RvVENfRm1aSnVZbTZZeVlMVkhyY0Itdkpta0FmVXdESEhkbjN4ZFdFczVkVGt5enFYOUxxZi1fV2E5M2ZrQkVMb1ZfTGxLbDg4dV80MWNzX1EzU2ZlYUxrMHNPLUc2MjhyeHMyMmpEcTY1TDh0X0wyQm5mTHVNX0poRmc?oc=5"
   }
  ]
 }
