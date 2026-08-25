@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-08-25T19:30:22+00:00",
+ "generated_at": "2026-08-25T20:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-08-25T20:00:23+00:00",
+   "title": "Boost cultivation and production of crops",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Rb0RObzlodk5SWjhSSGVrckFQb1FnMWI5dW1HQnI5VS0wRS1aX2k4YnZUWHFJSnNsMnZhZFVrRHhmY3NGUVprdlFvOFRPYjVDYkp6N1J6dUpEQlZNcl9fcjBkcUdBU3ZRUkFZMG96VFV1c1JL?oc=5"
+  },
+  {
+   "ts": "2026-08-25T20:00:21+00:00",
+   "title": "Hong Kong court verdict aims to erase Tiananmen memory, 1989 student protester says",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/china/2026/08/25/hkaspdmc-hong-kong-china-subversion/"
+  },
   {
    "ts": "2026-08-25T17:30:20+00:00",
    "title": "Chinese Drug Busts Shed Light on Burma's Burgeoning Trade",
@@ -2131,20 +2145,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaXl6SEdQcjFIVHJNZzNtYVJNU1VnQXF0N0Q2ZGExREY0SUp3R0tyTzg0TEoySS1IUjNRakdaMEZsQm5fQUNnUEpoa2d2eGdoeGNKak91RHJEYVl1RDM3RWFGamsxa3E0UVEyQjI2R24yV2RnVDY4TS1oTHlySmNkcmQ4LUQ3UWRVeEhMNA?oc=5"
-  },
-  {
-   "ts": "2026-08-22T23:30:21+00:00",
-   "title": "Combined efforts to reduce crime in Yangon Region",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lU2I3NjhSVEl6eV8xRzVySFhqMHRHT0x4Yjc5b1lXcnNBN3g2SDE1VDZYM0tSRks1QzY4eHNoaENGRDRXbkhseFo1U1BTX09seGN1Mnh2eEp2eVE2Q0pCYnhiTzRQOWZKZFJkMDF4OHliLVE2YlNkRnJxNENyVUE?oc=5"
-  },
-  {
-   "ts": "2026-08-22T23:30:21+00:00",
-   "title": "35.86 acres of fish ponds flooded in Laymyethna",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA0dTNDX0ZrazlRSDVvTFFKSFBRaGdWbWU5MUFWVGMwdzExSmpJU1dsdFF2c1dUdmY1ZEt1NTVUQ1dZZmROWFZUQTdtSGU1STFPaEhIWEdIZGZoWXIxbHljYnhFeXptOVF5WVZKbE1MZ2pBdzEyQUVtb05PWHk?oc=5"
   }
  ]
 }
