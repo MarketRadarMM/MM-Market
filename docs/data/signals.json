@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-25T03:00:22+00:00",
+ "generated_at": "2026-08-25T03:30:29+00:00",
  "signals": [
+  {
+   "ts": "2026-08-25T03:30:23+00:00",
+   "title": "ရိုဟင်ဂျာအရေး ၉ နှစ်ပြည့် - လုံခြုံစိတ်ချရပြီး ဂုဏ်သိက္ခာရှိစွာနေရပ်ပြန်နိုင်ရေး SAC-M တိုက်တွန်း",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.co.uk/burmese/live/cq33knj5v65xt?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-08-25T03:00:20+00:00",
    "title": "Myanmar migrants and refugees fuel freight services boom",
@@ -2126,13 +2133,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV0ZjaWpYN0tOdFNWb2N6czVtYUdCSHhveDh4bTVObjZpRWhkc1B6UXdHUmp6M2xuMjk2XzJFV3pxWlhSM1BLV3czWnluOTBaZklxYXFSakMxY1BFUFZlaHBIanNwMXpyQ1ZrdE9mdXVSSUhQdG02UUFLSWFUYjc2c2hqNFhJTjZob1FCNG01ZGNYZktCZFVvaGExUHhGdw?oc=5"
-  },
-  {
-   "ts": "2026-08-22T22:30:19+00:00",
-   "title": "Four-Lane Rail Flyover Planned Near Insein’s Danyingon Market",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUXNlNUVBNkM4WEhlREtTNS1iWHRJR3czQTd6bEFpcFBqM0Q4Z3ZXbGxIbGQ0X04zQ3BiS3k2X1I0MllHOWl6N3VGaEFob05Kc3l3NVRKZFFndXhESTk5R3dVNFVQUHU4ZEJJcndSaFBEUXBPT3l2MXBBaXJkV1FJSkNaV1N3d2JXMW82SEdR?oc=5"
   }
  ]
 }
