@@ -1,6 +1,46 @@
 {
- "generated_at": "2026-08-25T11:00:22+00:00",
+ "generated_at": "2026-08-25T11:30:24+00:00",
  "signals": [
+  {
+   "ts": "2026-08-25T11:30:23+00:00",
+   "title": "25 Unidentified Bodies Found After Regime Forces Withdraw from Jade Village",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSldvYUNSdGM3X1B2UENJU0xnZmVsQl90SGdyMFdSR241NjlpV2xDb2JUM2c0bGVXUTJac21SLWwwbk9rTllKNEYxYm93UUNpWjR5V1BwXzdPLWhjVFAyVFZzMnBaMkd1ZWtfc2tpVDNMS2NGRTN2V3kwQl9sZHp5ZGlSYV9qVFlPck03V25JUTJ5SVNRSC1XakVUanpKTGFmSmlqRDJRUFk5SjlIQXJacnNuNWV2cFlh?oc=5"
+  },
+  {
+   "ts": "2026-08-25T11:30:20+00:00",
+   "title": "နယ်စပ်မှ တရုတ်ကုန်စည်သယ်ယူခွင့် စစ်တပ်တင်းကျပ်",
+   "source": "Myanmar Now (MM)",
+   "markets": [
+    {
+     "market": "pulses",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "China border trade affects bean flows"
+    },
+    {
+     "market": "rice",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "Border status affects rice exports"
+    },
+    {
+     "market": "fuel",
+     "direction": "neutral",
+     "confidence": 0.45,
+     "rationale": "Border routes also carry imported goods"
+    }
+   ],
+   "url": "https://myanmar-now.org/mm/news/80762/"
+  },
+  {
+   "ts": "2026-08-25T11:30:16+00:00",
+   "title": "အန္တရာယ်များပေမဲ့ အမျိုးသားတွေကြီးဆေးထိုးကြတာ ဘာကြောင့်လဲ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c9d8wyl9xqgo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-08-25T11:00:19+00:00",
    "title": "Photo Essay: Between battles in central Myanmar",
@@ -2112,27 +2152,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nRzMtaG5xTXI0am5lTHZCUHd0X29OXzRuQWgxdHBaemU3YTFhZldDMjNESE9LTWZraEJDS2Q3aGhKV2VIYXYxRHVhX29JQW9xRTF2d0N2a1EzVWkwRDFJRUNvV1pKOHBnemc5UExaRQ?oc=5"
-  },
-  {
-   "ts": "2026-08-22T23:30:18+00:00",
-   "title": "Headquarters of now defunct Communist Party of Burma",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yN3hZTXRyeWxZY2RPamJaa0ZjM1BmTnBkMV95WjdiYjhHLWpHNHIwcjlLbTFGSnBYZjFHQW8zSFoybEVFVEZIekpJTjBGbWF3b1BkODRpWnAtbVNYZExNUDN3WVhnQnl0RTBWV3d3?oc=5"
-  },
-  {
-   "ts": "2026-08-22T23:00:28+00:00",
-   "title": "MNL 2026-27 season first-round fixtures announced",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LRkRNY3JxTmk4dzN1bk12LVAzdTVPbzVUc0ROcUV5NEJTcmlENU15Mk5ZSHQ1U0d0dWpWbXQ2WXgzNHhicU5Gb0dGdHNGUlB0eFY4VThyRHlTWkZiMFZuWTNPekpVcWh0dW01TGtLOF90X0RBZElHSjB0NjBDd28?oc=5"
-  },
-  {
-   "ts": "2026-08-22T23:00:28+00:00",
-   "title": "Preparations underway to hold Taungthaman Boe Boe Gyi festival on grand scale",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMnRBQ04tT0FFQ0tSemJnWlVURTI5akdnTGVPQ2xwMk1fWExYR3A2RmdSYlBWNTVOdjJxek5MeGRac3g3OWNVRkZCSmhZTEctM0kxLVB0Z0lVZDFHXzBiLWswREhVMVZxN2JrRHp4MUdvTnZ6d2QtbS05Y0x1OFc5ZTZOenJ1RkF3S0ZKMnpIV1NobW44UlZWWTBxRWVyNHJrQnZTUA?oc=5"
   }
  ]
 }
