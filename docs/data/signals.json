@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-25T09:00:24+00:00",
+ "generated_at": "2026-08-25T09:30:17+00:00",
  "signals": [
+  {
+   "ts": "2026-08-25T09:30:14+00:00",
+   "title": "Myanmar junta airstrike in Paletwa kills five and injures 17, including children",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/myanmar-junta-airstrike-in-paletwa-kills-five-and-injures-17-including-children/"
+  },
   {
    "ts": "2026-08-25T08:30:18+00:00",
    "title": "WhatsHappensInManmar Archives",
@@ -2126,13 +2133,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYkduR0hZTkFGZjZUUDcxR0ZYcUtWVUxRZWwtZmpRdzFOX0FHYXVGQy1LMWdnU1ZYSW51LUFtUjE2b3BXemp5Nlh1SlVjbFY2RlViYzFGM2hJWEdQT0w5S1BTNElQV283QzN0QUtOeVJ3N2lMX1lpLXpiSHpoTHpQSEh1UVZGeTdt?oc=5"
-  },
-  {
-   "ts": "2026-08-22T23:00:28+00:00",
-   "title": "ASEAN Sports Day marked with mass walk, sporting events",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSG5ZdUNQRXAtX2RCc0ZsMWpzLV8zTGpMR1RQdEpDUy0xY1B2cS0yWXBNTXM2Q3hTX2tFQW1BYzg0RkVoYWhoRXZOek4yQ3VuY1l6bzNLanRFQTI4SVBNeXlNWnNlRnhtaWRibVV5b3otZWlwVVVOdlkySXlGb3l3WTRFY0ZlUQ?oc=5"
   }
  ]
 }
