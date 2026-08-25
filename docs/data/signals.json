@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-25T08:00:23+00:00",
+ "generated_at": "2026-08-25T08:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-08-25T08:30:18+00:00",
+   "title": "WhatsHappensInManmar Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE45dHFHcVQ0cVN6STUtLTFjZTh4ZjV5MHZsMmhJMWhOajBWa2RvcDVOZ1dVeW1KVUFOZ3V3ZV9uZldoYkVkaVVuMmNjZ1AzbUx5Q1FDOEJ3Z0dTN3pjVW1GY1FB?oc=5"
+  },
   {
    "ts": "2026-08-25T08:00:21+00:00",
    "title": "Tender invited for 2027 Hajj pilgrimage services",
@@ -2126,13 +2133,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSG5ZdUNQRXAtX2RCc0ZsMWpzLV8zTGpMR1RQdEpDUy0xY1B2cS0yWXBNTXM2Q3hTX2tFQW1BYzg0RkVoYWhoRXZOek4yQ3VuY1l6bzNLanRFQTI4SVBNeXlNWnNlRnhtaWRibVV5b3otZWlwVVVOdlkySXlGb3l3WTRFY0ZlUQ?oc=5"
-  },
-  {
-   "ts": "2026-08-22T23:00:28+00:00",
-   "title": "Veteran singer-songwriter Kaiser dies at 65",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9iN0hOVHdBUW5ybjhwalVDeV9nMXhhVWkxVVI5SUtXQlJyR1VvaDkyOWJ4OUIyQnVDY1RLUGZ3WWRlYXpLUjhwWkZLN29aWXhNU3c2WmZlR2hYek9xbVYxdDkwZGE5ejFxX0R1LUl6MmFJUFoyOG1v?oc=5"
   }
  ]
 }
