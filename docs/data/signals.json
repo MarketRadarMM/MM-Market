@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-25T10:30:19+00:00",
+ "generated_at": "2026-08-25T11:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-08-25T11:00:19+00:00",
+   "title": "Photo Essay: Between battles in central Myanmar",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/photo-essay-between-battles-in-central-myanmar/"
+  },
   {
    "ts": "2026-08-25T09:30:14+00:00",
    "title": "Myanmar junta airstrike in Paletwa kills five and injures 17, including children",
@@ -2126,13 +2133,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMnRBQ04tT0FFQ0tSemJnWlVURTI5akdnTGVPQ2xwMk1fWExYR3A2RmdSYlBWNTVOdjJxek5MeGRac3g3OWNVRkZCSmhZTEctM0kxLVB0Z0lVZDFHXzBiLWswREhVMVZxN2JrRHp4MUdvTnZ6d2QtbS05Y0x1OFc5ZTZOenJ1RkF3S0ZKMnpIV1NobW44UlZWWTBxRWVyNHJrQnZTUA?oc=5"
-  },
-  {
-   "ts": "2026-08-22T23:00:28+00:00",
-   "title": "Authorities arrest 4 foreign nationals for telecom fraud",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYkduR0hZTkFGZjZUUDcxR0ZYcUtWVUxRZWwtZmpRdzFOX0FHYXVGQy1LMWdnU1ZYSW51LUFtUjE2b3BXemp5Nlh1SlVjbFY2RlViYzFGM2hJWEdQT0w5S1BTNElQV283QzN0QUtOeVJ3N2lMX1lpLXpiSHpoTHpQSEh1UVZGeTdt?oc=5"
   }
  ]
 }
