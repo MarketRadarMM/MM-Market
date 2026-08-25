@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-25T06:00:21+00:00",
+ "generated_at": "2026-08-25T06:30:17+00:00",
  "signals": [
+  {
+   "ts": "2026-08-25T06:30:15+00:00",
+   "title": "လူသေတွေနဲ့ စကားပြောခြင်း — မြန်မာစစ်အုပ်စုနဲ့ ထိတွေ့ဆက်ဆံရတဲ့ အဖိုးအခ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/80696/"
+  },
   {
    "ts": "2026-08-25T06:00:18+00:00",
    "title": "The Russian general behind Moscow’s decades-long military courtship of Myanmar",
@@ -2126,13 +2133,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ0pGVGxOdzltMHl2bmtiUXpUMEpOWlY0by02Zm93X1NOYWV6dnBmcVg1VjZTSlBPRVFUaHh3YnlqUTZvMmFLTFJoWTd2djljQjFMeTdQaG5tVlVlMUhYZGJ4M29vZ2lqZ2gwMVBHVmJ3VUU2WHdsUERVdWhieHZweVpJZmdaN3JHNWwxYmxNX255aUkxRm9jVzZXS3U?oc=5"
-  },
-  {
-   "ts": "2026-08-22T22:30:19+00:00",
-   "title": "New Mingalar Market to be opened by October",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5uNnoyZTFPeHFOQVFkak9rRjdUX01GTElNWFZYN1dUWGFjVU5Qcmo0YTFJNjFESWh3Zm1PY25Yb2xuOFdzeTlDODFkVlFNU2N1ZTgtcXBBdHIyTlpZWGU3V0xyS0drM2hDZHRnT2NqZTF6dHp5cDB3?oc=5"
   }
  ]
 }
