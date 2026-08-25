@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-25T04:00:26+00:00",
+ "generated_at": "2026-08-25T04:30:28+00:00",
  "signals": [
+  {
+   "ts": "2026-08-25T04:30:27+00:00",
+   "title": "Disinfection, Kamayut",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IZndwblVHOEpvY09TTFhScTk0OC1JVkdoaUxzZTN0Ti1nVElMODd6eS1sdTE5X2hmc0lZd1RwU3RkblBzRVcwa1Q5VHl2bnFPd3dGeWN0Y0lScU90cHh0cUttUWlKakgwSmw2NzNBQQ?oc=5"
+  },
   {
    "ts": "2026-08-25T03:30:23+00:00",
    "title": "ရိုဟင်ဂျာအရေး ၉ နှစ်ပြည့် - လုံခြုံစိတ်ချရပြီး ဂုဏ်သိက္ခာရှိစွာနေရပ်ပြန်နိုင်ရေး SAC-M တိုက်တွန်း",
@@ -2126,13 +2133,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY1czamFUQlFYd0g1V0x3UDNLUWJRWkxMT0VHTm5lTUtGbWxvOE5RUmFZaEE3SE1aSHBwajdyM2x6WFg2cmdBM2ZaRDBGRVlFc1ZMY01ZSU82bkllM3VkclotSHl2WjkxdUstNG1laUZOa3F5YW53S2JGUkVDYkxJUWlXUXFjWGN3b0dTMVVrM0hLV1YySUdpN24wdkp4Z0d2YWhwSmlMcUNUMVRkRnF2ZWh5NA?oc=5"
-  },
-  {
-   "ts": "2026-08-22T22:30:19+00:00",
-   "title": "Dhamma Athan calls for tributes in 90th birthday issue of Sitagu Sayadaw",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV0ZjaWpYN0tOdFNWb2N6czVtYUdCSHhveDh4bTVObjZpRWhkc1B6UXdHUmp6M2xuMjk2XzJFV3pxWlhSM1BLV3czWnluOTBaZklxYXFSakMxY1BFUFZlaHBIanNwMXpyQ1ZrdE9mdXVSSUhQdG02UUFLSWFUYjc2c2hqNFhJTjZob1FCNG01ZGNYZktCZFVvaGExUHhGdw?oc=5"
   }
  ]
 }
