@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-25T14:30:28+00:00",
+ "generated_at": "2026-08-25T15:00:41+00:00",
  "signals": [
+  {
+   "ts": "2026-08-25T15:00:39+00:00",
+   "title": "The Foreign Trips of Myanmar’s Regime Leaders",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRmhvTWcwNFBlZF83M0JXUHdONFlMbDg1WERaX21EUlZIY25VMnl5bGZEdk5CbU53bVRGd3BfdVZxRUhHOS1JNGZKWUFtUTdRUExJSUdHR19GcThkRWZEMl9xTWZrOHBqYTBRSHZUQ1g1TlF1RzZNVnk5dDVIUjd5N3JQeFhYSnRo?oc=5"
+  },
   {
    "ts": "2026-08-25T12:30:20+00:00",
    "title": "Analysis | Why Myanmar’s Regime Left the MNDAA Out of its Peace Plan",
@@ -2145,13 +2152,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIRERmRW5VVTlkcXdqQUxLcTJ5eXc0aHZybGszOGRFVmZGalgzeUEwVVV4WjFIYmFHTmRmcWx5b1hOWUdhTkpQbEwyQkQ2M3dLak1RYVZEWWVNeC16WDJpV1Y2SEwxZ2dUc2s3dEpB?oc=5"
-  },
-  {
-   "ts": "2026-08-22T23:30:18+00:00",
-   "title": "hlegu floods",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9aQjZKV29jVHh6LXB0dWx5RE9WY1dKV1ptT1RwUkpUdWhrNGplVHRueW9XSVBPUFliY0Y4X0EyaHdDNjhoeElIa1RVZl90aHhwSFlTMFNoTXVRMU95eHg0emtxSHJwdmxrWTlreW1n?oc=5"
   }
  ]
 }
