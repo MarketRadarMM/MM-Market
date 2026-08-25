@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-25T17:00:22+00:00",
+ "generated_at": "2026-08-25T17:30:24+00:00",
  "signals": [
+  {
+   "ts": "2026-08-25T17:30:20+00:00",
+   "title": "Chinese Drug Busts Shed Light on Burma's Burgeoning Trade",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWZklKdUMyWG9GTThnMlV1MU9kekNLZ0FSckNCNm95WFVKZXRINXpkVW9uOE1FUlIyRDduWmpTd204Q0tJTnJuSjNvVFBUNnNPYzZUeEQ4TU5PY3hDR3Q4NQ?oc=5"
+  },
   {
    "ts": "2026-08-25T16:00:26+00:00",
    "title": "UMTA and Visit Indochina to enhance Myanmar-Vietnam tourism cooperation",
@@ -2138,20 +2145,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA0dTNDX0ZrazlRSDVvTFFKSFBRaGdWbWU5MUFWVGMwdzExSmpJU1dsdFF2c1dUdmY1ZEt1NTVUQ1dZZmROWFZUQTdtSGU1STFPaEhIWEdIZGZoWXIxbHljYnhFeXptOVF5WVZKbE1MZ2pBdzEyQUVtb05PWHk?oc=5"
-  },
-  {
-   "ts": "2026-08-22T23:30:19+00:00",
-   "title": "Diesel generators power up Sittway wards",
-   "source": "GNLM",
-   "markets": [
-    {
-     "market": "fuel",
-     "direction": "neutral",
-     "confidence": 0.5,
-     "rationale": "Fuel-market story — read for direction"
-    }
-   ],
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBlWjVpVFdacW5OZ3JNTW5MZU5ZdVpjNkxrdWgwWUxHbnR3MUZ4VldSMjB6WHRpN0xseko5aWliM09jemhZSHAtTkdLbFRKMEZaRVJlelh5ejRESFZaQ1RVTmtlSXBRcHY2bTliN090bmJ1TXc?oc=5"
   }
  ]
 }
