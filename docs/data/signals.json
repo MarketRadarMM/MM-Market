@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-08-25T15:30:24+00:00",
+ "generated_at": "2026-08-25T16:00:27+00:00",
  "signals": [
+  {
+   "ts": "2026-08-25T16:00:26+00:00",
+   "title": "UMTA and Visit Indochina to enhance Myanmar-Vietnam tourism cooperation",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNanlTLXVhY0pRZjc0RS1SNXpoLW5hY2hsQ09tSm5qN0dzRVpvdkdtY3dwR1JxUWFsc2NqSWItWDhReXB0S0cxWlloLWVJdktKZHQ5clBZOGQxdFBkM3Y1bzl2cjIwUWQ5T3otSzByeXpnX3BNQjJNMjhLTTROSE5YUmxPOEktV3didDBCSzNuclV3NUc0UEt2SDdPOVI?oc=5"
+  },
+  {
+   "ts": "2026-08-25T16:00:26+00:00",
+   "title": "I’m ME provides passport extension on 29 August for near-expiry work permits",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVXN5bVItaFA5MndINFNvOHA2Q1J5b0xlTXZjME9UZ21rcURZTHNsdnJnVjg1Sl90OG1QSnVnTTRFeFlBY3d6VVB2LURBUE9QcXp4ZW9ZckJsZXBkR2JUUzBXVmlNTHBQRHVtOG9JeDllcGVoOUJjY1BCUmRRa0UyVHdWTGVlM0hrYU1odDZXcHBfQzNoLUtESk1VWE5YY0JaVFE?oc=5"
+  },
+  {
+   "ts": "2026-08-25T16:00:26+00:00",
+   "title": "Low-speed instruction issued for construction onYangon-Mandalay Expressway",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSzdkU2FfNHRBS0pVQ083UnJHbzFXdDZQdWhIYVBIckcwd21GdFhvZmE2d2h3RzBaMWtvNUpXLTF6eXNqSzFTd2dPbHR4S3pxaTdoNXFLWDQwbkFTeEs0T2dWRzdFQkMxQTVnNTNYWl9HNk9ZWHkySGMwNTdjaTh6LW1MQktkRXY1QmJPMUstR1dsZHduSFQwak5JZXltSHd0?oc=5"
+  },
   {
    "ts": "2026-08-25T15:30:23+00:00",
    "title": "Maw Wan Kalay Archives",
@@ -2131,27 +2152,6 @@
     }
    ],
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBlWjVpVFdacW5OZ3JNTW5MZU5ZdVpjNkxrdWgwWUxHbnR3MUZ4VldSMjB6WHRpN0xseko5aWliM09jemhZSHAtTkdLbFRKMEZaRVJlelh5ejRESFZaQ1RVTmtlSXBRcHY2bTliN090bmJ1TXc?oc=5"
-  },
-  {
-   "ts": "2026-08-22T23:30:19+00:00",
-   "title": "Entertainment",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DaWtFTTdUT0FqTGs2R2pEd0tEUFIyM0lhZV81NEdsWkxPTzUwdGtMekdBckRZYW5uZ2MteFVDSDZSRUQwODBla0RrN2s4Y2hwUkRB?oc=5"
-  },
-  {
-   "ts": "2026-08-22T23:30:18+00:00",
-   "title": "Full Moon Day of Thadingyut Celebrations in Mandalay",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFByWjVxVVNsWkV2OHpYQkdraFpjR1RZSE1PLUpGamdGaVpkVWNYRUVhN29WeHJ0MTVzWjQxc3lTNHhRYkRuci1XOW5pUjU5OUx0d2x3dHhfYmJnamNGY1BpMjdkMEZYcUpMMl9IbTM5OA?oc=5"
-  },
-  {
-   "ts": "2026-08-22T23:30:18+00:00",
-   "title": "Mg Saung Kha",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZUlhMYjJ3SUVMSjlkUzYwZkFJUjJoWHh4RzRjZlhybl9RTGpsQ0tWNEFFUVhGRXdtaGJTZGFxOGZNeENtclVTNWNjOVR3WElQZm4yZVl2Ny1QNGtMUjR4QU9YYkZpdFMyUG5ldXJ3?oc=5"
   }
  ]
 }
