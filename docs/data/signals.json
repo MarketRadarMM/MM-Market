@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-25T05:30:19+00:00",
+ "generated_at": "2026-08-25T06:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-08-25T06:00:18+00:00",
+   "title": "The Russian general behind Moscow’s decades-long military courtship of Myanmar",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/the-russian-general-behind-moscows-decades-long-military-courtship-of-myanmar/"
+  },
   {
    "ts": "2026-08-25T05:30:18+00:00",
    "title": "EV Technical Training for Workshop Mechanics slated for Sept",
@@ -2126,13 +2133,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5uNnoyZTFPeHFOQVFkak9rRjdUX01GTElNWFZYN1dUWGFjVU5Qcmo0YTFJNjFESWh3Zm1PY25Yb2xuOFdzeTlDODFkVlFNU2N1ZTgtcXBBdHIyTlpZWGU3V0xyS0drM2hDZHRnT2NqZTF6dHp5cDB3?oc=5"
-  },
-  {
-   "ts": "2026-08-22T22:30:19+00:00",
-   "title": "PJ Passport Extension Completed Within a Day, Says Myanmar Embassy in S’pore",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRXhLMnEtdGRDVE9zQ0ZQdjUwX1pVSEZtOTYtQnlOcWJFbHlVRnNGOXFreFFfdzh1c1NRMUF6bDlKU0JmSUN2anJqZHhPYVpPVTdwTXRST1pPbF9odmFmZEVCcHlUVXVrcXlfSXQ3VFlLN1loRXN6aG1DM0tCNHRvQnBoOE4ta0pWdFpKSkRHeVQ1R2tEaF9WTE40R3Y0cXl3d1JManJ3?oc=5"
   }
  ]
 }
