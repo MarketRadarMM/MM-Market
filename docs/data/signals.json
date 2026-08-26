@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-08-26T08:00:20+00:00",
+ "generated_at": "2026-08-26T08:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-08-26T08:30:18+00:00",
+   "title": "Dead Bodies Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tREZGTmR0X3F6eUFnQ21RWU92dEk4b1I5X04xZl9ubjBTeTk2N1RIaHlGQUV6TUNMM1ZEaVJhaU9BNDNvRmUyNWRpdGx6SEhaNmVN?oc=5"
+  },
+  {
+   "ts": "2026-08-26T08:30:16+00:00",
+   "title": "Human rights in Myanmar hitting a “new low”: UN",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/human-rights-in-myanmar-hitting-a-new-low-un/"
+  },
   {
    "ts": "2026-08-26T08:00:19+00:00",
    "title": "Rescue operations continue in flood-affected areas of Ayeyawady",
@@ -2150,20 +2164,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZ1d5RW5HOEJaM1FGdXMzN0RZMm0yN1hveXFkallVbTJsNVh1Z2tndTZxSzh4NmNCTUpHMFNGZUg1UjZDOWhzOE9LVm00SXpPeWFabmhOaTR3U1F4ZktrR3FfWENRXzdTcGdGclZTY2hlNzVSTEQ0ZHpZMl9VMlNZRlE3OHZ1SWx3UzZfeXdvMUpVaE1XNEZZTkw4eW1IR1poUDJEaDNna25mdlp4NnBxT0I3SzBmZDQ1QzVOTjJESkM?oc=5"
-  },
-  {
-   "ts": "2026-08-23T04:00:22+00:00",
-   "title": "President U Min Aung Hlaing holds meeting with Head of Tuva Region",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVTUyNnpLbmNFYUJDbl9keXV1UnFGc3BTcThPN0w1U1liM1EyN3hSWlRQMmo5T05TSm1TR0QxYjRxOEEtMGZrVENqY0YyT1RjblZsbXFGY2dhMlgxZWVSWEF4dHVnWWR2NzBJZ2N6cFhHZ0VRa3U1UDUzTWc2aWV3U1hENlItcmtk?oc=5"
-  },
-  {
-   "ts": "2026-08-23T04:00:21+00:00",
-   "title": "23 August 2026",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5qY2hVYkJtZGhsVktzM3R1Q3lYUldOZHpnbGkyU2NrbjNoajUzb2s0Z3NOczNlZncwREhSekh6d1RiRFkwN1JwSVNRWUVGQ2I5?oc=5"
   }
  ]
 }
