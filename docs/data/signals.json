@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-26T10:30:21+00:00",
+ "generated_at": "2026-08-26T11:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-08-26T11:00:21+00:00",
+   "title": "AA နယ်မြေများတွင် ၁၂ တန်းကို ရခိုင်ဘာသာသင်ရိုးသစ်ဖြင့် စတင်ဖြန့်ဝေသင်ကြား",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/80781/"
+  },
   {
    "ts": "2026-08-26T10:30:18+00:00",
    "title": "Myanmar junta tightens restrictions on transport of Chinese goods at border",
@@ -2157,13 +2164,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9NU0xIMkNlMno2b2tVcEcyM3hCYmJfQ1lwYzFZcTJYYm84ZXFaZkdSd0tPSl83T29IT09nYzJqM1l2TzI0VEk1elpmSjVHXzZwWGtyWmo5TjZScFFnOW0tLXMwNzFLaGtJR255YXFn?oc=5"
-  },
-  {
-   "ts": "2026-08-23T04:30:20+00:00",
-   "title": "Life Slowly Returning to Myanmar’s World Heritage Site in Bagan",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE02TVNMMHB6RVVWemJHSGZOM1hGSEQ0cVFtaDU2YnpYWE1lY0NFMzg1ZE83RHBOLXp6RWVnN3psd2R3TUVMUWZDUXlhdXBZT2lIbTVtUnNLRUVNTDRVQzlYRElaNzFJUXJFWV83N2Nicw?oc=5"
   }
  ]
 }
