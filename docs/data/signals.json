@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-08-26T07:30:20+00:00",
+ "generated_at": "2026-08-26T08:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-08-26T08:00:19+00:00",
+   "title": "Rescue operations continue in flood-affected areas of Ayeyawady",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNkV6Vzk4bUdONlFiUXRpcFYxVDdfbk8zSHVKT25pYmRZdHExTzNnMVVYcHpYNUZhV1k5SWgwd0lIX3FhTU5DMmZPTWpUV2VBTmlkMXRCRXk5dm85TlYyNTVLWUxWMFR1dVZBckt3b1pBY1BUQWp6U3NlVzFhbnFVenZ4LVFfT1FvWUFVQ1BXdDRVdw?oc=5"
+  },
+  {
+   "ts": "2026-08-26T08:00:19+00:00",
+   "title": "UMTA, Visit Indochina to strengthen Myanmar–Vietnam tourism cooperation",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSE5ZRUU1WkJXSmdmbmRHUW5RaWp5NlBjVTJOVm9jNi1ubUJPMVhMXzQxY0ZWdjZpcTJjS2ZSTV9DNmxaTHc1RUY2VnhZWjhudEt1LVhlQ1l3R28tb0xqbnJNNDdUeWlrRFdWUDBPNXRRZ0tiRlcwaGU1UnNLS1pZVDVFSXNOeTlUZkVZclpydV8xeGdEWFh2by1Hcw?oc=5"
+  },
   {
    "ts": "2026-08-26T07:30:19+00:00",
    "title": "Tatmadaw families plant saplings at fourth monsoon tree-growing activities",
@@ -2150,20 +2164,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5qY2hVYkJtZGhsVktzM3R1Q3lYUldOZHpnbGkyU2NrbjNoajUzb2s0Z3NOczNlZncwREhSekh6d1RiRFkwN1JwSVNRWUVGQ2I5?oc=5"
-  },
-  {
-   "ts": "2026-08-23T03:30:15+00:00",
-   "title": "GenZ တွေ သောကဖြေဖို့ အရက်အစား စပ်ဆေးတွေကို ရွေးလာကြပြီလား",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cly5exdn7rno?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-08-23T03:00:15+00:00",
-   "title": "သြဂုတ် ၂၃ ရက်သတင်းများအနှစ်ချုပ် - စစ်တပ်က ငပလီမြို့ကို ၁ နာရီအတွင်း ဗုံးအလုံး ၁၀၀ ကျော်ကြဲခဲ့တယ်လို့ အေအေပြော",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cgr7rqdkrjdo?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
