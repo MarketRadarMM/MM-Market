@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-26T21:30:23+00:00",
+ "generated_at": "2026-08-26T22:00:26+00:00",
  "signals": [
+  {
+   "ts": "2026-08-26T22:00:25+00:00",
+   "title": "Login with your Social Account",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE56S0VQU3JFNU1vaEJhcE9wdUtONkkteGxNdWVlQ3lfS2FWcHJwTVVVWk9zYXRESnhEMW0tUWQ4TF9uTFFr?oc=5"
+  },
   {
    "ts": "2026-08-26T21:30:22+00:00",
    "title": "Defence Services C-in-C holds meetings with Thai Chief of Defence Forces, Thai Minister of Defence",
@@ -2176,13 +2183,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNEFERTI0NHVxMGl6TkRpM1BUa3V4TmZOdVI2ZV9IOVVwTjl4d1NPbWZWWWYyazBNcEZjeFlPN0pnUEZneWxDcGhqaGY5endFbi1ENzBoQmJlTEVuaXRtRFREV3NYSEZTaUpPNmJhWHNpQkdWY3FWaUc3dmZ2RmI1TVYyQmJoYUhudWdnbTRBLXVycEdtbHk5V1BJX3dnS0xLUm9VV2g2Z0V4NzFE?oc=5"
-  },
-  {
-   "ts": "2026-08-23T06:30:19+00:00",
-   "title": "President U Min Aung Hlaing leaves Russian Federation for Republic of Belarus",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV2hJNnZOOFJGc0ZxOUxBMEVIMGJ2Mm9rT0IzTmo3a3ZOZ3FIalpHWjFxQXhJWG5PUm5jeXdwZ1pzSkZnblRPV0NDYU5uRWwzS3liamM2cXVRN3hKLXh6aDJmV2FUZzVQRGNDaHhvMVBkVi1lYzM1eEZOMk95M3pJa29RN1luRTByMWpXa3N1aE9uemMyV2VnZFhmVUVzd0VYY3JqTA?oc=5"
   }
  ]
 }
