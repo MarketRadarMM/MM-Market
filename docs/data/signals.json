@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-26T16:00:22+00:00",
+ "generated_at": "2026-08-26T16:30:22+00:00",
  "signals": [
+  {
+   "ts": "2026-08-26T16:30:21+00:00",
+   "title": "ဦးတင်မောင်သန်း Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPVzJ3dEczV1cxUE5YZERvbFhobDBuRnEyUnJjQVF1SVVKZkNiSURpVUF6cmd3LWVKc3AtX0ZQSk9VdnprZGRqR19Ya3FGdG1OdjBmendrUV9PTFQ0emM5TWVZWFAtTmpqQzItVWtMMWdxNEZST0pqeTZOeDlxU05WUXhpWnd6NDl5WjZ6b2I4N2lZcDJjSEJTWVZlTEh5bWNGUndDYnhFWTR5OW4xbGhMNlNQQmE3bEpFa1ZtNC1SaklLTXllYy1LVkxnX09RWTl2VWF2ZGd6SndJNG9Tdm9MMVo2cEVvblJjOHp2Z3RWQlBTSno2cFlzRlN0RQ?oc=5"
+  },
   {
    "ts": "2026-08-26T15:00:26+00:00",
    "title": "State Administration Council Chairman Prime Minister of the Republic of the Union of Myanmar Senior General Thadoe Maha Thray Sithu Thadoe Thiri Thudhamma Min Aung Hlaing sends a message to the ceremony to mark the 77th Anniversary of Independ",
@@ -2157,13 +2164,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GWURhZWxvS3RISEtKMEMxVmpQVUUtQm9peEg0Y0xCb2EwRGdJTkZKR1VON0tzSFlvREpaMzgyYnZUMlpleHdLc1k5MG5hcDkzeW42Y0l0RFR3c3g2dngwXzBPckIwTDFtWGVoa3djOA?oc=5"
-  },
-  {
-   "ts": "2026-08-23T05:00:21+00:00",
-   "title": "U.S. Secretary of State John Kerry",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CRllkVy05TmdhU0Z6cnRIanJQNndKaDNuN1M4M1lrQTNsZTJZWXFUaTlJeFRBUjM2cy1VbWc4a0FOZDNhTUhrZ3VtNW44NllhVzdZX3A4ZnZCb2lKSEF5QkxQVk0xQVlhRlhTYzN3?oc=5"
   }
  ]
 }
