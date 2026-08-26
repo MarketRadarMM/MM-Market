@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-26T19:30:26+00:00",
+ "generated_at": "2026-08-26T20:00:29+00:00",
  "signals": [
+  {
+   "ts": "2026-08-26T20:00:27+00:00",
+   "title": "Myanmar Regime Atrocities Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EU24yZ3BGUUlJNm82QXNwYTExSEZ5S2lkeFVZYWt0bXNIeElmZVVqeEVtdmgtQXpJaFJiN1JWdTA2VGdYcFFMOExYUWZlOFQycG00YTZaYWctY2s2YmpLbWlQYk5KZw?oc=5"
+  },
   {
    "ts": "2026-08-26T19:00:24+00:00",
    "title": "- yktnews.com",
@@ -2176,13 +2183,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tdWdpemFiYlY2UFlhbHVTX2VGY1ZDTGxfWjZLaDhMcjBEdTNEYTlyUV9JT0RqeFNGc05ZNFctdWlNa09tOEhnMjNCRnA2QUhfME8yOGQyRHhtdw?oc=5"
-  },
-  {
-   "ts": "2026-08-23T05:00:21+00:00",
-   "title": "Alert Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA5bFhWSGRFMXdrRkFPYjVScUVKWFZYZFJVV2laTWRTdU1ZenRqQjNQSGVoeVVtQl9rNkpra1lBbEVIdkZVai05Wlpwa1V1dw?oc=5"
   }
  ]
 }
