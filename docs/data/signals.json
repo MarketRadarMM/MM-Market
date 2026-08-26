@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-26T10:00:32+00:00",
+ "generated_at": "2026-08-26T10:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-08-26T10:30:18+00:00",
+   "title": "Myanmar junta tightens restrictions on transport of Chinese goods at border",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/myanmar-junta-tightens-restrictions-on-transport-of-chinese-goods-at-border/"
+  },
   {
    "ts": "2026-08-26T10:00:29+00:00",
    "title": "Regime Blamed for Ignoring Flood Defenses as Ayeyarwady Disaster Deepens",
@@ -2157,13 +2164,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE02TVNMMHB6RVVWemJHSGZOM1hGSEQ0cVFtaDU2YnpYWE1lY0NFMzg1ZE83RHBOLXp6RWVnN3psd2R3TUVMUWZDUXlhdXBZT2lIbTVtUnNLRUVNTDRVQzlYRElaNzFJUXJFWV83N2Nicw?oc=5"
-  },
-  {
-   "ts": "2026-08-23T04:30:20+00:00",
-   "title": "National League for Democracy supporters in Pyin Oo Lwin",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96RnVJUjRHY0gtU0tOY2NrQ0VHU3YzUlNFMWFfTTBiWE9iN0x0OXVBTktfRXEwTFFDelFYZjVvNU81ZkRJSWZBUlBTWEJ1V1pyVHYxMy1CN1QyWU1jc3VlclMwTFU2MnVqeFctTmFDWQ?oc=5"
   }
  ]
 }
