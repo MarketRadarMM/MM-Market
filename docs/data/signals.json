@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-26T09:30:18+00:00",
+ "generated_at": "2026-08-26T10:00:32+00:00",
  "signals": [
+  {
+   "ts": "2026-08-26T10:00:29+00:00",
+   "title": "Regime Blamed for Ignoring Flood Defenses as Ayeyarwady Disaster Deepens",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS290MV9OU0JFQXR0Y05XMzRwYzA2aUpnQnBzdHg3elJJd0ppWFFoaWdXVXJkMTRoSTZxTFJLX0l3d205NTdOa0tnaDJkR3dSS1ZOYThBQjNNY0JxQlVxTjEwMzJ2ZWxUb3pvSGI4Z1ZsR3ljb3RvcDhBRzB0WXdVcUhlemtqVmRHWWx5M0l0ZXhabEdIREpDVnVqc3RkUjVGSTd3T2JiSHhiOUJ1bVhCT0VJWUE?oc=5"
+  },
   {
    "ts": "2026-08-26T09:30:16+00:00",
    "title": "စစ်တပ်က ရေကြောင်းမှ အင်အားဖြည့်ရန်ကြိုးစားနေသည့် ရွှေကူမြို့တွင် တိုက်ပွဲများ ပြင်းထန်နေ",
@@ -2157,13 +2164,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96RnVJUjRHY0gtU0tOY2NrQ0VHU3YzUlNFMWFfTTBiWE9iN0x0OXVBTktfRXEwTFFDelFYZjVvNU81ZkRJSWZBUlBTWEJ1V1pyVHYxMy1CN1QyWU1jc3VlclMwTFU2MnVqeFctTmFDWQ?oc=5"
-  },
-  {
-   "ts": "2026-08-23T04:30:20+00:00",
-   "title": "Sawbwa Coffee",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUeTQxQkVLOWhkdW9WMGNBanZWYTZsTlBBazFZQXZLZzdiVG5uNUhVam9PMlpMQUtCUDZCVVpJNTFfWER6bi1vbXczeFVwemRqRFdWZTBxTnNKUmNTMDdBX3VjOFBuVlRxTkV1Unlpbw?oc=5"
   }
  ]
 }
