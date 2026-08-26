@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-08-26T21:00:26+00:00",
+ "generated_at": "2026-08-26T21:30:23+00:00",
  "signals": [
+  {
+   "ts": "2026-08-26T21:30:22+00:00",
+   "title": "Defence Services C-in-C holds meetings with Thai Chief of Defence Forces, Thai Minister of Defence",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNjJIdXkyOFhPeFBuRHJTQUlrb0ZXcjd0MmhjbWNGWndZOGRGQTBSaHlKSDRmQnk4WWhITW5TNjc0MmFDazFzUWxUZFh4MzR2VFF5RXZEV1hIdkZBaUthZWVTTHRSVjBXNWxUbGRKSWpEWk5pVVd1blhDYmtsU2xmLXRDOGVlY3ZVZE9HMnJxSFotM1BkVUNSWGVqM2taei1tRFdwMDRQOVFyUFJGZndGVHFTWUpzV1I5OWhiOXdyaw?oc=5"
+  },
+  {
+   "ts": "2026-08-26T21:30:22+00:00",
+   "title": "Myanmar, Thailand Hold 9th High-Level Committee Meeting to Strengthen Bilateral Military Cooperation",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcHhSZDBDUnBucXktZlBJSWk1VENUWkl2XzhrQmw4QVlvd2REczVUcDNpQTc2R3FUblk2RjNDS3dTUUJNSDVZMUdLNXc4bTN3SXJqRm5BTEZKdEcwSm5QZG5sQ3F0Xy1BN2dvQWZTYVZKQ2xYdk9leEVudF9Sem1faWNTb1MtYVFJVlNaSjV1Sl9WX0xMWFRGQ3BBS3Byd082S2xNeFpEdkZHbEtuVFRZcUpxdUQydFV1blRINDhrdnBTdw?oc=5"
+  },
   {
    "ts": "2026-08-26T21:00:23+00:00",
    "title": "မောဟ Archives",
@@ -2169,20 +2183,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV2hJNnZOOFJGc0ZxOUxBMEVIMGJ2Mm9rT0IzTmo3a3ZOZ3FIalpHWjFxQXhJWG5PUm5jeXdwZ1pzSkZnblRPV0NDYU5uRWwzS3liamM2cXVRN3hKLXh6aDJmV2FUZzVQRGNDaHhvMVBkVi1lYzM1eEZOMk95M3pJa29RN1luRTByMWpXa3N1aE9uemMyV2VnZFhmVUVzd0VYY3JqTA?oc=5"
-  },
-  {
-   "ts": "2026-08-23T05:30:17+00:00",
-   "title": "Headquarters of now defunct Communist Party of Burma",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WN2F6VEo3cVdpVDRYSzY2YXJRRlZGY0lwUjctOTYzeE5TSjFDajRSdXItX01CZjM5NDJwNlo3Yzh3cVdCaHVubjZCOTJ6dXJZUFgtUVlIYVhzOHR6cnl2MjJFR0Nta0VkOGhSelZn?oc=5"
-  },
-  {
-   "ts": "2026-08-23T05:30:17+00:00",
-   "title": "Aung San Suu Kyi visits Kaw-Hmu township",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SSkEtdzI3YUZSNzY3ZXpRdlctN1IwZ3VwdkI2WldqR0ozR2dyM0oyZVk4eFZnQi1ialJlTV8yM0NzWEpvVi1xR2VLclhTTGs5N0NLdVozRS1ad05rbk9QWTVPa2JpUngtUlVaM0ZTUQ?oc=5"
   }
  ]
 }
