@@ -1,6 +1,39 @@
 {
- "generated_at": "2026-08-26T05:00:23+00:00",
+ "generated_at": "2026-08-26T05:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-08-26T05:30:19+00:00",
+   "title": "26 August 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rdnk0Zkdncno1TUNZeVNET1N3MlRGNC12Xy1Ra0lWc3NuVDZZTWJKdGV4OGJkX0ZubmJsc005T0lybkUxdUg1d2lLUnU5WjJ1?oc=5"
+  },
+  {
+   "ts": "2026-08-26T05:30:16+00:00",
+   "title": "Guest Column | Border Trade and the Future of Arakan",
+   "source": "Irrawaddy",
+   "markets": [
+    {
+     "market": "pulses",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "China border trade affects bean flows"
+    },
+    {
+     "market": "rice",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "Border status affects rice exports"
+    },
+    {
+     "market": "fuel",
+     "direction": "neutral",
+     "confidence": 0.45,
+     "rationale": "Border routes also carry imported goods"
+    }
+   ],
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Vam5LbHpaRmtDVlpaZlFGQUNSMS1UZzh3cElCTEQ3QWxKUjZhN0xET3Bfb2JxVlA1SDc3RkszZmI3c08wdldoUUptWjV1MFZ0MnFObFV3aFo0TE5UQjFVX05rcDZ0YTZnOTkxRjNUYXU4aGlHMmtZcHRFVHpBQQ?oc=5"
+  },
   {
    "ts": "2026-08-26T03:00:31+00:00",
    "title": "A speech delivered by President of the Republic of the Union of Myanmar U Min Aung Hlaing at the affirmation ceremony at the Pyidaungsu Hluttaw",
@@ -2131,20 +2164,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jVTRsR3hfU3NpUkJNcXBRSDkwNzhPZUJpVEh4ZTBwVm85bW1HZmZGUmY5TEdyOHFHODZNZzhrWkkzWTNwWFdUQlVaaWlhenRNRGVWUlpuRjkxUkxUVEh5aW5KeXNGVTdhV2QxR0JR?oc=5"
-  },
-  {
-   "ts": "2026-08-23T00:30:19+00:00",
-   "title": "UEC Supporters Protests",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BUzNDcXdkc1VPemtzQVl0X3BsQlc3TGY5N2VFa0FhQkVSM21KQkUtenVzLUxDLWhiTzlmV2lOeFgxQWJrb1VYREgyR3hYak15MXpwbWZXZ2JkNHRRbVo3SmltaDU1aFdCd2hhWnlGTjU?oc=5"
-  },
-  {
-   "ts": "2026-08-23T00:30:19+00:00",
-   "title": "Aung San Suu Kyi visits Kaw-Hmu township",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XNTZ6dlF5ZDZCcXF0bDdfY2h2clA2d1RWdDdyU3k4SmpLS1dlUUdJSDVNUl9WRFRXZjljMXlzX3ZNc1R0TU9KMmJUSlhJYlFyU3R1aktXOVNyeXdCa3ozdjhQdnhZU1M2dDNEWlFxNA?oc=5"
   }
  ]
 }
