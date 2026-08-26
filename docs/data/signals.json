@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-08-26T17:00:30+00:00",
+ "generated_at": "2026-08-26T17:30:27+00:00",
  "signals": [
+  {
+   "ts": "2026-08-26T17:30:23+00:00",
+   "title": "Guest Column | Border Trade and the Future of Arakan",
+   "source": "Irrawaddy",
+   "markets": [
+    {
+     "market": "pulses",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "China border trade affects bean flows"
+    },
+    {
+     "market": "rice",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "Border status affects rice exports"
+    },
+    {
+     "market": "fuel",
+     "direction": "neutral",
+     "confidence": 0.45,
+     "rationale": "Border routes also carry imported goods"
+    }
+   ],
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV2NCX0ZKZFpwQjZ5U2luRFdUbnIxYmZfUngtMi1YZWpDV1NWZEY2SzNrZE01d1NJWkg1czFUNS0ySmVNaUw2bGROVWJBd2NZLWgxMDZSSG1kVzB3VDdMbV9LRjN6dkVZVVpWcWtZaUlzZ1pZbDVQWUZrbER0NVIybVAzYklNekZoVklMazdHdDZJWnM?oc=5"
+  },
   {
    "ts": "2026-08-26T17:00:28+00:00",
    "title": "အရှင် ဣန္ဒာစာရ Archives",
@@ -2157,13 +2183,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45WXFNVkdMajJzaERJb2xCQUROczlILTRHT1JYbkNtcVlrM3BPZXQ2ZmVWMWM2N2NYMnlSZ0ExRmFUUWtiY0s1cDBDdnU4MlF2SmtFNjNjdHBNY1ZBX3NwZnlzeVA0ZjFmTWYxcDdB?oc=5"
-  },
-  {
-   "ts": "2026-08-23T05:00:21+00:00",
-   "title": "Yangon International Airport",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BOGhoRUJOLVlmQTNBSm1yeFZRVGZYWHExWDlkenBPYUN4VWhiNG5nRHItR3BlRUhPN2dIeVhUYzZKX1dqX3dmYnVYOXRPdkhPYkxibVhVcm9kUWZ6WDZJM0JlTDllUTZndzVpUE04Yw?oc=5"
   }
  ]
 }
