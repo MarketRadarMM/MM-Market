@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-26T01:30:19+00:00",
+ "generated_at": "2026-08-26T02:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-08-26T02:00:22+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAxV2FabV92WjRUY0JMcU5ZRDNPSVZmd2VVdk1tUGx2NVFwbXd0WTRpOEw5MnRxbGRsdGg4bFUzR0d0MXpIV291TGpydw?oc=5"
+  },
   {
    "ts": "2026-08-25T22:00:31+00:00",
    "title": "Handloom Days exhibition to be held at City Mall St John Starting 28 August",
@@ -2138,13 +2145,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOazZIMkJqREgtaXkzZFJQYlN2ang0TnN1MVRiMjYwbkZhOHl1dzVZUjVDLVZjYnZWTlVmcDBReEdiUWpIRS1hVzNVMEJOZlBJakRKc21qR2g3QUFaVXpkTWZxdUFURjY0ekt5QkFnU2s3eTBVS1RRSmt5N3N2NzdKV3ZwZUE5VE5XWnNnaUFjUlpLeXhQSGYxTHhHT2I1QjNPaHZSRVFWY3lvRE1KSE5F?oc=5"
-  },
-  {
-   "ts": "2026-08-22T23:30:21+00:00",
-   "title": "Octane price slips this week",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1yUUtpckk5cFZlc2hTSFZ5TTZFWnF0b1d2c3VHRmFSaWFVYkJVSUtyV2JTcG0zd29DS0JYN0xzNy12VEphdk5BTGFHbUlTXzNXX3RCQTdWN2tSMXV5aEE4WFlmSQ?oc=5"
   }
  ]
 }
