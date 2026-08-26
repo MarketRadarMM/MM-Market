@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-26T20:30:20+00:00",
+ "generated_at": "2026-08-26T21:00:26+00:00",
  "signals": [
+  {
+   "ts": "2026-08-26T21:00:23+00:00",
+   "title": "မောဟ Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BUGh4Wk5ScHNVdG56VXJLN01Ha29TUWFjUFFvWnJTZkl3RmxKcmVneTZqZE1HMTJIazRkQmptNW84dUJ2bVp6Zkd1RW82X2ZwUW14azljT3pTdUxjbUFTLVY4T0Znbm8tSDBYWDI1UGo1ODdRUFBV?oc=5"
+  },
   {
    "ts": "2026-08-26T20:30:20+00:00",
    "title": "Strive to produce good medical officers, nurses, paramedics and pharmacists with physical and intellectual prowess, reliable for country, Tatmadaw and people",
@@ -2176,13 +2183,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SSkEtdzI3YUZSNzY3ZXpRdlctN1IwZ3VwdkI2WldqR0ozR2dyM0oyZVk4eFZnQi1ialJlTV8yM0NzWEpvVi1xR2VLclhTTGs5N0NLdVozRS1ad05rbk9QWTVPa2JpUngtUlVaM0ZTUQ?oc=5"
-  },
-  {
-   "ts": "2026-08-23T05:30:17+00:00",
-   "title": "Disinfection",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfa2RIc3lJQWVuRGtlRjc5MkdkWHl5OGdaRlE0Z1Q1N2RzZlI5d0JVSjJrdGlkU0xISkVMVkJtT29yUTZ1SHZWdG5sQlhvMW5YMjltdWZQLWd4eVRCNHB5QXdmZDB1UjNnUUp5Qk5hSQ?oc=5"
   }
  ]
 }
