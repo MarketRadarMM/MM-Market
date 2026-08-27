@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-27T08:30:21+00:00",
+ "generated_at": "2026-08-27T09:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-08-27T09:00:21+00:00",
+   "title": "စီဟာဆက် Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU0tyenpVcFBkdUJmWVdCNU1WbUgwT2I0dWVyQ19rLVpETGFYbk5FWkQtN3VfNVRXd3dTcVZ1NmhWaEw3TkYtMXQ3RWtIU0NHU3p2bmx2NHpwUGQ5dnlFRXRnTWV0R2UxcVlsY2Fac3J1ZEtobkF1UTVWTlFsRzE1STBEc1BodkxPUWZLVVRPdjRBUHRNdnNSMmhDcw?oc=5"
+  },
   {
    "ts": "2026-08-27T08:30:19+00:00",
    "title": "အင်းကွက် Archives",
@@ -2176,13 +2183,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvT2FkbmQtaFhYV3JLUVZVeTZTdVRlYVFhLTdYTUFKRGRLVm5FUnBtSTdwdDF5MjZFa2FpYWlRNEIzbXNxSlBOSlNobjZTOHJqMUV2WTZXU1F5SUR0MUVwNXZKcUxSWkZGOWxrQTRvYjY?oc=5"
-  },
-  {
-   "ts": "2026-08-23T11:30:18+00:00",
-   "title": "Full Moon Day of Thadingyut Celebrations in Mandalay",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RM3F0dFpwRjc4Tlh5OWZIVG94WkJ4RXZ3c0NsOXE2SzlPUVNRVHpDOXVMc0ZQenNPYjRNcGNHajlZYjl0TGxRc1d3UlUtYTUzUnd6M3dqeXB1OHF6Yk5MdUd0ckdjeEo1cDlVQjlR?oc=5"
   }
  ]
 }
