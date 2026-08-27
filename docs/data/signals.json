@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-27T00:30:21+00:00",
+ "generated_at": "2026-08-27T01:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-08-27T01:00:21+00:00",
+   "title": "Free construction training courses to open in Mandalay and Sagaing",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ2hhb29jSFdCT3pvSENYUmMzR3lma0tnYmstZlI3SGhOaFpsNUdKTDF6alF4WDZoU1FhX2tWcXhtaU51Q0FQeWpNZ1haTU15eEVRc1Z4WkpUQnJYdUI3VVA4dV9zUHFtUy1CTEFhVnA2dWdoRE92N0g1ZXVsTF9ZUjlqYVBLbDkxSFFFVVA1WW5HdmtEMHc?oc=5"
+  },
   {
    "ts": "2026-08-26T23:00:23+00:00",
    "title": "Vice President U Nyo Saw addresses first meeting of National-level Coastal Resources Management Central Committee",
@@ -2176,13 +2183,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SQ2hkSXJpVG1neXV3NmZqcGl3SkR0Sk1PYl84NF9jRGh1U2x1QlFaNVhFRUFwX2NoSXY4OHdRMHIxYVVFOTlWQzZnNVY2V29jTTh4Y1VRZmlROXE2a01UQ2swODZQeDY1Q0xpenpySQ?oc=5"
-  },
-  {
-   "ts": "2026-08-23T08:30:16+00:00",
-   "title": "Poppy substitution tea plantations in Mongmau of Wa State",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZYkNxdFVYaU1oOV9mY0N4VmpYRXFQUFBnMkpBMTR4cEFoMEd6Wk1lUW0tMHp0cVpPeWFEemtqczYzY3d1b25pc2dKUmhCWnBXOU1FOS1uel95VzVqZkJZTlRtV3JIUGg5S3Iyb1pzOA?oc=5"
   }
  ]
 }
