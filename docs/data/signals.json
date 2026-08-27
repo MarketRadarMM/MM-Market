@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-27T16:30:29+00:00",
+ "generated_at": "2026-08-27T17:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-08-27T17:00:20+00:00",
+   "title": "စစ်ရာဇဝတ်သား ဘော့စနီးယား ဆာ့ဘ်ခေါင်းဆောင် မလားဒစ်ချ်ကွယ်လွန်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c33keenykl6o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-08-27T16:30:27+00:00",
    "title": "Overseas Trips Archives",
@@ -2176,13 +2183,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TOGRlWXpuQVh5YjBRaWZKZUE3WGdMVW40Y2lzVnczZHYwSEFEbUxmOTVfMmhiZV9VZmtuYndWUGgtd0VXOWxCeEZkdHRMUmRDYjlyWVgyS1lQM0hJT3drRUd1dDYwZVlNYVJsY0xBbw?oc=5"
-  },
-  {
-   "ts": "2026-08-23T13:30:19+00:00",
-   "title": "ဘဝခရီး Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOEUwV3hhRkpwYjJ6X2U0anBFTkVLS1FJTy1MelRxOUxOZzRObzgyR0Znb2gzby12SE9GVGxlSE8ydEhBWDZvcU5LVGl6YzJpVEZtV0k2OGsxRmRaYjJiYjdPZjJGY1dpaXU3UkIwekpRWGZzSWVFVmVoWnM3NldDQUdVdVo5RHNwUEJFbzlROA?oc=5"
   }
  ]
 }
