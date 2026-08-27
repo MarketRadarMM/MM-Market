@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-27T21:31:07+00:00",
+ "generated_at": "2026-08-27T22:00:25+00:00",
  "signals": [
+  {
+   "ts": "2026-08-27T22:00:23+00:00",
+   "title": "Cloud Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1sUExVMXJQYmdPSW83ZE8tU0hNMmN4aVdFNHo4NUtLV2NmYjh6VWtyZ1RlTUlOWERvZDd1N2stYW5ZQnRzRWxVNzAxNVVNZw?oc=5"
+  },
   {
    "ts": "2026-08-27T21:00:20+00:00",
    "title": "Financial Crime Archives",
@@ -2176,13 +2183,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iZGdESzFvMDFxd0g1UXFuMHJGTTRHcFlqWlNSUUVSSDJmUE1VYW9CVUtxLThxUmhnRWFBZWIyeWZJZUZzaDBoODZuSmllbVJo?oc=5"
-  },
-  {
-   "ts": "2026-08-23T20:30:19+00:00",
-   "title": "ငါးဆားအုံကင် Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTnpJbnVxV2o0LWJxRnEyNFBMR0xubkZ6SnpjY2c1WDZTUVhRS0o2c3E4RjFDVTRQOFJLc1I2dzJWcExNbXBsYk4wTVQ3UUpBRnhGRDgtNVkxOTJfNGJUUktDVFVtekVaWWR2OE9CNndMMFdjS1U3cjh1Q3BNUHR0VklHbk9uSk1HSjZCQkNqeEpzdEoxWHBsc3lYRENDVjhuaEVtczZnQng2WFN5dDd6WHhvOWlLeGt1R3dXWEJGS0NhU19WWWNEbXVaUlVkXzVZTjJKTndBOA?oc=5"
   }
  ]
 }
