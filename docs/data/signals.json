@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-27T05:30:22+00:00",
+ "generated_at": "2026-08-27T06:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-08-27T06:00:21+00:00",
+   "title": "ဟန်ပြ Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUXFNcldYVGNnbGxHWWRUUl9pV05pM2xUSDN5SThESlZRZlVkck1RWEpTcFMtU2FRbHhJNFc2NjBQcl9uZXZsYUtlblZuRlpmcDdWUWFqLWgzWGxhUjhwOWVKSTFxenpyRHRIRElQZGZnSjA3bC1LbWV5b1pBN0RSa2RQQQ?oc=5"
+  },
   {
    "ts": "2026-08-27T05:30:21+00:00",
    "title": "Account Archives",
@@ -2176,13 +2183,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TYkRuWFUzMEtIQld3RExkbzBlSDg2TTdqZnZEa1VZcy1haHUtcjBvLXNualRrcWVXcXVEUVAwMjQyY0xTT2E4dWpZeW55WG5KZVRIR3dHWWNTVm5uY3BUWHFaZ3hJR1BPUVVNN3NEWQ?oc=5"
-  },
-  {
-   "ts": "2026-08-23T11:00:21+00:00",
-   "title": "Lanmine Victims",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE91NGNaYko5S2thNzMxcE9IcWNMQ2VIeWZHM3l3RVFxSl9CQmtPQVVBTWw3ckdyU0pkb3ZVSjRPM2k0a0Fqb0JjbC1CX0ppOFpncU5KMlE1QXM0bHJfM1l6NXM3c05lZDRnYnAzQk9SYw?oc=5"
   }
  ]
 }
