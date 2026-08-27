@@ -1,6 +1,34 @@
 {
- "generated_at": "2026-08-27T17:30:20+00:00",
+ "generated_at": "2026-08-27T18:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-08-27T18:00:22+00:00",
+   "title": "CDF-KKG Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9QMnJEYXQwVVBtNzlWbVVIdXB6dWYtR2pmM01uSEJNN19JUDV4elotRW5GQ0F1X3FoV3Z3djU1V1VvUWlodFd0dG82UHdvR0lp?oc=5"
+  },
+  {
+   "ts": "2026-08-27T18:00:22+00:00",
+   "title": "ကျောက်ခွက် Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWWdsYTlRUW1Qdi1CZkN5UEs5MlFsV0dCQXlkdE51NHFTWEFvX2NXODYtbzN5bC1YRlBUcFVIWkJBU2xCTElwaHo1cDZ2d1N2VFBuMkJlMkJZbWtRX2NRRTJjS2tDRmNUcHNxWXhNUERFS1NpWldmV0lmclNYOEFQMHN1QkZFbzBIbjVpem5lT1Z1c0JfZkQwMUNFSy1VcVp3d0dvV3RLSzd5YXpjTDhKZElGcERwUUE0eDdzY1ZKYw?oc=5"
+  },
+  {
+   "ts": "2026-08-27T18:00:22+00:00",
+   "title": "သူလျှိုမှုသံသယ Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVFQtaDd6REpna3NuYjlDeEpIWHl4S3FuRzNHQXZQb1cxWjUyVHJZeGRBdlUyOVI1NmR3WmxHUzU1RWJ5Ni15eTF6Nnd5SFNjck05VXFGUTVHd1hWWnNtZHQ4Nl9zY2FBaUFZSWpKYmRIZHpZRENSai1Qa0xDQmVIRUlpSkU5QnBsVGV6eEVja1hfTW03OUF1LWlFZjJteXRiQkgySzlmZ0ExLUNkb0FlMUcwR2UyOXBKT05kR3d1dEJNR1VMVEJFLXVXbHA4MExsazFfQmxoU0pocjZnUjZPTEJrMzJWTDF4VlppeDljYw?oc=5"
+  },
+  {
+   "ts": "2026-08-27T18:00:22+00:00",
+   "title": "Northern Shan State Trip",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rM1ZuNnZlV3puZVJ0Q3NLVlptVzFDcDFSWW85VFMxdGkwSlNTNjZscGxCZDZPMzRFRmpxX1pKWkZWdzhJXzU4TWNOcGZoT013OWVoOXFUZWh1emhLN0JiTEF6VWhPX1IyMTZiZmxEOA?oc=5"
+  },
   {
    "ts": "2026-08-27T17:00:20+00:00",
    "title": "စစ်ရာဇဝတ်သား ဘော့စနီးယား ဆာ့ဘ်ခေါင်းဆောင် မလားဒစ်ချ်ကွယ်လွန်",
@@ -2155,34 +2183,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcHY3NjNvRkZWMzNDWVFsS21yRnFZMnZ4cVplS0RtMTk5ZFdjdXBFa010LWp5SmQ2R3VyQktGc2p1OVZYYlpVVnIyMVNaYl9PelR1NUFvQ1dra1QxWWprWHRLWEdxX2o5WkowY2w3cld1UkJzUGdEUGJzWTdKRC0yMndvRQ?oc=5"
-  },
-  {
-   "ts": "2026-08-23T14:30:18+00:00",
-   "title": "Climate Desk Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1iV1ZjTmpHVWgtOU5iUndwMXpOeXltcG9MLTkwTjZoWE15TXB4WTBocUw5aXRWb1NGanJCTlNVaG4xNjV4S2MtbnY1YkJJdHdVeU1WMHRnQQ?oc=5"
-  },
-  {
-   "ts": "2026-08-23T14:30:18+00:00",
-   "title": "Landmine Victims",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vSmwwTHU3RzhkbVRaa0p2MDJRY0U4WlFwM0xZRkpmWTN2eElGSUdkVlk5OTVZcnFRd0tfN0RXVW1RdFdwUFdsVjBWNGZqNk5sX3RaSGdFS0ItNDhNaUxrVmxyZ1hHa1F2MmVwT0NGcw?oc=5"
-  },
-  {
-   "ts": "2026-08-23T14:00:21+00:00",
-   "title": "Protest Against The Military Coup",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Vblh3bHdCOE1YOWJ1YVU4YUlUM1RRY25KWldQbmx5azNGSUdBcnZ0VHVrbmJEM05zVm1JaEJsSjlTaW9XU0c2VjR1aFh1eTNVWldaaHNUQjM3VmNlcnJLejhXXzJUQkxLTEVvSi1Icw?oc=5"
-  },
-  {
-   "ts": "2026-08-23T14:00:21+00:00",
-   "title": "Northern Shan State Trip",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TOGRlWXpuQVh5YjBRaWZKZUE3WGdMVW40Y2lzVnczZHYwSEFEbUxmOTVfMmhiZV9VZmtuYndWUGgtd0VXOWxCeEZkdHRMUmRDYjlyWVgyS1lQM0hJT3drRUd1dDYwZVlNYVJsY0xBbw?oc=5"
   }
  ]
 }
