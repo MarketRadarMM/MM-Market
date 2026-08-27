@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-08-27T09:30:23+00:00",
+ "generated_at": "2026-08-27T10:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-08-27T10:00:21+00:00",
+   "title": "12-Month Goals Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE11SXFuYkJxRnBNZDZ0VTVzemZhVXJMVXR4MTAxeDZOZ3doUG5mZkljSGhGdlBvNmRsUDZWNlprN0J2LXo1RUE3dVNFSGxzMUlURFE2YkpqTQ?oc=5"
+  },
+  {
+   "ts": "2026-08-27T10:00:19+00:00",
+   "title": "အကြီးဆုံးဝယ်လက် ထိုင်းဈေးကွက်ပိတ်လို့ မြန်မာထောပတ်သီးတောင်သူတွေ အကျပ်ဆိုက်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c790w3l2wqlo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-08-27T09:00:21+00:00",
    "title": "စီဟာဆက် Archives",
@@ -2169,20 +2183,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03cG9xVzhqeHV3ZXhjem1HeGIxTlFXNW5XcnJ1WXVHZ1VDa2liN3RtVkZMUk1RZUFHcktTVFhiTDJpTV9sR0tBZ05tdTMwMFhYMVdpVjB4blRpNXNlYllnMWxfNEVEdlpKOHNBZWNR?oc=5"
-  },
-  {
-   "ts": "2026-08-23T11:30:18+00:00",
-   "title": "Casino",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05SjhuaWd2NDViMDZuY2NMRVFqdFJiT0VwUTFPWmJsZFJMdDllbndtcG1VVHNCVEtPREJTYllkQzg5UUUyTjRvamlOS0UzVnlZZG9wcEk5ZVphWlNMLVA2dzFmUnlYTlVYWFpmOTZ3?oc=5"
-  },
-  {
-   "ts": "2026-08-23T11:30:18+00:00",
-   "title": "Arakan Advisory Commission Chairman Kofi Annan Press",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvT2FkbmQtaFhYV3JLUVZVeTZTdVRlYVFhLTdYTUFKRGRLVm5FUnBtSTdwdDF5MjZFa2FpYWlRNEIzbXNxSlBOSlNobjZTOHJqMUV2WTZXU1F5SUR0MUVwNXZKcUxSWkZGOWxrQTRvYjY?oc=5"
   }
  ]
 }
