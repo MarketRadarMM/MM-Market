@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-27T16:00:23+00:00",
+ "generated_at": "2026-08-27T16:30:29+00:00",
  "signals": [
+  {
+   "ts": "2026-08-27T16:30:27+00:00",
+   "title": "Overseas Trips Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KQWRhUnRaMEE0V2JPRDlHVnBsSDN4ZjJWNG9lTXNkMWNrTk5Pc2Ntbml3V2ttZjFucUZWUzdQVl9mTjJfNXRqT0Q5S2ZBdDhOLUFwczVsNA?oc=5"
+  },
   {
    "ts": "2026-08-27T16:00:23+00:00",
    "title": "Vice Chairman of State Administration Council Vice-Senior General Soe Win delivers address at plenary meeting 1/2021 of Leading Body for Protection of Farmers’ Rights and Enhancement of their Benefits",
@@ -2176,13 +2183,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOEUwV3hhRkpwYjJ6X2U0anBFTkVLS1FJTy1MelRxOUxOZzRObzgyR0Znb2gzby12SE9GVGxlSE8ydEhBWDZvcU5LVGl6YzJpVEZtV0k2OGsxRmRaYjJiYjdPZjJGY1dpaXU3UkIwekpRWGZzSWVFVmVoWnM3NldDQUdVdVo5RHNwUEJFbzlROA?oc=5"
-  },
-  {
-   "ts": "2026-08-23T13:30:19+00:00",
-   "title": "Yangon University Book Festival",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92VW1KeE02ZG05QUtCVUlIX1U4S0lPa3hhV21ZTFZmdzM3enJQeVVEZGFOZ0cySXVOd0lYMTdlUFUxT1N3aVFEczU5SUE5anljQ1NtUDhvVVp6T2ZkVnVaSmluY1JMZFFfZi1KVVY3aw?oc=5"
   }
  ]
 }
