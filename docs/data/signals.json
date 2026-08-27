@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-27T14:30:23+00:00",
+ "generated_at": "2026-08-27T15:00:26+00:00",
  "signals": [
+  {
+   "ts": "2026-08-27T15:00:23+00:00",
+   "title": "Vietnam Airlines Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYaHU5czB2RFFBclZVWEtXNXdCUUlJZmswS05tMld3eFZTcWVYV21JQUk5eTVUSzIyX0RWUzZHc2hJS1BPSndKV0ozaTRaM001ZWg2cVdlSGF2a05H?oc=5"
+  },
   {
    "ts": "2026-08-27T14:30:21+00:00",
    "title": "Airport Archives",
@@ -2176,13 +2183,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOXJqeWtWX0JzNzdzb1pOOFI4MnQ2RW5NU3BEM0k2dzBqRlFockxaX1p4WDBUNTNCNDJFUUNzNjNpVkl4T2owRVVDX1R3cWI1QVh4WG1UZXpiODFTaGhUVHRTRlpfLVdqN2pubXFIeDIzUHpsdFhzSEdqRDlIeWhxYUtUbVJKTFhka28yeXJWTTNGbmVfeVFWLUtCTUgwNnBRRGc2M0FjOHo0Y0lSYmVjZlE2d09YeW4wX3ZtSnU5UQ?oc=5"
-  },
-  {
-   "ts": "2026-08-23T13:00:21+00:00",
-   "title": "Pigs",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LdWp4eTBRbEJTaDRvaWw2aDZFNHdtMDdEZlcyblJiVkFmYUFnTTZ0eUc0cW5WTkFDclNDUGZOMUo5LXk4NnNiV2dhS0pHLXQ2VEgzRUs2VjBMU1JqRHd5ZEx1VDVLWnVKc05ySkZn?oc=5"
   }
  ]
 }
