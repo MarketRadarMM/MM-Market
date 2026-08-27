@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-08-27T20:30:19+00:00",
+ "generated_at": "2026-08-27T21:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-08-27T21:00:20+00:00",
+   "title": "Financial Crime Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1IY1lTdXZPYXhmVWViLWV6ZDNPMnFnN29QWFJYd09Zb0ZWVzY0T2FrV01TTjZHM2dIXzZuN0R0YWNFRlpTNG5wOGZsU3lwT2VmQjBPQ3RZV28?oc=5"
+  },
+  {
+   "ts": "2026-08-27T21:00:20+00:00",
+   "title": "Satellite imagery shows extensive damage from Nepal-Tibet border floods",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/tibet/2026/08/27/tibet-nepal-flood-landslide-blackout/"
+  },
   {
    "ts": "2026-08-27T20:30:17+00:00",
    "title": "နေသွင်ညိဏ်း Archives",
@@ -2169,20 +2183,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTnpJbnVxV2o0LWJxRnEyNFBMR0xubkZ6SnpjY2c1WDZTUVhRS0o2c3E4RjFDVTRQOFJLc1I2dzJWcExNbXBsYk4wTVQ3UUpBRnhGRDgtNVkxOTJfNGJUUktDVFVtekVaWWR2OE9CNndMMFdjS1U3cjh1Q3BNUHR0VklHbk9uSk1HSjZCQkNqeEpzdEoxWHBsc3lYRENDVjhuaEVtczZnQng2WFN5dDd6WHhvOWlLeGt1R3dXWEJGS0NhU19WWWNEbXVaUlVkXzVZTjJKTndBOA?oc=5"
-  },
-  {
-   "ts": "2026-08-23T20:00:23+00:00",
-   "title": "Landmine Victims",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvckZKRXM2WEFfYnhCZC1LOV9na2xQWGFUeU9EenNXS01BdVR5a3hMZmtvWVVyZ1lDSUU0cmE3bzVtay1XMUtFbklpQmlONDlzd2c1VFJRODF0YlRqZjZ0SEhxZnJhaDI3eWZDVVh3?oc=5"
-  },
-  {
-   "ts": "2026-08-23T20:00:23+00:00",
-   "title": "Disinfection, Kamayut",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBQdm1nUVZLc1JoZUdwbk8zUTFXZE9iVjZoY2hzcnZUR3huV2ZHbkFFTjQxSE0zY3RUX1ZBSHVPdWpMUWR0TEdxejFJN1M5ZUJaUlJtTzlac181aEwzOXROX29uT3p2RFBoQ3BRYzVZbw?oc=5"
   }
  ]
 }
