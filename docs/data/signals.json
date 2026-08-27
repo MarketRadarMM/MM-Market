@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-27T01:30:20+00:00",
+ "generated_at": "2026-08-27T02:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-08-27T02:00:20+00:00",
+   "title": "27 August 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5zelhOZXRieWpEMVNLREh3Y2E5QUYtZmtOa1IwNFBrM3V6cGRQdW1xRXpuLTRsNU5NR0ZadTg0bjRTMlhMMU1UNkNmeU5JZUd0?oc=5"
+  },
   {
    "ts": "2026-08-27T01:30:18+00:00",
    "title": "သုခ Archives",
@@ -2176,13 +2183,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jd2tLSVUwS0tZMEc2d1VmNTJPMXQ0RzM1Q2NPZWlvRkFVXzFiUjA2b1kxamE4S3lLSVFkUHpEenk2a3dsYzJKSkdQR0Zzel9kaFFVSmRmNEhSTlVlbTNDbjZUWWNDMUFCZzFtMU11cw?oc=5"
-  },
-  {
-   "ts": "2026-08-23T08:30:16+00:00",
-   "title": "Burma’s President Thein Sein welcomes Ms Bronte Nadine Moules",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PSWw0VGZ3UXBQa0lpSWxWbWdqZDBMTE4xOXRDZ0RiRzNkS2FSd0ZxRnVhVGN4Tm5fUEpsOUYxdEZScEFtMHNURGtRVUlWaU41NFljTlcySUVLSF9uR1M0anpZTFJKQXdEV0FkbGFB?oc=5"
   }
  ]
 }
