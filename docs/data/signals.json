@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-27T13:30:20+00:00",
+ "generated_at": "2026-08-27T14:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-08-27T14:00:21+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9hazl2cFFlWlF1UmU3UWxHRFJSOEFqVnU3ZjNvS0V3emhXY3BYUVFrRGp2dU81c3dCUGIyaUMtQzlPejVzSFRYb0NR?oc=5"
+  },
   {
    "ts": "2026-08-27T13:30:19+00:00",
    "title": "The Myanmar Defence and Security Institute",
@@ -2176,13 +2183,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aLVNDNnJBYXZfZHNPczkzdFliT0tja2dZb2x1ZS1mRG9zQ3lWcTNxSUxYWGlTLVd5NUs3Z1VFZHZTWHBNWlhDZWxmSVc1NUVOYkVDYk1LLW9oRm9RaG5rUHRuN19pTTFDTzdoOXhtSQ?oc=5"
-  },
-  {
-   "ts": "2026-08-23T13:00:21+00:00",
-   "title": "UEC Supporters Protests",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE50TXZLOFdfbFJfUEgwZE1aMmlmc2E0Nkc4cDRteXNUTi10RnlWWjRXZFpRN0lhLU02WmxZaWJVc3NkWGRWT01KNWFKTzU0ZmYzSlRDRHZoZ0ROTUNQeUdLdzlGYjRRcTZjUEtNbHZWbkY?oc=5"
   }
  ]
 }
