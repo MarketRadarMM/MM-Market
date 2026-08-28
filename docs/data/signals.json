@@ -1,6 +1,41 @@
 {
- "generated_at": "2026-08-28T00:30:21+00:00",
+ "generated_at": "2026-08-28T01:00:25+00:00",
  "signals": [
+  {
+   "ts": "2026-08-28T01:00:24+00:00",
+   "title": "Handloom Days exhibition set for City Mall St John on 28 Aug",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMS1sSUt4STVxLThvLTFuZmg4eU84aHl5NWhaV3JkUnktMGVNS0RIMmgwMkh2NUtlVXVGY081a21nUWUtNENfZ1hleVdWQVVNWHRfY1FnZGFXT1BwdjhQTEV1YkJTN2U1QWRhbWlvMzUxRkhMSUprV0t0enFLMXE1ZTZtZ1laTmQ5XzQ0WWhR?oc=5"
+  },
+  {
+   "ts": "2026-08-28T01:00:24+00:00",
+   "title": "Bago Pushes High-Value Rice Revival",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tYU1LclBzZEtSQWRaSFA0S3I3VTZzWDV6bDlib0FLSUVrWG5oUW1qc21KMFBzQ0F1Z0VwVEhtQWRiSUJsVXk2bjNfdkdnaV8zLTYzNmJqRXpySXVRMmxIOWZOVmM4NVdXZEVkag?oc=5"
+  },
+  {
+   "ts": "2026-08-28T01:00:24+00:00",
+   "title": "Universities hold project shows",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XRW5Nb3JzR0VYV2puRzg0amJ3MnIyVkxidjA2S0Z0Vkh1dGV3bm1XNU1WNTk3U0M2Mk5ZeXVJeGgxSTUxaGNXVVYxc3daem5lcVRZaTRXWEFzTWZscmMxV2RfQzNNT0k?oc=5"
+  },
+  {
+   "ts": "2026-08-28T01:00:24+00:00",
+   "title": "National Literary Award -winning translator Ye Mya Lwin passes away at 78",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT0M3ejNxUklkV0NCTlpqbDlPdmhfS0V2Mlc1em1MN0FTQ3ZLYUd4VXRpN0RrRFVzZVQ2Q0x1ekhiYUtiT2NiOWp5WFhRUWw3bVF5MEplZEpYUUUyS1VZWThpdFdjSEtyTjl2bFk1QkhuQ01rR2k1MGpYUkpLczJJX25LbDIxTjctekMzYmdpdWRrSE1Kc2kxbGUzMHd6UQ?oc=5"
+  },
+  {
+   "ts": "2026-08-28T01:00:24+00:00",
+   "title": "28 August 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5vZ1Y2Sl9ncjhUY0VFT2JveDFrckNrczYxRU9jeEMtTERHUVZJVkVFanNBOFFySjlqTndqM1M0OUg3aVkwTWRaVW9vQzBIcl9E?oc=5"
+  },
   {
    "ts": "2026-08-28T00:30:21+00:00",
    "title": "RBF project introduced; working group formed in Myeik",
@@ -2122,48 +2157,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jbTYxT3BBVlo1MTZENVJ3X3ozV0NTcUxHLTZZTlRlcHh4b2M3Z2d2WnN5QlloV3AtS1NtdU9JbW80T0pkS19iWGRaRVJIWU81WktIeUlkekdkTEQ3cnlrS2FVUk53YjBRN0hZWnh3?oc=5"
-  },
-  {
-   "ts": "2026-08-23T22:30:21+00:00",
-   "title": "Yangon to host Fire Dragon International Futsal Cup",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVS1vZ2doaGlNTkwtcU5heVZMZlU0WTdaWFE3bDNETHF0WUxXRzI3ZzhGejg4ZWxRWHJ4dU03eWFlRkRHb0REbnhlbEo4RzFUdUU3R1JsYXg3c01nS0VNMG51UmhkMXZtSlpHV3Q4S2tZQmlsWDA3a0xuVHdDeFpkYllR?oc=5"
-  },
-  {
-   "ts": "2026-08-23T22:30:19+00:00",
-   "title": "Minbu (Sagu) targets 40,000+ acres of monsoon paddy",
-   "source": "GNLM",
-   "markets": [
-    {
-     "market": "rice",
-     "direction": "neutral",
-     "confidence": 0.5,
-     "rationale": "Rice-market story — read for direction"
-    }
-   ],
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1UaU1STlhBQVdPQzlKYnhXa2Q1RGdmYV85cjdXUzVILUZjS0VhRVJTX2lrSWtzcmtvbHJnelMzd21yX25ONV9ZcXI5M3p0V0pTQzhkdWpaUzg1OF95T0xMYWZ6VkNJajR0UDF4XzVRUGduUW1udWZTWkQ4WUo?oc=5"
-  },
-  {
-   "ts": "2026-08-23T22:30:19+00:00",
-   "title": "Cleanliness at destinations key to tourism development",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNWxjZF9IYV9RaEpfTUhxX2NPNERSdV9LcWlTcl85X1F6ZnpWZllzQl9RTkpqSzc3c0lId3VEYWNGSk9HVnpQTzhOeEQ1bUpTSjFrNmoxWVpob1hFTnZTSVBHTnByT1lBVWZyUXNSY1ZxbDJHelBBNi03TG10ZXgzQlQwV0Vxdw?oc=5"
-  },
-  {
-   "ts": "2026-08-23T22:30:19+00:00",
-   "title": "Efforts underway to ensure crop insurance for farmers",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWTM5dko0ZTk5VWZNU0p0T1VvLWFuVW1OdWFTc1pqcjFobVRrSVYzVmx0MHZfUkVNanRlMm5WTHl5Z1NuT0VlM1I2UnBjb19tME1ibEktUFBjd1ZSZmZPUVdMTTdrZ2N5OW1RQnpCVTlmeUpnVEpUQ1dodldpSHZZbkJKV3A?oc=5"
-  },
-  {
-   "ts": "2026-08-23T22:30:19+00:00",
-   "title": "1M baht insurance coverage transferred to family of deceased migrant",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWEdvTjEtSS1pSElfUEcwNUZqWllZOUZJZlo1SXgwTnFIM0N3ejR4b2QzR3R4amxpb19rLVdURktIMGIwV1RyVk9SaHFLTVhoRW05WU5ZVkRsMFZ4Ymlwa1I2RERZemk5NzdSTDY4RjV3aE1HZWhyRUgtVmExeG5vV0lQVkc3ZFdOQ1M0dFVZUlFqM285MEpKUA?oc=5"
   }
  ]
 }
