@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-08-28T10:00:22+00:00",
+ "generated_at": "2026-08-28T10:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-08-28T10:30:18+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE10aVRyNGdyUUR3MFR4a213OFZxZnlCRnlDUG5sOU4tY3NNLUllQ3p5WnlXVk5uY29rT2RYQVJTdUZ4dkpRb0xCUFlyUQ?oc=5"
+  },
+  {
+   "ts": "2026-08-28T10:30:15+00:00",
+   "title": "Buddhist monk suspected of links to pro-regime militia dies in resistance custody",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/buddhist-monk-suspected-of-links-to-pro-regime-militia-dies-in-resistance-custody/"
+  },
   {
    "ts": "2026-08-28T09:30:19+00:00",
    "title": "Volunteers from nursing training",
@@ -2162,20 +2176,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORmd0VkFsZURrY3g2Tjk5MVdBZnAxNGpVVUhOQ2lubW9vbXo0SGJQMldyOTM0WVdLejZrX0F6elFRU3JISWN2Ym5VVW1DeF9JVVVxbUJjdWsxVEszRlJIeTJxT1l6bW1abmZLZjFuUWFwOHZCQ2tpSEVzbVBKM1dDZS1BX3VZdVE?oc=5"
-  },
-  {
-   "ts": "2026-08-24T05:30:19+00:00",
-   "title": "President U Min Aung Hlaing arrives in Kyzyl of Tuva Republic from Belarus",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPXzZlVjhKLWFBd2ZGeDBBelZFUWJCWHJCRDNfNkx6cUlDd1JWU1JYcC1QdjhSVVJuWmpxcmxCRVAxRVRXbHlfMDhickx2SEhoQ0JNU2otQ2JnamFfV3pEclNDRXVyUldIWG1vc0NQbTJCd1E1OENSRzZaSjZZbUFjSV9tTTdJOWlrNHh6SWZqM3BBNFhTR253WHF2Qmh2Q0NH?oc=5"
-  },
-  {
-   "ts": "2026-08-24T05:30:19+00:00",
-   "title": "MoEE Union Minister holds talks with Belarusian energy minister",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSWFrR2Exd1BkenVfN2RyRE1STy1XcktvTEU0dlQ4eW9oSDduWEZ2d1VqaEpma2xiOXUwNEFwMFRlR2RWWUt6cUtSY2trSTdnWmI1andIc3hFSEdVcDJBMHBQU2cyU3pKM252ZGp1NFVRSDRBeDBfY1p1V3lWOURIWkF2ellTRzdtbmRSbzBQS181dw?oc=5"
   }
  ]
 }
