@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-28T03:00:22+00:00",
+ "generated_at": "2026-08-28T03:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-08-28T03:30:18+00:00",
+   "title": "YR expands Robusta coffee cultivation, targets 1,000 acres by 2026-2027",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPemZIZFlURHp1UjUxazJ0Y3RkSF9XY2VNWUFuVmE1RXhJdXUxYWFfVng5bGF3ZW9tUFdYTW1hb0EzMFNYVkdzSVNNRE9NZExDNHRRd2RQVnhLNnFGclk2SWoyNkxXckZlczJwYWlZUGxlSXBEUmtFZmtVZk0xZld4Zlc2eVA5SE9GNTZMbGRmOWdXQk9seXNsMVh3?oc=5"
+  },
   {
    "ts": "2026-08-28T03:00:19+00:00",
    "title": "နိုင်ငံခြားသားတွေကို ပြည်နှင်ဒဏ်ပေးမယ့် ထိုင်းအစိုးရစည်းမျဉ်းသစ် ဒီနေ့ အသက်ဝင်",
@@ -2150,13 +2157,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2SlYtY2gwWVFUVkxQTHhwdmxRdWlBWGI2VmhKWHE3aE8zOHV1SzR6aDdRMkNqVDI0LVlYQ0xWZE42TDNvTGVoRXQwWUluUkkzUHBHcUVtZ20wWmZfNHlGQ1BaREhxRVZ6eFAwc2tyR1RqWjJ4TTBueQ?oc=5"
-  },
-  {
-   "ts": "2026-08-23T23:00:23+00:00",
-   "title": "Mon State govt plans to resume Thaton tyre factory",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORWZIa2FzWl9zR2E2dVgzMl9SSDBxdi14MFBWdG1OOW82TjlEV3VXVzh1dFphMVBSUDZ2LW9DWXZBQld6MVMyN3lOSTdzb3RpN2U1dGNQSlhoeEVYVFYxcVJfblFtOEZwdHBVMXVINFU0bDlLcXBIUFA2TjlUaVFVZA?oc=5"
   }
  ]
 }
