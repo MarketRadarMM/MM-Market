@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-27T23:30:20+00:00",
+ "generated_at": "2026-08-28T00:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-08-28T00:00:21+00:00",
+   "title": "အသန့် Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRjlNRnlJcF81MEk1aUQ1RkpOdmNhNURvVlNRWDg0cG1MUnRZVVd2a1JVbXp0MnhPZWRSZEhJUGxNQ3pBNVRhSkRSLWQ1MlViRkdxd2RmY3hBVk9mMnA0dmN6R25lb3NTY1U4eUl5dWZQR0syVWtCaTg4NjVkbVNKZ2s1aw?oc=5"
+  },
   {
    "ts": "2026-08-27T22:00:23+00:00",
    "title": "Cloud Archives",
@@ -2176,13 +2183,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1NSFJubzM1djhfblhTNGZCdUR1c25ReGluSlBEcHNwMXUtc3k1SEdwQTRENGEzNjl3cldsS3FSMHhFX0N3bEdJ?oc=5"
-  },
-  {
-   "ts": "2026-08-23T22:30:18+00:00",
-   "title": "24 August 2026",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iZGdESzFvMDFxd0g1UXFuMHJGTTRHcFlqWlNSUUVSSDJmUE1VYW9CVUtxLThxUmhnRWFBZWIyeWZJZUZzaDBoODZuSmllbVJo?oc=5"
   }
  ]
 }
