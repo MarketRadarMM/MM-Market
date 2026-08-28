@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-28T08:00:58+00:00",
+ "generated_at": "2026-08-28T08:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-08-28T08:30:20+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE16S2xNeFVYVE56N0laV0JhdncxbUZxRFJNQjdfR1FZaVI5N2VDLThHb0E0b0pnMTBBcGJtYnVCcGY4WkZoZWQtYVBVQQ?oc=5"
+  },
   {
    "ts": "2026-08-28T07:30:20+00:00",
    "title": "Commander-in-Chief of Defence Services General Ye Win Oo meets instructors, cadets, postgraduate students of Defence Services Academy and Defence Services Technological Academy and officers and other ranks of the station",
@@ -2169,13 +2176,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdkVkOW5UMDJiUWVRdGtPXzBfOVR6NXVPaERfZUhPXzVnUl9aT0p3YzZUNF9WNXZYUkJqNnV4SklMQ0ZtazJrejE4MUtrM29idjQ2LU5JdzhfTHl6Qk9DQmxJcnNSeFRNd1NQbVpiY3ltdlpRbk9EVUlBdkVCLW1VMFVnTURtNDV6N0sw?oc=5"
-  },
-  {
-   "ts": "2026-08-24T05:00:18+00:00",
-   "title": "Taunggyi launches farm-to-market road project",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE05WHFwRzIxalN5d3RkTEZjQjBkTUtlRk5mZmlYSTV0QmoxRmRVT2hQRVhQRzh0aGplMnpVMF9pS0RpVXZmTDc4aGtBRnM2M2ZGVE8tV2NNT3lkUXZDSExsSE5jYjBtcWpTYVltZjlBbzhSR3dhSzNWLVlB?oc=5"
   }
  ]
 }
