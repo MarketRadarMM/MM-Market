@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-08-28T22:00:21+00:00",
+ "generated_at": "2026-08-28T22:30:24+00:00",
  "signals": [
+  {
+   "ts": "2026-08-28T22:30:24+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1MZmsyNmdwd284RFJYYVFPOWxrRmlUN2txOGI4M0YtOTRIX0tRRWctUU56SE1BWEJtaUdEbWxzbWt2VEV3cGxKcjN3?oc=5"
+  },
+  {
+   "ts": "2026-08-28T22:30:21+00:00",
+   "title": "What the West Gets Wrong About Myanmar’s Politics of Fear",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZGhoc1dQamhuRk9wS2NOZk1YYjlIbm1LLWJ3OEd2d0tGNjRkd0NoTzM1LW5ZQmVwV2pWT0xiTWZrRk51V2t5OHpRV1lUUEoxQzhONG5rWHdwSzV0TWl0SktRTGdqbnBoYlVFNm9UTTJ5azBsb3Z2YXdYTTFZOXgyN2h4cS1FNG9UeWExczB0eXhKY0NITjVPcVRRTGo3STA3YWNz?oc=5"
+  },
   {
    "ts": "2026-08-28T18:30:22+00:00",
    "title": "Vice President Daw Nan Ni Ni Aye delivers address at the opening ceremony of the Tastes of the Golden Land-2026",
@@ -2162,20 +2176,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82ZGFGZ1JhSS1zazcwQjZZN0VOZXJhYlRnQTVGRkQ0U1VCNVY1QlF2ZDFUTDV6cDlQUUpUUDc5R25BTmhvLXBqT2dZNnBVWGVrdl9LYWdHMzZfb2RsbFRPSnctcVBXYlli?oc=5"
-  },
-  {
-   "ts": "2026-08-24T13:30:17+00:00",
-   "title": "How Myanmar’s regime turned a Buddhist retreat into a scene of death and destruction",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/how-myanmars-regime-turned-a-buddhist-retreat-into-a-scene-of-death-and-destruction/"
-  },
-  {
-   "ts": "2026-08-24T12:30:21+00:00",
-   "title": "ဥပုသ်နေ့တွင် တရားရိပ်သာကို စစ်တပ်ဗုံးမိုးရွာ",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/80680/"
   }
  ]
 }
