@@ -1,6 +1,41 @@
 {
- "generated_at": "2026-08-28T00:00:23+00:00",
+ "generated_at": "2026-08-28T00:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-08-28T00:30:21+00:00",
+   "title": "RBF project introduced; working group formed in Myeik",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaE15MjdrSDFOalpoTkphbVJMLW5ZbHBlcDdIVHZCUF9wQXY4SER1ZExzX09rSnN2YmFnWENXci12TkdSQlFIU0Q4Y3NQc0JuZGlwbmlTM2IwdGdSOTZhTHFIYXVadnpNcV96alBQdlVRYWNSaGc4M3VWamU2NEZwaFNlZw?oc=5"
+  },
+  {
+   "ts": "2026-08-28T00:30:21+00:00",
+   "title": "Water pump house construction inspected in Chauk",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90SFNIaFRvbUJPeUEweWNKOVZWVGtOUkVud1lock50cXp0VHkyMHc4a3lCOWs3RGRHLUlGcHFUQ1VTUHBldk1hY2o1N3A3TGlBQ1ZnbU5MR25WX2lfT215NEs5YXhFTUthanVaa2F6RC1GR0s5amdHT3pad2FlUQ?oc=5"
+  },
+  {
+   "ts": "2026-08-28T00:30:20+00:00",
+   "title": "In Thailand’s election, Myanmar isn’t on the ballot",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxON1VMQTFvLWlHSm1EcUZ5dHJ4Z0NNYmJDQzRyRTRJVHdRbnQ1aFl3YWZZenhFQ3N4YlNDeXhSNElQOXJpaGVaNWdYS1NKV2ZxRTB1U09tZlZDQXp1QnZCSHpaRVhYeXl4dmlMUGs2RlRaSmU4bXNkdmVXR0V4TjBtXzVUcUFIZWNaVTNxYQ?oc=5"
+  },
+  {
+   "ts": "2026-08-28T00:30:20+00:00",
+   "title": "Center for Diversity and National Harmony Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9odjVCbWg5WkU3U2xBZUpfU2NDOXBLQVBHOEsxcjVqaVZZRVdnZzRZQkNSTm5DTDZsaWdtOTZ3SVVDU2JYRHctMjJ3WjMxOExkanA4Z0ZqNnpXTF9uSjN2MmU3UGZoMFdKTUNqUEJfREx1X0lnZk1hS0kyNA?oc=5"
+  },
+  {
+   "ts": "2026-08-28T00:30:20+00:00",
+   "title": "Landmine Victims",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52ZGt1MzUxMll4WVVvUUJRNmwxSlhKdUFQYk53RUtTNE9vZERKRmxQcFVPc0ZMQjBVMDhmSWUzMEU2VGlzODZvenVQMjdWQVZxX19oTmRwRDdsLU5aWkxxdG1jMDNqSjdiSEl3V2t5OA?oc=5"
+  },
   {
    "ts": "2026-08-28T00:00:21+00:00",
    "title": "အသန့် Archives",
@@ -2129,60 +2164,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWEdvTjEtSS1pSElfUEcwNUZqWllZOUZJZlo1SXgwTnFIM0N3ejR4b2QzR3R4amxpb19rLVdURktIMGIwV1RyVk9SaHFLTVhoRW05WU5ZVkRsMFZ4Ymlwa1I2RERZemk5NzdSTDY4RjV3aE1HZWhyRUgtVmExeG5vV0lQVkc3ZFdOQ1M0dFVZUlFqM285MEpKUA?oc=5"
-  },
-  {
-   "ts": "2026-08-23T22:30:19+00:00",
-   "title": "Writer and poet Maung Thin Nwe (Myay Pyant) dies at 64",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbHRUcHVYVUZkbTQ4cmtfR1V5ajVfX0RuSDhIc09VVlB6dVNjeXdGeDdmTjNNVnpOT3lSRVVVOFpUaVJrRUtuWmg5X0E5dmxlWGtmLTVaREdXMmxzNkVfd0N6dHFLeGQ2S18tbXN5MGxpeEc0Q0E4NHYwUmg3TlFsVnhKYw?oc=5"
-  },
-  {
-   "ts": "2026-08-23T22:30:18+00:00",
-   "title": "20 arrested in Muse online scam raid",
-   "source": "GNLM",
-   "markets": [
-    {
-     "market": "pulses",
-     "direction": "neutral",
-     "confidence": 0.5,
-     "rationale": "China border trade affects bean flows"
-    },
-    {
-     "market": "rice",
-     "direction": "neutral",
-     "confidence": 0.5,
-     "rationale": "Border status affects rice exports"
-    },
-    {
-     "market": "fuel",
-     "direction": "neutral",
-     "confidence": 0.45,
-     "rationale": "Border routes also carry imported goods"
-    }
-   ],
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51b1NpOGlLTkIxYlVYZW1ndkp6cjd1MFUtUG1QeFRaU3hoajZ3ZG83MzJoc2w0N244Tkw3a3owNGZZZTJPTXZhQmpFSmNMMXI2LUFuTlItcmk0Skh2aWNzS3N6SkFDQUxIZTFDY3FR?oc=5"
-  },
-  {
-   "ts": "2026-08-23T22:30:18+00:00",
-   "title": "Ayeyawady FC beat Hang Yuan 1-0",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNZWhyamhkbnV4c05KTHMwcnFOQXA5TjJfZUI3a0dSRGU4N1VyVnJVYmRYb3hzWWV0R3pMTkgzeDNDbnNGYzFUY1VTNV9FZEJKczFGbWZyR2dvSGJPMmdPZHFBUDlvNWs?oc=5"
-  },
-  {
-   "ts": "2026-08-23T22:30:18+00:00",
-   "title": "Myanmar youth badminton team wins 15 golds",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJSTdmWl9yZC1NWnJxcVVrMW82SXEzZllvTng2djdlQk5nbEdrRWg0T3hUUUtKTVdPMkRuTzRjdVZWNWdqLVh6NEZyVXJBSFVHUS1hbmJQaFF1U1lhQXlPMDdfTWk4TXZwalhkM2NfVTkyNnRQVlE?oc=5"
-  },
-  {
-   "ts": "2026-08-23T22:30:18+00:00",
-   "title": "Account",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1NSFJubzM1djhfblhTNGZCdUR1c25ReGluSlBEcHNwMXUtc3k1SEdwQTRENGEzNjl3cldsS3FSMHhFX0N3bEdJ?oc=5"
   }
  ]
 }
