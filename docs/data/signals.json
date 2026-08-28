@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-08-28T10:30:18+00:00",
+ "generated_at": "2026-08-28T11:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-08-28T11:00:21+00:00",
+   "title": "စစ်တွေ ရိုဟင်ဂျာ ဒုက္ခသည်စခန်းများတွင် ဝမ်းရောဂါကြောင့် ၆ ဦး သေဆုံး",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/80811/"
+  },
+  {
+   "ts": "2026-08-28T11:00:19+00:00",
+   "title": "ကြံ့ခိုင်ရေးပါတီညီလာခံနဲ့ အာဏာလွန်ဆွဲပွဲတွေ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c5yj36z4dwzo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-08-28T10:30:18+00:00",
    "title": "- yktnews.com",
@@ -2162,20 +2176,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9GNG14WFNlMVlaMHdoRmFNcnBIdktQRXAxOFVhbWRoUk11dTNlSXdYNUNyVXRmNzBfWkVEWHZPd200T2xZVnl0bkdUd1RINnVmT2pJUEVlTmF2aEQzTGM1LURwUnctemZpN1Jxc29UbW1rbkgtZDgzLVc3Zw?oc=5"
-  },
-  {
-   "ts": "2026-08-24T05:30:19+00:00",
-   "title": "First Lady donates rice and personal goods to nunneries in Nay Pyi Taw",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTTN0cUwtQXBTdHlCRTZTeW95dHNFZlYxWFZZRWJJS2VISnlmYVczZktKNjhUQjRJOU4tVnRXaWdCcmVpcGlrWDZYNU8yY3FINkctNnRFZ1NJODBYcG5sdEktNl9mb2JmRUc1TmMtLTBjOWNpeHBvckNvb1YwczJZMDA2Uk1XUmNVUXJIMjYzR0plNWNVaDRROTZWZw?oc=5"
-  },
-  {
-   "ts": "2026-08-24T05:30:19+00:00",
-   "title": "Operations underway to block water inflow in Laymyethna",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORmd0VkFsZURrY3g2Tjk5MVdBZnAxNGpVVUhOQ2lubW9vbXo0SGJQMldyOTM0WVdLejZrX0F6elFRU3JISWN2Ym5VVW1DeF9JVVVxbUJjdWsxVEszRlJIeTJxT1l6bW1abmZLZjFuUWFwOHZCQ2tpSEVzbVBKM1dDZS1BX3VZdVE?oc=5"
   }
  ]
 }
