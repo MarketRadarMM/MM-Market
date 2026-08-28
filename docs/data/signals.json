@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-08-28T11:30:19+00:00",
+ "generated_at": "2026-08-28T12:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-08-28T12:00:24+00:00",
+   "title": "MRESA organizes Asia Pacific Real Estate Convention 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWW1VZ2U3WXV5MjVMR2RVdno0a2VSTWI3MkRfeUhibTl6YW82ZXpRLWt1S2FuWUJrZUFsQVV6WWwydWh3b3VOYXhQUENtT3J5OGlBMlB0blFmZjhFNDVTSTI1R0ZHNzhsc3dvcEs5UzVIOWN5dGpyWmFjY092dk5CSTBkQUExQWNl?oc=5"
+  },
+  {
+   "ts": "2026-08-28T12:00:23+00:00",
+   "title": "Russia to Start Building Myanmar’s 1st Nuclear Power Plant Next Year",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMFdBZWZrZUltWFVKeHZib1RUeFptSTNFbHdpeVY3OHRIQ21TOWhfS0NvVmVZblp3ZTcxU3c5aHJRYWk2RzlCbGZxeXc2Rm9ac2lTZ0lwT2EtWGttcE9rX2lyQ05lclZsRHdWZDdqNFBEVjRiUW9oVEgyZ1RQQ0dPV0dDVUVVdEgycWZIcHkzM1BBRnlJYV9rc0NvckxFbDJfdDlhU3BHdDhjYmI4NlE?oc=5"
+  },
+  {
+   "ts": "2026-08-28T12:00:22+00:00",
+   "title": "ရှမ်းပြည်နယ်တွင် ၁ လအတွင်း ကျားဖြန့်နှင့် ဆက်စပ်သည့် တရုတ် ၄၀၀ နီးပါး ဖမ်းမိ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/80815/"
+  },
   {
    "ts": "2026-08-28T11:30:18+00:00",
    "title": "- yktnews.com",
@@ -2155,27 +2176,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWW1FUlVLZDhZMFEtU1Y4UEs4TVFZb213S25PNzFoa2t2UGI3cU9mZmxXRkx5cTVLOFV5ZXVUdkFzREZEOXZMVlhTMTZEaFNvSVdCQU5nbC1BazUtbmxwWDRtazl6UmdPNXNXd0VLVVVWNVJMVUc1VlBRajBUV2l5S3c5V2wyMHN3X3B1bw?oc=5"
-  },
-  {
-   "ts": "2026-08-24T08:30:20+00:00",
-   "title": "The Irrawaddy News Magazine [Covering Burma and Southeast Asia]",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Uc3BON2R6eFVtSjJBejFWaE1JbWpKXzV4WllfRHVlSXQ3Nm5RRW9SN2FscVJYdVA0TEFwOXRYclRtWGNOcUt3akJuWWJ3NkRsUExlWmlEUFZLT1FHZkl1R1hhQ1JjZVE?oc=5"
-  },
-  {
-   "ts": "2026-08-24T08:30:20+00:00",
-   "title": "ငဝန်တာ Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWlJvclBmX0hqX0dCVGsyVmx5RXR0ZzMwWUtuUlg0XzY3V0U2dWpuZWtEUTZ4SkszMzNaMHUwVlZRNFVORVgwaEdkNFBtakdqWTFfbTd3SC1VOTctMGx0VHgtZzVFRy1LQkpxSzduazI0d2V3dDVpZVlVeUw5TGdoc0p4SUlQMGlCMVEyUDRTNA?oc=5"
-  },
-  {
-   "ts": "2026-08-24T05:30:20+00:00",
-   "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing visits landmarks in Tuva Republic",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQREU2eFZUTUZRc2I2MVJhVC03aXNYdWhJVlNkVHdWVFktVEtYM0x2dDE5ZVR3SDlMTHNKTjluVFdQT0tGVFU2MWZtUERubjB2OTVvcWFaR1Qza2RaOG9LTWc1ekdNczZRRlpnU3ZUVzQ0NGJHVmF0aTZXNENpU3A1YjVFbnNoUWFXMi1rQUxYSlJpbjlDaEwyaWpnOWhoTzZNQ0tqQm8tcw?oc=5"
   }
  ]
 }
