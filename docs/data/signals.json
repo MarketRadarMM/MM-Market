@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-08-28T09:00:23+00:00",
+ "generated_at": "2026-08-28T09:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-08-28T09:30:19+00:00",
+   "title": "Volunteers from nursing training",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xMF9qenpEYnFfeld3dTFqdDhDMzRBc2hzVXhjSzFwM1RDMm5HWTdqd1d2a3BKR3JOMnpwZ1gyc01SVmRPSXVMTTRHTl9mYVNxVXk1OE5WdHJMVE5RSXFBT0F5UWFlWkZzZldrd25Icw?oc=5"
+  },
+  {
+   "ts": "2026-08-28T09:30:18+00:00",
+   "title": "ရုရှားအကူအညီဖြင့် နျူကလီယားဓာတ်ပေါင်းဖိုတည်ဆောက်မှု လာမည့်နှစ် စတင်မည်",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/80805/"
+  },
   {
    "ts": "2026-08-28T08:30:20+00:00",
    "title": "- yktnews.com",
@@ -2162,20 +2176,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSWFrR2Exd1BkenVfN2RyRE1STy1XcktvTEU0dlQ4eW9oSDduWEZ2d1VqaEpma2xiOXUwNEFwMFRlR2RWWUt6cUtSY2trSTdnWmI1andIc3hFSEdVcDJBMHBQU2cyU3pKM252ZGp1NFVRSDRBeDBfY1p1V3lWOURIWkF2ellTRzdtbmRSbzBQS181dw?oc=5"
-  },
-  {
-   "ts": "2026-08-24T05:30:19+00:00",
-   "title": "MSMEs Urged to Expand Operations to Boost Exports, GDP and Local Employment",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSmx3YlIydDVTVGViV25iX25qLWdfUm03M1YyUGtuSnVlY1JOYVVKR1hGQWl6TTlNSmZ1ZnNxd3g5aS1PYk1uNzd5YzVHVkdqOHdDS2V1Um1YYzFkanFDT3cwcEswNFQ0cWdxMVNxZ0x4M2tpT29JYk1iQ0lnQzdnOVpOUDRDcS15UTZIVDhvUG53ckhCNmtmVjBYQkhhTk5T?oc=5"
-  },
-  {
-   "ts": "2026-08-24T05:30:19+00:00",
-   "title": "Hpa-an holds Kayin traditional white thread-tying festival",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdkVkOW5UMDJiUWVRdGtPXzBfOVR6NXVPaERfZUhPXzVnUl9aT0p3YzZUNF9WNXZYUkJqNnV4SklMQ0ZtazJrejE4MUtrM29idjQ2LU5JdzhfTHl6Qk9DQmxJcnNSeFRNd1NQbVpiY3ltdlpRbk9EVUlBdkVCLW1VMFVnTURtNDV6N0sw?oc=5"
   }
  ]
 }
