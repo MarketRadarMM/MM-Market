@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-08-28T17:00:22+00:00",
+ "generated_at": "2026-08-28T17:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-08-28T17:30:17+00:00",
+   "title": "Pindaya’s MSY village project introduced; committee formed",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQjd5aXdjdHRXcXV4UWYtT1VxbVZXVklzQVlVY1EyOVNBVnd4M0U0UlVncllqVG5vNkJ6eFF6QlVWSWZGTlh5eUgwZnJ2RXdwVi1wZDZ3Smw5LTViTTY4eHBjeU1sWGl6cjVRYWg5TXN0Y0NXdDM4X0dhMDFPQ1JOYmtHak9QbkJm?oc=5"
+  },
+  {
+   "ts": "2026-08-28T17:30:17+00:00",
+   "title": "Lewe inspects completed village concrete road",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5SQkR6a0xBSEp3Wnctcy1wWWEzVFlyOW5YRFdPc1NVcXgtN1JGWmU5anluYTFOQlBGUlV3UnUzczNBVmw3YWhDbVhXWUhNRVduOEFyWENhUlQyWGcyVExkV0FXa1VhNS1NNzBpSkp5VXRoQ3dhVVYtTW13?oc=5"
+  },
   {
    "ts": "2026-08-28T16:30:18+00:00",
    "title": "Jiegao Jade Auction Nets US$ 21M, Rare Earth Devastation, and More",
@@ -2162,20 +2176,6 @@
    "source": "Myanmar Now (MM)",
    "markets": [],
    "url": "https://myanmar-now.org/mm/news/80675/"
-  },
-  {
-   "ts": "2026-08-24T11:30:16+00:00",
-   "title": "ဦးသော်ကောင်း - ၃၂ နှစ်နဲ့ ဗဟိုစာကြည့်တိုက်မှူးဖြစ်ခဲ့သူ ဖူကူအိုကာဆုရှင်",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c2lqrnjrlxwo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-08-24T11:30:16+00:00",
-   "title": "\"ပိုက်ဆံပေးမှ ထွက်နိုင်တယ်\" - ရန်ကုန်လေဆိပ်က ခရီးသည်တွေရဲ့အတွေ့အကြုံ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c1k2l2jyl7ko?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
