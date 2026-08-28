@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-08-28T11:00:24+00:00",
+ "generated_at": "2026-08-28T11:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-08-28T11:30:18+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Ka1JMTWtYM0tvbExHcmlHM2M3RWxoZGh1aERhMDdYVjdQSm1wN0Fmb2IwbjhFcnNESkRXWEN0b3o4WHFvUHk2cFN1UQ?oc=5"
+  },
+  {
+   "ts": "2026-08-28T11:30:17+00:00",
+   "title": "Regime Attacks Surge Around Russia-Backed Dawei SEZ",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPci1ZTUVJMDc3RkJ1d1g3dkRMcHhtbE1hZXhWQjdsSlQ1NnRtLWx1V2JYS1J2Q0ZGQ2VZa3M4ank4bi1oTklISmlrQUlKTHNBeFNvMnBZVUZmMEFrLUtCc1NKR1FSdGxQWFM2bkVZeGJuYVNGeC01UVB4OWNEbjBGZVMzOGx1WTlybWR2VlVnZmc4U0JtUjVodA?oc=5"
+  },
+  {
+   "ts": "2026-08-28T11:30:15+00:00",
+   "title": "\"သူတို့ကို သေမင်းဆီ ကိုယ်တိုင်ခေါ်သွားခဲ့သလို ဖြစ်ခဲ့ရတယ်\"- ရုရှားရဲ့ တိရစ္ဆာန်ကာကွယ်ဆေး အကျပ်အတည်း",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cj4jvvn4nd7o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-08-28T11:00:21+00:00",
    "title": "စစ်တွေ ရိုဟင်ဂျာ ဒုက္ခသည်စခန်းများတွင် ဝမ်းရောဂါကြောင့် ၆ ဦး သေဆုံး",
@@ -2155,27 +2176,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQREU2eFZUTUZRc2I2MVJhVC03aXNYdWhJVlNkVHdWVFktVEtYM0x2dDE5ZVR3SDlMTHNKTjluVFdQT0tGVFU2MWZtUERubjB2OTVvcWFaR1Qza2RaOG9LTWc1ekdNczZRRlpnU3ZUVzQ0NGJHVmF0aTZXNENpU3A1YjVFbnNoUWFXMi1rQUxYSlJpbjlDaEwyaWpnOWhoTzZNQ0tqQm8tcw?oc=5"
-  },
-  {
-   "ts": "2026-08-24T05:30:20+00:00",
-   "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing and high-level Myanmar delegation arrive back after completion of Official Visits to Russian Federation and Republic of Belarus",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVmM0QnoxeENIZ0ZRNzl4V1VCNTRtNFNqNUM0SE9Pd0dxWHh5cFpvNnhTY0xKcUsyN3lfN2FyNjVZbmJ1RXhOb2JUcFFnY3NGTzBuVDR4dEVxelZmNW9WeTgxeVhYSVJ4NjVhTV9MeFpSakhqZmFfSHdnODI0LWUzczVBZDI0WE9TemtrWGtWWGRLNHVCaEgyS3Z5dGZuMUxnZ3FoZFNIdTctdnNCc09GX1paLVF0MHA0NDI0WkxNS2U?oc=5"
-  },
-  {
-   "ts": "2026-08-24T05:30:20+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1tSFhmdTZ2bEFSWnJZX0lxY3NSb01YZDFQdFlNcjlScWYteDRjUVpkRkZNRS00angyQk1pWGt1MmhZR0NMTjdOYlBuaw?oc=5"
-  },
-  {
-   "ts": "2026-08-24T05:30:19+00:00",
-   "title": "Myanmar, China to deepen cooperation in customs",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9GNG14WFNlMVlaMHdoRmFNcnBIdktQRXAxOFVhbWRoUk11dTNlSXdYNUNyVXRmNzBfWkVEWHZPd200T2xZVnl0bkdUd1RINnVmT2pJUEVlTmF2aEQzTGM1LURwUnctemZpN1Jxc29UbW1rbkgtZDgzLVc3Zw?oc=5"
   }
  ]
 }
