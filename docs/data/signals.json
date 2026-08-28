@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-08-28T15:30:18+00:00",
+ "generated_at": "2026-08-28T16:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-08-28T16:00:20+00:00",
+   "title": "Rohingya refugees protest dire conditions in Bangladesh camps",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQU3BmS1d1UktYYVkzOEF2QlBManFoYkZCMUhKSGxHdzdYWFU1VXBpMnJVZ2JtcFVOSlh0VGhfc3U5QVZGTi0zbGx1WnJ3ZGhJYjVYMVRmaGR5UnNWVlE3ME5XWGNpTlVUdVdsN25IVzBPYm1XaVN1OFFJR0E2Ul9WNjgwS1pvWmdhMHJDd3h4OVhTcnpNVFo3NU1wVHp5UQ?oc=5"
+  },
+  {
+   "ts": "2026-08-28T16:00:20+00:00",
+   "title": "Malaysia to repatriate first group of Myanmar nationals in September",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOak5GcHhaRDR3T1lZaEI1UFQxY2c1STVwMGRNNHNTU1hYUFBpdHM5bTNvamFucGo4Vi15dDVDNjNIVXNQN3llWjZaTk9TREpkZlNrTkpucExBYmZkSnRELXFsUWhyR0wtR3hQSEw4N2cwTUs1bWlXYjNDaHdqcTdZS0pVRGl1b09FNVdPc3ZkeWVncXdLbTFfQ2VWVnFaeU9qa2FseGgxUQ?oc=5"
+  },
+  {
+   "ts": "2026-08-28T16:00:20+00:00",
+   "title": "Cambodia has nothing to gain from Min Aung Hlaing’s visit",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTHFLcS02cENlbmkwajFJVENFajVHNC1HSUNYUjNsX3F5SkRuVnA3RlUyUlFNR3J4cS1uaEhRMGxBRDZFaW02R2Y3aVpETlVab0h4MFJBWjVpaXY0MUZVS0pZMmItQ3p5ek1naWlnWmVram0zS2o3ZlExZDNMNGpDVzhnR3pmOExQQWc2eUlBdF9NcFBQN0dV?oc=5"
+  },
   {
    "ts": "2026-08-28T14:00:22+00:00",
    "title": "MoU migrants in Thailand facing increased rights violations",
@@ -2155,27 +2176,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVmJvcHJLLUt0Vm5UMEVxbXJqSDNEb2JMVjVkbDlFZnpDcS1Bcm5zTXR0VXBSZFZLbmp6a2s2YkFENjJWYXVwNTVCRS1uM3cwR1UzRFVhTTJSQTdMbHl2Um1pTDJ3SjZiU0YwWDUtOGYxMXgwbjIzMFVUOTBUMTBIT0NrMTRValRhYnA4WkltcGY5MzdfcFk3c3N3?oc=5"
-  },
-  {
-   "ts": "2026-08-24T11:00:18+00:00",
-   "title": "ဆွဲလဲအိုရွာ တရားစခန်းကို စစ်တပ်ကဗုံးကြဲခဲ့တဲ့အကြောင်း မျက်မြင်တွေ့ရှိသူပြောပြချက်",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/80672/"
-  },
-  {
-   "ts": "2026-08-24T10:30:18+00:00",
-   "title": "Guest Column | Exhausted But Not Giving Up: Myanmar’s Resistance Today",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMTlpelVKTlh4WHJBZzVrRWZ1R3VJQkZYYkFQQWVHdlVaMllqSS1zdTZaY192NHdVZjBXR25wWlBKX3BEa0F5Q0JuTFdPZkJObVVyWnVLaFYxcVlWdFRHUWZvdWMwdTBab2RpelNaTUxmbmJMQms3elcydUJQVjZSRnlGTWZ6bXQ5OTJvbkx1Rlo4UndvRFowMVo1dFlTaXB2QTJaWDRRMm4?oc=5"
-  },
-  {
-   "ts": "2026-08-24T10:30:15+00:00",
-   "title": "သေချာပေါက်ရမယ့် ပေါင်ငါးသောင်းကို ယူမလား၊ တစ်ဝက်သေချာတဲ့ပေါင်တစ်သန်းကို ယူမလား",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c1414lkeggjo?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
