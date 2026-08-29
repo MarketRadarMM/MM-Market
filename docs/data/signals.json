@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-08-29T00:00:24+00:00",
+ "generated_at": "2026-08-29T00:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-08-29T00:30:20+00:00",
+   "title": "Orders Archives",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9hS1RBclI0T3BMSVBKa2pqTnYzNS1mcnMxUXdSLVo2MXBiSnJlNVFnYVZwekpTcldKbmY3cFFFTmt3OUFsemtWRGZWeXo2MTVKOV9scUNERTJLOTQzLWh6MDR3cw?oc=5"
+  },
+  {
+   "ts": "2026-08-29T00:30:19+00:00",
+   "title": "Open-source Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkTEdCZ0NXenV2U2ZwMUFxMkZXODZXNXB1NUtGV1hieTZsS0txVzgxMWQxX3BTTlBXdzJ1eExxSEltam5FV2w4YlZXWDhMNng5bFpTaUlR?oc=5"
+  },
   {
    "ts": "2026-08-29T00:00:24+00:00",
    "title": "Chairman of State Administration Council Prime Minister Senior General Min Aung Hlaing delivers World Environment Day address",
@@ -2162,20 +2176,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTVlTSzREOUE2NVlCNUl0ek12Y1ZNYmM3NFI2OGxRQkhoMEJNa0oxMi1ncGpDOWJvejhwTk5RRFdwUjVNd3NMSzVmSnRrTXcteUhzVmxiTU11dk52UjVnNFRkTXR2MVlST3JVd1lqY056X0ZDQXQxYlgxR2d6VWVmV0VxMmdaQkRmRTdvX3Z3Yi0tcGdvZVdXTUdJSzVVVU1mV05jZU9zcGhmMmhsREpyVHpR?oc=5"
-  },
-  {
-   "ts": "2026-08-24T17:30:27+00:00",
-   "title": "ATOM introduces ‘Bright Futures’ Scholarship for 10 outstanding students",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY1FjVGZQVGlkVnJDX05Ta29uV0Q2NXZqbURHaC1pdE8xVjRZcXhPSGJoU1Q1OUN0VXp6QmZQSjAxeXh5WGc5WWFzT2xFYTRYZDVaRjdWRElnWUVOb0RMWkZtTDRDakxtMHRxUmlQVnNnT1VEZnd2dGZmNmRXaVlKa2dVSlV4VzBVZ29Ya2xfZDRsWFRtcGNYUU8tQQ?oc=5"
-  },
-  {
-   "ts": "2026-08-24T17:30:27+00:00",
-   "title": "Up to 10,000 daily pilgrims visit Botahtaung Pagoda on religious occasions",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONkdocTl0Ry1lQVpsTDIzR0dZeHBXUWpCWUFsUExSQTBFOF9EdGlLZzFXMWlKRUtqVmxSNjBVM2dtcjdaUGt4cWFJZUU0YmhvODdyLVdWbWtmbjRXWGF4NWhwYnVNMTBJUjJsbmpaVlJBVGd5SGQtdEtwNUQ1UUlfMjUtTTNYV3duaXhraEVGTERrX3FfQkVZVUVQNDJsWjA?oc=5"
   }
  ]
 }
