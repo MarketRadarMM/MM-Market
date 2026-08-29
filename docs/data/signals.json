@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-29T11:00:20+00:00",
+ "generated_at": "2026-08-29T11:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-08-29T11:30:19+00:00",
+   "title": "ဦးထွန်းရီ Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZmtvNVpSd2EyWHBGUGR3OXcxb2lxdmRWMjJJMUIxX2FhcTRmVy1MTlFrUVpNVHNNQS1WbzNDQ0xhLWRhc2hkM3RqeldjblpuZ0hWNk1iQmYyc19lRGxBUkM4a0RlSFFvRndKY2paT2FmS2hvc2tIWWRfeTNFUEJXYV9qeDVOUGMzMElBcHRTcm5VQWFoV1hZcFl4V1NCQTl0YXhqdmZXcHJ3aUhDX0ZqVlRTTQ?oc=5"
+  },
   {
    "ts": "2026-08-29T11:00:18+00:00",
    "title": "စောမွန်လှ Archives",
@@ -2169,13 +2176,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWGFUR0lSOFI1NVZMcnNHWjdoUEVsX3dTLUNPQ3M2VmtsczBIT3BFc3BxTmNFeVBKaG16MmdRUC1JZGhxQTd0eW5teldQVHo3azlUNXZZcXBuVUpObGM1ZjN5dS02RmNLR0plLVRGX2kxTUhXcWx1LUpvNktaRWZsS3hDVFI1QVY0Uk04UWhzVTVlSmkzdmktLW1qUnVkRUgxdmJPdDNXd1Vadkd5LWMtTUowTkxxdEo1?oc=5"
-  },
-  {
-   "ts": "2026-08-25T02:30:15+00:00",
-   "title": "ချင်းပြည်နယ် ပလက်ဝမြို့ကိုဗုံးကြဲမှု ကလေးငယ်များ အပါအဝင် ၅ ဦးသေ၊ ၁၇ ဦးဒဏ်ရာရ",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/80684/"
   }
  ]
 }
