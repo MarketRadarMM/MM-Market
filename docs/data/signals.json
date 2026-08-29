@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-29T12:00:28+00:00",
+ "generated_at": "2026-08-29T12:30:22+00:00",
  "signals": [
+  {
+   "ts": "2026-08-29T12:30:17+00:00",
+   "title": "နီပေါရေကြီးမှု - အိပ်မက်ခရီးစဥ်အတွင်း ပျောက်ဆုံးခဲ့ရသူတွေ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c5y7r9l7r91o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-08-29T11:30:19+00:00",
    "title": "ဦးထွန်းရီ Archives",
@@ -2169,13 +2176,6 @@
    "source": "Frontier Myanmar",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZk41ZG05aW91MW1TZEVvTGp4aTZtVVhwbVB0QkxFQTN2S0ZwZ1pUWWZMNEJnM3lfR3dWZzQ1Wkh3Tml6d0FqcUlDeDVpTjQ2MU1NYlhRbHpVZHhBWUJCMFlqbFZpbktDNWNOUk5iSVYwalRncUx4Zy1DSGNiOTgxeW9CQnUyTk12RGFZLTRjWDd0QWQyLWhF?oc=5"
-  },
-  {
-   "ts": "2026-08-25T02:30:18+00:00",
-   "title": "Acting President of the Republic of the Union of Myanmar, Chairman of State Security and Peace Commission, Senior General Min Aung Hlaing attends ceremony to present cash rewards offered by government to athletes who won medals in international spor",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWGFUR0lSOFI1NVZMcnNHWjdoUEVsX3dTLUNPQ3M2VmtsczBIT3BFc3BxTmNFeVBKaG16MmdRUC1JZGhxQTd0eW5teldQVHo3azlUNXZZcXBuVUpObGM1ZjN5dS02RmNLR0plLVRGX2kxTUhXcWx1LUpvNktaRWZsS3hDVFI1QVY0Uk04UWhzVTVlSmkzdmktLW1qUnVkRUgxdmJPdDNXd1Vadkd5LWMtTUowTkxxdEo1?oc=5"
   }
  ]
 }
