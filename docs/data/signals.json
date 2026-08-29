@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-29T21:00:26+00:00",
+ "generated_at": "2026-08-29T21:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-08-29T21:30:18+00:00",
+   "title": "ရဲမြလွင် Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbVY5NEhhdTlzOHI5QS1BNzZ2a01URmVOVDlOejJZWnN1cmVFUUZOVHhQdGpCd1BXS0swQXhKb1F0elVJbGVlbUZiazUtZnhYYlR4ejY3M0JIT2djbkt1Ql9mMU9TdklBZTJMbnp5eHBlNHhmc2d2SFFUZFh4TUJ2MkhteVhCaTB5Vzk1b0pVN0ZRQzk4bXJEWG84NlR1bTJhLXJHN3RaVQ?oc=5"
+  },
   {
    "ts": "2026-08-29T14:30:18+00:00",
    "title": "Myanmar airstrike on monastery marking Lent kills 14: Witnesses",
@@ -2169,13 +2176,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IZndwblVHOEpvY09TTFhScTk0OC1JVkdoaUxzZTN0Ti1nVElMODd6eS1sdTE5X2hmc0lZd1RwU3RkblBzRVcwa1Q5VHl2bnFPd3dGeWN0Y0lScU90cHh0cUttUWlKakgwSmw2NzNBQQ?oc=5"
-  },
-  {
-   "ts": "2026-08-25T03:30:23+00:00",
-   "title": "ရိုဟင်ဂျာအရေး ၉ နှစ်ပြည့် - လုံခြုံစိတ်ချရပြီး ဂုဏ်သိက္ခာရှိစွာနေရပ်ပြန်နိုင်ရေး SAC-M တိုက်တွန်း",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.co.uk/burmese/live/cq33knj5v65xt?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
