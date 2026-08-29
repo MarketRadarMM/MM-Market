@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-08-29T10:30:23+00:00",
+ "generated_at": "2026-08-29T11:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-08-29T11:00:18+00:00",
+   "title": "စောမွန်လှ Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM0xrd0JBSXJxSFllcWRxeVV3U1FES29vclplbnZmY3J0ZkgzdVpEM3A4VU0taU54aENkQTJoNlQtOWZESW9RTjdhMjJIR0ZiLVNoVGd4c0g5dk9PU0pRN25zSlppRTRiZ3pTcVBIaldKMEcwdWp3T0RlNHdhQTlmU3N3MXBOWTN5YjRiV2szY2VUeVN1VXNEaWZkd1k1WVlkZGRaWmFsVkFWMnJpNWlnX3BCNA?oc=5"
+  },
+  {
+   "ts": "2026-08-29T11:00:18+00:00",
+   "title": "ဆယ်လန့် Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSlRPUW5XYXg2SFBIcFFabF9VcXRQZlFGOHdGRlNNbVcyS3RwQ3lNVTA4MGkxelg2QnNkVkdTcWhRTVBRRWlXc3dGel9zM0x0aVpfQkVsS19CZ21CT1N5M1RoWDdCVTNkTHAxaGw5NGhXMzgtMkpUWUN2VFlfNTdmM25wcnlfUXdSNHJndGFMdV9BdlBkMGY0dklNOA?oc=5"
+  },
+  {
+   "ts": "2026-08-29T11:00:15+00:00",
+   "title": "ထိုင်းရောက်မြန်မာသန်းချီအတွက် စိုးရိမ်စရာဖြစ်လာတဲ့ ပြည်နှင်ဒဏ်စည်းမျဉ်းသစ်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/czrjm460y28o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-08-29T10:00:21+00:00",
    "title": "EconomicD-Day Archives",
@@ -2155,27 +2176,6 @@
    "source": "Myanmar Now (MM)",
    "markets": [],
    "url": "https://myanmar-now.org/mm/news/80684/"
-  },
-  {
-   "ts": "2026-08-25T01:30:16+00:00",
-   "title": "Indonesia-China naval drill could help normalize Beijing’s presence east of Taiwan",
-   "source": "RFA (EN)",
-   "markets": [],
-   "url": "https://rfa.org/english/southchinasea/2026/08/25/indonesia-china-taiwan-east-exercise-navy/"
-  },
-  {
-   "ts": "2026-08-25T00:00:19+00:00",
-   "title": "Construction of 2,400-gallon elevated water tank inspected in Yenangyoung",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR0NxbzFEQTVaV201MWNLRzdVSUVoQ0xESjRWYmZ1aTU2Zm82bnJqdFEyN2tqMVJsRkFoenFhOXo3ODBVODJKWUtlcTVoWEFLa1pONlJsV0ZVVlFZX2pVc1B2SS1oNlhOanpHbTlZTUhhai1MczBnemg3MWFzcGxOZEVKTy1Ybnl4TktPNVZEQWJPZU1fdFdVTlVHZ1hSZw?oc=5"
-  },
-  {
-   "ts": "2026-08-24T23:30:18+00:00",
-   "title": "Amended Cottage Industries Bill submitted to expand loan access",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd24xVVh0cTJnWnFJVlNYbk9rWTJMU3Y5bTl2Z0MwWjM3MDBGWHNnY1JCQ0ZBbjREb3g4YkdNNWx5Wnp6MU0yQm9kS3ZuNUpuekV0dTV1cTNXWXBMS0lrRTBrWkRqNWM0c3ZySFh1bDdMVTA3aUwxcG5wa0dkeWdTUHV3c2tKVDhTeGVXWDBJMWxoUQ?oc=5"
   }
  ]
 }
