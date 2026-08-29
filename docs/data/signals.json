@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-08-28T23:30:27+00:00",
+ "generated_at": "2026-08-29T00:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-08-29T00:00:24+00:00",
+   "title": "Chairman of State Administration Council Prime Minister Senior General Min Aung Hlaing delivers World Environment Day address",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMldUN1pJenhJLTg2b0xZbjFoWHBIVk04VG5Sdmt4QXpaSk56OFlNWVVsc3dvcThyb1U0NHFTRkoxRGJtRHhvZU9WOEFaMzBkX0xxYXY5UDdidmUyQjdlZmQyYlhFMElhT2tlTEx3dmFpUU9aWFRrVjluMFhPLUJ6ZGNkT2RuZ0lSUUl1c1F3TjlqQ2NVT3Y2VFJGRkRPMXFBckNsUGlVeHFJeU5hZlJjVzdvLU5ZaVhUa0ZxWHV5LUxlcU0?oc=5"
+  },
+  {
+   "ts": "2026-08-29T00:00:22+00:00",
+   "title": "Marianas voices demand a seat at the table in U.S. seabed mining proposal",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/pacific/2026/08/28/cnmi-mining-supply-chain-minerals/"
+  },
+  {
+   "ts": "2026-08-29T00:00:21+00:00",
+   "title": "အပစ်ရပ်ဆွေးနွေးရန် ချင်းပြည်ကောင်စီကို စစ်တပ်ချဉ်းကပ်",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/80820/"
+  },
   {
    "ts": "2026-08-28T23:30:27+00:00",
    "title": "Chairman of State Administration Council Commander-in- Chief of Defence Services Senior General Min Aung Hlaing meets officers, other ranks and families of Myeik, Kyunsu and Cocogyun stations",
@@ -2155,27 +2176,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONkdocTl0Ry1lQVpsTDIzR0dZeHBXUWpCWUFsUExSQTBFOF9EdGlLZzFXMWlKRUtqVmxSNjBVM2dtcjdaUGt4cWFJZUU0YmhvODdyLVdWbWtmbjRXWGF4NWhwYnVNMTBJUjJsbmpaVlJBVGd5SGQtdEtwNUQ1UUlfMjUtTTNYV3duaXhraEVGTERrX3FfQkVZVUVQNDJsWjA?oc=5"
-  },
-  {
-   "ts": "2026-08-24T15:00:25+00:00",
-   "title": "ထောင်နံရံလွန် Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTFdSRmlFYThTaTRRbGlXZlJNZUEyQkphZGcxb0pxVmFSSlBibWdfUFd3R0lzbEljdUwxMlJ5WmJpaVZjdm51MkZkSW5YTmRMQzBmdDZ3ZVNEOXdLcHRpcDBscVNkbmFoNDdnWkY2c2VIZ0xmYTNvSzdKdGQ3NFc0OTFLeElqUDZINGZ0QTR5WUNvX1NoVzhwMnY2cXBtem1sY3EyanJoNWVEZVdjei1oYW9mQ1hUUUxRYk1xdGQ5QldzazZZdE9HWEVmYTd0VzYyNHdBcW94ekZZc3hsTXV0WnNNVQ?oc=5"
-  },
-  {
-   "ts": "2026-08-24T14:30:20+00:00",
-   "title": "A Charity’s Checkered Past",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fejNuU2VXMUVFLXAxdHg4bFlObGozWXV6QndEa0VjbkJuaGlJeVJHUUoyMDVZT3E3N1pQZ0tITkR5ay1tcTRDUHFFcmJ5SERwMlpCbG00MFh0Z01acFZfR3phLURBbnE0?oc=5"
-  },
-  {
-   "ts": "2026-08-24T14:30:20+00:00",
-   "title": "ThaisAware Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50NTJvN3dEOEMzX2NuSjRVeUh6NF9UcXVISkx0THNxSURXM2NfYUg1aHo5b0tJZjdWTFpSV0FwcXBMb21iQnh6S1hwemt6dVV2OFRXcA?oc=5"
   }
  ]
 }
