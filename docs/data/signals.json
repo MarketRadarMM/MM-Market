@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-29T09:00:30+00:00",
+ "generated_at": "2026-08-29T09:30:17+00:00",
  "signals": [
+  {
+   "ts": "2026-08-29T09:30:15+00:00",
+   "title": "Nuclear Plant Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HZHI4Vkp4RGx5di1GdnkzQldQM2FNYkl5UVljS2M5SGlGU3ZBWDNZd1ZWNWxTS2oxbFBBMG1vTVZpUEFXWVF1Y25YdGM3VHdHSmhaTldB?oc=5"
+  },
   {
    "ts": "2026-08-29T09:00:28+00:00",
    "title": "အလံမလှဲ Archives",
@@ -2169,13 +2176,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYW9rdFV4OTJ3c0wtUEZGOXkxdHJEUlU1R1EwVFJHaXhwVHhzeExHdWhqOENYREZFQWotakMtMjcwTFFmbGwtZXNwYTdvOEFISE5GQUJHZm8yLTdRSVFBTUpXX2VsUG1leGF3MEFjRFFrc0FwNDlPOUdZd3Znb1lncElOTjFzekRyZUVz?oc=5"
-  },
-  {
-   "ts": "2026-08-24T23:30:18+00:00",
-   "title": "2026 Region/State Sepak Takraw Championships launched",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPT2Y5Q0RTZ05KZW80cDJyMkM4LUpzQjJTU3VzZFR3aThjakNzR0dmbkNVbXFKRFFaQnA5cTNTYzZib0pTUl9maWstZ2wyeHlnSEhLRXREZVVNSEUzVk42ZWNkc2ROTzRDNUlvaVR6VUloUWxUblBaMlhhOUZKWW4xMnYwRng?oc=5"
   }
  ]
 }
