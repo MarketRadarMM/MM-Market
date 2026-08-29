@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-29T14:00:21+00:00",
+ "generated_at": "2026-08-29T14:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-08-29T14:30:18+00:00",
+   "title": "Myanmar airstrike on monastery marking Lent kills 14: Witnesses",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOEZ1SjlIRXV1R0pKZng1T21PR2NpM1JFZVpSQlA5MGZPNWY3YWMxWWlDSzdDZ1pHbkFYcmxPQktzYnNGM1IwZjFrclNXN0tPeS0tUHpqdEdvNVFsQkU3VE85d1M4dG9SbVlrVzBtVlFDY1gxMDBMUDJkY25kdTNmN1h5SGlaamhnOHlIOXNoU0VjeHAxdlVERXhfSzlOdTA?oc=5"
+  },
   {
    "ts": "2026-08-29T12:30:17+00:00",
    "title": "နီပေါရေကြီးမှု - အိပ်မက်ခရီးစဥ်အတွင်း ပျောက်ဆုံးခဲ့ရသူတွေ",
@@ -2169,13 +2176,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.co.uk/burmese/live/cq33knj5v65xt?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-08-25T03:00:20+00:00",
-   "title": "Myanmar migrants and refugees fuel freight services boom",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZk41ZG05aW91MW1TZEVvTGp4aTZtVVhwbVB0QkxFQTN2S0ZwZ1pUWWZMNEJnM3lfR3dWZzQ1Wkh3Tml6d0FqcUlDeDVpTjQ2MU1NYlhRbHpVZHhBWUJCMFlqbFZpbktDNWNOUk5iSVYwalRncUx4Zy1DSGNiOTgxeW9CQnUyTk12RGFZLTRjWDd0QWQyLWhF?oc=5"
   }
  ]
 }
