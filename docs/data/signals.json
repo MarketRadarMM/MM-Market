@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-29T09:30:17+00:00",
+ "generated_at": "2026-08-29T10:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-08-29T10:00:21+00:00",
+   "title": "EconomicD-Day Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JMTdXOUVxUzY3amg2alhNQ2VZR0FCUHozMHlwei03WEQ3d0RVYVdfNUtKTXVYaEhjYlJtM1FMVkl0R2psRlZTWTFDVU5ud2RuMkVONWlRSEs?oc=5"
+  },
   {
    "ts": "2026-08-29T09:30:15+00:00",
    "title": "Nuclear Plant Archives",
@@ -2169,13 +2176,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd24xVVh0cTJnWnFJVlNYbk9rWTJMU3Y5bTl2Z0MwWjM3MDBGWHNnY1JCQ0ZBbjREb3g4YkdNNWx5Wnp6MU0yQm9kS3ZuNUpuekV0dTV1cTNXWXBMS0lrRTBrWkRqNWM0c3ZySFh1bDdMVTA3aUwxcG5wa0dkeWdTUHV3c2tKVDhTeGVXWDBJMWxoUQ?oc=5"
-  },
-  {
-   "ts": "2026-08-24T23:30:18+00:00",
-   "title": "MSY village project introduced in Thongwa, committee formed",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYW9rdFV4OTJ3c0wtUEZGOXkxdHJEUlU1R1EwVFJHaXhwVHhzeExHdWhqOENYREZFQWotakMtMjcwTFFmbGwtZXNwYTdvOEFISE5GQUJHZm8yLTdRSVFBTUpXX2VsUG1leGF3MEFjRFFrc0FwNDlPOUdZd3Znb1lncElOTjFzekRyZUVz?oc=5"
   }
  ]
 }
