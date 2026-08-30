@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-30T08:00:23+00:00",
+ "generated_at": "2026-08-30T08:30:24+00:00",
  "signals": [
+  {
+   "ts": "2026-08-30T08:30:22+00:00",
+   "title": "Matriculation Exam",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ybzBDUlJKV2FnbWx5dEowdjR1TWZTelRmX19vRUdMaUdySERqVkduYnpfb3d2WmYtX1E0QlZjX3NPZmtWWm53aWRLcllBMGJzVGQ4T0I3Z2Q5X2FEdjZDVXZXbmRQa2I5NWx0N21R?oc=5"
+  },
   {
    "ts": "2026-08-30T06:30:14+00:00",
    "title": "နီပေါရေဘေး သေဆုံးသူ ၇၀၀ ကျော်လာချိန် မိုးနဲ့လမ်းပန်းကြောင့် ကူညီရှာဖွေရေးအခက်ကြုံ",
@@ -2169,13 +2176,6 @@
    "source": "Myanmar Now (EN)",
    "markets": [],
    "url": "https://myanmar-now.org/en/news/myanmar-junta-airstrike-in-paletwa-kills-five-and-injures-17-including-children/"
-  },
-  {
-   "ts": "2026-08-25T08:30:18+00:00",
-   "title": "WhatsHappensInManmar Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE45dHFHcVQ0cVN6STUtLTFjZTh4ZjV5MHZsMmhJMWhOajBWa2RvcDVOZ1dVeW1KVUFOZ3V3ZV9uZldoYkVkaVVuMmNjZ1AzbUx5Q1FDOEJ3Z0dTN3pjVW1GY1FB?oc=5"
   }
  ]
 }
