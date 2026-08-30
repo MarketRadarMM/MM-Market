@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-29T23:30:20+00:00",
+ "generated_at": "2026-08-30T00:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-08-30T00:00:22+00:00",
+   "title": "Thai, Myanmar military chiefs meet as post-coup thaw progresses",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT1JJSVdLd2E1VEFWMlNMa1h2YkctTUlJX1VheUZjRkJGeTRja3BEN3hObW5jd1BJbjJFQ2w4LXQ4WmhYZFY3SUZ6d3hxSURqZGJ2NFYzOXYxOHgwU0JmMC1GY21GMzhFNkN3T29ERFE0dnZxRHFuTC1rOGFkcGtlQWxwN2p4QlN2eTl6azBhQjdIaGVDNVR4RkxjbVNzYXc?oc=5"
+  },
   {
    "ts": "2026-08-29T23:00:18+00:00",
    "title": "USSAbrahamLincoln Archives",
@@ -2169,13 +2176,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORkVrN3dvM0N6X2JxVzJRVzhBMF9SaHE2cGhlUjFlMTJtYm1Mb0xTU19jY1VfUllINjUxMlllQWllX210TzZoOUNVRFdGZHY3bFNaT19nZ25EZkVtRUFaTGRMMVBLN0pTdVNRNk03ckl5VWFwSS1RLWl1M0tNbTNrZ1FoanZiWEowam5vRHFB?oc=5"
-  },
-  {
-   "ts": "2026-08-25T05:30:16+00:00",
-   "title": "မော်စကိုခရီးစဉ်တွင် စစ်ခေါင်းဆောင် ဘာရခဲ့သနည်း၊ ဓာတ်ငွေ့စက်ရုံမှ အာကာသယာဉ်မှူးအထိ အစီအစဉ်များ ကြွေးကြော်",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/80690/"
   }
  ]
 }
