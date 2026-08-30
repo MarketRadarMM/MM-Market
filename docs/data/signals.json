@@ -1,6 +1,41 @@
 {
- "generated_at": "2026-08-30T19:30:17+00:00",
+ "generated_at": "2026-08-30T20:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-08-30T20:00:23+00:00",
+   "title": "Motion Picture Academy Awards for 2019, 2020 and 2022 presented; SAC Vice Chairman Deputy Prime Minister Vice-Senior General Soe Win addresses ceremony",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcFlDZWQ3ZVJZbmVkOEpUSmFqS3ZSTUEwVjFfWndaTERIRjJPa2N1R0w2ZV9IcFBPNU9hbU1uRTFjNk5kd18zeWpkSDZVQ3YtQ0dXbFFKckVmeTdPSTM0cGxDMzB4ZjhOUHRtMl9lU3VsNjRxMlBjaVFZajBOZ045OTJxa3lhX0pmQXBmeHFXX09MdERudndrUGd6YUh5RkVQRE1ReUtZVVB4NWZMazBMRl9NRjlaWEgxMWxwQmtlWHR6ZHM?oc=5"
+  },
+  {
+   "ts": "2026-08-30T20:00:21+00:00",
+   "title": "Burma pro-democracy leader Aung San Suu Kyi reunites her son Kim Aris for the first time in ten years at the Yangon international airport. – The Irrawaddy",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HazBSYTNsanJPQmVqdjl1Z1JFODBybTYwb2pWNzU1YmpNQk1DUFJtaGdub1RaR1lYazR0d1FhUVZUOE1KN1N6NTdPQU9nOFBtV2RQc2ZfOTM5UEFVeDktTlpSUDYtTWlReW9OOHRjdw?oc=5"
+  },
+  {
+   "ts": "2026-08-30T20:00:21+00:00",
+   "title": "Yangon International Airport",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rXzR1SkRlOUh3NTVyek9Qbk52Y0RNVHZYVTNfYUxzVWEwWkFGbVFjOC11ZERuMlZmQUdnZkd5VjI5OTB3TUs0SExZdjJ3ZkNicGpVVzcxMzNYLTA2UUpCaVdvdkhBd3RoOWpxY1JqZw?oc=5"
+  },
+  {
+   "ts": "2026-08-30T20:00:21+00:00",
+   "title": "TNLA soldiers",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYQ3N2em1nYWNTSFE0UVNCeG02OGJ1Z3lZX1BvNENPclpXR1JjRG9BMGxHMHpCRmZPX3F6ZmJEMEVnTEIzYXF6VFpxNUh4MVpWNUJBTDZhNDhvMWNfY1hwNDR0cHNxR09PMjJHTGNucnY?oc=5"
+  },
+  {
+   "ts": "2026-08-30T20:00:21+00:00",
+   "title": "National League for Democracy supporters in Pyin Oo Lwin",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqUEdXMUFoSE1JX2ZzeUczWW01ZmRKNEx3U0VjbkpyUmdERTBLVDJxb2F5NFlyRDh0amJGT1JVNGozYWhoR1lCalQzS0k5THlaYk5EeUJtNXNlSFNiRE9vcWRwdWk5eGNpZjhnWmJ3?oc=5"
+  },
   {
    "ts": "2026-08-30T19:00:21+00:00",
    "title": "Burma President Thein Sein (Centre) delivers his speech while he is flanked by Vice President Thiha Thura Tin Aung Myint Oo (Left) and Vice President Sai Mauk Khan (a) Maung Ohn at the parliament in Naypyidaw, Burma. – The Irrawaddy",
@@ -2103,60 +2138,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeUh5TVl0Y3RjdjU0LVEwVnktNG43Q1MwOVhkVUp4OW9vR2szeURxd2ppNTd5UFVhRmJwTTZoSTQtVnNHWGQxbHhxQzM4eVZGVFpsOWMyS3pGYlN6OUgwRUt0SUM3NGpqaG1DUUg1dW9EVnhJRmdqT3pqeS1iVzAxcG5qNG1CbWVoNGJoR0hDaw?oc=5"
-  },
-  {
-   "ts": "2026-08-26T05:30:19+00:00",
-   "title": "26 August 2026",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rdnk0Zkdncno1TUNZeVNET1N3MlRGNC12Xy1Ra0lWc3NuVDZZTWJKdGV4OGJkX0ZubmJsc005T0lybkUxdUg1d2lLUnU5WjJ1?oc=5"
-  },
-  {
-   "ts": "2026-08-26T05:30:16+00:00",
-   "title": "Guest Column | Border Trade and the Future of Arakan",
-   "source": "Irrawaddy",
-   "markets": [
-    {
-     "market": "pulses",
-     "direction": "neutral",
-     "confidence": 0.5,
-     "rationale": "China border trade affects bean flows"
-    },
-    {
-     "market": "rice",
-     "direction": "neutral",
-     "confidence": 0.5,
-     "rationale": "Border status affects rice exports"
-    },
-    {
-     "market": "fuel",
-     "direction": "neutral",
-     "confidence": 0.45,
-     "rationale": "Border routes also carry imported goods"
-    }
-   ],
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Vam5LbHpaRmtDVlpaZlFGQUNSMS1UZzh3cElCTEQ3QWxKUjZhN0xET3Bfb2JxVlA1SDc3RkszZmI3c08wdldoUUptWjV1MFZ0MnFObFV3aFo0TE5UQjFVX05rcDZ0YTZnOTkxRjNUYXU4aGlHMmtZcHRFVHpBQQ?oc=5"
-  },
-  {
-   "ts": "2026-08-26T03:00:31+00:00",
-   "title": "A speech delivered by President of the Republic of the Union of Myanmar U Min Aung Hlaing at the affirmation ceremony at the Pyidaungsu Hluttaw",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSzF0ejdRdEZxdWQ5a2JjejEwdkdNR2tBOG5pcXgzRWhMYWluNV8zbnVvb3FtS0Jmanp6bmZyUnBUc0FwZml2X1ZvVDNEeVdNXzB1ZGxPd0thRWxkX1I5VkNYOW9Nc05qTnhFV3ZnNkVmZjFWX2RWRm00c0ZzSTdRUUdkVkNLRVlwc0RULWIxVm8wSDM2TnRoU3ZGY0RONVFPWVBSeTNQcmMtSHN5NnJwekxNMzJ1RnhrMF85OC12N3RnRmd3?oc=5"
-  },
-  {
-   "ts": "2026-08-26T03:00:27+00:00",
-   "title": "UEC Supporters Protests",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1obFl4dUNmbkU2ZkQxTVl4eTY5UHh3MUliekRGblgxczE5THU2aHNzbURRcVFYazJqMF9XZ2l3bm0zZlY3dG5sTjJieEdFX21CUDUzQTdjZnNveGNjc1BRaXZLLVU4T3JfcWJ5Snp3?oc=5"
-  },
-  {
-   "ts": "2026-08-26T03:00:24+00:00",
-   "title": "ပြည်ပ ချေးငွေမယူဘဲ နိုင်ငံ့စီးပွားရေး တိုးတက်အောင်လုပ်မယ်လို့ ဦးမင်းအောင်လှိုင်ပြော",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.co.uk/burmese/live/cw5y4074dnjkt?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
