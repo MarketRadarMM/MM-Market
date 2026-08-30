@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-30T04:30:28+00:00",
+ "generated_at": "2026-08-30T05:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-08-30T05:00:22+00:00",
+   "title": "2020 General Election and Tamwe",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zcTg3bGI0QndUd255Z0xOLWNMYlQyYlFDcWpOMUVoLWFwUVQ5MWloMFJFTkRmWC1CMVZQNFJrWmNCLVlvOFl6aC1ZTjZmTlpydEJvX2RBdlEzLVY3MjRlYzdoSmFMVTRJVEM1bHVlNA?oc=5"
+  },
   {
    "ts": "2026-08-30T03:30:18+00:00",
    "title": "Myanmar avocado season 2026-27 launches with promotion drive",
@@ -2169,13 +2176,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5eVdtcFhGTjkxZ3BydnFHRkF6V1hreVdjSDI4V09RLWVhd0lVUDhrc1JHVFJsX1U5MXB5S2V4aGlCekpZTmNINXVadE5Zd2oxamFVM1F0NFdVQ1VsZnNpRmJFc2ktRTlCNTJidGFONUVZdWdudGZ2WA?oc=5"
-  },
-  {
-   "ts": "2026-08-25T08:00:21+00:00",
-   "title": "The Irrawaddy News Magazine [Covering Burma and Southeast Asia]",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90ZDRSOGpHVU1nN1lBZ2ZzM2o0YU1lM2lLNFBxVElnVWRHQnl3MFZTUnZ4Y1BVYzBHSzhERHVLZzM2cGptX3RRY1R4elJaVG1GUFA1MXF4b2xhNFpaX2ZEY3BRcG5MdW8?oc=5"
   }
  ]
 }
