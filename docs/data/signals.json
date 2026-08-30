@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-30T06:00:27+00:00",
+ "generated_at": "2026-08-30T06:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-08-30T06:30:14+00:00",
+   "title": "နီပေါရေဘေး သေဆုံးသူ ၇၀၀ ကျော်လာချိန် မိုးနဲ့လမ်းပန်းကြောင့် ကူညီရှာဖွေရေးအခက်ကြုံ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cddv6ny7dgzo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-08-30T06:00:27+00:00",
    "title": "President U Min Aung Hlaing inspects progress of livestock breeding farms in Twantay Township, Yangon Region",
@@ -2169,13 +2176,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE45dHFHcVQ0cVN6STUtLTFjZTh4ZjV5MHZsMmhJMWhOajBWa2RvcDVOZ1dVeW1KVUFOZ3V3ZV9uZldoYkVkaVVuMmNjZ1AzbUx5Q1FDOEJ3Z0dTN3pjVW1GY1FB?oc=5"
-  },
-  {
-   "ts": "2026-08-25T08:00:21+00:00",
-   "title": "Tender invited for 2027 Hajj pilgrimage services",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAyREtNOEt3XzVrTktYeHdTWGRrWlI4Y1c1LVZvd0Z2NTNaUzhZZGlSU0ZKQ0hSb1ZRR3otR1hScG5jUHA3VTF4MExmalJ1ZGtIb19mdXdQelZfMmlramZuTkZSRnN6TjJsZGF5Q2syMzFuYWlBcjRaeG1OQkxWUQ?oc=5"
   }
  ]
 }
