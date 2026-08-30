@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-08-30T20:00:23+00:00",
+ "generated_at": "2026-08-30T20:30:24+00:00",
  "signals": [
+  {
+   "ts": "2026-08-30T20:30:23+00:00",
+   "title": "Situation in Myanmar Got Worse Since Election: UN Envoy",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLUtXS0FidHZjdmYzekNiaFU4UERPTlhHelNuRk1sV3RfbXctN0RwVUxzVnpRc2hxaWpTZkowMGxhcjBwcUlhY3d3SVNtWlZab0RUaWIyUlpNRU03eDFraUU1dEg4b1J4dDdmLUgtVmRRRzlJc0c4SS1qdHZlcF9QeVZkanBaSk8xbGlOWTVJSmRONTFWdzd2bFdpaUV6MTJ0N2Z5Nm5KRTF1MG0zMFBVQzc0eEZGdW8?oc=5"
+  },
+  {
+   "ts": "2026-08-30T20:30:23+00:00",
+   "title": "Regime Launches Committee to Monitor Myanmar’s Internet 24/7",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVnhuOTNKZ1ZhRUlXR1JJU3FGS19nRjhlQmV5VHR0QmtQemg1bGhZVGlKa084WVBqY05jRjFxNHY3MThJVElLVVU5eUpidjdlMERnYnZoQkY5QV84N2lsd2VJSS1sWkNHU0ktZjAxNUNrOGJDSVR4cXBubkNnUUVxOC1CVlRkeF8xUzJGUlZxb2VESUZkRnRLUXhsclo1clVVRVdv?oc=5"
+  },
+  {
+   "ts": "2026-08-30T20:30:23+00:00",
+   "title": "Chin Chaung Palace",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1RQ2ZkVkFZSFlHaEM5RzNPd2VNOWFOc0t6c2JYcjVBY0d2MUNmOFVBaGZadURMWlNHZDhOVFU5bi04V0VMMTJ5azBJa1FuZWNpWGN3Tkt6aEFCQUtLOHRISVN3NEkyYXpwZ3RzMUV0SQ?oc=5"
+  },
   {
    "ts": "2026-08-30T20:00:23+00:00",
    "title": "Motion Picture Academy Awards for 2019, 2020 and 2022 presented; SAC Vice Chairman Deputy Prime Minister Vice-Senior General Soe Win addresses ceremony",
@@ -2117,27 +2138,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9telVYbWtEa2tnajUzT1VMb0pobm45SWhVUmZ4cGJ4aGQ1eU1kQlJnMmpGZ013Z2J5YVpLLWNLT1BMQVY0bEZiejV6d0RGNkVlUEJXbG5FQ3Vfa1p2SzhidnhUWlFEUVNRYUdWRFdJRnJTVGZo?oc=5"
-  },
-  {
-   "ts": "2026-08-26T06:30:17+00:00",
-   "title": "Myanmar Rohingya refugees protest dire conditions in Bangladesh camps",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/myanmar-rohingya-refugees-protest-dire-conditions-in-bangladesh-camps/"
-  },
-  {
-   "ts": "2026-08-26T06:00:19+00:00",
-   "title": "Articles Archives",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBoWjJYTmVuTnRPTnJZVkhNOWk3SWRpdEdOaWpLSnJVSXpjLTNEMW9HNnVYRk9uX245cE1VWUt4bXIwT2R5SlNiTEdhU2Y4S0pPMHRMRQ?oc=5"
-  },
-  {
-   "ts": "2026-08-26T06:00:19+00:00",
-   "title": "Human Rights in Myanmar Hitting a ‘New Low’: UN",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeUh5TVl0Y3RjdjU0LVEwVnktNG43Q1MwOVhkVUp4OW9vR2szeURxd2ppNTd5UFVhRmJwTTZoSTQtVnNHWGQxbHhxQzM4eVZGVFpsOWMyS3pGYlN6OUgwRUt0SUM3NGpqaG1DUUg1dW9EVnhJRmdqT3pqeS1iVzAxcG5qNG1CbWVoNGJoR0hDaw?oc=5"
   }
  ]
 }
