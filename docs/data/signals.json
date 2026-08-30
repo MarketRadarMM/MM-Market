@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-08-30T03:00:24+00:00",
+ "generated_at": "2026-08-30T03:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-08-30T03:30:18+00:00",
+   "title": "Myanmar avocado season 2026-27 launches with promotion drive",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONEE1NFlneDV6TEstVFJLa0dJXzFpdDg1YW9ZbDJqazlROWZYMFhpRGpPTmpsU0pRbDVPdnBiQjdvdXViMk40eVhSRmkzbkVqZUVNMExsZnJCV05wMFhSbjVLMy1sQ0d2eWFPb3FyZ1luTktUUFZxdEVhaEQ0YkFmOE5lNzJHekZNSnR6dmFB?oc=5"
+  },
+  {
+   "ts": "2026-08-30T03:30:18+00:00",
+   "title": "30 August 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80ZjlZU3NOeHlERnE5d0V0dlB2MzdxS0VyQ0JMcDBjYUJLY01QYlRlemdHYlkzbEkwd29GSGo1ZFZLQk9xZWIyQWh6dWRTcnYz?oc=5"
+  },
+  {
+   "ts": "2026-08-30T03:30:14+00:00",
+   "title": "သြဂုတ် ၃၀ ရက်သတင်းများအနှစ်ချုပ် - ဂျပန်မှာ မြန်မာအမျိုးသမီးတစ်ဦး မွေးကင်းစကလေးအလောင်း စွန့်ပစ်မှု သံသယနဲ့အဖမ်းခံရ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c1e5l4d1gpxo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-08-30T00:30:16+00:00",
    "title": "Daw Suu meets European Union foreign policy chief Catherine Ashton",
@@ -2155,27 +2176,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90ZDRSOGpHVU1nN1lBZ2ZzM2o0YU1lM2lLNFBxVElnVWRHQnl3MFZTUnZ4Y1BVYzBHSzhERHVLZzM2cGptX3RRY1R4elJaVG1GUFA1MXF4b2xhNFpaX2ZEY3BRcG5MdW8?oc=5"
-  },
-  {
-   "ts": "2026-08-25T08:00:21+00:00",
-   "title": "Northern Shan State Trip",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tUDVfN1F2VjgtLU5UWEtDSDZHUlJod3RTNGpSWnJzOUNpMlRLdGowRXBpTldhVkNaWm4zQWpzT1dzbkNxMHhBbmZlNHU5allVUHZxZWJjTEhLTXk4bFpNYTY0OXhFMlBtRXRSdWVR?oc=5"
-  },
-  {
-   "ts": "2026-08-25T06:30:15+00:00",
-   "title": "လူသေတွေနဲ့ စကားပြောခြင်း — မြန်မာစစ်အုပ်စုနဲ့ ထိတွေ့ဆက်ဆံရတဲ့ အဖိုးအခ",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/80696/"
-  },
-  {
-   "ts": "2026-08-25T06:00:18+00:00",
-   "title": "The Russian general behind Moscow’s decades-long military courtship of Myanmar",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/the-russian-general-behind-moscows-decades-long-military-courtship-of-myanmar/"
   }
  ]
 }
