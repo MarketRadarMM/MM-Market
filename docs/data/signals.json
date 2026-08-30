@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-08-30T20:30:24+00:00",
+ "generated_at": "2026-08-30T21:00:25+00:00",
  "signals": [
+  {
+   "ts": "2026-08-30T21:00:23+00:00",
+   "title": "Peace Meeting between KNU and Burmese Peace Representative Group on 6th April 2012, at Sedona Hotel Yangon, Myanmar. – The Irrawaddy",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0NFhoZ3BFRlJGX2hYcUx4TEFYTkpZY204Wi1VVVhRcHliOXAxZENZNjNBNGRJdWNIdVZuenlPNzZUS1lkVTJER2tTU1FxcC1Jd2FmSVpPbDBrMFA4R1pGWWdmS2E5QnB2dVRsR0Nn?oc=5"
+  },
+  {
+   "ts": "2026-08-30T21:00:23+00:00",
+   "title": "Jana Mon Restaurant",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0zTGV4U3JnbmxKNEQzczhlUTFTVGl4bTk1dWYyMW9TRVhvTHJEeEpxdVdqY2RyMHB1Q01TUGpfdUNDMk85WUlTSTk0bW9oem84VGdGLWJDcEpfQmVwTUJ2NVVnc21SR0ozWHpDQzNsdw?oc=5"
+  },
   {
    "ts": "2026-08-30T20:30:23+00:00",
    "title": "Situation in Myanmar Got Worse Since Election: UN Envoy",
@@ -2124,20 +2138,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWFdreU9aVVVObEpyLUJQb1hLRXVzM2RPalcwYUpIZEVfZlRMSzZrT3pGcTNxSUVqVGxDekR3d2tFR0lwRHQzYjlyWjJFQnhLM1FxeGtZQzBpUFg3UzYwZ3FRcEQ1UHZxaDRuaGNLUTFjdTV4TDB6VUItdzZ0ZldxckxObTcyUUtDLURSem9TOXhGLXpEZWxnVW1YTW9zMWw0cmZtV2k1Zk8xZUxIR3pNZDZZei1kM0k1RktIQ0ZWaw?oc=5"
-  },
-  {
-   "ts": "2026-08-26T06:30:20+00:00",
-   "title": "Inter-State/Region Sepak Takraw Championships continue",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPX3BpUWp2Qi1jaEsxODhhTmdjNk9wbzNFZjFjY0k0V1BINHplcUlmdFdQU21UVGFGbVJ3LWhsNkNCcEVlNDlhazdGeFdMZEI2TzZiNERJTTBnMTdacGZXRm1IZ0dPV2JDUkhnSHh1S2U4VjJ5RXZZdThkdVlRMEl2YzRWZWVudw?oc=5"
-  },
-  {
-   "ts": "2026-08-26T06:30:20+00:00",
-   "title": "Yangon to host Club Lethwei Championships",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9telVYbWtEa2tnajUzT1VMb0pobm45SWhVUmZ4cGJ4aGQ1eU1kQlJnMmpGZ013Z2J5YVpLLWNLT1BMQVY0bEZiejV6d0RGNkVlUEJXbG5FQ3Vfa1p2SzhidnhUWlFEUVNRYUdWRFdJRnJTVGZo?oc=5"
   }
  ]
 }
