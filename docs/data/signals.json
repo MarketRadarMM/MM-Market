@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-30T18:00:22+00:00",
+ "generated_at": "2026-08-30T18:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-08-30T18:30:19+00:00",
+   "title": "Myat Wai Sutra recited for Maung Wai Yan Tun who died near the green market at 41st Street",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wMENlUzM1MTlUdUpzVGp6NXhxdTJRTS0yR052eTREc1ZzR2h4U2YxcktEc01RalJIN0thaDJaUmtlNGtuNTRSQTRXcFZ4dElydHBUbGRBbVVlN0FoVGhCSHNmRGJGY04yOThqU2Vn?oc=5"
+  },
   {
    "ts": "2026-08-30T17:30:18+00:00",
    "title": "Soldiers of Tatmadaw (Army, Navy and Air), children of servicemen/ servicewomen and war veterans, children of civilian substituteappointed staff, who passed the matriculation examinations for academic years 2019-2020 and 2021-2022 with outstanding resu",
@@ -2150,13 +2157,6 @@
    "source": "Khit Thit",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAxV2FabV92WjRUY0JMcU5ZRDNPSVZmd2VVdk1tUGx2NVFwbXd0WTRpOEw5MnRxbGRsdGg4bFUzR0d0MXpIV291TGpydw?oc=5"
-  },
-  {
-   "ts": "2026-08-25T22:00:31+00:00",
-   "title": "Handloom Days exhibition to be held at City Mall St John Starting 28 August",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMmd6cElsbFQwbElfR2NaSGduSjdHa3B5bm1fSk4wMGRmNm9yc1pCOWN0YU9VSkhvaTNVaW8zQzRBVEZybUNvY3RERjBLVFhkenRhaWNJVWNIMXJiTEZ2cnEtbWJIUGZnZE91N08wUDZkeWxqM1V4M0lJcmFZOElDdFJud2NQbHJSWFR6T204QUxRV3dOTGVXUkZfWF9vX2VrcXc?oc=5"
   }
  ]
 }
