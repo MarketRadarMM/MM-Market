@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-30T18:30:20+00:00",
+ "generated_at": "2026-08-30T19:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-08-30T19:00:21+00:00",
+   "title": "Burma President Thein Sein (Centre) delivers his speech while he is flanked by Vice President Thiha Thura Tin Aung Myint Oo (Left) and Vice President Sai Mauk Khan (a) Maung Ohn at the parliament in Naypyidaw, Burma. – The Irrawaddy",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Hb19fZjByZEY2b1oxX0JvUUFtS3RlbGdubURpeENvdUplNVA3S2R1V1JqeDlTWnAtMU1kcTY0ckZVQUY4MFNrWDhSS1NDMEp1UC0wY01lVmhlLVdic05wNUdfUF90OU0wSS1CaTJn?oc=5"
+  },
   {
    "ts": "2026-08-30T18:30:19+00:00",
    "title": "Myat Wai Sutra recited for Maung Wai Yan Tun who died near the green market at 41st Street",
@@ -2150,13 +2157,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.co.uk/burmese/live/cw5y4074dnjkt?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-08-26T02:00:22+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAxV2FabV92WjRUY0JMcU5ZRDNPSVZmd2VVdk1tUGx2NVFwbXd0WTRpOEw5MnRxbGRsdGg4bFUzR0d0MXpIV291TGpydw?oc=5"
   }
  ]
 }
