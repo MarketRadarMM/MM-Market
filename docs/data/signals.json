@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-30T00:00:23+00:00",
+ "generated_at": "2026-08-30T00:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-08-30T00:30:16+00:00",
+   "title": "Daw Suu meets European Union foreign policy chief Catherine Ashton",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zb3dlTFJtbldBZzNiMjJPWVJKamhyWmxzV1l6eVRobnhTSEIyS051MzgySGZJcUY5TjVrMW5kSGYteFExTUZMMjB1UmRXZHJYZHJGM1pQYUg0X0pNNnNQVnMtM24xUHhicVI0c0hB?oc=5"
+  },
   {
    "ts": "2026-08-30T00:00:22+00:00",
    "title": "Thai, Myanmar military chiefs meet as post-coup thaw progresses",
@@ -2169,13 +2176,6 @@
    "source": "Myanmar Now (EN)",
    "markets": [],
    "url": "https://myanmar-now.org/en/news/the-russian-general-behind-moscows-decades-long-military-courtship-of-myanmar/"
-  },
-  {
-   "ts": "2026-08-25T05:30:18+00:00",
-   "title": "EV Technical Training for Workshop Mechanics slated for Sept",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORkVrN3dvM0N6X2JxVzJRVzhBMF9SaHE2cGhlUjFlMTJtYm1Mb0xTU19jY1VfUllINjUxMlllQWllX210TzZoOUNVRFdGZHY3bFNaT19nZ25EZkVtRUFaTGRMMVBLN0pTdVNRNk03ckl5VWFwSS1RLWl1M0tNbTNrZ1FoanZiWEowam5vRHFB?oc=5"
   }
  ]
 }
