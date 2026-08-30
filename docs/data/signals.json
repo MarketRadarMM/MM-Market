@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-30T11:00:24+00:00",
+ "generated_at": "2026-08-30T11:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-08-30T11:30:17+00:00",
+   "title": "Myanmar steps up maize exports to Thailand via Tachilek",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUVBSdmtldm40dUtHVF9sZy1Fbm9zUEpvaHAxTUtVcFVGTl9UYkZCcWpxRGhRTG1ZYVdISVJQaVA2bmhfNEVjRURoN2Vjcnd4elF0bm5wS0tRWE0xYnpQdkpTVUg5ZE0xZG5OT0t3NTdPMDB5OTl4YmVnOVE3Q1Y3LWtCeWVWS1k?oc=5"
+  },
   {
    "ts": "2026-08-30T11:00:23+00:00",
    "title": "Need to balance cultivation with quality and demands for watermelon, muskmelon",
@@ -2150,13 +2157,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOS1SQldVOU1FNTFXZFlTQkdQOG1ldXNFWWk1Z1c5SEVTSmxieHdFRkZTN1NfXzY2R2JFTlZFbGtnQjh2UHFVeFRYSVNoZk1leWhuSGQ0eGRiZUZDYnhpM3FvdWtfaUpLclZyaGdBNXZ2SUZOazQzWGdsYTNhOVpCNll4N1NvcDRQWUcyRHpHZVdnNk5Ra1Z5Vk5sUHRaUVRUN2dPR0lSQQ?oc=5"
-  },
-  {
-   "ts": "2026-08-25T12:30:20+00:00",
-   "title": "MYANMAR-RUSSIA JOINT EXERCISE Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5EN1dRZGpWaVEteDhVcmpuV0dYcWFqTUp5MHdBZmN3emkyU0dMLWFHeHo0OFR6aEExUWpZdnR2alNaR0xON2ZrS1huZmU2Qmtna29xNk5ZS19OeWxKdU95SnNHVlJoYVNtYWhMZjZ3?oc=5"
   }
  ]
 }
