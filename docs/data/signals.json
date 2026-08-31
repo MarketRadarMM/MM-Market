@@ -1,6 +1,67 @@
 {
- "generated_at": "2026-08-31T10:30:20+00:00",
+ "generated_at": "2026-08-31T11:00:27+00:00",
  "signals": [
+  {
+   "ts": "2026-08-31T11:00:22+00:00",
+   "title": "ရှမ်းမြောက် စစ်ဆေးရေးဂိတ် ပစ်ခတ်မှု ပြည်သူ့စစ်နှင့်ဆက်နွှယ်သည့် အမျိုးသမီး သေဆုံး",
+   "source": "Myanmar Now (MM)",
+   "markets": [
+    {
+     "market": "pulses",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "China border trade affects bean flows"
+    },
+    {
+     "market": "rice",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "Border status affects rice exports"
+    },
+    {
+     "market": "fuel",
+     "direction": "neutral",
+     "confidence": 0.45,
+     "rationale": "Border routes also carry imported goods"
+    }
+   ],
+   "url": "https://myanmar-now.org/mm/news/80871/"
+  },
+  {
+   "ts": "2026-08-31T11:00:20+00:00",
+   "title": "ဘုရင့်နောင် - အကျယ်ဆုံး မြန်မာ လက်နက်နိုင်ငံရှင်၊ ကမ္ဘာ့အမွေအနှစ် ခေါင်းလောင်းစာ ရေးထိုးခဲ့သူ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cwyd4d1x4x8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-08-31T11:00:20+00:00",
+   "title": "ကရင်မှာ DKBA ဘာကြောင့် အင်အားကြီးလာလဲ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cr7kv9zn940o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-08-31T11:00:20+00:00",
+   "title": "ရုရှား-မြန်မာ-ဘယ်လာရုစ် လက်နက်ဆက်ဆံရေးကို ကျော်လွန်လာပြီလား",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c62q2073zveo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-08-31T11:00:20+00:00",
+   "title": "အကြီးဆုံးဝယ်လက် ထိုင်းဈေးကွက်ပိတ်လို့ မြန်မာထောပတ်သီးတောင်သူတွေ အကျပ်ဆိုက်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c790w3l2wqlo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-08-31T11:00:20+00:00",
+   "title": "ကြံ့ခိုင်ရေးပါတီညီလာခံနဲ့ အာဏာလွန်ဆွဲပွဲတွေ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c5yj36z4dwzo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-08-31T10:30:15+00:00",
    "title": "''တော်လှန်ရေးအောင်မြင်ဖို့ ... အမျိုးသမီးကိုယ်စားပြုမှုက အရေးကြီးတယ်'' - မဇူးပဒုမ္မာ (SCEF အတွင်းရေးမှူးအဖွဲ့၀င်)",
@@ -2090,48 +2151,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcHhSZDBDUnBucXktZlBJSWk1VENUWkl2XzhrQmw4QVlvd2REczVUcDNpQTc2R3FUblk2RjNDS3dTUUJNSDVZMUdLNXc4bTN3SXJqRm5BTEZKdEcwSm5QZG5sQ3F0Xy1BN2dvQWZTYVZKQ2xYdk9leEVudF9Sem1faWNTb1MtYVFJVlNaSjV1Sl9WX0xMWFRGQ3BBS3Byd082S2xNeFpEdkZHbEtuVFRZcUpxdUQydFV1blRINDhrdnBTdw?oc=5"
-  },
-  {
-   "ts": "2026-08-26T21:00:23+00:00",
-   "title": "မောဟ Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BUGh4Wk5ScHNVdG56VXJLN01Ha29TUWFjUFFvWnJTZkl3RmxKcmVneTZqZE1HMTJIazRkQmptNW84dUJ2bVp6Zkd1RW82X2ZwUW14azljT3pTdUxjbUFTLVY4T0Znbm8tSDBYWDI1UGo1ODdRUFBV?oc=5"
-  },
-  {
-   "ts": "2026-08-26T20:30:20+00:00",
-   "title": "Strive to produce good medical officers, nurses, paramedics and pharmacists with physical and intellectual prowess, reliable for country, Tatmadaw and people",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOGlZVld2d1A3ZHBwYVZ6TThtVVYtbWJfS2pnbmc5U3ZOZ2ZQNGdmWHN3eWRMTkc5RWZ2dnlqeVFMU3M3NmV5eWI4bTJEYjdDaEJjMmZWRXVIYnNyLXZvSS1Ka0MtVGQwR0trd1pIRGpLQ0RILU9JZFpjcGJEdHdXbDIxUVlKclJjYzRqY3Y5bEV1emdWYUF5UUx3ZFpQcmpyNkdfOTFzYVJPS2ZFWEE2ZzNLMTJYcjkyeksyMHVEQUc?oc=5"
-  },
-  {
-   "ts": "2026-08-26T20:30:18+00:00",
-   "title": "စစ်သားမယားများ Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZkwyQ2ZjcWctSEI0ajlCTUdsZVBRNGM5eWtWVEs1YlItQVRodXRwcDY4VFVmREVNZ0hiVnV0LTM3aERJOXhWQy1Ea0xlbnppaVBxdWthUV9GNG1xSnNfRmtrYXRzQlhUOVZRQ1JabHhSVUZrVnlLdXNyMkMtckFkeEFtQ21EMC10cFFMUjhyQncwVURDZGZUMklwV0JkMFBhaTdzZVN1a3B2OHNsOWRFZjFxS1V0eE12ak9xQl9aS1FuZG9VVVUzbkhGRGdOY1FKTS1qdjZCWFJ3RUpLRTV6aVBwbzlXelB3V1lCd0tsWQ?oc=5"
-  },
-  {
-   "ts": "2026-08-26T20:30:18+00:00",
-   "title": "မယ်နု Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaHhFaXZZbFctLTZNOUNHMjQ3cUxwSTZrRS1VX0FkTzM2Ym9Ed2h0SkRhMnBIaGJQSkVFSUE5ZVZPUkdhZFFqbjgwUHl2M2Q1MG9VTVJScS1UQzlLaDBZaUlQZlU2cndFenM5bEF6WHJoOFoxQ0s5S2JxNnk0MG1Bcld5QQ?oc=5"
-  },
-  {
-   "ts": "2026-08-26T20:30:18+00:00",
-   "title": "ရဲဘော် Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMnVVWFdkbHFrOWRXZVBlVDhBTFN5VWVMRjEwNUtxSm1mYTNkdFRJM2trdHVEVTlkOWp0T0p2VlRkaW13eUZUcEhXeGd1VHhyd1RNcWlUZTJGVDFOZ0I4YkpmVkliSkdGQlVhSXk3MzRReGJWNVVPdUxCZUdZbXBjbzgtVTZuQjRFUFRGMjFSbw?oc=5"
-  },
-  {
-   "ts": "2026-08-26T20:30:18+00:00",
-   "title": "ခိုင်ခိုင်စိုး Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcHZ2UVJ2UmdERnF2NVNqQVBSZHhPQ0NMajlzWkNWcWlCTUpqTHZQVGdnZG9SSHpTaVFfNDN6dGpfN2NkOTNJbTk3VkNndVd4dWtpNWtRZnhsaURKUlhJZnFVTEM0bWMzaEhRX2daQUJzRF83SW12c2ZZVmwyQmhXWVo1VFhoMVZUNWN6czM2bGs2djJyb3JldTE5T2dYeDd0WHh4ZWw5RDJFRDU5Nm5IdUlYWFViWEFXcFFhazZTX0M2SE9jczBrNWxBWGY0TUY4c2NJY25DTlNVeklnTTE4Nkp1b0xVM2h3OF9HTmpJUQ?oc=5"
   }
  ]
 }
