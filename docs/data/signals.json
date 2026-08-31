@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-08-31T19:00:23+00:00",
+ "generated_at": "2026-08-31T19:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-08-31T19:30:19+00:00",
+   "title": "မောင်ဆွေသက် Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMTZ5SkRCQkJZSS0zUTd0angxUWJsaHp3SzFtRDNrZGdUaW9PYi1hQlJDei1UYXZnTVpDQk5FcWpoTVVzOVZwYWNWb2lVdGRVRWh0OGxYMnpFV2w0dTI3NjlnTm1qNm1fNG1PY0NsbXhpRGdiVE55QUxPZW43WFRCamhrVDZYZFRnMW9WR3hZQ09UQ2owSGs3eGI1R2NVNlMyUV9XSjcwdDdxVERqdzhJay1wMW9aa056S3NVd0xDcXNyczd3dDFBdTFDSQ?oc=5"
+  },
+  {
+   "ts": "2026-08-31T19:30:19+00:00",
+   "title": "Guest Column | Myanmar EAOs Risk Seeing Mineral Leverage Blunted by China’s Dual Strategy",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdFlGRDl0R180QXlwYmZRS0ZqOGZhZlA3NnBueURiUnBnd0Rhb1hhYjJHakRTOTNjTk42UmFnd1FXdUp3QVdZVEQ4ZXBFUHV1OVpNQ2ZwaTdKZWhnUEU3ZXduRVJKS1k3Yi1hRUFsZkRfT3JaZlZXWDZHUERINkZpRjNaOHU4azRKbVpRZ1RVeTVzNzMwYUJhU1JodzdWVGNQOHd1NExoX3dkR1F2ZUpObUwyblJoYTh4cmE0dGdwV0dISWc?oc=5"
+  },
+  {
+   "ts": "2026-08-31T19:30:19+00:00",
+   "title": "Myanmar Junta Boss Has Well Documented Ties to Cyber Scam Kingpins",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSU5GcGtsaFMtUlVSb2lISVVDZWdNUDN5WWRWdDg4MVpTOE9UdHNVdjIwZkx2MlJMak52czhhVktoNmZqQy03azJmRldXbHNLVjh0MnJwRjNZSTE1a3A4MnZ5dXYtamZkYU9IR01VMmw4bzRGTHd4S3NuS2MxQ2VNblNnQmIxTjJpZkNtNXdvQVZXOWlmSUlxa3d2bDVQMlNyakpLLVdwamJDdElX?oc=5"
+  },
   {
    "ts": "2026-08-31T19:00:22+00:00",
    "title": "FVP Archives",
@@ -2143,27 +2164,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQjctSG5HRkNfVHpUN2gzZmlsZ0pnWmRySG8yM1IzTlZjdXlla3VQLWN3SGU5NVhpYlVDa2lDbWxtd3dwSzlVNk9JbElZTmdjQzhGWktIRVhNc0s2MkJUVzRvZGNVUjZpeHlwNU5nMm5HMHFyaXRKOHJzZFRaNWh1QlFOazBtQWxlUDVlYURZTQ?oc=5"
-  },
-  {
-   "ts": "2026-08-27T03:00:27+00:00",
-   "title": "Myanmar, Saudi Arabia boost bilateral relations",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVeDVHNmhhR3BSOWNSYlVZM1NydXptYnpQNmxNRzBuaW03aHBkRXR2RmwyUm5DN09BSEg5T2laVm9vZXNyUjh2R19rdUpsSEpIM3ZvbzhHN0NKMU4tai1hMUcydDlDZEVWeWJTVTZxN1NJSkJBVWpCRzVkdw?oc=5"
-  },
-  {
-   "ts": "2026-08-27T03:00:27+00:00",
-   "title": "2026 MOFCOM scholarship awarding ceremony held in Nay Pyi Taw",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObzFzOXdJR0ZHYTB5MjFfUFVrS3RZbGRQNzZGRVhzeGpVX1lERllKdTM0S19nOWY2Rmp6bGt3QnFRM0JQcVNiZHdzdldXeGlKVnBfWVBCNlYxQ3p0V2x4cWFyRHhLbnlXZ2YzOFI1WFJWcGw3MTBXSVhTX2tvS3hmdk51T2IxOHY5QXRwZG1qaw?oc=5"
-  },
-  {
-   "ts": "2026-08-27T03:00:27+00:00",
-   "title": "Offenders involved in online scam arrested in Shan State",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQmVuUXFBOWk2TU1yWnRvU1ZSZ09ycmUzUDRQSmxOTzh6TkJjUzJhNWJTLUFxS3BzWHNPelluT2FzYVZBdVk4RmhodmZOMllpak02R2k5Tm5TQ1ZSa3ZrOEswSzBETGtadG1ydlJNTVVUeERCNlhiakh2cExzUEpaNFl1SDFwb0p1?oc=5"
   }
  ]
 }
