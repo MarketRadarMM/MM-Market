@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-31T00:00:21+00:00",
+ "generated_at": "2026-08-31T00:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-08-31T00:30:18+00:00",
+   "title": "Marcos Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBZTFNmNVA3cDBCOWc2VEY3cDJMS0NaSnNESEp1eUtzd2plc0EtZmpvQ2ZiTE9pd2VQVW5pOTlaVGgxZ2g5VDZWQTlVcFo?oc=5"
+  },
   {
    "ts": "2026-08-30T23:30:18+00:00",
    "title": "Temporary interruption in water distribution expected in Yangon’s some townships",
@@ -2131,13 +2138,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqZVBoUmZVTHhLb01oTXFDMy1RZHhnU21LclFOWlBhQlZvZFVjaHdjN1RvakNaXy1vWHNnVE5wR3lCbVY0RTZKVlNvSDl1VVBxdTJ0Z2JJQ2hHSk1MVFFweHE5S2U5akFiazRuOGVtazBtaFV1TllzMA?oc=5"
-  },
-  {
-   "ts": "2026-08-26T07:00:23+00:00",
-   "title": "Free boat transfers for donors visiting flood relief camps in Laymyethna",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTXRWRlk1RjBkZ2pIbWw4Zmdhb25aUi1iMVVqSXdmVC11b0hwNjkzMVJxOEZVNG1yM2xWSmh6Y2Q1YmZFWTJvM0tMeFhORGVBQlpnZmNqNU81di1hM05KQXdFTTZVeXcyOXZwdEhnUHpjSG9saUt2RUxVNHpSLXpESUI4bzRoLXZLeWlQYzBCbGF0ckZrNmZQMkhfY3VoUQ?oc=5"
   }
  ]
 }
