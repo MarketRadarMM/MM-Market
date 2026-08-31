@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-31T10:00:37+00:00",
+ "generated_at": "2026-08-31T10:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-08-31T10:30:15+00:00",
+   "title": "''တော်လှန်ရေးအောင်မြင်ဖို့ ... အမျိုးသမီးကိုယ်စားပြုမှုက အရေးကြီးတယ်'' - မဇူးပဒုမ္မာ (SCEF အတွင်းရေးမှူးအဖွဲ့၀င်)",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cevmvnkgj0no?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-08-31T10:00:34+00:00",
    "title": "Myanmar military approaches Chinland Council for ceasefire talks",
@@ -2125,13 +2132,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcHZ2UVJ2UmdERnF2NVNqQVBSZHhPQ0NMajlzWkNWcWlCTUpqTHZQVGdnZG9SSHpTaVFfNDN6dGpfN2NkOTNJbTk3VkNndVd4dWtpNWtRZnhsaURKUlhJZnFVTEM0bWMzaEhRX2daQUJzRF83SW12c2ZZVmwyQmhXWVo1VFhoMVZUNWN6czM2bGs2djJyb3JldTE5T2dYeDd0WHh4ZWw5RDJFRDU5Nm5IdUlYWFViWEFXcFFhazZTX0M2SE9jczBrNWxBWGY0TUY4c2NJY25DTlNVeklnTTE4Nkp1b0xVM2h3OF9HTmpJUQ?oc=5"
-  },
-  {
-   "ts": "2026-08-26T20:00:27+00:00",
-   "title": "Myanmar Regime Atrocities Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EU24yZ3BGUUlJNm82QXNwYTExSEZ5S2lkeFVZYWt0bXNIeElmZVVqeEVtdmgtQXpJaFJiN1JWdTA2VGdYcFFMOExYUWZlOFQycG00YTZaYWctY2s2YmpLbWlQYk5KZw?oc=5"
   }
  ]
 }
