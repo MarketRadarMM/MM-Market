@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-31T06:00:23+00:00",
+ "generated_at": "2026-08-31T06:30:23+00:00",
  "signals": [
+  {
+   "ts": "2026-08-31T06:30:19+00:00",
+   "title": "အာရုံစိုက်ခံလာရတဲ့ ထရမ့်ရဲ့ အနီးကပ်လက်ထောက် နာတာလီ ဟာ့ပ်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/ceqe4j3dxj2o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-08-31T06:00:23+00:00",
    "title": "- yktnews.com",
@@ -2144,13 +2151,6 @@
    "source": "Myanmar Now (MM)",
    "markets": [],
    "url": "https://myanmar-now.org/mm/news/80776/"
-  },
-  {
-   "ts": "2026-08-26T09:00:19+00:00",
-   "title": "Guest Column | Exhausted But Not Giving Up: Myanmar’s Resistance Today Part 1",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSFdocU43R05SOHd3a01ndEhDQXNIUFpRZUx4Uks0RUotdmxVaGhIUFRmeWpYbGVUWVRCWHUyVWZqNkVtRE1RNUNUaXR5VmZmVFZJMnNhQXRZQnJORHhNRjV3TEE0Z3k3bWVvQU9lektGamdkaVJsdHFXbl9XUUdHR3dVNG8yd0ZGMXd6ajRCREdBcE5INzVKS2V5VnNPemMzV2dtZ1hKT1lsX1lLWlNxekJB?oc=5"
   }
  ]
 }
