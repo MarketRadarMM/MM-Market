@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-31T06:30:23+00:00",
+ "generated_at": "2026-08-31T07:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-08-31T07:00:21+00:00",
+   "title": "Myanmar military conglomerate officials arrested in rare corruption probe",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/breaking-news-myanmar-military-conglomerate-officials-arrested-in-rare-corruption-probe/"
+  },
   {
    "ts": "2026-08-31T06:30:19+00:00",
    "title": "အာရုံစိုက်ခံလာရတဲ့ ထရမ့်ရဲ့ အနီးကပ်လက်ထောက် နာတာလီ ဟာ့ပ်",
@@ -2144,13 +2151,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS290MV9OU0JFQXR0Y05XMzRwYzA2aUpnQnBzdHg3elJJd0ppWFFoaWdXVXJkMTRoSTZxTFJLX0l3d205NTdOa0tnaDJkR3dSS1ZOYThBQjNNY0JxQlVxTjEwMzJ2ZWxUb3pvSGI4Z1ZsR3ljb3RvcDhBRzB0WXdVcUhlemtqVmRHWWx5M0l0ZXhabEdIREpDVnVqc3RkUjVGSTd3T2JiSHhiOUJ1bVhCT0VJWUE?oc=5"
-  },
-  {
-   "ts": "2026-08-26T09:30:16+00:00",
-   "title": "စစ်တပ်က ရေကြောင်းမှ အင်အားဖြည့်ရန်ကြိုးစားနေသည့် ရွှေကူမြို့တွင် တိုက်ပွဲများ ပြင်းထန်နေ",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/80776/"
   }
  ]
 }
