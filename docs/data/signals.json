@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-31T09:30:27+00:00",
+ "generated_at": "2026-08-31T10:00:37+00:00",
  "signals": [
+  {
+   "ts": "2026-08-31T10:00:34+00:00",
+   "title": "Myanmar military approaches Chinland Council for ceasefire talks",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/myanmar-military-approaches-chinland-council-for-ceasefire-talks/"
+  },
   {
    "ts": "2026-08-31T09:30:25+00:00",
    "title": "New Year Dhamma Festival 2020",
@@ -2125,13 +2132,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EU24yZ3BGUUlJNm82QXNwYTExSEZ5S2lkeFVZYWt0bXNIeElmZVVqeEVtdmgtQXpJaFJiN1JWdTA2VGdYcFFMOExYUWZlOFQycG00YTZaYWctY2s2YmpLbWlQYk5KZw?oc=5"
-  },
-  {
-   "ts": "2026-08-26T19:00:24+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1BMElTMXBhT0R2Z3otckhNVFFIdEZGRXNjbHBrdmNZX28yNEVnb2xzUjRrNnJQc19PMFA4LUotTkRwV2RtY0Nnb01idw?oc=5"
   }
  ]
 }
