@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-31T01:30:29+00:00",
+ "generated_at": "2026-08-31T02:00:30+00:00",
  "signals": [
+  {
+   "ts": "2026-08-31T02:00:30+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Pb1QyUFBZeEVIeWZFNFBDaXUzWHRyV0ljaFhGbDZZcFVqbjliTFBhLWY4Z1dSTG1PbmE4cXhqbUdtRWcyc1Y4WTlLVQ?oc=5"
+  },
   {
    "ts": "2026-08-31T00:30:18+00:00",
    "title": "Marcos Archives",
@@ -2131,13 +2138,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KWXVIZUhhRmlDWXpsMmZpVDZkeHdVRWowNndYQno0bmpNdVZQUTU3Tm12UEozQ2hJR0VudG00SktORk1DWjRuc3huTEpzQWxSaVNYenhlY3VWb2FCZUExcw?oc=5"
-  },
-  {
-   "ts": "2026-08-26T07:00:23+00:00",
-   "title": "Nyaunglebin’s VDP introduced; committee formed",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqZVBoUmZVTHhLb01oTXFDMy1RZHhnU21LclFOWlBhQlZvZFVjaHdjN1RvakNaXy1vWHNnVE5wR3lCbVY0RTZKVlNvSDl1VVBxdTJ0Z2JJQ2hHSk1MVFFweHE5S2U5akFiazRuOGVtazBtaFV1TllzMA?oc=5"
   }
  ]
 }
