@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-31T18:30:26+00:00",
+ "generated_at": "2026-08-31T19:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-08-31T19:00:22+00:00",
+   "title": "FVP Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9XMWx1SkFQaXc1anRhME53QlJyVEFGeFhPOHA5MERUeHJmMndWbHZnd3M3ZmRLVUtkYnByUmFQckF6d1cxZXRoSE11SQ?oc=5"
+  },
   {
    "ts": "2026-08-31T14:30:16+00:00",
    "title": "မြန်မာစစ်တပ် ထိုင်းကိုတောင်းဆိုတဲ့ လက်နက်လမ်းကြောင်း ဖြတ်တောက်ရေး ဖြစ်တန်ခြေ",
@@ -2157,13 +2164,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQmVuUXFBOWk2TU1yWnRvU1ZSZ09ycmUzUDRQSmxOTzh6TkJjUzJhNWJTLUFxS3BzWHNPelluT2FzYVZBdVk4RmhodmZOMllpak02R2k5Tm5TQ1ZSa3ZrOEswSzBETGtadG1ydlJNTVVUeERCNlhiakh2cExzUEpaNFl1SDFwb0p1?oc=5"
-  },
-  {
-   "ts": "2026-08-27T03:00:27+00:00",
-   "title": "Emergency measures underway to prevent further erosion of Nyaungdon Embankment",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdk93Sklub1NpWjZPWWlqam5ySV8yVzB6bjU5UnpuU0JBVnJmYzVIT3dOdUVkNnZ5NG1hY3JiLWszbF9BWC1xdXhyREo5RGY2bU5CRUdhOFpCUlMyT3hNQ3h2Z0dlWjEwNDRuZVFjSUhXQnhPNU9tNjlGejRqMHlwWGxHUTRiN1dOYnlvUzk0MVNoYmVqVmwtTUVvVUszVUc4SGFFY3hR?oc=5"
   }
  ]
 }
