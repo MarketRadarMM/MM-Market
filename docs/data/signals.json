@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-31T22:30:21+00:00",
+ "generated_at": "2026-08-31T23:00:25+00:00",
  "signals": [
+  {
+   "ts": "2026-08-31T23:00:25+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9leE4yTFpjRFd1TW9lRURtQmpkaWFtSXdjUlJYUUxFOHBCRnpWUG1IOW1IRzN1S1RjVk5qdmo4cVhPUmdkVXo3Mm9oQ21sYklOQ1ZmZ2RibW1ZUQ?oc=5"
+  },
   {
    "ts": "2026-08-31T21:00:30+00:00",
    "title": "Myanmar CCDAC, UNODC co-host workshop on transnational drug crime investigations",
@@ -2157,13 +2164,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/c20vmkprz77o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-08-27T03:00:27+00:00",
-   "title": "Ayeyawady continues rescue, relief operations",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HVzdYTDYxX0M5b0NnSTV3X2UwWHZERG1fUzBkb182SkI4ZDd2a0N5RzRvRmV5UTA2RGY2UXFmNlE0d2VVQlQ5TzlSOVlXNEQ0LThfbGJmeVZLT1hHeExGU3ptd2M5eS1GRjBRdVd4VzFtNGw3QncyaQ?oc=5"
   }
  ]
 }
