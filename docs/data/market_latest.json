@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-31T10:45:21.020628+00:00",
+  "fetched_at": "2026-08-31T14:45:22.646654+00:00",
   "tiers": {
     "official": {
       "my": "တရားဝင် (ဗဟိုဘဏ်)",
@@ -25,16 +25,16 @@
     "note": null,
     "rates": {
       "USD": 2100.0,
-      "EUR": 2445.66,
-      "SGD": 1653.15,
-      "THB": 63.79,
-      "CNY": 312.48,
-      "JPY": 1316.28,
-      "MYR": 521.09,
-      "INR": 22.01,
-      "KRW": 153.02,
-      "AUD": 1510.95,
-      "GBP": 2853.17
+      "EUR": 2435.27,
+      "SGD": 1650.1,
+      "THB": 63.43,
+      "CNY": 312.5,
+      "JPY": 1315.58,
+      "MYR": 521.61,
+      "INR": 22.05,
+      "KRW": 153.26,
+      "AUD": 1503.29,
+      "GBP": 2843.82
     },
     "per_100": [
       "IDR",
@@ -44,7 +44,7 @@
       "LAK",
       "VND"
     ],
-    "as_of": "2026-08-28"
+    "as_of": "2026-08-31"
   },
   "world_gold": {
     "tier": "global",
@@ -203,19 +203,19 @@
         "premium_pct": 108.6
       },
       "THB": {
-        "official": 63.79,
+        "official": 63.43,
         "street": 132.8,
-        "premium_pct": 108.2
+        "premium_pct": 109.4
       },
       "CNY": {
-        "official": 312.48,
+        "official": 312.5,
         "street": 652,
-        "premium_pct": 108.7
+        "premium_pct": 108.6
       },
       "SGD": {
-        "official": 1653.15,
+        "official": 1650.1,
         "street": 3420,
-        "premium_pct": 106.9
+        "premium_pct": 107.3
       }
     },
     "fx_spread": {
