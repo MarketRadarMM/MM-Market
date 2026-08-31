@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-31T23:00:25+00:00",
+ "generated_at": "2026-08-31T23:30:22+00:00",
  "signals": [
+  {
+   "ts": "2026-08-31T23:30:20+00:00",
+   "title": "Business | Myanmar Junta Courts Russian Investment to Build SE Asia Trade Hub",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRGhEUkxhQTFHM2lhZDJYNU12cFNUcFhoSUVIUTg2c2hpVFZrOTE4WTM3eGxyaTZMTkVPa1ZkT1JBQk1CbUFwRzM1ZjlERFR2ZmNRUUJmSDdSc0N0NlNGTldZVGotOHNGQUFkLWpoNGFBbWhfZDIzbXZBRU1iN1BDZmEwSl9KRXp2Q3BMbUJTc3Fvbk1neG1SVlkwVzdic3BaenV6RHU1VzBldw?oc=5"
+  },
   {
    "ts": "2026-08-31T23:00:25+00:00",
    "title": "- yktnews.com",
@@ -2157,13 +2164,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcGJlMDFnc2F2UVhJb29VMDloNUVKWlFkT2ZRcndMSUZqckJ5ZkRpWnBFN3RkY3hEM3NoUjVZU1FqSXkyZ1ppOE01X3FWWXR3VUJIOTBaLVQzckhjNkNRLUFHQUtwbkNsUlBIS0laRHpZT2dsbmwxeUVuemhwM0szQW5McnNTTjVXYTZtZ2VOcWtkRlJJWmNUWFpmSHNHaXhTeEt5RXVlSlBYQk5TR2xDVnpmd19fSVFEdktMWEljVG84ZFdNZGVUX3gyZw?oc=5"
-  },
-  {
-   "ts": "2026-08-27T03:30:16+00:00",
-   "title": "အမျိုးသမီးဝါဒ Feminism ဆိုတာ ဘာလဲ၊ ပဋိပက္ခ ကာလ ဘာလို့ လျစ်လျူမရှုသင့်တာလဲ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c20vmkprz77o?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
