@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-31T14:00:22+00:00",
+ "generated_at": "2026-08-31T14:30:22+00:00",
  "signals": [
+  {
+   "ts": "2026-08-31T14:30:16+00:00",
+   "title": "မြန်မာစစ်တပ် ထိုင်းကိုတောင်းဆိုတဲ့ လက်နက်လမ်းကြောင်း ဖြတ်တောက်ရေး ဖြစ်တန်ခြေ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cn7n33rr2vno?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-08-31T14:00:17+00:00",
    "title": "ဦးအေး မဖြစ်ခဲ့တဲ့ ဦးစိုးဝင်း",
@@ -2157,13 +2164,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdk93Sklub1NpWjZPWWlqam5ySV8yVzB6bjU5UnpuU0JBVnJmYzVIT3dOdUVkNnZ5NG1hY3JiLWszbF9BWC1xdXhyREo5RGY2bU5CRUdhOFpCUlMyT3hNQ3h2Z0dlWjEwNDRuZVFjSUhXQnhPNU9tNjlGejRqMHlwWGxHUTRiN1dOYnlvUzk0MVNoYmVqVmwtTUVvVUszVUc4SGFFY3hR?oc=5"
-  },
-  {
-   "ts": "2026-08-27T03:00:27+00:00",
-   "title": "Minister of Foreign Affairs of Vietnam departs Nay Pyi Taw",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa3c4d3RlbjJDVnhyVElfVEQzRGxlUW10ejhZd3ZfWnRhOGx3aWRnOHNCaTJoUEQ3ZTUwYjJISUdsWVJOSzI0VXJoOXp2TU8wa3dZc1BzLWFNR0ozaGxOSUtTVVVZZjZOSmVCMVlQUjMzdE5uNHJNZVg2YVhtNHk0aGYycEJlZXRDWjVn?oc=5"
   }
  ]
 }
