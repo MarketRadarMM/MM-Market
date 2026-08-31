@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-31T09:00:24+00:00",
+ "generated_at": "2026-08-31T09:30:27+00:00",
  "signals": [
+  {
+   "ts": "2026-08-31T09:30:25+00:00",
+   "title": "New Year Dhamma Festival 2020",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuY3ctREtSVmhnMVo1S2o5aEtfYll0WWE2M2dDbGRMUHJ3TWZiVWwtVnk0dDRJOXBGWXlXNDNsczEwSTQ1RXlIemxNei1BSmtObV9EeXdXY2pNM3ZIYzdwUnJlRlA3YlVrekItUDZ4cw?oc=5"
+  },
   {
    "ts": "2026-08-31T09:00:23+00:00",
    "title": "No obligation to pay 2% fee or obtain landowner consent in apartment sales",
@@ -2125,32 +2132,6 @@
    "source": "Khit Thit",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1BMElTMXBhT0R2Z3otckhNVFFIdEZGRXNjbHBrdmNZX28yNEVnb2xzUjRrNnJQc19PMFA4LUotTkRwV2RtY0Nnb01idw?oc=5"
-  },
-  {
-   "ts": "2026-08-26T17:30:23+00:00",
-   "title": "Guest Column | Border Trade and the Future of Arakan",
-   "source": "Irrawaddy",
-   "markets": [
-    {
-     "market": "pulses",
-     "direction": "neutral",
-     "confidence": 0.5,
-     "rationale": "China border trade affects bean flows"
-    },
-    {
-     "market": "rice",
-     "direction": "neutral",
-     "confidence": 0.5,
-     "rationale": "Border status affects rice exports"
-    },
-    {
-     "market": "fuel",
-     "direction": "neutral",
-     "confidence": 0.45,
-     "rationale": "Border routes also carry imported goods"
-    }
-   ],
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV2NCX0ZKZFpwQjZ5U2luRFdUbnIxYmZfUngtMi1YZWpDV1NWZEY2SzNrZE01d1NJWkg1czFUNS0ySmVNaUw2bGROVWJBd2NZLWgxMDZSSG1kVzB3VDdMbV9LRjN6dkVZVVpWcWtZaUlzZ1pZbDVQWUZrbER0NVIybVAzYklNekZoVklMazdHdDZJWnM?oc=5"
   }
  ]
 }
