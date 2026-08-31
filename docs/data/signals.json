@@ -1,6 +1,61 @@
 {
- "generated_at": "2026-08-31T04:00:29+00:00",
+ "generated_at": "2026-08-31T04:30:24+00:00",
  "signals": [
+  {
+   "ts": "2026-08-31T04:30:22+00:00",
+   "title": "Analysis | Charting the Arakan Army’s Battles in 2025",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONE1taTlFdEJheTh2Z3JWSW83NUc5YVRzaXg3dXhmNVp2LWdKODk0UVNlaTZ0SVJVbDFMX3JYeGllcGRubEVkVkVFLWtKU2ZEcWpXU2VvRmtyeWNiS2xJcVdFbDNQWnNZTU5YNFZzZXhJeldWLUZsTXdBdTIzLTJKbFhUUWZVUGpzUXhmQV9qVmZpamM?oc=5"
+  },
+  {
+   "ts": "2026-08-31T04:30:22+00:00",
+   "title": "Guest Column | How an Innocuous Tunnel Project in Northern Thailand Embodies China’s Regional Strategy",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRUk2cnlLQnVSQV9rcmdaLWtqZVIxcHF3dm92aDkzSFRYWFdkdnJ5dkR2Vm9HbWw2UjVIaC1jbzhyYTJrcWxPYy1ZVkxCV1NrSkxfazhTWHZwSFlhb0ROQkFEbXVjWnpwaTM2eWNzX2RIdVBNajc5S1JRVWRzRWNfcTlkZHZKcDVvdjJkc0pMRzJpYWMxR25UdFgyLS1uSTBZdU1GcHdiTTdxRHhYMkFsN1ZWNXR3cERtY3A0NHVEdUE5TElBWEZTMk1OczYxZEJfYzd5OA?oc=5"
+  },
+  {
+   "ts": "2026-08-31T04:30:22+00:00",
+   "title": "Yangon University 100 Years Anniversity",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB2WUs2UjIweGlkTWJHeTNEc3dDbTFQaFEzWkNSVnNmcUVEMS1TRHNyRDJlQVFxbGl3VWtSZXl0T2ZpVTRnTklReXlwQmdBV29uOEduV3BpQWVpQTFkT09fN3dIR1g3anNXc1gzSDdZaw?oc=5"
+  },
+  {
+   "ts": "2026-08-31T04:30:22+00:00",
+   "title": "Hotel Magnate Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Pa0ZaOGk4MlppamVkRFRUTEpraEZySUZ0V1ZKWlV3UEJnWm53MlhYeUlmWjJFSWk3ckFFM1JjeUQ1Y0lQWHZqMU4tNnIybEd5Z0JYbWFR?oc=5"
+  },
+  {
+   "ts": "2026-08-31T04:30:20+00:00",
+   "title": "Myanmar Junta Crony’s UK Trip Sparks Calls for Renewed Sanctions",
+   "source": "Irrawaddy",
+   "markets": [
+    {
+     "market": "fx_kyat",
+     "direction": "bearish",
+     "confidence": 0.65,
+     "rationale": "New sanctions pressure the kyat"
+    },
+    {
+     "market": "gold",
+     "direction": "bullish",
+     "confidence": 0.65,
+     "rationale": "Kyat pressure drives savings into gold"
+    }
+   ],
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX0t0WVJaMWs4MmFHcDVta2ozcVNvcjI4czNfcUJZX2xuTk5Gbk5IUy1fSnRyMlpCdmtZQ1pDdHVpd3hYVzExR09JWldTOGJCRTlIX0hCVkhLSFEwRHdOT3ZHNU9KbWZWMy1xbUNGNkw2SVVmN1hzcThQODk1V3dRVkVnbDZyd1dPUTdlc19BeUlBSWs5Z0s3SERBRzlLMTFpNks2MW5Lc18?oc=5"
+  },
+  {
+   "ts": "2026-08-31T04:30:20+00:00",
+   "title": "Page 101",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9PcUczSXNXZ3poSTAxUFdMT2ltRWJPUlFjQ1l0Uk9EdV9MQlhDa2VFOEU3bmktV1ZCWVlRMG5xWHVHcnZ5bXRtSmcwVWtFWEU3QWxRLQ?oc=5"
+  },
   {
    "ts": "2026-08-31T04:00:26+00:00",
    "title": "ခြေတစ်ဖက်ဖြတ်ရပေမယ့် အနားယူဖို့ငြင်းဆန်ခဲ့သူ ရဲဘော်ဟိုက်ဝေး",
@@ -2096,48 +2151,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR25ZMFlkZ3RaV1k2RFFoY2p1c0FQMWZEdk5Od2FnUGhZRXRMVWRmRnZMTWdnU2hCRmdlY2JXbGpIaVg1S095UzFDdXAtamdSNjdSQ05xNS00QXMzOGlUNktycmlOUUFCSFRlZE5TYUNiNnlGb1lNR2F0b2hzTTZjVTRneEdub2NlWVZ4Nkh4WWZMNHhHT0JjYzFUWUlHdWdB?oc=5"
-  },
-  {
-   "ts": "2026-08-26T07:30:19+00:00",
-   "title": "Myanmar deports 5 undocumented foreign entrants",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBzYy1fMU05cTJtUzFKS2c4ZkZrakc3N19nVmF3WnFkRXJyTlhJaWxVUjZUSjVfaXhsUlRpQ1lKa1g0OE1NLVhPd3VsQ0N5c3VvTkwwWEpqMURZWEFIZ2VEeF94SUJRNk56NWwzYnZxRTNSNkJHdUkwYlJ4ak0?oc=5"
-  },
-  {
-   "ts": "2026-08-26T07:30:19+00:00",
-   "title": "MSWRR Dy Minister receives SCI Asia delegation",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42aWVXN0l1d2dRdlQ4QjRHWlhiU0t3QVdBZGZhZFU4RTN0WE5PeUtmUmN1T0RyM0pYeWV6LVJzZGNLMG1NZkhZRzA0bF9hQUZMcEU5RzRQSDdOSzh6MnhiaExhcGVjdGxfVmRQTDJwYzV1d3R0RjdXYXdiYw?oc=5"
-  },
-  {
-   "ts": "2026-08-26T07:30:19+00:00",
-   "title": "Vocational Motorcycle Repair Course opens in Khaunglanphu",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQTBVdVhTeHMyeVVMVkxybEJLSUFYQkFCYU5KdzFjVG5oQU9HRkxuXzRuR3lSZmNpak1zX1g5MXZGallpTHV2NWdLYjVBelZCa0U1U0QzbUxEMk9CMGNLVDZXNkRGNlpmWHowLWV0Y3NxV1ZFaGxhWkFHSXZkY05TTklha1c3bTdoOUE?oc=5"
-  },
-  {
-   "ts": "2026-08-26T07:30:19+00:00",
-   "title": "Thayezay-Taungpyone train services expanded",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JQzZFeXBTejVPUW55Y0VSXzE5elk1TlBIaFp3NmsxVU5uclRKUk5VM0RuUlhWcEVwN3NESkFOemtkUVVRb0NkNFo4d083M1pobUc0dzhJLUxwS1k1TzlQOXBnMGNFc1JKUHdtLVIwd2VwVnlZYzZB?oc=5"
-  },
-  {
-   "ts": "2026-08-26T07:30:19+00:00",
-   "title": "Frontline Tatmadaw troops honoured in Mudon",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBhaDBCaWJVX2s0ZldBRkswYzViWmJxbzdyN2lhU0JBUVY3SmE0R0ZYOUpKOWpTVmdPVXljQ1ZwWThzZDV6bUM1Sy1JLTZPQzhDMlE4V0hDTXNCSjQ3ZG1ZWHJveFh6a2IySTdjcllYVy1RN2FFOUtJ?oc=5"
-  },
-  {
-   "ts": "2026-08-26T07:30:19+00:00",
-   "title": "Professional Coffee Athletics competition set for 18-21 Sept in Yangon",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSm1aaGlSWEstaHFuc2sybHJxU1Noc3lfS2pXdG05cEpVUktVbnpkRGlpMWkwLXhTalhMRWtUeHRrYUJqYXlySjkzbFgwTVU5Q0paR045NHd6VkZSLTRFWWFQWTN0VS1BX3E2WDVzMFNXdDJZYWpWZGZoYVhsaHVaXzBkWXV5WmItZkozcnY4TXdvS2VJY1hpZVRrQQ?oc=5"
   }
  ]
 }
