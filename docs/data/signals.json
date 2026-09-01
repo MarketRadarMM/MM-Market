@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-01T11:30:20+00:00",
+ "generated_at": "2026-09-01T12:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-09-01T12:00:22+00:00",
+   "title": "Nearly 400 Chinese arrested for cyber scam activities in a month",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/nearly-400-chinese-arrested-for-cyber-scam-activities-in-a-month/"
+  },
   {
    "ts": "2026-09-01T11:00:22+00:00",
    "title": "ကြံ့ခိုင်ရေးပါတီကိုပါ အာဏာထပ်သိမ်းရန် ဦးမင်းအောင်လှိုင်ကြိုးစား၊ ပါတီညီလာခံကို ရုတ်တရက်ဆိုင်းငံ့လိုက်ရ",
@@ -2157,13 +2164,6 @@
    "source": "Myanmar Now (EN)",
    "markets": [],
    "url": "https://myanmar-now.org/en/news/fighting-intensifies-as-resistance-forces-attack-myanmar-junta-flotilla-headed-for-shwegu/"
-  },
-  {
-   "ts": "2026-08-27T10:30:18+00:00",
-   "title": "Chairman of State Administration Council Commander-in-Chief of Defence Services Senior General Min Aung Hlaing delivers address at World Environment Day 2021",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTzN1ZlpoMjQ2ZWE0cnR3Q18tT1RlY0dTRG1VWS1TN3hVOWhTX0dJQ0ZRM1JfTW81X2FyaF9iQTVNWFR3bFEwME1tWWRwVHV2aTI5MFFrZzVwRFlIRUZuVjRjLXBfY0dBZEY4N2R0cXZwd2RpR3h3SF9hOGpBR3JPdVNFZGJwNFVwN1hPUkdFWFlkSGUtSkExdUw3NWk0Z05YTDltdElSanlUZGV4cWxBZWdaTk1TeTJESkprYnBQbGxfRkNXTWc?oc=5"
   }
  ]
 }
