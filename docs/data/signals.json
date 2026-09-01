@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-01T13:30:21+00:00",
+ "generated_at": "2026-09-01T14:00:25+00:00",
  "signals": [
+  {
+   "ts": "2026-09-01T14:00:19+00:00",
+   "title": "အမေရိကန် ရက်ပ်အဆိုတော်ကို သတ်ဖို့ ကြိုးကိုင်သူကို နှစ် ၃၀ အကြာမှာ တရားရုံးအမိန့်ချ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c046n04dpndo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-01T13:30:16+00:00",
    "title": "ထိုင်းရောက်မြန်မာသန်းချီအတွက် စိုးရိမ်စရာဖြစ်လာတဲ့ ပြည်နှင်ဒဏ်စည်းမျဉ်းသစ်",
@@ -2157,13 +2164,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNTUVsTHAtb3dGT09yY1MxVWpXX19xX0xGSHEzbl95MjNvZ0JWNTVGMDZOb1hKSk9VWlVfVF94NE1Yc1k4bm9LdkxyM2RDTTg?oc=5"
-  },
-  {
-   "ts": "2026-08-27T12:00:24+00:00",
-   "title": "Vietnam Invites Myanmar Regime Leader to Visit",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQnJYNTl4dS1rQUl6NjR4Q2h5c1E0ZGpUTHpzZ3phQVhBSmVIMl9sRW1UdXZVRFBPQldRTndvUkFhcFNaaFhZdWZlczBFS1B2LVJLTVZZRlBSb3BTdVFQSGhFWkdTa29EQVhKcW1VQ010MEFEckFWblBwWlFsQmpSNkd3TnFjWjBJVUo0bGxDaW1JYWlGYjEwN3luclBzQ0xvd1FmYXVmdWxpLWtz?oc=5"
   }
  ]
 }
