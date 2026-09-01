@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-01T17:30:22+00:00",
+ "generated_at": "2026-09-01T18:00:29+00:00",
  "signals": [
+  {
+   "ts": "2026-09-01T18:00:29+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIMjZxbWlRSVBCdXJVeGFoX0w0MWc5SldJOUYtSjJ0N2NjRWhvRXl4eEczN0d2cE5qQ3BhYTR1NWo4SDdBZlRIZkdJMA?oc=5"
+  },
   {
    "ts": "2026-09-01T17:30:20+00:00",
    "title": "Awareness of Myanmar’s Coup Boosts Sympathy for Migrants in Thailand: Study",
@@ -2157,13 +2164,6 @@
    "source": "Frontier Myanmar",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaC1TWVgyTHY4ZDlTRE50V2NQazhOeFpveW9xdURDLTJ2UHB3X0pEbjhhXzhaR0UxN2h3bHQzaFNSX1lLOHJ5c2xXMWpTRm9sVF9GNjFMbEFENWRXZk1DaW92NjZOcDFINDVaUkdLRUhRNkstNHBBaHIwTFBhZ0c1YUgySVNVQQ?oc=5"
-  },
-  {
-   "ts": "2026-08-27T13:30:18+00:00",
-   "title": "End of an Era: The Towering Figures Who Left Us in Recent Weeks",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT2I5dF8yOFdESTlSb1ZJQUJKZzc4b0FFR0tOMXl0LXZtanFUZnQzQkFpcUljNGh6MlFDZjdkN0Y3OGNGQWFNa2RGOTRJT082NkhObTdjaWxxUFFmZWxON2hHaXVxVnUtMDJDQ3VJTTNMb0dfN0VSc0IwWkM5djhBN043b2pZR1RyRGV2TEx3TEpwSlA2MVhTZUdQZkNfb0dBTWkwNjExdDlPazgtUWc?oc=5"
   }
  ]
 }
