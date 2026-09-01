@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-01T21:30:29+00:00",
+ "generated_at": "2026-09-01T22:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-09-01T22:00:21+00:00",
+   "title": "Skirting the law: Global companies exploit loopholes to dump waste in Myanmar",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeE1nNjlvLW50ZFV2ZUJvNVQ2clVldXdXQTd6Y1BpYnRYdHQwYms5MXc4UEw3UVJYZlEza1FrLUI5MkM2YWlOTXB4UXRya09HOWdCSE81LTVEMDhYdHpVbDZiWE1WallGZXVaTV9KWWlGdEc4emppY3oxYUJ3VXhQRW14TU5SMzdWdHlRZXJ6QnF3WC1JYTdWbDU3bDN1aC1aZTlwVXpMcWFONmcxLXhNYVRB?oc=5"
+  },
   {
    "ts": "2026-09-01T21:30:29+00:00",
    "title": "Hopong opens free motorcycle repair training course",
@@ -2157,13 +2164,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/c33keenykl6o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-08-27T16:30:27+00:00",
-   "title": "Overseas Trips Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KQWRhUnRaMEE0V2JPRDlHVnBsSDN4ZjJWNG9lTXNkMWNrTk5Pc2Ntbml3V2ttZjFucUZWUzdQVl9mTjJfNXRqT0Q5S2ZBdDhOLUFwczVsNA?oc=5"
   }
  ]
 }
