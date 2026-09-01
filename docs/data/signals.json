@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-01T14:00:25+00:00",
+ "generated_at": "2026-09-01T14:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-01T14:30:20+00:00",
+   "title": "Coordination meeting on COVID-19 prevention, control and treatment held; Chairman of State Administration Council Commander-in-Chief of Defence Services Senior General Min Aung Hlaing delivers address",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xLXF0cVg0R0g5dnc5QTFFdjY5bjYwR0dxcVVfMHBVaWlhaWNtcUNCM1MzcHlHdzY5aWwxbU9uRWRydVh5ZEdOeXlqRXN6b3U4ZlEzd1VHY1V4QWs?oc=5"
+  },
+  {
+   "ts": "2026-09-01T14:30:18+00:00",
+   "title": "‘An incredible generosity of spirit’: Remembering Paul Minoletti",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbjFxWlpJNU9iZ2FwanJIZ3gyVHp1MkY5U0M0cnJRT2Q4V1VDTEJhRjlKbHdieWNmdHg2QU10Sjh6emtHc3BhdmJhT283SUtHX3lEY2F5X3hyN0pRazFYX3IyUXZQdlJ1SHZ5YVluTzgyNkxLV3gzb3hCX3ZBaDdzWkF3ajBOUngzUTR5OFgxVkhrekhqZ0ZEa19lUC0xUQ?oc=5"
+  },
   {
    "ts": "2026-09-01T14:00:19+00:00",
    "title": "အမေရိကန် ရက်ပ်အဆိုတော်ကို သတ်ဖို့ ကြိုးကိုင်သူကို နှစ် ၃၀ အကြာမှာ တရားရုံးအမိန့်ချ",
@@ -2150,20 +2164,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ0piR1lGTG82VmItNnNVYnF6LVVCZzU3bERHZGIzek9pVS1UVTI5d0xHcERsQmtoemdqa2hQaHcyb1hMS3VjZVU1cEgzUjYtZnBVRTFPUzk3c2NNelgwLTZyMTVqZDZxYnJjbTRiUGd3aDJaeGszOWNKRGNOWENVRWRneFVMdkxBX1VHdjk4cERqXzJTSlRnYnIzUVQ4QWxBdXQ5OUEwbElLTExUeVl6WXFfenEzTEFndk1KMWd1RQ?oc=5"
-  },
-  {
-   "ts": "2026-08-27T12:30:23+00:00",
-   "title": "ရလခ Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03STUyRjJoOHgzaXpfZXQwZGtpdU91ZlJmYlZNYzR2MnN1YkVBME9leXNaNTduOE9rdW9paUxENER6eG9VQy1PRy1FaXREMU53eTR4UUdjcFF2WWpiMjJpRXR1SkljWUpiX1ZN?oc=5"
-  },
-  {
-   "ts": "2026-08-27T12:30:23+00:00",
-   "title": "Rohingya Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNTUVsTHAtb3dGT09yY1MxVWpXX19xX0xGSHEzbl95MjNvZ0JWNTVGMDZOb1hKSk9VWlVfVF94NE1Yc1k4bm9LdkxyM2RDTTg?oc=5"
   }
  ]
 }
