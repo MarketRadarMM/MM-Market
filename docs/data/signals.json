@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-01T03:00:21+00:00",
+ "generated_at": "2026-09-01T03:30:16+00:00",
  "signals": [
+  {
+   "ts": "2026-09-01T03:30:13+00:00",
+   "title": "လိုဏ်ထဲပိတ်မိနေတဲ့ နီပေါရေအားလျှပ်စစ်လုပ်သား ရာချီကို ရှာဖွေဖို့ တောင်စောင်းကို ဖောက်ခွဲ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.co.uk/burmese/live/crp3kjpvjjzqt?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-01T03:00:21+00:00",
    "title": "Commander-in-Chief of Defence Services General Ye Win Oo meets officers, other ranks and families from the compound of the Office of the Commander-in-Chief (Army)",
@@ -2157,13 +2164,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWXNxTExGdDdqclh3dWVva09iYW5ZelI5emFFdHU5QVN6NE0xaWZEd0FLNVF1Y2JqMF83eFF6ejhoU2t6UFYxNjlwY29fcXJqSVlQR0Vkc0hvbjZhRXZMY1NRc2NSV1VDWmJRa3VmM3RQWUVoM2kyWUNhRTVPTjdwN29WWDQyR0ZmUDZaVXB6RjhTXzBLbWVobzB2amlSMmtBU0d3Y0ZCYmI1VWFQN3RWSVBKc1o2UlFSS1VETw?oc=5"
-  },
-  {
-   "ts": "2026-08-27T06:00:21+00:00",
-   "title": "ဟန်ပြ Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUXFNcldYVGNnbGxHWWRUUl9pV05pM2xUSDN5SThESlZRZlVkck1RWEpTcFMtU2FRbHhJNFc2NjBQcl9uZXZsYUtlblZuRlpmcDdWUWFqLWgzWGxhUjhwOWVKSTFxenpyRHRIRElQZGZnSjA3bC1LbWV5b1pBN0RSa2RQQQ?oc=5"
   }
  ]
 }
