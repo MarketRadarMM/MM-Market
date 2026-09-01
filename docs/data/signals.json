@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-01T09:00:28+00:00",
+ "generated_at": "2026-09-01T09:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-01T09:30:18+00:00",
+   "title": "No Letup in Checkpoint Extortion on Roads to Mandalay",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRXB4RnZISjBKV1RVNGpIN0pjNzc4RlM4XzZqZ3hNYkVUeTdiWWF4Z2o2eFNGalNPQlRrOTI5RmQzdVJWWWE5dWg5YUlqeFRBQ3RGUFc2X0VDbW5obUx2MjdYRHhEX2RkdzRRcmRjWEhHeEdCRVJNa01uY3dEMWVzWnNEblZXNGZ5dUdLbjZwTnU0WXYyMnV6STZNaw?oc=5"
+  },
   {
    "ts": "2026-09-01T09:00:27+00:00",
    "title": "Vietnam Remains a Trusted and Reliable Partner of Myanmar",
@@ -2157,13 +2164,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/c1k2l2jyl7ko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-08-27T10:30:14+00:00",
-   "title": "''ရေလုံးကြီးက ချစ်ခင်ရသူတွေကို ခေါ်ဆောင် သွားပြီ\"-နီပေါကအသက်ရှင်ကျန်ရစ်သူတွေ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c4gk9gelz37o?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
