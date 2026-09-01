@@ -1,11 +1,11 @@
 {
   "source": "community",
-  "fetched_at": "2026-09-01T10:45:23.487441+00:00",
+  "fetched_at": "2026-09-01T14:45:21.691044+00:00",
   "status": "ok",
   "confidence": "amber",
-  "posted_at": "2026-09-01T09:04:59+00:00",
+  "posted_at": "2026-09-01T12:52:36+00:00",
   "post_date": "2026-09-01",
-  "age_hours": 1.7,
+  "age_hours": 1.9,
   "labels": {
     "gold_16pe": {
       "my": "အခေါက်ရွှေ (စနစ်ဟောင်း)",
@@ -136,7 +136,7 @@
   },
   "source_disclaimer_my": "ခန့်မှန်းဈေးသာဖြစ်ပြီး တစ်နေရာနှင့်တစ်နေရာ ကွာဟနိုင်ပါသည်",
   "source_disclaimer_en": "Estimates only; prices vary by location",
-  "posted_at_mmt": "2026-09-01T15:34:59+06:30",
+  "posted_at_mmt": "2026-09-01T19:22:36+06:30",
   "source_label_my": "လူမှုကွန်ရက်မှ စုစည်းသည်",
   "source_label_en": "community-reported"
 }
