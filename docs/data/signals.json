@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-01T01:00:26+00:00",
+ "generated_at": "2026-09-01T01:30:23+00:00",
  "signals": [
+  {
+   "ts": "2026-09-01T01:30:22+00:00",
+   "title": "31 August 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA3N19VMkVOUUc3NTdVOThRekFtSHJkTFhPZFNERTlXdnROMjlxZWxvZGktTzhqX0YtNzhWbHBrdnFHdTd1MDdLM0VlMXBtUGdr?oc=5"
+  },
   {
    "ts": "2026-09-01T00:00:20+00:00",
    "title": "အယ်ဒီဆင် Archives",
@@ -2157,13 +2164,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRm81N2ozSXFnZk9Ha3pJTnpxUkM4YzBQbUxRbXBpZGZDSjVnSTA1MXlua1FzRnhDYmZzQzd1VmxpeldZT1NSUTNtMEhnQnpRT0xuempMeEhRMlNIcTNTaDQ5elRTVUkyRUh4VnAwVU5rMnpCdHdPVk90aEUwNGViX1dLQ2RBdzNyZUlTVFBlVUhfM0tWeW83djd3SVNJZDZ2bnBpQW4zbV82V0RKbnVVMzkzcng3aGlmbGYzRVlnbW1kaldSRDlheVVnRQ?oc=5"
-  },
-  {
-   "ts": "2026-08-27T04:30:18+00:00",
-   "title": "Spectacular scenes of Mt Popa",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16MWNWdGNFcVRsZER0c2diLXNJdVo3M3ZnUGRKeVo1Z3hRdHY3TXowMmxLdEt4VHE1bFo0cUtqZDc2QnBpVkxXTFFXMHpVMTU0dk9ZVE53RGlOb3R4XzZ4TDFFdlJhc0RBWFZFMmR3?oc=5"
   }
  ]
 }
