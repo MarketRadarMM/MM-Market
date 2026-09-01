@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-01T02:45:20.318455+00:00",
+  "fetched_at": "2026-09-01T03:45:21.414964+00:00",
   "tiers": {
     "official": {
       "my": "တရားဝင် (ဗဟိုဘဏ်)",
@@ -199,18 +199,18 @@
     "fx_premium": {
       "USD": {
         "official": 2100.0,
-        "street": 4380,
-        "premium_pct": 108.6
+        "street": 4370,
+        "premium_pct": 108.1
       },
       "THB": {
         "official": 63.43,
-        "street": 132.8,
-        "premium_pct": 109.4
+        "street": 132.2,
+        "premium_pct": 108.4
       },
       "CNY": {
         "official": 312.5,
-        "street": 652,
-        "premium_pct": 108.6
+        "street": 650,
+        "premium_pct": 108.0
       },
       "SGD": {
         "official": 1650.1,
@@ -220,9 +220,9 @@
     },
     "fx_spread": {
       "cbm_usd_mmk": 2100.0,
-      "street_usd_mmk": 4380,
-      "premium_pct": 108.6
+      "street_usd_mmk": 4370,
+      "premium_pct": 108.1
     },
-    "implied_xau_usd": 4391.7
+    "implied_xau_usd": 4393.2
   }
 }
