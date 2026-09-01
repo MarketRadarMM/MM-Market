@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-01T15:00:26+00:00",
+ "generated_at": "2026-09-01T15:30:22+00:00",
  "signals": [
+  {
+   "ts": "2026-09-01T15:30:21+00:00",
+   "title": "Pindaya muskmelons receive orders from multiple cities",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeDNYNnJ4ZUdjU05NSXd2eHFndDdLY3dSVXF3TDZsR2JCaS1xUnRqT2V0aFVTU3RKbWR5VGw4S2JVTVpCSVlEOXZfakR6SmFBYVAtLTQtVTNNY09wRjFHWkd2c0tHcE5mMUl0b3M4YlkxWVExWm5LekRnQ3FCaUI1X19JdHlCY3JrRHNjdkl2NmFjZHJYeVVBMmFWV0VQQ3lS?oc=5"
+  },
   {
    "ts": "2026-09-01T15:00:24+00:00",
    "title": "နတ်ကတော်များ Archives",
@@ -2157,13 +2164,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLTNhbXJqcVFmSkZLeWQtZ0JfdG1aajBob2c4ZDZYZzdTS2x3M2NkVElsMERGajVfRUxfX0w1dFdhSjZHUkVULUZ5c3A1N01nOXZmaUNPUVVnSzBURHdFYXJHR090SUhtWC1ROEJhOWNncFZmVHctekQtTTI1a1NkLW0zNkZENXUwZVpEWlVpN0s5N2J2WXJ3R3RTdjJiNVhxdjNOX2dBWnFjUy1jcWVxN0oweUhEMGZNU1I2T3lRQ1g?oc=5"
-  },
-  {
-   "ts": "2026-08-27T12:30:24+00:00",
-   "title": "Chairman of the State Security and Peace Commission and Commander-in-Chief of Defence Services Senior General Min Aung Hlaing meets officers, other ranks and families of Mandalay Station of Central Command",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeWtxU0pfWGJVVUwyOUR0VFBfVjE1UzlMRlZSZTQyVjNURzBaSjJGdmoxZDk2ck5FZFd2NndibENqVGtLY2JoLUtuLW9oU0NEOUNlbDE2TVM1WmNHVi1CN3dKdnJyX0VST2pZTlZEZlJJVFN1NERUR1FWdm83YnYzZjQ2amF6aHJhbGpXQTdsM1dBRXlNWHIwQ1c1TlEzUHhWQmhyLWx6aHoyNWZQOFRmaHp2UmZ6UWFPWmVKOG0tWmE?oc=5"
   }
  ]
 }
