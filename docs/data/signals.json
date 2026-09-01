@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-01T10:00:26+00:00",
+ "generated_at": "2026-09-01T10:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-09-01T10:30:17+00:00",
+   "title": "ရွှေကူမြို့ရောက် စစ်ရေယာဉ်အုပ်စုကို  လုံခြုံရေးပေးမည့်စစ်စခန်း ပြန်ရရှိရေး ဝေဟင်၊ မြေပြင် ထိုးစစ်ဆင်နေ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/80885/"
+  },
   {
    "ts": "2026-09-01T09:30:18+00:00",
    "title": "No Letup in Checkpoint Extortion on Roads to Mandalay",
@@ -2157,13 +2164,6 @@
    "source": "Myanmar Now (MM)",
    "markets": [],
    "url": "https://myanmar-now.org/mm/news/80795/"
-  },
-  {
-   "ts": "2026-08-27T10:30:14+00:00",
-   "title": "\"ပိုက်ဆံပေးမှ ထွက်နိုင်တယ်\" - ရန်ကုန်လေဆိပ်က ခရီးသည်တွေရဲ့အတွေ့အကြုံ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c1k2l2jyl7ko?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
