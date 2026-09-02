@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-02T04:30:22+00:00",
+ "generated_at": "2026-09-02T05:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-09-02T05:00:18+00:00",
+   "title": "ယူကရိန်းမှာ ကျောင်းတွေဖွင့်ခါနီး ရုရှားမစ်ဆိုင်းကြောင့် စာအုပ် ၁၂ သန်း ပျက်စီးခဲ့",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cn8ey3jwql9o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-02T04:00:21+00:00",
    "title": "Prize-presentation ceremony of the 19th Intra-Military Performing Arts, Anyeint, Drama and Magic Show Competitions, held, graced by Commander-in-Chief of Defence Services General Ye Win Oo",
@@ -2157,13 +2164,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSVFBSmkyNmc2YXRwNzVlTGh6MDVIdjM5c0RQY0pRMERqbXJtcFBkUFlGN1VUQkt4VW5rTV9EQ0xkNDBORnZyN0otVGJCcF9UOXVpR3prTEdtOG11SFBIem5DQ1c4dkx3THp2VkZhY0NjZEhFbFQtZ3pwX2k2RmRkY1BCRHFBT1Z6NllvbFRvSTVYZXF6eFlqeEVtcnlwX1o4U2hDdmN4MW8tMkc5UEx1VmYyMA?oc=5"
-  },
-  {
-   "ts": "2026-08-27T20:30:17+00:00",
-   "title": "Pass Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1rVVBkejlEYnRQZVJvQjk0OTFtSDZOM3htSXZjREt3NmpNbkpaVUFGNGwxOU9yenNuZUlYT2FRRFNGbG8xdHpJSDJlNDk?oc=5"
   }
  ]
 }
