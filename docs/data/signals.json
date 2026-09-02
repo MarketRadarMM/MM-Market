@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-02T15:00:23+00:00",
+ "generated_at": "2026-09-02T15:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-02T15:30:16+00:00",
+   "title": "''တော်လှန်ရေးအောင်မြင်ဖို့ ... အမျိုးသမီးကိုယ်စားပြုမှုက အရေးကြီးတယ်'' - မဇူးပဒုမ္မာ (SCEF အတွင်းရေးမှူးအဖွဲ့၀င်)",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cevmvnkgj0no?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-02T15:00:23+00:00",
    "title": "Military parade to hand over duties of the Deputy Commander-in-Chief of Defence Services of the Republic of the Union of Myanmar held",
@@ -2151,13 +2158,6 @@
    "source": "Myanmar Now (EN)",
    "markets": [],
    "url": "https://myanmar-now.org/en/news/malaysia-to-repatriate-first-group-of-myanmar-nationals-in-september/"
-  },
-  {
-   "ts": "2026-08-28T05:30:20+00:00",
-   "title": "Yangon Police intensify area-based crime prevention operations",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQXzd2SFQyaF8td1djd3JrRldLN016N1pTa3diY3ZBVmNLWnVoYzVkZ1pJdkNuTWFqakh0VGlodF9mN0hjNVlMYW9GX052MnpJNHktbHJvd0dEYnd5bkJmbzlja1U2a2ctcnltbi1lY2g3clFiVkk0cFZld0tycVdTb21TVUZLeHh3Unp6eWpqMUUyTDg?oc=5"
   }
  ]
 }
