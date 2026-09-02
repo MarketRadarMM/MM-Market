@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-02T10:30:22+00:00",
+ "generated_at": "2026-09-02T11:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-09-02T11:00:18+00:00",
+   "title": "အာရုံစိုက်ခံလာရတဲ့ ထရမ့်ရဲ့ အနီးကပ်လက်ထောက် နာတာလီ ဟာ့ပ်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/ceqe4j3dxj2o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-02T10:00:19+00:00",
    "title": "More growers in Kya-in-Seikkyi Tsp eyes lucrative elephant foot yam this year",
@@ -2157,13 +2164,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMS1sSUt4STVxLThvLTFuZmg4eU84aHl5NWhaV3JkUnktMGVNS0RIMmgwMkh2NUtlVXVGY081a21nUWUtNENfZ1hleVdWQVVNWHRfY1FnZGFXT1BwdjhQTEV1YkJTN2U1QWRhbWlvMzUxRkhMSUprV0t0enFLMXE1ZTZtZ1laTmQ5XzQ0WWhR?oc=5"
-  },
-  {
-   "ts": "2026-08-28T01:00:24+00:00",
-   "title": "Bago Pushes High-Value Rice Revival",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tYU1LclBzZEtSQWRaSFA0S3I3VTZzWDV6bDlib0FLSUVrWG5oUW1qc21KMFBzQ0F1Z0VwVEhtQWRiSUJsVXk2bjNfdkdnaV8zLTYzNmJqRXpySXVRMmxIOWZOVmM4NVdXZEVkag?oc=5"
   }
  ]
 }
