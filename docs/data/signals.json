@@ -1,6 +1,47 @@
 {
- "generated_at": "2026-09-02T11:30:31+00:00",
+ "generated_at": "2026-09-02T12:00:31+00:00",
  "signals": [
+  {
+   "ts": "2026-09-02T12:00:31+00:00",
+   "title": "Chairman of State Administration Council Commander-in-Chief of Defence Services Senior General Min Aung Hlaing meets officers, other ranks and families of Kengtung Station",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeGNCaVN4OEtFdDhNbGdsSFpLRTFseUgtMkNLamJrXzBNTGt0N3NnMEZhWkV0SWFZQm55bkttYWZFUUg5TF94RU05bVByVGlaTkxwa0xfcnRoczNsUVZOelFfal92aEc0Vl81Ni1pSEhTMko3SnVsZE1zdE9BZ29JTmcyVHlIdXl4bEpfZXM3TENjZy1wVjVaYlo1dE1tVlRmbE9sMGtNWndxTkxGNmIwc05oOUE0M08yMGNsbEljRl9QSTFyQ1ViRVZ3Mkl3V1hzdkE?oc=5"
+  },
+  {
+   "ts": "2026-09-02T12:00:31+00:00",
+   "title": "the ceremony to mark the 105th Anniversary of National Victory Day 2025",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbnUyaHJBVDZlMjVkbXFjemxkZVNIUFZqVzAzVHlmYl8xaUFocmxUbjNOY0twVDdjbWFpekZjYVdQSXB5XzZJYzN1T3lzSHZWYjRWWTlhUzd1aEQ5RU5fNTE0WVhjd0pBb2EzWlAyTHROVFZVandsUDc3ZnVCeVQwMjFjUThZMWJ3VmlUTQ?oc=5"
+  },
+  {
+   "ts": "2026-09-02T12:00:28+00:00",
+   "title": "ဧရာဝတီဒုတိယမြစ်ကျဉ်းတွင် စစ်သင်္ဘောနှင့် စစ်သားအများအပြား အထိနာပြီးနောက် စစ်တပ်က ရွှေကူ အရှေ့ဘက်ကို စံချိန်တင် ဗုံးကြဲ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/80935/"
+  },
+  {
+   "ts": "2026-09-02T12:00:25+00:00",
+   "title": "နိုင်ငံခြားငွေလိုနေတဲ့ နေပြည်တော်က ပြည်ပလုပ်သားတွေရဲ့ငွေလွှဲကို ဖိအားပေးလာ",
+   "source": "BBC Burmese",
+   "markets": [
+    {
+     "market": "fx_kyat",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "CBM/forex news — read for direction"
+    },
+    {
+     "market": "gold",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "Kyat-sensitive: gold usually moves opposite to kyat"
+    }
+   ],
+   "url": "https://www.bbc.com/burmese/articles/cx2z5mely31o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-02T11:30:30+00:00",
    "title": "- yktnews.com",
@@ -2136,34 +2177,6 @@
    "source": "Frontier Myanmar",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNlNQVG02VllUNWE3MF9xMTloV1FwdmE1VjY3LVNYaEczVTNBeUJxZWVPRkp4Z2NjLUc1OWd4ZXdJTnE0ZmZlcmlzYkdXdzhVWlJtZ0pnczFNcThxbFQ5RjhCMmlhXzRlZmdtNUFpR081WHFtT01WWUU2dVhDMm1tX1R4My11Wk9FWVoyVXJLVnI?oc=5"
-  },
-  {
-   "ts": "2026-08-28T04:00:22+00:00",
-   "title": "မြန်မာလိဂ် Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTXVkNjU2MlE0ckcybnBnZTZ6MnlqdXpRQU9ROU11TlZnVHZUTlJRUzNmZDZtNG5YWXlLOFVFQ3FPQ19ETXFSR2xYWHl3TXltSnctbGxQNDRPT2c5LXhlVHFHN1doYm9XZnh3c2ZNcGhIb2tWdThTU2JraFhQdlpiU2FTcW40MWF2RXFxUFVMVklzZk5qOThTVVlzdEwtM01Zbm82Rmc1WXJ1SGtxV1hCSmtmMTBQb2M3X2xpRnRVNA?oc=5"
-  },
-  {
-   "ts": "2026-08-28T03:30:18+00:00",
-   "title": "YR expands Robusta coffee cultivation, targets 1,000 acres by 2026-2027",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPemZIZFlURHp1UjUxazJ0Y3RkSF9XY2VNWUFuVmE1RXhJdXUxYWFfVng5bGF3ZW9tUFdYTW1hb0EzMFNYVkdzSVNNRE9NZExDNHRRd2RQVnhLNnFGclk2SWoyNkxXckZlczJwYWlZUGxlSXBEUmtFZmtVZk0xZld4Zlc2eVA5SE9GNTZMbGRmOWdXQk9seXNsMVh3?oc=5"
-  },
-  {
-   "ts": "2026-08-28T03:00:19+00:00",
-   "title": "နိုင်ငံခြားသားတွေကို ပြည်နှင်ဒဏ်ပေးမယ့် ထိုင်းအစိုးရစည်းမျဉ်းသစ် ဒီနေ့ အသက်ဝင်",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.co.uk/burmese/live/cred79gegx52t?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-08-28T02:00:24+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1YQTFKX3REd2F1R0pGQ0tBbUNNY0tCMnNQbTFSaEVjS1NlU2ZrRUxjX3d1NEk4U09BZ0ZmSVFpc2I1ZWhCdG9qNVFtdw?oc=5"
   }
  ]
 }
