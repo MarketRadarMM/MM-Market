@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-02T06:30:18+00:00",
+ "generated_at": "2026-09-02T07:00:19+00:00",
  "signals": [
+  {
+   "ts": "2026-09-02T07:00:17+00:00",
+   "title": "Exclusive: Myanmar military proxy USDP postpones congress amid leadership rivalry",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/exclusive-myanmar-military-proxy-usdp-postpones-congress-amid-leadership-rivalry/"
+  },
   {
    "ts": "2026-09-02T06:00:25+00:00",
    "title": "ပြည်သူ့အုံကြွမှု Archives",
@@ -2157,13 +2164,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1IY1lTdXZPYXhmVWViLWV6ZDNPMnFnN29QWFJYd09Zb0ZWVzY0T2FrV01TTjZHM2dIXzZuN0R0YWNFRlpTNG5wOGZsU3lwT2VmQjBPQ3RZV28?oc=5"
-  },
-  {
-   "ts": "2026-08-27T21:00:20+00:00",
-   "title": "Satellite imagery shows extensive damage from Nepal-Tibet border floods",
-   "source": "RFA (EN)",
-   "markets": [],
-   "url": "https://rfa.org/english/tibet/2026/08/27/tibet-nepal-flood-landslide-blackout/"
   }
  ]
 }
