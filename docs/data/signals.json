@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-02T21:30:18+00:00",
+ "generated_at": "2026-09-02T22:00:25+00:00",
  "signals": [
+  {
+   "ts": "2026-09-02T22:00:22+00:00",
+   "title": "Solomon Islands crisis: regional power rivalries spill into domestic politics",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/pacific/2026/09/02/solomon-islands-no-confidence-wale/"
+  },
   {
    "ts": "2026-09-02T21:00:32+00:00",
    "title": "Educational Initiatives Archives",
@@ -2151,13 +2158,6 @@
    "source": "Khit Thit",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE10aVRyNGdyUUR3MFR4a213OFZxZnlCRnlDUG5sOU4tY3NNLUllQ3p5WnlXVk5uY29rT2RYQVJTdUZ4dkpRb0xCUFlyUQ?oc=5"
-  },
-  {
-   "ts": "2026-08-28T10:30:15+00:00",
-   "title": "Buddhist monk suspected of links to pro-regime militia dies in resistance custody",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/buddhist-monk-suspected-of-links-to-pro-regime-militia-dies-in-resistance-custody/"
   }
  ]
 }
