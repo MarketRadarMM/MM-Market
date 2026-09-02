@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-02T07:30:24+00:00",
+ "generated_at": "2026-09-02T08:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-09-02T08:00:21+00:00",
+   "title": "Two Children Killed in Regime Airstrike on Karenni Mining Hub",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb1E0MDVYRUprZGluRUppQjJNZTdBNThsWDJfcGEzejdXMmtYc3BhSlhCTlBEX29nWElkTllELXNxd0owNk5oMkNxc1FaRW11VmV0SVRGNjA4bEZjZnRBWmMwckUwU2dFMWJDRHJYUjhtN1JPMmNXS080VTdzVXpDNVQ3SHlqZUxNNXBXOWQ1LWRIR3BMcTJWZzM0X1h4a1pVcVFqOW53?oc=5"
+  },
   {
    "ts": "2026-09-02T07:30:23+00:00",
    "title": "Myanmar team departs early for friendlies ahead of 2026 AFC U-17 Women’s Asian Cup",
@@ -2157,13 +2164,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52ZGt1MzUxMll4WVVvUUJRNmwxSlhKdUFQYk53RUtTNE9vZERKRmxQcFVPc0ZMQjBVMDhmSWUzMEU2VGlzODZvenVQMjdWQVZxX19oTmRwRDdsLU5aWkxxdG1jMDNqSjdiSEl3V2t5OA?oc=5"
-  },
-  {
-   "ts": "2026-08-28T00:00:21+00:00",
-   "title": "အသန့် Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRjlNRnlJcF81MEk1aUQ1RkpOdmNhNURvVlNRWDg0cG1MUnRZVVd2a1JVbXp0MnhPZWRSZEhJUGxNQ3pBNVRhSkRSLWQ1MlViRkdxd2RmY3hBVk9mMnA0dmN6R25lb3NTY1U4eUl5dWZQR0syVWtCaTg4NjVkbVNKZ2s1aw?oc=5"
   }
  ]
 }
