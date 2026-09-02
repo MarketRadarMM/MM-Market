@@ -1,6 +1,34 @@
 {
- "generated_at": "2026-09-02T09:00:30+00:00",
+ "generated_at": "2026-09-02T09:30:25+00:00",
  "signals": [
+  {
+   "ts": "2026-09-02T09:30:24+00:00",
+   "title": "တိရိစ္ဆာန် Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYlhrOHMtTHFYbERaOWFxdEwtOERzbUc0bnBDaEtleEdsSkFBY3ZNNHdybHhFRHN6cnF5NzFTTm1ORFFxcmdwcWdZYXFqTkY0alVwOTY0MjVraUd1VFhiWjZWcy1PS0I5S05zamgxN0ZCZE1HNFljWWItd1M1MDBTWnVlS2pwOWlDTmxDdVppempYYkVxYXZhdWUwV0F5UzZPSkpXYTFFa2NqdlVKSjdMY1JtbUlBRWRRWlRVbjRzZw?oc=5"
+  },
+  {
+   "ts": "2026-09-02T09:30:24+00:00",
+   "title": "တိုက်သင်္ဘော Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTERwanU5WUZSTDBqQ01xX1NzWUl6Uy1FOHpEeXFzclVfaWxsZkQ2bzFHblAwUUhvOWc0YTlNY0RkWFFqbDJ0UzBpNjFWeDdwRm9iOEZ3b2pMeG45WkY1OU5NS1FfNGtzek9RdlNPNnFZVjduN3EtRjQ2UUZOZmxpYVJYc1pGRE1xemd2NzRTRkZkbDQ5Vk9sUWNoTlNEZFNnTkcwY3FtT0FYRV9jTkxGRk4xXzBBUDBwR21iOFJibTJsNmNBdlJRc2ZoeTNDNUhJUk82cTBoaw?oc=5"
+  },
+  {
+   "ts": "2026-09-02T09:30:22+00:00",
+   "title": "AA စိုးမိုးဒေသများကို စစ်တပ်ဗုံးကြဲတိုက်ခိုက်မှု ၁ လအတွင်း  ၃၇ ဦးသေဆုံး၊ ၉၁ ဦးဒဏ်ရာရ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/80918/"
+  },
+  {
+   "ts": "2026-09-02T09:30:22+00:00",
+   "title": "ပျူစောထီးသံသယဖြင့် ဖမ်းဆီးခံရသည့် ရဟန်း ၁ ပါး ပျံလွန်ပြီးနောက် ချောင်းဦးနယ်ကို စစ်တပ် ထိုးစစ်ဆင်",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/80921/"
+  },
   {
    "ts": "2026-09-02T08:00:21+00:00",
    "title": "Two Children Killed in Regime Airstrike on Karenni Mining Hub",
@@ -2136,34 +2164,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaE15MjdrSDFOalpoTkphbVJMLW5ZbHBlcDdIVHZCUF9wQXY4SER1ZExzX09rSnN2YmFnWENXci12TkdSQlFIU0Q4Y3NQc0JuZGlwbmlTM2IwdGdSOTZhTHFIYXVadnpNcV96alBQdlVRYWNSaGc4M3VWamU2NEZwaFNlZw?oc=5"
-  },
-  {
-   "ts": "2026-08-28T00:30:21+00:00",
-   "title": "Water pump house construction inspected in Chauk",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90SFNIaFRvbUJPeUEweWNKOVZWVGtOUkVud1lock50cXp0VHkyMHc4a3lCOWs3RGRHLUlGcHFUQ1VTUHBldk1hY2o1N3A3TGlBQ1ZnbU5MR25WX2lfT215NEs5YXhFTUthanVaa2F6RC1GR0s5amdHT3pad2FlUQ?oc=5"
-  },
-  {
-   "ts": "2026-08-28T00:30:20+00:00",
-   "title": "In Thailand’s election, Myanmar isn’t on the ballot",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxON1VMQTFvLWlHSm1EcUZ5dHJ4Z0NNYmJDQzRyRTRJVHdRbnQ1aFl3YWZZenhFQ3N4YlNDeXhSNElQOXJpaGVaNWdYS1NKV2ZxRTB1U09tZlZDQXp1QnZCSHpaRVhYeXl4dmlMUGs2RlRaSmU4bXNkdmVXR0V4TjBtXzVUcUFIZWNaVTNxYQ?oc=5"
-  },
-  {
-   "ts": "2026-08-28T00:30:20+00:00",
-   "title": "Center for Diversity and National Harmony Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9odjVCbWg5WkU3U2xBZUpfU2NDOXBLQVBHOEsxcjVqaVZZRVdnZzRZQkNSTm5DTDZsaWdtOTZ3SVVDU2JYRHctMjJ3WjMxOExkanA4Z0ZqNnpXTF9uSjN2MmU3UGZoMFdKTUNqUEJfREx1X0lnZk1hS0kyNA?oc=5"
-  },
-  {
-   "ts": "2026-08-28T00:30:20+00:00",
-   "title": "Landmine Victims",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52ZGt1MzUxMll4WVVvUUJRNmwxSlhKdUFQYk53RUtTNE9vZERKRmxQcFVPc0ZMQjBVMDhmSWUzMEU2VGlzODZvenVQMjdWQVZxX19oTmRwRDdsLU5aWkxxdG1jMDNqSjdiSEl3V2t5OA?oc=5"
   }
  ]
 }
