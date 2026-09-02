@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-02T22:30:19+00:00",
+ "generated_at": "2026-09-02T23:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-09-02T23:00:21+00:00",
+   "title": "Kannavee Suebsang Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YWFJUdWZiX21odnM0X2d0UzFZWllRdjh6X2t4UllDTDd0c0YtMWxiNlp0SEpXT3Y3MVgzSDJuV1VHbExLSWlNbzJSY19tTzlDY1JRQ0oyWWZzU0RGTEE?oc=5"
+  },
   {
    "ts": "2026-09-02T22:00:22+00:00",
    "title": "Solomon Islands crisis: regional power rivalries spill into domestic politics",
@@ -2151,13 +2158,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/c5yj36z4dwzo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-08-28T10:30:18+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE10aVRyNGdyUUR3MFR4a213OFZxZnlCRnlDUG5sOU4tY3NNLUllQ3p5WnlXVk5uY29rT2RYQVJTdUZ4dkpRb0xCUFlyUQ?oc=5"
   }
  ]
 }
