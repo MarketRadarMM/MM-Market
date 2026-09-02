@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-09-02T14:30:27+00:00",
+ "generated_at": "2026-09-02T15:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-09-02T15:00:23+00:00",
+   "title": "Military parade to hand over duties of the Deputy Commander-in-Chief of Defence Services of the Republic of the Union of Myanmar held",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdHpOX2Y5V1BKeVdTZGpDVUlJemtEVUNDSUh6ZkwwQklKNndyWV96QUZVc3R3Y21NVTVpN2ZzNDZrMkV6NmNOeElKNG1LenprSG83WGdNRmEtazNYQnNzaFlaYzlhRXZKYndURFRtZEJsQWpRcVlFOGlJd1hWOFZIUVlQb3liWmMzRHhvdDFZVVlIRkl3RnJ4a2xJMUUxa3NrampYSWEzeExwcjhQZzRYVUkxVVV2U080NlVkQmxOQQ?oc=5"
+  },
+  {
+   "ts": "2026-09-02T15:00:23+00:00",
+   "title": "Senior General Min Aung Hlaing meets officers, other ranks, families of Cocogyun Station",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT3dCaHZDYThxYzN0U1hvbzQ2cFd0N3hqUlJmUnhTNWREdk54NWt2VU1zZlpESEdOb1phRUxxWGZLMGdfcFVmb2NVQzJnYktCdVdFdHF0c1BGczFmN2hrbEFOZi0tb1VzWXYxZUlMY3RrNHlxZWo4TzZLUlJtcEtZaHRMUUE0Mk1uaDM5ckNTQmdrQURkU2gzWlZabndlb0FNb0M3TElKZzZjOE9GcEtV?oc=5"
+  },
+  {
+   "ts": "2026-09-02T15:00:21+00:00",
+   "title": "Trump’s Economic D-Day",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wLUllNnNqWlNfdFhvaVpTejZJOVRCNXZ1OWVCY2ZnQ0lKTzU3SzN2cUIxejdTb2hmX0gzTVRzY1JpT0tETllmMW1GdE5NVWNMTDhzZmtxLTJXSWxnbVVBeGZJNEw0N21jbEE?oc=5"
+  },
   {
    "ts": "2026-09-02T14:30:25+00:00",
    "title": "သားရိုင်း Archives",
@@ -2137,27 +2158,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQXzd2SFQyaF8td1djd3JrRldLN016N1pTa3diY3ZBVmNLWnVoYzVkZ1pJdkNuTWFqakh0VGlodF9mN0hjNVlMYW9GX052MnpJNHktbHJvd0dEYnd5bkJmbzlja1U2a2ctcnltbi1lY2g3clFiVkk0cFZld0tycVdTb21TVUZLeHh3Unp6eWpqMUUyTDg?oc=5"
-  },
-  {
-   "ts": "2026-08-28T05:30:20+00:00",
-   "title": "M-League opens on 28 Aug with major changes, new look",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNGVzM29jQmNSNU95ZkFGWDZzSEtsUEpxblIxMnpEOGRBckFrMGxyUzVaSmdNY2FKWjRIWjZZQ0V0T3VBOTZZZWpUelV2VDQwaXFGVDQwaWVWd3hyclBORExpQTJNSzFsYmNzNW1iR0pPZklIdFA5a0k5a1dWVjc4dGozTQ?oc=5"
-  },
-  {
-   "ts": "2026-08-28T05:30:20+00:00",
-   "title": "MoFA Union Minister receives Saudi Arabian Ambassador",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPREdzVmZraDhrNUNQTVBqdVQyTk9WemRXbmRidkJVOGFNNEhvWHhvV2lrRGVaUzFtWHFoMkV1SzZFVHpSZUt2YmNHRFJWcmVqRDRqNjQwN0c4NjFfLV8zX2kwQTFPTHdPSEp6OVlDaEMxNjc5N1JVcGdOU0NDMG1lR2xEcVZaSkE?oc=5"
-  },
-  {
-   "ts": "2026-08-28T05:30:20+00:00",
-   "title": "MoFA UM receives Chargé d’Affaires ai of Embassy of State of Qatar",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWjhZYXlSU3lXaVgyZk1rd2dtVUVReFlFMmRORlUzSXlocDlUbnZZSGsxT2JqUHBnUGdDaUpWeGNIcXNuOGNtYVhFMVFscDBYTjI2Z3Ntd2ZRU1hIaVMwbWc1QmZfZFFXc1N0dndiYmktYlFDVFR4RFFmdVBiU2F6QldmQV85b2VtdE1STWtfLWpUX3lO?oc=5"
   }
  ]
 }
