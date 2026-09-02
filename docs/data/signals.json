@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-02T18:00:25+00:00",
+ "generated_at": "2026-09-02T18:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-09-02T18:30:19+00:00",
+   "title": "Imprisoned Hong Kong activist Joshua Wong pleads guilty to ‘foreign collusion’",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/china/2026/09/02/joshua-wong-guilty-plea-hong-kong-national-security-law/"
+  },
   {
    "ts": "2026-09-02T18:00:24+00:00",
    "title": "Musk and Trump show why the media matters",
@@ -2151,13 +2158,6 @@
    "source": "Myanmar Now (MM)",
    "markets": [],
    "url": "https://myanmar-now.org/mm/news/80805/"
-  },
-  {
-   "ts": "2026-08-28T08:30:20+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE16S2xNeFVYVE56N0laV0JhdncxbUZxRFJNQjdfR1FZaVI5N2VDLThHb0E0b0pnMTBBcGJtYnVCcGY4WkZoZWQtYVBVQQ?oc=5"
   }
  ]
 }
