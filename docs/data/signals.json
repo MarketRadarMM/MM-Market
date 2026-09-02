@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-02T05:30:20+00:00",
+ "generated_at": "2026-09-02T06:00:26+00:00",
  "signals": [
+  {
+   "ts": "2026-09-02T06:00:25+00:00",
+   "title": "ပြည်သူ့အုံကြွမှု Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQX09oRDJ4X1NEXzdadWhYblRqbTBublFweVNnek03UnhhOV9xR0t4S3JkMS1nWTlnR1pudXVfdzVYelYwWFF0bmhmWDl2cUtQeF9oUVZfX2JvbEwwWlJfUi1yeVJfRW1OaUdJbG1lYThJNmIzVUs4TG84cXFZMG9TY2tURWNPVWxZZlZnR3lSdS1LUzNlZ0JlY1RfRU81Y1VYT3BEN0RnLXdTVFZycHJRMGw0SXk5Yk1BQWI3T3FnaTZCMlNVanJ4NFVvcXJwcnhmNkV5R1hNYUdKZG9STUJselNweURkblFfWk0wMWx2R0NWQ1Q3cFZGVUNobVZiX1Fwam95eDJEYw?oc=5"
+  },
+  {
+   "ts": "2026-09-02T06:00:25+00:00",
+   "title": "ဦးကျော်ဆန်းမင်း Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMkpUMVJUTGtrSl9sSEtBc0ZPZ1BYbzRZMmRjd2x0eDV3a2dYc0g2MFpfVVJyczRiUEFETnRQUWRSeHlEZlc4OUlIaXMzUlBSVnJVTzM5SlF3UEZ0TXQ1Qmx2bjBzZHlyTnc3SlFnbEUweWZDMW85Y0duYnA2NDY5ZE5CMTFjSFJoOWlwbTlRSXVVcHFUeERHcHJoMGR5bFpxRy1LVTZpLVBHTW9SSTJqTUU1d0M0a08xVFlxNmVPc0tMaDRnQUU0aVRLT2cya3JkemdXYzZzU3VsLWF4NG9iR19TUjdXVmFTaThlb1Nod3BPNE1CYm5sWUEteHZZclVGcms3S1VWYw?oc=5"
+  },
   {
    "ts": "2026-09-02T05:00:18+00:00",
    "title": "ယူကရိန်းမှာ ကျောင်းတွေဖွင့်ခါနီး ရုရှားမစ်ဆိုင်းကြောင့် စာအုပ် ၁၂ သန်း ပျက်စီးခဲ့",
@@ -2150,20 +2164,6 @@
    "source": "RFA (EN)",
    "markets": [],
    "url": "https://rfa.org/english/tibet/2026/08/27/tibet-nepal-flood-landslide-blackout/"
-  },
-  {
-   "ts": "2026-08-27T20:30:17+00:00",
-   "title": "နေသွင်ညိဏ်း Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSEhTRVNTampkeXpHdk1RdTFqbFd3YUJ1YjBzd05oREhZMWdVcU0ycHd6TnF1RlRTNlZKb3psV2RvS3lRSjU5Z3FoU2ZhOEJ4WkplN0tJRlFOWmp6UnFMNUszRlNmdEVkMzltNVFyZHJHU0t3WnQ5bEV5TUhvdDFWQ2k2Z2lhbGVKMGh2Q3dlQ1AzY0t0OEJ4MkNkRTZwX2RfZVJCd0kxU0NiYThXNFhWMDRLVjlZZG1KR3VsR3VLekppSzJhaFdiZGhDRQ?oc=5"
-  },
-  {
-   "ts": "2026-08-27T20:30:17+00:00",
-   "title": "ဝယ်ရောင်း Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSVFBSmkyNmc2YXRwNzVlTGh6MDVIdjM5c0RQY0pRMERqbXJtcFBkUFlGN1VUQkt4VW5rTV9EQ0xkNDBORnZyN0otVGJCcF9UOXVpR3prTEdtOG11SFBIem5DQ1c4dkx3THp2VkZhY0NjZEhFbFQtZ3pwX2k2RmRkY1BCRHFBT1Z6NllvbFRvSTVYZXF6eFlqeEVtcnlwX1o4U2hDdmN4MW8tMkc5UEx1VmYyMA?oc=5"
   }
  ]
 }
