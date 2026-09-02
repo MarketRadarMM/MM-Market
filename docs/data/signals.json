@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-02T02:00:22+00:00",
+ "generated_at": "2026-09-02T02:30:17+00:00",
  "signals": [
+  {
+   "ts": "2026-09-02T02:30:15+00:00",
+   "title": "Myitkina Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JREl2MXVMNlNTYVQzV1RfSG9pdnphOWN3T05mWkdGc3ZVbm14WjI0bDNTUHBXQ01IV1RGM1ptaWNFZ1RYODI5V0pkYkY2Qnc?oc=5"
+  },
   {
    "ts": "2026-09-02T02:00:19+00:00",
    "title": "တော်လှန်ရေးနယ်မြေများသို့ လောင်စာဆီ မစီးဆင်းစေရန် စစ်အုပ်စုက နည်းပညာသုံး ထိန်းချုပ်",
@@ -2157,13 +2164,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWWhuQng2bFQxUlBGWDRYMDlrS3hGbmdGel9SUmN3VUwxejh1QzR2UEo0d004LTZLNjVONlJIQVVOYzZPdnJsMmhVUnBqdkRjM1I1TXpyNm5VT2R4MWo2ZjVLZlRQWXhic0Z1MFc5R2E0VG5TSkUxakktRDVCWGp3dmw3Sjlua1kxNTF6bG5IX1BSSmxFbXFsY0o5SnJnanZnWjg0WGdUdC1NVFhveUhLSXl4Wk9XYUs1NElSblNTdHhMNFdiUk9Hc2owdzQzUQ?oc=5"
-  },
-  {
-   "ts": "2026-08-27T18:00:22+00:00",
-   "title": "CDF-KKG Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9QMnJEYXQwVVBtNzlWbVVIdXB6dWYtR2pmM01uSEJNN19JUDV4elotRW5GQ0F1X3FoV3Z3djU1V1VvUWlodFd0dG82UHdvR0lp?oc=5"
   }
  ]
 }
