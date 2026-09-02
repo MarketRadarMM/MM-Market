@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-02T20:30:26+00:00",
+ "generated_at": "2026-09-02T21:00:33+00:00",
  "signals": [
+  {
+   "ts": "2026-09-02T21:00:32+00:00",
+   "title": "Educational Initiatives Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xTWhkT1p4QzM2NEJ5RzJNRXhmSlk0UHVOTE5XN1FQVkJPQWRvTVAxTzJBR3RNSDhPX3psVnQyRDVjZ3dPZzNaR2FoVnA4dzFyaFZNZzV5MGJvYUhOemdfdm5XMFhRUQ?oc=5"
+  },
   {
    "ts": "2026-09-02T19:30:18+00:00",
    "title": "Asian Cup 2026 draw unveiled for Myanmar U17",
@@ -2151,13 +2158,6 @@
    "source": "Myanmar Now (EN)",
    "markets": [],
    "url": "https://myanmar-now.org/en/news/buddhist-monk-suspected-of-links-to-pro-regime-militia-dies-in-resistance-custody/"
-  },
-  {
-   "ts": "2026-08-28T09:30:19+00:00",
-   "title": "Volunteers from nursing training",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xMF9qenpEYnFfeld3dTFqdDhDMzRBc2hzVXhjSzFwM1RDMm5HWTdqd1d2a3BKR3JOMnpwZ1gyc01SVmRPSXVMTTRHTl9mYVNxVXk1OE5WdHJMVE5RSXFBT0F5UWFlWkZzZldrd25Icw?oc=5"
   }
  ]
 }
