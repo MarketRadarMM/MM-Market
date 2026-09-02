@@ -1,6 +1,34 @@
 {
- "generated_at": "2026-09-02T12:00:31+00:00",
+ "generated_at": "2026-09-02T12:30:24+00:00",
  "signals": [
+  {
+   "ts": "2026-09-02T12:30:22+00:00",
+   "title": "Guest Column | Asking Leadership to Lead: Myanmar’ Resistance Today—Part 3",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM2piLWxWQ2g4dTQzRlFaTG5HWFZIT0gxdkc2THRmZUZTbVZYTi1HSkVtdm5jT1VDSElIbnYxUlhzTGI1aF9CUklIcGxKZE9wQk80YzJ3ei1hcGJ1dlNFZzJOM0l3WDhLM3VGaFlHYTVQMjJZdFJoR2tEcGhEcldVRlBqV1loNGphZFpFQWVuVjN5UFlUUnNyZWcyeVJ0cVZiWEJISTNodDVpaUxYOVE?oc=5"
+  },
+  {
+   "ts": "2026-09-02T12:30:22+00:00",
+   "title": "Cornered but unbeaten—the true leader",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QM2d3UHA0bXNtM3RENWx6YjlPeDhCTjhRS2Q3d0dheUFDMDJpSm4zajBkbXJhb2p0eHpMemY3dG8xSkN1bzRTaWQ2LWJYNnhnR21DdGI5ZWM3U0hrbUJV?oc=5"
+  },
+  {
+   "ts": "2026-09-02T12:30:22+00:00",
+   "title": "The Worst Sinners Against Democracy in Myanmar",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE16Si1BUjdZS3M2V1dYZVN6aFhYblZXNkdDYTJwQTZ4UGIxM3VHaGxGVUd3TjZBVTF0b1NSVzkzZGpSek1ZU1NwWHlDYVBfSkNjQ0pTMFJEdnVJdnVQ?oc=5"
+  },
+  {
+   "ts": "2026-09-02T12:30:22+00:00",
+   "title": "Regime Flotilla Decimated at Resistance-Held Chokepoint in Kachin",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeDktbXdaRF9sc2hQRjNWc25XRU5lRjZSNmNBd1FzOW84eW1hQmNFMnk0WkRQRFQ0TmNxeE42MkVjNnY0SmZDQ0Q3WXo0V3pQclhqaFRUNFpSWDNZNmYtNS1OS0JBaFlJczktaUdXeXVYUXZmdjI0MW9iZFFQQTNkVXdDN2JGNmlldUN0ZFhLOTIteHRTSmU4UTh2NkZaQnUxbzU1ZEpWc09vdnhwSk1hRXdDODI5RVd2VWl6NE9sMWg?oc=5"
+  },
   {
    "ts": "2026-09-02T12:00:31+00:00",
    "title": "Chairman of State Administration Council Commander-in-Chief of Defence Services Senior General Min Aung Hlaing meets officers, other ranks and families of Kengtung Station",
@@ -2130,53 +2158,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYldXOVp6a01heEotY0FZbkJwUk5mbWFzWS1YMjlHQ05FT0pNcTI3cnQzcEdlZWFoY1FrU25wRENLUU5qYUcwVnF5bTlSMXZRMFlFSUVkM1VURzg0UU8tMUZacUQyNk5qQzE1bHpBdnlNdHdBUU5wc19fWGJVcjYxblQ4bG00MS16b21WNGxyWQ?oc=5"
-  },
-  {
-   "ts": "2026-08-28T05:30:18+00:00",
-   "title": "31 suspects arrested in Muse for telecom fraud, online gambling",
-   "source": "GNLM",
-   "markets": [
-    {
-     "market": "pulses",
-     "direction": "neutral",
-     "confidence": 0.5,
-     "rationale": "China border trade affects bean flows"
-    },
-    {
-     "market": "rice",
-     "direction": "neutral",
-     "confidence": 0.5,
-     "rationale": "Border status affects rice exports"
-    },
-    {
-     "market": "fuel",
-     "direction": "neutral",
-     "confidence": 0.45,
-     "rationale": "Border routes also carry imported goods"
-    }
-   ],
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdUN3VWlZXzB1ZlYtX1Z5ZGpkNks2cHNHRXB5T0xoQW9yZFBNczdjaTNERldsYmtWaU10MXQ1ZGF4dnpHR2QyY09LQ1hTQTJidkM5ZVNlQUd1RWh0VUs0anI5dkJMTFNaWV9YYnJUNkY4QzluakpqSDNlYWliR2ZWZEhIZGVLakNUb21mUnJDWTE?oc=5"
-  },
-  {
-   "ts": "2026-08-28T05:30:18+00:00",
-   "title": "Auto parts sector tops FX buying on online trading platform",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRmJTeE9sTUlVNW51QTVUTHdaQ2lyUzZNOWZJRGVVNWdpMzFNZnhzSnVkVlYxbFhpVmFQd2V2N1psSXRFYmFONGlDWml6R3BnNE1NNlk1WXl1TmwxbnZYdUN0MHBJS2RLem40amdMN01scXVWejAwOFAxMWkxMndBNFphUDhXbEcxdFloMg?oc=5"
-  },
-  {
-   "ts": "2026-08-28T05:30:18+00:00",
-   "title": "2026 Inter-State/Region Sepak Takraw tourney continues",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRHNsaGI1bUhPbWY1U1FndHhvZjlsNFRZQTdXLTgtRnViVHAzeXdvOEswUm4wcmdnUG9pZy1qLTB5RnBPTWxfVEU5WnpGWE5LcDl1cklJYlRPSXYzTXFXWF9QZFJ4dUJ3dWhnVXB5bHZnRkx1OXdsQlpTbjhGNXZCWFBFcUhTUQ?oc=5"
-  },
-  {
-   "ts": "2026-08-28T05:30:18+00:00",
-   "title": "‘The military is in chaos’: Cracks in the support base",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNlNQVG02VllUNWE3MF9xMTloV1FwdmE1VjY3LVNYaEczVTNBeUJxZWVPRkp4Z2NjLUc1OWd4ZXdJTnE0ZmZlcmlzYkdXdzhVWlJtZ0pnczFNcThxbFQ5RjhCMmlhXzRlZmdtNUFpR081WHFtT01WWUU2dVhDMm1tX1R4My11Wk9FWVoyVXJLVnI?oc=5"
   }
  ]
 }
