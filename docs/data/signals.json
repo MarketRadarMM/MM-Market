@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-02T01:30:21+00:00",
+ "generated_at": "2026-09-02T02:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-09-02T02:00:19+00:00",
+   "title": "တော်လှန်ရေးနယ်မြေများသို့ လောင်စာဆီ မစီးဆင်းစေရန် စစ်အုပ်စုက နည်းပညာသုံး ထိန်းချုပ်",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/80902/"
+  },
   {
    "ts": "2026-09-02T00:30:18+00:00",
    "title": "Rising daily visitors flock to Taungthaman Lake, U Bein Bridge in Mandalay",
@@ -2157,13 +2164,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9QMnJEYXQwVVBtNzlWbVVIdXB6dWYtR2pmM01uSEJNN19JUDV4elotRW5GQ0F1X3FoV3Z3djU1V1VvUWlodFd0dG82UHdvR0lp?oc=5"
-  },
-  {
-   "ts": "2026-08-27T18:00:22+00:00",
-   "title": "ကျောက်ခွက် Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWWdsYTlRUW1Qdi1CZkN5UEs5MlFsV0dCQXlkdE51NHFTWEFvX2NXODYtbzN5bC1YRlBUcFVIWkJBU2xCTElwaHo1cDZ2d1N2VFBuMkJlMkJZbWtRX2NRRTJjS2tDRmNUcHNxWXhNUERFS1NpWldmV0lmclNYOEFQMHN1QkZFbzBIbjVpem5lT1Z1c0JfZkQwMUNFSy1VcVp3d0dvV3RLSzd5YXpjTDhKZElGcERwUUE0eDdzY1ZKYw?oc=5"
   }
  ]
 }
