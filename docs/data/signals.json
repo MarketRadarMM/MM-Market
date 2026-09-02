@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-02T19:00:30+00:00",
+ "generated_at": "2026-09-02T19:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-09-02T19:30:18+00:00",
+   "title": "Asian Cup 2026 draw unveiled for Myanmar U17",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONzdYQ3kwSWpkSHJfUG9ZNlZyUm4yNXVlRThDNXpKNFVLVDVBRnk1TmVUUzVtZGhpaFY5MzVCY0E5RENFd0o5bEZRNl9HclhFM1hvVFZIMGRtTm53U0JpLU9qX2dlVVdpbmQzdVBsTl9nZnM4TEJ5UVRGTERRd2pfckF3dXF1NlNNalBXdGJtRUZaR2hmMFBGVnNWWDJaYUZQV0l5cmNCYnJWZw?oc=5"
+  },
   {
    "ts": "2026-09-02T18:30:19+00:00",
    "title": "Imprisoned Hong Kong activist Joshua Wong pleads guilty to ‘foreign collusion’",
@@ -2151,13 +2158,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xMF9qenpEYnFfeld3dTFqdDhDMzRBc2hzVXhjSzFwM1RDMm5HWTdqd1d2a3BKR3JOMnpwZ1gyc01SVmRPSXVMTTRHTl9mYVNxVXk1OE5WdHJMVE5RSXFBT0F5UWFlWkZzZldrd25Icw?oc=5"
-  },
-  {
-   "ts": "2026-08-28T09:30:18+00:00",
-   "title": "ရုရှားအကူအညီဖြင့် နျူကလီယားဓာတ်ပေါင်းဖိုတည်ဆောက်မှု လာမည့်နှစ် စတင်မည်",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/80805/"
   }
  ]
 }
