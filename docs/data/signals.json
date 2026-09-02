@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-02T07:00:19+00:00",
+ "generated_at": "2026-09-02T07:30:24+00:00",
  "signals": [
+  {
+   "ts": "2026-09-02T07:30:23+00:00",
+   "title": "Myanmar team departs early for friendlies ahead of 2026 AFC U-17 Women’s Asian Cup",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWWlGZWUtZ1ozTFdTSVNhZVd5bTB5OFBJRnN3UnFHVTVWeDhFN0paajZPWWZYaUxlakkwS2l1cHRDcUc3V1dRNkFQLVNZYXVuSVNQQWRVdHF2MElFVTJtLWlhSHNIb2Jna3RwT0FUX2xCRmpTYnlJZlYyTXpNYTlmMHNkQ2dzd0hSRzg3VDkyal9nM01DNDBEOWUtM0tuQUk4T0RaQXZ1Y1k5dw?oc=5"
+  },
+  {
+   "ts": "2026-09-02T07:30:22+00:00",
+   "title": "Cash-Strapped Myanmar Regime in Money-Printing Frenzy",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMm1tMnR2ZUx6UFdSaWtCQ0lIM1ZoSzhfLWhWSzZsMnhTaTZqZ0RjZmMzX1lMTUFjZFhUWjk1a1gybWhTRWd2cjdmdjhfV0YtZ041RkYwaTdiQ2JiMFZvZUN4Z0pPb1gyLWxOSWxBa0prZXlSeS12V0ZYWThTQ1hJVVRjanE1czZmd0YyUU9rTm5wZy1uYnNFSkJXQQ?oc=5"
+  },
   {
    "ts": "2026-09-02T07:00:17+00:00",
    "title": "Exclusive: Myanmar military proxy USDP postpones congress amid leadership rivalry",
@@ -2150,20 +2164,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRjlNRnlJcF81MEk1aUQ1RkpOdmNhNURvVlNRWDg0cG1MUnRZVVd2a1JVbXp0MnhPZWRSZEhJUGxNQ3pBNVRhSkRSLWQ1MlViRkdxd2RmY3hBVk9mMnA0dmN6R25lb3NTY1U4eUl5dWZQR0syVWtCaTg4NjVkbVNKZ2s1aw?oc=5"
-  },
-  {
-   "ts": "2026-08-27T22:00:23+00:00",
-   "title": "Cloud Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1sUExVMXJQYmdPSW83ZE8tU0hNMmN4aVdFNHo4NUtLV2NmYjh6VWtyZ1RlTUlOWERvZDd1N2stYW5ZQnRzRWxVNzAxNVVNZw?oc=5"
-  },
-  {
-   "ts": "2026-08-27T21:00:20+00:00",
-   "title": "Financial Crime Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1IY1lTdXZPYXhmVWViLWV6ZDNPMnFnN29QWFJYd09Zb0ZWVzY0T2FrV01TTjZHM2dIXzZuN0R0YWNFRlpTNG5wOGZsU3lwT2VmQjBPQ3RZV28?oc=5"
   }
  ]
 }
