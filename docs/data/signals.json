@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-03T13:00:30+00:00",
+ "generated_at": "2026-09-03T13:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-09-03T13:30:16+00:00",
+   "title": "အလွန်ပြင်းထန်နိုင်တဲ့ အယ်လ်နီညို ဖြစ်လာနိုင်ကြောင်း ကုလသမဂ္ဂသတိပေး",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c74ez9d048xo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-03T13:00:30+00:00",
    "title": "Myanmar Rallies Aid for Nepal’s Crisis-Stricken Communities",
@@ -2151,13 +2158,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkTEdCZ0NXenV2U2ZwMUFxMkZXODZXNXB1NUtGV1hieTZsS0txVzgxMWQxX3BTTlBXdzJ1eExxSEltam5FV2w4YlZXWDhMNng5bFpTaUlR?oc=5"
-  },
-  {
-   "ts": "2026-08-29T00:00:24+00:00",
-   "title": "Chairman of State Administration Council Prime Minister Senior General Min Aung Hlaing delivers World Environment Day address",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMldUN1pJenhJLTg2b0xZbjFoWHBIVk04VG5Sdmt4QXpaSk56OFlNWVVsc3dvcThyb1U0NHFTRkoxRGJtRHhvZU9WOEFaMzBkX0xxYXY5UDdidmUyQjdlZmQyYlhFMElhT2tlTEx3dmFpUU9aWFRrVjluMFhPLUJ6ZGNkT2RuZ0lSUUl1c1F3TjlqQ2NVT3Y2VFJGRkRPMXFBckNsUGlVeHFJeU5hZlJjVzdvLU5ZaVhUa0ZxWHV5LUxlcU0?oc=5"
   }
  ]
 }
