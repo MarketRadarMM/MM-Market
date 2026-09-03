@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-03T10:30:23+00:00",
+ "generated_at": "2026-09-03T11:00:28+00:00",
  "signals": [
+  {
+   "ts": "2026-09-03T11:00:25+00:00",
+   "title": "ငှက်ပျော Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQTFQMjVZV2Zfa2x6UV9nczQyYmxnMHdSZVprMTRRd0ZaREU1ZmxmQ3hPdWlTUkgxMXdIbFZWa1RQQ2ZXaFpPeW5HWkhaVTdzb1VHaEFJTkUyUmlSYXcteXNQOXNzcDJ0MHNWQTdWVHA4a2IzenE4cHV3N2d1YXVKbzBnOC1GVEhEN0xRY0pFdkpIZGNTQW1RdXFBWTJjakR2bks4dHdKRQ?oc=5"
+  },
   {
    "ts": "2026-09-03T09:30:26+00:00",
    "title": "- yktnews.com",
@@ -2151,13 +2158,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQjd5aXdjdHRXcXV4UWYtT1VxbVZXVklzQVlVY1EyOVNBVnd4M0U0UlVncllqVG5vNkJ6eFF6QlVWSWZGTlh5eUgwZnJ2RXdwVi1wZDZ3Smw5LTViTTY4eHBjeU1sWGl6cjVRYWg5TXN0Y0NXdDM4X0dhMDFPQ1JOYmtHak9QbkJm?oc=5"
-  },
-  {
-   "ts": "2026-08-28T17:30:17+00:00",
-   "title": "Lewe inspects completed village concrete road",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5SQkR6a0xBSEp3Wnctcy1wWWEzVFlyOW5YRFdPc1NVcXgtN1JGWmU5anluYTFOQlBGUlV3UnUzczNBVmw3YWhDbVhXWUhNRVduOEFyWENhUlQyWGcyVExkV0FXa1VhNS1NNzBpSkp5VXRoQ3dhVVYtTW13?oc=5"
   }
  ]
 }
