@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-03T18:30:26+00:00",
+ "generated_at": "2026-09-03T19:00:34+00:00",
  "signals": [
+  {
+   "ts": "2026-09-03T19:00:32+00:00",
+   "title": "Opinion Archives",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DWUNvWElfM3U1OXoxS2ExVFE1RzlPeG00Mk1hQXVIbWJtQ0N4MjFQT3RUVDlIbTNQQ2dueXEtSlR2OE9NbmhqRHpFczI4UTRFRGlR?oc=5"
+  },
   {
    "ts": "2026-09-03T18:00:23+00:00",
    "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing inspects ongoing undertakings for tourism development, greening and urban development in PyinOoLwin",
@@ -2151,13 +2158,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOU3N5ZnNsRl9KTnptT250b3N0akc5MmxGa1F2ZU85Y3k3d1FSaTYtQWFtelByR0tKTDFWam1fNGpmU1o0VmR1Y1hyY3NhNU0tSW93SXZpNWJrbWxHZFh3cVRhVmtxOVZjU29wTjVlYS1keGQwem5WdDhxRVhDNmRXOQ?oc=5"
-  },
-  {
-   "ts": "2026-08-29T05:00:20+00:00",
-   "title": "MoI facilitates land, power and market access for MSME entrepreneurs",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV0ZRdzlvUUFBZjczTTJNaTE2cEM0OVZleDl6SW1ZRzc0OWJ4dktmUkc3aU9QMGF3bXFpM2FENVR1Z0RsWUZyX2FHRXZSckltenhEZkljaFR6NzZDSTZjS2JoaTR2VzlrdXZleGE3LVVXczNINnhmRHdwbFdZWGxWLV9PMXY4RmQ5Qmx6OFhPTWtreVNnZndj?oc=5"
   }
  ]
 }
