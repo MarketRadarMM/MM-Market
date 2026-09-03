@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-03T03:00:27+00:00",
+ "generated_at": "2026-09-03T03:30:23+00:00",
  "signals": [
+  {
+   "ts": "2026-09-03T03:30:22+00:00",
+   "title": "3 September 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rdDZfbGRTZGF0MkNLUjhoQmRlSjRGMWpIS1gzeHlEM2Z2U283Z0pSQl8xWXc3S1d3OUdocG5KSEQ2VDBQb0JlTEgzSG9XWTgwTldR?oc=5"
+  },
+  {
+   "ts": "2026-09-03T03:30:18+00:00",
+   "title": "မန္တလေးမြို့ပေါ် မှာ ကျားဖြန့်လုပ်ငန်းသံသယနဲ့  နေအိမ်တစ်အိမ်ကို စစ်တပ်နဲ့ရဲ ဝင်စီးနင်း၊ လူ ၁၀ ဦးဝန်းကျင် ဖမ်းဆီး",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.co.uk/burmese/live/c6wyzjrk1j0pt?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-03T03:00:27+00:00",
    "title": "Labour exploitation undermines workplace unity and cohesion",
@@ -2144,20 +2158,6 @@
    "source": "Frontier Myanmar",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTHFLcS02cENlbmkwajFJVENFajVHNC1HSUNYUjNsX3F5SkRuVnA3RlUyUlFNR3J4cS1uaEhRMGxBRDZFaW02R2Y3aVpETlVab0h4MFJBWjVpaXY0MUZVS0pZMmItQ3p5ek1naWlnWmVram0zS2o3ZlExZDNMNGpDVzhnR3pmOExQQWc2eUlBdF9NcFBQN0dV?oc=5"
-  },
-  {
-   "ts": "2026-08-28T14:00:22+00:00",
-   "title": "MoU migrants in Thailand facing increased rights violations",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUkhmTUZmMERyV2tGZHpmTUNfTzJPR0RUTE9GNGhPTHpyQWd2a2NEZVVxc203YjA4bWlpZU92emRaQk8tNTV6Z1ZfRU4xX3QxVVBIaWJ6bEc0Tk0zOEZGZEVtT3FCS2NBRDFtYmdYakxvVDRZSXVhT3ZlVXlUR0k5WFl4UUZfOU43YXlnVmxSTVhXVkhYTl9OalR4UQ?oc=5"
-  },
-  {
-   "ts": "2026-08-28T13:00:20+00:00",
-   "title": "84,000 flower stupas grace Shwedagon Pagoda for Metta Day",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN2d0VXNWRUdkaGdKWXhnOENrNlVfZThhdEt5R2ZiVTZtNnVVNFd2WFFPVzhuc18xdVpsVWJRbTZQajNyX3cwUUVNbXZDVnRsVmNyTHFHTy13emRmOHZsX2NoWk9wQldTaFhtdV9GNzl6TWkwaFJRQXlUaFBWWXA1UVozeFpyM1dS?oc=5"
   }
  ]
 }
