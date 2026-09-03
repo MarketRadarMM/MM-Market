@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-03T02:00:25+00:00",
+ "generated_at": "2026-09-03T02:30:22+00:00",
  "signals": [
+  {
+   "ts": "2026-09-03T02:30:21+00:00",
+   "title": "Only3400 YBS buses available for commuting 1.8million passengers daily",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWC1rNnVTaVF0Y295eVdKbk9QU3VzSXJ0MEdjQmg1N1dSWkhaVmcwWDljQ05oVzIxMTBOQ2lFb0xTWTZlRjAyUlBfUmRNMW56dnFvRFFmeWFaUE5JMTNwd0xWM21ieDdwWXQ5TkNVVVR0RWl3RjUwNXBPYUNfUlV1blk0REdwUGFGdzh4RmlVZDRRMEJ1cjRGZ0t4QQ?oc=5"
+  },
+  {
+   "ts": "2026-09-03T02:30:19+00:00",
+   "title": "ရေဘေးသင့် ခင်ဦးမြို့နယ်တွင် ကလေး ၁၀၀ နီးပါး  ဖျားနာ၊ ဝမ်းပျက်နေ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/80942/"
+  },
   {
    "ts": "2026-09-03T02:00:24+00:00",
    "title": "Lend a hand to persons with disabilities without discrimination",
@@ -2144,20 +2158,6 @@
    "source": "Khit Thit",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Ka1JMTWtYM0tvbExHcmlHM2M3RWxoZGh1aERhMDdYVjdQSm1wN0Fmb2IwbjhFcnNESkRXWEN0b3o4WHFvUHk2cFN1UQ?oc=5"
-  },
-  {
-   "ts": "2026-08-28T11:30:17+00:00",
-   "title": "Regime Attacks Surge Around Russia-Backed Dawei SEZ",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPci1ZTUVJMDc3RkJ1d1g3dkRMcHhtbE1hZXhWQjdsSlQ1NnRtLWx1V2JYS1J2Q0ZGQ2VZa3M4ank4bi1oTklISmlrQUlKTHNBeFNvMnBZVUZmMEFrLUtCc1NKR1FSdGxQWFM2bkVZeGJuYVNGeC01UVB4OWNEbjBGZVMzOGx1WTlybWR2VlVnZmc4U0JtUjVodA?oc=5"
-  },
-  {
-   "ts": "2026-08-28T11:30:15+00:00",
-   "title": "\"သူတို့ကို သေမင်းဆီ ကိုယ်တိုင်ခေါ်သွားခဲ့သလို ဖြစ်ခဲ့ရတယ်\"- ရုရှားရဲ့ တိရစ္ဆာန်ကာကွယ်ဆေး အကျပ်အတည်း",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cj4jvvn4nd7o?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
