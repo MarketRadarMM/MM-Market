@@ -418,5 +418,76 @@
     "posted_at_mmt": "2026-09-03T15:48:44+06:30",
     "source_label_my": "လူမှုကွန်ရက်မှ စုစည်းသည်",
     "source_label_en": "community-reported"
+  },
+  {
+    "source": "community",
+    "fetched_at": "2026-09-03T14:45:21.869484+00:00",
+    "status": "ok",
+    "confidence": "amber",
+    "posted_at": "2026-09-03T12:28:49+00:00",
+    "post_date": "2026-09-03",
+    "age_hours": 2.3,
+    "labels": {
+      "gold_16pe": {
+        "my": "အခေါက်ရွှေ (စနစ်ဟောင်း)",
+        "en": "Pure gold, old system (16.606g)"
+      },
+      "gold_15pe": {
+        "my": "၁၅ ပဲရည် (စနစ်ဟောင်း)",
+        "en": "15 pè yay, old system"
+      },
+      "gold_16pe_new": {
+        "my": "အခေါက်ရွှေ (စနစ်သစ်)",
+        "en": "Pure gold, new system (16.329g)"
+      },
+      "gold_15pe_new": {
+        "my": "၁၅ ပဲရည် (စနစ်သစ်)",
+        "en": "15 pè yay, new system"
+      },
+      "gold_16pe_buy": {
+        "my": "ပြန်ဝယ်ဈေး (စနစ်ဟောင်း)",
+        "en": "Buyback, old system"
+      },
+      "ygea": {
+        "my": "YGEA ရည်ညွှန်းဈေး",
+        "en": "YGEA reference price"
+      },
+      "wg_usd": {
+        "my": "ကမ္ဘာ့ရွှေဈေး",
+        "en": "World gold (USD/oz)"
+      }
+    },
+    "unit": "MMK per tical (ကျပ်သား); ရောင်းဈေး unless marked",
+    "values": {
+      "gold": {
+        "gold_16pe": 10210000,
+        "gold_15pe": 7100000,
+        "gold_16pe_buy": 10090000,
+        "gold_16pe_new": 9980000,
+        "gold_16pe_new_buy": 9920000,
+        "gold_15pe_new": 9390000
+      },
+      "fx": {
+        "USD": 4380,
+        "THB": 132.5,
+        "SGD": 3441,
+        "JPY": 27.78,
+        "AUD": 3121,
+        "CNY": 650
+      },
+      "wg_usd": 4420,
+      "ygea": 7100000,
+      "fuel": {
+        "MDY_92": 3865,
+        "MDY_95": 3970,
+        "YGN_92": 3710,
+        "YGN_95": 3815
+      }
+    },
+    "source_disclaimer_my": "ခန့်မှန်းဈေးသာဖြစ်ပြီး တစ်နေရာနှင့်တစ်နေရာ ကွာဟနိုင်ပါသည်",
+    "source_disclaimer_en": "Estimates only; prices vary by location",
+    "posted_at_mmt": "2026-09-03T18:58:49+06:30",
+    "source_label_my": "လူမှုကွန်ရက်မှ စုစည်းသည်",
+    "source_label_en": "community-reported"
   }
 ]
