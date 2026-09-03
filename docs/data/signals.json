@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-03T20:00:21+00:00",
+ "generated_at": "2026-09-03T20:30:28+00:00",
  "signals": [
+  {
+   "ts": "2026-09-03T20:30:26+00:00",
+   "title": "Guest Column | Together We Build: Mural Celebrates Migrants’ Presence in Thailand",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORHh3R0Q1aGRtNDNpOVBVcHptOWNwOXpKSlNUQ1ZhM1FNSXMteWxYdVZFV3I4dWJ4b0dCMmtKMHBzR1VRWWZsV3dwNTl2WldxaFFxR21pTTRwODNzSThyRWd2ckw0MUJEVW9BbC1DSnRTcXBIaGJyc25mdndjSVZsMUlUUnlwWFd0Yk16RDVSNVE1SEVTdmY3N0wyRXE4R21WM00xZzRFMnNkSmRuOVZtQUdYVEFwbVk?oc=5"
+  },
+  {
+   "ts": "2026-09-03T20:30:26+00:00",
+   "title": "Over 40 Civilians Slain in Regime Rampage Near Bagan Temple Town",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeXFUT3c5clBRR1JZTDlPN2RZeVYwQzY1b3RQaUlsZW5LcURMQjBmOGJrSXFmNExmMjJXQU8wTUVscVlHVHh6LVJVdUlmb01mdmFsY3F4bHhwXzY2RVEtTnlrTUluT202Rk4tZ0N2ckNlVUwxdlI1d2d5Wkt0MFBCR1FZMlZhT3lMdEFWWldnYVlyZ0wycGJTMWJRX2gxUXRxUkRpeklkTDFhdw?oc=5"
+  },
   {
    "ts": "2026-09-03T20:00:20+00:00",
    "title": "Beyond the Numbers: Why Regular Blood Pressure and Blood Sugar Checks Matter",
@@ -2144,20 +2158,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zb3dlTFJtbldBZzNiMjJPWVJKamhyWmxzV1l6eVRobnhTSEIyS051MzgySGZJcUY5TjVrMW5kSGYteFExTUZMMjB1UmRXZHJYZHJGM1pQYUg0X0pNNnNQVnMtM24xUHhicVI0c0hB?oc=5"
-  },
-  {
-   "ts": "2026-08-30T00:00:22+00:00",
-   "title": "Thai, Myanmar military chiefs meet as post-coup thaw progresses",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT1JJSVdLd2E1VEFWMlNMa1h2YkctTUlJX1VheUZjRkJGeTRja3BEN3hObW5jd1BJbjJFQ2w4LXQ4WmhYZFY3SUZ6d3hxSURqZGJ2NFYzOXYxOHgwU0JmMC1GY21GMzhFNkN3T29ERFE0dnZxRHFuTC1rOGFkcGtlQWxwN2p4QlN2eTl6azBhQjdIaGVDNVR4RkxjbVNzYXc?oc=5"
-  },
-  {
-   "ts": "2026-08-29T23:00:18+00:00",
-   "title": "USSAbrahamLincoln Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fRV9ORTZ4X2p3V2ZMM1h1MkRSendPS21pTzVybFVOLXJDeWxQQy1PdWtGZmlXX2ZsV3A5U1loRVJuUWg4R25sWGJ2d3lWaW41c0ZqUzRyNm1nWGRRQ0E?oc=5"
   }
  ]
 }
