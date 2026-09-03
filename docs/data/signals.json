@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-03T04:30:18+00:00",
+ "generated_at": "2026-09-03T05:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-09-03T05:00:21+00:00",
+   "title": "Ethnic Issues",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tWW5hTmJpR1IxNkdsbThyY0E1aFFLMzdDRW9NdzAtRkZ4cGxwZmhuems1UzRMZ3l2RE9zTjFZOFdtRElpQzNVMVY2aGhlTHBKZWFtanJSOHdTdC1Lc2MtMEdhZw?oc=5"
+  },
+  {
+   "ts": "2026-09-03T05:00:21+00:00",
+   "title": "Politics",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DZzYtdWJpX1UzR1BndVlZSl9zZ3RLNHdOV2RxV1RRSG1GZ0V4ZTA5RlJUNU5Dc2x5aG4yVXVHY3ZxbXJ0VTlnNFM2eHYybmQ0bVA1RHRsRm5LcW1L?oc=5"
+  },
   {
    "ts": "2026-09-03T03:30:22+00:00",
    "title": "3 September 2026",
@@ -2144,20 +2158,6 @@
    "source": "Frontier Myanmar",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQU3BmS1d1UktYYVkzOEF2QlBManFoYkZCMUhKSGxHdzdYWFU1VXBpMnJVZ2JtcFVOSlh0VGhfc3U5QVZGTi0zbGx1WnJ3ZGhJYjVYMVRmaGR5UnNWVlE3ME5XWGNpTlVUdVdsN25IVzBPYm1XaVN1OFFJR0E2Ul9WNjgwS1pvWmdhMHJDd3h4OVhTcnpNVFo3NU1wVHp5UQ?oc=5"
-  },
-  {
-   "ts": "2026-08-28T16:00:20+00:00",
-   "title": "Malaysia to repatriate first group of Myanmar nationals in September",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOak5GcHhaRDR3T1lZaEI1UFQxY2c1STVwMGRNNHNTU1hYUFBpdHM5bTNvamFucGo4Vi15dDVDNjNIVXNQN3llWjZaTk9TREpkZlNrTkpucExBYmZkSnRELXFsUWhyR0wtR3hQSEw4N2cwTUs1bWlXYjNDaHdqcTdZS0pVRGl1b09FNVdPc3ZkeWVncXdLbTFfQ2VWVnFaeU9qa2FseGgxUQ?oc=5"
-  },
-  {
-   "ts": "2026-08-28T16:00:20+00:00",
-   "title": "Cambodia has nothing to gain from Min Aung Hlaing’s visit",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTHFLcS02cENlbmkwajFJVENFajVHNC1HSUNYUjNsX3F5SkRuVnA3RlUyUlFNR3J4cS1uaEhRMGxBRDZFaW02R2Y3aVpETlVab0h4MFJBWjVpaXY0MUZVS0pZMmItQ3p5ek1naWlnWmVram0zS2o3ZlExZDNMNGpDVzhnR3pmOExQQWc2eUlBdF9NcFBQN0dV?oc=5"
   }
  ]
 }
