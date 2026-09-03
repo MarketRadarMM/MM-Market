@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-03T01:30:25+00:00",
+ "generated_at": "2026-09-03T02:00:25+00:00",
  "signals": [
+  {
+   "ts": "2026-09-03T02:00:24+00:00",
+   "title": "Lend a hand to persons with disabilities without discrimination",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNa2VQV3BmTDRza3pHLS03X3lUYnpqOUQzTUx1WkdnY0VIR0c2M081OTdNZVg3RmY5MTFFMXp4OE90bDhOekhhbGdRUVB3Q3gtN3c4d181aklTcmNOUV9fUlFMSkRoUzRYeFBYR1Q5VTBxby1EY2NvamRBVzU1MWpEOUNmRUJwWmZsUGFxMXRNSTV3QQ?oc=5"
+  },
   {
    "ts": "2026-09-03T00:30:24+00:00",
    "title": "မြန်မာနိုင်ငံရှိ ရိုဟင်ဂျာများနှင့် လူနည်းစုများအပေါ် လူ့အခွင့်အရေးချိုးဖောက်မှုများအတွက် မြန်မာစစ်တပ်တွင် အဓိကတာဝန်ရှိဟု ဗြိတိန်အစိုးရက ထပ်မံပြော",
@@ -2151,13 +2158,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/cj4jvvn4nd7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-08-28T11:00:21+00:00",
-   "title": "စစ်တွေ ရိုဟင်ဂျာ ဒုက္ခသည်စခန်းများတွင် ဝမ်းရောဂါကြောင့် ၆ ဦး သေဆုံး",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/80811/"
   }
  ]
 }
