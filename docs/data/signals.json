@@ -1,6 +1,41 @@
 {
- "generated_at": "2026-09-03T11:00:28+00:00",
+ "generated_at": "2026-09-03T11:30:28+00:00",
  "signals": [
+  {
+   "ts": "2026-09-03T11:30:27+00:00",
+   "title": "14 schools temporarily closed in Bago as river level reaches above danger mark",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUi01RGdXZm14R3oyRzZNSWNvaFBWaXZBYUdfa0ZmZENEdGlyNVhMdXRxZkhiZ2F6QkFhejh1MEtnYng4TEstUHhKQjhaWnphcVl2SDdQeVNEM3NpZUdyTDlfYThVQktzSUJPbGlRTldWX05URXY0TFZwWER6VW9DUmNSSmk0alU2eUZmM0EyVThHODRJSmVNX1Q0QnA2dFkwWnM4ZDZn?oc=5"
+  },
+  {
+   "ts": "2026-09-03T11:30:27+00:00",
+   "title": "3rd Yangon Baby and Kids Fair to hold at Myanmar Expo Hall",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNT3FYTFlqdFdDSXF3VXNlcXhfU3lENUVVN0Y5MHFZQ1o4TDB0WjI2WmJxVFpmUExucS04djNOSVlRekJsMlBQb1FOaDlvYWVXeWdud1RqOUdjU0F3RnNVR3gyRVU1QTVXZjlFRnJ1M3NxQk5vd2RqSHpmQmJwOXZmdUlmRUdmRmFNUDRJ?oc=5"
+  },
+  {
+   "ts": "2026-09-03T11:30:27+00:00",
+   "title": "Floods may ease in some areas as rainfall is likely to decrease",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNWZCdmtRY2tiZ0diUncyN0VrZHNkUTZrbjJsV0xDRWFGU1Y2TlQ5X1Y0aXdMRFZCUkEyNmJ4RThFblJOT0dCOWE4QkZSWTlFSVJhRHhBVmNvTXB6SEgxbXBOZjZBY3BEZ1RFVW1YVDUwVG1nN1p1TWdQdHd1d21TNWk4WWgwejVqY2VRSllwTXpkdw?oc=5"
+  },
+  {
+   "ts": "2026-09-03T11:30:27+00:00",
+   "title": "Bamboo expert to conduct online class",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Hb1h4N1gtR0t2dFFBdXl4Q3Z2czdmUnJyQlJqbmpSY0VpTWwxWUxic1J1UVZ6bkFmdDZscE5HTkhianJwcjd1aENHc215RWs2UHA3SFVVeVNITE43NzRGNVpaUHBLenZaRWhxVVB5dw?oc=5"
+  },
+  {
+   "ts": "2026-09-03T11:30:25+00:00",
+   "title": "Myanmar junta airstrike kills at least six in Karenni State’s Mawchi mining region",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/myanmar-junta-airstrike-kills-at-least-six-in-karenni-states-mawchi-mining-region/"
+  },
   {
    "ts": "2026-09-03T11:00:25+00:00",
    "title": "ငှက်ပျော Archives",
@@ -2123,41 +2158,6 @@
    "source": "Khit Thit",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1MZmsyNmdwd284RFJYYVFPOWxrRmlUN2txOGI4M0YtOTRIX0tRRWctUU56SE1BWEJtaUdEbWxzbWt2VEV3cGxKcjN3?oc=5"
-  },
-  {
-   "ts": "2026-08-28T22:30:21+00:00",
-   "title": "What the West Gets Wrong About Myanmar’s Politics of Fear",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZGhoc1dQamhuRk9wS2NOZk1YYjlIbm1LLWJ3OEd2d0tGNjRkd0NoTzM1LW5ZQmVwV2pWT0xiTWZrRk51V2t5OHpRV1lUUEoxQzhONG5rWHdwSzV0TWl0SktRTGdqbnBoYlVFNm9UTTJ5azBsb3Z2YXdYTTFZOXgyN2h4cS1FNG9UeWExczB0eXhKY0NITjVPcVRRTGo3STA3YWNz?oc=5"
-  },
-  {
-   "ts": "2026-08-28T18:30:22+00:00",
-   "title": "Vice President Daw Nan Ni Ni Aye delivers address at the opening ceremony of the Tastes of the Golden Land-2026",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOGVUTzcwaGF2MGphVHA1T3NBVVNiYS1iaWpWX3BDMzEwaTJrOTZUTkJKVHJEXy1sWDdqR0JtSjRpUFlFTFpRVjVmT29lTC1yNHU0eU5GRjJJTEFlWllhWnVlNFM4OWxZbVJxSDRzcUtRNWhuVVhvNDloTnYtOGwwQlJoUHJBWjhXd2lDSFZ4aXlPWW9TdkhJbGI4X2Z1cE8xRklNdTQyMEhBWGtwM1NlV0g1RDFZdEV5?oc=5"
-  },
-  {
-   "ts": "2026-08-28T18:30:20+00:00",
-   "title": "အဆောင်လက်ဖွဲ့ Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcEoxQ29TaFFqdUV6Z1lmaHFLbVY5c1JyV2JPaDhXbUktc3M1UmhyaGxHbU0wNTZLM3gzaGN0RlNDcVRGQVlwbmZLMnJJVlNHdDg3NmdRWmZBcHlHUWpWVXcwcURoRHhncGEzbjQxZkctWnc3SkRIVnh0eXZ6RVo0cGIxQV8xcUh2V0hfMll5amdZZHVaSDlOcm5nUUJlb3NOM0RQUEc4TjRIVjBNRkRoOHl5cXV0TDJ3Rm55QnM0UHBmY1BMazNWVkJXaXZTcTl4SG1kY0hvbTJTMl9yamlrR1dBSQ?oc=5"
-  },
-  {
-   "ts": "2026-08-28T18:00:30+00:00",
-   "title": "Deadly flooding",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OY1pDVnNIYXFmT29zU0tqWklja2dVbFR3TWY2REMtMXdrMlJ0ZmZ2M2txRnFKRmZTQmNkeG80ajhhbGhHQzZncWQ2OTlscWQxRW5OZWs0YUpORWh5TUd2RQ?oc=5"
-  },
-  {
-   "ts": "2026-08-28T17:30:17+00:00",
-   "title": "Pindaya’s MSY village project introduced; committee formed",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQjd5aXdjdHRXcXV4UWYtT1VxbVZXVklzQVlVY1EyOVNBVnd4M0U0UlVncllqVG5vNkJ6eFF6QlVWSWZGTlh5eUgwZnJ2RXdwVi1wZDZ3Smw5LTViTTY4eHBjeU1sWGl6cjVRYWg5TXN0Y0NXdDM4X0dhMDFPQ1JOYmtHak9QbkJm?oc=5"
   }
  ]
 }
