@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-03T12:30:29+00:00",
+ "generated_at": "2026-09-03T13:00:30+00:00",
  "signals": [
+  {
+   "ts": "2026-09-03T13:00:30+00:00",
+   "title": "Myanmar Rallies Aid for Nepal’s Crisis-Stricken Communities",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWnVaX2FTcnB6UGk1bVE3QkxfNTdrdzJBRDJ1eUFmRjJvNkN2VC1TcFhzZ1dydUR3dVdvX0E2OGwyRW1PQ3dEYXpkaFFOV3B5blJWamRZOEQ1UG9WNkp6RU5ZRU93NVhrZ0RScHM3UjRoV01hQnUzbkwyZ3E0VTFydE52OFZrQTdnQXFJ?oc=5"
+  },
+  {
+   "ts": "2026-09-03T13:00:30+00:00",
+   "title": "143rd PhaungdawU Pagoda Festival set for Meiktila",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vY2tvcHJRSGI1VEpObk1XWVQ3OHpNLWlfR1c0UktxMTU0aEdCM1lpb25iSVlrdXRrVnJPYUsxZ3BDWkd0VmJMaGxvS3pkeXVfX1BpSFpKMUxQN0RrTjljbTFZeEhZdmVUZWlNUXppSDRyUVczLTFGX2J6UE9HZzg?oc=5"
+  },
   {
    "ts": "2026-09-03T12:00:22+00:00",
    "title": "‘Hard to breathe’: Myanmar communities forced to live among world’s trash",
@@ -2144,20 +2158,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMldUN1pJenhJLTg2b0xZbjFoWHBIVk04VG5Sdmt4QXpaSk56OFlNWVVsc3dvcThyb1U0NHFTRkoxRGJtRHhvZU9WOEFaMzBkX0xxYXY5UDdidmUyQjdlZmQyYlhFMElhT2tlTEx3dmFpUU9aWFRrVjluMFhPLUJ6ZGNkT2RuZ0lSUUl1c1F3TjlqQ2NVT3Y2VFJGRkRPMXFBckNsUGlVeHFJeU5hZlJjVzdvLU5ZaVhUa0ZxWHV5LUxlcU0?oc=5"
-  },
-  {
-   "ts": "2026-08-29T00:00:22+00:00",
-   "title": "Marianas voices demand a seat at the table in U.S. seabed mining proposal",
-   "source": "RFA (EN)",
-   "markets": [],
-   "url": "https://rfa.org/english/pacific/2026/08/28/cnmi-mining-supply-chain-minerals/"
-  },
-  {
-   "ts": "2026-08-29T00:00:21+00:00",
-   "title": "အပစ်ရပ်ဆွေးနွေးရန် ချင်းပြည်ကောင်စီကို စစ်တပ်ချဉ်းကပ်",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/80820/"
   }
  ]
 }
