@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-03T00:00:27+00:00",
+ "generated_at": "2026-09-03T00:30:25+00:00",
  "signals": [
+  {
+   "ts": "2026-09-03T00:30:24+00:00",
+   "title": "မြန်မာနိုင်ငံရှိ ရိုဟင်ဂျာများနှင့် လူနည်းစုများအပေါ် လူ့အခွင့်အရေးချိုးဖောက်မှုများအတွက် မြန်မာစစ်တပ်တွင် အဓိကတာဝန်ရှိဟု ဗြိတိန်အစိုးရက ထပ်မံပြော",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBGQzZwMnpwUzk4THAyRWtQbzBYcnFJRk1VTUgwb2RLXzJYY3daSHRKUXpiMDl6ajB1dDNnYWhTS3lvYnU1dGZ1ejlvOA?oc=5"
+  },
   {
    "ts": "2026-09-02T23:00:21+00:00",
    "title": "Kannavee Suebsang Archives",
@@ -2151,13 +2158,6 @@
    "source": "Myanmar Now (MM)",
    "markets": [],
    "url": "https://myanmar-now.org/mm/news/80811/"
-  },
-  {
-   "ts": "2026-08-28T11:00:19+00:00",
-   "title": "ကြံ့ခိုင်ရေးပါတီညီလာခံနဲ့ အာဏာလွန်ဆွဲပွဲတွေ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c5yj36z4dwzo?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
