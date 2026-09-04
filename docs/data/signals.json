@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-04T08:00:22+00:00",
+ "generated_at": "2026-09-04T08:30:26+00:00",
  "signals": [
+  {
+   "ts": "2026-09-04T08:30:24+00:00",
+   "title": "Business | Samsonite Bag Factory in Myanmar Shuts Down Over Trump Tariffs",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVEZDNzctZnJ2eG5xYUc4V2QtQ25aV0xiRXc0RTJwbzdaRE55bnd1MGxrVEw2QTRWNzhvbWVwZ3o1aWprQ1pYdXNJbHVLUUx5cFJzX1FZRU5pVnFwNFQyQ2g2d3l0a0d1Q29PbTdvaGJRUWQ0VDFISTNOTTh2YkM4YjUwTEgzQWdUSl9Ia1c4OEdkYkFRb1AwOFVKOF9aeGlZZVozSQ?oc=5"
+  },
   {
    "ts": "2026-09-04T08:00:20+00:00",
    "title": "Pro-Democracy Group Demands Political Prisoner Release, Rights Protections as Junta Forms New Govt",
@@ -2151,13 +2158,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QX0VnY3dLSUR5Z2Z4QU5jbmxsdkZMSVJCUWVSandIRHpLejZOM3d2X0Z0R1RqaERGc09LdmFaQ2toUm9HMjdHSmRHclVJT1lsOWJkeGFfSVdhcXc4S0JiUTlWbjcyN2xGMW4wTERnYw?oc=5"
-  },
-  {
-   "ts": "2026-08-30T17:30:16+00:00",
-   "title": "Rangoon Thingyan water festival 2015",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mYkltcWt0TWhvVEpvVV9jVzE1bVlURTFkNmJpU3g0aDV6RWhjSS1yYWt2Y0loUVlTdDFPNUhfMlYweGVVQUQ5M25rWFlfaVh2YnpLdGtaSVZMV2NKSERmYTlLYzJBbHUyVzRzQnlRMA?oc=5"
   }
  ]
 }
