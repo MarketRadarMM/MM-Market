@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-04T01:30:19+00:00",
+ "generated_at": "2026-09-04T02:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-09-04T02:00:20+00:00",
+   "title": "ASEAN’s humanitarian problem: A view from the ground",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUXMxRTFrOXI2QUtCMnRRSkRPOExLMkJLMXpyNlVtZmRjSF96WW1kVFFKLUdMRlhDLXU4MS0zU2ZNN1ljTkJiQmpRRS1PUy1DbGNpMDBaTDRfQ3B6LVRWbHZGak1HSnVpZXgtQXVMdHZGSFZHbFFDOXlSb0ZjRWJwOURSc3AtTFNXREpjemRVYw?oc=5"
+  },
   {
    "ts": "2026-09-04T01:00:20+00:00",
    "title": "Vice President Daw Nan Ni Ni Aye attends and delivers remarks at the opening ceremony of the 2026 Myanmar Traditional Food Competition and Exhibition (Mandalay)",
@@ -2151,13 +2158,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ybzBDUlJKV2FnbWx5dEowdjR1TWZTelRmX19vRUdMaUdySERqVkduYnpfb3d2WmYtX1E0QlZjX3NPZmtWWm53aWRLcllBMGJzVGQ4T0I3Z2Q5X2FEdjZDVXZXbmRQa2I5NWx0N21R?oc=5"
-  },
-  {
-   "ts": "2026-08-30T06:30:14+00:00",
-   "title": "နီပေါရေဘေး သေဆုံးသူ ၇၀၀ ကျော်လာချိန် မိုးနဲ့လမ်းပန်းကြောင့် ကူညီရှာဖွေရေးအခက်ကြုံ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cddv6ny7dgzo?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
