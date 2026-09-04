@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-04T13:30:23+00:00",
+ "generated_at": "2026-09-04T14:00:26+00:00",
  "signals": [
+  {
+   "ts": "2026-09-04T14:00:23+00:00",
+   "title": "လိမ်စဥ် Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTEY3MEw5QlV4TVVNbnlCcVhaWlJwcWhqcW45eTRBU00zcjYwbWxaYWdqQTd0Ri1DaldqNDJGRU9MYUJ3OGRrb2dvcTJTNjFqQzVyRDRWVUtZX2pPRFpYamRsM0lhZkxtSF8xTmYwTXFWLVh2OUdpZHdIUV9uRnpSSjZEWkhWVmh3RmE4LW5BWjcxNWpoREhzclprQQ?oc=5"
+  },
   {
    "ts": "2026-09-04T13:30:17+00:00",
    "title": "LGBTQ+ ချစ်ဇာတ်လမ်း - မြန်မာက လိင်တူချစ်သူတို့ရဲ့ စိတ်ကူးယဉ်ကမ္ဘာကို အာဏာသုံးဖျောက်ဖျက်ပစ်နိုင်လား",
@@ -2151,13 +2158,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN3poZDJDdmh4YTRJQTRKMEU2NlZRSFhrb3VUWGhjc1VqUFdtLW50ZW9KdmxBWlU3Uy1SY2tNanlHdFJkQUt0ZkZBa19tWmRwTEhDYjA2bFJHd3NlM2gwWk9MOVhEWkNQaV9BTXJQZldGT3VYR2hteVZPbTdlemdBVlIwVmNCb1pMYzBZcFNXMXkya0Nsc25JTHVUSU5uS2ZFZDNtdUF4OA?oc=5"
-  },
-  {
-   "ts": "2026-08-30T23:00:28+00:00",
-   "title": "8.4 Power of a lens – Page 236",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Ta3pURlNJR1dBTDFTYS16WUxvM2hMM3dXUENrbV8tQVgyNjcxbUhvcjlLWUhQLU9xRUVKZ3RqQUMtNXl0Sk5EdUNzclFxVFprM2tLemZiYUVBUlQyRkZWU0Y4SVdiS0N6ODkxWGlTQTY1Q1laNFE?oc=5"
   }
  ]
 }
