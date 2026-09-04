@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-04T15:00:23+00:00",
+ "generated_at": "2026-09-04T15:30:26+00:00",
  "signals": [
+  {
+   "ts": "2026-09-04T15:30:24+00:00",
+   "title": "War Studies Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1WZFVhRi1rNkUwcW1fdDNxb2dRQ05vWm1ra2xZR285VzhYNXp0YXdRNDZpcFg0YTVmMi1XZ3lSRWQ3b0dJcU5sWXBSX1haczlUcVlN?oc=5"
+  },
   {
    "ts": "2026-09-04T14:00:23+00:00",
    "title": "လိမ်စဥ် Archives",
@@ -2151,13 +2158,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBZTFNmNVA3cDBCOWc2VEY3cDJMS0NaSnNESEp1eUtzd2plc0EtZmpvQ2ZiTE9pd2VQVW5pOTlaVGgxZ2g5VDZWQTlVcFo?oc=5"
-  },
-  {
-   "ts": "2026-08-30T23:30:18+00:00",
-   "title": "Temporary interruption in water distribution expected in Yangon’s some townships",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN3poZDJDdmh4YTRJQTRKMEU2NlZRSFhrb3VUWGhjc1VqUFdtLW50ZW9KdmxBWlU3Uy1SY2tNanlHdFJkQUt0ZkZBa19tWmRwTEhDYjA2bFJHd3NlM2gwWk9MOVhEWkNQaV9BTXJQZldGT3VYR2hteVZPbTdlemdBVlIwVmNCb1pMYzBZcFNXMXkya0Nsc25JTHVUSU5uS2ZFZDNtdUF4OA?oc=5"
   }
  ]
 }
