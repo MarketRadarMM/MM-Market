@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-04T18:00:22+00:00",
+ "generated_at": "2026-09-04T18:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-04T18:30:20+00:00",
+   "title": "Myawady Daily Newspaper 26-3-2022_compressed.pdf",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOY3JtWkRpOEtOWXZEeThfR1ZqUklFUDhHdDdJNlU2OXpkal9SM18xWko3MmxUa0ZNcnFZTV95OTRvb0RpTEZTS01JcjQyTmpXQUY4WGI2d2Nia3pNcVJRaVRpRUJkY1dqb3hiQXVpTjJXUlk1UDE1R1lIeXZkNFNKT0RBZktTTzN6RWV5RnN5akg0U2VGUnlOVVY0dWhDbDRVZmhPNlY2eUFBODNKY3A4aU9lS3pQQ29NTDdLcmpUOWJWREZXdG9HNldjWXpmMHB3NlhJODRmVFFTdkYwWGxYQzlHdDNLNnVQOF9KMkRma29vRFE1b1V0RzlpRHdWQlRyWTI2N29QMlZobkhGYURrY1NlUlU?oc=5"
+  },
   {
    "ts": "2026-09-04T18:00:20+00:00",
    "title": "Gen. Ye Win Oo: From Myanmar Junta’s Torture Chambers Boss to Army Chief­­",
@@ -2164,13 +2171,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdmFxLThLZ3dqaS1fZHBWSUl4ZlMxRjh3TWdlRi16aFNtOWZWWmFXMnRRYVdXSngxNGV3TEl2QU9fU2I5aXlKR3NwUmpHVGJwb0pGNGFjY3h4eW5DQ0RnS3F2T3d3VlMtR3lXZW5pNWRxT3lyWWtNSHJpcHpITHlOdHAyVWlGNU5jZXI1Qg?oc=5"
-  },
-  {
-   "ts": "2026-08-31T05:30:19+00:00",
-   "title": "Tunnel Project Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82aWVBVmxGams3OWxYMXNZcnBpY1pyanl2SUp6WlZ5UXVRZ3RrN1JtajNuWE1qSnlZRFdxZHUyQU9feVM0WEEzQldGRkJINDdHMVZJb3Fzbw?oc=5"
   }
  ]
 }
