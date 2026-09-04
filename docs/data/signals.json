@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-04T09:30:17+00:00",
+ "generated_at": "2026-09-04T10:00:36+00:00",
  "signals": [
+  {
+   "ts": "2026-09-04T10:00:34+00:00",
+   "title": "Eight Civilians Die in Regime Air Raid on Rakhine’s Kyauktaw",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNajEwRVJsVkRCeDRKTnE2ZE5qd1BkSkdWQXZ3TmE3bUhROUFIajZOWXhTUjItYzMwV1RkaWFMYUF2MXdOaWpiS0g4VDItajJ2bmpQbTJ0NFhBTGFfT01PMVBUeUlCQnVma3lLM19SYnZBbmRLTVY2bmZhSlNHdmdQUGlhQmtGSDYzVkQtb2Z1Qi1Yc1RQRDBnNklqY1NRT0FtVTZB?oc=5"
+  },
   {
    "ts": "2026-09-04T09:30:16+00:00",
    "title": "Myanmar Junta Names 166 Military Appointees to New Parliament",
@@ -2151,13 +2158,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVzVnNk54TnE4M3gxYnVRVU9fdllJbktyWjJQV1lWeUNEbElGUURyUnpndk0zM2xTbmVqV1lDWkdfWXJvN2Y3RGE4X1NZeEhoWmhqeFNNRXU0MkxIZ25nYWJFUGhrelBwc1B5eHRqT2ROaWlfN3NQVDNVRXNaUHIzMlVmYXdSVGhNUHpDczlrSFkyX2xmUHU4V0RqVkhpaEZPNzA4SUtnbE14NFJ0V3Y3c1ExMDNjRWVLb3cwX2p3?oc=5"
-  },
-  {
-   "ts": "2026-08-30T17:30:17+00:00",
-   "title": "NUCA (Mandalay) invites DipADA applications for 2026-2027",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMWFyMnJuZTJaWHZjb1ZXaFRXN2Vpekl4ckhUN1F6T2tHTFNZWHJyZDUxLTNuQXJrSDBXMXYwYS1JcTNRZUZfaV9yNFl5VG1SRXR1cjJuSlJtbHduWkU0NE5NYWVsbnRGb0Nwa2RoSkxJaUZxbGJsNjcxNGdfWThSMUFoSm5YNWs?oc=5"
   }
  ]
 }
