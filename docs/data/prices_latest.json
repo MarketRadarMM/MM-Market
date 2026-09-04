@@ -1,11 +1,11 @@
 {
   "source": "community",
-  "fetched_at": "2026-09-04T02:45:23.046590+00:00",
+  "fetched_at": "2026-09-04T03:45:19.579600+00:00",
   "status": "ok",
   "confidence": "amber",
-  "posted_at": "2026-09-04T02:37:04+00:00",
+  "posted_at": "2026-09-04T03:29:13+00:00",
   "post_date": "2026-09-04",
-  "age_hours": 0.1,
+  "age_hours": 0.3,
   "labels": {
     "gold_16pe": {
       "my": "အခေါက်ရွှေ (စနစ်ဟောင်း)",
@@ -38,8 +38,16 @@
   },
   "unit": "MMK per tical (ကျပ်သား); ရောင်းဈေး unless marked",
   "values": {
+    "gold": {
+      "gold_16pe": 10240000,
+      "gold_16pe_buy": 10180000,
+      "gold_15pe": 9630000,
+      "gold_16pe_new": 10070000,
+      "gold_16pe_new_buy": 10010000,
+      "gold_15pe_new": 9470000
+    },
     "fx": {
-      "USD": 4370,
+      "USD": 4320,
       "GBP": 5940,
       "EUR": 5080,
       "SGD": 3430,
@@ -55,6 +63,8 @@
       "INR": 45.8,
       "KRW": 3.1
     },
+    "wg_usd": 4474,
+    "ygea": 7150000,
     "fx_detail": {
       "USD": {
         "buy": 4320,
@@ -117,10 +127,6 @@
         "sell": 3.1
       }
     },
-    "gold": {
-      "gold_16pe": 10210000,
-      "gold_15pe": 7100000
-    },
     "fuel": {
       "MDY_92": 3865,
       "MDY_95": 3970,
@@ -130,7 +136,7 @@
   },
   "source_disclaimer_my": "ခန့်မှန်းဈေးသာဖြစ်ပြီး တစ်နေရာနှင့်တစ်နေရာ ကွာဟနိုင်ပါသည်",
   "source_disclaimer_en": "Estimates only; prices vary by location",
-  "posted_at_mmt": "2026-09-04T09:07:04+06:30",
+  "posted_at_mmt": "2026-09-04T09:59:13+06:30",
   "source_label_my": "လူမှုကွန်ရက်မှ စုစည်းသည်",
   "source_label_en": "community-reported"
 }
