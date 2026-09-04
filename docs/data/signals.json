@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-03T23:30:31+00:00",
+ "generated_at": "2026-09-04T00:00:26+00:00",
  "signals": [
+  {
+   "ts": "2026-09-04T00:00:25+00:00",
+   "title": "Don’t say cholera: Cover up in Yangon",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5oTHRrQTFMREVWZHFjWWtiOXdJSnlpX2N1bzJaRjdJMDFoMzM5UG5jbHRiNU5ZS1NmWFV5dnRiRHhOSE8wdkZJbkhHaVVTX3FpN1BrQzZCdUtCM0l5QnZoTGRMLUJXczE1YXZCWlRmMVdkd1IzcXdqTVdUSQ?oc=5"
+  },
   {
    "ts": "2026-09-03T23:00:19+00:00",
    "title": "Guest Column | The Hidden Cycle of Myanmar’s Forever Wars",
@@ -2151,13 +2158,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdzM1YV9DaHczSXhHc1plQ1hnSmd2Y2hmMHcwQVN3bDZlUWNhNzZ0N3IzdEYyRUdLX3BhUXlWZDRUQ3BjOXNKMjJYXzJ3Nl9qR29VVG1vc29FQjZNeXVSdHFZeXNiTTFYNWl1MGUzWUx1SEJwS3FCdmN0N3MwTTNVVXln?oc=5"
-  },
-  {
-   "ts": "2026-08-30T05:00:22+00:00",
-   "title": "2020 General Election and Tamwe",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zcTg3bGI0QndUd255Z0xOLWNMYlQyYlFDcWpOMUVoLWFwUVQ5MWloMFJFTkRmWC1CMVZQNFJrWmNCLVlvOFl6aC1ZTjZmTlpydEJvX2RBdlEzLVY3MjRlYzdoSmFMVTRJVEM1bHVlNA?oc=5"
   }
  ]
 }
