@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-04T15:30:26+00:00",
+ "generated_at": "2026-09-04T16:00:26+00:00",
  "signals": [
+  {
+   "ts": "2026-09-04T16:00:24+00:00",
+   "title": "Junta Offers Reward for Dr. Tayzar San, Two Others After Mandalay Protest",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ0VLbk1FRmxkYV95cWxNWTBYWkZ0X1VhSmVIRXNMblY5ME81Z1ZNTkFadlBVNllmSTdocnIyQThvTDRGWWo0REtwYmY1djMzRjg0QkxsWmRvR29mT0VQdHRncXEzTkh3cVJ6dXpFcDg5cEtqTXNlLUpkcGg4LUhFclVJMEpyU2RTSHVXaUJhMTctekRSUmlvdDJNVi1iTHJia2Fhd180T2RzTFExN0I3V2hPQ3pNa28?oc=5"
+  },
   {
    "ts": "2026-09-04T15:30:24+00:00",
    "title": "War Studies Archives",
@@ -2151,13 +2158,6 @@
    "source": "Khit Thit",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Pb1QyUFBZeEVIeWZFNFBDaXUzWHRyV0ljaFhGbDZZcFVqbjliTFBhLWY4Z1dSTG1PbmE4cXhqbUdtRWcyc1Y4WTlLVQ?oc=5"
-  },
-  {
-   "ts": "2026-08-31T00:30:18+00:00",
-   "title": "Marcos Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBZTFNmNVA3cDBCOWc2VEY3cDJMS0NaSnNESEp1eUtzd2plc0EtZmpvQ2ZiTE9pd2VQVW5pOTlaVGgxZ2g5VDZWQTlVcFo?oc=5"
   }
  ]
 }
