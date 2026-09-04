@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-04T08:30:26+00:00",
+ "generated_at": "2026-09-04T09:00:30+00:00",
  "signals": [
+  {
+   "ts": "2026-09-04T09:00:29+00:00",
+   "title": "မန်ယူ Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZXl4YnJwT18xa1k0aGIwS3R1UlI1Y3dNcXRQTkJuYlp3Wl9HY1JRODd5aW5EQ3RTdjFKRm94RDNDNlVNSGVQTmU5UTVBNXBoVDN3TGtQbXhnV0FKX2Mtc3N0QkdKU0J5NzF5QmZXY0JCQVdyMTVjam9MOTRpT0pmZUNRQQ?oc=5"
+  },
   {
    "ts": "2026-09-04T08:30:24+00:00",
    "title": "Business | Samsonite Bag Factory in Myanmar Shuts Down Over Trump Tariffs",
@@ -2151,13 +2158,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOdURCUXkyQlR3NTc5RWFUeHVpVWRrcU1VQXpjZDJ6LWJ1NHJ1Z0VSZDdRN253SWVtZzkza3NoSUJ6REk1Q1ZoUGpqU2tNamgtVEF1SlJ0OFh5RUtUc0lhWURGZGd6VmoyR0U1RVRn?oc=5"
-  },
-  {
-   "ts": "2026-08-30T17:30:16+00:00",
-   "title": "Andrew John Bower Mitchell,secretary of state for international development of Britain and Daw Aung San Suu Kyi visit Mother's Home Free Education Center and in evening he visit Tauk-Kyaunk war cemetery and hold brief press conference. – The Irrawaddy",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QX0VnY3dLSUR5Z2Z4QU5jbmxsdkZMSVJCUWVSandIRHpLejZOM3d2X0Z0R1RqaERGc09LdmFaQ2toUm9HMjdHSmRHclVJT1lsOWJkeGFfSVdhcXc4S0JiUTlWbjcyN2xGMW4wTERnYw?oc=5"
   }
  ]
 }
