@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-04T04:00:20+00:00",
+ "generated_at": "2026-09-04T04:30:22+00:00",
  "signals": [
+  {
+   "ts": "2026-09-04T04:30:21+00:00",
+   "title": "Why Homemade Food Still Matters",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KZkR2Xzk2eS1fV1duWjF5M2Z5eHpFc19fa2Jud1huOVVVYlZjajVhNV9qSVpCN3ZXaWNySEhMbEtWbkZISENuUjN4WXlSZ1FrNnk3UW9OZ3pLdHV5VlJqWlc5M0Rmb0U?oc=5"
+  },
   {
    "ts": "2026-09-04T04:00:19+00:00",
    "title": "‘I wasn’t allowed to cry during the wedding’: Forced marriage in Kachin State",
@@ -2151,13 +2158,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQd01ZT0FYX0o3MzZ1b0x4N3hZY1M4YzN3TUtMUU1Bbm5QY0Q5ZHJkMkZDRU43NmpOazJ1SGdmQ2EtN1lGeUZuM2Vyb3hzcVZHUlJJa0xaT2QzZEt6UTdxZHhsTjBiRDNXYmdVY3RZY3VWMTdNZlBGSG1ERkdWa0FKZEM5dw?oc=5"
-  },
-  {
-   "ts": "2026-08-30T10:30:22+00:00",
-   "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing addresses MSME Development Central Committee meeting National economy will definitely develop if efforts are being made with good intentions and a positive mindset for the betterment",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaGpZNkpDSzRSNlZQYmxvSjdKbFB5RDhXM3lIa3ZmeE9BejJqZXFPTk1yQnh2OHNSODBoMHl3S2NqSTRCLVFHNnMxbVlJR2FLajBPbjd3NVdHNVpDWlFPQ1BpdkpWTlJEQ1FJT1ZSMS1hQ2tfWEtJdFhvRzE2eW4xWFpmdmxtWndVOVlYZ21CUkRvTzBsWXFjNXJTUXN6aElRaHhLQllEUXIzS1FqRmlpOE5sN2phSnZWNThzZ1dXWQ?oc=5"
   }
  ]
 }
