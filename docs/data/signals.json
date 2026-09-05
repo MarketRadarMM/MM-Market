@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-05T02:30:19+00:00",
+ "generated_at": "2026-09-05T03:00:19+00:00",
  "signals": [
+  {
+   "ts": "2026-09-05T03:00:17+00:00",
+   "title": "အိမ်အဝေးကအိမ် (သို့မဟုတ်) ပြန်ရန်အခက်ဆုံးတိုင်းပြည်သို့ ပင်နီဆူလာမှလွမ်းချင်း",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/80980/"
+  },
+  {
+   "ts": "2026-09-05T03:00:15+00:00",
+   "title": "စက်တင်ဘာ ၅ ရက်သတင်းများအနှစ်ချုပ် - သတင်းလုံခြုံရေးကျိုးပေါက်မှုကြောင့် အရေးယူခဲ့တဲ့ဖြစ်စဉ်တွေရှိခဲ့တယ်လို့ ဒုတပ်ချုပ်ပြော",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c4gvedggzl5o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-05T01:00:21+00:00",
    "title": "Chin State accelerates rehabilitation and reconstruction efforts",
@@ -2157,20 +2171,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/cevmvnkgj0no?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-08-31T10:00:34+00:00",
-   "title": "Myanmar military approaches Chinland Council for ceasefire talks",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/myanmar-military-approaches-chinland-council-for-ceasefire-talks/"
-  },
-  {
-   "ts": "2026-08-31T09:30:25+00:00",
-   "title": "New Year Dhamma Festival 2020",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuY3ctREtSVmhnMVo1S2o5aEtfYll0WWE2M2dDbGRMUHJ3TWZiVWwtVnk0dDRJOXBGWXlXNDNsczEwSTQ1RXlIemxNei1BSmtObV9EeXdXY2pNM3ZIYzdwUnJlRlA3YlVrekItUDZ4cw?oc=5"
   }
  ]
 }
