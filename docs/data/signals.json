@@ -1,6 +1,34 @@
 {
- "generated_at": "2026-09-05T03:30:18+00:00",
+ "generated_at": "2026-09-05T04:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-09-05T04:00:20+00:00",
+   "title": "Will Thamanya Sayadaw’s Body Ever Rest in Peace?",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TS21jbkwta0FaVWJVRzBtTDg3U3F5a1EzZUY5dk1aN1BqWXgtTVhVZzlKcm5pcTdjdHdqQzE0Q0tfVW0zSTdTalo4MFYteGxLM284WnJsZjBCMzRWVUM4NA?oc=5"
+  },
+  {
+   "ts": "2026-09-05T04:00:20+00:00",
+   "title": "President's Ceasefire Order Fails to Stop Offensive",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TQm9acmJfX3dwZWRqSEJwdlR0b0FqeG1CdHJwSzF4UmxWdjFadXJiN2JTdlFJYXQ0RGtxZGJBV0lvTXZyNFpackVtTnF2NEQySjQ2VlFPREdFTzV3empPRQ?oc=5"
+  },
+  {
+   "ts": "2026-09-05T04:00:20+00:00",
+   "title": "အငြိမ့်က Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYXhRcW5ickRxNXdMbkxJeUpjcVJvOE14cTFid2lkUnJ6ZWZfQ2E5bk5kOEZCQnBaeUNveUJLdVZSajlWSGZ5R0J4RlhmQUlNd1JRSEZBWWh2YWxtT28zdEIwMkxzRm9pYWp0NExiX3oweGxoMHowN1FIVk1DU2pfUF9GLXVIZlJFQ0c2Yjk5Y05wSXJjRXBDak1iXzBlem50TkNXWDNuOA?oc=5"
+  },
+  {
+   "ts": "2026-09-05T04:00:20+00:00",
+   "title": "The Vanishing Lady Tycoon",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83UnB0QzNZSFBvdnBQNGIzWERJU2N0SmdmQWFQTlZNQ2k5OVVqUk41NkQ0WTdra3NOZWthc3hISlNYa3hqOHRMelRzT19ad2ZCaDB4bTR4SjBXWE04M2c?oc=5"
+  },
   {
    "ts": "2026-09-05T03:00:17+00:00",
    "title": "အိမ်အဝေးကအိမ် (သို့မဟုတ်) ပြန်ရန်အခက်ဆုံးတိုင်းပြည်သို့ ပင်နီဆူလာမှလွမ်းချင်း",
@@ -2143,34 +2171,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/cr7kv9zn940o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-08-31T11:00:20+00:00",
-   "title": "ရုရှား-မြန်မာ-ဘယ်လာရုစ် လက်နက်ဆက်ဆံရေးကို ကျော်လွန်လာပြီလား",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c62q2073zveo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-08-31T11:00:20+00:00",
-   "title": "အကြီးဆုံးဝယ်လက် ထိုင်းဈေးကွက်ပိတ်လို့ မြန်မာထောပတ်သီးတောင်သူတွေ အကျပ်ဆိုက်",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c790w3l2wqlo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-08-31T11:00:20+00:00",
-   "title": "ကြံ့ခိုင်ရေးပါတီညီလာခံနဲ့ အာဏာလွန်ဆွဲပွဲတွေ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c5yj36z4dwzo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-08-31T10:30:15+00:00",
-   "title": "''တော်လှန်ရေးအောင်မြင်ဖို့ ... အမျိုးသမီးကိုယ်စားပြုမှုက အရေးကြီးတယ်'' - မဇူးပဒုမ္မာ (SCEF အတွင်းရေးမှူးအဖွဲ့၀င်)",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cevmvnkgj0no?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
