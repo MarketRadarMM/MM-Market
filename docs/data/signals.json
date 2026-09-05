@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-05T05:00:18+00:00",
+ "generated_at": "2026-09-05T05:30:22+00:00",
  "signals": [
+  {
+   "ts": "2026-09-05T05:30:16+00:00",
+   "title": "ထရမ့်ရဲ့ ငြိမ်းချမ်းရေးကိုယ်စားလှယ်တွေ မော်စကိုနဲ့ ကိယက်ဗ်ကို သွားမယ်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c17jrg2dqkwo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-05T05:00:17+00:00",
    "title": "President U Min Aung Hlaing Visits VinFast and Viettel in Viet Nam",
@@ -2145,13 +2152,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU3hPSlB4UVFBU2hvVWExdlk2RU9WZS1TYjJjSW91cXJhTnZSY25qbE5SWXVBVDFyYzY4VU1BSTJrdWxKTUh4MlJhOG45MjgzT0FTaXJXODFGbnpwZ2ZGTV9QZXpZZmdlZGk4dTJjeGcwY1RTa19ucnhrNW9iOU5kRHZXOG8yMDEwMHM2X3ViY1VVb2J6RVBIUUU3QVI?oc=5"
-  },
-  {
-   "ts": "2026-08-31T11:30:19+00:00",
-   "title": "A crew member still missing in tugboat fire",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBoNDhhcUhaZGVCTVNEUXNaM1RnX0N4Zk00NUQzTUIxYkdCdEVJbkZfY1gxZjQ3ZDZUcmhTS292VVp2d05ZQklWWmxtZzJnM0JPSVdKbkhaR25YQ0k2OERqRVJCT3RVOUZMSXNIemlFTWJkeFhDTE1r?oc=5"
   }
  ]
 }
