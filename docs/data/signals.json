@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-05T09:30:17+00:00",
+ "generated_at": "2026-09-05T10:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-09-05T10:00:20+00:00",
+   "title": "Striking health staff boycott COVID-19 jabs as the CDM grows",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNlIxRmotSk12ZzZiN2tYeVFwOW5pYXY0Y2JoZXpYMXJFXzdSZzI5M0FoSlNBOTA0Mzhac29yVnZJSUx1b2xMbWxTcU0yNFFmeklRN1R6REZjODBLNVIwYlZyMUFhc3hSVXRLekx2S014T3BDdFNGNGJjWHktTFY1eWxVUnlTa1N5dnlrMU50MEJlQUtSaHFJV2llQ1I?oc=5"
+  },
   {
    "ts": "2026-09-05T08:30:19+00:00",
    "title": "တရုတ်မုန့် Archives",
@@ -2132,26 +2139,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSGtkNE9admpXNUtVZzBsQW1VdWI2SlVnejZ3ZHZEcVdncEJ5UUk4d0ZSV1hGTnZsVFF0YUZkbjhMRTgxNHVuRjNRSlhGeThJSjdMRUhNMmFWZ2tJWjJmMlhiXzE0RHVNM2xBS1BoMVB2a0EtNWdyNUJKVWFNN0VyaWZzVW1FRDNOWVl4dFJQX01DVHBQQWw4S1o0N2tGZVpIaE1vOXc0NHUtQnExZ2RIckRSaF9fbGVVelNjTHZydmlSN0F0bDN6bjloalVLZU83TFE?oc=5"
-  },
-  {
-   "ts": "2026-08-31T12:30:20+00:00",
-   "title": "U.S. Sanctions Another Pro-Junta Karen Militia Over Scam Centers",
-   "source": "Irrawaddy",
-   "markets": [
-    {
-     "market": "fx_kyat",
-     "direction": "bearish",
-     "confidence": 0.65,
-     "rationale": "New sanctions pressure the kyat"
-    },
-    {
-     "market": "gold",
-     "direction": "bullish",
-     "confidence": 0.65,
-     "rationale": "Kyat pressure drives savings into gold"
-    }
-   ],
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMUdKWG9EaUFMNGtsZ1l3VXN6d05jYW5rZGp1aVhSXzVmZk9DbXFZNHdsaGlEbmdvZHZvUmZKcHMzeFRSS2I3VkpwdFZpOXNUY1dMRHdTMTVCa0d4cEczVWItcGczZ0FlLThuOHF3Q3BLZ3dZSm5hOENSYWd0N2tNeGctcjVNZHQ0azAxbm5abW0tUEpGb2VGRTNQTGtuYnZMTkt3NEh6OGNjRTFwR3lJck1IanI2dFJXUHJkWGMwUUhBb2M?oc=5"
   }
  ]
 }
