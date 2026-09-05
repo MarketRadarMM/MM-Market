@@ -1,6 +1,41 @@
 {
- "generated_at": "2026-09-05T16:00:21+00:00",
+ "generated_at": "2026-09-05T16:30:22+00:00",
  "signals": [
+  {
+   "ts": "2026-09-05T16:30:22+00:00",
+   "title": "3.3 BERNOULLI’S EQUATION",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53NGlteEYyQXRua1RrUlctRTlwNm1xVHVpRGl2YjZ5Y1Y5S2dMMWFjRld6dVBRam9DOEt6UjBCeU52YzlZVmRGc3kwLUd2VGtIMEVnZ0VmaElLbGM4cE05cEN3UFU1ZjNvalhVd09rbko?oc=5"
+  },
+  {
+   "ts": "2026-09-05T16:30:19+00:00",
+   "title": "Myanmar Fuel Prices Surge as Digital Rationing Triggers Chaos",
+   "source": "Irrawaddy",
+   "markets": [
+    {
+     "market": "fuel",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "Fuel-market story — read for direction"
+    }
+   ],
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOUVTdnYzNlZ2cnI1UTktZi00anliZkxZLW5jbVNjUG1ZYXdxbGl5ZXJiYVFvM2NJRjI1emVid1BOLXRwcDFQem5uZURrcFhaaEl0NEpEUVlpcFY5bDFVcGdtcFpldEhKc0I1QWFKV2o0YzFCNGtpQkdiLU53dTZZUmd0ejdHZEdwdWNjZkNNWmI0bE9lOWM1RC1FdjJCUVBPQUFOVjln?oc=5"
+  },
+  {
+   "ts": "2026-09-05T16:30:19+00:00",
+   "title": "Guest Column | A ‘Made-in-China’ Presidency Won’t Save Myanmar’s Regime",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMVZTZ19fTEk4X0hBVjJrZWh3R0c5akhnUjhoSWU2ZUh4SDZRZ21MM3E0cFZIV3pnV0xlYUxpY3VGbHlhUmZScWNOb0gxOVBNTm5va0pmb3o3MEZIUXhsdDRXdG9IX3A3WUh2ZUdHR2FDeDdBdVZ6TkJidjdJYnJNTS1LMU83ZE9uVVF5NktQc3dwdFVMRm1SejZQN0xWOE9tdEY5VUpzZw?oc=5"
+  },
+  {
+   "ts": "2026-09-05T16:30:19+00:00",
+   "title": "‘Myanmar Women Are Like Shirts’: Inside Kachin’s Chinese-Run Rare Earth Mines",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOTNuSTBQSGtSeEtScFh1N2Y1c1BwaWF3M3lORWFLb3UxUTBNbE01a3liV1NGaUZ1cUItaHJYLS1NUmYtSHRGMm45UFhhd1JUSUVPdDZVX215NkNMMGcwQko2aGJKWUdWYmtwWkxtZFB0UUNBQk5ESE5zQ1M3YVViNWVOYU13R0lkOGFSdkRTS1Z4OEZIUFZ4b1JfSUFub0dIdGhUQld2RmZENTdXVGtIOFphRVRrZw?oc=5"
+  },
   {
    "ts": "2026-09-05T16:00:21+00:00",
    "title": "7.2 Velocity of light",
@@ -2111,34 +2146,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUlU5MEZBSVAwbHZ2RUY4ZURzN1pWWjhrR0lpXzRiTWJyTmx5bnFnOVFySF9Qb1otWkRXUjF1aDlkVHJvX2JIZkc0OENwX1pVMTBuSXZ5YUFnRDk3R09QWnU4eVJhX1VrdHZKSTVBTDdPUGhDR1pmQVlGM0lDeFhHbTZmVHhWOGwwMHR4bC1ESEJkYXgweTFaNVRuTEhTdWMwYU5jV3I3eG12YV9Qb3N1bExKdGVfV0EtZm1VbUZ6cw?oc=5"
-  },
-  {
-   "ts": "2026-08-31T21:00:28+00:00",
-   "title": "Taiwan steps up AI defenses as China election interference fears grow",
-   "source": "RFA (EN)",
-   "markets": [],
-   "url": "https://rfa.org/english/china/2026/08/31/taiwan-election-interference-china-ai/"
-  },
-  {
-   "ts": "2026-08-31T20:00:20+00:00",
-   "title": "‘A sea of blood in the church’: Survivors recount Myitkyina’s lethal crackdown",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYUs2MlFCZmdTTWFxNGI0T09NTnpybFZhaEVjcXJuaWYwVUlPWDhnVktiSWtNcUE4VVRlZEs3a0tyc1FLS0NhNVhzdzFHb192Z1VoUlRtS0s2WHZPRFUyNHQxYnlSd24tUHFHbUNyVEN0UURJUnY3U2c0dVQxOF9FTTI2aTN2YzBzZGdNazB2VkxxakFVNFRqX3c4c0JqN2tuZllXT3ItWXY4UXFUN2c0?oc=5"
-  },
-  {
-   "ts": "2026-08-31T19:30:19+00:00",
-   "title": "မောင်ဆွေသက် Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMTZ5SkRCQkJZSS0zUTd0angxUWJsaHp3SzFtRDNrZGdUaW9PYi1hQlJDei1UYXZnTVpDQk5FcWpoTVVzOVZwYWNWb2lVdGRVRWh0OGxYMnpFV2w0dTI3NjlnTm1qNm1fNG1PY0NsbXhpRGdiVE55QUxPZW43WFRCamhrVDZYZFRnMW9WR3hZQ09UQ2owSGs3eGI1R2NVNlMyUV9XSjcwdDdxVERqdzhJay1wMW9aa056S3NVd0xDcXNyczd3dDFBdTFDSQ?oc=5"
-  },
-  {
-   "ts": "2026-08-31T19:30:19+00:00",
-   "title": "Guest Column | Myanmar EAOs Risk Seeing Mineral Leverage Blunted by China’s Dual Strategy",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdFlGRDl0R180QXlwYmZRS0ZqOGZhZlA3NnBueURiUnBnd0Rhb1hhYjJHakRTOTNjTk42UmFnd1FXdUp3QVdZVEQ4ZXBFUHV1OVpNQ2ZwaTdKZWhnUEU3ZXduRVJKS1k3Yi1hRUFsZkRfT3JaZlZXWDZHUERINkZpRjNaOHU4azRKbVpRZ1RVeTVzNzMwYUJhU1JodzdWVGNQOHd1NExoX3dkR1F2ZUpObUwyblJoYTh4cmE0dGdwV0dISWc?oc=5"
   }
  ]
 }
