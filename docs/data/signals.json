@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-05T04:00:22+00:00",
+ "generated_at": "2026-09-05T04:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-05T04:30:18+00:00",
+   "title": "Guest Column | How China Weaponizes Asia's Rivers",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUkdzLUhZVHQxZDAtdEdTanowMXZHRmF4d21oWFlhdGhyZHVhSTVyWDFZc3FLUDBwbFMxNUZMa3dJUE1ZUjh0V1lIY1pRZFlMY3pQUFB5c1AwQS1mcVllYXFaLWlLbEhNa1VPTmtpQ2ZqY0c0VTV2LTJiZmFBdThkbEpIMDlSc0JidHpyYVNn?oc=5"
+  },
+  {
+   "ts": "2026-09-05T04:30:18+00:00",
+   "title": "Myanmar Junta Losing Grip on Key Sagaing Stronghold as KIA-Led Forces Advance",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSGN0SFdJV1dhSWV4bXVGQnVTRkMwX1VHNjVEM1lLVWtXUktuUG8yZ0Z6aU1LaGE1OFNrTDdObWZEMmdVeEZtOEhaeUtUMWJvanJ0eDhabl95YUhkZlJhNFVpRWhBN2ZQNlIwNmpOOXhDVTQ5czloamU0QWQtQVZ3YlNzMTlDSVdDSHJBcV9MOHQtWHZzY3ludWN2QVVOUEpDelR2N0FwQ2ZSYWpGbzg3VHl6dzB0MUxsQWNV?oc=5"
+  },
   {
    "ts": "2026-09-05T04:00:20+00:00",
    "title": "Will Thamanya Sayadaw’s Body Ever Rest in Peace?",
@@ -2157,20 +2171,6 @@
     }
    ],
    "url": "https://myanmar-now.org/mm/news/80871/"
-  },
-  {
-   "ts": "2026-08-31T11:00:20+00:00",
-   "title": "ဘုရင့်နောင် - အကျယ်ဆုံး မြန်မာ လက်နက်နိုင်ငံရှင်၊ ကမ္ဘာ့အမွေအနှစ် ခေါင်းလောင်းစာ ရေးထိုးခဲ့သူ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cwyd4d1x4x8o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-08-31T11:00:20+00:00",
-   "title": "ကရင်မှာ DKBA ဘာကြောင့် အင်အားကြီးလာလဲ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cr7kv9zn940o?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
