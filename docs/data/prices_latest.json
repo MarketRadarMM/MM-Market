@@ -1,11 +1,11 @@
 {
   "source": "community",
-  "fetched_at": "2026-09-04T14:45:25.111590+00:00",
+  "fetched_at": "2026-09-05T02:45:21.343837+00:00",
   "status": "ok",
   "confidence": "amber",
-  "posted_at": "2026-09-04T13:15:03+00:00",
-  "post_date": "2026-09-04",
-  "age_hours": 1.5,
+  "posted_at": "2026-09-05T02:35:55+00:00",
+  "post_date": "2026-09-05",
+  "age_hours": 0.2,
   "labels": {
     "gold_16pe": {
       "my": "အခေါက်ရွှေ (စနစ်ဟောင်း)",
@@ -38,94 +38,88 @@
   },
   "unit": "MMK per tical (ကျပ်သား); ရောင်းဈေး unless marked",
   "values": {
-    "gold": {
-      "gold_16pe": 10230000,
-      "gold_15pe": 7150000,
-      "gold_16pe_buy": 10180000,
-      "gold_16pe_new": 10070000,
-      "gold_16pe_new_buy": 10010000,
-      "gold_15pe_new": 9470000
-    },
     "fx": {
       "USD": 4320,
-      "GBP": 5940,
-      "EUR": 5080,
-      "SGD": 3430,
+      "GBP": 5840,
+      "EUR": 5020,
+      "SGD": 3400,
       "AUD": 3090,
-      "AED": 1160,
-      "CAD": 3130,
-      "MYR": 1060,
-      "THB": 132.4,
-      "TWD": 137,
-      "JPY": 27.3,
-      "HKD": 557,
-      "CNY": 650,
-      "INR": 45.8,
+      "AED": 1150,
+      "CAD": 3100,
+      "MYR": 1050,
+      "THB": 131.2,
+      "TWD": 135,
+      "JPY": 27.2,
+      "HKD": 550,
+      "CNY": 640,
+      "INR": 45.4,
       "KRW": 3.1
     },
-    "wg_usd": 4474,
-    "ygea": 7150000,
     "fx_detail": {
       "USD": {
-        "buy": 4320,
-        "sell": 4370
+        "buy": 4270,
+        "sell": 4320
       },
       "GBP": {
-        "buy": 5830,
-        "sell": 5940
+        "buy": 5730,
+        "sell": 5840
       },
       "EUR": {
-        "buy": 4980,
-        "sell": 5080
+        "buy": 4910,
+        "sell": 5020
       },
       "SGD": {
-        "buy": 3390,
-        "sell": 3430
+        "buy": 3360,
+        "sell": 3400
       },
       "AUD": {
         "buy": 3030,
         "sell": 3090
       },
       "AED": {
-        "buy": 1130,
-        "sell": 1160
+        "buy": 1120,
+        "sell": 1150
       },
       "CAD": {
-        "buy": 3070,
-        "sell": 3130
+        "buy": 3040,
+        "sell": 3100
       },
       "MYR": {
-        "buy": 1030,
-        "sell": 1060
+        "buy": 1020,
+        "sell": 1050
       },
       "THB": {
-        "buy": 129,
-        "sell": 132.4
+        "buy": 128.4,
+        "sell": 131.2
       },
       "TWD": {
-        "buy": 133,
-        "sell": 137
+        "buy": 129,
+        "sell": 135
       },
       "JPY": {
-        "buy": 26.6,
-        "sell": 27.3
+        "buy": 26.3,
+        "sell": 27.2
       },
       "HKD": {
-        "buy": 542,
-        "sell": 557
+        "buy": 536,
+        "sell": 550
       },
       "CNY": {
-        "buy": 634,
-        "sell": 650
+        "buy": 630,
+        "sell": 640
       },
       "INR": {
-        "buy": 44.6,
-        "sell": 45.8
+        "buy": 44.2,
+        "sell": 45.4
       },
       "KRW": {
         "buy": 3.1,
         "sell": 3.1
       }
+    },
+    "gold": {
+      "gold_16pe": 10230000,
+      "gold_15pe": 7150000
     },
     "fuel": {
       "MDY_92": 3865,
@@ -136,7 +130,7 @@
   },
   "source_disclaimer_my": "ခန့်မှန်းဈေးသာဖြစ်ပြီး တစ်နေရာနှင့်တစ်နေရာ ကွာဟနိုင်ပါသည်",
   "source_disclaimer_en": "Estimates only; prices vary by location",
-  "posted_at_mmt": "2026-09-04T19:45:03+06:30",
+  "posted_at_mmt": "2026-09-05T09:05:55+06:30",
   "source_label_my": "လူမှုကွန်ရက်မှ စုစည်းသည်",
   "source_label_en": "community-reported"
 }
