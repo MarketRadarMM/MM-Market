@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-05T14:30:17+00:00",
+ "generated_at": "2026-09-05T15:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-05T15:00:19+00:00",
+   "title": "Commentary | The Junta’s Colorful Apologist",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQzVRdXVPLTJ6RnRZdGNBS2pHaWMtc2tyc3owdzJ6ME1fRnNJa2JRX2NOQkszdGowUUJlN3ItOENJbm5ieDVLS2dtZnBoNGlseFFuc1UxMEhJel85ZUZZOW5mdTNtekczOFFIeXM4aHNLSnlULU5MMFdUZ2lNRTd1TkZEenFPQQ?oc=5"
+  },
+  {
+   "ts": "2026-09-05T15:00:19+00:00",
+   "title": "Guest Column | Regime’s Renewed Lobbying Drive Tests Shifting US Policy Under Trump",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOENsaEtCUVpWSndqcHNYWTJTTkhpZjNQTUZ2SG1kaDBNdDdMaUd6SFBCNm9lY043eWlhcFpfRjZCZ1JHUVZDdDhublQydEs2M2ZtOXE4MlpiblA0dGx2TUJCYnFQSTVibXRKdHU0WXRScEQ4UndfVzdSRzZiSkROUUZWQ1NPY2gtYm9OYTdiTDlwdzNzdVJXX0hMZXdJZnR1Y3RxUkFEMmpGbE1FeUpHWUdVa1ZaQk1OeVI0?oc=5"
+  },
   {
    "ts": "2026-09-05T14:30:17+00:00",
    "title": "၃. ၂. ၃။ တွင်းထွက်ကဏ္ဍ ၃. ၂. ၄။ စက်မှုကဏ္ဍ – Page 204",
@@ -2125,20 +2139,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9XMWx1SkFQaXc1anRhME53QlJyVEFGeFhPOHA5MERUeHJmMndWbHZnd3M3ZmRLVUtkYnByUmFQckF6d1cxZXRoSE11SQ?oc=5"
-  },
-  {
-   "ts": "2026-08-31T14:30:16+00:00",
-   "title": "မြန်မာစစ်တပ် ထိုင်းကိုတောင်းဆိုတဲ့ လက်နက်လမ်းကြောင်း ဖြတ်တောက်ရေး ဖြစ်တန်ခြေ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cn7n33rr2vno?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-08-31T14:00:17+00:00",
-   "title": "ဦးအေး မဖြစ်ခဲ့တဲ့ ဦးစိုးဝင်း",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cwym2m3g04lo?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
