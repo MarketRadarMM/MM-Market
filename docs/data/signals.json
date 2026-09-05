@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-05T15:30:16+00:00",
+ "generated_at": "2026-09-05T16:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-09-05T16:00:21+00:00",
+   "title": "7.2 Velocity of light",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zVjN4cDZkdnZVTk1mUmtVSkVXMmkxVnFSR0NrWkpjdXczLTZ6NW9ubmNPM3gwOFVibTVPeGJfQl92bE1Va3BTOV9ZcFJ2ZlRtNHROZU10ZTYwd0pqdEsxd1BLaFNvUnBqOW5udEdB?oc=5"
+  },
+  {
+   "ts": "2026-09-05T16:00:19+00:00",
+   "title": "Killing creativity: The junta’s cultural crusade",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTDZqNWNtck9ObDlBSHAzS3NnbU1tNDRxY2RZLURKeFROS1YxV1dQSXZtNlJjcG9mZnN0ZDBNVmw5cy1maFQzT1ppZnpkU01kM0JhcTlIenBMckVHbmJZVnNicFJlZzhtVF9KREc3SElFb1ZYd3pETnkyOVEyRGdpNXpMbXI0aklxckE?oc=5"
+  },
   {
    "ts": "2026-09-05T15:00:19+00:00",
    "title": "Commentary | The Junta’s Colorful Apologist",
@@ -2125,20 +2139,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdFlGRDl0R180QXlwYmZRS0ZqOGZhZlA3NnBueURiUnBnd0Rhb1hhYjJHakRTOTNjTk42UmFnd1FXdUp3QVdZVEQ4ZXBFUHV1OVpNQ2ZwaTdKZWhnUEU3ZXduRVJKS1k3Yi1hRUFsZkRfT3JaZlZXWDZHUERINkZpRjNaOHU4azRKbVpRZ1RVeTVzNzMwYUJhU1JodzdWVGNQOHd1NExoX3dkR1F2ZUpObUwyblJoYTh4cmE0dGdwV0dISWc?oc=5"
-  },
-  {
-   "ts": "2026-08-31T19:30:19+00:00",
-   "title": "Myanmar Junta Boss Has Well Documented Ties to Cyber Scam Kingpins",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSU5GcGtsaFMtUlVSb2lISVVDZWdNUDN5WWRWdDg4MVpTOE9UdHNVdjIwZkx2MlJMak52czhhVktoNmZqQy03azJmRldXbHNLVjh0MnJwRjNZSTE1a3A4MnZ5dXYtamZkYU9IR01VMmw4bzRGTHd4S3NuS2MxQ2VNblNnQmIxTjJpZkNtNXdvQVZXOWlmSUlxa3d2bDVQMlNyakpLLVdwamJDdElX?oc=5"
-  },
-  {
-   "ts": "2026-08-31T19:00:22+00:00",
-   "title": "FVP Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9XMWx1SkFQaXc1anRhME53QlJyVEFGeFhPOHA5MERUeHJmMndWbHZnd3M3ZmRLVUtkYnByUmFQckF6d1cxZXRoSE11SQ?oc=5"
   }
  ]
 }
