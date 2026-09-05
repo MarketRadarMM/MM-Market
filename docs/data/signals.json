@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-05T04:30:20+00:00",
+ "generated_at": "2026-09-05T05:00:18+00:00",
  "signals": [
+  {
+   "ts": "2026-09-05T05:00:17+00:00",
+   "title": "President U Min Aung Hlaing Visits VinFast and Viettel in Viet Nam",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN3BOTUg1Ym5NS2kzeFY1YnAwOGRWVjA5blFXMW1aT0E4bDNQTkhSQ1N0S0NuajZYTmxUenR4NEpHdEhyZlpGX3cyTUk4b0NSZUxzREl3ZG1mUnRBT3MyZURzaVV2aEhMNWZwaFpoYmZYd3ZQQkpzUklOOEN1b295SG9JYjR0cEtfRy1NbTlFTXphZ1dFVkE?oc=5"
+  },
+  {
+   "ts": "2026-09-05T05:00:17+00:00",
+   "title": "‘Who the f*** is Bill Richardson?’: Frontier’s Danny Fenster pays tribute",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNUU2QVpiNXF5NmZCOUJ4d09qU3QtNThmcXBuQllTWlIyYk45Yk1aUzY4UHhQdWw2dkQ1UXFHN3JvVFNqZ1lZQWI0bm50S0QzSTJBbGVoeVk4c1c0N3VyUHl2RVVMbDlPNXZTTE1laGV0UFU1eS1wTzg0TkNqS3lfRUdMQ2VaaW9IN2hOWGdEd0JwUUNFOGg2dDE4Uks5WTlzZ2Iw?oc=5"
+  },
   {
    "ts": "2026-09-05T04:30:18+00:00",
    "title": "Guest Column | How China Weaponizes Asia's Rivers",
@@ -2138,39 +2152,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBoNDhhcUhaZGVCTVNEUXNaM1RnX0N4Zk00NUQzTUIxYkdCdEVJbkZfY1gxZjQ3ZDZUcmhTS292VVp2d05ZQklWWmxtZzJnM0JPSVdKbkhaR25YQ0k2OERqRVJCT3RVOUZMSXNIemlFTWJkeFhDTE1r?oc=5"
-  },
-  {
-   "ts": "2026-08-31T11:30:18+00:00",
-   "title": "New Year Dhamma Festival 2020",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yZkV0YUFMcGRsYjlwRlluaFF3dDhOZVZWUVFwbzRGWUN0MU1JbU1UcjAyMjRZTkF1bVRMYzZzTXNHamplc1MyeHFQVjhfd0tuNjNjTjVsT3B3cXQxYy11UnE3Mlk1Ny16cTVBemFEQQ?oc=5"
-  },
-  {
-   "ts": "2026-08-31T11:00:22+00:00",
-   "title": "ရှမ်းမြောက် စစ်ဆေးရေးဂိတ် ပစ်ခတ်မှု ပြည်သူ့စစ်နှင့်ဆက်နွှယ်သည့် အမျိုးသမီး သေဆုံး",
-   "source": "Myanmar Now (MM)",
-   "markets": [
-    {
-     "market": "pulses",
-     "direction": "neutral",
-     "confidence": 0.5,
-     "rationale": "China border trade affects bean flows"
-    },
-    {
-     "market": "rice",
-     "direction": "neutral",
-     "confidence": 0.5,
-     "rationale": "Border status affects rice exports"
-    },
-    {
-     "market": "fuel",
-     "direction": "neutral",
-     "confidence": 0.45,
-     "rationale": "Border routes also carry imported goods"
-    }
-   ],
-   "url": "https://myanmar-now.org/mm/news/80871/"
   }
  ]
 }
