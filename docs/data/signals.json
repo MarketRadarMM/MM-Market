@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-05T12:30:17+00:00",
+ "generated_at": "2026-09-05T13:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-09-05T13:00:20+00:00",
+   "title": "Analysis | In Beijing and Shan State, a High-Stakes Bargain Plays Out for China, Myanmar Regime",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcDIyc0FxMkI4ZXRWcGMyTXpEc20zeVhPQ0hkWHlqalhmaUw3ZEt3QnhiOENZUGVpMWNnMUxDRzVURWtzQjJjczNoR21DSmwtdThYRU5JZnZ2a0MtaVdUOXpNV3FPU21hNVMydU1GX2ZBOUhZV3VJYUoyeGhXdVliN1VuZDNHaVdDOGVQa1hMNEZsenRDTkZFR3ZacUpndlMwdkFxUzhTSTJjeEVFb19ySFlYLVMtWnV1b2hYRU0zajIyR2FWT0MweTFB?oc=5"
+  },
   {
    "ts": "2026-09-05T12:30:16+00:00",
    "title": "Republic of the Union of Myanmar National Defence and Security Council Amendment to the Seed Law National Defence and Security Council Law 14/2026",
@@ -2132,13 +2139,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/cj4jvvn4nd7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-08-31T14:00:17+00:00",
-   "title": "နီပေါရေကြီးမှု - အိပ်မက်ခရီးစဥ်အတွင်း ပျောက်ဆုံးခဲ့ရသူတွေ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c5y7r9l7r91o?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
