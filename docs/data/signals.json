@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-09-06T01:30:51+00:00",
+ "generated_at": "2026-09-06T02:00:18+00:00",
  "signals": [
+  {
+   "ts": "2026-09-06T02:00:17+00:00",
+   "title": "Working for peanuts: The precarious lives of women in central Myanmar",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSzB3aFFCSVF4MlpONWFLY083WVVMT2N1TFRGNU9yREthZEp5dFJmWV94dy03dG9tcjZDQkZ3eTBaLV92YU9hdHVwS1Z6X2xUajRhNnl6Q25HUHNjZVc0ZUVpSm1XSGxxZjg5WDFKSllaa2VneG0ySW5Gc2N3VloxeGctcmJqb01EUzM5NDZMRGFZNXI0UWFiVm1EangzSFVqOUI2WUY0OA?oc=5"
+  },
+  {
+   "ts": "2026-09-06T02:00:17+00:00",
+   "title": "Live Updates: Junta’s Election Phase Two",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTkRyUVVyYWotdV9XRnJJZ05TclA0QXUtX2ItUnNVemFQUDhiV1BtU2lWOVBya0VialJUS3NMS1VLOUVDcndfS01RNW5xNnNLMUN1Y1ZxdjhTRFJTNk43dW9fcW9Yc25KbVduUThZOVpNRk9ZOXhhb25yYXB3QjFtdkdwNEtKQQ?oc=5"
+  },
+  {
+   "ts": "2026-09-06T02:00:17+00:00",
+   "title": "USDP Claims Sweeping Wins in Second Phase of Junta’s Election",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORzUtYllDM2VkX1NRQWN4Wm5aM2s3QmRNc25oTlNubG11bWRLZjljc3RnbWtHY2RlQmt2dkwtNVY0SWtsalVLX2JOU2NQRUg3cUM3SU5FaTdFd0VmWEwtQldqWE1HWWgyaUY5ZEh1QTZzVjk5bjlRZWNYSERIekNLZDJQM3dmSTV4X004alpCc2s1ZWF0QkszdmtXcExJSXJkblFrUnl4NnY?oc=5"
+  },
   {
    "ts": "2026-09-06T00:30:21+00:00",
    "title": "4.1 Introduction to Sequences and Series",
@@ -2125,27 +2146,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVE1kTmFzVFZFVGhvb0stMFA5VXkzQllHVWFqQ0tQU1FDRGgxRXdoc1R2NzRXX01YbVY4eW1nQzNmR2FjVmxMM0dSWjBQOS1YYU13bzZEREFSVnRmMUVLTnd6c0FsdFlBdWZsclBSQUZTT1pfU0tfTVotdDJTeFNteUt4R1NFMS15VDV3UFlWYXAwV0RKOWYySGV3Nzd6cGZWLVpyRDFlSEdvbW1TTG12OFNrUHF4Q1loRUVVQkFaMWRROWZQaFBtLQ?oc=5"
-  },
-  {
-   "ts": "2026-09-01T07:30:20+00:00",
-   "title": "မလှိုင်တွင် ကျေးရွာအုပ်ချုပ်ရေးမှူးအပါအဝင် ၁၂ ဦးသတ်ခံရ",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/80881/"
-  },
-  {
-   "ts": "2026-09-01T06:00:24+00:00",
-   "title": "Vice Chairman of State Administration Council Deputy Prime Minister Chairman of Illegal Trade Eradication Steering Committee Vice-Senior General Soe Win addresses Work Coordination Meeting (2/2024)",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSVBOaXZBR2VTbzNmakdQcG4xNmpEM1k5ZnNDU1Zkam85eXI4dEdBeWNyX0VIRXNqSU5pU2l6T1BlWmhWeGRSanpCUE5fVmZDNjRYei1QRzNyV1dVS3pQTDUyMWFNRHRKZ3FQeVZ2dmNvZUJUdS1CX3J3ZUsxUkdBcjRZUWcxc2pnQ2hUYkQxell0aVJaQkVLYV9oYmozb3NHal9HZHNwRVd4R2dmMFBrWEVfeTY1X04xNkhncW1LVDFvUnZp?oc=5"
-  },
-  {
-   "ts": "2026-09-01T06:00:24+00:00",
-   "title": "Phoenix TV of People’s Republic of China interviews Chairman of State Administration Council Commander-in-Chief of Defence Services Senior General Min Aung Hlaing",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOXdGekhzNUV5dVliX1daT0J0Nk1VbzFMUU5kdWJBbTVhMVNNYzZGenhqZzlUTXB6NFJUU2ZQMm1rMU1WR1Q1VHQ4YWpjTnpyUjQwaGNKbmI3ZHNhN1JaYXltWDJRLXRzSi1wQlNHajcydFZ5akhfNlMzaEx6cTBLNzBsWnUwdGwwNGtSendRU2E3UC1zeG1RaEotbzJTem9DOTdoM2FJMU5SZGJnQXdCc2k4NFdkQU0yLUZXTjBxZm1FLTUt?oc=5"
   }
  ]
 }
