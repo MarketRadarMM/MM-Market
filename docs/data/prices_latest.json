@@ -1,11 +1,11 @@
 {
   "source": "community",
-  "fetched_at": "2026-09-05T14:45:19.647895+00:00",
+  "fetched_at": "2026-09-06T02:45:18.725250+00:00",
   "status": "ok",
   "confidence": "amber",
-  "posted_at": "2026-09-05T12:53:29+00:00",
-  "post_date": "2026-09-05",
-  "age_hours": 1.9,
+  "posted_at": "2026-09-06T02:40:20+00:00",
+  "post_date": "2026-09-06",
+  "age_hours": 0.1,
   "labels": {
     "gold_16pe": {
       "my": "အခေါက်ရွှေ (စနစ်ဟောင်း)",
@@ -38,16 +38,8 @@
   },
   "unit": "MMK per tical (ကျပ်သား); ရောင်းဈေး unless marked",
   "values": {
-    "gold": {
-      "gold_16pe": 10190000,
-      "gold_15pe": 7150000,
-      "gold_16pe_buy": 10140000,
-      "gold_16pe_new": 10030000,
-      "gold_16pe_new_buy": 9970000,
-      "gold_15pe_new": 9440000
-    },
     "fx": {
-      "USD": 4320,
+      "USD": 4340,
       "GBP": 5840,
       "EUR": 5020,
       "SGD": 3400,
@@ -55,7 +47,7 @@
       "AED": 1150,
       "CAD": 3100,
       "MYR": 1050,
-      "THB": 131.2,
+      "THB": 132.2,
       "TWD": 135,
       "JPY": 27.2,
       "HKD": 550,
@@ -63,12 +55,10 @@
       "INR": 45.4,
       "KRW": 3.1
     },
-    "wg_usd": 4430,
-    "ygea": 7150000,
     "fx_detail": {
       "USD": {
-        "buy": 4270,
-        "sell": 4320
+        "buy": 4290,
+        "sell": 4340
       },
       "GBP": {
         "buy": 5730,
@@ -99,8 +89,8 @@
         "sell": 1050
       },
       "THB": {
-        "buy": 128.4,
-        "sell": 131.2
+        "buy": 129,
+        "sell": 132.2
       },
       "TWD": {
         "buy": 129,
@@ -127,6 +117,10 @@
         "sell": 3.1
       }
     },
+    "gold": {
+      "gold_16pe": 10190000,
+      "gold_15pe": 7150000
+    },
     "fuel": {
       "MDY_92": 3865,
       "MDY_95": 3970,
@@ -136,7 +130,7 @@
   },
   "source_disclaimer_my": "ခန့်မှန်းဈေးသာဖြစ်ပြီး တစ်နေရာနှင့်တစ်နေရာ ကွာဟနိုင်ပါသည်",
   "source_disclaimer_en": "Estimates only; prices vary by location",
-  "posted_at_mmt": "2026-09-05T19:23:29+06:30",
+  "posted_at_mmt": "2026-09-06T09:10:20+06:30",
   "source_label_my": "လူမှုကွန်ရက်မှ စုစည်းသည်",
   "source_label_en": "community-reported"
 }
