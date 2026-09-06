@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-06T10:30:18+00:00",
+ "generated_at": "2026-09-06T11:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-09-06T11:00:22+00:00",
+   "title": "Moles in the Movement?",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBdm1WYjEyemdmTkxRQ0N3ZDhPQktwQk9uNmQyRWphVmgwUF92VHhKWmhIZl9iLUZieUxkZ1U2S0s2Rm5ZOXRVeWY4UUNfTUh2RTI5bVEybi1kYTVuR0ZGZkYxQzhfdw?oc=5"
+  },
+  {
+   "ts": "2026-09-06T11:00:22+00:00",
+   "title": "Myanmar History Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HVndUeVZZcm9oRk1KcHp3NmdJV2VOaGxYdWJORzFTUm5zcXlvY1ltM25LZXFLelJoNWpzTHRBS2E4OTRwdmljN1NXSXdlSGJSWmVEaDBGTHc?oc=5"
+  },
   {
    "ts": "2026-09-06T10:30:18+00:00",
    "title": "Poem 4 – Page 136",
@@ -2132,20 +2146,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZHVrY2tzalNSRmIzQkFJV3Y4am05TllEdVdwUnptX3Z0cVdZd09VMTFDZ05ZOEdRQUdJXzAxZlJaVVlORExMSi00UHNPNjcxNXQ5Uk1CWWtkMTNqandTMEJQemdxbkVOSzJOd2F2a1FkMVhJZXE2cnNxeFRnU2tubkdVZXpzaFNBWTBvanF2RWNQbU4zWEFkRWE4YkZ5QUlXZkVCUWZOaHlHM0RNeEhLOGo3SnpqMFBpcXA1dVVpT2VWX0ZubU02dU9yTEpBdW5xUGtWX2lYZ0JBYWlLaHN2SW1VRQ?oc=5"
-  },
-  {
-   "ts": "2026-09-01T12:30:16+00:00",
-   "title": "SCEF Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1vbVM3ajRfSFhjb1JqRm9kUFdSSUp2eUJQTmxRSXptNnNpV196cmFfMGc2aVM3NmplT3lFSkNpdFFwbXpHR2Z6X2pB?oc=5"
-  },
-  {
-   "ts": "2026-09-01T12:30:14+00:00",
-   "title": "12 people, including village administrator, shot dead in Mandalay Region’s Mahlaing Township",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/12-people-including-village-administrator-shot-dead-in-mandalay-regions-mahlaing-township/"
   }
  ]
 }
