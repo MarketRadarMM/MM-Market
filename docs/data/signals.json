@@ -1,6 +1,62 @@
 {
- "generated_at": "2026-09-06T18:00:18+00:00",
+ "generated_at": "2026-09-06T18:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-06T18:30:20+00:00",
+   "title": "lesson2 Seasons",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55dnVSMjNzNy1jME56QU9kWlV6VTB5bXJBLVo1UFlEZGpsLUpXZDZETTJyVmhqTDlzSTBoczlTcjBKdGMtcUdiaTd3cEJ2aFdrZnNTX2lmSkpJYVRPNFlDcjl1bGRjdw?oc=5"
+  },
+  {
+   "ts": "2026-09-06T18:30:20+00:00",
+   "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing delivers the State of the Nation address, marking the 100th day of the government in office at the second regular session of the third Pyidaungsu Hluttaw",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObENEa3hMZ2lFbXEzMk1EZ2FKdDdjQUNDVnFQY3d3dHkxWnRrelg5blh3S2pDZ01UR2hWb09Lbk1PNExwUVJaekxvbjBpOTk3RXdwOVNQSmxTMHA0SUVzbXhPOFdLTE5wbXh6cjNJLXJJYjBwSVhxTFprMkVYSUNnUUYzWGdvb21BVHR1TkJaQUNFYklSVnFnZlVYak1iTUlTSkZLbmxtZEF1Ql96VnNEZWhhcHoyUzdneXJwUV80RVNRTGp1WXZ2YXd3QQ?oc=5"
+  },
+  {
+   "ts": "2026-09-06T18:30:18+00:00",
+   "title": "Index of /wp-content/cache/page_enhanced/www.irrawaddy.com/news/govt-announces-transfer-military-",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWVU3TG02Vl80cXU1Z1BNaDA2MWlhel9LTHl2NTZTbEhyaHNIVHNLQW5XQjdWTTUtNzJEV3VQSXpZZ05lX3ZjZHhyQzZ6a1FzMXFsdl9pVFhRanRNTUlNMXZjc01rR3N1SzdJbkh0cGdzVks4LW1YczdhZ2ZmeEx6UUEwNnFENk5iQXYyQVFfR2U2dUhsNVREeGw3cXluM1NQZnlibE9Hc0RYNE1KOTY4NG1aMks?oc=5"
+  },
+  {
+   "ts": "2026-09-06T18:30:18+00:00",
+   "title": "Index of /wp-content/cache/page_enhanced/www.irrawaddy.com/news/china-offers-support-myanmar-un-amid-rakhine-crisis.html",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWUtobE83YXBXZ1Jzb05sQWNsUEJlNFhXUlFEb1ZCenNFSkcyZkd6YTZ0cXpmMHZNRWtEcjVMRXJmcXg0blhaNGdXbTQybDBCQ3pQUGs4TVJ6MXUyMGFmdkdrZDZuanYtZjhNTUVwY1BFTUtINy1nZ1ZlMjJmcnlnSzRFTURLeFBhV3IzTFk0WWlrMUlySHJuYWtuMWR0UXI1LVIxM0o1TFdIV1hCMTczZnN0RUNlSTRGb3ZmeEUyRGs3QzJvdzFpZ1VqT3JMbDBRVHQ4?oc=5"
+  },
+  {
+   "ts": "2026-09-06T18:30:18+00:00",
+   "title": "WHO Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5la2Jrc0JHVTlDa1Nlb19wcTVuM3hLdHhjVzBLZGo5MFNZUVM5cUw2a09TMURnQl84bkphSkZuYlktYjN2S3plag?oc=5"
+  },
+  {
+   "ts": "2026-09-06T18:30:18+00:00",
+   "title": "Index of /wp-content/cache/page_enhanced/www.irrawaddy.com/video/election-watch-will-anything-change.html",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTXV5OVlwQWJ0RXRCbHpXMWcyS0RrY0R4dG9fWGlHS0c1Y3IwX0dsVUxMM3g0WkQxYl8zSkt5NDNnV0NqS1YyUU1uS2FKZlZrSC1PTnFheTJQRXhCeHZTNjc2TmVNX3hBZllwT1MzMmJXVnVpNHM4b0ttZkJOU0M5ZHhfcmZ4UW41a01nUUVZUElUTUxiOGwwYmU5UVpnVlBrYlg1bE00RjUzdUJnMDZBQzFQRk4yU1IwWV9VUzVXNA?oc=5"
+  },
+  {
+   "ts": "2026-09-06T18:30:18+00:00",
+   "title": "Index of /wp-content/cache/page_enhanced/www.irrawaddy.com/news/latest-news/china-strengthens-ties-with-eye-clinic.html",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNS0M2dmxFZnFneHZEQlVranhrd1JDdklDOFRMd21hU3c0NUdMWlFpZ1oxdHkydlBmbkJ6WVZyc0MxaTlSVGdqUWoxSzRMVnJZV0dmLUFYNVRiWU1GamRaVjNyaVNVS1lPekRGdndYTTUtTW9IMmt1RDhIc0JiZV8wbzJjb0tCOGdiWWIyb19Gc3I0MFBSQzZ5dmRmemJCVnYzOGxVbmRnVDFvRXQxYUJSMEp3aDhFT2U2dUdmQU1jM0FDUXJ4SnBJdmE5YzFLTnZjQXc?oc=5"
+  },
+  {
+   "ts": "2026-09-06T18:30:18+00:00",
+   "title": "Donation",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE01R0c1Sm43SWlDYVdZMFFmb0VsRVRjeWpZSXhUV1YzeUZqOEtNOHdvWE9zalF1SFNLYlRjQjRnamIyTklYQ0dYSGZZWQ?oc=5"
+  },
   {
    "ts": "2026-09-06T17:00:21+00:00",
    "title": "Myanmar traditional Thingyan festival for 1385 ME to take place on a grand scale",
@@ -2090,62 +2146,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaG0yLWxfeWFrMGdwTVV4ZjdLTGd3NWpyUDNkdlhfbjJjZVJWa1dTRGlnRmJKRWhIRGpsSkthRVBpYjhLSHRYcVRNemdkWHRKcTJVVlZFNU1zUGRqMDFaU1RXZ0poNGhXdEIxemxOZDhqb2xpaklIc0pDb1hqRGdmWXBDZTNiQW1EaGdfX1hKbnlqRnlsX1NCQVoyYTZpYlZlU3B4dUZhX3ZRZTI1cVB6LVd0UlFiMW1mNlJNaUdCMTAwaC0tYmxQckNUU2hzbGdsUkVSQ0tkTQ?oc=5"
-  },
-  {
-   "ts": "2026-09-01T14:30:20+00:00",
-   "title": "Coordination meeting on COVID-19 prevention, control and treatment held; Chairman of State Administration Council Commander-in-Chief of Defence Services Senior General Min Aung Hlaing delivers address",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xLXF0cVg0R0g5dnc5QTFFdjY5bjYwR0dxcVVfMHBVaWlhaWNtcUNCM1MzcHlHdzY5aWwxbU9uRWRydVh5ZEdOeXlqRXN6b3U4ZlEzd1VHY1V4QWs?oc=5"
-  },
-  {
-   "ts": "2026-09-01T14:30:18+00:00",
-   "title": "‘An incredible generosity of spirit’: Remembering Paul Minoletti",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbjFxWlpJNU9iZ2FwanJIZ3gyVHp1MkY5U0M0cnJRT2Q4V1VDTEJhRjlKbHdieWNmdHg2QU10Sjh6emtHc3BhdmJhT283SUtHX3lEY2F5X3hyN0pRazFYX3IyUXZQdlJ1SHZ5YVluTzgyNkxLV3gzb3hCX3ZBaDdzWkF3ajBOUngzUTR5OFgxVkhrekhqZ0ZEa19lUC0xUQ?oc=5"
-  },
-  {
-   "ts": "2026-09-01T14:00:19+00:00",
-   "title": "အမေရိကန် ရက်ပ်အဆိုတော်ကို သတ်ဖို့ ကြိုးကိုင်သူကို နှစ် ၃၀ အကြာမှာ တရားရုံးအမိန့်ချ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c046n04dpndo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-01T13:30:16+00:00",
-   "title": "ထိုင်းရောက်မြန်မာသန်းချီအတွက် စိုးရိမ်စရာဖြစ်လာတဲ့ ပြည်နှင်ဒဏ်စည်းမျဉ်းသစ်",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/czrjm460y28o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-01T13:00:27+00:00",
-   "title": "Chairman of State Administration Council Prime Minister Senior General Min Aung Hlaing addresses work coordination meeting on national economic development",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNmRtNjNRNE1XV1dmUXNTcnZkSFZBQ1QxQkJaLWs2cU5pWXhpbFF5TGY2S3BMNUtMN2ZmVmt1VWpHQVphSG9HSmY2WEVDNl9HZEZUMXpuS09jTlc4TFNPSEhUaVRZeURmNXVrbjA1LVhiN0M3SkNFM1VJTDVIRXFTTVZlTUROU1Fyb0RSTzVmazBLZUVmQjF3bUxkWkY2eGZENTdYUF9FUE1DNU01V2xPeTdWYU04UFdBUXFlZk1TTy1WQVFjSUljVUY1MHlkZw?oc=5"
-  },
-  {
-   "ts": "2026-09-01T13:00:27+00:00",
-   "title": "The speech addressed by Chairman of the State Administration Council Prime Minister of the Government of the Republic of the Union of Myanmar Chairman of the National Solidarity and Peacemaking Central Committee Commander-in-Chief of Defence Ser",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOGQ2UFdBbE96OTZ4MjhNbFRTVnNZZGx3OG44ZU1UUGdUczRtUHNmQWlXYnFSai1jd2t4aWtTdzZIcldVM0pwcWNuZ1U3YkRiYTlQaFNjUWVqNFI5RE9LcUNDV0JLcWhVQ0hqMUFteVZqRE40THF4a2Njd3h5c2prdmstT3BpSnloNVU0dVdYV25wVkdiSXBWb0lkOW9QM2VZNHFFUV9neW1reGhRMnQwNmNNbmlndl9GSFM2OE1pOA?oc=5"
-  },
-  {
-   "ts": "2026-09-01T13:00:27+00:00",
-   "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing delivers address at the ceremony to honour students who passed the matriculation examination and technological, agricultural, and animal husbandry university entrance examinations for",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObi1xaUZQVjdheldJYkdBakNaa2FYeTZKMFcybGtsTk1rSEQ4X2tOR0dBYzJJUDhJLUpxWG5yT1R2bE1GS1pEdHlhQ0dXNEljekNrTkpYb1lrc3gwdjNXQmw0LXd4WXFVSGl5SVdRMy0wWUVRNGJ5RkV2eGpLYldCSGE1X0sxYzNTVGh3TnNkcUJweHBlNkx5TDNSOHdpeF85S2lfZ0RWcmNhMnJwd3lLaVFheFcxdTZsSnkw?oc=5"
-  },
-  {
-   "ts": "2026-09-01T13:00:27+00:00",
-   "title": "Senior General Min Aung Hlaing receives representatives of EAOs, who attended the Peace Conference",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUFBMYjJzcEJpUDVsSzhCS2F6bk9UNTdDU1hfRC1uZ2R3V3pDT0xWbjI5ZUhQQUpHNVRhcUlLbTE5TTAzVVpnSzNkMjZGZkRuX0JoeVpSOXRsYUFrbmZlRmoyRVF4ZXk3VmxxVzdCeERCUXBfRkVlc3RkNlhYcEgtV0VJOGtMeDhHd1lndTYyWG5YZEJZLVdCRzlXaERnRWx6UkZSZ000eGNBbWpOTFVVS1BlT2ZaOGRl?oc=5"
   }
  ]
 }
