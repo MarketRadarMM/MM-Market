@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-06T10:00:22+00:00",
+ "generated_at": "2026-09-06T10:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-09-06T10:30:18+00:00",
+   "title": "Poem 4 – Page 136",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wQTFwdDV1Uk5rTUZ4YTBDbTE0UXRXdTdzNHpTemdLRjZuMGdfalE3enN1eEhIb0s5WGFGV09MOWQzaTExQk1DaEZ4bGM2LXhqNm54RjdzbmFOX2tIMWZYMk9MY00?oc=5"
+  },
   {
    "ts": "2026-09-06T10:00:17+00:00",
    "title": "ဥရောပတလွှားအဖျက်အမှောင့်လုပ်ရပ်တွေမှာ ရုရှားကို အဓိက သံသယ၀င်",
@@ -2139,13 +2146,6 @@
    "source": "Myanmar Now (EN)",
    "markets": [],
    "url": "https://myanmar-now.org/en/news/12-people-including-village-administrator-shot-dead-in-mandalay-regions-mahlaing-township/"
-  },
-  {
-   "ts": "2026-09-01T12:30:14+00:00",
-   "title": "LGBTQ+ ချစ်ဇာတ်လမ်း - မြန်မာက လိင်တူချစ်သူတို့ရဲ့ စိတ်ကူးယဉ်ကမ္ဘာကို အာဏာဖျောက်ဖျက်ပစ်နိုင်လား",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cp3k18w7x41o?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
