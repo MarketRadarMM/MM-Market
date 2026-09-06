@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-06T09:30:18+00:00",
+ "generated_at": "2026-09-06T10:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-09-06T10:00:17+00:00",
+   "title": "ဥရောပတလွှားအဖျက်အမှောင့်လုပ်ရပ်တွေမှာ ရုရှားကို အဓိက သံသယ၀င်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cwyzn2eld33o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-06T08:00:58+00:00",
    "title": "USDP vote-buying complaint driven by deceit and coercion, alleges witness",
@@ -2139,13 +2146,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/cp3k18w7x41o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-01T12:00:22+00:00",
-   "title": "Nearly 400 Chinese arrested for cyber scam activities in a month",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/nearly-400-chinese-arrested-for-cyber-scam-activities-in-a-month/"
   }
  ]
 }
