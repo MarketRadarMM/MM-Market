@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-06T15:30:16+00:00",
+ "generated_at": "2026-09-06T16:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-06T16:00:19+00:00",
+   "title": "China celebrates PLA’s 98th founding anniversary in Yangon",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPanowQmk3aWFkWDhRZnlKSV9EaV9VRFN2cEp2S2JDWnN2emU1U2I5UVNWcHFKVGZnaDE0V3NBQWN1N19ZZXFNNWliQmJXaDNKSFNhaWN1M3AzMmE5WlB5cUx4SlhxR3gzU04tNVVlSGRHLXZ1Z1pyRTFEN0hHSGZ1dmN3NUhWQWdpMmc?oc=5"
+  },
   {
    "ts": "2026-09-06T14:30:20+00:00",
    "title": "TotalEnergies to leave Myanmar over human rights abuses",
@@ -2139,13 +2146,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0tWGI3R3hwNmQySXNQQmpIN2doUkdMWjB2T2NpX0N4NjRaQkxDdWNyV3dhaUZhWU5aa3RkU1RmWFBicHdGZmwteVNxRU82Q0hVR0FDVjNfLVFmeXV6SW5lRWRqNA?oc=5"
-  },
-  {
-   "ts": "2026-09-01T12:30:17+00:00",
-   "title": "YBS buses will not allowed to resume stopping at Maha Bandula Park",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNVJyeE1ObjF3Tl9nOEQ5T3A4QkhzbVo0RWxtMUUxOWFFSnZRWW4xeGc2MVlhTW5PZmFEbHkyRzdFZ3NHckNXQW5XUmpBeWQzRHd2c19YZkg1SGc4SjZkV19jcFBtOGdBNlM2T3diWnJJOTYyRmJtcDQ5eXZxbjRqa2ZNVzR6MDRHeW8xQnBSVk9HVzVGUlE?oc=5"
   }
  ]
 }
