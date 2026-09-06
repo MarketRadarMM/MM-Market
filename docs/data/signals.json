@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-06T07:00:19+00:00",
+ "generated_at": "2026-09-06T07:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-09-06T07:30:20+00:00",
+   "title": "Ministry Archives",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SbjZwY3ZLbzF1QTFVeTdEcHVra3ctUU1SYVAyVGE1R0pwVkRnMkhLZkppTGhaSkxzZGVQRmpMZlFDdjFKZFJWYy1xVG9DeUZ0OEJRZWtCclY4RGhnTG5uNQ?oc=5"
+  },
   {
    "ts": "2026-09-06T07:00:19+00:00",
    "title": "3.4 Planes",
@@ -2139,13 +2146,6 @@
    "source": "Myanmar Now (MM)",
    "markets": [],
    "url": "https://myanmar-now.org/mm/news/80885/"
-  },
-  {
-   "ts": "2026-09-01T09:30:18+00:00",
-   "title": "No Letup in Checkpoint Extortion on Roads to Mandalay",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRXB4RnZISjBKV1RVNGpIN0pjNzc4RlM4XzZqZ3hNYkVUeTdiWWF4Z2o2eFNGalNPQlRrOTI5RmQzdVJWWWE5dWg5YUlqeFRBQ3RGUFc2X0VDbW5obUx2MjdYRHhEX2RkdzRRcmRjWEhHeEdCRVJNa01uY3dEMWVzWnNEblZXNGZ5dUdLbjZwTnU0WXYyMnV6STZNaw?oc=5"
   }
  ]
 }
