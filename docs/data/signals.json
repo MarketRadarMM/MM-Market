@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-06T07:30:21+00:00",
+ "generated_at": "2026-09-06T08:01:00+00:00",
  "signals": [
+  {
+   "ts": "2026-09-06T08:00:58+00:00",
+   "title": "USDP vote-buying complaint driven by deceit and coercion, alleges witness",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbExfWGpDSWhIY2NvWHp6WHBVTWdBY2lYTGx2SGdNdkh2TTZCZDhrQmpIQ1hUNUxCYVJUaHFtRmJoRXJFUHRrSUs4amdxRExSUGFWYUtqRGJPMklPLUdlQ0gwWXB0bF9VZ2d5YVZGVXZwNkNHWFlFRkQ0VjB2a1Uxa2VpSTktaU5EaWdGMWJCS3N0WlE?oc=5"
+  },
+  {
+   "ts": "2026-09-06T08:00:57+00:00",
+   "title": "TNLA Accused of Protecting Myanmar Junta Troops in Mongmit",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRUhVcTh3SndKUTJfYkd4M21lU2hha2paVDR2VTJ0NXpqQXlIUUJrVU5BMjNIalprM2gzdW1faXFvUkctaHItRjhlTW5qQXZsSElqd2o3akd5TDk4RjJ4Ykt2V3N1U09kTGFaT2ZTc2hwM3ppRXRtV0pmOTN6NDRSXzNQbXpjdklsdjVBUHBuRXJVRkZGTHVGVnpBdzBuaWlEeXhOc0ZuYV82R2tZem1hdTFSSnB2Snc?oc=5"
+  },
   {
    "ts": "2026-09-06T07:30:20+00:00",
    "title": "Ministry Archives",
@@ -2132,20 +2146,6 @@
    "source": "Myanmar Now (EN)",
    "markets": [],
    "url": "https://myanmar-now.org/en/news/nearly-400-chinese-arrested-for-cyber-scam-activities-in-a-month/"
-  },
-  {
-   "ts": "2026-09-01T11:00:22+00:00",
-   "title": "ကြံ့ခိုင်ရေးပါတီကိုပါ အာဏာထပ်သိမ်းရန် ဦးမင်းအောင်လှိုင်ကြိုးစား၊ ပါတီညီလာခံကို ရုတ်တရက်ဆိုင်းငံ့လိုက်ရ",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/80890/"
-  },
-  {
-   "ts": "2026-09-01T10:30:17+00:00",
-   "title": "ရွှေကူမြို့ရောက် စစ်ရေယာဉ်အုပ်စုကို  လုံခြုံရေးပေးမည့်စစ်စခန်း ပြန်ရရှိရေး ဝေဟင်၊ မြေပြင် ထိုးစစ်ဆင်နေ",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/80885/"
   }
  ]
 }
