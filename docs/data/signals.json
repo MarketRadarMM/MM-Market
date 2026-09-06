@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-06T12:30:17+00:00",
+ "generated_at": "2026-09-06T13:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-09-06T13:00:16+00:00",
+   "title": "ဗန်းမော်စစ်မျက်နှာပြင်ကို သင်္ဘောအစင်းရေ ၃၀ ကျော်နဲ့ထောက်ပို့ဖို့ စစ်တပ်ပြင်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cwyz3z7q52wo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-06T11:00:22+00:00",
    "title": "Moles in the Movement?",
@@ -2139,13 +2146,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZU9PQUdDaUJublcyVDNHeXJxaExfejFWdkR3WkMwa2lxbGhjc2NGLThKWnRVbVhLZHJESG5RY1F0djI5UTBMQ1RSdERaaVNSUXV0NW9fcjhFc0N3UXB2YjdpUGpNZ21VdnR1OFZ3bjZBMVRKQ2ZfM21XdGp6dFFfWjFGOXo1MDBFcGY4dGxn?oc=5"
-  },
-  {
-   "ts": "2026-09-01T12:30:16+00:00",
-   "title": "စိတ်ထွက်ပေါက် Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZHVrY2tzalNSRmIzQkFJV3Y4am05TllEdVdwUnptX3Z0cVdZd09VMTFDZ05ZOEdRQUdJXzAxZlJaVVlORExMSi00UHNPNjcxNXQ5Uk1CWWtkMTNqandTMEJQemdxbkVOSzJOd2F2a1FkMVhJZXE2cnNxeFRnU2tubkdVZXpzaFNBWTBvanF2RWNQbU4zWEFkRWE4YkZ5QUlXZkVCUWZOaHlHM0RNeEhLOGo3SnpqMFBpcXA1dVVpT2VWX0ZubU02dU9yTEpBdW5xUGtWX2lYZ0JBYWlLaHN2SW1VRQ?oc=5"
   }
  ]
 }
