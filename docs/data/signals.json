@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-06T06:30:19+00:00",
+ "generated_at": "2026-09-06T07:00:19+00:00",
  "signals": [
+  {
+   "ts": "2026-09-06T07:00:19+00:00",
+   "title": "3.4 Planes",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE84RFd3Snp5RzdfSVZjZU5VQkF5aVZadmJneHdaY0h0aEwwYUh0WUFzUTRhTUZvNXVZUjZzOXpfSFJGbDVpdHBadVlRRVg5aC1kMGhUYlpBNm96aXVIQXVJ?oc=5"
+  },
   {
    "ts": "2026-09-06T06:30:19+00:00",
    "title": "Concerted efforts to be made by all to enhance development from regional to national level",
@@ -2139,13 +2146,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRXB4RnZISjBKV1RVNGpIN0pjNzc4RlM4XzZqZ3hNYkVUeTdiWWF4Z2o2eFNGalNPQlRrOTI5RmQzdVJWWWE5dWg5YUlqeFRBQ3RGUFc2X0VDbW5obUx2MjdYRHhEX2RkdzRRcmRjWEhHeEdCRVJNa01uY3dEMWVzWnNEblZXNGZ5dUdLbjZwTnU0WXYyMnV6STZNaw?oc=5"
-  },
-  {
-   "ts": "2026-09-01T09:00:27+00:00",
-   "title": "Vietnam Remains a Trusted and Reliable Partner of Myanmar",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPalBvOFBKNFBnY0d5WEQxWjk1N2xJNExPSXpDWTZ3NkFibldVRkE3TnFiLWpGTVM3MmxTZzNsYXRuWUhjeXlqRjRSUmtGQ0hXVmpHZnhvN1dJMm1pRnRzenZNTWZmQV9MblNjeUEyVVpxSUNEZ1B0Z1hVeDFRN2hRS0c3T2h6Y0ZjM2c?oc=5"
   }
  ]
 }
