@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-09-06T04:00:20+00:00",
+ "generated_at": "2026-09-06T04:30:16+00:00",
  "signals": [
+  {
+   "ts": "2026-09-06T04:30:15+00:00",
+   "title": "6 September 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sR3JVbzVfOWhXbHRPZ3VYcFI5dnpoYXVTUERkQTE4cXhJWlZWS2hRcWxYVDI4LU1DZjNhR3M3bjN0MjBpNVo5UWZQLVZOYWJHN0tF?oc=5"
+  },
+  {
+   "ts": "2026-09-06T04:30:15+00:00",
+   "title": "Myanmar Junta Moves to Criminalize Opposition to China-Backed Megaprojects",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMjJJYU04RkZNekEzVXVfSF81cEFUeU5YMFVENWRoOEczb2N5a2U3MlhXZGpmR3ptV0IzS3JxdDRhdjVYOUhlNWtINmdfQ0szajg2S2QtMmZxWTVxYW04c0tPOURHeEdsOVN4RXlUNUlVUGJONUE3amhSbm5mZ3lMVGFBZzlUWG9XWmtUNG43NEliY2x0UDZWbEViNEc2a19KZ2dLaC11Nl9nVkxJQ002eXFVMTZ5VWM?oc=5"
+  },
+  {
+   "ts": "2026-09-06T04:30:15+00:00",
+   "title": "YRTC Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAxRkdadkRnbnc4dnlJWFdKXzVVXzNyZWZ1bi1jMEh0UHFNOTcyYkVQZ0lYRnBiUm1YM1pRX3dUNmppbzYxVDFHWm9jSWE?oc=5"
+  },
   {
    "ts": "2026-09-06T04:00:19+00:00",
    "title": "Myanmar news anchors told to mind their language as Covid spikes",
@@ -2125,27 +2146,6 @@
    "source": "Frontier Myanmar",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa3k4T3lkN1lwd3JMUGxlc0FpNVRtLTdGWGdKT2pzWGw3d1gzSWJkNkdJeXNTc2tsaUdZUk52aXNWMXIxcHQ2cGJlZzZnc3RUaU12VXA2MDV2X0JNZ1Q2cnAxSHIyZFo4VHJSY29hS1FVYlNrN29ickJzc2VObEZ3cUl3THZHV1VQbWI1M2lGWXJSX1gzTEJQbXcwVnYtMDNV?oc=5"
-  },
-  {
-   "ts": "2026-09-01T08:00:25+00:00",
-   "title": "Business | How Myanmar Regime Chief's Family Profits From the State's EV Policy",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWUM2UDlVMUQ2VXJGU0c2RGxhQzZ6ckwwQS1nUUpTellUVmdBSXNhZ2ZORG1LQTdvS0wwSkFEdEZlQzlQZFFCSTlFdWVDMUVxMTRmWnhFT0FhbXR3cU9CeUhPQlppbkNvX3pMYkhhY0tZdDRLQ2pjN1VaTllMVXplNHF0Uk5IUl81V2ZmbG44UXQ2Wnl5b1ZYSWthM0dNUkpVSlFTdkJRWDV2UQ?oc=5"
-  },
-  {
-   "ts": "2026-09-01T07:30:23+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9OOHVSNVJhdDQ2Sml2UGgxaE1FMkxhZThZY3dxWVhKb3loYmlybHpKNnJpbXpjaGRSUi1VNmFLT251RWlIbWdKNU8taw?oc=5"
-  },
-  {
-   "ts": "2026-09-01T07:30:22+00:00",
-   "title": "Myanmar, Vietnam co-chair 10th Meeting of Joint Commission on Bilateral Cooperation",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNHlmNnhYcV9acmdrandiNUxONWp5ZGJad2l3dE9rRFRwYlEyQmEyamhiazYzMTBWZncwcXBkTnlZdE9BTmxHQXpINHotZkx3N253U3ZMZVZRdlUxal9nb0xVQzRoR2JEQzZPT2Q5bHVrTzZ5bEI4MHpVRWZkMjdxTjk2VkoyY0p4b3ZjZTBOUEZjVlA3SXhDbVBmeUFmMVVxOWxoYWwzZ0pvem8?oc=5"
   }
  ]
 }
