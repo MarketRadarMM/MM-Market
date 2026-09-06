@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-06T13:00:22+00:00",
+ "generated_at": "2026-09-06T13:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-06T13:30:18+00:00",
+   "title": "Abraham Lincoln Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tdWF0SnE5a1ExcGIzMVE5MGRvSFRaNnZiYUVURFVkaGluTnl5dHJyVmZrb1FnZmtnT1dOUVNWX3JIbTM1Tm50VkwwV2xtbEhFQ0RzSWNaSE5lM0E?oc=5"
+  },
   {
    "ts": "2026-09-06T13:00:16+00:00",
    "title": "ဗန်းမော်စစ်မျက်နှာပြင်ကို သင်္ဘောအစင်းရေ ၃၀ ကျော်နဲ့ထောက်ပို့ဖို့ စစ်တပ်ပြင်",
@@ -2139,13 +2146,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaFR2TXlDWTNTUU5VUEthNThOcUdZNkJiV1o0M1JzRDNwOG5iMjR6RFh2RGpEVTk1SnJvd2oxUW8xalNRT0NsN3c1Mzg1d2VELVNqMHlNSG1yaHlQWFA5SXpmcUh0eDF1MHhsNTJwNGJFcW0yc3NtV3d1MHFvWjRkRlI0S2xreHJTQXdqQ0dB?oc=5"
-  },
-  {
-   "ts": "2026-09-01T12:30:17+00:00",
-   "title": "Four healthy tiger cubs born at Yadanabon Zoological Gardens",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZU9PQUdDaUJublcyVDNHeXJxaExfejFWdkR3WkMwa2lxbGhjc2NGLThKWnRVbVhLZHJESG5RY1F0djI5UTBMQ1RSdERaaVNSUXV0NW9fcjhFc0N3UXB2YjdpUGpNZ21VdnR1OFZ3bjZBMVRKQ2ZfM21XdGp6dFFfWjFGOXo1MDBFcGY4dGxn?oc=5"
   }
  ]
 }
