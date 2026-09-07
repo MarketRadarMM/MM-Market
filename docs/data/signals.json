@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-07T03:30:16+00:00",
+ "generated_at": "2026-09-07T04:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-09-07T04:00:20+00:00",
+   "title": "ကမ္ဘာ့အဆင်းရဲဆုံးနိုင်ငံ အာဏာရှင်၏ ဒေါ်လာသန်းချီသုံးဖြုန်းမည့် အာကာသစီမံကိန်း",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/80995/"
+  },
   {
    "ts": "2026-09-07T03:30:15+00:00",
    "title": "Page 94",
@@ -2133,13 +2140,6 @@
    "source": "Myanmar Now (EN)",
    "markets": [],
    "url": "https://myanmar-now.org/en/news/hundreds-of-myanmar-junta-troops-surrender-after-flotilla-ambushed-by-kachin-forces/"
-  },
-  {
-   "ts": "2026-09-03T05:00:21+00:00",
-   "title": "Ethnic Issues",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tWW5hTmJpR1IxNkdsbThyY0E1aFFLMzdDRW9NdzAtRkZ4cGxwZmhuems1UzRMZ3l2RE9zTjFZOFdtRElpQzNVMVY2aGhlTHBKZWFtanJSOHdTdC1Lc2MtMEdhZw?oc=5"
   }
  ]
 }
