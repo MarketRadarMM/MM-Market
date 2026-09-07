@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-07T22:30:17+00:00",
+ "generated_at": "2026-09-07T23:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-09-07T23:00:22+00:00",
+   "title": "Go-Go Bar Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRdWhQb0c3TlpwV2dSbk91Y0VsNWY3elFBRjE0R05RNzB1cXprUkY1YllSR0llOU5ITnY1akVpcjB3RFczcDVKY1FYTS10SDNOUHh3?oc=5"
+  },
+  {
+   "ts": "2026-09-07T23:00:22+00:00",
+   "title": "The Struggle Goes on",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SNzNicUlabVE2Qklmak5QdjYwdlUtM0gxV2JFY05hOVR2ZW5IVVJkdVl3NGZPR0RKd3hSQzdqYnVBTXNJdTc3V2JER0pHWDlhenltQlpHUmJJXzh2Nlc3cllWVHYwSFdh?oc=5"
+  },
   {
    "ts": "2026-09-07T22:00:25+00:00",
    "title": "Tatmadaw columns recapture areas in and around Singu town and Letpanhla Village",
@@ -2107,20 +2121,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS2RVcEdZaDJ4WEtBRF80Qi1iV2dHMHBIZG5TRndSZ0tRWTRXc3FhNnJQbkdZVWVzN0JWQkx5d1lxU2ZaQ2daQ2p2eGFLajBaSXJQUHhOMi05MHZDLXI2bXA0LUxSN1pHeXk1OGFiM2wwZUpXRUMwanVhVkJCTkpfX2xqVjYxM3pqUlNxdkFqQWIyU3I4SHhwTklkODNwTHd6VHFyV0tlazdLb1ZXcGU3TkJXSHRpbDFlZG1NRWo5N1Ywc3BoUlMxbXU2QjYyTG9l?oc=5"
-  },
-  {
-   "ts": "2026-09-05T06:30:20+00:00",
-   "title": "Acting President of the Republic of the Union of Myanmar, Chairman of State Security and Peace Commission, Senior General Min Aung Hlaing attends ceremony to present cash rewards offered by government to athletes who won medals in international spor",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMWNfc0pGTmlUVHYzZ0VFSjhDOUFjTGwxX0RMNkt6R29sZnZ0ZXRxdmhZbXNUWGU5djV3VGxoWFRzclo1NWMwTFpUNDVfWVBiSkQ5azFRV3ZjTGFUU0luMGRURHlCMWJLdTVMSUxfTXNrRk9TS25qZlFYaWdWNWR1SHFNNHhGRDhjQXk0UDA4cDU1dXVCbUNsWDNOSjVNWGRtYWdiYklMZDZ6alJsZ3MzZTVUT3VZQTU2MkpHMmNR?oc=5"
-  },
-  {
-   "ts": "2026-09-05T06:30:19+00:00",
-   "title": "5 September 2026",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kMy04ZXNSZEo5SFByZ3JfVVlyY01tUVFmajlPeUdoYjJRZEE4NVQ4bEc0VzBHZ2lMREltbmFHQnRpaWJmVEFYTnp1YVJBcE1TWnFV?oc=5"
   }
  ]
 }
