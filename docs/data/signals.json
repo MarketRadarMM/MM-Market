@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-07T01:00:23+00:00",
+ "generated_at": "2026-09-07T01:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-09-07T01:30:16+00:00",
+   "title": "ပစ Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoY0dQaFRrVDZ0TXJyenFvRXVsN1JicUh6NEtBU01hbzRkRXo5Q0xzY1BCYUNYems2ODZiUWEyZ1RYazk5MGVhSERhc001bHdSa2ZvaVFoaDlPRGxBdVJR?oc=5"
+  },
   {
    "ts": "2026-09-07T01:00:21+00:00",
    "title": "KIA Seizes Myanmar Junta Base Controlling Access to Jade Hub Hpakant",
@@ -2133,13 +2140,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6cEJCTUN2Tl9mWGRHN3FfV1J6SWpndTl4dXRURWdXazBQVG03RFZvLTd3Unh5UEJMSmpidGhhQ3FJSUgzR0pOSFpKZ0VkeWZpSG04N2N1dTF1Z00tbThBVXp1Y0ZzeDVlX0tWcUxGNlV4clpOdEVCMGN2Z09IYkU?oc=5"
-  },
-  {
-   "ts": "2026-09-03T02:30:21+00:00",
-   "title": "Only3400 YBS buses available for commuting 1.8million passengers daily",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWC1rNnVTaVF0Y295eVdKbk9QU3VzSXJ0MEdjQmg1N1dSWkhaVmcwWDljQ05oVzIxMTBOQ2lFb0xTWTZlRjAyUlBfUmRNMW56dnFvRFFmeWFaUE5JMTNwd0xWM21ieDdwWXQ5TkNVVVR0RWl3RjUwNXBPYUNfUlV1blk0REdwUGFGdzh4RmlVZDRRMEJ1cjRGZ0t4QQ?oc=5"
   }
  ]
 }
