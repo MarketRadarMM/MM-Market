@@ -1,6 +1,83 @@
 {
- "generated_at": "2026-09-07T08:00:22+00:00",
+ "generated_at": "2026-09-07T08:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-09-07T08:30:19+00:00",
+   "title": "Myanmar Parliament Approves Constitutional Amendment Committee Report",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTDRXVzQ2MThxVnJPcmwzVUF5VzBfM25PVTdfOHJ3R3ItTE93cDdqNTBMQS1DMjBUMmN1eUNQV296b1c2dEdSYVl4Q3A4UDg5SVJ6VkhYSlpYZGhGTmpFLXNKOXdRb0RiVzdXNTBHTmZnVVp1MVp4anY1ZmZSbUFlTUgxanY2dS0yVHNQVkRLMDNOMDJRbzRCdlJkZFJZdFo0N0xsUlotOXVZcDhIQUNHaA?oc=5"
+  },
+  {
+   "ts": "2026-09-07T08:30:19+00:00",
+   "title": "Pale People Defense Force Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0MWFHR1JBYUZPenFXeUVuTHJLRDJ4SnFLQV9tMkVHYWxnMXBSUTYxejhhX1V2T05RaUV1ZTRiSzA1c3BLUm1WZVBXVzNlU0VDMlZJaDRDY2R5aHRlLUlqNm5wc3otdw?oc=5"
+  },
+  {
+   "ts": "2026-09-07T08:30:19+00:00",
+   "title": "Echoing the Party Line",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxbFNwN2RVellCQ09Gb2RXcEFWTXh6VW5KNTF4WHYxcHM5NEhDR2xxVlRzQTlJbHQzblF5WlF2Q291aHBPVEVxc1pIUWtFR1h3VWx1ZFY3eGlqdnpVYy00?oc=5"
+  },
+  {
+   "ts": "2026-09-07T08:30:19+00:00",
+   "title": "Irrawaddy Business Roundup",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CcmMwX0xEWXp5YkRONnBRLVdMTk55eVluUzcyRzhLbWRpWjQyS0ZfLXBvZnNRYnJUV1pITk5GM1gtOWw4ZE54cGd0cFJyTU03cHBIYWV6UEYzMG9Eb2NybVlBOXh0M0VtS3ItV3Fqckx5c2lmSUJfN2tsSQ?oc=5"
+  },
+  {
+   "ts": "2026-09-07T08:30:19+00:00",
+   "title": "Italian Ammunition Used in Myanmar Police Assault on Ambulance Raises Questions",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdEh3OVM1QTBVd0tqT21xVHZZSURiS0t4RXBwNk5zQlNmR1N6eVhZUm9oczdKZWJ1V0plTGJidEd3SVRLNUMyRXotLUZRMWs3cTZpVHczNWV0dkxVeUFNaHNQejR4Snp6SFB4dDhwY1lTc0o5bGRJYWwtcTlSMThmRXoyMXUzdUdBY19hY1B0TVo0WGNVUmxjVU4xRWdsdzBlQUplbGpCS0xWeHZBRmlvTVAzQ1lLdw?oc=5"
+  },
+  {
+   "ts": "2026-09-07T08:30:19+00:00",
+   "title": "Julie Bishop Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWVmpqMTNXWUNRSGpaY0NVU3NEOVJ1Z1RRME11dFg5dDdsS2ZPUGF4aEJYX09NZk1PZk8tT0doVVJHYUFQX2lUNk1GdU41Zko2S1VnOQ?oc=5"
+  },
+  {
+   "ts": "2026-09-07T08:30:19+00:00",
+   "title": "Video Archives - Page 64 of 65",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6VmI1QzhUdmNaZGd2LTVHX3ZCRWVySUxqYmk3X3AwTVJnRVFGTzR0MUdCdV9UVEFxYzdNNHQ1NUdETVUtTTducmtKRzZOVmU1dTJ3d0RjYw?oc=5"
+  },
+  {
+   "ts": "2026-09-07T08:30:19+00:00",
+   "title": "Myanmar Junta’s Western Flank Collapsing After December Defeats",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOU3RpaEtaRmQ3cERIUWJVOFEzN1dranFZcTF5N3BVaTU5X0luQ3FEbkFLSXZmeXRPT2tVQjhZX3hiUXFUb1pCanEwNkU5MnotUlhEZnBuRXBEQ0RQOVQ2X180dWJGNmlQX0ttSFJfdEpSMXN5S0xWMzZQT2pyNjc2VHNJRDZiUW04cHh1MUZlVm13UXBtMGlmdDF4UXlIaFNicDlsakY3ZGJUUEllOGFyNUUwd0NKd3RmNEZMbQ?oc=5"
+  },
+  {
+   "ts": "2026-09-07T08:30:19+00:00",
+   "title": "Page 81",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kOHJIUVR2MUxzNXdIUzNkd0NvY3RHckpKVjM1Tnd1dmJmbWdRRzZ6SXNrbzR1S1V2dHg0N1VvQ0Z3dEFIRUNkbHBhQnZ3czdqTmV3?oc=5"
+  },
+  {
+   "ts": "2026-09-07T08:30:19+00:00",
+   "title": "Land Speculation Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uZDZ1ZzVWRkZLQzZEbUxEUlZCNDlLc0RrOHNkcVFvMjJSaUVGUlVpdjNQNExnMmVfVmZFajVVWjZnUHJtQTNVVHNFNXdtR1N1bTk1OVNhM2VRQQ?oc=5"
+  },
+  {
+   "ts": "2026-09-07T08:30:19+00:00",
+   "title": "The Irrawaddy News Magazine [Covering Burma and Southeast Asia]",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RM3RwSzd1WktFTHhGeUUtRkNCWnJYNi00TDRGOVRPQnlDYm9rdXQ1VmRUc2I4a2t3cnVBNU9VUkFGZk9ad0xSaEVIV3FlY2lBV0NlS19CN3RvMV82LWxNOTVYdTNrTTE1bkNQRVpTQWlUN0l6aFNmbzFjUQ?oc=5"
+  },
   {
    "ts": "2026-09-07T08:00:20+00:00",
    "title": "Workers’ Conscription Fears Leave Mandalay Businesses Short-Staffed",
@@ -2063,83 +2140,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNkJBNVE5c2dsXzJCNTBlbmd5Yzh0bkYzYkZ3UTd6NnhaV1NReVUwVWUzRnRBVTVqRGk5dkZaSnlPaXN5VEhBbG5YdVc5S3dnOTlRWTlIc0ktUEhmUnF0QU1wcUVDM3V6MmJiQ0FwcmFvUmQ4Q3F6Vmxpdl9ETnN2cTEtTHcwR2JQc2dnZ2JjLTV6VG9YdU83c1kxNA?oc=5"
-  },
-  {
-   "ts": "2026-09-03T20:00:20+00:00",
-   "title": "900,000 Myanma pearls produced in 1st 5 months of FY 2026-2027",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWGVfSEgwclprdnhBQ0FObE9RM0xSTFBWRl9MVDBjMTBuTXNvVWxxa1kzRGZ2SnhfVXVGZEZCQV83dlBWam5PNERBbUpUdWFYSkhCU1JoSHVmS0NTS2hsb240Ul9DZ2VFN2t5SUY5SV9Ca3lQOW1DaWRsNGFuVVNoV0h4RHpVT3dGaXJ5Qy00UQ?oc=5"
-  },
-  {
-   "ts": "2026-09-03T20:00:20+00:00",
-   "title": "4 September 2026",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA5Z1NkSWhQdm9oQXBYbjRZalhDclRzUE9obE9DQWxYUUszVm5LNFhwc1dnRlFrQXIzbUlpZTFma01hVHRPYTRxd2JNRXlBdmFUS3dF?oc=5"
-  },
-  {
-   "ts": "2026-09-03T20:00:20+00:00",
-   "title": "Inter-Ministry Sepak Takraw Tourney group matches begin",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQVZsVXJlN1RFRTBKb2ZKeE84LVVWOWI0Rll5dkM2czdWZkJfWERxcElXUFliaVR2NkVJY3A0eWhkYkZIVWNTY2JSRVIwTU1RdXNIN09mMUlJY3ZIWXFhQ09qMVJrYUc4OEpSY3EzWjVONTR2VDBvVzFBcTJFYUhTTzYxZ2JRams?oc=5"
-  },
-  {
-   "ts": "2026-09-03T20:00:20+00:00",
-   "title": "Grand Royal M-League Matchweek 2 set for 4 to 7 Sept",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRS1HU0FYYXJRYm9wRC10TzVkZUMwVzJpR3V0M2dUVU9UUDVocTR0aWYtZDAtRXJ5M1V2RkZ5eFRadTVwT0ticG5LdUR2RUItZi1pc2FjT2xBM3FvaU0tc1FnczNfZmdkd0lkR09Pemt4ZWxacUpHUlQxUWFKcUx5cGNFYw?oc=5"
-  },
-  {
-   "ts": "2026-09-03T20:00:20+00:00",
-   "title": "MFF to expand regional training centre programme to 8 centres",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb3l6SHdWX1JTV2lnRlRJbVYtWUpPUzJkYU9tT1hLSlZYUmNvNGtSZ3hQc1RkYUx4bnZrMjdiREtsOTBhdUFqazNOengtc01BQjJrbGdwRTZfTEJZa1Y0TElMZXczX1lHa0VHRnlBYXowSkVZalE4cmxTNkEyMTFReDJ6b3dVZDhvaUZvajZibw?oc=5"
-  },
-  {
-   "ts": "2026-09-03T20:00:20+00:00",
-   "title": "Royal-D Golden Belt Championship to give away 100 free tickets for semifinals",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdmd2LWt0X1pEUEhBc1JYWjhNV3VnM05tQk02bFJISTcyMGp0LWpVMVlzZXd0Q2ZtcTktbzZyNklsUkk1LUxlVTdueTRZUmpfeEw2bm1UQjN3eVhhUlc3dkJYLXUxZE1uVEhiNUpoR3dQeXpDM3dub3NXWE1nUEctNkRsTDU3RTJUcnIwaC1QLUxvMTFkZ0YwSXRleHhtOTZ4TDlPYQ?oc=5"
-  },
-  {
-   "ts": "2026-09-03T20:00:20+00:00",
-   "title": "Myanmar U20 team thrash Brunei 7-0 in AFC qualifiers",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcml4QV8waHA0bVhtTi1zQnFDTG1CTEJfN2UzRG9SakVseEd0NkNvMUhTZUdXOVZYMUp3dHJPc0tTSWIwUkdGY3B5NTE2ZnRCaVdkei15V3U3ZTdOSXVLTXQ3YktjV04zSXpZa0ZiamNtNkNCVXpvZ3g2d1c5RXptVC1WZw?oc=5"
-  },
-  {
-   "ts": "2026-09-03T19:00:32+00:00",
-   "title": "Opinion Archives",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DWUNvWElfM3U1OXoxS2ExVFE1RzlPeG00Mk1hQXVIbWJtQ0N4MjFQT3RUVDlIbTNQQ2dueXEtSlR2OE9NbmhqRHpFczI4UTRFRGlR?oc=5"
-  },
-  {
-   "ts": "2026-09-03T18:00:23+00:00",
-   "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing inspects ongoing undertakings for tourism development, greening and urban development in PyinOoLwin",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONUJob1VJaUhoQ1pCSmJiLVVEaldTX2VqY0RxTU1zRnZJTGlYNEpwb3ZCVVFaY3VWYi01RFhqZWs5NUZZSXgxX0RJZ2wxVWJ2aTNGYUxoSDktYU42dUxiM2xUMDBYcnhUNGxxLWJMeElxRWkxUk0wYThISHQ4VF9QbmQ4S2prb0FsNnl2cHlVWXU0ZlpfeFVoT0FGRnM0NEMzVDVLT2lxYnRaRWFQeXpXVE9HZUFqQQ?oc=5"
-  },
-  {
-   "ts": "2026-09-03T18:00:22+00:00",
-   "title": "ASEAN ministers push stalled peace plan in Myanmar talks",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQW0xaDlsRzRaZEt2b01aMlRWemdnWXUzM2Q1dnhxRkVjTWJoQnV5S0NJQ2c3bTBwcW84a1N6bG1ZYnNNTGh2TW5HUzN2X3p3V3hsWVktTFhidVhtRlR4Qkc0WER2T2xmelNEbGxNWnJfR2FhVTFyMGpxWUM2ckU4ZDFWNGpZeHQ1ZWswR1Y1QjdfSkk3ZjZNOHJYYw?oc=5"
-  },
-  {
-   "ts": "2026-09-03T17:00:21+00:00",
-   "title": "Myanmar Junta Propaganda Vehicle Joins China-Led Media Bloc",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRjA0RkUtUGVMSXY3UUNlcFlxbTBwSVgyNWZCRTFHLTV6OWxURk1NY05MVWRlaE8wZHZNTzZ1TTllTG5NNFAwZjNTZVVibmFGTHU3aXVKMDM2OVFfUXJBQ25UN2VwcXAyTHQ5UGx6amYtdVo5Tkt5b20xckpwaVZqS2p2Nks0Q1BQRTRTYTF2NXF3NDdub09oNEpjeDNCX3pKclZhdlR5c1YzQ0J6MzVUcUJZN29DQQ?oc=5"
   }
  ]
 }
