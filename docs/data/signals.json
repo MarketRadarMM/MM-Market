@@ -1,6 +1,69 @@
 {
- "generated_at": "2026-09-07T20:30:20+00:00",
+ "generated_at": "2026-09-07T21:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-07T21:00:18+00:00",
+   "title": "Constitution",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsNHVtaGhNOEZmNXFRUkVmOU04SW9JZURPTS1nU2l6VjUtcE40M09uR1NLYXQwS0lWcnNfTmdQM1JUM3RsTklrM0VnZGtibDM5eE9FdW0yNjFwUUp4T2k5YUxyNFY?oc=5"
+  },
+  {
+   "ts": "2026-09-07T21:00:18+00:00",
+   "title": "News",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQVTNPeWs1S3NMcG02b1ZlMm5YNnZLN0JsT2ZGWmpmNGN3QmR2QlVqckp0Uy1BNjBRRnBkaXZrVmdxWkYxR0FLcXpRaE9ZcC0xUERxRV9OWHhwZ21p?oc=5"
+  },
+  {
+   "ts": "2026-09-07T21:00:18+00:00",
+   "title": "Photo Essay",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IY01HZXVaYjdVSHBDaDFLRnIyeW1PUWpGbUtkTm9Uako2YkktZUtyZlVYRERVcHRTSlFDM0gzaDFRR09rR1FDRm1kZVhPdG9idUF6aUNRUWNnQQ?oc=5"
+  },
+  {
+   "ts": "2026-09-07T21:00:18+00:00",
+   "title": "News",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xOTZ1b0lRQUdZYm5qSXB0THRPSl91Wmt5S09IR3poajBIY1lWSVgzdEpLUDY5VnZOQXlidzRVdE5ISHdCaWpxOXVSa0ozYnlCMnBxNFc3U3ZRYlox?oc=5"
+  },
+  {
+   "ts": "2026-09-07T21:00:18+00:00",
+   "title": "News",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCTUVDbWRzdVI3ODRXOE1pWHR3a0NfYl9QSk8tMXFERWJfUHJjS3d5a0ZfaUl1YTQzd0Vva3UwVlF0S1I1OENXVVNjYWVMdy1zcWRoTFMwazNHXzhM?oc=5"
+  },
+  {
+   "ts": "2026-09-07T21:00:18+00:00",
+   "title": "Cartoons",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qYWN0d3JkMEhFU3Bhc3lTeGx5Z3dFVUNqS2c1VUNsZzZfMjlKMVQySGV5Um13Y3R2X3dOaEo5ZmdER2JpS3NfdVNUdGxyNjN6S0F4ejJR?oc=5"
+  },
+  {
+   "ts": "2026-09-07T21:00:18+00:00",
+   "title": "News",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6dmpaVVlJU0F1VjdHVl8xYW9scXp3OVo5RlVrelVzaWdfVk1OeXNlLXZlcENsM3k4UjBCMVNHSENBSVRwV0RiMFNDN3ZkQVZwYVRmcUpzTDhXN1k?oc=5"
+  },
+  {
+   "ts": "2026-09-07T21:00:18+00:00",
+   "title": "News",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQTHVob0JjYXpLR3ZYR2o0cVVweXJrSTQ2V1BHMllaMHQzRFJnX1Y2RzJBSVVQWUZlOU5pQm1hRlJETmJjRU1yaWxOdllZR2ZrcDV1YVZJZmhsYzJn?oc=5"
+  },
+  {
+   "ts": "2026-09-07T21:00:18+00:00",
+   "title": "NLD Network Making Donations to the Needy",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zeklwcy1PM3ppeU9ScjZqbGlTamJ0cGVOYkV5Vjc1UzZIR0owa2VNbzBfVDhuZ1BLLVFDb1lyM2lvN05IR1dpOTI4UTR2emhCZmlEYnp3aWlycGpuWDdWRE9zX2pSaWFu?oc=5"
+  },
   {
    "ts": "2026-09-07T20:30:19+00:00",
    "title": "News",
@@ -2058,69 +2121,6 @@
    "source": "Frontier Myanmar",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNUU2QVpiNXF5NmZCOUJ4d09qU3QtNThmcXBuQllTWlIyYk45Yk1aUzY4UHhQdWw2dkQ1UXFHN3JvVFNqZ1lZQWI0bm50S0QzSTJBbGVoeVk4c1c0N3VyUHl2RVVMbDlPNXZTTE1laGV0UFU1eS1wTzg0TkNqS3lfRUdMQ2VaaW9IN2hOWGdEd0JwUUNFOGg2dDE4Uks5WTlzZ2Iw?oc=5"
-  },
-  {
-   "ts": "2026-09-05T04:30:18+00:00",
-   "title": "Guest Column | How China Weaponizes Asia's Rivers",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUkdzLUhZVHQxZDAtdEdTanowMXZHRmF4d21oWFlhdGhyZHVhSTVyWDFZc3FLUDBwbFMxNUZMa3dJUE1ZUjh0V1lIY1pRZFlMY3pQUFB5c1AwQS1mcVllYXFaLWlLbEhNa1VPTmtpQ2ZqY0c0VTV2LTJiZmFBdThkbEpIMDlSc0JidHpyYVNn?oc=5"
-  },
-  {
-   "ts": "2026-09-05T04:30:18+00:00",
-   "title": "Myanmar Junta Losing Grip on Key Sagaing Stronghold as KIA-Led Forces Advance",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSGN0SFdJV1dhSWV4bXVGQnVTRkMwX1VHNjVEM1lLVWtXUktuUG8yZ0Z6aU1LaGE1OFNrTDdObWZEMmdVeEZtOEhaeUtUMWJvanJ0eDhabl95YUhkZlJhNFVpRWhBN2ZQNlIwNmpOOXhDVTQ5czloamU0QWQtQVZ3YlNzMTlDSVdDSHJBcV9MOHQtWHZzY3ludWN2QVVOUEpDelR2N0FwQ2ZSYWpGbzg3VHl6dzB0MUxsQWNV?oc=5"
-  },
-  {
-   "ts": "2026-09-05T04:00:20+00:00",
-   "title": "Will Thamanya Sayadaw’s Body Ever Rest in Peace?",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TS21jbkwta0FaVWJVRzBtTDg3U3F5a1EzZUY5dk1aN1BqWXgtTVhVZzlKcm5pcTdjdHdqQzE0Q0tfVW0zSTdTalo4MFYteGxLM284WnJsZjBCMzRWVUM4NA?oc=5"
-  },
-  {
-   "ts": "2026-09-05T04:00:20+00:00",
-   "title": "President's Ceasefire Order Fails to Stop Offensive",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TQm9acmJfX3dwZWRqSEJwdlR0b0FqeG1CdHJwSzF4UmxWdjFadXJiN2JTdlFJYXQ0RGtxZGJBV0lvTXZyNFpackVtTnF2NEQySjQ2VlFPREdFTzV3empPRQ?oc=5"
-  },
-  {
-   "ts": "2026-09-05T04:00:20+00:00",
-   "title": "အငြိမ့်က Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYXhRcW5ickRxNXdMbkxJeUpjcVJvOE14cTFid2lkUnJ6ZWZfQ2E5bk5kOEZCQnBaeUNveUJLdVZSajlWSGZ5R0J4RlhmQUlNd1JRSEZBWWh2YWxtT28zdEIwMkxzRm9pYWp0NExiX3oweGxoMHowN1FIVk1DU2pfUF9GLXVIZlJFQ0c2Yjk5Y05wSXJjRXBDak1iXzBlem50TkNXWDNuOA?oc=5"
-  },
-  {
-   "ts": "2026-09-05T04:00:20+00:00",
-   "title": "The Vanishing Lady Tycoon",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83UnB0QzNZSFBvdnBQNGIzWERJU2N0SmdmQWFQTlZNQ2k5OVVqUk41NkQ0WTdra3NOZWthc3hISlNYa3hqOHRMelRzT19ad2ZCaDB4bTR4SjBXWE04M2c?oc=5"
-  },
-  {
-   "ts": "2026-09-05T03:00:17+00:00",
-   "title": "အိမ်အဝေးကအိမ် (သို့မဟုတ်) ပြန်ရန်အခက်ဆုံးတိုင်းပြည်သို့ ပင်နီဆူလာမှလွမ်းချင်း",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/80980/"
-  },
-  {
-   "ts": "2026-09-05T03:00:15+00:00",
-   "title": "စက်တင်ဘာ ၅ ရက်သတင်းများအနှစ်ချုပ် - သတင်းလုံခြုံရေးကျိုးပေါက်မှုကြောင့် အရေးယူခဲ့တဲ့ဖြစ်စဉ်တွေရှိခဲ့တယ်လို့ ဒုတပ်ချုပ်ပြော",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c4gvedggzl5o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-05T01:00:21+00:00",
-   "title": "Chin State accelerates rehabilitation and reconstruction efforts",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWkU4M0tFNUJlbGZKMlpKSWVtVjFvb0hweTFLdFR2VlFFT0VIQUdQQ3JxMmVTZWlLSTg3enRfUDI0X1E5RVdRcm9BY2RBTTFfUnkycXlfc3hBXzU5dExFZHdjcml4ZU5ScVRlTnFydGVRYlBUdC1NeWZxV0tLbWVmN3pGNjVPb0dwTENQLVlEWDFCclU?oc=5"
   }
  ]
 }
