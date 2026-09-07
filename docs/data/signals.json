@@ -1,6 +1,41 @@
 {
- "generated_at": "2026-09-07T04:30:16+00:00",
+ "generated_at": "2026-09-07T05:00:25+00:00",
  "signals": [
+  {
+   "ts": "2026-09-07T05:00:23+00:00",
+   "title": "Irrawaddy Business Roundup",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQnZsVDIyc1RuMUdmbHZkWlRqU1lVcUV2V0o3S2tSXzFLSEIyUVZ1X1FOM2tEbmlTS1pwajNRQ2RIUVlKNDlFWENHbF9RWGlnMUpGYUxLYm5GclgwZjF5dEhjX1RvbE1PTldPa3J1dFJiLUhuVnl1X0Qzbkk0OExSZlI4VGVNRzNtaXhnSGlobw?oc=5"
+  },
+  {
+   "ts": "2026-09-07T05:00:23+00:00",
+   "title": "The Irrawaddy Business Roundup",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb1RpWGVfQTgwQkJ0em94RmdhWnNBeFJnWmpZRzRqQXc5RkNyalY1RWNkZkFfUEtBcXdFVEZ6akhrZ2d1ZkFiYk9yMUdtVnVreVJtc1hqZVJ2TGRvUkJxV2pSeFA5c2dNb0paTDdmX01YWFhXUkhXeS1ldEQ0Y0NiM0U1Tldrcmt4cTNsM09pYw?oc=5"
+  },
+  {
+   "ts": "2026-09-07T05:00:23+00:00",
+   "title": "Indo-Pacific Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fUXZiMnd1ZnRzcnJjb0R1MnpTNEgyTW51S0k5dTdDSFgxMlUtU1lBTTY4cFRQcVVsY19DVzRjdkJ4ZjVYcnphc2tjZ2dJbFh3MG53Qw?oc=5"
+  },
+  {
+   "ts": "2026-09-07T05:00:23+00:00",
+   "title": "Page 3690",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mUUg5WDFaMGEyT0VSS0MzbElXTEY4TmJ0TDdEa2FOal9EWkpGWkJDWEl1LVEwV0xsSzQ4UnVlR2xaOHdWWWk2aUhOZElsOWNjdzhJQmxn?oc=5"
+  },
+  {
+   "ts": "2026-09-07T05:00:23+00:00",
+   "title": "Canadian Foresight Group Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LaXZiM29jOUxFWlZXOGJ4NWl2TmNrV3RZMDRiXzU5RkNScGhQN3RwNkZCcHZSLUlsaUxzWi11aC1IWHd0RFctSTBfZGlSQTI1dDRCQ2tBWEN6a0ZmLWs1NHdRMkU?oc=5"
+  },
   {
    "ts": "2026-09-07T04:30:14+00:00",
    "title": "Page 115",
@@ -2105,41 +2140,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWnVaX2FTcnB6UGk1bVE3QkxfNTdrdzJBRDJ1eUFmRjJvNkN2VC1TcFhzZ1dydUR3dVdvX0E2OGwyRW1PQ3dEYXpkaFFOV3B5blJWamRZOEQ1UG9WNkp6RU5ZRU93NVhrZ0RScHM3UjRoV01hQnUzbkwyZ3E0VTFydE52OFZrQTdnQXFJ?oc=5"
-  },
-  {
-   "ts": "2026-09-03T13:00:30+00:00",
-   "title": "143rd PhaungdawU Pagoda Festival set for Meiktila",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vY2tvcHJRSGI1VEpObk1XWVQ3OHpNLWlfR1c0UktxMTU0aEdCM1lpb25iSVlrdXRrVnJPYUsxZ3BDWkd0VmJMaGxvS3pkeXVfX1BpSFpKMUxQN0RrTjljbTFZeEhZdmVUZWlNUXppSDRyUVczLTFGX2J6UE9HZzg?oc=5"
-  },
-  {
-   "ts": "2026-09-03T12:00:22+00:00",
-   "title": "‘Hard to breathe’: Myanmar communities forced to live among world’s trash",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNFhtMVFhR2hncWlaQ0VxQmRvaVJDUG50bDVkOG0tWUI3dDd4STRxX1ZhNExUM0t0a2VwSWh1MDVXWG41QVIyUm5LdXl5NkNkSG1FZE9sQjloR3lTbnl3Nl9GMTM0VF9QWnp1bkltZFRaQnFfcVlwUGNqclpfVGVPN0hTYmZhNzlFaFUxMTI5T2cxNUlacjB5OTEwTmdtNG5FaWZ0UGhFRFI?oc=5"
-  },
-  {
-   "ts": "2026-09-03T12:00:20+00:00",
-   "title": "ဗန်းမော်သို့တက်သည့် စစ်ရေယာဉ်အုပ်စု ထက်ဝက်နီးပါး နစ်မြှုပ်ခံရပြီး ၁၀၀ ကျော် အဖမ်းခံရ",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/80956/"
-  },
-  {
-   "ts": "2026-09-03T11:30:27+00:00",
-   "title": "14 schools temporarily closed in Bago as river level reaches above danger mark",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUi01RGdXZm14R3oyRzZNSWNvaFBWaXZBYUdfa0ZmZENEdGlyNVhMdXRxZkhiZ2F6QkFhejh1MEtnYng4TEstUHhKQjhaWnphcVl2SDdQeVNEM3NpZUdyTDlfYThVQktzSUJPbGlRTldWX05URXY0TFZwWER6VW9DUmNSSmk0alU2eUZmM0EyVThHODRJSmVNX1Q0QnA2dFkwWnM4ZDZn?oc=5"
-  },
-  {
-   "ts": "2026-09-03T11:30:27+00:00",
-   "title": "3rd Yangon Baby and Kids Fair to hold at Myanmar Expo Hall",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNT3FYTFlqdFdDSXF3VXNlcXhfU3lENUVVN0Y5MHFZQ1o4TDB0WjI2WmJxVFpmUExucS04djNOSVlRekJsMlBQb1FOaDlvYWVXeWdud1RqOUdjU0F3RnNVR3gyRVU1QTVXZjlFRnJ1M3NxQk5vd2RqSHpmQmJwOXZmdUlmRUdmRmFNUDRJ?oc=5"
   }
  ]
 }
