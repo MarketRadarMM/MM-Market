@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-07T03:00:22+00:00",
+ "generated_at": "2026-09-07T03:30:16+00:00",
  "signals": [
+  {
+   "ts": "2026-09-07T03:30:15+00:00",
+   "title": "Page 94",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hWXN6YlZrRXlqVDdTOHFvME9oQWd5dVU1MXBqNkRHaWwyN1l1LUN2MGx3TE9VZWtFUWRzeEdXNzdxeHpnR1p3cHNoMlVCNmVPQ3o4?oc=5"
+  },
+  {
+   "ts": "2026-09-07T03:30:12+00:00",
+   "title": "နေပြည်တော်မှာ ငှားကားစီးပြီးနောက် အငှားယာဉ်မောင်းကို သတ်ခဲ့သူကို ဖမ်းမိ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.co.uk/burmese/live/c9rk36nd7lmnt?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-07T03:00:22+00:00",
    "title": "Chairman of State Administration Council Prime Minister Senior General Min Aung Hlaing inspects rehabilitation activities in Sittwe, Rakhine State, and gives necessary guidance",
@@ -2126,20 +2140,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tWW5hTmJpR1IxNkdsbThyY0E1aFFLMzdDRW9NdzAtRkZ4cGxwZmhuems1UzRMZ3l2RE9zTjFZOFdtRElpQzNVMVY2aGhlTHBKZWFtanJSOHdTdC1Lc2MtMEdhZw?oc=5"
-  },
-  {
-   "ts": "2026-09-03T05:00:21+00:00",
-   "title": "Politics",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DZzYtdWJpX1UzR1BndVlZSl9zZ3RLNHdOV2RxV1RRSG1GZ0V4ZTA5RlJUNU5Dc2x5aG4yVXVHY3ZxbXJ0VTlnNFM2eHYybmQ0bVA1RHRsRm5LcW1L?oc=5"
-  },
-  {
-   "ts": "2026-09-03T03:30:22+00:00",
-   "title": "3 September 2026",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rdDZfbGRTZGF0MkNLUjhoQmRlSjRGMWpIS1gzeHlEM2Z2U283Z0pSQl8xWXc3S1d3OUdocG5KSEQ2VDBQb0JlTEgzSG9XWTgwTldR?oc=5"
   }
  ]
 }
