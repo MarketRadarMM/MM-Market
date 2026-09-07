@@ -1,6 +1,48 @@
 {
- "generated_at": "2026-09-07T09:00:27+00:00",
+ "generated_at": "2026-09-07T09:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-09-07T09:30:17+00:00",
+   "title": "crystal methamphetamine Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5TRzFTX19XQTVPNDhQN1ZJcm52VGs1NnBuZmpEMHQ5Yy1QNnJsTTNwYzhNSnNlakw3OUZGLVdiSldSQjFmOW9tQnlNdjlzZjRrdmY3M0JkeFl0N1hTa0lSTFIyMA?oc=5"
+  },
+  {
+   "ts": "2026-09-07T09:30:17+00:00",
+   "title": "News",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqdDFhSThTTGpoaEVHeXctdDBaak9NMVU2emUxMUVjVmNWUFBwQXVBNy12RlVJX2pLMFJ5THpoM1MyOE1RRVgtV3NvX3QzbDIwUmdVclluTEhRTENE?oc=5"
+  },
+  {
+   "ts": "2026-09-07T09:30:17+00:00",
+   "title": "News",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55X3B4dFdFN1VrMHZ2RlBJNXc0aWhpdllTdThkTHlXa1ZjcWo1aW03RmxLSkRoRnRKVTZKOTFyYU1jbnprem1QcUlLVU1EOTA3cllhN2hBNF9UVll5?oc=5"
+  },
+  {
+   "ts": "2026-09-07T09:30:17+00:00",
+   "title": "Page 98",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoRkE1ZXVPTi1qSWJHemhwTDZIX1dtSWtnOE80MHhUV2ZRQ19zZy05YU5UUkhmLWFBejNKOWFXcm9Ld1dWQVNvVkFsUEVvRTI3bXg0?oc=5"
+  },
+  {
+   "ts": "2026-09-07T09:30:17+00:00",
+   "title": "The Irrawaddy News Magazine [Covering Burma and Southeast Asia]",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wUjNwTHlFY28wdldqUS1aWU1SU2ExZVl5c0NXYWdkR2VVd2ZGNkdzaHZuTXYtZHlQV2hFUWp1Q1JOc1dpQmdzb0JjTjlyNHpUVURPYXR0aVp1dXBPM3lEaDc5RWJ2anFl?oc=5"
+  },
+  {
+   "ts": "2026-09-07T09:30:17+00:00",
+   "title": "Asia",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9KeDJEZ2NfMFlXWVFGdzVkRVhhTDc1T3NrR0tscklYZUFoZk5XY3UxOTc2cEhlY0NhaWM1ZDg2QzczVjRYd2JEUkktenFFa0xtRm9jUzlyU3BRVDc0VHBEbHZRSQ?oc=5"
+  },
   {
    "ts": "2026-09-07T09:00:26+00:00",
    "title": "Court Acquits 8 Farmers Sued by Owner of Unused Land in Irrawaddy Region",
@@ -2098,48 +2140,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMmR6YmIycThkbHFVNU54Zm1MNUExZDZhcWtrTnkya1JncXNqaTBKeTJobS1POXc5Mk5GazFNc2JNZnlIclRUMUt6NUt5XzJURGxBOTlLRXpScFdJSW5mbWNFMVFnejFodldyTWxqdWFSM08xeG83ai14NjBOZno3S1lCSkRvSVVrb2hKVkRqT1puTWYyZmpwWkFXQUtXN2IxNi1QQ0s3d2xhUUt3RzlLVUJDc0N1dnc1N2Z2S183Yw?oc=5"
-  },
-  {
-   "ts": "2026-09-03T22:00:23+00:00",
-   "title": "Business Archives",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBjYTUySXlUeU1LVmVUNklTbG9Vc1I0bm8yZ2NIZmdFUk90eWJKajUtMXBGMC1FNjBtSlBPUFctYUlGQnRIbmk0ZXpwNzF4MjVtWVhNSQ?oc=5"
-  },
-  {
-   "ts": "2026-09-03T21:30:19+00:00",
-   "title": "Analysis | Will Min Aung Hlaing Seize the USDP Chairmanship?",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcTF4RDBRM1dPcnZhbk9MUTl3RVJEREdTSE1VNk5nOVZDUVJzSzF0cDRYNFNTSDZ2cWNJQk5xNHpoOWZqWkQtb0RlTHVydW1URmxWVW5wdFFQbG9jMWlyV3JwNzU5SkNxRThsVkxyc2gwcEdPY2Vlcmp0UVV2b3lRN09WeXFaTG9uNFNYa0pkY0ZCakthZW55U3R5ek0?oc=5"
-  },
-  {
-   "ts": "2026-09-03T20:30:26+00:00",
-   "title": "Guest Column | Together We Build: Mural Celebrates Migrants’ Presence in Thailand",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORHh3R0Q1aGRtNDNpOVBVcHptOWNwOXpKSlNUQ1ZhM1FNSXMteWxYdVZFV3I4dWJ4b0dCMmtKMHBzR1VRWWZsV3dwNTl2WldxaFFxR21pTTRwODNzSThyRWd2ckw0MUJEVW9BbC1DSnRTcXBIaGJyc25mdndjSVZsMUlUUnlwWFd0Yk16RDVSNVE1SEVTdmY3N0wyRXE4R21WM00xZzRFMnNkSmRuOVZtQUdYVEFwbVk?oc=5"
-  },
-  {
-   "ts": "2026-09-03T20:30:26+00:00",
-   "title": "Over 40 Civilians Slain in Regime Rampage Near Bagan Temple Town",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeXFUT3c5clBRR1JZTDlPN2RZeVYwQzY1b3RQaUlsZW5LcURMQjBmOGJrSXFmNExmMjJXQU8wTUVscVlHVHh6LVJVdUlmb01mdmFsY3F4bHhwXzY2RVEtTnlrTUluT202Rk4tZ0N2ckNlVUwxdlI1d2d5Wkt0MFBCR1FZMlZhT3lMdEFWWldnYVlyZ0wycGJTMWJRX2gxUXRxUkRpeklkTDFhdw?oc=5"
-  },
-  {
-   "ts": "2026-09-03T20:00:20+00:00",
-   "title": "Beyond the Numbers: Why Regular Blood Pressure and Blood Sugar Checks Matter",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeVE2ZXVDUVJLX0p5X3R2aDhEaFo4dExqOW0tc1YtYU9oLUZjMFEtRktNY3NMcWxNeXN5NE1zTkNKTTQtLThxS2Z0N1RzRnl3RjVYaGM3bEVLSGNCLXVISmkwVFlZMlNMWXgxRHFaTmJSYTlQNkp4ZjdRN1pBbEJ6LTJ1dlJKV0dNMG1YLWRGV3dpQzY3SGNwSG9RVlZEaUVFT1E?oc=5"
-  },
-  {
-   "ts": "2026-09-03T20:00:20+00:00",
-   "title": "Branches of Linguistics and Their Importance for English Specialization Students",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMEZMM3Q1OHdtdEd0a3BSbXFUalZPY0lDZmZJZ1k2Q3NYZnN2WERGQXRPd1hscVdvSTVRS293NFBJTzR5WVJac2hLeWdFTFlNN0hSX2dtVmhfY2dVVzNrcFhuZzVyMEN1b1FJUUZVSHdYRWpwaGdPdV9PbHl5Z095ZDBGR1R4RmZIcXJRTThmUE95eFI0eEZSM0I5dDZMWUR2MDJzTGtNckQ?oc=5"
   }
  ]
 }
