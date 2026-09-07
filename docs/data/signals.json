@@ -1,6 +1,97 @@
 {
- "generated_at": "2026-09-07T12:30:16+00:00",
+ "generated_at": "2026-09-07T13:00:25+00:00",
  "signals": [
+  {
+   "ts": "2026-09-07T13:00:23+00:00",
+   "title": "President of the Republic of theUnion of Myanmar U Min Aung Hlaing inspects Diesel Locomotive Factory (Mahlwagon) of MR, Ministry of Transportation",
+   "source": "Myawady",
+   "markets": [
+    {
+     "market": "fuel",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "Fuel-market story — read for direction"
+    }
+   ],
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdGpBV0dTUkxFamMyQ1J6dlNYVzhuTTBjUzVWQ3AtRnJUXzZDZjM0ZXlIRWtJeEJQaGh1V3Q1d055WlZVcG9YRjRxcUV3WW9ZRlBqUGV0OUhoX0ZEbFlic0VjY3Axd1V3ektrRFEtVG16SEtTazBUZEVfYUlPRnh0RlRzMXZYWFJvSXEtaTNyYWVEZnFtc19kUjJ5RDZUSV91bjdCbzZFUjdMdjEyeHBqeTBKWG5QMl9WdWxvLWh5MXJLdE0?oc=5"
+  },
+  {
+   "ts": "2026-09-07T13:00:23+00:00",
+   "title": "President of Myanmar U Min Aung Hlaing holds talks with Chairman of the National Assembly of Vietnam Mr. Tran Thanh Man",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb2RjeFFhUGw1U3lHTjl1NTN6YUVxN2pBUF9XU0lXaDNpRjBYZkxvQUFtQ3VfV2g2cUdibEl0ZTVLZkFHNy1wODhxdE82aEFEaFpVN25JS3lqWU82ZEY3S3ZfQXF4VEE1ZXBFSlMzc3NKN1FYUmhPNWUtbDluOFRmdkpjTmh1RlpJUThoUi1MckFQUGNRd2IzU3UtT1I0eXQwbVpIMUdaaUNjREl6LUJSSUxwaV9hUk9aa1FtNy0tanE?oc=5"
+  },
+  {
+   "ts": "2026-09-07T13:00:22+00:00",
+   "title": "Banana waste consumer goods trial-export expands to ROK besides China",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZTNnN281UGxUYk5aNDJvckhBV0VVbEVaRE9aWDRicDBHV2ctTW13VDdIdVNuWDNfNlJvdlMzdENSSUtHTGU3ZldnYmhiS0pWWURQR0thSmNrVC11ME1KejBXeGxSb0lodHNBTjUzbWhqWXdGa1ZnOS1RNzhOQzNpUlBIM0VNa0hWdzMxMGd5TE0yd3VRUUF1cF93?oc=5"
+  },
+  {
+   "ts": "2026-09-07T13:00:22+00:00",
+   "title": "Earthquake preparedness, response rehearsal conducted at Yangon University",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd2tqWExZZWNLNi1wblREZnhGR3U3X1h1TzVCdW5uRWhnM09IT3VhS3FFdDBSakZfRmVNSUhpYWxnY2FnVnlXaXhVUGhzS3dqOW9GTDkwYlFNMlBpU28tbGVOa2taTUU2bVVkQkw3SGRhdllwNUEtSkFNNENycXE5RFZZMFpmbXI5NTFkY01WOHJmbUtHUkNGWHRRLV9PTUk?oc=5"
+  },
+  {
+   "ts": "2026-09-07T13:00:22+00:00",
+   "title": "A cute baby donkey born at Yangon Zoo",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9pUG9qSWw5UVp0bnNaRzVqQ2xVUUFvcUp0V1ZHaU9vZW5uSnJmVlUzYm5pSk5uM1ZONFBtZEVobUtkeG9jSjdRTg?oc=5"
+  },
+  {
+   "ts": "2026-09-07T13:00:22+00:00",
+   "title": "Fire Dragon International Futsal Cup 2026 opening held in Yangon",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQmtTNUFQV0hNclkxdmdzY1RPdWl2TUU2QzJYa05NVnhrZnBHeE4yZzdJdWdXM2MyT2gyRGJ5Nzd2NnlkaHo3MXlwZXRraFFkbXZxTlR3b1A2b0FrMDVVOXBzR2kxb2RkbmVyWjdITDAzbzlodFhOZWlXT2FuZV9lSHQ2TGl5ZkFGdkJyN25iSlA2R1U?oc=5"
+  },
+  {
+   "ts": "2026-09-07T13:00:21+00:00",
+   "title": "Gov’t Spells Out Conditions for Signing BRI Deals with China",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcDFvYnpqaHA2bGd5UENfNkFnU3N3Znp4RHcyOTV1YjBIamVvWTk1ZWVMOTZLWHAtNVhRSlJzRFViU2N4RGFYNXZTX0FtOVAwTWpEMk9MT2h0NmNFdWlPRFl0ckMxRTRDS2VBWmxmaTB2cEtfUWtJY0h2c1d1azNYQUtmUjVEWTdUZnlreEo3NA?oc=5"
+  },
+  {
+   "ts": "2026-09-07T13:00:21+00:00",
+   "title": "Myanmar Junta Reinstates Warrantless Arrests, Home Raids Ahead of Election",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQnlSUk1hS0tDZmtSRWRpU2tvN1dTVFJaVUllUWxEcEtEOExLWC1VcFVoM3o4NHJINWRsZ2FaQWphN3VLNExaNmFhNE84M0FFaGpLR2c0eGt6dHN1NTIxSFJzclgtd3JNcUtTb0NWZzQ1SVl3Z09LVzFibEtheTNCc1YyQ0VxQUpvUjVRcWoweFhwTzVTejN4SGJNN2JJVDZCQy1FR25nVnhFOVRHazB0eG1yTlREUQ?oc=5"
+  },
+  {
+   "ts": "2026-09-07T13:00:21+00:00",
+   "title": "Mogul, Minister Among Irrawaddy Election Hopefuls",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcFVieXZPR1hZbXU5SDZfQUpaYS1qRzAzdjhrRVJpRGY0b3pBT25RLVBTRGhtb3RrSlNaS1R4dFZ6R1pGdi04eHlJbldiMUhIWnFxSW0za1BvYTNnMkZsM0ljck5wUmtoUDJZMXJmNWR4V2RXLVFhcjB4YzRySWxnV2NQODUxWEJpTlJ5aGNDdUJ5dElWYzJZ?oc=5"
+  },
+  {
+   "ts": "2026-09-07T13:00:21+00:00",
+   "title": "Human Rights Program Launches in High Schools",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdGtfYWZLVGdfd3EzUTNZdWRjMnROOWRaclB3NXpMQ0JsZGZEMmRQeU1wSE53Snl0eW9memVqSGlSWjFkcE40N2dNYWhHQWpSSXJvMHhaVk8wY3lzendtd01ZZm9QbDhLbjRDNk1FOUdFZnh1QUNDaEJERU9MRnZLMldLWkczTGd5MkpFZA?oc=5"
+  },
+  {
+   "ts": "2026-09-07T13:00:21+00:00",
+   "title": "Page 3670",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83cFZtWlhpY3hkNjlNSjlSZlAxaHFBVzFIemF2LWRVeE1CekgwUFZ2UUd6cExCVTI3bWhVMWhlMzFpa1EwYnlrc2tWS2dvSHJOcFJzX0Rn?oc=5"
+  },
+  {
+   "ts": "2026-09-07T13:00:21+00:00",
+   "title": "Min Aung Hlaing Courts Vietnam for Business and Military Ties",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS2paT2tPb0w2di1MYWdZbUtIdkU0djQ3Z081enBfTmVtMElyRVVRdVpXQ2I0WVdBZnJ0QWNLOGJFaEZUWnNRRU9yVWVGc2RoMXNuazdqdEF4SlpCd0xPRzFyZjFoWl9IUDVzSkt1X3hack1fMklEc1dQQ1d4YTQyY0VNWS01QXNVU2VWMGlLMnRVcXJ1NnBHNWVrM2JZekNFc2FNc1RB?oc=5"
+  },
   {
    "ts": "2026-09-07T12:30:15+00:00",
    "title": "Page 111",
@@ -2056,90 +2147,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaHVueW5IV2lMcnJCalZDR1N3ZnN6bXd6My1QeEFQTVY5MUpkb1NuX3FQYXlUNURiVmtuNFQtaVJ6bmdWS1hVMEFSN0toaC1qbXc1TkpMVkw1alJqazVXalVNMHI5RGxFVXJQRnprZllEcDc5aGZCTjh1b2xzbHloeW1Pa0I2c1Ywd0gzbFdNMkFDWjFmT0dVeC16RVJnbUhEWkJzbGtGWXpPalZSUGpqNXNZWlE2MVkxNXJhaTNfSTdiUzBhNkE?oc=5"
-  },
-  {
-   "ts": "2026-09-04T12:00:26+00:00",
-   "title": "WFP to provide free transportation services for Ayeyawady flood relief",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdnl2bVczUk1MTU5fcGt6eDdoVVpEYVQ2MUYtNkhXdlFQUzlUcGdYUTkzbmtxOWZIN0R5RWVLNkR2bi1YRnFYQUZfdzNFaEhGcURTN0V2U19TTzFsdWxKM1I3SE5Nb2lCV1cwVE00bFBVNWhlODZMQ3k0anN2SU5XcWpvaXRuOUs5OHdWMzFXWk5tZkJyLWMyX2xlVQ?oc=5"
-  },
-  {
-   "ts": "2026-09-04T12:00:26+00:00",
-   "title": "Myanmar Business Trade Show and Travel Expo 2026 held in Yangon",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRENSOGRxRFpzM2FHMVFTa1lQMTZseHFaZnpLT1Rhc1ZFLVg0MlYzaEh6MWw0VG5LVTlsV2puT0Jkc215N1FRT04xSk01SHE4SXNsVHVzUzdWcmE1T2h4a2FTSVhpZ213M1VLRG9lekpmNC04c25wNUJPX3VpaGc4WHo4eVA1Um1yQ3pCdEpEckdzUQ?oc=5"
-  },
-  {
-   "ts": "2026-09-04T12:00:26+00:00",
-   "title": "Water level declines slightly at Ngamoeyeik and dams",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOakZybEFKT0hycS1HZHFzUWZtRkNvQXh0aW0zenktYU9obG9QMEo0cU9mM1NZZGlQTzZtUWFYdVp6S3J0TmJ1b2RhSlh6LURoVVRuekE3MWFCZGN0d3czUnZZd3F2NXNaMW51ZGRtcURHaEZzVnhnUk1TMl96MTRTN2xrbw?oc=5"
-  },
-  {
-   "ts": "2026-09-04T12:00:26+00:00",
-   "title": "Zoo veterinarian workshop to share experiences of cares for tigress Wyne Chit",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYmtEVms4ZlRtZFgyNDBzMzdVSzRjUC1aS1NiVHdDQ1JWY2dwdkJMWEF6YWhhNlBTSFNpR2NQUFhERnQ0RklPOXMyTm5wQmNqdW5QLVBZUUl5Ti05NER2V1ZaTzIxV2xmZXVrZ0h4b0otNkFKMW9PNkxaR3pGdC10eEVOTXAtVThnbVBhV2pCLXdNQlZIN1RHSDl3VGtBZEhDR05obA?oc=5"
-  },
-  {
-   "ts": "2026-09-04T12:00:25+00:00",
-   "title": "Rights Group Slams ‘Complicit’ Vietnam for Hosting Min Aung Hlaing",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWlplbGdzMG9nUXNoWDVYTW5fdnJEbEZaaWlYXzJwc1BRa3gtSnJXd1pRNS1uZlM2R0dGVm9QZEs3OUtmYkx6MmJaYThENTVyV1R5ZkYzLUxMMnRtaWlEU1BETWdDZ2pxOFZuUkpCT0g4M0l1UTJFSDNIQ0VES1RZa1A1aGd1UkNOQUpqNGFNZFBGQmRwYWpxM1VnWGdLOTdUTW4xUURHOVpCNzJ6REl2eDJHUUtON0IwRkhsbTQ5Tmd6d2JI?oc=5"
-  },
-  {
-   "ts": "2026-09-04T12:00:20+00:00",
-   "title": "လက်နက်တွေကုန်သွားလို့ ထရမ့်က အီရန်နဲ့အပစ်ရပ်လိုက်တာလား",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c1k183x3p37o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-04T12:00:20+00:00",
-   "title": "ဒေါ်အောင်ဆန်းစုကြည်ကို ထောက်ခံခဲ့တဲ့ မင်းသမီး Jane Birkin ပိုင် Hermès Birkin အိတ်ဒေါ်လာ ၁၀ သန်းကျော်နဲ့စံချိန်တင်",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cj9xerr883xo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-04T11:30:15+00:00",
-   "title": "Index of /wp-content/cache/page_enhanced/www.irrawaddy.com/video/will-myanmar-leave-asean.html",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWTRBVkdJUmVvWXN2WklmWFZ1QURRbU9jWVNWWWljRXlnZTFkN0plU3dBbElpTm1EN1RxQU9RNDZwNmtJTzlMMXJ5VnFRSjYxU09qX29jZEw2Q1I5RnVWb2JhNUdhbDhwWVR6WVczMlBPYVpIdFZqRExXTEVLVWxnemlja25pRnVHT3JLUU92WWFlRDc3RlphaUR6Nm1kdWZabXE1b2liVWs5ZF82aTZ0TQ?oc=5"
-  },
-  {
-   "ts": "2026-09-04T11:30:15+00:00",
-   "title": "Min Aung Hlaing Vows to Normalize Myanmar-ASEAN Ties Despite Genocide Charges",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVWMtT1MxYi10MFZtRjQtUm1MNXROSndhU29tQUoyY1l3OEJteFBwaTNIVUJxZzVMOENyWFA0bi1yOC10SjZLNnB4dkZMY3ZSQTNFZVVXYXpQalBOcE5BTmJJVGR4VUI5cVZOU0hwYVNSZmFBVy1qVU0zUmZDdXRtNnJTRDR4ODBYNi1UWlNTczRMM2xXMTFVeTVKdW1ITjNkTEhWOEhDTTRrTUdyOTZJUTRweExhZmQzQllrRlZ6Zw?oc=5"
-  },
-  {
-   "ts": "2026-09-04T11:30:15+00:00",
-   "title": "Index of /wp-content/cache/page_enhanced/www.irrawaddy.com/news/politics/usdp-claims-sweeping-wins-in-second-phase-of-juntas-election.html",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUE5xOTFmMmVzQzlhX3Nac1Z0VmFzRW5mZjdSX2RhcVZ3bDZWR2lyNl9nZDc4VHlyQ3M1NzM3cmNJZWlfN0dwQTFkZ0dHSGd6Q3MzWk1PejE2Q2RCdGpxRWk5X1NLOUp5enAxS2VkRnV6ZXFWQzJycDR6WWZEMTdPamlBQ3NYMFlkTGxEa01nU2VvMXVOSENMeHVsQXA3MllaZ2FvUnVHbElDaGg2ZDM4eVBvX1lzeFhCQUpGSFlPMV9xbVdFaUpMbUMzSWtfdUYxaFFlU0c4Z2FuT2NUQ2pWMlUxZ2l4MUFHVWJV?oc=5"
-  },
-  {
-   "ts": "2026-09-04T11:30:15+00:00",
-   "title": "Index of /wp-content/cache/page_enhanced/www.irrawaddy.com/business/the-irrawaddy-business-roundup-december-24.html",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOFlOMmU0ekZUQklXcFJmTjdGb0hiTHQ2MzRVcVZjd3BXalJTY1I0ZFhpT1poWnB4RnNYRjI3YUZKVzh4Si1neUtsR1BpX3dVMloxd3BTbC1XUFVfaTFzXzdLSVJ1bWl3cEtvVjJvcDM2MnNlMC1Ta3h3S0pMNUxOM0V2UlctREVDc003dy1mNTZVWV9SQWItODFPRTFzMzNqNWZZWnRKbGZQSVBTS3dQQkplemNLaXY5UldHbEhpalctOG5UNlBWNkNuZXA?oc=5"
-  },
-  {
-   "ts": "2026-09-04T11:30:15+00:00",
-   "title": "Index of /wp-content/cache/page_enhanced/www.irrawaddy.com/category/donation",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcEFURXphbnU1MlhpVnliTm00c2sxYi1ObXNnVVg5X2k4d0R1SDI5OF9nT2JCSEdoRXRjNHJmS1ZFbUZYOEtZZmNlZ05iRzFuQjc1S1JPcnhGNGxlQ0VIdDIxM3ZwNHJxVFhUN0VHeG5TZ2pIRUxlWW82RjFQTFc3ZldYRmU3SFFqcTZ1QkdaU1gzNFVoZGdoUw?oc=5"
   }
  ]
 }
