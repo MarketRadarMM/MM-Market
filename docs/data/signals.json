@@ -1,6 +1,69 @@
 {
- "generated_at": "2026-09-07T11:00:21+00:00",
+ "generated_at": "2026-09-07T11:30:17+00:00",
  "signals": [
+  {
+   "ts": "2026-09-07T11:30:15+00:00",
+   "title": "Exile Community Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBsZXFWUm56bnc1Ry0xOVlBb2tsZTlMd0xwTkZvRk9FS3l3SXBMVVpocmtTMGdrZWlxbkY2dXM4eUxVTW9sb1RCOHdMUkNVUmtuQWROVm4tUEU?oc=5"
+  },
+  {
+   "ts": "2026-09-07T11:30:15+00:00",
+   "title": "Mad Dogs and Dictators",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3WXd2NzVjX05kNHZPUVBWckUwTkRJWE1kZE1hSDhwZnM4cEZqSnc1Zld2MVkzY0o5dm9YQmIwT1VNQUxJRE8zVGFRQnJHRFVzSWIwb1hKMlhUekhHbS16TGVjM2thVjg?oc=5"
+  },
+  {
+   "ts": "2026-09-07T11:30:15+00:00",
+   "title": "pneumonia Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1LbVBoSGNYYXVFRVdYNHI2eE1FcFp2cmpSUVJWc1k0c0EydmNwdE0ydWpQdTdNck8tck1UMmQ1UUQ1RlNOY0lRQTgyMGJjNzFh?oc=5"
+  },
+  {
+   "ts": "2026-09-07T11:30:15+00:00",
+   "title": "The Irrawaddy News Magazine [Covering Burma and Southeast Asia]",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42MEhaQ0JVQWJOX3prLS1nTWplTll3V0hMbTQ3YzNNa1NubHNObng5WUdxcGtzUFYxd2pRODZtRFhNVWFZQjlVS2lKVVdqOEYxbmtqYmk3U3k2SlNnM0xfU1BDaFJiQW5S?oc=5"
+  },
+  {
+   "ts": "2026-09-07T11:30:15+00:00",
+   "title": "News",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wMUI3OWUydnpOUlZKdGJkd0psRXZwOGlhc3hUc3lQZXN4Yk82OW9HeU55bHRMNThzM1lIUDFLOGp4bDBVWmRnMF95eXdiUWY1OG9vdTBCT2Racms5?oc=5"
+  },
+  {
+   "ts": "2026-09-07T11:30:15+00:00",
+   "title": "NLD Union day",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JQm1LT1BNYXgybkFzQ0RITm12RDI4Y1o3OGxHcUN6QmNhYWF6MXlqd2xoZ0lpVHpVRjJMNmRiQVkyT3RlM05hNTJLVnZmYUtqSHZncEhoOTExQ0RYTXFGQ2FEdEx5OEx6UTlYVVVxYXA4LWloVFgzNA?oc=5"
+  },
+  {
+   "ts": "2026-09-07T11:30:15+00:00",
+   "title": "The Irrawaddy Business Roundup (Aug. 8, 2015)",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT1ZuOERqSzNoaHE0S2NqVWVlTVJ1QlRUWjdKcnFpZVNkNGQ4ZmJwNGhiUjBUNUF4cS1xVkg1U0hmaFJ3RFlJWjJlenQ0My11YzVoU2UxRzlfR21JRTBtOUx1UEROTlBFNGprbEF2QkY5ZDRSODE1N3VDWG9WSHFwNlpfcnlBM29x?oc=5"
+  },
+  {
+   "ts": "2026-09-07T11:30:15+00:00",
+   "title": "Dengue Fever Kills 20 in Irrawaddy Division",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS0Vwei13S19OWkotQzRocVFqMTktTzhHc3pYRFA0TERpY0hhZ2lrQnBIal9IS2l2VHdxNm5VM3NUN3E5ejNwN09ETENzNmdOelJJZW1wZUtTN3VhcHhHdER6OFc5RDBZZEIwWFJqQk5nbjZSc0stVFQzVHhrUkRURnVFNkN1aEtyMmc?oc=5"
+  },
+  {
+   "ts": "2026-09-07T11:30:15+00:00",
+   "title": "Culture",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxWkJmNU80S0VPeTBLME9uVkV5R0ZEeERNb01Ga2VxQl85RWhmM1VHbkVPZy02Z21VNDNEdE5yTlRWNVZpbTlTOUZqVnRNNzlfc21HcXBNS1ZrYV9DNk40?oc=5"
+  },
   {
    "ts": "2026-09-07T10:00:22+00:00",
    "title": "ငါန်းဇွန်တွင် ဒရုန်းဗုံးကြောင့် ဆရာတော်နှင့် ကလေးအပါအဝင် ၄ ဦး သေဆုံး",
@@ -2077,69 +2140,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KZkR2Xzk2eS1fV1duWjF5M2Z5eHpFc19fa2Jud1huOVVVYlZjajVhNV9qSVpCN3ZXaWNySEhMbEtWbkZISENuUjN4WXlSZ1FrNnk3UW9OZ3pLdHV5VlJqWlc5M0Rmb0U?oc=5"
-  },
-  {
-   "ts": "2026-09-04T04:00:19+00:00",
-   "title": "‘I wasn’t allowed to cry during the wedding’: Forced marriage in Kachin State",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOHAtNjBreUFYRUxhNzFzVjA1SHpzTUNUMnF4LVRlbVNZN2s0VWZjeGl3T2Y4R3BvalNJejZmMTIxQzNrWllBM0RjYXpRZENKdXR4RENRSGUxdlhiM01mbnhyYU14VTRTZ1lZYjVZOGxJbFNQSEFjSENpMEJmeUNaek1QRHluOUdZMEh5MTU0eHdMSi0wa0VXVklDendhYTBGRWExQmdsbDhyWXFrZkE?oc=5"
-  },
-  {
-   "ts": "2026-09-04T04:00:19+00:00",
-   "title": "In war-split Myanmar ‘spirit consorts’ commune across divide",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV2M5M3oxSU9kZ0lqbExHYkkzTV8wWWQxYWNVT1ZjWjhXaTVQWDFvV1VDVzJJcHVmRGxzZmFZWTBGMF80aksyNWpSLThPNlNjOXdFaWQ3Q05EQ2htaXZQRDB3MFVpSU5OREVUemxpaGpwRkNnZXY3OWJyNFFUMjhBVGZHc3I0cGZUelQ4YUZNY1FjeHpCdllZTmlR?oc=5"
-  },
-  {
-   "ts": "2026-09-04T03:30:18+00:00",
-   "title": "Hpa-an Livestock Zone develops 106 plots on ​​137.46 acres carrying out livestock activities",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUXNlblVlbVVOa25laHZ0NVUxZndWVHRDbUE1akE2aXQ0VWQwSFB2d0k4VlUzRjhkNTFTV0lKbGFKX2k4Nk5lT1VvLUZKZnFldTFnb3VxX1NSZnZ6bkVha1NQS3Vnd09EckRBclpFS0xWT3NlaUlULXlhOU9fdzJxd1dVNFRvSWwxMFJsYkdiUl93Qmk5bUZacXB6Sk13S0QycDBDakxlSVBKVkFZTzZuakZyYWdkQQ?oc=5"
-  },
-  {
-   "ts": "2026-09-04T03:30:15+00:00",
-   "title": "ဦးမင်းအောင်လှိုင် ဒီနေ့ ဗီယက်နမ်သွားမယ်",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.co.uk/burmese/live/cqvgy9vz28ryt?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-04T02:30:17+00:00",
-   "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing and wife Daw Kyu Kyu Hla and high-level Myanmar delegation visit Phonthong Handicrafts Cooperation and Cama Crafts, Laotian MSE, and Patuxai (Victory Gate) in Vientiane",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVUdwMWlQaXdyN053RlVBVExGcUFrRzJtLUJsc0NNaWNpZlktdUJRYlI3XzdJWDJKa3N5UE5lcHp0T05SdG9rWTMxRnlIOHd6c3lxTTBOVFBLcW5MSEI5anBPTHJmUW9wZGNPMzlza0U1R3BmbV94eTNPaS1UbkxNTWZaSG9DUFF3WmZ1ejFra25fMmRNSFlqM0xfdkl4Q1JPZnpLNlI1VVVNSDJnTHl1U3EzYnBISUF2QVhITWh0Rk13MUU?oc=5"
-  },
-  {
-   "ts": "2026-09-04T02:00:20+00:00",
-   "title": "ASEAN’s humanitarian problem: A view from the ground",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUXMxRTFrOXI2QUtCMnRRSkRPOExLMkJLMXpyNlVtZmRjSF96WW1kVFFKLUdMRlhDLXU4MS0zU2ZNN1ljTkJiQmpRRS1PUy1DbGNpMDBaTDRfQ3B6LVRWbHZGak1HSnVpZXgtQXVMdHZGSFZHbFFDOXlSb0ZjRWJwOURSc3AtTFNXREpjemRVYw?oc=5"
-  },
-  {
-   "ts": "2026-09-04T01:00:20+00:00",
-   "title": "Vice President Daw Nan Ni Ni Aye attends and delivers remarks at the opening ceremony of the 2026 Myanmar Traditional Food Competition and Exhibition (Mandalay)",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVVZjMXktZE8tZUh1R0c3alY5VVJaWTgwSWRIemlQQWpfbXd1S21mWmw3NUxZaHhRajJpcTFXaXd0ZDJnc0ROa01xVWpSQXB6N1R0YWF6WXMxRGdBMDNDZlltSzd4UFRrVVFoZnVvcnNIMjF3RFZTSFVUZEJXeWhldHREb1E4ZEN1UzI2V2VMQ080UzZydFJReXVUNkRab0RtWVpTVXd1VUtIc2lDM1R6ZUVLSkk?oc=5"
-  },
-  {
-   "ts": "2026-09-04T01:00:18+00:00",
-   "title": "သင်္ချာ Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVUtJQWYyS3VFNURFTnBZTk81VkVBdS05S3huUXY3OFpkQUlKVThERnNmM3JaWGtEUC1LSWpQTEdmbk83RzQzcDdtREJSTFpPVUZoSlpyZDZlUkFRV0dvdkpCSV9XY0tTQkNSXzFWSkwzbHNtUXIxV2ZBQ19jck5QOGZKQlBySkhKUXNHcmxlZ2JWZWtqTndoSFUzRQ?oc=5"
-  },
-  {
-   "ts": "2026-09-04T00:00:25+00:00",
-   "title": "Don’t say cholera: Cover up in Yangon",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5oTHRrQTFMREVWZHFjWWtiOXdJSnlpX2N1bzJaRjdJMDFoMzM5UG5jbHRiNU5ZS1NmWFV5dnRiRHhOSE8wdkZJbkhHaVVTX3FpN1BrQzZCdUtCM0l5QnZoTGRMLUJXczE1YXZCWlRmMVdkd1IzcXdqTVdUSQ?oc=5"
   }
  ]
 }
