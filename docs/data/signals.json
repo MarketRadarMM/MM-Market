@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-07T19:00:20+00:00",
+ "generated_at": "2026-09-07T19:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-09-07T19:30:16+00:00",
+   "title": "China confirms 43 dead in mudslide, Tibetan resident says 26 dead in just one village",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/tibet/2026/09/07/tibet-gyirong-nepal-glacier-death-toll/"
+  },
   {
    "ts": "2026-09-07T18:00:19+00:00",
    "title": "Yangon to host Day of the Seafarer 2026",
@@ -2114,13 +2121,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9IRW1FVzltMHpEbW93YnVuMWlaa2Zwck9mZXBDNUU1bmM1SEgzTlByN0Q1SWQyWXpZc1p0VlFKVG1aRWhNbmdYVmRQamI4cnlKakZJX2hOLS1LeXY0YW5ZbHY4YkI5NjFaaktobHJYZFU2Y2dNT3JQelN3?oc=5"
-  },
-  {
-   "ts": "2026-09-05T01:00:20+00:00",
-   "title": "Chaos Reigns Across Myanmar as Fuel Crisis Deepens",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcy11U0xzeFZOWG13QjhMdHYxY2NKblBndW1oUTBER2ZCLWFVVjRqSGpmZlphRkIwYkcyWnhRMzdtbzZUcU9oS0EzcG1uNzlEdXVwdXdXTjFfNHBGR3U0a09pV0xaN05Pd0xVSmVUYkxfT1l4WTV0MkFhcnFMVTRUYnN3NFVqZ2ZqREo3VHh2c0RrbDlsb053?oc=5"
   }
  ]
 }
