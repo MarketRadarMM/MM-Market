@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-07T07:30:21+00:00",
+ "generated_at": "2026-09-07T08:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-09-07T08:00:20+00:00",
+   "title": "Workers’ Conscription Fears Leave Mandalay Businesses Short-Staffed",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb2YtZlpRUXB5dUwycHRuVDlEbW8yZzduRkxiYVEzbGRycFZKZHdYTUdfQ3FlT1Zwb09ZeEhHVkpyb1FselFEVG0yQk1lNFp5LTFIcUZucE1fOG00dTNRY1FERUJjMlhpb2poQWRCdC04aUhjQ1dOeGdxY3FOQ2EwZzNNTUVLeWxnVk01OFNvWVNXamJCQmNoUDY4MjFhdXd3eEg1TDQwMHhrNlFh?oc=5"
+  },
   {
    "ts": "2026-09-07T07:30:21+00:00",
    "title": "Chairman of State Security and Peace Commission Commander-in-Chief of Defence Services Senior General Min Aung Hlaing inspects security measures in Triangle Region Command, delivers address to officers, other ranks and families",
@@ -2133,13 +2140,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRjA0RkUtUGVMSXY3UUNlcFlxbTBwSVgyNWZCRTFHLTV6OWxURk1NY05MVWRlaE8wZHZNTzZ1TTllTG5NNFAwZjNTZVVibmFGTHU3aXVKMDM2OVFfUXJBQ25UN2VwcXAyTHQ5UGx6amYtdVo5Tkt5b20xckpwaVZqS2p2Nks0Q1BQRTRTYTF2NXF3NDdub09oNEpjeDNCX3pKclZhdlR5c1YzQ0J6MzVUcUJZN29DQQ?oc=5"
-  },
-  {
-   "ts": "2026-09-03T16:30:27+00:00",
-   "title": "IRWENG Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QSTFNNEltZjgtM21IMXhYaVNHWE9wUHhVTkZqMk5HS3gxZFlwZWlFWEphdndCV0NWRnpLd01Oal9QdmpQMDVoOGY4NHlSLXc?oc=5"
   }
  ]
 }
