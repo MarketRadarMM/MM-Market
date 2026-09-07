@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-07T11:30:17+00:00",
+ "generated_at": "2026-09-07T12:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-09-07T12:00:22+00:00",
+   "title": "Civilian landmine casualties increasing since Operation 1027 in northern Shan",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT2swdEFsMUZiaENEVjYzdmQ0eFRsdVlLeml3TEJuTkJ6ejJMMjRHcGJ4WVZpd1RkYmhTVWVIT2VOdC1RUnRTLWlLZ0tmSGFTQlo3ZEhRcW1mSVJzQVNlOXBNTUtVVHBoVlVWNC1neWRQaGFwNTJTd2RNT3RXeEpKVkNCLTd0SnYzTy1JMjYyN0d6Vl9UalhXOGJBem9tSDdkdWJsZzVJc2xzcDRMeFVPOHlqMA?oc=5"
+  },
+  {
+   "ts": "2026-09-07T12:00:21+00:00",
+   "title": "တကောင်းနီကယ်စက်ရုံအနီး စစ်ရေယာဉ်များ ရပ်ထားပြီး ကချင်သို့ ဆက်တက်နိုင်ခြေရှိ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81015/"
+  },
   {
    "ts": "2026-09-07T11:30:15+00:00",
    "title": "Exile Community Archives",
@@ -2126,20 +2140,6 @@
    "source": "Myanmar Now (EN)",
    "markets": [],
    "url": "https://myanmar-now.org/en/news/war-bruised-myanmar-finds-relief-in-bareknuckle-bloodsport/"
-  },
-  {
-   "ts": "2026-09-04T05:30:19+00:00",
-   "title": "Insurance claims for two deceased Myanmar workers helped secure in Thailand",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQjRzNW5KT3JMMkZkV2N2QkRyVTVGMDdyS0dtMV93bTVxLXFUUFlMRGdkUUFqTTdEOHQwcWdQdWMzcWtXT0xkQURKUklhMDl2RVNCMndFLWZ4eDhDWWZkb3FZY3dUMmVaVUJZTmFIWVdPNlZyR1dqSWZjVHRKN04xTTQwREoxZjU0RnRMcjVEdVpkVnBVeUdfR2FINEFjVzFUcmc?oc=5"
-  },
-  {
-   "ts": "2026-09-04T04:30:21+00:00",
-   "title": "Why Homemade Food Still Matters",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KZkR2Xzk2eS1fV1duWjF5M2Z5eHpFc19fa2Jud1huOVVVYlZjajVhNV9qSVpCN3ZXaWNySEhMbEtWbkZISENuUjN4WXlSZ1FrNnk3UW9OZ3pLdHV5VlJqWlc5M0Rmb0U?oc=5"
   }
  ]
 }
