@@ -1,6 +1,34 @@
 {
- "generated_at": "2026-09-07T13:00:25+00:00",
+ "generated_at": "2026-09-07T13:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-09-07T13:30:20+00:00",
+   "title": "A cute baby donkey born at Yangon Zoo",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1DbVEzdlVUdVA2bC1Nd2tnVjR2X3JlZmlRSVZCVHpsOTc0c3paSnZJT1c5NjBSbzhINGdFQm5pTVEzSENITVVYOVRB?oc=5"
+  },
+  {
+   "ts": "2026-09-07T13:30:19+00:00",
+   "title": "Megumi Kaneko visited Rangoon’s",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wek9aSmI3Y3Q3WmhRZjZBa3pGbGVjWlktV0FzRmxRVHBoamNDMF81SlctNWs1U0QxUGRNVzlrdnM4dTQyVzRNLXM4NGZTZ25iTmd2T1dyQjkyQk83QjVGbDBZQlFWeHFTM2FPQ2NQeWY?oc=5"
+  },
+  {
+   "ts": "2026-09-07T13:30:19+00:00",
+   "title": "The Irrawaddy Business Roundup (July 29)",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tNnVwQjY1QVBkQ19HeFIxUmZ5SVhIbzF4cm9jUGFWc3lTZG0yNDVmN2UxOFhaeEk5WEFGQUt4UklsT0hCRzQySmNsU01wLVFPM0hDNXN3T0NGMktpdUg4SmlNbnVRbHVPWDlNdl9wY2Z1YTZ1U3M2b1FJdlZzaFU?oc=5"
+  },
+  {
+   "ts": "2026-09-07T13:30:19+00:00",
+   "title": "The Irrawaddy Business Roundup (February 1, 2014)",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRTQ0bW1aY2Zjb2dQZlRzMUk1RzBNeFJ1VjlZMERVTHQxZ3NVTGd5YlhhSkFaV01tSTU4Vkk0a1BONXJySlh0YnJRV3FxYTZ3d29Ha0tSZDk2YkxUa1BQNUU0dlZQbWtRSzFzYnNKVGtqT081ZlMweFRlbmZTNzlJSmQ1ZlNEZmQzVUE?oc=5"
+  },
   {
    "ts": "2026-09-07T13:00:23+00:00",
    "title": "President of the Republic of theUnion of Myanmar U Min Aung Hlaing inspects Diesel Locomotive Factory (Mahlwagon) of MR, Ministry of Transportation",
@@ -2119,34 +2147,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/cp3k18w7x41o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-04T13:00:25+00:00",
-   "title": "Ayeyawady Region CM inspects flood relief operations in Laymyethna, Myanaung",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcUVEU3FHa1RxVjBKT3Yza2xaZ2pROExHa1drVGYwU21CdGhHWnRnRTVtR1Zsa1l5endnRUZrdkh4dUpmUXFpNVIydmxNbFM0d0R3eHZHMXQ0ci1NM1pqX0c1cW5TS2Q0V3JucUhSOFk1eFNaZHRzRlhKU1hrSF93TXQwTmdUOU1WRkN5OHpNdWRWLTl5VnNKYWtGNG1weWVzZEE?oc=5"
-  },
-  {
-   "ts": "2026-09-04T13:00:24+00:00",
-   "title": "Only 7 of 15 Regime Supply Vessels Reach Embattled Bhamo",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMms1SElZbHhRZ19VcVEydzBxVVBCX2t5V09tUVU2dWphTmpibEpSYkotWmNYLVhPUld6Q0JySWJPOWsweWFtdnlreTR0dVcwYi1pQVR2S3pxZHFuUEVKaGZIeE1EOHRhZmRyaDYyeWNCSERsaGZHbjc4Y081ZWJqMkkzX214ZjlsSkRnWlZXU2pwRUZ4MU1yang0Y3FVcU90eW5kOE84UktObi1GY2ZYMlAxZXo?oc=5"
-  },
-  {
-   "ts": "2026-09-04T12:30:22+00:00",
-   "title": "Over 3,000 Garment Jobs Lost as H&M Supplier Teng Hui Exits Yangon",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYWhzUC1RM0c4YTc1ekZNdzZUc2NiTkl1UjdOeUxjbV9ucFdfLWRGYVZIUXNxbGxLQzU1X25MRjMzVERvV0NHZ29iaVZkbFN0NU12WVp1TVhjd19vendJdzZCaFpPNl9uNWEycTBhQkgxUXVIUHpiUEJFOVE0TkptQnRFTW1kRFlPYkU2c3lmQm84MWh3NEo2Y0hzOVpZWWl3WldjeDlLb3RIUQ?oc=5"
-  },
-  {
-   "ts": "2026-09-04T12:30:22+00:00",
-   "title": "Chinese Scammers Reach Myanmar’s Heartland, Min Aung Hlaing’s SCO Snub, and More",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaHVueW5IV2lMcnJCalZDR1N3ZnN6bXd6My1QeEFQTVY5MUpkb1NuX3FQYXlUNURiVmtuNFQtaVJ6bmdWS1hVMEFSN0toaC1qbXc1TkpMVkw1alJqazVXalVNMHI5RGxFVXJQRnprZllEcDc5aGZCTjh1b2xzbHloeW1Pa0I2c1Ywd0gzbFdNMkFDWjFmT0dVeC16RVJnbUhEWkJzbGtGWXpPalZSUGpqNXNZWlE2MVkxNXJhaTNfSTdiUzBhNkE?oc=5"
   }
  ]
 }
