@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-09-07T20:00:23+00:00",
+ "generated_at": "2026-09-07T20:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-07T20:30:19+00:00",
+   "title": "News",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VeWZsUmN1cHpIRHlLSThaaTc0Q2s2NktKbzBJRUIxaVBvbmRVWG9aQ3J1bWhtZUdvT3BXZmxESFl4R19YVGVxM0VWM1BDN0Z2ejJKZlhzOVFVWGRX?oc=5"
+  },
+  {
+   "ts": "2026-09-07T20:30:19+00:00",
+   "title": "The Irrawaddy News Magazine [Covering Burma and Southeast Asia]",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xTzRMNnNCWXVCb2h0NnBMdlV2bHljZVlpdFpJaUs0UnlDQjBFY2pDTHYzX2YtR0lrbmdEOEF2SkRjOVNvSWNqOXpSWHB1LVN3RFBwSmY2dU4?oc=5"
+  },
+  {
+   "ts": "2026-09-07T20:30:19+00:00",
+   "title": "Suu Kyi Attends 'Save the Irrawaddy' Art Event",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02MU01NzFqLTBIVjByZDRmM183TTRhTWx6Y01HdGQzOVY4el91RW5HU1RjU0FDZW9vLVZsdXRmbmRScG1jb253NUFSOGNYWkxpYVdGMFFfbGFTSkp6eTQ0TmhzRHg?oc=5"
+  },
   {
    "ts": "2026-09-07T20:00:22+00:00",
    "title": "News",
@@ -2100,27 +2121,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWkU4M0tFNUJlbGZKMlpKSWVtVjFvb0hweTFLdFR2VlFFT0VIQUdQQ3JxMmVTZWlLSTg3enRfUDI0X1E5RVdRcm9BY2RBTTFfUnkycXlfc3hBXzU5dExFZHdjcml4ZU5ScVRlTnFydGVRYlBUdC1NeWZxV0tLbWVmN3pGNjVPb0dwTENQLVlEWDFCclU?oc=5"
-  },
-  {
-   "ts": "2026-09-05T01:00:21+00:00",
-   "title": "Vice-President U Nyo Saw visits thermal power plant, Commercial Port in Vladivostok",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWDJXOUNabzJIWWN4LTZzMnA1WkluaGx0LWNORDZsSVJxSUxWaWZkSUlCMU1rQ2h5NlYyNTMwM2RveHpHWVpTU3lONnptY21SRUtfaXdwbjM1OUcteldiRnRpNTlLb19ncXZzNDZqQXE4RC1jWkhHMVR4RUFmTVV5X0tsajRURWJwNVo4TVRCSEltTU9UZ3A5UW5pMWVqWjFZM0JLNE1Qcm9TNnc?oc=5"
-  },
-  {
-   "ts": "2026-09-05T01:00:21+00:00",
-   "title": "Myanmar delegates sign Anti-Corruption Cooperation Programme for 2027-2028",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUmhGU1BVZTV3WWNIMkRkYWRqX01LZjVUQ01KS0o1LXJIRlhFNVhsMDR6YkVhR1FaXzB0czBKS09DV1pSQUI3ZENyaGJCTHQzc0VzRG9uMzR3OVpsR0FuaXl0LVpFRmdIMU85NG5yT09OU0o1RHM5RWlTa1VIWGxidTN2TThTWVdpMVJfTDFLUGxlQm5pbDdxY1lrRjIxeXZH?oc=5"
-  },
-  {
-   "ts": "2026-09-05T01:00:21+00:00",
-   "title": "Myanmar Hluttaw representatives participate in capacity development programme in Indian Parliament",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQallsQ0RmX1I2TmRjY0tUTWpfOUhtXy12S3Bfb0dYbGNSN1llSXRGcVBrMFF2RlNaa2FjS2Y1YU9rOFlaUmROeEhsLThOMTJqcV9HSGR5NDhNbEliT3MxeFBNOEU4LXYzazhndHdvQW9HWGlEYndRQ28xRFRBQl9NMGhUdFlTY2NycXBKcEF1VWJ4LWI3VWZQTkN3Sl94UGlHZmtLc3p1ZlNiZ3pZS2RvVDVLVkpXZEVvWjNVZnhBRU8?oc=5"
   }
  ]
 }
