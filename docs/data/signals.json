@@ -1,6 +1,41 @@
 {
- "generated_at": "2026-09-07T00:00:25+00:00",
+ "generated_at": "2026-09-07T00:30:27+00:00",
  "signals": [
+  {
+   "ts": "2026-09-07T00:30:25+00:00",
+   "title": "Myanmar’s pro-democracy Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBCcWNGSGozeE14Z3RwY0kwSmZPLWlBWllrRWR6MVY1UUg5Y3Zsd2QyVFJJTmZVeG5PcGNTbUtzUXBzbTRLWENUdmpFZ3JaLTY0aDE5TlJzclBWNW5KWFhQZ29B?oc=5"
+  },
+  {
+   "ts": "2026-09-07T00:30:25+00:00",
+   "title": "Regime Atrocity Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1IVXZUY2s4WlFzMTNnR1g4MDBZd3M5YTE2UUFCYVAzZmd5SHowZExPTWl2Zlk2aTVuci12UHB3SzZGZXJQT2Z5MnFSWXRDdjZjQmphSDNGb0g?oc=5"
+  },
+  {
+   "ts": "2026-09-07T00:30:25+00:00",
+   "title": "Loyalty Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE80X096bGI3Q0lyY0RfV0h4eDVyUkU2TERoMEtWZDBtOWRrUDBDaC1yMklOUUs5clJlMHlyMFExTlAxZUZVVFQ5LW1zNnBpQQ?oc=5"
+  },
+  {
+   "ts": "2026-09-07T00:30:25+00:00",
+   "title": "News",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBKYkV1enpJTVB1dUJGenlkVHByMUpnWHJWVExnU01lY2w1X181Z2V0V2ozOUJ4ZDB0X25nWnNTUWROSW85ZlBYbWQxaWROakxJMk13OQ?oc=5"
+  },
+  {
+   "ts": "2026-09-07T00:30:25+00:00",
+   "title": "Video",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FUW03b0ZvcnczSWpxX0E3WEt2LU80Ump4c290V3V0MFd2X25yWk9zLUFLUGtZMnFGV2lfbGlocHlEWXljOEI2VkJ0eUVCcXdqMkhaZ0ZNTy1nRy1S?oc=5"
+  },
   {
    "ts": "2026-09-07T00:00:25+00:00",
    "title": "Poem 4 – Page 204",
@@ -2105,41 +2140,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQzZhOUxJSXUzaUZocVJlNE5GYWl6clRmRHhiZHR2YTVIVVB3VF95X25XY0RwQjhUMDJBZVp5b3JqTHRHZkRaM2pPb3dtVnlzTnMyYnhhajFMWVVHWG5IMUpJUVY3TEVkYnpNQ2dUc25Jbi1jVV9kTS00QWxSOF9odTQweGFWMEw2b1BSZE9YV2VpSllqUFFWckY0b3ZsTXJ4MHBWcDdWazNjckFpSWlQY1R6U0VZUUpiWVV2djJrUHpKWlQxN2c?oc=5"
-  },
-  {
-   "ts": "2026-09-02T17:30:19+00:00",
-   "title": "Mawchi Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1leVlTN1k4Mm43ck5tYWVLaERtZDE3MENCVFMxN2dLRlB3TURBVm95emcxMjdONkVaT2RVLWgtclVwUEpjT09HWmZ2WnY?oc=5"
-  },
-  {
-   "ts": "2026-09-02T16:30:20+00:00",
-   "title": "ရှားပါး Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaklTYndyallxMTE3cjY3NjB3dnVQYm9ZclBLeFBsSDh0dlZvOGJYdDBUVmdBa1ZteHQxZElsSW5meG1FN1AwdWlqdW01dU1fZ1lXS1l4VFUtNXE3YzNNTTgtOHlCOXVLalVHZDRFWmswVkp6dWpQVzc5OTN0MmtESzNQR2R6ZUR4bXVhOGxtTDBFUmJBOHdFVVBlWQ?oc=5"
-  },
-  {
-   "ts": "2026-09-02T16:30:20+00:00",
-   "title": "ကြိုးဝိုင်း Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRTN1cDlQUWJlclBIbi1yTlBYaGtFM2FESGNZR3AyQS1vOVBrUXNYV1NOc0Z5aTZPMHhtM2w4cm5KX3hvck9JZzEwakRkRUs5QXhScXhVUlk4T1NfTmlOY1FhekVUYU1UVWN6clFIRTNtdDRqQWgyRU5jNF9TblBKMURpY2ctWi1NM3JjTjlzUWtTbl9VVUpBcEtjSUtsWjdPaWFCTTl6VElSZXFfb2FuYkdSMEdEenBVdkRFZHpmQ3RxNm9GSDF2a2h5MA?oc=5"
-  },
-  {
-   "ts": "2026-09-02T16:00:30+00:00",
-   "title": "What the Miss Grand International incident reveals about Myanmar’s political psychology",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUUdrWXFqRTF0MkYtbzlOMG1zX2k0eW5rZWduTVhvNGtoYWQyYk5nZ2p5NV9OX1dKaDBQZXJRcTMzN3lqLV9fLXZ2TlczZWdkb0ZkVFpJRWVnMVN5OXBwazRFOFVFckJEM0pVNWJyZExSWXpGd0s4ZnRYaXNBUVdrUFpiTW5wNlVjSWltdTlWTnZfWjZDS3FFSkpzR1pEaEx1NjNEOXg4Z0lycEEyb0dJS2s5NUJwcU5zRVhUTVBUUQ?oc=5"
-  },
-  {
-   "ts": "2026-09-02T15:30:16+00:00",
-   "title": "''တော်လှန်ရေးအောင်မြင်ဖို့ ... အမျိုးသမီးကိုယ်စားပြုမှုက အရေးကြီးတယ်'' - မဇူးပဒုမ္မာ (SCEF အတွင်းရေးမှူးအဖွဲ့၀င်)",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cevmvnkgj0no?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
