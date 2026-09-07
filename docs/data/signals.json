@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-09-07T14:30:24+00:00",
+ "generated_at": "2026-09-07T15:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-07T15:00:18+00:00",
+   "title": "Union Govt Cuts Irrawaddy Division’s Supplementary Budget",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdWFjMGNxOGFXN0NZckdlUWJPck5XRUtFSTFjckFSbUZhSlV1VzNRUlYtSkgzUUg1V2x6RUtiS1lwX2lKNlN3bXF0TUNSTEN1Nm9xVG01RURpWEdkMGFZcy1tVmtOQTlGVlFwRk82Wm80SC1pOTFaRlQ0cFZKT1hIdzVURTJUS2FUSjN0Y29STVFzb1VLZ0xV?oc=5"
+  },
+  {
+   "ts": "2026-09-07T15:00:18+00:00",
+   "title": "Development",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oUElqbk1KbDlBWGZBNUNQT1NYR1AtQnlRcU16SloweUVvdE1Fd0VWem5jOURRMXdMSjlLajIxVGpPeUJMdng2Um5mVHU5LWpXNHdFZ0NfRHJQTUZyNEZ1Wg?oc=5"
+  },
+  {
+   "ts": "2026-09-07T15:00:18+00:00",
+   "title": "UN: Burma Faces Risk from Disasters",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CdUFNekdHUUlWa29Rb19IT0VyR19UdjR3Ql9iRDNtazJoUGZqV0J2RmluUVBaTFZXTThQWThocU9yV1lCX3dMeXdzUTNuMzdrRVBDenZqY0ZwS0d2R1M2eVF3emU2ZEdH?oc=5"
+  },
   {
    "ts": "2026-09-07T14:00:19+00:00",
    "title": "\"ပိုက်ဆံပေးမှ ထွက်နိုင်တယ်\" - ရန်ကုန်လေဆိပ်က ခရီးသည်တွေရဲ့အတွေ့အကြုံ",
@@ -2100,53 +2121,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdERyTUZIb2FfTEFlTFVpUmhYODJqdzVGSVo5cC1BWUx4WmE1a19oalduNWxGVXpGRkVoM3FqTTZlaDlZWHVBUEU1ODBoLWxqVWFVbUZBdUxFUWkzam9hVGxUajdLdDFRWXptOUxnSllnNzZSMkI0d2o0RENKNGFmUmhPb1I2N1dXSVBzMXgweDZWTjZ4dXI3aXVn?oc=5"
-  },
-  {
-   "ts": "2026-09-04T16:30:22+00:00",
-   "title": "Tungsten Mining Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DeG1ralVGV2Y0dFRTQlJJbGdadlo4SjJCSWttWnRvbVlLRmpFSU5SYV9wbkJtOEw1eE5DdUUySW8xa0pPVTRMWFlfTHA2UXRlSWJxR1JnX2E?oc=5"
-  },
-  {
-   "ts": "2026-09-04T16:30:20+00:00",
-   "title": "Kachin Border Trade Archives",
-   "source": "Irrawaddy",
-   "markets": [
-    {
-     "market": "pulses",
-     "direction": "neutral",
-     "confidence": 0.5,
-     "rationale": "China border trade affects bean flows"
-    },
-    {
-     "market": "rice",
-     "direction": "neutral",
-     "confidence": 0.5,
-     "rationale": "Border status affects rice exports"
-    },
-    {
-     "market": "fuel",
-     "direction": "neutral",
-     "confidence": 0.45,
-     "rationale": "Border routes also carry imported goods"
-    }
-   ],
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGbnVNRTlqcVBBSzZITEtKLWtiZnB2MGZoUzB1RTh2ZG81RUVGMjhPbFNldUNhWGJYR0p2ODFHNk1rbXpjVW5DTnhyaFIwc3dCcFlMcGZNTTBtbEJTN1E?oc=5"
-  },
-  {
-   "ts": "2026-09-04T16:30:15+00:00",
-   "title": "အမေရိကန် ဒီဇယ်ဆီစျေး အမြင့်ဆုံး စံချိန်တင် ထိုးတက်သွား",
-   "source": "BBC Burmese",
-   "markets": [
-    {
-     "market": "fuel",
-     "direction": "neutral",
-     "confidence": 0.5,
-     "rationale": "Fuel-market story — read for direction"
-    }
-   ],
-   "url": "https://www.bbc.com/burmese/articles/cx2z0dr1dyzo?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
