@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-09-07T19:30:18+00:00",
+ "generated_at": "2026-09-07T20:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-09-07T20:00:22+00:00",
+   "title": "News",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HU3VaYzZMbm82QnVDaGlNQkZwcHI0Z3E0c05JT3RsSXZvTGEzSWxSUFc5Z01xT1hjaHNFZDF1OVpySXMzS2YwUk1fZjI1dnB4X3prMTBtNlh6Tngt?oc=5"
+  },
+  {
+   "ts": "2026-09-07T20:00:22+00:00",
+   "title": "The Irrawaddy News Magazine [Covering Burma and Southeast Asia]",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlMFJUWlNMcG1oQXgwZWJka3h1MGI5YWx5WWt3UC1ja3RHT21pcDBvbHAzZ0FBLXdyNWZlVGFQYk5YVkFfMHVMTnpYbkszWTE1dFBLOGotVktKY2otcXVrRFNNM3Q5S0NJWEpBdDR2Q0pIdE9fbWZYSHdleGo?oc=5"
+  },
+  {
+   "ts": "2026-09-07T20:00:22+00:00",
+   "title": "Eight Elephants Poached in Six Months in Irrawaddy Division",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcXRGWUF3WkRmZ3N5c2xnZGhKaXhDa19PNTdUX2RwVW1Fc0dMY09yUDduRjl6eXRpWV9IMkJFV2NGODg3U1huWlhUQm14SWlrU0dzRmJoSGxrYXNPSUZDNGJueGE0SjVfNk9IMGNYaExPZ19aLXNpZmxuNzZnRGx1dTdVbVB2ZVNyblk2ZFlKY1BXencxTFktbTBlaw?oc=5"
+  },
   {
    "ts": "2026-09-07T19:30:16+00:00",
    "title": "China confirms 43 dead in mudslide, Tibetan resident says 26 dead in just one village",
@@ -2100,27 +2121,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQallsQ0RmX1I2TmRjY0tUTWpfOUhtXy12S3Bfb0dYbGNSN1llSXRGcVBrMFF2RlNaa2FjS2Y1YU9rOFlaUmROeEhsLThOMTJqcV9HSGR5NDhNbEliT3MxeFBNOEU4LXYzazhndHdvQW9HWGlEYndRQ28xRFRBQl9NMGhUdFlTY2NycXBKcEF1VWJ4LWI3VWZQTkN3Sl94UGlHZmtLc3p1ZlNiZ3pZS2RvVDVLVkpXZEVvWjNVZnhBRU8?oc=5"
-  },
-  {
-   "ts": "2026-09-05T01:00:21+00:00",
-   "title": "President U Min Aung Hlaing, Spouse Daw Kyu Kyu Hla Embark on Official Visit to SRV",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd1RQWmtMdDRoZUdmY1d1QkFqVk05b3hNell1QkkxSnowTmFxbjJEekp0Yy1XNkVhNVJiSl9CbTdwd2NpSmRiM3p3emJUZEEzb2RPU2dQVGZaMXE5bEVCUmRRbDRNMjF2cnEyTXh6dDVqTF9IclVzcUIwS1p2dU1ucG9hTElqR0hXUi01WUlfbDNERUR2ZmVmODhEMjc5UmEtSlFfaDh1NFFQa1k?oc=5"
-  },
-  {
-   "ts": "2026-09-05T01:00:21+00:00",
-   "title": "Ayeyawady Tourism Rebounds with Rising Arrivals",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9CdG1sU21OMU5mOU1ycng5NWhGcmJqNnNJR1pPMzE3OUx1R3dnSnB3OHg1WGdPaXMwem5kSzNfbjBjVnVMX2ZwTE1qdF9rdVI3SHRfREkwZXEzLWY4NW1EYUpqY3BXSnJrbTlSVDVHUkpYVG1yNE1jTUtmVEo?oc=5"
-  },
-  {
-   "ts": "2026-09-05T01:00:21+00:00",
-   "title": "Gold shops in Yangon face surprise inspection",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9IRW1FVzltMHpEbW93YnVuMWlaa2Zwck9mZXBDNUU1bmM1SEgzTlByN0Q1SWQyWXpZc1p0VlFKVG1aRWhNbmdYVmRQamI4cnlKakZJX2hOLS1LeXY0YW5ZbHY4YkI5NjFaaktobHJYZFU2Y2dNT3JQelN3?oc=5"
   }
  ]
 }
