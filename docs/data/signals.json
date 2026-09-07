@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-09-07T21:30:23+00:00",
+ "generated_at": "2026-09-07T22:00:25+00:00",
  "signals": [
+  {
+   "ts": "2026-09-07T22:00:25+00:00",
+   "title": "Tatmadaw columns recapture areas in and around Singu town and Letpanhla Village",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbG5PeldRYURyWEFXeGdaSFc2MDN5akx1VXZPc0Jqa2owM0Ftb0pNNnVNV19aSTAwNU81YzFtZTMxZ3NzdXU0c2RYOXRKMjBTMG1vRGVRd0V3eE9nX2RkUjh1SGkwNTBuQllQVnM0S2ZHSk9MaDRkRDk0aDZjcnJ5bnB0MlZwd1JmdnFXV0MzVm1aMlZMU0RPS2luQUlkUk55eG51Ql9n?oc=5"
+  },
+  {
+   "ts": "2026-09-07T22:00:22+00:00",
+   "title": "News",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qdVBRTlNtUFF3Nzk5Q1N6TjdjdFZNWWp2TDR3RU1Bcno2SzVJWW12OExELWpOcVBkS1p6UFcyQ0E1Sm1xcXNFQlVtUW40RVRUUjBxMzhhNUZEMlp5?oc=5"
+  },
+  {
+   "ts": "2026-09-07T22:00:22+00:00",
+   "title": "Myanmar’s Democratic Alliance Pushes to Unify Scattered Resistance",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWl8zM2tyUUhVaHA1RkpiUEsxU0ZpQWVuekRPbU0zYkhKWGI5d0VaaDNFeTZLSnVMTFFGWDZfdGlMZ2ZzclV1ZFZtNXhDaWdLajRvSmp0V1FZdGN0NTBEaEJQUXZGaURXSkYzZWlyaUo0MVo2ZEpjdlRUYVBrb2J2cHJWaFllbkZ5VG1nSUVfb3JmSnFzdkFGU3pKZ0pWVklzMjdTQlZybG9iZDg?oc=5"
+  },
   {
    "ts": "2026-09-07T21:00:18+00:00",
    "title": "Constitution",
@@ -2100,27 +2121,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kMy04ZXNSZEo5SFByZ3JfVVlyY01tUVFmajlPeUdoYjJRZEE4NVQ4bEc0VzBHZ2lMREltbmFHQnRpaWJmVEFYTnp1YVJBcE1TWnFV?oc=5"
-  },
-  {
-   "ts": "2026-09-05T05:30:16+00:00",
-   "title": "ထရမ့်ရဲ့ ငြိမ်းချမ်းရေးကိုယ်စားလှယ်တွေ မော်စကိုနဲ့ ကိယက်ဗ်ကို သွားမယ်",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c17jrg2dqkwo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-05T05:00:17+00:00",
-   "title": "President U Min Aung Hlaing Visits VinFast and Viettel in Viet Nam",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN3BOTUg1Ym5NS2kzeFY1YnAwOGRWVjA5blFXMW1aT0E4bDNQTkhSQ1N0S0NuajZYTmxUenR4NEpHdEhyZlpGX3cyTUk4b0NSZUxzREl3ZG1mUnRBT3MyZURzaVV2aEhMNWZwaFpoYmZYd3ZQQkpzUklOOEN1b295SG9JYjR0cEtfRy1NbTlFTXphZ1dFVkE?oc=5"
-  },
-  {
-   "ts": "2026-09-05T05:00:17+00:00",
-   "title": "‘Who the f*** is Bill Richardson?’: Frontier’s Danny Fenster pays tribute",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNUU2QVpiNXF5NmZCOUJ4d09qU3QtNThmcXBuQllTWlIyYk45Yk1aUzY4UHhQdWw2dkQ1UXFHN3JvVFNqZ1lZQWI0bm50S0QzSTJBbGVoeVk4c1c0N3VyUHl2RVVMbDlPNXZTTE1laGV0UFU1eS1wTzg0TkNqS3lfRUdMQ2VaaW9IN2hOWGdEd0JwUUNFOGg2dDE4Uks5WTlzZ2Iw?oc=5"
   }
  ]
 }
