@@ -1,6 +1,34 @@
 {
- "generated_at": "2026-09-07T13:30:21+00:00",
+ "generated_at": "2026-09-07T14:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-09-07T14:00:19+00:00",
+   "title": "\"ပိုက်ဆံပေးမှ ထွက်နိုင်တယ်\" - ရန်ကုန်လေဆိပ်က ခရီးသည်တွေရဲ့အတွေ့အကြုံ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c1k2l2jyl7ko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-09-07T14:00:19+00:00",
+   "title": "ဒေါ်အောင်ဆန်းစုကြည်ကို ထောက်ခံခဲ့တဲ့ မင်းသမီး Jane Birkin ပိုင် Hermès Birkin အိတ်ဒေါ်လာ ၁၀ သန်းကျော်နဲ့စံချိန်တင်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cj9xerr883xo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-09-07T14:00:19+00:00",
+   "title": "အခွန်စည်းကြပ်မှုနဲ့ အိမ်ခြံမြေဈေးကွက် အလှုပ်အခတ်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c5yrypn5ryqo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-09-07T14:00:19+00:00",
+   "title": "9/11 - ၁၁ စက်တင်ဘာတိုက်ခိုက်မှုမှာ ဘာတွေဖြစ်ခဲ့လဲ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c9dwj9j3ezeo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-07T13:30:20+00:00",
    "title": "A cute baby donkey born at Yangon Zoo",
@@ -2119,34 +2147,6 @@
     }
    ],
    "url": "https://www.bbc.com/burmese/articles/cx2z0dr1dyzo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-04T16:00:24+00:00",
-   "title": "Junta Offers Reward for Dr. Tayzar San, Two Others After Mandalay Protest",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ0VLbk1FRmxkYV95cWxNWTBYWkZ0X1VhSmVIRXNMblY5ME81Z1ZNTkFadlBVNllmSTdocnIyQThvTDRGWWo0REtwYmY1djMzRjg0QkxsWmRvR29mT0VQdHRncXEzTkh3cVJ6dXpFcDg5cEtqTXNlLUpkcGg4LUhFclVJMEpyU2RTSHVXaUJhMTctekRSUmlvdDJNVi1iTHJia2Fhd180T2RzTFExN0I3V2hPQ3pNa28?oc=5"
-  },
-  {
-   "ts": "2026-09-04T15:30:24+00:00",
-   "title": "War Studies Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1WZFVhRi1rNkUwcW1fdDNxb2dRQ05vWm1ra2xZR285VzhYNXp0YXdRNDZpcFg0YTVmMi1XZ3lSRWQ3b0dJcU5sWXBSX1haczlUcVlN?oc=5"
-  },
-  {
-   "ts": "2026-09-04T14:00:23+00:00",
-   "title": "လိမ်စဥ် Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTEY3MEw5QlV4TVVNbnlCcVhaWlJwcWhqcW45eTRBU00zcjYwbWxaYWdqQTd0Ri1DaldqNDJGRU9MYUJ3OGRrb2dvcTJTNjFqQzVyRDRWVUtZX2pPRFpYamRsM0lhZkxtSF8xTmYwTXFWLVh2OUdpZHdIUV9uRnpSSjZEWkhWVmh3RmE4LW5BWjcxNWpoREhzclprQQ?oc=5"
-  },
-  {
-   "ts": "2026-09-04T13:30:17+00:00",
-   "title": "LGBTQ+ ချစ်ဇာတ်လမ်း - မြန်မာက လိင်တူချစ်သူတို့ရဲ့ စိတ်ကူးယဉ်ကမ္ဘာကို အာဏာသုံးဖျောက်ဖျက်ပစ်နိုင်လား",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cp3k18w7x41o?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
