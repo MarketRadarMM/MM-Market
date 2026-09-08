@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-08T18:00:24+00:00",
+ "generated_at": "2026-09-08T18:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-09-08T18:30:20+00:00",
+   "title": "War-bruised Myanmar finds relief in bareknuckle bloodsport",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeEVEZDRjczh1NzViazFHa0FBQUw0RjdWX1oycUVpc1JjS2VEa0JjUF9WenRKb01YZnpQTHV1cnExaWMxcEp4MW9NMWszTm9RbFRUU0JWcU82dTFhOEplQ3RnRWR5Q25RT2JaTndaYldFZGVsbU00VE1DdUhHRlpYSjU1eU11YjNRSkgxMHEyVFBNU1ZRODNHVzJR?oc=5"
+  },
+  {
+   "ts": "2026-09-08T18:30:18+00:00",
+   "title": "Solomon Islands domestic political squabbles could frustrate diplomatic engagement",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/pacific/2026/09/08/no-confidence-withdrawn-solomon-islands/"
+  },
   {
    "ts": "2026-09-08T16:30:21+00:00",
    "title": "Speech Delivered by Chairman of the State Security and Peace Commission Commander-in-Chief of Defence Services",
@@ -2100,20 +2114,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/cwyz3z7q52wo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-06T11:00:22+00:00",
-   "title": "Moles in the Movement?",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBdm1WYjEyemdmTkxRQ0N3ZDhPQktwQk9uNmQyRWphVmgwUF92VHhKWmhIZl9iLUZieUxkZ1U2S0s2Rm5ZOXRVeWY4UUNfTUh2RTI5bVEybi1kYTVuR0ZGZkYxQzhfdw?oc=5"
-  },
-  {
-   "ts": "2026-09-06T11:00:22+00:00",
-   "title": "Myanmar History Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HVndUeVZZcm9oRk1KcHp3NmdJV2VOaGxYdWJORzFTUm5zcXlvY1ltM25LZXFLelJoNWpzTHRBS2E4OTRwdmljN1NXSXdlSGJSWmVEaDBGTHc?oc=5"
   }
  ]
 }
