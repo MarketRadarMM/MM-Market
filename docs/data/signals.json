@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-09-08T01:30:18+00:00",
+ "generated_at": "2026-09-08T02:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-09-08T02:00:20+00:00",
+   "title": "News",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5SVkhsblpVcXh0Z3Z0THdDMDFBXzlScExCMDBaQWZNWUtKbjV0WHJtU2h2QW0zeU5va0lOWDFMRkhVejV1eFM0Z2c1TW1ZYm5jTWJFZUE5QlpTQk80?oc=5"
+  },
+  {
+   "ts": "2026-09-08T02:00:20+00:00",
+   "title": "MAGAZINE",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LZ1NVTzNMZlRZWlRhZGdKVnR4Z1pLZXhSWDlpanBaNjg2YzNmOUg4NUhRUHYyQ21ZMzVpMUs4dzBhVUxVb0ZSaU9fWHIwUzhfejYtc1hRX3FJaVBZTWlnS1lwczFpWGxOYVE?oc=5"
+  },
+  {
+   "ts": "2026-09-08T02:00:20+00:00",
+   "title": "Kason Full Moon Day",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1lR0lwQ3dFNV9LX01fYjJmTkJEbGMxN2lMNmFyQ2l4UHhISmhEZEY2WjdpVGRrV2JCM0EwaG8zQUVEYmlaN1pvMC1VRjQ5MG05Ykw4LUpPYTBKbVlRdVg0Ym9SSEVJNEF1emhVZm1jRExEdjZUSU02clppNVlHZw?oc=5"
+  },
   {
    "ts": "2026-09-08T01:30:18+00:00",
    "title": "Dr Aung Min, prominent doctor, writer and filmmaker, dies at 62",
@@ -2100,27 +2121,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zVjN4cDZkdnZVTk1mUmtVSkVXMmkxVnFSR0NrWkpjdXczLTZ6NW9ubmNPM3gwOFVibTVPeGJfQl92bE1Va3BTOV9ZcFJ2ZlRtNHROZU10ZTYwd0pqdEsxd1BLaFNvUnBqOW5udEdB?oc=5"
-  },
-  {
-   "ts": "2026-09-05T16:00:19+00:00",
-   "title": "Killing creativity: The junta’s cultural crusade",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTDZqNWNtck9ObDlBSHAzS3NnbU1tNDRxY2RZLURKeFROS1YxV1dQSXZtNlJjcG9mZnN0ZDBNVmw5cy1maFQzT1ppZnpkU01kM0JhcTlIenBMckVHbmJZVnNicFJlZzhtVF9KREc3SElFb1ZYd3pETnkyOVEyRGdpNXpMbXI0aklxckE?oc=5"
-  },
-  {
-   "ts": "2026-09-05T15:00:19+00:00",
-   "title": "Commentary | The Junta’s Colorful Apologist",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQzVRdXVPLTJ6RnRZdGNBS2pHaWMtc2tyc3owdzJ6ME1fRnNJa2JRX2NOQkszdGowUUJlN3ItOENJbm5ieDVLS2dtZnBoNGlseFFuc1UxMEhJel85ZUZZOW5mdTNtekczOFFIeXM4aHNLSnlULU5MMFdUZ2lNRTd1TkZEenFPQQ?oc=5"
-  },
-  {
-   "ts": "2026-09-05T15:00:19+00:00",
-   "title": "Guest Column | Regime’s Renewed Lobbying Drive Tests Shifting US Policy Under Trump",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOENsaEtCUVpWSndqcHNYWTJTTkhpZjNQTUZ2SG1kaDBNdDdMaUd6SFBCNm9lY043eWlhcFpfRjZCZ1JHUVZDdDhublQydEs2M2ZtOXE4MlpiblA0dGx2TUJCYnFQSTVibXRKdHU0WXRScEQ4UndfVzdSRzZiSkROUUZWQ1NPY2gtYm9OYTdiTDlwdzNzdVJXX0hMZXdJZnR1Y3RxUkFEMmpGbE1FeUpHWUdVa1ZaQk1OeVI0?oc=5"
   }
  ]
 }
