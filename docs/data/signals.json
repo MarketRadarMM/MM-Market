@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-08T07:00:24+00:00",
+ "generated_at": "2026-09-08T07:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-09-08T07:30:16+00:00",
+   "title": "The Irrawaddy News Magazine [Covering Burma and Southeast Asia]",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yZlROU3djbWtLd25rWUg2dzNVRVhqY0VxWm9LbklIRnF0Umdqd2FacE5QcU1MdTRZaUV4N3ZfUlE0VkV1YVp2c203TjNkaUF4dHRNeUE5aW5sMi12QW5pMElGMTNOV3FZ?oc=5"
+  },
   {
    "ts": "2026-09-08T07:00:23+00:00",
    "title": "Salai Tin Maung Oo, defiant to the end",
@@ -2107,13 +2114,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96U2t3WXV5eVNCd2FHS2xSYTZHTmpRSUx6WGdJbzZKM0tnNVJvektQLUhmeDFpWlNXb0dBOW84WUtURTltVTBERVVmOWtDT3ZXTWxhbHJOWjk4YXJpVEJRMS0waE56eWpzNV9vRHAtRQ?oc=5"
-  },
-  {
-   "ts": "2026-09-05T18:30:16+00:00",
-   "title": "3.2.3 Anaerobic respiration",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKeWpRdWVLZ3QxNmdsZWFSMUlQVmowTko2OHRlUS0xaXJheGRkeVVPc2N6UU9uZzJMQktiWWRRay1mVDJQc1NyemhoSF9PcEJwdXZKNW9OMVpna1g0blpsU1FTQ2tjS1BjOEM5RXRXT2U0MnFGbHc?oc=5"
   }
  ]
 }
