@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-09-08T11:00:23+00:00",
+ "generated_at": "2026-09-08T11:30:22+00:00",
  "signals": [
+  {
+   "ts": "2026-09-08T11:30:20+00:00",
+   "title": "The Irrawaddy News Magazine [Covering Burma and Southeast Asia]",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TTW9TVVlFV3AwbmU2bEVLRlgwVGlTWklsRjhLWllSVGVsWUllMjZVVWktdGNNdXNLS0NiZHRPNEo0dFF1LTh6endRb1Foa3hDRG51cnEzbktxQm55cmtmZ3NNNFFENUkz?oc=5"
+  },
+  {
+   "ts": "2026-09-08T11:30:18+00:00",
+   "title": "Buddhist monk, child among four killed in Myanmar military drone attacks",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/buddhist-monk-child-among-four-killed-in-myanmar-military-drone-attacks/"
+  },
+  {
+   "ts": "2026-09-08T11:30:18+00:00",
+   "title": "Military proxy USDP gains two more seats after opposition MPs removed",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/military-proxy-usdp-gains-two-more-seats-after-opposition-mps-removed/"
+  },
   {
    "ts": "2026-09-08T11:00:20+00:00",
    "title": "When going home is impossible: Myanmar nationals find solace in Singapore’s Peninsula Plaza",
@@ -2093,27 +2114,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/clyegx1v51zo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-06T02:00:17+00:00",
-   "title": "Working for peanuts: The precarious lives of women in central Myanmar",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSzB3aFFCSVF4MlpONWFLY083WVVMT2N1TFRGNU9yREthZEp5dFJmWV94dy03dG9tcjZDQkZ3eTBaLV92YU9hdHVwS1Z6X2xUajRhNnl6Q25HUHNjZVc0ZUVpSm1XSGxxZjg5WDFKSllaa2VneG0ySW5Gc2N3VloxeGctcmJqb01EUzM5NDZMRGFZNXI0UWFiVm1EangzSFVqOUI2WUY0OA?oc=5"
-  },
-  {
-   "ts": "2026-09-06T02:00:17+00:00",
-   "title": "Live Updates: Junta’s Election Phase Two",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTkRyUVVyYWotdV9XRnJJZ05TclA0QXUtX2ItUnNVemFQUDhiV1BtU2lWOVBya0VialJUS3NMS1VLOUVDcndfS01RNW5xNnNLMUN1Y1ZxdjhTRFJTNk43dW9fcW9Yc25KbVduUThZOVpNRk9ZOXhhb25yYXB3QjFtdkdwNEtKQQ?oc=5"
-  },
-  {
-   "ts": "2026-09-06T02:00:17+00:00",
-   "title": "USDP Claims Sweeping Wins in Second Phase of Junta’s Election",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORzUtYllDM2VkX1NRQWN4Wm5aM2s3QmRNc25oTlNubG11bWRLZjljc3RnbWtHY2RlQmt2dkwtNVY0SWtsalVLX2JOU2NQRUg3cUM3SU5FaTdFd0VmWEwtQldqWE1HWWgyaUY5ZEh1QTZzVjk5bjlRZWNYSERIekNLZDJQM3dmSTV4X004alpCc2s1ZWF0QkszdmtXcExJSXJkblFrUnl4NnY?oc=5"
   }
  ]
 }
