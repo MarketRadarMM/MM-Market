@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-08T02:45:21.360375+00:00",
+  "fetched_at": "2026-09-08T03:45:20.848638+00:00",
   "tiers": {
     "official": {
       "my": "တရားဝင် (ဗဟိုဘဏ်)",
@@ -204,8 +204,8 @@
       },
       "THB": {
         "official": 63.92,
-        "street": 131.2,
-        "premium_pct": 105.3
+        "street": 132.2,
+        "premium_pct": 106.8
       },
       "CNY": {
         "official": 312.94,
@@ -223,6 +223,6 @@
       "street_usd_mmk": 4320,
       "premium_pct": 105.7
     },
-    "implied_xau_usd": 4396.4
+    "implied_xau_usd": 4409.4
   }
 }
