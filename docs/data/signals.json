@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-08T21:30:22+00:00",
+ "generated_at": "2026-09-08T22:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-09-08T22:00:20+00:00",
+   "title": "Karen Revolution Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VYWhoRzhWUl9aQVFLXy1ibmo5WF9QSlM1ZVlfTTdmNmFhYUVyMVpJUS0zNWdGdDdmME5uMVpiT1UyeXVNdkhkWEh2WjhSU2FIME9XcUp4aGN1QQ?oc=5"
+  },
   {
    "ts": "2026-09-08T18:30:20+00:00",
    "title": "War-bruised Myanmar finds relief in bareknuckle bloodsport",
@@ -2107,13 +2114,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tdWF0SnE5a1ExcGIzMVE5MGRvSFRaNnZiYUVURFVkaGluTnl5dHJyVmZrb1FnZmtnT1dOUVNWX3JIbTM1Tm50VkwwV2xtbEhFQ0RzSWNaSE5lM0E?oc=5"
-  },
-  {
-   "ts": "2026-09-06T13:00:16+00:00",
-   "title": "ဗန်းမော်စစ်မျက်နှာပြင်ကို သင်္ဘောအစင်းရေ ၃၀ ကျော်နဲ့ထောက်ပို့ဖို့ စစ်တပ်ပြင်",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cwyz3z7q52wo?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
