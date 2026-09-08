@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-08T00:00:21+00:00",
+ "generated_at": "2026-09-08T00:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-09-08T00:30:19+00:00",
+   "title": "News",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZQjNLTGRKblhxYzRnV3NEOHlJR2VRUWpyM0R4TGV5TmxnblQ2cHJDeEFFZ1dOU3YwUG03Yy11OHRYZUNsOGhidThPNVlvRjFUY0txcUJOdWlPT1Y4?oc=5"
+  },
+  {
+   "ts": "2026-09-08T00:30:19+00:00",
+   "title": "Norwegian King’s Mandalay Visit",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03Yy1vYnpsWmFIaDJPczY5Qm85TFJQYW1sb3pYd2J4bE5OTTlBdjl0Rks3V2EwcEd2ejU2ME50czdoOFIyNlFVRDNJdFNfRmFZUzF3bmd2X0dLcnlHZkxFUg?oc=5"
+  },
   {
    "ts": "2026-09-08T00:00:19+00:00",
    "title": "News",
@@ -2107,20 +2121,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNX2RqX3RVVnE5WVNVdjFkM0drSkk3OGxUNkJmSzBic29lUnMxalJXS3hwcVNPcGlmMmZlUjZwUjZDNUMwLXZoVGhTVDJSNVpIMEZsLWlpRGJxUk1vVjBTTW9ZZEYzQlVFNXpNVGhiOENHbGpDSmdGbmJlMTYxX3U3Q29KNVJEc0pRa2RTaFFHVHRxOEswTG0xc3FGbGpteU1fNlV2OUNSRTE4WlhyRzU0S2RMZVlPaURhMjZoYmlYdUZrZVp4dW9tYnJ3?oc=5"
-  },
-  {
-   "ts": "2026-09-05T10:00:20+00:00",
-   "title": "Striking health staff boycott COVID-19 jabs as the CDM grows",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNlIxRmotSk12ZzZiN2tYeVFwOW5pYXY0Y2JoZXpYMXJFXzdSZzI5M0FoSlNBOTA0Mzhac29yVnZJSUx1b2xMbWxTcU0yNFFmeklRN1R6REZjODBLNVIwYlZyMUFhc3hSVXRLekx2S014T3BDdFNGNGJjWHktTFY1eWxVUnlTa1N5dnlrMU50MEJlQUtSaHFJV2llQ1I?oc=5"
-  },
-  {
-   "ts": "2026-09-05T08:30:19+00:00",
-   "title": "တရုတ်မုန့် Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa3NqSm1XazhhZnprc3pDWDdjZnBsenh4akVKcHRhY29YVXA3WmsxWnBlNjJNMi00M1U1bWlLMmVlbUtkRkFWUS1lVWtNak1lbk16NlQtTTJWU3Ftdm1tQUVKVkV0YkxxZmliOVgxS2FUdFpFM1dtdldqajdBOFV1VS1BWFF0U2IwQmJBTFRBNVJHWXM0NTNFR01HTU00MUVpMHN4dlNiVEg3VkJHS0FNSUg0c0JEX1p3QXF3VkpwVQ?oc=5"
   }
  ]
 }
