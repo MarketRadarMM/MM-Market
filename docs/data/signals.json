@@ -1,6 +1,76 @@
 {
- "generated_at": "2026-09-08T01:00:25+00:00",
+ "generated_at": "2026-09-08T01:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-09-08T01:30:18+00:00",
+   "title": "Dr Aung Min, prominent doctor, writer and filmmaker, dies at 62",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWlAwUEJFa290QlhOVjlNVHJmUV9xbnZKaVNPdXBkMW03bFpFbzNUOUNyMzd5cl9HQ1ByMlY2ZlZuU1l1OE4xc0FqdGlEOHNBVE9QWVNWVWZnenBIeTVZeWdYUTUzMEdjcFhGeW9XMldrMkxRTzBBTmpKWk9aSGd0dVBTOEt3SEJlT3hoa1ZB?oc=5"
+  },
+  {
+   "ts": "2026-09-08T01:30:18+00:00",
+   "title": "Singapore-Myanmar Vocational Training Institute opens new intakes",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbnpEd0Q4NklTQjFlbFhqZ1pqX3ZUZk1mZlVaZGZndldyeHZQdDZZRng4REMzOUVmSmlaUUFTMzhkSGRKRUE4UHZEbnQzSU5INkpZc0V4TG5iSjhYZ1pUWEtOS1AzSHBON0tUTGREbEhCUF9yTV85TXpoQ3VQQ05ZTGI5dEdwYXAyd0xjbnY2YnQ3czVk?oc=5"
+  },
+  {
+   "ts": "2026-09-08T01:30:18+00:00",
+   "title": "195 PDFs rejoin society",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE45SGp6YlB0MDhhUGNIOGI4VkJaZnMtcTBLYnFpYWJTaDVoTWg0RXhfRWVwMUQwcDBYWEM4MTNNd3hlZVdrUk9IMWZXa2tVRXhGZmpIRXNJYXVQVXNm?oc=5"
+  },
+  {
+   "ts": "2026-09-08T01:30:18+00:00",
+   "title": "Co-op Model to Unite Mulberry Farmers",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12X1hGeWdSWHFmNUYtTEJTMHBHYWNsTjZLb1hKMHplSUVkLWFTWWUwYmNBM3o4OHhpSFNWb0hpR2NuanYtQ082VkFqQVZjVVVtdWR1N25TdmNLMTlzZWxKSzdCMzlpX2FRMWNHcjFmSQ?oc=5"
+  },
+  {
+   "ts": "2026-09-08T01:30:18+00:00",
+   "title": "Police beefs up security in Yangon Region",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE91ZWt6akZZZ3hUNThiaTQ0eHlDMHVJRDVRWEE5THhYV1A3NXVLaE00d3pWWjdGTk1VRDg5aldGNmNaVkp3eFpidm53LXdEUUQtTGtndEU0b2tMXzFkNUY4c1otYl9OUDhxUG45cU9wVjdULTIt?oc=5"
+  },
+  {
+   "ts": "2026-09-08T01:30:18+00:00",
+   "title": "A cute baby donkey born at Yangon Zoo",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RRUtLUW1DWVhrM21TNWFoRXcxbFpHb2NLLWFYb0RYcWExS2d5V3pjZ2IxWElsYk8xZ3QwRm5ia0s0R0dnekN6Rk5nREktZDVHVFRwamFQaVdRUC0waW4wZFM1WG9GNDdYS0RDMHRpZw?oc=5"
+  },
+  {
+   "ts": "2026-09-08T01:30:18+00:00",
+   "title": "Communication devices for Tonzang arrive in Tiddim",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPejdkangzZE1neGFGVXNpN1YxOFdSa0R0eElUZmVmR2x2ZjdyNTdLNTlQVFBldFhWT1RTaG9MUk5Fb0pLbS0wbmQybFJ3clp0QnRYU011V1VUalBULWNLZnFSU0VnUHg3MWR3TWwzSWdyQ2pKSUV2U1BmamhXVWtQcA?oc=5"
+  },
+  {
+   "ts": "2026-09-08T01:30:18+00:00",
+   "title": "Myanmar hosts 23rd RCRC South-East Asia Leaders Meeting",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMVd1VGtQSlhfaWo0bVlZaXNsT3VSUWlqNFE1M0M3dVpfal9YQnppazVMeDAxVC11TXplc05sUDd2S2RTQUFDQnQ1OHJaekxZVEhCTHFodGxyNW0yN0lPTWh3MmJNMV9CaXRIZ0N3TWdvQXRKRTV2aElUOHpWdmZZajVtWEtOc1E?oc=5"
+  },
+  {
+   "ts": "2026-09-08T01:30:18+00:00",
+   "title": "8 September 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBidDZLNUdYOEltRURFd2NUdnlsUXR2V1ZVeWhBTEVNbXVFUWlhTWIzSW5ZblE4bEtOQ2Uyb3N4MUtnSWNoS1BHUDZ6bzdHTmxqUm53?oc=5"
+  },
+  {
+   "ts": "2026-09-08T01:30:17+00:00",
+   "title": "Factiva",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fYkY0a2ozalc5cXhoTmpEeWhJUDZ5eU1PaXJIZmxKZEZfQXdBWU4xMHU5am13Yk5ONnVWdjdUS0tYdjlwak9vUXBHckhwTVc5OEFSWGZoNkI3ZFVaOXJV?oc=5"
+  },
   {
    "ts": "2026-09-08T01:00:22+00:00",
    "title": "Daw Aung San Suu Kyi at World Economic forum",
@@ -2051,76 +2121,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOENsaEtCUVpWSndqcHNYWTJTTkhpZjNQTUZ2SG1kaDBNdDdMaUd6SFBCNm9lY043eWlhcFpfRjZCZ1JHUVZDdDhublQydEs2M2ZtOXE4MlpiblA0dGx2TUJCYnFQSTVibXRKdHU0WXRScEQ4UndfVzdSRzZiSkROUUZWQ1NPY2gtYm9OYTdiTDlwdzNzdVJXX0hMZXdJZnR1Y3RxUkFEMmpGbE1FeUpHWUdVa1ZaQk1OeVI0?oc=5"
-  },
-  {
-   "ts": "2026-09-05T14:30:17+00:00",
-   "title": "၃. ၂. ၃။ တွင်းထွက်ကဏ္ဍ ၃. ၂. ၄။ စက်မှုကဏ္ဍ – Page 204",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQOUVBWjU2eVlpN2txQjZYSG9SWDAzU0Vsd3hmLWEyTE43THEtY3lvOXlIU0FiVnRMZmJIaERnWFhSb3BDLUthTDEwelZrRVYwNTY5Q0N0dG9Ocnp6dmttYXJCN3RMMXdZVG1aNEpVOHZCZTZPaEVwQ0NrVDRvZ1oxQ0lWTmhuVXNVQnVxcFVGcVhUZER1QmRPYVE4NXd1YXlYUWkzZk1hQ1pWM0pvWDFDYkdTa053dkF2RmdwblJibEtxaWJVSlduOUNXTzVIY0N4YXBfdVZnQUlOcTBoUHBMRU1NOE9UbFUxVERnbXJBQ0ZVTHM4SmFqUGtzRlM0dURrY0EwcW45TkFNbm1OQjZ3anFDMmozaTBvcWdvNDZsNWxTbEVoeEd2NDBLRDJYaU1fajNLLWdqOVVwZWVvWnRvSkR0ME5yeXBLYzhTSjFsTTQyUTQ3eGJhMW1JbHpCU2U0?oc=5"
-  },
-  {
-   "ts": "2026-09-05T14:30:17+00:00",
-   "title": "3.5 Spheres",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56Yll6UGs2cXRqelhxWVN2bk5LUVV1bTNXaTBZWkxhUUVtUTFPY3l1a3RGMl9DenI3aUM3ZENkamJQczFYZ29WS1NJa0Rrb1Z1b1paNHkwdGlfSlBRQVhCTg?oc=5"
-  },
-  {
-   "ts": "2026-09-05T14:30:17+00:00",
-   "title": "1.3 Operations on Complex Numbers",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NZm4wQ05oaWNQTUY0dDFzYVIzLWttLURNZEt0WTVCZjRNaE1fZUh2cG0yelBOam5yWk9SX19UUnUzNy1Ic3k2N0F5STNZRmE0Vm1DRDNXRkYtZDNIN01VWW9xWmhFa0FDZEN4elJQSWd2d3RZTDkzMUtkazcwUQ?oc=5"
-  },
-  {
-   "ts": "2026-09-05T14:30:17+00:00",
-   "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing and high-level Myanmar delegation visit VinFast automotive manufacturing company and Viettel telecommunications and technology conglomerate in Hanoi,Socialist Republic of Vietnam",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcENERkV4WWNiTEk4N0lFcHRWOU5SOTJuMUxOUTJLM3VPMzRYeFlVLUJMcDB2VGJ4ZjVVMFBxTzhHclJKMzZiTGRwVzVCWTdfRXhISjFoRWhnODJpelBscmZjcHc0NDI0MzdqaHkzSUUzREk0ZW9IT0xrMFVOZFJiOEFHcmx4SnVibVZkTDl5bGlQTDhkWTFBcTlKcS1SOUF0c1dfOUFVeGZ2UzR5WldjV1o1ZFJvNmo3bGtMVmJB?oc=5"
-  },
-  {
-   "ts": "2026-09-05T14:30:17+00:00",
-   "title": "Deputy Commander-in-Chief of Defence Services Commander-in-Chief (Army) General Kyaw Swa Lin delivers remarks to officers at Office of Commander-in-Chief (Army) compound",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSkFGMlRWOE1mU2hOaVM0bU04ajR4bnVodlFpRnNPSGNPYkIxRU15cWJTWUlMTW1tQU9IamtudzlkdXVfYzIwdXBfV2Z3MHVvQlhHN0lSWTlQOXA0UnVFOXktS1JkUWV4dzMtd3h1TkctTXBwWTJuRjhhaS1QSFFhQ1hDOHRrMTJhX1lPSVZjRkFjN3JQS0N0OEJsVnBZaHU2VzZ2alpsWUpSSjlCMDJQeUV2Z3BQRUJhSHBQWDJB?oc=5"
-  },
-  {
-   "ts": "2026-09-05T14:30:15+00:00",
-   "title": "Guest Column | Is Myanmar Stuck in an In-Between Moment?",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUURScnFPNjMyNlZsMUVOOFNCdUNuLTE5cGM0b2dWaHFFLWxWUTFNaVBzMGxQYVVqT2lkRmUxSWxEbnNDbUpoMWUzVmNOcXNjQkxrRVd0UzZqcXJlZmlOUmVYcFY4YWJ3YVJ2NUNQbDFzWWlKVmtFM2tnVVItS0RWRF9JeWRXeFNtS3ZfVExESEVPdGo3Z1hj?oc=5"
-  },
-  {
-   "ts": "2026-09-05T13:00:20+00:00",
-   "title": "Analysis | In Beijing and Shan State, a High-Stakes Bargain Plays Out for China, Myanmar Regime",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcDIyc0FxMkI4ZXRWcGMyTXpEc20zeVhPQ0hkWHlqalhmaUw3ZEt3QnhiOENZUGVpMWNnMUxDRzVURWtzQjJjczNoR21DSmwtdThYRU5JZnZ2a0MtaVdUOXpNV3FPU21hNVMydU1GX2ZBOUhZV3VJYUoyeGhXdVliN1VuZDNHaVdDOGVQa1hMNEZsenRDTkZFR3ZacUpndlMwdkFxUzhTSTJjeEVFb19ySFlYLVMtWnV1b2hYRU0zajIyR2FWT0MweTFB?oc=5"
-  },
-  {
-   "ts": "2026-09-05T12:30:16+00:00",
-   "title": "Republic of the Union of Myanmar National Defence and Security Council Amendment to the Seed Law National Defence and Security Council Law 14/2026",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNNHByZlM0SWhwbVg5MGU5bFFnWGhHSi1OQTN2RVdQcDVaM2tLMTJ5U1ZSbzdQdlFzSF9WUzZJM2Y4a0l5RFRueDB5WElaTFlzbDJ2MTMzR3p6al83TTZyeWhnZHNSanB4XzF3dE5taURvc0g4NWVoaXBpMklZNUxaWG1OVF94cjJ5QnBCbXhWdmVXR0FTeldCMW5EVlQ4R2Q2SmxBVVlOMjZCZnNwWmdWLUU1YjlqNVdQeUFHWVBOSkVGRkxPdTBsMUY1OHdxUzlPY3VHVGNud1hJUmdRX3Z3WTh5M24zeklKcC13dGRicDZzLUpxWXdfVDNhaXVyQ3Q5?oc=5"
-  },
-  {
-   "ts": "2026-09-05T12:30:15+00:00",
-   "title": "ဒရုန်းပစ်ကူ Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVVdudF9aWGU0VVJHSF9hUUNuTzlieWFBN1ZmSTlaU2pBV0NBMTZNMUMtUkNVZXhFMUF5YVdyWXZNN3F3WkxHaVRlWHZqWWRVaXNOaXZvanp2cVJlaVBYckxUREZPQkdBLVpRcEtfMU8zMGluSElNVDRQdlpqNXNqQnJVb2xfcEg1MXFsa1dDemEtd0Z2c1Z3eEhEczJXYVF0Z2RnbmNFT3RVaEdhQzFXbFc3MXl6ak9UNVNvZG1Bb3dJNXZPeTB6ZHlnRQ?oc=5"
-  },
-  {
-   "ts": "2026-09-05T12:30:14+00:00",
-   "title": "အခွန်စည်းကြပ်မှုနဲ့ အိမ်ခြံမြေဈေးကွက် အလှုပ်အခတ်",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c5yrypn5ryqo?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
