@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-08T05:00:20+00:00",
+ "generated_at": "2026-09-08T05:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-09-08T05:30:19+00:00",
+   "title": "News",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uZTdJSnF1ZDlQa3FWaWo4Y2twMXBGLWIyTTg3UDRlbGRIRkVueGdsQnVUeHplTm1POVk3SGNhM1dTeU5QWEF6OFF1dW5HenctSlFxZF9iUUNORDA?oc=5"
+  },
   {
    "ts": "2026-09-08T05:00:18+00:00",
    "title": "News",
@@ -2107,13 +2114,6 @@
    "source": "Khit Thit",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9yVVF0WHJPSmJMMHlVNFo3UVdqam9nS3hIQTk3STB0cUxnY21GODBDSFVMZ2Y2ZUszaWhWeEVXazIzN0hESDNwdmVJTQ?oc=5"
-  },
-  {
-   "ts": "2026-09-05T17:30:16+00:00",
-   "title": "When the Water Rises, So Does Our Humanity",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zTUpnaFY1ZkxHR09td3lSN01iRDBudlpwY2VmVXVydHFPekNMMlYzeU5rSzFBNmtRcWNoM3pqaVhaMmVfTXpFVi1iNDFsVm5icmtfRTEwQWdqX0ZPNFBuVFNmU3NhNHFUS1dCRF8wYmZJbWVN?oc=5"
   }
  ]
 }
