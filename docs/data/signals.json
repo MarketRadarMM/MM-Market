@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-08T10:30:17+00:00",
+ "generated_at": "2026-09-08T11:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-09-08T11:00:20+00:00",
+   "title": "When going home is impossible: Myanmar nationals find solace in Singapore’s Peninsula Plaza",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/when-going-home-is-impossible-myanmar-nationals-find-solace-in-singapores-peninsula-plaza/"
+  },
   {
    "ts": "2026-09-08T10:00:19+00:00",
    "title": "ပြည်သူ့ပါတီအမတ်၂ ဦးကို လွှတ်တော်အမတ်အဖြစ်မှဖယ်ရှား၊ ကြံ့ခိုင်ရေးအမတ်များဖြင့်အစားထိုး",
@@ -2107,13 +2114,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORzUtYllDM2VkX1NRQWN4Wm5aM2s3QmRNc25oTlNubG11bWRLZjljc3RnbWtHY2RlQmt2dkwtNVY0SWtsalVLX2JOU2NQRUg3cUM3SU5FaTdFd0VmWEwtQldqWE1HWWgyaUY5ZEh1QTZzVjk5bjlRZWNYSERIekNLZDJQM3dmSTV4X004alpCc2s1ZWF0QkszdmtXcExJSXJkblFrUnl4NnY?oc=5"
-  },
-  {
-   "ts": "2026-09-06T00:30:21+00:00",
-   "title": "4.1 Introduction to Sequences and Series",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcVZsT21DTU5CNlJPUEhid1BmdWdROU03OEN0UElydnMyLXpLTzBnNEpsZkFZVVFGX2c5eEI0NVZUbU1zZE9rWkl0N09RS1gyUWw5c2laNGxnWnlRQlZhRGp5RmYxa3hTcDYyZ2x1aXpsWUd4RTZ6cWZDWFhMSmdjUkF3cGI4NUE?oc=5"
   }
  ]
 }
