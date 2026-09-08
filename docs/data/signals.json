@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-09-08T04:31:05+00:00",
+ "generated_at": "2026-09-08T05:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-08T05:00:18+00:00",
+   "title": "News",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rdjJyQnNtS01FSmZjY3dqSl9aOGwyOS0xSVhULVVocGt0LWhFQlplNVVJYk1xRFlGQUxTVnZycHFNVnMwOWgwTExRTkVjZ1JFWUYxMXdLWko4azZf?oc=5"
+  },
+  {
+   "ts": "2026-09-08T05:00:18+00:00",
+   "title": "News",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB6WDBRNEhyWGg1Y2VCQzZTa2QtM1ZrVXIzeDhFY01lNW5LNHg2MlFlUHQ1bk5WcjViSGpSVUJXRHBWaXFkUGxOaXZydWJxNFFJTmtkUkl1Vk9fU0sx?oc=5"
+  },
+  {
+   "ts": "2026-09-08T05:00:18+00:00",
+   "title": "The Irrawaddy News Magazine [Covering Burma and Southeast Asia]",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkbkJ2UFdFMXhveTBNalJGWE45Z2xwV1VhLUNvdE1zSU1SVlpLdk1EX0NWcUN2OEF3OGRBeGZZcXpvekp3eHk3MUNXUGZOc1VsaDBJeEFZa1RWcUlqYkhibDZKWXB0ZzVk?oc=5"
+  },
   {
    "ts": "2026-09-08T03:30:18+00:00",
    "title": "News",
@@ -2093,34 +2114,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zTUpnaFY1ZkxHR09td3lSN01iRDBudlpwY2VmVXVydHFPekNMMlYzeU5rSzFBNmtRcWNoM3pqaVhaMmVfTXpFVi1iNDFsVm5icmtfRTEwQWdqX0ZPNFBuVFNmU3NhNHFUS1dCRF8wYmZJbWVN?oc=5"
-  },
-  {
-   "ts": "2026-09-05T17:00:20+00:00",
-   "title": "Myanmar Regime Takes Full Control of Mandalay–Myitkina Road to Kachin",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdnVsR2xCTmFSLUV3a0xoQ2gxWGEzT1h4WWlDOU9JZ2p4ckNCTVNsT3FkQi1zREd0TmhMNzR4NWE5VW8xTXhLdmJSMlBZdlN3cVdpNXJNZVhOX1VlU1lMYzlyYkVoS3p5WXJONUdkZDF5N0JmMExHdDVyMFZlVURqX2RobDBZNkFBY3BvYjNzOUhocGZ6QVNNNWVIb1M1U2hOWXJRNFFTcHJSc0xOaUtTOA?oc=5"
-  },
-  {
-   "ts": "2026-09-05T16:30:22+00:00",
-   "title": "3.3 BERNOULLI’S EQUATION",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53NGlteEYyQXRua1RrUlctRTlwNm1xVHVpRGl2YjZ5Y1Y5S2dMMWFjRld6dVBRam9DOEt6UjBCeU52YzlZVmRGc3kwLUd2VGtIMEVnZ0VmaElLbGM4cE05cEN3UFU1ZjNvalhVd09rbko?oc=5"
-  },
-  {
-   "ts": "2026-09-05T16:30:19+00:00",
-   "title": "Myanmar Fuel Prices Surge as Digital Rationing Triggers Chaos",
-   "source": "Irrawaddy",
-   "markets": [
-    {
-     "market": "fuel",
-     "direction": "neutral",
-     "confidence": 0.5,
-     "rationale": "Fuel-market story — read for direction"
-    }
-   ],
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOUVTdnYzNlZ2cnI1UTktZi00anliZkxZLW5jbVNjUG1ZYXdxbGl5ZXJiYVFvM2NJRjI1emVid1BOLXRwcDFQem5uZURrcFhaaEl0NEpEUVlpcFY5bDFVcGdtcFpldEhKc0I1QWFKV2o0YzFCNGtpQkdiLU53dTZZUmd0ejdHZEdwdWNjZkNNWmI0bE9lOWM1RC1FdjJCUVBPQUFOVjln?oc=5"
   }
  ]
 }
