@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-08T14:30:18+00:00",
+ "generated_at": "2026-09-08T15:00:36+00:00",
  "signals": [
+  {
+   "ts": "2026-09-08T15:00:34+00:00",
+   "title": "News",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5rbjJjUXI4TDBKUm16YkJNWEVXNE1idDRZMHdDQTctOXhPNi1sdzJFN0NPeFh1aEpRclRjcDhuN190eklJVWl1RnlVQVBmU1RGYWR2Smk1bVc4RnRZ?oc=5"
+  },
   {
    "ts": "2026-09-08T13:00:21+00:00",
    "title": "Dateline",
@@ -2107,13 +2114,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNUY5SUJmc2pZUTd4SmExamdHSkk3bE0wRzctLXJNdWZiSUR6VzU2eVJOUTJqYU9DdnFkZF9oWFlWbW5Wdk1Oenc4d3ZncWo1OXVjQVBjR2ZkTzJPQ21BSGhfeXZfejByZE9OdHg1bGFZYnpxSFR0RWUza1RBQVZJa3ZBMWpaYmhiNUZSUlpPTmYyeTNIT0dHMV85MjJyQ2kwSFRhOW43T2QyYjlDWmRR?oc=5"
-  },
-  {
-   "ts": "2026-09-06T04:30:15+00:00",
-   "title": "6 September 2026",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sR3JVbzVfOWhXbHRPZ3VYcFI5dnpoYXVTUERkQTE4cXhJWlZWS2hRcWxYVDI4LU1DZjNhR3M3bjN0MjBpNVo5UWZQLVZOYWJHN0tF?oc=5"
   }
  ]
 }
