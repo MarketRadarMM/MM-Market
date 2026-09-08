@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-08T02:30:17+00:00",
+ "generated_at": "2026-09-08T03:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-09-08T03:00:18+00:00",
+   "title": "မြန်မာ့အခြေအနေတစုံလုံး လုံခြုံရေးကောင်စီကတဆင့် ICC လွှဲဖို့ ကုလ လူ့အခွင့်အရေး မဟာမင်းကြီး တိုက်တွန်း",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.co.uk/burmese/live/cqx2z45496yet?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-08T02:00:20+00:00",
    "title": "News",
@@ -2114,13 +2121,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOTNuSTBQSGtSeEtScFh1N2Y1c1BwaWF3M3lORWFLb3UxUTBNbE01a3liV1NGaUZ1cUItaHJYLS1NUmYtSHRGMm45UFhhd1JUSUVPdDZVX215NkNMMGcwQko2aGJKWUdWYmtwWkxtZFB0UUNBQk5ESE5zQ1M3YVViNWVOYU13R0lkOGFSdkRTS1Z4OEZIUFZ4b1JfSUFub0dIdGhUQld2RmZENTdXVGtIOFphRVRrZw?oc=5"
-  },
-  {
-   "ts": "2026-09-05T16:00:21+00:00",
-   "title": "7.2 Velocity of light",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zVjN4cDZkdnZVTk1mUmtVSkVXMmkxVnFSR0NrWkpjdXczLTZ6NW9ubmNPM3gwOFVibTVPeGJfQl92bE1Va3BTOV9ZcFJ2ZlRtNHROZU10ZTYwd0pqdEsxd1BLaFNvUnBqOW5udEdB?oc=5"
   }
  ]
 }
