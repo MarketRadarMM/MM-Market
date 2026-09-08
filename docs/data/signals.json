@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-08T07:30:18+00:00",
+ "generated_at": "2026-09-08T08:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-09-08T08:00:19+00:00",
+   "title": "Chin People’s Army Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00U0t2ZjVzZ2FzeW1qNTJaQS1SQkw4MVRSazFzVmNZeENydVlFcWhCUFNsbkVFM1AtWWlvVmEyTWhfUVRpX1U0OXF6R1lENy1rYWptTm9DcFlzT3c?oc=5"
+  },
   {
    "ts": "2026-09-08T07:30:16+00:00",
    "title": "The Irrawaddy News Magazine [Covering Burma and Southeast Asia]",
@@ -2107,13 +2114,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSUd5b3VkdUNrRF9rUzMtUjFUa3pubTduTTVPSFM1SVZwRmRIYkFGSlhENmNlRHc1aUFiUVBnMU8tbGpPTjVHeE0zRFRMdU9SMW9OeHdHYVN2dG1fUzVmQ2J2MlczWWtrSV9qNTVvV1VKaTRCX04xTXlzci1qVDJUemcxaWl0d1pzOVMzNWpsWEZGOWdkaE9sWmNpck94bnZPeUpwcUZCRQ?oc=5"
-  },
-  {
-   "ts": "2026-09-05T18:30:16+00:00",
-   "title": "G-3 Eng – Page 3",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96U2t3WXV5eVNCd2FHS2xSYTZHTmpRSUx6WGdJbzZKM0tnNVJvektQLUhmeDFpWlNXb0dBOW84WUtURTltVTBERVVmOWtDT3ZXTWxhbHJOWjk4YXJpVEJRMS0waE56eWpzNV9vRHAtRQ?oc=5"
   }
  ]
 }
