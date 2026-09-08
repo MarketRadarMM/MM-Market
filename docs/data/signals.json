@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-08T06:30:21+00:00",
+ "generated_at": "2026-09-08T07:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-09-08T07:00:23+00:00",
+   "title": "Salai Tin Maung Oo, defiant to the end",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCd29RMno1ZG9CU29SdHY4cHF4RmYyekE3dlNtY2F2czNpaXpMUWx4eHhvRDVnT3R3UEp1emljbXBLbEpmRm11ZG5uT1RETjNKM2FFOGRjOUl2dGIwNzVxWXEwcUc4MWItc19rRDJmX1dJZktmN0hHRnFVTHB3QQ?oc=5"
+  },
   {
    "ts": "2026-09-08T06:30:21+00:00",
    "title": "President U Min Aung Hlaing gives guidance to Myanmar Embassy and Military Attaché office staff and their families and scholarship trainees in Hanoi, Vietnam",
@@ -2107,13 +2114,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKeWpRdWVLZ3QxNmdsZWFSMUlQVmowTko2OHRlUS0xaXJheGRkeVVPc2N6UU9uZzJMQktiWWRRay1mVDJQc1NyemhoSF9PcEJwdXZKNW9OMVpna1g0blpsU1FTQ2tjS1BjOEM5RXRXT2U0MnFGbHc?oc=5"
-  },
-  {
-   "ts": "2026-09-05T18:30:16+00:00",
-   "title": "lesson(4) Let’s try these experiments!",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ENUYtUDJuZUtuamdKV2FYTVZnZEFkdVBlWldNcmdYNVp0cVRndm1HaUFEWU45YW9LT0lzdlZEWlotaVRhNFhZZGIxVGpvZFBjRURLc09RamxrSGp0d2FpWHdMWDNCUXVEQ1h1Q0ZWZXYyYmdKckg0V21UZnllazg?oc=5"
   }
  ]
 }
