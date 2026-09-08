@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-08T11:30:22+00:00",
+ "generated_at": "2026-09-08T12:00:25+00:00",
  "signals": [
+  {
+   "ts": "2026-09-08T12:00:24+00:00",
+   "title": "UN Rights Chief Calls for Referral of Situation in Myanmar to ICC",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQU5NMjNjblNCUmpSM3VuWUI2V2pCQzVKWGtCSGg4eEgyd3FoeUZNclAwVVBIU0lOQkhFMnVTOG5vTFBNTlhaMEo3bTlVakpHbjBVUnltQ2JsdVNiV0toSjJ6QThlZjZKdmRJMDM0M0RMOTRaNXk3N1NSRHN6anlpUzUwbEFvcEwzbmp4azEtQnBiU0lwODZ1T0VENkgtNDFSNDFkUlM2ZENKd1R0bndtRkYwX3hJaV82NkRwanVnd0dWZGFfVHc?oc=5"
+  },
+  {
+   "ts": "2026-09-08T12:00:20+00:00",
+   "title": "မုန်တိုင်းထူ ပိုပူမယ့်ကောင်းကင်ကြောင့် ခရီးထန်ဦးမယ့်လေယာဉ်စီးသူတွေ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cx2zjd67xlxo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-08T11:30:20+00:00",
    "title": "The Irrawaddy News Magazine [Covering Burma and Southeast Asia]",
@@ -2100,20 +2114,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAxRkdadkRnbnc4dnlJWFdKXzVVXzNyZWZ1bi1jMEh0UHFNOTcyYkVQZ0lYRnBiUm1YM1pRX3dUNmppbzYxVDFHWm9jSWE?oc=5"
-  },
-  {
-   "ts": "2026-09-06T04:00:19+00:00",
-   "title": "Myanmar news anchors told to mind their language as Covid spikes",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaUxiS09kcTd6dEM1R2ctdWNSQXlreGZ3RlpZRlVhclVFU1A5QjBPZVNxcHJXNXFUaUhzdUNaRWJ3TXR6QlZXWEhXNDViSmFiQTJQdmFFUFJ6cTdtWVBBZURZTDJvQjExS0ZrcjNtbDFEaFBnTkwtbWNocHVNanROYkJia3VqR09MVjRKYmgtRDMxN1hRM25MMlpYa2x4RnRfMXc?oc=5"
-  },
-  {
-   "ts": "2026-09-06T03:00:21+00:00",
-   "title": "စက်တင်ဘာ ၆ ရက်သတင်းများအနှစ်ချုပ် - နိုင်ငံရေး၊ စစ်ရေး ပူးပေါင်းမှု တိုးဖို့ ဗီယက်နမ်နဲ့ နေပြည်တော် သဘောတူ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/clyegx1v51zo?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
