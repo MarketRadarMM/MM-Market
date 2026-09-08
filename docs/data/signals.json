@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-08T03:00:23+00:00",
+ "generated_at": "2026-09-08T03:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-08T03:30:18+00:00",
+   "title": "News",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IcVpwMGg3MkRFWmJyUDBKWnh6VTc5TC1rZW0zXzRwVXdyRW9kLUcyNEVwVHIwSHZMX2lrQ0ZHVGRPNi1XOGszM2lBLTgxLVhBYmwyaUdzU3E5T0E?oc=5"
+  },
+  {
+   "ts": "2026-09-08T03:30:18+00:00",
+   "title": "News",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4LW1NX1NBZHJWd1V0RGhtVUMwelhGSVBtZmdBUkZLTks5VEwzOEdfUUgwSWVEM1JQMzZxeDlrNkVfTWRkUFFxRWd0R0hqXy10dVlWaGRJZW1MWmM?oc=5"
+  },
   {
    "ts": "2026-09-08T03:00:18+00:00",
    "title": "မြန်မာ့အခြေအနေတစုံလုံး လုံခြုံရေးကောင်စီကတဆင့် ICC လွှဲဖို့ ကုလ လူ့အခွင့်အရေး မဟာမင်းကြီး တိုက်တွန်း",
@@ -2107,20 +2121,6 @@
     }
    ],
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOUVTdnYzNlZ2cnI1UTktZi00anliZkxZLW5jbVNjUG1ZYXdxbGl5ZXJiYVFvM2NJRjI1emVid1BOLXRwcDFQem5uZURrcFhaaEl0NEpEUVlpcFY5bDFVcGdtcFpldEhKc0I1QWFKV2o0YzFCNGtpQkdiLU53dTZZUmd0ejdHZEdwdWNjZkNNWmI0bE9lOWM1RC1FdjJCUVBPQUFOVjln?oc=5"
-  },
-  {
-   "ts": "2026-09-05T16:30:19+00:00",
-   "title": "Guest Column | A ‘Made-in-China’ Presidency Won’t Save Myanmar’s Regime",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMVZTZ19fTEk4X0hBVjJrZWh3R0c5akhnUjhoSWU2ZUh4SDZRZ21MM3E0cFZIV3pnV0xlYUxpY3VGbHlhUmZScWNOb0gxOVBNTm5va0pmb3o3MEZIUXhsdDRXdG9IX3A3WUh2ZUdHR2FDeDdBdVZ6TkJidjdJYnJNTS1LMU83ZE9uVVF5NktQc3dwdFVMRm1SejZQN0xWOE9tdEY5VUpzZw?oc=5"
-  },
-  {
-   "ts": "2026-09-05T16:30:19+00:00",
-   "title": "‘Myanmar Women Are Like Shirts’: Inside Kachin’s Chinese-Run Rare Earth Mines",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOTNuSTBQSGtSeEtScFh1N2Y1c1BwaWF3M3lORWFLb3UxUTBNbE01a3liV1NGaUZ1cUItaHJYLS1NUmYtSHRGMm45UFhhd1JUSUVPdDZVX215NkNMMGcwQko2aGJKWUdWYmtwWkxtZFB0UUNBQk5ESE5zQ1M3YVViNWVOYU13R0lkOGFSdkRTS1Z4OEZIUFZ4b1JfSUFub0dIdGhUQld2RmZENTdXVGtIOFphRVRrZw?oc=5"
   }
  ]
 }
