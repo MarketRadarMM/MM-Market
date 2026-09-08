@@ -1,6 +1,34 @@
 {
- "generated_at": "2026-09-08T00:30:21+00:00",
+ "generated_at": "2026-09-08T01:00:25+00:00",
  "signals": [
+  {
+   "ts": "2026-09-08T01:00:22+00:00",
+   "title": "Daw Aung San Suu Kyi at World Economic forum",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYUh3dmc1bUtsR0RtREtWaXZpbnJ6TndESjdvZTlYbjEta3FfNjg5ZlZEVE56c1QxQXBkdkowT2hpMllTY2FxYjlPLXlDMGh0cmNrQ2pSWHF3cE5mT2hsLUttUHdtLWl5Y2xUeVNhMkpMSW05ejdDOWh1NWJVT2xXc3g1SDNDWDFicjFpR3JoQWRtWEdIdC1oRWw3b3pCUThYNko4?oc=5"
+  },
+  {
+   "ts": "2026-09-08T01:00:22+00:00",
+   "title": "Page 3292",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lVlRZV3VXc1VXSHh3T3dyRG1nR1lhYWV0U0FzcnhkeXVTclNNYUN6czFQQ19JZk1oLW0wVFBiRHBPdDhlSHdXQ3pYeUZzU0Z6Tnpacldn?oc=5"
+  },
+  {
+   "ts": "2026-09-08T01:00:22+00:00",
+   "title": "Economic and Social Chaos of the State",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52SU5uSWhvUkNOTE5yd3NQbm11YVJCb01TM2N1clRWODdLOEJkWDFWWFFrUWItR2xCSzNaVjhOV3NncHY3d0FySnNVN3RDcW85QjIyWmNoMjV0N1hET2p0U1g0SlBlQQ?oc=5"
+  },
+  {
+   "ts": "2026-09-08T01:00:22+00:00",
+   "title": "Page 2970",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xaWEyNDcwOVNVOC1FWTR1a2p2RVY3a1FHNXNiX0RRb25vazBKX0VIMWppaU5MNmM0cHVqM0hwSGJJc1ZVTnRCU043Tm9XVjhEcFdsUmVn?oc=5"
+  },
   {
    "ts": "2026-09-08T00:30:19+00:00",
    "title": "News",
@@ -2093,34 +2121,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/c5yrypn5ryqo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-05T11:30:17+00:00",
-   "title": "Analysis | Does USDP Chair Khin Yi Have a Shot at Myanmar’s Presidency?",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRGYtUVF2SEtxRDUydTk2SXJqU2ZhZXl4OXdVS0tuaDhISlNfSjlqWW1ONTJfRjlqaDQzVU51QzlLLUxIVGVpWDIxYzdIR0NxcmdyaEJwNzI3UDRIbWU5TWFoektObVdnUHBFTWZEbDhIWkh4UUlPeUEwVFNmbWpNNjhEYUViWFZBcG1FazM0TW5YM3psdE9YVHhOYklyaGNfQXFJMFprSjNBdw?oc=5"
-  },
-  {
-   "ts": "2026-09-05T10:30:16+00:00",
-   "title": "Bestowing Legitimacy on Min Aung Hlaing, BRI Lockdown, and More",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOWxJU2EwU00zUHJoZkpSNHJkQjRyeExIM0dwUU1SczdRS0VaU21PQ3V2dlpjcGhTcjlsRWZzdE1KR2NadERyakNCSmRpWDU4Q295WHlTczJoQlNwTmFBbDUzYUs5X1BRcW5vc21weXdZdXRiekt6WnZJWDVuTjZUdldvUld0Y0dXSE1Fai1Nd1BwSWdXQzZTZzAxZjcyajU0YlBYN1U1d2ZHQk1nQXMzaWt3?oc=5"
-  },
-  {
-   "ts": "2026-09-05T10:30:16+00:00",
-   "title": "Think Tank Condemns China’s Arrest of Myanmar-Born U.S. Scholar",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeU5OdmF4Z19ycXVNMnpGSV9yWnNsYWJaUE5XSFBiZlVDWHg5aTF4cjZReFJfTGR3QkdzRDVQeEZIb2luQmJLQVJ5NFR4QnFOV00zM1ZhTEpkT01XSUtrRUhUb0kyd1lubUNHWEk3bjRvUGZ5R1hHSlhiWXlJRVg0amRUVnkyR2xvaDlkMHJaWlFsb0g2azloLVdSZXZTd1IwTlROVkxn?oc=5"
-  },
-  {
-   "ts": "2026-09-05T10:30:16+00:00",
-   "title": "Opinion | Shadowy Drug Lord Wei Hsueh-kang’s Influence Still Felt in Myanmar’s Wa Region and Beyond",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNX2RqX3RVVnE5WVNVdjFkM0drSkk3OGxUNkJmSzBic29lUnMxalJXS3hwcVNPcGlmMmZlUjZwUjZDNUMwLXZoVGhTVDJSNVpIMEZsLWlpRGJxUk1vVjBTTW9ZZEYzQlVFNXpNVGhiOENHbGpDSmdGbmJlMTYxX3U3Q29KNVJEc0pRa2RTaFFHVHRxOEswTG0xc3FGbGpteU1fNlV2OUNSRTE4WlhyRzU0S2RMZVlPaURhMjZoYmlYdUZrZVp4dW9tYnJ3?oc=5"
   }
  ]
 }
