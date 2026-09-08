@@ -1,6 +1,41 @@
 {
- "generated_at": "2026-09-07T23:30:23+00:00",
+ "generated_at": "2026-09-08T00:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-09-08T00:00:19+00:00",
+   "title": "News",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BZFAwYzNDQ2tmV0ViMUNmOFVHeG9ab0ptRE15NHZRUlowdmxYZmxnekhoZWM2S2pxbTRhNFZqMWdhamZvRmpPamZOU09FaF9oMXUtLTVBTUVDWFZf?oc=5"
+  },
+  {
+   "ts": "2026-09-08T00:00:19+00:00",
+   "title": "MAGAZINE",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5OYi1RQkhrN3FQODktQWxlLTFsenhhejliSFQyTWlvMnU4ZHhYcllDTlhPTzhMNWpRNGNOUDZMMzZHS05NTkwwb2V5SHdadUtJeUc2U2ZRM2hySDcw?oc=5"
+  },
+  {
+   "ts": "2026-09-08T00:00:19+00:00",
+   "title": "Page 3513",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YOFluNE4wVWh2Yk03SlpUelpyRnkzc0M2dGYxYWdQWjNWNy0zX0x1NWE5V1lKZk1Ya0pjOGhpZEZLV1ZJekxDZmNqUjNBLTNjQW5fa3FB?oc=5"
+  },
+  {
+   "ts": "2026-09-08T00:00:19+00:00",
+   "title": "Chinese Officials Again Pressure Kachin Leaders to Back Myitsone Dam",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWFVmOGE0VVNwcWxqVzVIdVMzemg1NDBMbWdhVjItRW5DV3dhdVMyNFZKNnpfLUVZRU1zdjdrQllROFB2b0h4clVFNENHdXNqMkxLcW5kOGRGMXJMZFVGWEVPbGlMNDlSMjRoekZ2c0lJb18yVHJSQW82aGQxbVpVZG9kVWRpc1p1T1NqNmY4V0d4d2NncFE0dk9DdVpSV0VHdWZR?oc=5"
+  },
+  {
+   "ts": "2026-09-08T00:00:19+00:00",
+   "title": "Chin State",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE90VmUwblMzT1pFanN3UDU1ckhmM0l0TWJ6cFVVLVBZM1VFNElxTUJKQkN6RVl0WGNzM1ktYkFEWjYxOTI4TWh6aTdTZGFSelNmNVNrcVhBQ2FFQlRuRExCVGNvd0FrQURsSWJ0R0ZHVUdweEE?oc=5"
+  },
   {
    "ts": "2026-09-07T23:00:22+00:00",
    "title": "Go-Go Bar Archives",
@@ -2086,41 +2121,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa3NqSm1XazhhZnprc3pDWDdjZnBsenh4akVKcHRhY29YVXA3WmsxWnBlNjJNMi00M1U1bWlLMmVlbUtkRkFWUS1lVWtNak1lbk16NlQtTTJWU3Ftdm1tQUVKVkV0YkxxZmliOVgxS2FUdFpFM1dtdldqajdBOFV1VS1BWFF0U2IwQmJBTFRBNVJHWXM0NTNFR01HTU00MUVpMHN4dlNiVEg3VkJHS0FNSUg0c0JEX1p3QXF3VkpwVQ?oc=5"
-  },
-  {
-   "ts": "2026-09-05T08:30:19+00:00",
-   "title": "Tensions Escalate Between Resistance Groups in Mandalay Region",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOejVNd3M3TFZsdmVwMUdzQm0ySDJvSGJIRmE4dlMxUDRUME1nWk1MMHc2QUxZa3NlV1MtdHQyNy1pUWlMdUdCcG9Ib2dZaHhXQ0xHTHA4ZjFmemtFZ1drSnR3a1o1dFpkQzFhRnJqMXVZS2xlQlZlWlRBMkRWeHhTQVpiNjhyakRkQ21NM1BSQWRVU0N1cXFPaGJWUXQ1cHJ6VmZjZ2pzVQ?oc=5"
-  },
-  {
-   "ts": "2026-09-05T08:30:19+00:00",
-   "title": "Myanmar Paves Way For Junta Chief to Become Civilian President",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOME53T3N4OVdRMHhjZFZTdjNaWVgycWRpZ3JhVkVNVmFYdGJWdlJNU05lZWdVWjNGR2Y3Mll3WlB5T2ZZeTB1WWJ4QXlNSmhTSE5YXzhQZGVsb0JWUzc3OFUxcUZ1MW8tbTZ0bjAyMGcwbmdVa1VqYzFmX3JLUlB2QXlzQU81RGZyUFNRaUN1eDBUTEVsdGtQNlduLW1jbU5OSzhzcWhDNVlNTEU?oc=5"
-  },
-  {
-   "ts": "2026-09-05T08:30:19+00:00",
-   "title": "Opinion | The Wa Flex Their Muscles on The Hill",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLWtTdW5lX0dOY1hiNlJFdkh5UGtBcERkcmg4V3NQNWQySl9rRVBocHVnZ1BpTlhRdEpaa2ZxUTN0a0IwdjJKRmVkNDhWRW9nei1sSFh5NHdUbnFGZ2w3bmRfWUxxM0pBcUVabVp6bGlwYkV6MlFKTWNzTFkzTXRNZmF3ZGczdUZpeXJCUEJOY3k?oc=5"
-  },
-  {
-   "ts": "2026-09-05T08:30:19+00:00",
-   "title": "EdtiorialTalk Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0wV2ZaTjVfVjJpMHJnT0NpcFhaX1JSZEVpRUJlQ180eHJmRGx3YWpCY0ZoX1NVbWlVcHNTT19HbWprT1VfaVBGWHFTWVI0RzlBWTJ6Z0FaSTE?oc=5"
-  },
-  {
-   "ts": "2026-09-05T08:30:19+00:00",
-   "title": "Myanmar Regime Continues Deadly Campaign Against Civilians Amid ASEAN Outreach",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS2RVcEdZaDJ4WEtBRF80Qi1iV2dHMHBIZG5TRndSZ0tRWTRXc3FhNnJQbkdZVWVzN0JWQkx5d1lxU2ZaQ2daQ2p2eGFLajBaSXJQUHhOMi05MHZDLXI2bXA0LUxSN1pHeXk1OGFiM2wwZUpXRUMwanVhVkJCTkpfX2xqVjYxM3pqUlNxdkFqQWIyU3I4SHhwTklkODNwTHd6VHFyV0tlazdLb1ZXcGU3TkJXSHRpbDFlZG1NRWo5N1Ywc3BoUlMxbXU2QjYyTG9l?oc=5"
   }
  ]
 }
