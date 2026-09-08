@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-08T12:30:20+00:00",
+ "generated_at": "2026-09-08T13:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-09-08T13:00:21+00:00",
+   "title": "Dateline",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QLTVHVEVlVzd6VWFpOFJoeFQyY1dsQTJpZlQxZ3FGWFQ1WmY4VWVGalh4MklZR1NBZFJHMU5zcVdlNEdYLXNTRjRISTRhZUhwQWZROWs1bnZ0aDFYT3Bj?oc=5"
+  },
+  {
+   "ts": "2026-09-08T13:00:21+00:00",
+   "title": "The Irrawaddy News Magazine [Covering Burma and Southeast Asia]",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2UlJwaEtockdVVnpDVTdZUEVWV0tlSzN4bEhuandSZkJjYmlQdlJsTzJjc1YzOU92UEJjQ2R3bDU1V0dJT1VoNXV3S1IwNmFDQlc4MXRaRTlYRTNvdWhTMEZxUVQ0QjJ2?oc=5"
+  },
   {
    "ts": "2026-09-08T12:00:24+00:00",
    "title": "UN Rights Chief Calls for Referral of Situation in Myanmar to ICC",
@@ -2100,20 +2114,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sR3JVbzVfOWhXbHRPZ3VYcFI5dnpoYXVTUERkQTE4cXhJWlZWS2hRcWxYVDI4LU1DZjNhR3M3bjN0MjBpNVo5UWZQLVZOYWJHN0tF?oc=5"
-  },
-  {
-   "ts": "2026-09-06T04:30:15+00:00",
-   "title": "Myanmar Junta Moves to Criminalize Opposition to China-Backed Megaprojects",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMjJJYU04RkZNekEzVXVfSF81cEFUeU5YMFVENWRoOEczb2N5a2U3MlhXZGpmR3ptV0IzS3JxdDRhdjVYOUhlNWtINmdfQ0szajg2S2QtMmZxWTVxYW04c0tPOURHeEdsOVN4RXlUNUlVUGJONUE3amhSbm5mZ3lMVGFBZzlUWG9XWmtUNG43NEliY2x0UDZWbEViNEc2a19KZ2dLaC11Nl9nVkxJQ002eXFVMTZ5VWM?oc=5"
-  },
-  {
-   "ts": "2026-09-06T04:30:15+00:00",
-   "title": "YRTC Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAxRkdadkRnbnc4dnlJWFdKXzVVXzNyZWZ1bi1jMEh0UHFNOTcyYkVQZ0lYRnBiUm1YM1pRX3dUNmppbzYxVDFHWm9jSWE?oc=5"
   }
  ]
 }
