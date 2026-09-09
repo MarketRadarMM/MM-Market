@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-09T20:00:24+00:00",
+ "generated_at": "2026-09-09T20:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-09-09T20:30:21+00:00",
+   "title": "MoC wins Inter-Ministry Sepak Takraw Championship",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HX1RsQmFjMmtqSG9PMEpBX05xZE8ydjBudjQ3SFRIelFoQ3UzdlZCTlVEZ0Z6RmRiSkM5ZUMtSTBSTzhjRWc0a0xTa2NtM25sRHB2M0EyNUpoVWRyS0hlcmdQSHBIenduR3NST3lucWdYNFlsUXg1ckZXVHBKSzA?oc=5"
+  },
+  {
+   "ts": "2026-09-09T20:30:21+00:00",
+   "title": "10 September 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aX2l3dXM2OWNhREpVbmJyUk1YS1J6cm01cVhfaVFfMXhFbmhuLWw3SXhqd1R1Ym9JRExqRjNyaktrRnR1RWlOZ3VyV3J1Um8tV2ttRQ?oc=5"
+  },
   {
    "ts": "2026-09-09T20:00:23+00:00",
    "title": "Construction materials provided in Tiddim",
@@ -2121,20 +2135,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONGNySjB6ZUVJV2FYTndSUGZMckNZOTgyd3c1UTFtZ2RKTk5zUG94d3RWQ0VoQ2Z0aEY3LUNROGM0aGVFYUd5NFVxZ25oWTk4eVdfTHh5RkExa3h2emR2a3VwQi1SamNTX2cxeEF5ejBUQmliSVAwZW9KRnptSWFtOE9TOFBNTnRBSFBoRm5kMG5RRVE?oc=5"
-  },
-  {
-   "ts": "2026-09-06T21:00:20+00:00",
-   "title": "President U Min Aung Hlaing, Spouse Daw Kyu Kyu Hla and party return from Viet Nam",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSEthZFhUUm1aZnRiMG1TRW0tS0RYZzNKNmZOX1BweUhkZVFMQVZvTk1KZ1RBc1BLaHU1SldZNkRhX3RzQ05HZC1tczYySUJjdmJmSlpOZGNiNUsxZ3NRcU5fSVkxQk9nS1NaUUxmNTZpb2hJRjBoenZNRXhJamI4eGo3czJrYW1jVkVGbFExdzVUMUI0ZV9Wem83ZWlETWtERlNLSXZWUEhSQQ?oc=5"
-  },
-  {
-   "ts": "2026-09-06T21:00:20+00:00",
-   "title": "Online scam operations continue to be investigated",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNUozZWhMaHkzOFRtU1hNQ1ZGM3NHcmNCZzh4Z1Zfeno0RHcyZm9MZDhvMmZYZ2UwN3VRV3lnRHNjYXpVTWdhd1pTZTgxVGk3QzhFQlpsQWxod3hkRktGaUtuR05XSnc4NGZmSEx1OWlZeGN3WnlHSlBXRmpydkxMbw?oc=5"
   }
  ]
 }
