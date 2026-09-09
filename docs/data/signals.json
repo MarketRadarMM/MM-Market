@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-09T16:30:25+00:00",
+ "generated_at": "2026-09-09T17:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-09-09T17:00:23+00:00",
+   "title": "KNU, KNLA, PDF lose Kamamoung-Papun route as roads, bridges restored",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRU1xa3JkaVA5MWV0MHNxa1JWMG5pSVRpYmEzMkJ3VzlOenQtVVlGSWQ5Tm5PNm1LbFVab1A3Zk9UTEwtZjVjREJwOGlCTkw2eXEtNUJIVnN2dlh3NjBqckNoak4wbk5UOUxMdjNUVDJzNld4ajRhdTVxbW1kUXl0cld6Q3hWcUszRmNtMC00SGQ4UDhj?oc=5"
+  },
+  {
+   "ts": "2026-09-09T17:00:23+00:00",
+   "title": "Laterite road construction underway for Aunglan-Pyay Highway-Ngapyinn Village",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX19aYVVualgyRzZHZS1HRmdodVREQ2RFXzlXRVZROGdnMElHd0RVdThiTDlvSkRCZWtiTUdJa3hpSnBSQ3l4OFdTcXR4NVd1SDhqR1FKNEt1SmgxS3VIRU9KMzltbWZnYnpvYjlFZElVWWIxTWVPbndVSEh4eTJnZFpsVFo1d1M1Rkx0ejcyUnNGN1k1Umo0SDU4dzhubTFMN2Z3bg?oc=5"
+  },
   {
    "ts": "2026-09-09T16:00:25+00:00",
    "title": "Tatmadaw columns regain control of Kalewa-Yargyi-Monywa route temporarily held by terrorist insurgents; India-Myanmar bilateral trade flow and regional goods transport to resume without obstruction",
@@ -2121,20 +2135,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5meEJEeE5IZk45NUlPSm9mRml1eGJfTDJiSlV3cEhfdTQwNURKTkhlREYyYzZGUGlaWHF6Qm0xN0JoLS1IbkdCSE9INnVQUkt4amdqcDJWbTlDUUhqd3BGZVhpREpkMUx1MmtBMVJhTURFTTVBMG9DOVlqMA?oc=5"
-  },
-  {
-   "ts": "2026-09-06T21:00:20+00:00",
-   "title": "Magway neem pesticide factory prepares to produce high-value products for export",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZHN2QzBDWlc3Z3hWTG5rbWlsS01PNXFaaTVXVjBrelM1amhMM3V4NFEtUmUyNjhGaTF1ZDRNTDl2NVNmYnRqa2pVYTRjTVRkYlNBWG52NHprMGZKR3B6amltTGlMMjZfa2w5MlRPVDdjbnUtRFltcWxHZG56MDZ0N2hjdkJPV2YyLXVsZFAyb3hNZHlpSVBYX05RNjgzNnBELUc5UzVlMWw?oc=5"
-  },
-  {
-   "ts": "2026-09-06T21:00:20+00:00",
-   "title": "Magway chief minister honours returning service personnel",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMlVGM09sTHJ5Qmx2dnRHaWxtSkxRbnk5MXkwYlhkVXAxcnRlZTR4djk2bUQza1hyWUR1dTdRdGwzMGE1NzdFc1pkVE1HdlYxN0lvOERBUzdIRkV4Z2JKUnNVblN6TlVNU1VJeE43RGtHOG5NRjR1Q05yYTJRM3RkZVM4blJEb0laUVE?oc=5"
   }
  ]
 }
