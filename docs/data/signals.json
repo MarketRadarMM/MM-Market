@@ -1,6 +1,62 @@
 {
- "generated_at": "2026-09-09T07:00:24+00:00",
+ "generated_at": "2026-09-09T07:30:25+00:00",
  "signals": [
+  {
+   "ts": "2026-09-09T07:30:20+00:00",
+   "title": "Fuel oil price remains unchanged this week",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XemNueElaMnZOb2Y5WHhMZFFXM2ZGejdNQXBEdFJobHlLN2RRRmJYdW5yS2RsRGxiSTlvMXNVenVfemwxOFdfdjYwUEV6VDBscF82M0taVDhWQTBOQXJvT0daYS1YUjlrLTJwVGN2Zi13Y3lLdHc?oc=5"
+  },
+  {
+   "ts": "2026-09-09T07:30:20+00:00",
+   "title": "Myanmar deports 12 undocumented entrants",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1pYU5GNFVLSFNnZmIxbU9ZV1pYcnRnbUw2aTNqUnYxR0F0VXhTNUZuYm0xT1M0RXZDc3lhdklRcG8tOVBaYXJtQXZhandVWjJqcVUzbEM5SDB5Slc4MTcyc3MwOTctaThweVBpLXBTdHVSaFk?oc=5"
+  },
+  {
+   "ts": "2026-09-09T07:30:20+00:00",
+   "title": "MSY Village Project activities inspected in Nyaungshwe",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPajBkMGo0aHp1b1RQX1p5YnBJVGRZUUVkdkdsTnpDUlVkbV82ZU5UTjlCZHhWY3FjLTVQeVplZnVkOFNZaVlvT25wNmRnYTA0WG5DWi1SdWVFQ2ZRTlNaYUk5NXhFZWZONVZmV3otdGZYaXFyMzBTenFsZ0lVM0ZQNXVwcm5ndw?oc=5"
+  },
+  {
+   "ts": "2026-09-09T07:30:20+00:00",
+   "title": "MGMA to conduct supervisor-level industrial engineering training course",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOFdNaGFkcEhySTBhVnNLUEI1WDlqdjBDYlRzZEdDVU5EVDZjaUdubG0tdjQyeGNyNnlFemlWTklHUUl5czM0bVJUNGNmVEUzMWIxdk9qbHBRN3czMlp3VFM2d2dQR25HdGFuYk00djVwZ0hDdFVweDFfT2pPb0drMjR0RVhsREh4UEg4bUh0TkxJTFoyTDZEQW5RUWw?oc=5"
+  },
+  {
+   "ts": "2026-09-09T07:30:20+00:00",
+   "title": "MSY Village Project implementation inspected in Papun",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRVNTZkVpbFg0bThBbmZObHRIcmppNnlFR3ZsYk01bFJLYlpCR3lsWVRsbE1rZi03OVNfa2xtZFhkd3lRVGNhUkZ3aDhMUnlnYnhhRGN3dkwxYkE0eExsZXdMNVhfT3ppejd5dXM5eVkySkdQZDFCZzNUX1dQNDA4N0FvRWg?oc=5"
+  },
+  {
+   "ts": "2026-09-09T07:30:20+00:00",
+   "title": "Htantabin hands over MSY village project funds",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1TVp6V2pXQVBRV3FkbFZxc1lPREVVQ0JYN09WOE5YeTdBektENzNnaG9qNVNKdVdNLXJjcnRvSTUxTFN5UjdkRHJ1NVFnTmJ0a2lfRy00elh4OTV2UHJnSExubjJidUhMa1pfVlZCczZ4MDRQTTNVXzFudw?oc=5"
+  },
+  {
+   "ts": "2026-09-09T07:30:20+00:00",
+   "title": "Humanitarian assistance forum focuses on strengthening cooperation",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZlNoUFRUTjRJZEY0eU5GWEdhNjh5anA2eTRZa09HcmVSNVVkaDcwdVI1eDV2OVVrTGlOX1ZpNElpSkVOM0UyVUI2Y00zMk54eUtUcElBc2NjM0d5MEVBc3NZMEJzMVI5NkN2eldtTklST1ppeDdnaU16dzdaUVY4bDUwVjcyaXh6ejN1OW9sd0R5cmhlOWc?oc=5"
+  },
+  {
+   "ts": "2026-09-09T07:30:19+00:00",
+   "title": "မြန်မာနိုင်ငံမှ တာဝန်ယူမှုရှိရှိ ဆုတ်ခွာသည်ဟု ကမ္ဘာကျော် အထည်အမှတ်တံဆိပ်လုပ်ငန်း ပြော",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81055/"
+  },
   {
    "ts": "2026-09-09T07:00:24+00:00",
    "title": "Yangon United book AFC Challenge League group-stage spot",
@@ -2065,62 +2121,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWXltOHYybDB0c194U1QxME5LdklXNlhJVzN5UjN5RDVpLXUydEJWcy1wZlJUQ3g0UU1DMlZIX1NzSjJGX0d1ZkhwaW5BNXlyYndQc3k0a20xVXd4SmNZNEZ2T2ZQTGpEeExxTU5xM1lYWEdHYzhNVGNYNnVRT3hWX3lOVzBwRzlmckx6aUJzZHVHbmdfUXF2UmVoWTY2UG1GbTdGR3pJQzVkVVBhOHNTbWhKVHUyaUo2OUhUSC1zalNlZw?oc=5"
-  },
-  {
-   "ts": "2026-09-06T19:00:21+00:00",
-   "title": "Index of /wp-content/cache/page_enhanced/www.irrawaddy.com/opinion/editorial/myanmars-people-are-no-slaves-to-the-junta-or-to-china.html",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOREJnWnBjM3M4elk2cGxYN2ZjckpuRVNIaHNxNnhHSVZBSG5uSDJyMm5Xc0ZuM3ZqcU4wSzdFMXlYMWFCMGZvaDBCQms5R0U3WERpbWN5NC1Gc0dUUi1fUmFGX3RWRGpPTkZkYjhLeGNrMDlla2dQVGdOa0s5V3NubnpJVWtYYUVFRjlNSkE1TlRyUlUtZ0o3SXJNeXR4Tlg2RExHS0hkYzByeUU1SVNielVuMk93NlBiMUpwTnVPaUhqNjMyRERqU3BVTVJtRjFjVzBpMXUzY3hqWHdUd0YxM1NIZHZvUGVs?oc=5"
-  },
-  {
-   "ts": "2026-09-06T19:00:21+00:00",
-   "title": "Page 2983",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wbFJfV1BlRTB5em1xOEU4R3lQb28tMms5REpfZzQxcHVhTDluNWc1d1ZDT3RCQVBlYU1JZHdiYkNfSHVfWWs0aVF4MG5hVUpTUkV5WkZn?oc=5"
-  },
-  {
-   "ts": "2026-09-06T19:00:21+00:00",
-   "title": "Kachin Lawmakers Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwZG9XVUppVGVyWEZiUG9nODYtZFR2eXBCcEhCMzc3N0IyR1dUY3JGZG55RFFYMmJkbUo2anQ1R2RZblZBWTZ0WHRGd1JpcHM2VlVXYXFWSFd6Zw?oc=5"
-  },
-  {
-   "ts": "2026-09-06T18:30:20+00:00",
-   "title": "lesson2 Seasons",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55dnVSMjNzNy1jME56QU9kWlV6VTB5bXJBLVo1UFlEZGpsLUpXZDZETTJyVmhqTDlzSTBoczlTcjBKdGMtcUdiaTd3cEJ2aFdrZnNTX2lmSkpJYVRPNFlDcjl1bGRjdw?oc=5"
-  },
-  {
-   "ts": "2026-09-06T18:30:20+00:00",
-   "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing delivers the State of the Nation address, marking the 100th day of the government in office at the second regular session of the third Pyidaungsu Hluttaw",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObENEa3hMZ2lFbXEzMk1EZ2FKdDdjQUNDVnFQY3d3dHkxWnRrelg5blh3S2pDZ01UR2hWb09Lbk1PNExwUVJaekxvbjBpOTk3RXdwOVNQSmxTMHA0SUVzbXhPOFdLTE5wbXh6cjNJLXJJYjBwSVhxTFprMkVYSUNnUUYzWGdvb21BVHR1TkJaQUNFYklSVnFnZlVYak1iTUlTSkZLbmxtZEF1Ql96VnNEZWhhcHoyUzdneXJwUV80RVNRTGp1WXZ2YXd3QQ?oc=5"
-  },
-  {
-   "ts": "2026-09-06T18:30:18+00:00",
-   "title": "Index of /wp-content/cache/page_enhanced/www.irrawaddy.com/news/govt-announces-transfer-military-",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWVU3TG02Vl80cXU1Z1BNaDA2MWlhel9LTHl2NTZTbEhyaHNIVHNLQW5XQjdWTTUtNzJEV3VQSXpZZ05lX3ZjZHhyQzZ6a1FzMXFsdl9pVFhRanRNTUlNMXZjc01rR3N1SzdJbkh0cGdzVks4LW1YczdhZ2ZmeEx6UUEwNnFENk5iQXYyQVFfR2U2dUhsNVREeGw3cXluM1NQZnlibE9Hc0RYNE1KOTY4NG1aMks?oc=5"
-  },
-  {
-   "ts": "2026-09-06T18:30:18+00:00",
-   "title": "Index of /wp-content/cache/page_enhanced/www.irrawaddy.com/news/china-offers-support-myanmar-un-amid-rakhine-crisis.html",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWUtobE83YXBXZ1Jzb05sQWNsUEJlNFhXUlFEb1ZCenNFSkcyZkd6YTZ0cXpmMHZNRWtEcjVMRXJmcXg0blhaNGdXbTQybDBCQ3pQUGs4TVJ6MXUyMGFmdkdrZDZuanYtZjhNTUVwY1BFTUtINy1nZ1ZlMjJmcnlnSzRFTURLeFBhV3IzTFk0WWlrMUlySHJuYWtuMWR0UXI1LVIxM0o1TFdIV1hCMTczZnN0RUNlSTRGb3ZmeEUyRGs3QzJvdzFpZ1VqT3JMbDBRVHQ4?oc=5"
-  },
-  {
-   "ts": "2026-09-06T18:30:18+00:00",
-   "title": "WHO Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5la2Jrc0JHVTlDa1Nlb19wcTVuM3hLdHhjVzBLZGo5MFNZUVM5cUw2a09TMURnQl84bkphSkZuYlktYjN2S3plag?oc=5"
   }
  ]
 }
