@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-09T02:30:22+00:00",
+ "generated_at": "2026-09-09T03:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-09-09T03:00:19+00:00",
+   "title": "SCEF ရဲ့ ဖက်ဒရယ်ယူနစ်ကိုယ်စားပြုမဏ္ဍိုင်မှာ စစ်ကိုင်း၊ မကွေးနဲ့ မန္တလေးတို့ အဖွဲ့ဝင်အသစ်ဖြစ်လာ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.co.uk/burmese/live/cxyvznj05355t?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-08T22:00:20+00:00",
    "title": "Karen Revolution Archives",
@@ -2107,13 +2114,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM1oxc0xQa3VzX0dSV25iR0tGQldtN0FVVHBOVTk0RmhuaGk4RkV0Z1VMd2FTbDdCdEV3ekdjVUhOTTRGQk5tekttc2YxZklnMDVjQ0ZfQy05R21XY2laZGFZN2hQZzZVNFVOY3EtcXlEdFYtWHJTQjI4TVlBaXVjVy1kWmtIbEJHT1ZjUXhSNnA5X21FWTZ6NFhWQXRETkNCVWc?oc=5"
-  },
-  {
-   "ts": "2026-09-06T13:30:18+00:00",
-   "title": "Abraham Lincoln Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tdWF0SnE5a1ExcGIzMVE5MGRvSFRaNnZiYUVURFVkaGluTnl5dHJyVmZrb1FnZmtnT1dOUVNWX3JIbTM1Tm50VkwwV2xtbEhFQ0RzSWNaSE5lM0E?oc=5"
   }
  ]
 }
