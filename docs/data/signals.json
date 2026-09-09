@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-09T13:30:18+00:00",
+ "generated_at": "2026-09-09T14:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-09-09T14:00:22+00:00",
+   "title": "MNREC designates Kali-1 protected public forest",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBaaU9hMWZKYWFaTGp4VVQ4bFRsbnd1Ymw2clEyVjEzTkc5Vml5Wml1dE95RGJvU0dKaktsbUhaVER4bUNMaTcyajQ2aF8zRlVCVzkxVXhfZEN6YnlBVWFPN2JtdkJDUzBHeDJzc1ZIWlRvYkFWazBZTmlsS1k?oc=5"
+  },
+  {
+   "ts": "2026-09-09T14:00:21+00:00",
+   "title": "Resistance Destroys Five More Regime Vessels on Bhamo Mission",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQanFnMDlrMDVwdnVYanU1Wm80OTlXS25QYzh5b0Q5RGUzX3NPX3lCMXNBbHZXYU9PcS1rd3RxMno4Sm52bnRPeEZjWWtkSk41TGtqcTg2Q1hPcU8yTDM4OGRDNXJCNkhScVpHZWRJVUNDb2wybG9aNXhJb0s0MmxLRnBmWXROQXVkeXpEc0FrV25PWEZnejEyZXZVMkk2YzdRT3c5bTYzTmxGOUxtWnpFbkxkS2FEbTJJRnhB?oc=5"
+  },
   {
    "ts": "2026-09-09T13:30:17+00:00",
    "title": "Old analogue meters to be replaced with smart digital ones in Hline",
@@ -2121,20 +2135,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbEQyb0hLS1dmc3Fua000S1NWMHRJVjc0bkMxNWcxUGhReXRya0lXaEFZcXJfTFRsNVBPakdDaHZmc0xTQVZxWFZSM0NRenVkS0dHdE1MTkMwUURlZlRJWktEVzI1MkFPMkV0TFFmVFI1U3BjbkdaVjhfUE0tdl9SMVhLRGdUcURtcHpEYi1pbDNwd3hBX2o2M1BlNEFDckVVYjFkei1EMUV1ZWJIWDZqTElCbnFIQTQ3R2c?oc=5"
-  },
-  {
-   "ts": "2026-09-06T21:00:20+00:00",
-   "title": "Shan State Veg Drying Plant Ships to Japan, Korea",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9CTzhSUmJrMFBuYVUzQ09JMEJ6cWs3eVBXMjZNVGhvdlhtMXF4WFJrNURreUF3WGduMnl2QVNxRnNoRlNKdU45TWs2eHVoTFMzTkIzVktSUjFsV0JkYmdXNnZfel9Sck9zdnUyVXlCN3JneEZZTXVaYzhGZE1QUQ?oc=5"
-  },
-  {
-   "ts": "2026-09-06T21:00:20+00:00",
-   "title": "Myanmar Embassy in Singapore suspends facebook use, warns of fake pages",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPejhBMlFQckItbnJfOFFBY3pIQ29Rd1RoSGxKTFNyXzRQYkZlbXNfN283NHRRdnZTd0VhSTFrUXcyOU1wVWpQMFBSdkxhSEV2QlBxazVkNkpqckt4RG5NVHg1UjBFNm5BRjlxalE3a2Y1VEJjMW9uaDZyZnZmb0FFaUF6UXFzQTJNYVVxaXpabnFNSUhqRExTNXJsVQ?oc=5"
   }
  ]
 }
