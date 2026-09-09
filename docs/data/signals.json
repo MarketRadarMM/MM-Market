@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-09T19:00:26+00:00",
+ "generated_at": "2026-09-09T19:30:23+00:00",
  "signals": [
+  {
+   "ts": "2026-09-09T19:30:22+00:00",
+   "title": "98 highway accidents leave 62 deaths over 8 months",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcVdYMGZUV3pXUGNGVkUzWGtmR2d5OGFadEU2SEVvZFgtN2pfbVMxbjl5TFVpRjV5ZVBITkFidFRPYTZsWGdleU96SXp1djY2eFRNUGMtNmk5X196Vk16Tjg5ekV6RFdNTTZWV3lBUTVxZlRLZGZjOHE2cVFBTW1oRg?oc=5"
+  },
   {
    "ts": "2026-09-09T17:00:23+00:00",
    "title": "KNU, KNLA, PDF lose Kamamoung-Papun route as roads, bridges restored",
@@ -2128,13 +2135,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVzJfVjkwTk9VZ3BXQ1B1eUROQ2N2eXBaa0J0MlZWclBhQnBjYjF0MEhlb0lUcmtsVzQ2Z1RUUlNlT0ZLYWVuQUNXeHpTV3MyUUV1RVRrX2dkZ3lWNU8xRTFJUUJRQzZiMHYxVWZOUEFqNnJfd0psSUNnMDZBcjJwZHlrMnlVUFZqd1N3MGpYS0FkWEFDWmdJTkZXSQ?oc=5"
-  },
-  {
-   "ts": "2026-09-06T21:00:20+00:00",
-   "title": "Myanmar Urged to Study Viet Nam’s Economic Rise",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5meEJEeE5IZk45NUlPSm9mRml1eGJfTDJiSlV3cEhfdTQwNURKTkhlREYyYzZGUGlaWHF6Qm0xN0JoLS1IbkdCSE9INnVQUkt4amdqcDJWbTlDUUhqd3BGZVhpREpkMUx1MmtBMVJhTURFTTVBMG9DOVlqMA?oc=5"
   }
  ]
 }
