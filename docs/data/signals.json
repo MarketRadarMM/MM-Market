@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-09T19:30:23+00:00",
+ "generated_at": "2026-09-09T20:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-09-09T20:00:23+00:00",
+   "title": "Construction materials provided in Tiddim",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hOE9wS0RlYjhtTS0xQ3hza1gwS0RUTXBneWo0Rlh0U3FmdmJyUFNnZy05OHVQeExpdjRtRHM4V1B2ZUNWTS1nT0d3bnEwV2FMdzRRU3hMaUJqektnNVBYYXRqeENEOU5Vek1zMnU5Q29MMEQ1?oc=5"
+  },
   {
    "ts": "2026-09-09T19:30:22+00:00",
    "title": "98 highway accidents leave 62 deaths over 8 months",
@@ -2128,13 +2135,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNUozZWhMaHkzOFRtU1hNQ1ZGM3NHcmNCZzh4Z1Zfeno0RHcyZm9MZDhvMmZYZ2UwN3VRV3lnRHNjYXpVTWdhd1pTZTgxVGk3QzhFQlpsQWxod3hkRktGaUtuR05XSnc4NGZmSEx1OWlZeGN3WnlHSlBXRmpydkxMbw?oc=5"
-  },
-  {
-   "ts": "2026-09-06T21:00:20+00:00",
-   "title": "Relief and flood prevention efforts underway in Ayeyawady’s 6 townships",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVzJfVjkwTk9VZ3BXQ1B1eUROQ2N2eXBaa0J0MlZWclBhQnBjYjF0MEhlb0lUcmtsVzQ2Z1RUUlNlT0ZLYWVuQUNXeHpTV3MyUUV1RVRrX2dkZ3lWNU8xRTFJUUJRQzZiMHYxVWZOUEFqNnJfd0psSUNnMDZBcjJwZHlrMnlVUFZqd1N3MGpYS0FkWEFDWmdJTkZXSQ?oc=5"
   }
  ]
 }
