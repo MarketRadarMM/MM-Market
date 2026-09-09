@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-09T03:00:24+00:00",
+ "generated_at": "2026-09-09T03:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-09-09T03:30:17+00:00",
+   "title": "9 September 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wZXZmQWg0NDZyM0plWkxSNVRIVG5VeHYzOElXMnBYRm1qQlpYZ01mWVpVWTYxS2E4cDRtdEpLa3VtNDFxWlc5NTFlVDZVUmppdHpZ?oc=5"
+  },
   {
    "ts": "2026-09-09T03:00:19+00:00",
    "title": "SCEF ရဲ့ ဖက်ဒရယ်ယူနစ်ကိုယ်စားပြုမဏ္ဍိုင်မှာ စစ်ကိုင်း၊ မကွေးနဲ့ မန္တလေးတို့ အဖွဲ့ဝင်အသစ်ဖြစ်လာ",
@@ -2107,13 +2114,6 @@
    "source": "Frontier Myanmar",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNN2Vsck14ak1kU3ZfSW9xeE9NUndkOTlpYzlYM1paY0VFTDJVWFpDNUswb1NrM293aXA3bDA4TUxJVDUyYmtFdnFJTGtwM3MyUFRCbXRFU0hraXAyQjV0dnVWejU3MG9NV2Y5d203dV9mZExReFhxUlRZS1RibEZFcUNmbHlrc0Q4dzBDRWNnc0p4eUVaYVE?oc=5"
-  },
-  {
-   "ts": "2026-09-06T14:30:19+00:00",
-   "title": "Development",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM1oxc0xQa3VzX0dSV25iR0tGQldtN0FVVHBOVTk0RmhuaGk4RkV0Z1VMd2FTbDdCdEV3ekdjVUhOTTRGQk5tekttc2YxZklnMDVjQ0ZfQy05R21XY2laZGFZN2hQZzZVNFVOY3EtcXlEdFYtWHJTQjI4TVlBaXVjVy1kWmtIbEJHT1ZjUXhSNnA5X21FWTZ6NFhWQXRETkNCVWc?oc=5"
   }
  ]
 }
