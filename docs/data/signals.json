@@ -1,6 +1,55 @@
 {
- "generated_at": "2026-09-09T10:00:31+00:00",
+ "generated_at": "2026-09-09T10:30:22+00:00",
  "signals": [
+  {
+   "ts": "2026-09-09T10:30:21+00:00",
+   "title": "Thailand’s CRMA Research Centre donates drones to archaeological department",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcW5YVlQ4RnBfY1BfQ3NZbHpleTBxWWN4NEh1eFlpSWV6Wk9DT2k4bjB3bzFfUEp4dkp4YTIwamFVeUpBUGVnNnJPSjRlR3YtcVhfX2hRaVZINjlkYUZMWVVZbm1sNTFnZ3hsenE3ZU9fYmt4RHVuTW0wQTgtU195c1BENWNFenRlaE5sTFR5ZHZmU3JpbU1xVG9nM2h0Ui1M?oc=5"
+  },
+  {
+   "ts": "2026-09-09T10:30:21+00:00",
+   "title": "UNICEF Myanmar installs new solar water supply system in Banda Village",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSnNBbjNmX1gxazV6cmh5ckRpR0ZCMjRQZ0g4YUswZ2JzM21wSWNhUzk2YV9naWhabzl3Z215Q0dVcjAxUV9GeU9oanZzYzJiaHppQmFUel9GcXVNYTFtazlVWUlWNUVsdXNzUUQzRkVVZ3pRMFlNOGVzSWExcGNBSmhRWV8wRjJTdEpfV2h5YlpEWUJWY0xKb0hiOA?oc=5"
+  },
+  {
+   "ts": "2026-09-09T10:30:21+00:00",
+   "title": "Myanmar eFootball players invited to PIEC 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5DWGducVFlUlBTMXhoZUZLeVVVQWI5dVZPQTlkbXoyS0hPNW5keHlSMUFLc1NRT1JPSU1wZ1RMSTE0ejBwakRlWFJNRU02dHJVVC1NeDhjbU1KNTZzZGpWWEJMY09TQ0RDcVJpcjFCYjFSNE45NFJUMVdiNA?oc=5"
+  },
+  {
+   "ts": "2026-09-09T10:30:20+00:00",
+   "title": "Myanmar’s Sub-Standard Army",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmXzhMS3Z0TVBCdVlmQkhHTm9DX1YzWW4yRWhMNm5WdnJJY1hHSE54aTRmVHNRTEZPUElQTHI3aEFXQ0NpanVCWmNTdnBBMHVLc01CZ1k1V3lfVTMxMTQ1SkxKWXVxMDU1UU80U04xaGE?oc=5"
+  },
+  {
+   "ts": "2026-09-09T10:30:18+00:00",
+   "title": "Business | Myanmar Rice Prices Surge Amid Clampdown on Facebook Trade",
+   "source": "Irrawaddy",
+   "markets": [
+    {
+     "market": "rice",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "Rice-market story — read for direction"
+    }
+   ],
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOFBueF96M2ZqNkpaMXpwRVlwdWxQUUV1MGZ3WFlxTG5RU281R18xOWZPa29wclctR3JIclYxRUxhYUZEcFdPWE1XNEIyWVN4QTkxQlFJUGFLV2VIZndCZ0hNR1d3X1EzRl9qY0xjQ1AxMFl2UkNwNGxQc3U1T2ZNOXROTEJWb2dwVUZpV2JlT21fRnZadGU4dGYwemlteGc?oc=5"
+  },
+  {
+   "ts": "2026-09-09T10:30:16+00:00",
+   "title": "H&M says Myanmar exit from garment factory follows responsible withdrawal policy",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/hm-says-myanmar-exit-from-garment-factory-follows-responsible-withdrawal-policy/"
+  },
   {
    "ts": "2026-09-09T09:30:15+00:00",
    "title": "Myanmar military kills 7 in airstrike on Sagaing car workshop",
@@ -2086,48 +2135,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNWFEanU3eVpmNk9yNnhoMVBoVGtZZDlieFVuNjZpMnM1STI1bTc4ZUU0T3FsZUhNRGhvYnQ3aHlISkJUSmU2UC1yckFPNUpMT2R1ZnhLVmlzUlpjcTgtTmdBendJcUtRTDhjZVNKcUw5eHN1Vm4wSTlyWHRfNDc2TUlBWExrdmI2RmV5VzRYQ3RUalJGRzFacnZBcDZrVWZNYzd2bHpQZk5HdENvYS1RVXJMOEVDMWZXd3o1OEVVVXlZTHc?oc=5"
-  },
-  {
-   "ts": "2026-09-06T20:30:16+00:00",
-   "title": "Myanmar’s BGF: A Family-Run Criminal Enterprise With Friends Across Asia",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWERyRVVOb1RWZUpBV0wwbEtFZmhzM2pNSlM1a1lZb3d5STBjRVl2TjZLeFJHOFdfU0JFdU1rVWdWb3lWdF9ENUQ3UTZjQzBGQnJ2XzJmWDFDVDNhNndqQi1yWUZFRXdVcmt4dkZvMjZsU2FuNkZQTnJOWFhLUDdCOUp2RC16NDFEbTRlU2NjQmNTVmx6QlhBNkxFOTQ5SjFHYlplaElBc0lJLUZTY0RGZUhR?oc=5"
-  },
-  {
-   "ts": "2026-09-06T20:30:16+00:00",
-   "title": "Page 3634",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rTWJjdEJpSWpLYXNyLVQ3dElhYmFRMW5zT1Q3dlVnMTBqWHRYUzd6UnpESDRtSThneWlBTmRrYjZMWFl1a05BTW1Ja0RqMWhrRlNIMmdR?oc=5"
-  },
-  {
-   "ts": "2026-09-06T20:00:19+00:00",
-   "title": "State Administration Council Chairman Prime Minister Senior General Min Aung Hlaing addresses SAC Meeting 9/2022",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSXhiZ2RLRWZSal82WEJwV1dVUENMWm1idEppdm1GamJ3NkNPdk0wSkVwX3QwcEpkSEo4M05oM2V6b1BXVXlxbi1hYmpOMkhUbEhhWjJLckpyLW84RHE0ZklucUhBelJEV1UxMFU5TlVadHhUR0RGOF85WFBlOWpBeVF2V2tsNjc4RHlZdTlDQWhTbGVQSzVmcE5tTXpqaExQMXZ1bmNWR2QxT0lad1ByX0FKdTlKZzlpSG03WVUyRkxwWHFULUg2U2Q0REY4cFlsNWc?oc=5"
-  },
-  {
-   "ts": "2026-09-06T20:00:19+00:00",
-   "title": "Defence Services Institute of Nursing and Paramedical Science hosts the passing parade of 10th Intake of female nursing and paramedical science course and graduation dinner",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQblljY05ya2xGWXFPYXI2ZGQwYUxhU1FJVkRPeGJUWk1BSVRDNkR6SHU5YXpyMHRVNl9tUEo5LW9IajVueFZMWDBuRG54OC1wcG9FdFlwM2xpRDhGZE5kOWZsWXh2M1JEckxLdUVZa3k0OGdEN19waUlOVks3N0pfYjdlNTlXTHZYN2dyeVdVak5tWnJZZzZPS2pld1FJWHd0REZDRHdIRXdrbkt4TjBja0NWNEg0NDBDdlNSQV9yRkFRNms?oc=5"
-  },
-  {
-   "ts": "2026-09-06T20:00:18+00:00",
-   "title": "From Diplomatic Visit to Investment Partnership: Strengthening Myanmar-Viet Nam Economic Cooperation",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNX3BralFIbnlRQWdRbE1Fb1ozRHBMcHhsTTFjX0RBbEJodzRpaWRUWHR6QTJZZk5XWTN3OVRCWkJLNEYxV2h0SjdocHZIM3c3enBLbVhtQlBkLUNjZEt1bk05al9IcXM0S3FLYTYyc3hyTkx0M2NBM3F3LXF5V2YxbGVKVlBIM20tWjdUeWVxSGh3Z0NKNE1lc3pCc0NMMGdPX0Vpc20zYUQ4OFhvaG1aNk1STWpkUE9lRDBKNmxRZTRIdw?oc=5"
-  },
-  {
-   "ts": "2026-09-06T20:00:18+00:00",
-   "title": "Traditional Myanmar Delicacy",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBCemgyckYwaWJ5a05RTnBIMURfcVh5WnNnVjNFYmJ0REdWVXYtZzV2eUdvWkVnY2trV1VXQ0pVSm0zbEw0TEpGVXJuVDEwS0JKbFY4andKRFZMS1o1Rk9wbzcwZFFCZw?oc=5"
   }
  ]
 }
