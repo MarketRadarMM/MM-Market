@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-09T12:00:23+00:00",
+ "generated_at": "2026-09-09T12:30:23+00:00",
  "signals": [
+  {
+   "ts": "2026-09-09T12:30:18+00:00",
+   "title": "တပ်ချုပ်သစ်လက်ထက် ရခိုင်ကို အကြီးဆုံးထိုးစစ်ဆင်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c8047j43x3no?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-09T12:00:23+00:00",
    "title": "Myanmar’s position on the so-called IIMM",
@@ -2128,13 +2135,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVE9iTVA1UmI0M3hQY1pYZk9RSUNBbU9fbDFtbHJTMUszRVZ4TWU0dkNmR09FMm1xYWdqZkZmdjQ3ZVRZX2lYem5ubGZmMkZGcmc5dkxnUFlZS00xeDlvZGxIaVp1d2hhVWN2amd5dGFsbzF1NGxuenVDTkhGNkZSYmFmRDIwYWVMSThuVjFB?oc=5"
-  },
-  {
-   "ts": "2026-09-06T20:30:17+00:00",
-   "title": "Disaster management team member critically injured in armed attack in Taninthayi",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS0g1eGlZYmZ6dGt5Rzg0LThUYlU2QjJtVjlNTldiVWh5eHVsUE1UTE9oWjViSXBpUmRYQUZSdVc5OGNsSFo2QWVkY2VGUmNkbk1wMDBQSEt4Um9Ia181b2xGSVR2VkdiNWlOZEM5MG50ak9BMktWVkpJekhhNEk2ajl2cks5WE1MdmpOVmhxSG5SekxTeHNPZlVLbS14SEZtRnhmUmpESy0?oc=5"
   }
  ]
 }
