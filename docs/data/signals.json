@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-09T09:00:21+00:00",
+ "generated_at": "2026-09-09T09:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-09-09T09:30:15+00:00",
+   "title": "Myanmar military kills 7 in airstrike on Sagaing car workshop",
+   "source": "Myanmar Now (EN)",
+   "markets": [
+    {
+     "market": "pulses",
+     "direction": "bullish",
+     "confidence": 0.55,
+     "rationale": "Conflict in bean/sesame heartland threatens supply"
+    }
+   ],
+   "url": "https://myanmar-now.org/en/news/myanmar-military-kills-7-in-airstrike-on-sagaing-car-workshop/"
+  },
   {
    "ts": "2026-09-09T08:30:19+00:00",
    "title": "ပညာရေးဝန်ထမ်းများကို AA  လစာ စတင်ပေး၊ ပမာဏနည်းသောကြောင့် အခက်တွေ့",
@@ -2114,13 +2128,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBCemgyckYwaWJ5a05RTnBIMURfcVh5WnNnVjNFYmJ0REdWVXYtZzV2eUdvWkVnY2trV1VXQ0pVSm0zbEw0TEpGVXJuVDEwS0JKbFY4andKRFZMS1o1Rk9wbzcwZFFCZw?oc=5"
-  },
-  {
-   "ts": "2026-09-06T20:00:18+00:00",
-   "title": "Enhance friendship and cooperation between Myanmar and Viet Nam",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYUhiNm1jVG90M0JZb0NrdU4yNXMyamNKeVdKSUxuSTI0VWdqbm55REQ5S0o0SC1uRXNUWFBVSmdIdWhfYVRmUjh1ckpJaHdGcDJ3ZjZzaUlZX1hqWVllTS1COHUyWEo4UEo5QzJnajlJajlULU8yTUN3RTdkTmp6MGU4MU91VzdpN3EzbUY1WWs0Zw?oc=5"
   }
  ]
 }
