@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-09-09T12:30:23+00:00",
+ "generated_at": "2026-09-09T13:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-09-09T13:00:21+00:00",
+   "title": "၄၉၂၆ စစ်ဆင်ရေး Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZE5wb3B6MHkwTE4xR2h3aFRmSHJESDVTXzJhSno4bGs4cG1kWktiNTY1ZVhaMlBvVmZOLVFGMTRjSzMxUUdmSHIyekNKSjhqZUZ0SXl1emZpa2szdE81bHI2NU52SGpZb0xBMEx6a096YlJDY3hYd0lGZEROZEd4c2RXQzRibkFLcTlpNHFEbVNYQTJjTXFQMG1oay1nYXN0M1lNUXMzZ2NHNnh5ZFRucUNPdExZRlhsM3VBaFROX3J5dzBMdTJoOVJ2ZWlIMktCWVJBMmlWQ1lMWXdMUTc1MEtYZXc?oc=5"
+  },
+  {
+   "ts": "2026-09-09T13:00:18+00:00",
+   "title": "9/11 - ၁၁ စက်တင်ဘာတိုက်ခိုက်မှုမှာ ဘာတွေဖြစ်ခဲ့လဲ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c9dwj9j3ezeo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-09-09T13:00:18+00:00",
+   "title": "တချိန်က ''ဥက္ကဋ္ဌကြီးမော်'' နှစ် ၅၀ အကြာမှာ  ''ဆရာကြီး''အဖြစ် Gen Z တွေကြားပြန်ရှင်သန်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cgjqyw42718o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-09T12:30:18+00:00",
    "title": "တပ်ချုပ်သစ်လက်ထက် ရခိုင်ကို အကြီးဆုံးထိုးစစ်ဆင်",
@@ -2114,27 +2135,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOWxnM1dqUmtBTm5NS0dKRTJzZ3VJanZTOVdjRUI1SUxLVE1GY1hGYmdvcUZ4dkl5aWFTZ25mUTMtWHZpOUxTdjQyRERNS1JSbWRFVmprd3R2Mk45cVhnWWY0YlhUUmdmLVZBeXhjRFg4Ym82aWpnOERKQlEtRzNyNm5PS09HOGJhakgzMWliaGJGRE5ONEE?oc=5"
-  },
-  {
-   "ts": "2026-09-06T21:00:20+00:00",
-   "title": "7 September 2026",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE03NlhwdTB4MnYyUWJxZmVBdVBRVXlaTFNkOWdtX2lONVU5SlNvQTlHX1c5UWtLWEVIZ0tYSl9YRWctd0c1ZnlNUXQzdkE5cEhwQTVJ?oc=5"
-  },
-  {
-   "ts": "2026-09-06T20:30:17+00:00",
-   "title": "DTVET to offer diploma courses for 2026-2027 AY",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9TQlVnMkdwNEpEVzJGX3RzS3RDTFljbWVKOGdudHUzQ2U3LVVwQUZzTldrMG1GODVLM2RYZE8tYUV3S0d5dnBtNW12Ym1jQ1JHa1pxRlBjTDlvRjRtVFlKeVJTa09XNHdnVUU5S1lRSVZOZ3pQOFpsNk9nWDM?oc=5"
-  },
-  {
-   "ts": "2026-09-06T20:30:17+00:00",
-   "title": "Myanmar apparel showcased at Texworld Apparel Sourcing Paris",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVE9iTVA1UmI0M3hQY1pYZk9RSUNBbU9fbDFtbHJTMUszRVZ4TWU0dkNmR09FMm1xYWdqZkZmdjQ3ZVRZX2lYem5ubGZmMkZGcmc5dkxnUFlZS00xeDlvZGxIaVp1d2hhVWN2amd5dGFsbzF1NGxuenVDTkhGNkZSYmFmRDIwYWVMSThuVjFB?oc=5"
   }
  ]
 }
