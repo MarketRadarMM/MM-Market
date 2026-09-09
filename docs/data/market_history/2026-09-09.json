@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-09T05:45:18.380541+00:00",
+  "fetched_at": "2026-09-09T10:45:20.662071+00:00",
   "tiers": {
     "official": {
       "my": "တရားဝင် (ဗဟိုဘဏ်)",
@@ -58,63 +58,63 @@
     "status": "ok",
     "note": null,
     "index": "MYANPIX",
-    "close": 834.08,
-    "change": 3.83,
-    "change_pct": 0.46,
-    "volume": 10292.0,
-    "value_mmk": 61730250.0,
+    "close": 844.18,
+    "change": 10.1,
+    "change_pct": 1.21,
+    "volume": 19808.0,
+    "value_mmk": 117910600.0,
     "listed": 8,
-    "market_cap_mil_mmk": 1582142.0,
-    "as_of": "2026-09-08"
+    "market_cap_mil_mmk": 1601307.0,
+    "as_of": "2026-09-09"
   },
   "stocks": {
     "tier": "exchange",
     "status": "ok",
     "note": null,
-    "as_of": "2026-09-08",
+    "as_of": "2026-09-09",
     "stocks": [
       {
         "code": "FMI",
         "name": "First Myanmar Investment",
         "number": "00001",
-        "close": 18000.0,
-        "change": 0.0,
-        "change_pct": 0.0,
+        "close": 18500.0,
+        "change": 500.0,
+        "change_pct": 2.78,
         "open": 18000.0,
         "high": 18500.0,
         "low": 18000.0,
-        "volume": 71.0,
-        "value_mmk": 1283000.0,
+        "volume": 304.0,
+        "value_mmk": 5622000.0,
         "listed_shares": 33109694.0,
-        "market_cap_mil_mmk": 595975.0
+        "market_cap_mil_mmk": 612529.0
       },
       {
         "code": "MTSH",
         "name": "Myanmar Thilawa SEZ Holdings",
         "number": "00002",
-        "close": 8900.0,
+        "close": 9000.0,
         "change": 100.0,
-        "change_pct": 1.14,
-        "open": 8700.0,
-        "high": 8900.0,
-        "low": 8700.0,
-        "volume": 3835.0,
-        "value_mmk": 33733800.0,
+        "change_pct": 1.12,
+        "open": 8900.0,
+        "high": 9000.0,
+        "low": 8900.0,
+        "volume": 2013.0,
+        "value_mmk": 18015400.0,
         "listed_shares": 38929150.0,
-        "market_cap_mil_mmk": 346469.0
+        "market_cap_mil_mmk": 350362.0
       },
       {
         "code": "MCB",
         "name": "Myanmar Citizens Bank",
         "number": "00003",
         "close": 13000.0,
-        "change": 500.0,
-        "change_pct": 4.0,
+        "change": 0.0,
+        "change_pct": 0.0,
         "open": 13000.0,
         "high": 13000.0,
         "low": 13000.0,
-        "volume": 527.0,
-        "value_mmk": 6851000.0,
+        "volume": 898.0,
+        "value_mmk": 11674000.0,
         "listed_shares": 10400986.0,
         "market_cap_mil_mmk": 135213.0
       },
@@ -123,13 +123,13 @@
         "name": "First Private Bank",
         "number": "00004",
         "close": 7000.0,
-        "change": -100.0,
-        "change_pct": 1.41,
-        "open": 7100.0,
-        "high": 7200.0,
+        "change": 0.0,
+        "change_pct": 0.0,
+        "open": 7000.0,
+        "high": 7000.0,
         "low": 7000.0,
-        "volume": 749.0,
-        "value_mmk": 5315400.0,
+        "volume": 1164.0,
+        "value_mmk": 8148000.0,
         "listed_shares": 31144738.0,
         "market_cap_mil_mmk": 218013.0
       },
@@ -137,16 +137,16 @@
         "code": "TMH",
         "name": "TMH Telecom",
         "number": "00005",
-        "close": 3500.0,
-        "change": 100.0,
-        "change_pct": 2.94,
+        "close": 3400.0,
+        "change": -100.0,
+        "change_pct": 2.86,
         "open": 3500.0,
         "high": 3500.0,
-        "low": 3500.0,
-        "volume": 47.0,
-        "value_mmk": 164500.0,
+        "low": 3400.0,
+        "volume": 650.0,
+        "value_mmk": 2210300.0,
         "listed_shares": 12823224.0,
-        "market_cap_mil_mmk": 44881.0
+        "market_cap_mil_mmk": 43599.0
       },
       {
         "code": "EFR",
@@ -157,9 +157,9 @@
         "change_pct": 0.0,
         "open": 1850.0,
         "high": 1850.0,
-        "low": 1850.0,
-        "volume": 3999.0,
-        "value_mmk": 7398150.0,
+        "low": 1800.0,
+        "volume": 5164.0,
+        "value_mmk": 9378400.0,
         "listed_shares": 19977223.0,
         "market_cap_mil_mmk": 36958.0
       },
@@ -173,8 +173,8 @@
         "open": 4300.0,
         "high": 4300.0,
         "low": 4300.0,
-        "volume": 53.0,
-        "value_mmk": 227900.0,
+        "volume": 650.0,
+        "value_mmk": 2795000.0,
         "listed_shares": 10497598.0,
         "market_cap_mil_mmk": 45140.0
       },
@@ -185,11 +185,11 @@
         "close": 6700.0,
         "change": 0.0,
         "change_pct": 0.0,
-        "open": 6600.0,
-        "high": 6700.0,
-        "low": 6600.0,
-        "volume": 1011.0,
-        "value_mmk": 6756500.0,
+        "open": 6700.0,
+        "high": 6800.0,
+        "low": 6700.0,
+        "volume": 8965.0,
+        "value_mmk": 60067500.0,
         "listed_shares": 23804946.0,
         "market_cap_mil_mmk": 159493.0
       }
@@ -204,18 +204,18 @@
       },
       "THB": {
         "official": 63.73,
-        "street": 132.2,
-        "premium_pct": 107.4
+        "street": 132.13,
+        "premium_pct": 107.3
       },
       "CNY": {
         "official": 312.93,
-        "street": 640,
-        "premium_pct": 104.5
+        "street": 651,
+        "premium_pct": 108.0
       },
       "SGD": {
         "official": 1658.7,
-        "street": 3400,
-        "premium_pct": 105.0
+        "street": 3443,
+        "premium_pct": 107.6
       }
     },
     "fx_spread": {
@@ -223,6 +223,6 @@
       "street_usd_mmk": 4340,
       "premium_pct": 106.7
     },
-    "implied_xau_usd": 4367.5
+    "implied_xau_usd": 4384.7
   }
 }
