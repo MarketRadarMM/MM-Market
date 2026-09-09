@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-09T04:00:31+00:00",
+ "generated_at": "2026-09-09T04:30:22+00:00",
  "signals": [
+  {
+   "ts": "2026-09-09T04:30:20+00:00",
+   "title": "Q&A: Explaining Myanmar’s private security law",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQT2ZxSlFpdXVnWXlsaU9UQmhwYy1EVDlwMHZwbENBQmx0RDFucE0tdTVtMDZoQWpKcXRhQnRzUlduVEw4OHVEVmFpSDhWUlVDMWtPWVJtMFpSMTM4Q3JfYnN0dHM0dlFaUzBIa0NSOHN4QlNjRF80N2lHZjQyaXpEaGw1Y2wwZw?oc=5"
+  },
+  {
+   "ts": "2026-09-09T04:30:20+00:00",
+   "title": "News",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NZE1mYS10aklkSENjVXQzUXczSW1HMGJZOVBFRWJoRlZGbGtmZjFZMGVMeHlIUWxmWGYxYzdqdVlxUkVrRk82OVNkdTVGbFpOMGp0NVRoV2gwckx0?oc=5"
+  },
   {
    "ts": "2026-09-09T03:30:17+00:00",
    "title": "9 September 2026",
@@ -2100,20 +2114,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPanowQmk3aWFkWDhRZnlKSV9EaV9VRFN2cEp2S2JDWnN2emU1U2I5UVNWcHFKVGZnaDE0V3NBQWN1N19ZZXFNNWliQmJXaDNKSFNhaWN1M3AzMmE5WlB5cUx4SlhxR3gzU04tNVVlSGRHLXZ1Z1pyRTFEN0hHSGZ1dmN3NUhWQWdpMmc?oc=5"
-  },
-  {
-   "ts": "2026-09-06T14:30:20+00:00",
-   "title": "TotalEnergies to leave Myanmar over human rights abuses",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcjh4VzZOVWNCRDVjWjBGdnBheXBVWEpWa1p6ejBTQVVNZ3ltM2loNFNkUENYM2gzUS1FakxUenZ1ZVRXQnRqLVp6Sl9ZbFFEcnFDcW5ob3JyYl9sT3p0aW9KVE5PWGJKRWxyQTZyZ2RqWUVfLS1kdmdSNnY4VTJ4c3lRMVdxVzM5d1Bpa2lid3d6VHpabGc?oc=5"
-  },
-  {
-   "ts": "2026-09-06T14:30:20+00:00",
-   "title": "Conflict, uncertainty hang over Mogok’s gemstone industry",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNN2Vsck14ak1kU3ZfSW9xeE9NUndkOTlpYzlYM1paY0VFTDJVWFpDNUswb1NrM293aXA3bDA4TUxJVDUyYmtFdnFJTGtwM3MyUFRCbXRFU0hraXAyQjV0dnVWejU3MG9NV2Y5d203dV9mZExReFhxUlRZS1RibEZFcUNmbHlrc0Q4dzBDRWNnc0p4eUVaYVE?oc=5"
   }
  ]
 }
