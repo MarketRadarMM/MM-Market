@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-10T01:00:24+00:00",
+ "generated_at": "2026-09-10T01:30:23+00:00",
  "signals": [
+  {
+   "ts": "2026-09-10T01:30:22+00:00",
+   "title": "48 Myanmar companies ship over 148,000 tonnes of rice in Aug",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVEUwN0NyOUJKdVZjTjF0cTRqVlhIRUlSaHh0VWNFcDIwWnBSYVZ0TkZaTUNhQ2ViMEpKMUs0bFZWdjMtcHl2dnNOZmpZakxUN09Xd0ZsUm9WYWpRUzJqYW40Q0NpTHJsbGo3RVJPczQ1TXpHNVExRlozNUFsVTg0VGhER1lkVUVOMjhfbA?oc=5"
+  },
   {
    "ts": "2026-09-09T23:30:17+00:00",
    "title": "Rehabilitation must include assistance program for victims who died, injured or lost property",
@@ -2128,13 +2135,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ObnE0V0tIWG0wSVlkREVHdEp4NmRfaFlobzJmLXlaV2JqZUFRT0ZsOUo1V09fUVc4ZXFwRThfYlBFdFdhdG1sam05TGpqOENjcnc4YTdXXzM?oc=5"
-  },
-  {
-   "ts": "2026-09-06T22:00:18+00:00",
-   "title": "Page 3649",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Db3EwQ3BQTl81V1FWMzJRSkVROXlwaFhMQUpGTnFqV3ZsMHV1TWlZR1JUdVJSSGhYRW9zc3VvSDQzYS0yaVdCU2V0WFA3MGRlT2hDeFZB?oc=5"
   }
  ]
 }
