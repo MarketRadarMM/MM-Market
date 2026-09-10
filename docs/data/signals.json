@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-10T11:00:20+00:00",
+ "generated_at": "2026-09-10T11:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-09-10T11:30:16+00:00",
+   "title": "အရည်ဆို ပူပူလောင်လောင်မှသောက်တတ်သူတွေ ကင်ဆာဖြစ်နိုင်ခြေကို ပညာရှင်တွေသတိပေး",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c62mn59ngl7o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-10T11:00:18+00:00",
    "title": "Migrant workers in Ranong, Thailand.",
@@ -2128,13 +2135,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTHF6Qk9vemdmM0lNUGtFdzlwa0xwbHViZDlxcVVEa3BIYllqalhnT2NPTEtuM05ydUxjNXZsRlZ1QTlDQjV0UVE5VHZpSEdUTkZMUWRuQy02S2lEeEFHY0N4N1NpRWxUaGN0cEt4a1VqREpHMnVjaFM0dl9vN3lGeFAtbHl0a2JidWdfekFqYW9ZUHRyMGZkczZJcURLQkVHcjZVTnJITjdWSWMwN1RMVnFWRnJTRDBxd0VyWkRNU3g3QkNT?oc=5"
-  },
-  {
-   "ts": "2026-09-07T01:00:21+00:00",
-   "title": "Myanmar Junta, Chinese Firm Step Up Cooperation on Irrawaddy River Dam Planning",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLXZ1RGhUMk45MUNhSWd0Y29aRENPTU1OYzFDR2pMVkVlTFp2Rjd2VlkxU0Nzd1J6QnFqRGhKRXBBQWstZ2NST1c2VkVETEcxUzY5NkVUVnlyTDZEcndUYk1hdkRjNlhuSEhjcm9QSGs2ZGxMNzRLT0F0RXdwUkxMRkdGT2Z0ZkxqVERkdVNPNWFWYUJ1X3JDaUdWc0tiSzBCQThJYjBhMUJrM1ExejVjbGd1LVhuWnZkNDR2Wg?oc=5"
   }
  ]
 }
