@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-10T05:30:24+00:00",
+ "generated_at": "2026-09-10T06:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-10T06:00:17+00:00",
+   "title": "Myanmar tin mega-mine restarts operations: think tank",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/myanmar-tin-mega-mine-restarts-operations-think-tank/"
+  },
   {
    "ts": "2026-09-10T05:30:22+00:00",
    "title": "News",
@@ -2128,13 +2135,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQTUVWbXo5MGNIQU9XWjZMUXRRUzZoX1FhRjE2T2hVTXo1TjVIQzNXV0tXR1VMcEpDajZpUExkZUZRNFhpdlp2NjlEUDEwQ1BKYjlHRXFR?oc=5"
-  },
-  {
-   "ts": "2026-09-06T23:30:16+00:00",
-   "title": "Page 2987",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14bTRYYzRJbnFmTVluWWdLT1B6UHRIekJQOE1TSjFPVFQtUE4tMnNidVNqOUd6aDZjbXVzX3J6Qzdhd2xGSFRjemhUOFJtMTlZY0dTNkxn?oc=5"
   }
  ]
 }
