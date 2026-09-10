@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-10T03:00:24+00:00",
+ "generated_at": "2026-09-10T03:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-09-10T03:30:13+00:00",
+   "title": "UWSA ''ဝ'' ဒေသထဲ သတ္တုတူးဖော်ရေးလုပ်ငန်းကြီးပြန်စတင် - ICG သုတေသနအဖွဲ့",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.co.uk/burmese/live/cqvgyvgwjmwpt?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-10T02:30:19+00:00",
    "title": "Prof Stefan Talmon delivers rebuttal arguments at ICJ",
@@ -2128,13 +2135,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4zaTYtdW50VHc5eGlRNXBZOUxZT3FQY3RkZjF5VzJNYWhTazRoTlg3RE1pYkVYOU5ORzAxOVZrMEo2NWhlOG50NlY0RVg?oc=5"
-  },
-  {
-   "ts": "2026-09-06T22:30:15+00:00",
-   "title": "Jiang Xinzhi Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1lTmtsQlBSTXRZSjhiUXJya2dfV1E1bGZxN09KOTBvY1NSVV9YLWxXWV9naHlhc2NzS05McGV1X2hzSmtLZC1nQjE0anYxYXlLQXZ6eg?oc=5"
   }
  ]
 }
