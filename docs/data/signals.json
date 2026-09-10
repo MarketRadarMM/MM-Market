@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-10T14:00:25+00:00",
+ "generated_at": "2026-09-10T14:30:24+00:00",
  "signals": [
+  {
+   "ts": "2026-09-10T14:30:20+00:00",
+   "title": "မုန်တိုင်းထူ ပိုပူမယ့်ကောင်းကင်ကြောင့် ခရီးထန်ဦးမယ့်လေယာဉ်စီးသူတွေ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cx2zjd67xlxo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-10T13:00:20+00:00",
    "title": "Min Aung Hlaing Revives Thein Sein-Era Team for New ‘Peace’ Push",
@@ -2128,13 +2135,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hWXN6YlZrRXlqVDdTOHFvME9oQWd5dVU1MXBqNkRHaWwyN1l1LUN2MGx3TE9VZWtFUWRzeEdXNzdxeHpnR1p3cHNoMlVCNmVPQ3o4?oc=5"
-  },
-  {
-   "ts": "2026-09-07T03:30:12+00:00",
-   "title": "နေပြည်တော်မှာ ငှားကားစီးပြီးနောက် အငှားယာဉ်မောင်းကို သတ်ခဲ့သူကို ဖမ်းမိ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.co.uk/burmese/live/c9rk36nd7lmnt?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
