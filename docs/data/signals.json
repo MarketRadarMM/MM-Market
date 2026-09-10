@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-09-10T09:30:18+00:00",
+ "generated_at": "2026-09-10T10:00:28+00:00",
  "signals": [
+  {
+   "ts": "2026-09-10T10:00:28+00:00",
+   "title": "State Administration Council Chairman Prime Minister Senior General Min Aung Hlaing addresses SAC Meeting 9/2022",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaDB0dVpVZFN5ZHlWb1hVaHBQcUFjR0JBbWhiNGNFZkkzTERpZklTUnJVNlNmRjJ0MEJrTDMxOTAzX1k1N0x3MWRzLWVYMVl6TkRYY0dKaDFEUms5a2M0czlRZ1VONW1ocDN4elJlQXZycEN0T3ptTTZqV1hIWHg4eVMxWjlsYU9vMV8wUDFuZGkxNGNPaU9PYWREaktDMGxKTnVQdi02eE91UDBVS25kMUtSWVdmOGxUU2k2WHZZMA?oc=5"
+  },
+  {
+   "ts": "2026-09-10T10:00:18+00:00",
+   "title": "Five killed in Myanmar junta airstrikes in retaliation for attack by PDF forces",
+   "source": "Myanmar Now (EN)",
+   "markets": [
+    {
+     "market": "pulses",
+     "direction": "bullish",
+     "confidence": 0.55,
+     "rationale": "Conflict in bean/sesame heartland threatens supply"
+    }
+   ],
+   "url": "https://myanmar-now.org/en/news/five-killed-in-myanmar-junta-airstrikes-in-retaliation-for-attack-by-pdf-forces/"
+  },
   {
    "ts": "2026-09-10T07:30:21+00:00",
    "title": "Senior General Min Aung Hlaing meets with departmental officials and local elders from Kangyidaunt, and discusses regional development",
@@ -2114,20 +2135,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBKYkV1enpJTVB1dUJGenlkVHByMUpnWHJWVExnU01lY2w1X181Z2V0V2ozOUJ4ZDB0X25nWnNTUWROSW85ZlBYbWQxaWROakxJMk13OQ?oc=5"
-  },
-  {
-   "ts": "2026-09-07T00:30:25+00:00",
-   "title": "Video",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FUW03b0ZvcnczSWpxX0E3WEt2LU80Ump4c290V3V0MFd2X25yWk9zLUFLUGtZMnFGV2lfbGlocHlEWXljOEI2VkJ0eUVCcXdqMkhaZ0ZNTy1nRy1S?oc=5"
-  },
-  {
-   "ts": "2026-09-07T00:00:25+00:00",
-   "title": "Poem 4 – Page 204",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ZaV8zVkUySThZUWJEN2h4a3hLX2gxdm9CMHZtMFVkRm9MWDl1VWplVHEtRjFlM2VpWVg3OXloeEtINnF0YWU1YjRHWElBQy1melNvbm04eUROWmF6blNSOVNOMWY?oc=5"
   }
  ]
 }
