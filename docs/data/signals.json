@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-10T04:00:20+00:00",
+ "generated_at": "2026-09-10T04:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-09-10T04:30:18+00:00",
+   "title": "The twilight of Myanmar’s NUG part 1: Internal dynamics",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcUpwT1R6UkdCZEhMYTktS2g1a0d0QldmaEFXLThhY0FuRkhYRHFuSWtlalh2TXI5YzI5cF96dU1hOW5vR3N5UExxcUtjbVlNT3lXRzR6SV9qcWNGd0FBTGJxZUFHWGQzTlBRR1BrQzlaQWdEQU5YRkRLUmlNNE9YUlFoNnpsODJ2YVU0WQ?oc=5"
+  },
   {
    "ts": "2026-09-10T04:00:18+00:00",
    "title": "Myanmar Tin Mega-Mine Restarts Operations: Think Tank",
@@ -2128,13 +2135,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jbG1WeHQwVEhqYnFiY1hXY3l1eEh6Y1pLNmxsdGtOSE5SeEt3eU94NlNmb0RBVUtYLXozb3BSSGRScG9uQVBxYW54VTZsd0ZBalRv?oc=5"
-  },
-  {
-   "ts": "2026-09-06T23:30:16+00:00",
-   "title": "The Irrawaddy News Magazine [Covering Burma and Southeast Asia]",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MQlNTTWtDNTRJZ3dPZjlxaVI2bnNNQ2wyci1za0xZSTVIMzZxYy1JSExPLU41N3dwTEVYVEppanJvWUJYcHoxd0R4QnNzQkhqTXdKcm1nS3U4dmFZM1hOSEpYN2o3a3R5?oc=5"
   }
  ]
 }
