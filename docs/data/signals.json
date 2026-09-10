@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-10T10:00:28+00:00",
+ "generated_at": "2026-09-10T10:30:16+00:00",
  "signals": [
+  {
+   "ts": "2026-09-10T10:30:15+00:00",
+   "title": "Regime School Attacks Killed 33 Children, Teachers in Two Years: KNU",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX3JMNzYzWmx3bkZVNm1TQzhpWExJUFJRZnEzeUhMbHZxazZjVFgteHNHSFZBeVZpejBnQy1UWFVkMjZ3TVotcEpXVVpCcUVpS3FfX0tTNnNfVnhpeWZKS2hJNnM5aU9WUkRJN09pZnN5VFhIZkMzbFJLdE9yODZscnNOaVhidlJyMjJxUjdXdVVXR054WUQtLUFNOWdJdGM2OUNNdlIzc2UxMEpx?oc=5"
+  },
+  {
+   "ts": "2026-09-10T10:30:15+00:00",
+   "title": "Geology Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBFZWtCcTc2RUhNS3NabnhIUWk2YWJkbElqTGxUdlFBdE9TTHBIelZFeHVUTmJweHZuNTI1UV9PSW5XcFpRUkliMGdlS1N3UQ?oc=5"
+  },
   {
    "ts": "2026-09-10T10:00:28+00:00",
    "title": "State Administration Council Chairman Prime Minister Senior General Min Aung Hlaing addresses SAC Meeting 9/2022",
@@ -2121,20 +2135,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1IVXZUY2s4WlFzMTNnR1g4MDBZd3M5YTE2UUFCYVAzZmd5SHowZExPTWl2Zlk2aTVuci12UHB3SzZGZXJQT2Z5MnFSWXRDdjZjQmphSDNGb0g?oc=5"
-  },
-  {
-   "ts": "2026-09-07T00:30:25+00:00",
-   "title": "Loyalty Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE80X096bGI3Q0lyY0RfV0h4eDVyUkU2TERoMEtWZDBtOWRrUDBDaC1yMklOUUs5clJlMHlyMFExTlAxZUZVVFQ5LW1zNnBpQQ?oc=5"
-  },
-  {
-   "ts": "2026-09-07T00:30:25+00:00",
-   "title": "News",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBKYkV1enpJTVB1dUJGenlkVHByMUpnWHJWVExnU01lY2w1X181Z2V0V2ozOUJ4ZDB0X25nWnNTUWROSW85ZlBYbWQxaWROakxJMk13OQ?oc=5"
   }
  ]
 }
