@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-10T03:30:18+00:00",
+ "generated_at": "2026-09-10T04:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-10T04:00:18+00:00",
+   "title": "Myanmar Tin Mega-Mine Restarts Operations: Think Tank",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMmhHSEFTWm9qdGxKUVk3UzU1R2V4dE5ZdVl5Z243MUFYbVNHUDQwU3VXVjF5d3FJNVdvazhVQWRFcE4zWEN4VWl6UHlEczlRdVk2amFCNXRHX2tZVEpid2VmSEtXeUxBWVZzX08yQ1l6aUZGVzl0MXJnQ3RWSWJSQ2tQeUl6bE9BSjZBdUVKb3NReHhUYUI3cVBR?oc=5"
+  },
   {
    "ts": "2026-09-10T03:30:13+00:00",
    "title": "UWSA ''ဝ'' ဒေသထဲ သတ္တုတူးဖော်ရေးလုပ်ငန်းကြီးပြန်စတင် - ICG သုတေသနအဖွဲ့",
@@ -2128,13 +2135,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MQlNTTWtDNTRJZ3dPZjlxaVI2bnNNQ2wyci1za0xZSTVIMzZxYy1JSExPLU41N3dwTEVYVEppanJvWUJYcHoxd0R4QnNzQkhqTXdKcm1nS3U4dmFZM1hOSEpYN2o3a3R5?oc=5"
-  },
-  {
-   "ts": "2026-09-06T22:30:15+00:00",
-   "title": "Ma Jia Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4zaTYtdW50VHc5eGlRNXBZOUxZT3FQY3RkZjF5VzJNYWhTazRoTlg3RE1pYkVYOU5ORzAxOVZrMEo2NWhlOG50NlY0RVg?oc=5"
   }
  ]
 }
