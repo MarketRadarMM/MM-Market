@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-10T20:00:26+00:00",
+ "generated_at": "2026-09-10T20:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-09-10T20:30:17+00:00",
+   "title": "Kayah, Mon, Eastern Shan States see remarkable success in literacy campaign",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZnh1bGlYUnlZOVNDR1N0TGtxU3c5cVlMMWZLVG5OSjlycFRZc2d3dUU3ZFdQdngxQjZ2SWE0cGpVRWJZbnA1ZndnTGtGM2NHanFkdlpURGhlbmlLM2JxbHd4WHpIdHphM0RNcGlkN1BvV01UQXBQcmJTaFBvalRaX2FUY0VXWlBIM0JOVUlKOXhVaGdjeDdhdVRmR2lkSlU?oc=5"
+  },
+  {
+   "ts": "2026-09-10T20:30:16+00:00",
+   "title": "Myanmar Junta Sends Envoys to Wa State to Build Election Support",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLVN3RDdHaVFMTHZJMVhiYWtOS2FHam9JU183Y3dMNVV1UGFacjNFVzBRenpyMFRMMDZmZTdFeDkzWVRUeWpFSm5KOC1OMzZfbWxkbEk0cTdQeTV5Nk4xT0ZfTnVRVkR6Z3IxbjR1Vy1Uenhwb2p1U2ltUWZ5a3lJdF8wVGdLRXNNRk9GNXU5YV9HMV9WYVNBLVNncndBYTJXNGxLV0t2NFBSTWY0X0E?oc=5"
+  },
   {
    "ts": "2026-09-10T20:00:25+00:00",
    "title": "Feature Archives",
@@ -2121,20 +2135,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mUUg5WDFaMGEyT0VSS0MzbElXTEY4TmJ0TDdEa2FOal9EWkpGWkJDWEl1LVEwV0xsSzQ4UnVlR2xaOHdWWWk2aUhOZElsOWNjdzhJQmxn?oc=5"
-  },
-  {
-   "ts": "2026-09-07T05:00:23+00:00",
-   "title": "Canadian Foresight Group Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LaXZiM29jOUxFWlZXOGJ4NWl2TmNrV3RZMDRiXzU5RkNScGhQN3RwNkZCcHZSLUlsaUxzWi11aC1IWHd0RFctSTBfZGlSQTI1dDRCQ2tBWEN6a0ZmLWs1NHdRMkU?oc=5"
-  },
-  {
-   "ts": "2026-09-07T04:30:14+00:00",
-   "title": "Page 115",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04bVhCZGoxMTdMNXU2VDQ0U1FOR2JzcmFqd3A2eTRTTGJOM21ZRGQxR01rUVdCSy1sUFl3RWo5MnJlOTZfRWtmV2JMZHhHcjI4ZGFYSw?oc=5"
   }
  ]
 }
