@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-10T06:30:18+00:00",
+ "generated_at": "2026-09-10T07:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-09-10T07:00:20+00:00",
+   "title": "ရှမ်းမြောက် ကုန်သွယ်ရေးလမ်းပေါ်ရှိ မြို့များတွင် စစ်တပ်နှင့် MNDAA စစ်ရေးတင်းမာ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81079/"
+  },
   {
    "ts": "2026-09-10T06:00:17+00:00",
    "title": "Myanmar tin mega-mine restarts operations: think tank",
@@ -2128,13 +2135,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZGg0bGk4WW8tV2J4UXF6ZkQ0NURTWTBRbmVIakNGVHc5RlZpX1A3MmRiRTRpazRCYlUyaXl6YWhMZk9Ha2F6VzJGdTdtYXU3UjBrVHF5V2N1OVRscHFITldtMXBIU3BmazBuNk1sX2llSkxvSmd0MXJsUm1GRVlGdDJScGstNkRjV3phc0Z6UGVLS2xuT3VmZTRKSGlTZG01QjlpeWVn?oc=5"
-  },
-  {
-   "ts": "2026-09-06T23:30:16+00:00",
-   "title": "Page 3635",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQTUVWbXo5MGNIQU9XWjZMUXRRUzZoX1FhRjE2T2hVTXo1TjVIQzNXV0tXR1VMcEpDajZpUExkZUZRNFhpdlp2NjlEUDEwQ1BKYjlHRXFR?oc=5"
   }
  ]
 }
