@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-10T05:00:22+00:00",
+ "generated_at": "2026-09-10T05:30:24+00:00",
  "signals": [
+  {
+   "ts": "2026-09-10T05:30:22+00:00",
+   "title": "News",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wMXZsQ3BlTDBCVjNCTUdpUmNDZ1FhajZxTEpvUE94UnE3RjlOT2RtT1Fxa1BtcWFXUjcwNG5YbkNrQkN5TWs3cVl5R1hjVXF0OEMtT1Nzd1ZqdE9C?oc=5"
+  },
   {
    "ts": "2026-09-10T04:30:18+00:00",
    "title": "The twilight of Myanmar’s NUG part 1: Internal dynamics",
@@ -2128,13 +2135,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14bTRYYzRJbnFmTVluWWdLT1B6UHRIekJQOE1TSjFPVFQtUE4tMnNidVNqOUd6aDZjbXVzX3J6Qzdhd2xGSFRjemhUOFJtMTlZY0dTNkxn?oc=5"
-  },
-  {
-   "ts": "2026-09-06T23:30:16+00:00",
-   "title": "Page 97",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jbG1WeHQwVEhqYnFiY1hXY3l1eEh6Y1pLNmxsdGtOSE5SeEt3eU94NlNmb0RBVUtYLXozb3BSSGRScG9uQVBxYW54VTZsd0ZBalRv?oc=5"
   }
  ]
 }
