@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-10T22:00:22+00:00",
+ "generated_at": "2026-09-10T22:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-09-10T22:30:17+00:00",
+   "title": "Nepal Flood Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WYjVxdEZhdTFQY0ZodWplUjdoSFpIMlJPSUp6ektUWXpYNlpfQmprOUV4UHlZZjNkd1AtV1lYR2laWVVzaVZfTlVYcWhkc095ZlRR?oc=5"
+  },
   {
    "ts": "2026-09-10T21:30:27+00:00",
    "title": "‘They were all addicted’: Online slot games sink players into debt",
@@ -2128,13 +2135,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb1RpWGVfQTgwQkJ0em94RmdhWnNBeFJnWmpZRzRqQXc5RkNyalY1RWNkZkFfUEtBcXdFVEZ6akhrZ2d1ZkFiYk9yMUdtVnVreVJtc1hqZVJ2TGRvUkJxV2pSeFA5c2dNb0paTDdmX01YWFhXUkhXeS1ldEQ0Y0NiM0U1Tldrcmt4cTNsM09pYw?oc=5"
-  },
-  {
-   "ts": "2026-09-07T05:00:23+00:00",
-   "title": "Indo-Pacific Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fUXZiMnd1ZnRzcnJjb0R1MnpTNEgyTW51S0k5dTdDSFgxMlUtU1lBTTY4cFRQcVVsY19DVzRjdkJ4ZjVYcnphc2tjZ2dJbFh3MG53Qw?oc=5"
   }
  ]
 }
