@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-11T02:30:19+00:00",
+ "generated_at": "2026-09-11T03:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-11T03:00:17+00:00",
+   "title": "ဦးမင်းအောင်လှိုင် ကမ္ဘောဒီးယားခရီးစဉ်စတင်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.co.uk/burmese/live/cred75xw54e6t?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-11T01:00:22+00:00",
    "title": "Factiva",
@@ -2128,13 +2135,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsM1FVZFNibkdWamY0VWVfWElMYjJoSXphTWZEMzBGVFI5NG9Ub2NHamZqclI3RnJSdzlwcWFlOVV0OWNTSG1QNzR6UlNsMHpFYlE?oc=5"
-  },
-  {
-   "ts": "2026-09-07T05:00:23+00:00",
-   "title": "Irrawaddy Business Roundup",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQnZsVDIyc1RuMUdmbHZkWlRqU1lVcUV2V0o3S2tSXzFLSEIyUVZ1X1FOM2tEbmlTS1pwajNRQ2RIUVlKNDlFWENHbF9RWGlnMUpGYUxLYm5GclgwZjF5dEhjX1RvbE1PTldPa3J1dFJiLUhuVnl1X0Qzbkk0OExSZlI4VGVNRzNtaXhnSGlobw?oc=5"
   }
  ]
 }
