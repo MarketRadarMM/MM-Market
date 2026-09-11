@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-11T15:30:55+00:00",
+ "generated_at": "2026-09-11T16:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-09-11T16:00:23+00:00",
+   "title": "5th YGN Intl Gems and Jewellery Fair 2026 set for 6-9 Aug",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQTJadGNTZUpmQmVYVVNnV215QWlheDlpS2JfcmVsdElnZkhvQmtGeGthRFh2N1FTa3k4Rk02NkdrRGhydkFGclBLOFhwSTFEdlNHX2pnZEtmbHh6TGNwYTZfVERiU1lsN0FPSkZKaEkwZTVSc1plVlh2ekhKaEN5R0VFdUV5UTFrbkE?oc=5"
+  },
+  {
+   "ts": "2026-09-11T16:00:23+00:00",
+   "title": "MoST Union Minister promotes science cooperation in Moscow, encourages Myanmar students",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVkI5blFIc0VwNkZDZTZaTTVtd3IzcURRQkh6bnMxZElXd3hUV0x6Z2FqQUp0anAxeEVKZUpLUHVtNV9YVklWcENIOFAxcVV1UlNabGVpc01UYjRHN1ZRUFUxbXpDaW5FXzhrbFVjY050TWxvNGxZR1dmQmxQNWhiTnBPTlFnUkoxV04zLThwZURmLS16SlBJQXhiX2tSWjdSOS1uR0RDUEZNdzNtNTd2bw?oc=5"
+  },
   {
    "ts": "2026-09-11T15:30:53+00:00",
    "title": "Drone Warfare Archives",
@@ -2121,20 +2135,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5TRzFTX19XQTVPNDhQN1ZJcm52VGs1NnBuZmpEMHQ5Yy1QNnJsTTNwYzhNSnNlakw3OUZGLVdiSldSQjFmOW9tQnlNdjlzZjRrdmY3M0JkeFl0N1hTa0lSTFIyMA?oc=5"
-  },
-  {
-   "ts": "2026-09-07T09:30:17+00:00",
-   "title": "News",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqdDFhSThTTGpoaEVHeXctdDBaak9NMVU2emUxMUVjVmNWUFBwQXVBNy12RlVJX2pLMFJ5THpoM1MyOE1RRVgtV3NvX3QzbDIwUmdVclluTEhRTENE?oc=5"
-  },
-  {
-   "ts": "2026-09-07T09:30:17+00:00",
-   "title": "News",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55X3B4dFdFN1VrMHZ2RlBJNXc0aWhpdllTdThkTHlXa1ZjcWo1aW03RmxLSkRoRnRKVTZKOTFyYU1jbnprem1QcUlLVU1EOTA3cllhN2hBNF9UVll5?oc=5"
   }
  ]
 }
