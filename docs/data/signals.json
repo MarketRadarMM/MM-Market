@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-11T08:00:21+00:00",
+ "generated_at": "2026-09-11T08:30:23+00:00",
  "signals": [
+  {
+   "ts": "2026-09-11T08:30:22+00:00",
+   "title": "Yangon expands poultry farming",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LSDYxZExyZ3dqbVRtZWlJVDhYNWNfQ2d1TEoxVzN5d0dqdG1yVjVTdXlmc3VhalBYZzBkeWIwRWFZQUdWRWczaEp4eEV5SFVGZnpJMm5aZTk3SnVONVNNOThXQ09kdw?oc=5"
+  },
+  {
+   "ts": "2026-09-11T08:30:20+00:00",
+   "title": "တံတားဦးလေတပ် ဒရုန်းများဖြင့် တိုက်ခိုက်ခံရပြီး  အနီးဝန်းကျင်ကို စစ်တပ်စစ်ကြောင်းဝင်",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81096/"
+  },
   {
    "ts": "2026-09-11T07:30:23+00:00",
    "title": "Myanmar Regime Confirms Massive New Gas Find",
@@ -2121,20 +2135,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5QzdvSVloWFFhSXBVbjRsUGw1YlZjcndTbVZuR1JXUHh0OXYzZmZmUUdLeTdvdDE0UXFCMjhoUVRSWnhzSDlYYmxPT3BYckpxdWplSGJFTkhKbGtUdktqNg?oc=5"
-  },
-  {
-   "ts": "2026-09-07T07:30:20+00:00",
-   "title": "... and all came tumbling after",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nN1IwYzRiUVpiTldEREhCczRVeG9RYlpzS19nRWFYNVRTN3YyT3JQZ1lXTWV3cXBlVlRiRlkwVU1nZ3Yxa3E1dW9GSjVWRkFGTllXR1pISkFyVl82cnlR?oc=5"
-  },
-  {
-   "ts": "2026-09-07T07:30:20+00:00",
-   "title": "Burma",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oT2Q3SmxsY3ZheDFBRFNRYi10M01McUFOUEduYnFCUVVFYmFYZ3piR0hBWmhFc0RuYkY1WTI0Zlk2WjYyMmR5RjZITFlURzJQLWhIcHdwVHJOT3ZhbGc4bF9PcDhxRGM?oc=5"
   }
  ]
 }
