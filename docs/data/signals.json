@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-11T00:30:16+00:00",
+ "generated_at": "2026-09-11T01:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-09-11T01:00:22+00:00",
+   "title": "Factiva",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ONXpvV0tKWEJEUzdWdW5DZlFhZjZzUEFGa0hNMW5nWVVMMjh3b3FMY2NYQ1VTenlLSlNxTGxmMWFUSjFHYUVkaHBsTW1pdXpZUVFlR2R0bm05OC1hOFpJbQ?oc=5"
+  },
   {
    "ts": "2026-09-10T22:30:17+00:00",
    "title": "Nepal Flood Archives",
@@ -2128,13 +2135,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQnZsVDIyc1RuMUdmbHZkWlRqU1lVcUV2V0o3S2tSXzFLSEIyUVZ1X1FOM2tEbmlTS1pwajNRQ2RIUVlKNDlFWENHbF9RWGlnMUpGYUxLYm5GclgwZjF5dEhjX1RvbE1PTldPa3J1dFJiLUhuVnl1X0Qzbkk0OExSZlI4VGVNRzNtaXhnSGlobw?oc=5"
-  },
-  {
-   "ts": "2026-09-07T05:00:23+00:00",
-   "title": "The Irrawaddy Business Roundup",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb1RpWGVfQTgwQkJ0em94RmdhWnNBeFJnWmpZRzRqQXc5RkNyalY1RWNkZkFfUEtBcXdFVEZ6akhrZ2d1ZkFiYk9yMUdtVnVreVJtc1hqZVJ2TGRvUkJxV2pSeFA5c2dNb0paTDdmX01YWFhXUkhXeS1ldEQ0Y0NiM0U1Tldrcmt4cTNsM09pYw?oc=5"
   }
  ]
 }
