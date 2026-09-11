@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-11T09:30:21+00:00",
+ "generated_at": "2026-09-11T10:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-09-11T10:00:20+00:00",
+   "title": "မြိုင်မြို့နယ်အတွင်းမှ တော်လှန်ရေးတပ်များ၏ ရေနံတွင်းများကို စစ်တပ် မိုင်းခွဲဖျက်ဆီး",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81113/"
+  },
+  {
+   "ts": "2026-09-11T10:00:19+00:00",
+   "title": "Poland blocks sale of 250 tonnes of contaminated Myanmar rice",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/poland-blocks-sale-of-250-tonnes-of-contaminated-myanmar-rice/"
+  },
   {
    "ts": "2026-09-11T09:30:20+00:00",
    "title": "Thai Abbot Arrested in $2.8-Million Embezzlement, Sex Scandal",
@@ -2121,20 +2135,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6VmI1QzhUdmNaZGd2LTVHX3ZCRWVySUxqYmk3X3AwTVJnRVFGTzR0MUdCdV9UVEFxYzdNNHQ1NUdETVUtTTducmtKRzZOVmU1dTJ3d0RjYw?oc=5"
-  },
-  {
-   "ts": "2026-09-07T08:30:19+00:00",
-   "title": "Myanmar Junta’s Western Flank Collapsing After December Defeats",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOU3RpaEtaRmQ3cERIUWJVOFEzN1dranFZcTF5N3BVaTU5X0luQ3FEbkFLSXZmeXRPT2tVQjhZX3hiUXFUb1pCanEwNkU5MnotUlhEZnBuRXBEQ0RQOVQ2X180dWJGNmlQX0ttSFJfdEpSMXN5S0xWMzZQT2pyNjc2VHNJRDZiUW04cHh1MUZlVm13UXBtMGlmdDF4UXlIaFNicDlsakY3ZGJUUEllOGFyNUUwd0NKd3RmNEZMbQ?oc=5"
-  },
-  {
-   "ts": "2026-09-07T08:30:19+00:00",
-   "title": "Page 81",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kOHJIUVR2MUxzNXdIUzNkd0NvY3RHckpKVjM1Tnd1dmJmbWdRRzZ6SXNrbzR1S1V2dHg0N1VvQ0Z3dEFIRUNkbHBhQnZ3czdqTmV3?oc=5"
   }
  ]
 }
