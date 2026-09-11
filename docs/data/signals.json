@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-11T14:30:23+00:00",
+ "generated_at": "2026-09-11T15:00:28+00:00",
  "signals": [
+  {
+   "ts": "2026-09-11T15:00:26+00:00",
+   "title": "Business | Over 40,000 Migrant Workers Caught in Myanmar Junta’s Conscription Trap",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLVZJbnNXWGRHZHA1Wi1CcEloNkVVY1RBTjJpTHFHQUxtQlJ6OXNuYmdtbndGNHFHSlRtb00ydDY0SVVsdkthblJWeVQxS21fWW9XQ3dkLVFLS21CQ1lxXzhQY1ZqbmQ4ak14c0JTZXMxU3JiUzZCMl9JbHlSbGM4T0JtYWZ0Q1BQTHVQRXdIRnZVcTN1cmpMVFdLQ3pVX2JyeUtUdDNDS1gxY1R4OXc?oc=5"
+  },
   {
    "ts": "2026-09-11T13:30:25+00:00",
    "title": "Commander-in-Chief of Defence Services General Ye Win Oo delivers speech to senior instructor-, trainee-officers in local training school in Kalaw",
@@ -2128,13 +2135,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoRkE1ZXVPTi1qSWJHemhwTDZIX1dtSWtnOE80MHhUV2ZRQ19zZy05YU5UUkhmLWFBejNKOWFXcm9Ld1dWQVNvVkFsUEVvRTI3bXg0?oc=5"
-  },
-  {
-   "ts": "2026-09-07T09:30:17+00:00",
-   "title": "The Irrawaddy News Magazine [Covering Burma and Southeast Asia]",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wUjNwTHlFY28wdldqUS1aWU1SU2ExZVl5c0NXYWdkR2VVd2ZGNkdzaHZuTXYtZHlQV2hFUWp1Q1JOc1dpQmdzb0JjTjlyNHpUVURPYXR0aVp1dXBPM3lEaDc5RWJ2anFl?oc=5"
   }
  ]
 }
