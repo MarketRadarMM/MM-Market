@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-11T12:30:35+00:00",
+ "generated_at": "2026-09-11T13:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-09-11T13:00:20+00:00",
+   "title": "Suicide Drones Strike Regime Warplanes at Mandalay’s Tada-U Airbase",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPckM5a0RPQWxtLWxPOVVuOGdVUi1BbjRoY1paaFZhZUZIRk9ZYm1qeTNnVG1mV1dIRjVLSW5OOWk0R2VTWVlhTjBmYkI5NTdFS3JuZERTSUNIdFpVR083NkxmUkY2S1RneGN3aG5qdXZPWmpPQ00xbDl4Ny1jREhZMEFhTjV0RjUyR0d1RmxEcGxmaVhWUF9MRUpaUERlWnhwM0hpZnIxdGZKRHZucmFpWVN6ZkhUby1nSGotOTJkQnNTdw?oc=5"
+  },
   {
    "ts": "2026-09-11T11:30:17+00:00",
    "title": "Urea fertilizers to be distributed directly to farmers",
@@ -2128,13 +2135,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU2M1WE9Yb2w3Zm5BWHU3OEpBaEd4SHlYN0pibllfZU1lME5oNS1NMWF5eFRBbjZrV052OGotUXROYUEtVlF5NGdBejQtcUpfajBfWFg2bFN6TlY2RGFiSjJMbEZWdExpT2lDMTFJUGd1VzF4SDNoTFBzazNUSkg0RWxEd1EtdUJiRFpXS2FKU3FUczNLc2xFSQ?oc=5"
-  },
-  {
-   "ts": "2026-09-07T09:00:26+00:00",
-   "title": "Irrawaddy Business Roundup",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOd1lpX05XM2V6ZmpFOWhpYmpMZDloXzNRcnYyVVVOTDg5Qy1JcjdQMzFZQUpXR05iYmVzeUJYelNNeGFzMzdBUUJFdUVvU3dqOUFQeEsyMmpjQ2x5dHFEZHVWbjJDeWUyMTY0Q21RYUVrNEIyVURJTg?oc=5"
   }
  ]
 }
