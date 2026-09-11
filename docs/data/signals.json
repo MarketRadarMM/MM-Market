@@ -1,6 +1,62 @@
 {
- "generated_at": "2026-09-11T22:30:19+00:00",
+ "generated_at": "2026-09-11T23:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-09-11T23:00:20+00:00",
+   "title": "Indian Air Force pays Functional Level Visit to Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb09qNV9wVjhqdkI5VC1TSGRZX2RUQVFhY1dZOUxVU3J4RWNaNUNPMXh3TGdQNnc1Q0NXQkJUR0dTYVI3Nm0wTlpKOE5YVlBLRG05d203dHdTYlBueENzUHdSaXR5TUMxaGhubDhISzA1dlpvanVKc2NGcEVtN3pBWFdiSkF2N2s?oc=5"
+  },
+  {
+   "ts": "2026-09-11T23:00:20+00:00",
+   "title": "Meiktila’s rural agri-production road, bridge construction inspected",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOem14ajBfSmN0WG9ScjBRRkc4MWx1Z09WOF9FRzFNcXpNOU9XRlRKdVViSFZQWXJ6by1XM3BtMDBlOFlNbzFuZlkzME5jWjNXMEttZDlEaHVZTnpnaGdoQzdHd3MyVDUzZVZXMFkwZnlEaEFpaHFFaU9TNldDcm9yazdQTHpfRUlacDNRemV6d0dlSHduRnc?oc=5"
+  },
+  {
+   "ts": "2026-09-11T23:00:20+00:00",
+   "title": "MNREC designates Namsang as protected public forest",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPd3MyRHEydUhoUVJPSXVhc2dwTU5HS2tKTEhpZVlZMW53dWZaY0s5ZHdDZ1ZkRndha3VpNEV3Y29lN0NYc3h6QnU0c3Yzb2JWR0Uxb1E1RmFvOGtsbXdzYWdLZk5nbkN1OE5LNHFCU21qRVE1dWFwZHBIU1htSjNiZWln?oc=5"
+  },
+  {
+   "ts": "2026-09-11T23:00:20+00:00",
+   "title": "MSY village project funds disbursed in Zeyathiri",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jc2ZVdzMtemxlYzR2cC1jSU4zYVlXbjFBT0ZYNjdrNDlqTUFiNlFGRnZ6MDVXSl9hMHI3TmdIVHBUem9RcWhZdWl3SjM1UGluT0hZNW1laGk0Z1Ywazd5RHdvb09za01qZGNvTUhNMFRmdmpQd09VdUVTalRDQQ?oc=5"
+  },
+  {
+   "ts": "2026-09-11T23:00:20+00:00",
+   "title": "iFix Hero 2026 CPU Reball Contest set for Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfaTRrMG9ISWlEZzVfQlRmeUxvOGItVzB4SS1iWHhVR0hGeFJxMGo0S19uMnEzeEpqU1ZCUEJFOHdHNmVRSXpMbWtTaGVlSEcyNTN1RUlNNkJmRERab09HU0lRcHZSNjVDa3R4d29tS1kzMU9WMExJWUxVSGxQdVU?oc=5"
+  },
+  {
+   "ts": "2026-09-11T23:00:20+00:00",
+   "title": "Myanmar, India discuss transport cooperation",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9LdlBIX1NuZWpzWFhxdFVXS1hsTm96X2hubS1VaWxRZGRPX2FFRURsQlcyZ3ZnYW52azRNbmk4RWloRlNpN3BuaHNTbkluTmJVODR6QllfQjEyd3RaRFlqb0VaVU80eVhrc2c1VmxiRUwxaXBhc0hv?oc=5"
+  },
+  {
+   "ts": "2026-09-11T23:00:20+00:00",
+   "title": "Myanmar Ships 2,900MT Shrimp Abroad in Apr-Aug",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBNcGtFd0Q4NWFaakNMRERYVEtZMjB6TVBVM2RwcG91WEVHRDMwSGh6Q2F0N2M2VXlwaFBGdHFmUkZDaTkzc2ZQZmhfaXJrWnVGdVJPR3ZuS2NyeDRzMWEwaUJJc3I2ZzhSUXdqbGF0aG1JeFozdDV1emhn?oc=5"
+  },
+  {
+   "ts": "2026-09-11T23:00:20+00:00",
+   "title": "Yangon Police intensify efforts to prevent crimes",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCUUwyc25ISGdkMGNBdnZMSDk5VUNkd0lZYTROMG9ObWR5ek9zR25NenBVMHFUN0VfeVh5VXQyc0dDLUlfTnp1cmJhS0VlckNMQ1VKeS04azRta3ZSVFJTR3B3NzJOTng4dnphVHlJMzRzTVJKcGhNWU56N1B2MGs?oc=5"
+  },
   {
    "ts": "2026-09-11T22:30:19+00:00",
    "title": "Acting President of the Republic of the Union of Myanmar SSPC Chairman Senior General Thadoe Maha Thray Sithu Thadoe Thiri Thudhamma Min Aung Hlaing",
@@ -2079,62 +2135,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQzUxLThwX1RIQXpfeVc4UnpuUW1PNmZDdmM1b2ljdEMyeGxmOXhVck9IdkY1YnhRVGY5RzFyRkpkSEZLY3pQQllPMkhkZzdPLTlnODN6VGZpU0ZsdkUwMjkzYWp5MEdqcmZaNF9KZXNfTnk1S0Y4Q3UzWTR3aTlQUGVUaEdlbms?oc=5"
-  },
-  {
-   "ts": "2026-09-07T12:30:15+00:00",
-   "title": "Careers",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBqbVRtanZwX3dTa3ZLSlpHU1N4SllwamROV3RBUl9YLVVuajNJSHBhdmtoWDlFUFU3OWpkbFZTVkRDVWQ3bGt2Ng?oc=5"
-  },
-  {
-   "ts": "2026-09-07T12:30:15+00:00",
-   "title": "The Irrawaddy Business Roundup (Sept 17)",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbkRxYmdQdkFXbVFfMElkZGFsV0twQmItV01VMmlBNjJjUzdWNFY3MUR5VklkX01MZC1qbnRQcUlYSXBHVDdXNl9WNUp1Y05CODlvN3NNX2VubHRSVGYyNXBiR1JlLVlxQUEyVXBVd2VndW9IaFdOM3ZiTXdaNmZGTHVyMmY?oc=5"
-  },
-  {
-   "ts": "2026-09-07T12:30:15+00:00",
-   "title": "Interview With Kim Ghattas of BBC",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1TclVPODFVZ3F3cVlZWEdrM09DNlNmYmIzR3hxUXBCNWdoeTV0MUptbFlxMTcxNVptcm1hcUdYcEQ3T19kMkpOTU9tWFA1WF9NRlQwb3BnNVpyWjZZcDB2VzlkdDlROC1sMVpxS0tPSlZFZi1rRkJPdjF0Q2Y?oc=5"
-  },
-  {
-   "ts": "2026-09-07T12:30:15+00:00",
-   "title": "Letters",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12N3oyWUg3endiRjBoX2JKTTVIMnlnYTd3Q2VoaHl4UW9SVFh6b0JUUDBHbmcxMTB5LWNwYXJJUld3bDNyRmxlUzZBbWNPQW1la29sb18ybVJBdnRpM01j?oc=5"
-  },
-  {
-   "ts": "2026-09-07T12:30:15+00:00",
-   "title": "News",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5sTU02MzFpYmMwamRjT3VpZVgtZGhVcHlDY25ibDVveFpPSlFVMHRHejBfaHNuR05wbDRCczktS1VaVlNJQzl1RmNBTHdCME5VSENkTXlsSHBFY3Vl?oc=5"
-  },
-  {
-   "ts": "2026-09-07T12:30:14+00:00",
-   "title": "‘‘ဝန်ထမ်းလို့နာမည်တပ်ပေမဲ့ ကျွန်သာသာပဲ’’ - ကျားဖြန့်လုပ်ငန်းထဲပိတ်မိနေသူတွေ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c62mgrqg5jvo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-07T12:00:22+00:00",
-   "title": "Civilian landmine casualties increasing since Operation 1027 in northern Shan",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT2swdEFsMUZiaENEVjYzdmQ0eFRsdVlLeml3TEJuTkJ6ejJMMjRHcGJ4WVZpd1RkYmhTVWVIT2VOdC1RUnRTLWlLZ0tmSGFTQlo3ZEhRcW1mSVJzQVNlOXBNTUtVVHBoVlVWNC1neWRQaGFwNTJTd2RNT3RXeEpKVkNCLTd0SnYzTy1JMjYyN0d6Vl9UalhXOGJBem9tSDdkdWJsZzVJc2xzcDRMeFVPOHlqMA?oc=5"
-  },
-  {
-   "ts": "2026-09-07T12:00:21+00:00",
-   "title": "တကောင်းနီကယ်စက်ရုံအနီး စစ်ရေယာဉ်များ ရပ်ထားပြီး ကချင်သို့ ဆက်တက်နိုင်ခြေရှိ",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81015/"
   }
  ]
 }
