@@ -1,6 +1,76 @@
 {
- "generated_at": "2026-09-11T11:00:23+00:00",
+ "generated_at": "2026-09-11T11:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-09-11T11:30:17+00:00",
+   "title": "Urea fertilizers to be distributed directly to farmers",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUFhScjBsNGJleTc2MkpzZWtEa01uOGFFam04eUNMbFdNQUJVVnVUSjd3ZG1pVS1oZk85N0V4RmtDMmtGWHppem1Pb3pLbklSLUJHNEJOaGIySmhWQ0lhOVgxQ2pyWER0VUs4dzRuUHUzUmx5bmJTeWdsOXdGeGtqaGFZSk9BZw?oc=5"
+  },
+  {
+   "ts": "2026-09-11T11:30:17+00:00",
+   "title": "Union Minister Admiral Tin Aung San inspects relevant departments in Meiktila",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVmt4UXFxY2R3UVZBUG5QSHhuMkh2TWZ1ZHVyRTU0YjY1Wk51M3A1NlpwQ1QwUFN0dF9SSWtrbVJPLWtPbU1zRnNQbkhBOWd2OU9HZlVOVUx2ZUpTUHpfbkFJVUNxSTdZV1gwYm85bGRmZ0pVZ3VrRjVweVQ5YVV4RGdVT2c5VE9ocy1uNEF0NUFSR1ZuTG8zMGxBTVJqUGRGQW54WA?oc=5"
+  },
+  {
+   "ts": "2026-09-11T11:30:17+00:00",
+   "title": "Thanphyzayat wins third place of the 2026 ASEAN Smoke-Free Award",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZFNPcmhBcHRxVDRqNkVETkg2YUxlNi1RcHJSQndSYW5lNFFmUmdhdzNoc3RwZnpScHViYTRmcC10VTRON1lpZHdEdDRwSmx3M3AycWNNQUVVZDQ3VDZuWHZfVjA4WlRhUjF2V2ZvdUxrUl9maHF4RHBGNTY1V2wwcjJZRmpuMGtiT2JicHlnV09UVkE?oc=5"
+  },
+  {
+   "ts": "2026-09-11T11:30:17+00:00",
+   "title": "Efforts accelerated to control water inflow route at Ngawun Embankment",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOUluYnE4eml5Ri0tWnBlcWNiZC1ER3ZId0w4YldOUEhvYVU2ZzlRV3VDWHZkMzQzZ2RIM0J3X25vcmlkWHEzaTd0VHQ2MGlJeWhlcDZRR3ZyRzlmREhFZFFtME1RRTNOZVZUX3loSU5UMUJxeUROdDRMVGRGZWRWNW9lbF81bTVDNUFqTjJsMGJGQUpFS3p0WmZ3UQ?oc=5"
+  },
+  {
+   "ts": "2026-09-11T11:30:17+00:00",
+   "title": "“Back When We Were Little” to launch a nostalgic journey",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdUlWdFpwM1hmZVRBMkRxRUJCbVR0VE5QOFRoV25OYXV4bFpRZHc2d3NjVDZYb3pYSC1ZX3JYWEtjS0Q5SlZiVzZ5cWl6ckFXTHFJenRvRm1kVzlrcWtOaWg0Qm54c1VnTjI5STZkZDNKZENXdUZVY0xzQW93Ulg3aGswMENCdw?oc=5"
+  },
+  {
+   "ts": "2026-09-11T11:30:17+00:00",
+   "title": "MAI’s international flights to be postponed and some domestic flights to be moved to Anisakhan airport",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMzRuVUM5U3R5MnFNb2xUXzU4UWEzdHR2M0F1cGRoTXFIVkNaRWxDY2lzUENKcjJ3ZFJwa2NsM0VCeGpTMEVaMk5KZlA2RkRXdzFyZXlwWWJieGNObXBreEk0TzVYalBQaGNKLXlWN0h3ZDVvM1lwSzR4R0YxMWRlV2lrY2k4STVhOUoybXJIUnJrZ2VjTzg1aG45WjVHQWNBdERLTEFielJKR3NFM2RNa052Z3JEc2ZNT19xUzBSbW41bEEw?oc=5"
+  },
+  {
+   "ts": "2026-09-11T11:30:17+00:00",
+   "title": "‘There are so many needs’: Humanitarian crisis grips Rakhine-Magway border",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNTh4UlBaU1YyMG9qaDdwLXg2d1dfZWNsNVY5b2tLSklUazJaSXdvRFJPT25xNkhDU3JFSU5oZlpXRmxLeHFzbzVJYVprMElfUGF4X2E3TjUyUk9XdHN4Z0FqWHdiY3kzWkltWlp3NWJ6NnBKQnNLRkFjODRlOGJYOG1mR3U5UkJWMktOdWc5d0RyWkVQblQ5cTZUR2IxV19fSlVHWWVYdGNhZVk?oc=5"
+  },
+  {
+   "ts": "2026-09-11T11:30:17+00:00",
+   "title": "Myanmar tin mega-mine restarts operations: thinktank",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSlUtTk9zZ1pZQXNSNV9DNXBueGU5MWFzZjZQWndzdHJfSm5QN0FOVnVtTXdCVjluSnNBdl8wR21JZlN2ckFna0FxSzVsVWdKVjFrZ1h4cmFIaHlYMmJGeHBHWmhOVElxTG92VE4waHF0Vmw3Z1diZDJ6WldFalVWblpiZEVHMlp3a1ZTN09kanM?oc=5"
+  },
+  {
+   "ts": "2026-09-11T11:30:16+00:00",
+   "title": "Kachin Rebels Rebuff Myanmar Regime’s Peace Talks Overture: Sources",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTjNCMENhOEkxM19SZ3dlRjczQmltQUlOTDJIU1hHOGg4T2pEd3ZDczltT2taS0xmM25rVzJ5Q3k5SEdRd052YmI3WEdtMlZ4aGN2QjBDU1dzRTNWd3ljamt2WVo0cFBsNGZTLXJBNnEtbU16a2Rfd1RBYS1OLWpmREtkbGpYUkt5LXBqbXNQdGhOU2ZSa3VzUEZpTlFsTFpNWE1zaG0xODJpc1NPVFpj?oc=5"
+  },
+  {
+   "ts": "2026-09-11T11:30:15+00:00",
+   "title": "RCSS ဖမ်းဆီးထားသည့် PNLO တပ်ဖွဲ့ဝင်များ PNO နှင့် စစ်တပ်ထံ လွှဲပေးခြင်း မဖြစ်သင့်ဟုဆို",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81122/"
+  },
   {
    "ts": "2026-09-11T11:00:21+00:00",
    "title": "China–U.S. Anti-Scam Rivalry, Toxic Mining, and More",
@@ -2065,76 +2135,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOd1lpX05XM2V6ZmpFOWhpYmpMZDloXzNRcnYyVVVOTDg5Qy1JcjdQMzFZQUpXR05iYmVzeUJYelNNeGFzMzdBUUJFdUVvU3dqOUFQeEsyMmpjQ2x5dHFEZHVWbjJDeWUyMTY0Q21RYUVrNEIyVURJTg?oc=5"
-  },
-  {
-   "ts": "2026-09-07T09:00:26+00:00",
-   "title": "Letters to the Editor — November, 2010",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5XT2VieEdEWWZjY0VVMWg5TThuWlNPTFg4elJWSl9XRVlmV1BfUG9mMnpmOUlOSUlYeVN1TXBwM2p3a2YwTk44OFdnMm1aNE93c2lOT25jNlMtZEZfQTR2b3RiVGRzX1BlZzNkNnZZdW1wR1E?oc=5"
-  },
-  {
-   "ts": "2026-09-07T09:00:26+00:00",
-   "title": "Analysis | Peace Process Is Foundering, KNU Chief Tells EAOs",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWkZEQVNOeXI1c2lzek1iT1JDWVBndkVwWjRZbi1pWEJSMVA2MkpwcjkweVZMVElWeW4tUjk3UGcxMUJSWlBOa056YUJCYnFiMmF5Vi1XbHRfZU5pUWV1ZmE5ZlBYVFZMajBNanJUMEZZY1hjX3hzcGxxREdaNGR3UzZlNVExZVBodUhkVjF5UmNUc3EyU1pObg?oc=5"
-  },
-  {
-   "ts": "2026-09-07T09:00:26+00:00",
-   "title": "Educational Initiatives Program Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mRDI1U1ZwbTlXcHhFSDNDcno4U3Rra2hpTW5NRmdyUmFZbW52OWg0ZG5rdWFpejBMVWNxdkVaQ3pLUXdjRlhCTlJ0QjZjd2g3b3J2LWFjbFlMeWlvejRxbUNyaFUwV05jMXl0MkhPS1g?oc=5"
-  },
-  {
-   "ts": "2026-09-07T09:00:26+00:00",
-   "title": "ပက်ပုန်း Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbHBVUzNxWVV0amNud2U1WEU2NFRJTkhQZUJMVWl0emJlTmdxRHoxMlhDa1VDTGV3VHhsYUpUMzJDUlNYV2JHdXZ4dzhQaVpLSm9TeUhfRVphWHpITzY3N1Z1RXdlV2M2dDUwWU5pMEpkb3g5T1pJNzlYQy1XcmZWaHliVHVNUXNodTgybkt2VkVkTmxLRGY1YXRZTm9KVzdSZVhZVEtGdw?oc=5"
-  },
-  {
-   "ts": "2026-09-07T09:00:26+00:00",
-   "title": "An Historian Looks at Rohingya",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11ZF9nRllHWTFLX0FGRUpRZTk4QkthYVdiOVpTZjFjOXNaRTJnM2FuT0NGdXd0VE1pUWVZcHJ1NEwxZFh2YTFkS2VZQVAtS21sdEdYMEpqZXhvc1I2aE1hVw?oc=5"
-  },
-  {
-   "ts": "2026-09-07T09:00:26+00:00",
-   "title": "Dateline Irrawaddy: ‘Tensions Are Still Running High’",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPME9RSWxrUFRPSzZJUk5wbFBIUmlyM29GNmNFVFZRRDFoQVJMbjdoN3l1NFM1TDhpclZISlVVbnQxSGw3emdDNkl0eEpUVGw2YWJ3YWFVWllvcERZbUpWYnRfRFFjMWEyYTNZa1pMVmtHNUpLQUxnUVRTZUdLbkJIUmxwOVhGajljckI3di1Vc0REMmstZ1M4?oc=5"
-  },
-  {
-   "ts": "2026-09-07T08:30:19+00:00",
-   "title": "Myanmar Parliament Approves Constitutional Amendment Committee Report",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTDRXVzQ2MThxVnJPcmwzVUF5VzBfM25PVTdfOHJ3R3ItTE93cDdqNTBMQS1DMjBUMmN1eUNQV296b1c2dEdSYVl4Q3A4UDg5SVJ6VkhYSlpYZGhGTmpFLXNKOXdRb0RiVzdXNTBHTmZnVVp1MVp4anY1ZmZSbUFlTUgxanY2dS0yVHNQVkRLMDNOMDJRbzRCdlJkZFJZdFo0N0xsUlotOXVZcDhIQUNHaA?oc=5"
-  },
-  {
-   "ts": "2026-09-07T08:30:19+00:00",
-   "title": "Pale People Defense Force Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0MWFHR1JBYUZPenFXeUVuTHJLRDJ4SnFLQV9tMkVHYWxnMXBSUTYxejhhX1V2T05RaUV1ZTRiSzA1c3BLUm1WZVBXVzNlU0VDMlZJaDRDY2R5aHRlLUlqNm5wc3otdw?oc=5"
-  },
-  {
-   "ts": "2026-09-07T08:30:19+00:00",
-   "title": "Echoing the Party Line",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxbFNwN2RVellCQ09Gb2RXcEFWTXh6VW5KNTF4WHYxcHM5NEhDR2xxVlRzQTlJbHQzblF5WlF2Q291aHBPVEVxc1pIUWtFR1h3VWx1ZFY3eGlqdnpVYy00?oc=5"
-  },
-  {
-   "ts": "2026-09-07T08:30:19+00:00",
-   "title": "Irrawaddy Business Roundup",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CcmMwX0xEWXp5YkRONnBRLVdMTk55eVluUzcyRzhLbWRpWjQyS0ZfLXBvZnNRYnJUV1pITk5GM1gtOWw4ZE54cGd0cFJyTU03cHBIYWV6UEYzMG9Eb2NybVlBOXh0M0VtS3ItV3Fqckx5c2lmSUJfN2tsSQ?oc=5"
   }
  ]
 }
