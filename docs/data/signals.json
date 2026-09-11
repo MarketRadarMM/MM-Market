@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-11T09:00:23+00:00",
+ "generated_at": "2026-09-11T09:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-09-11T09:30:20+00:00",
+   "title": "Thai Abbot Arrested in $2.8-Million Embezzlement, Sex Scandal",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTnhud3BMdjRSYlRkSWNxbm9EZEVoWTNJNFRybXR4QkxsejNzdmNhbU14U2hCV3pNWHVIeTRIMEh0N0E5alFXN2tlT3RHbzRxWmcyYms4enhTLUVYZjkyWGhTbnVBcnFUb2t4VHJlNjNSYUNiV3ZQTW1hRGlHTlR0LXJRRDZOVHNVenhpRHBKRTYyLWNoTGJhMGR2MlJER2x1X0E?oc=5"
+  },
+  {
+   "ts": "2026-09-11T09:30:17+00:00",
+   "title": "အမေရိကန်ကြားဖြတ်ရွေးကောက်ပွဲ - ထရမ့်က အရွယ်ရောက်သူတိုင်းကို ဒေါ်လာ ၅,၀၀၀ တကယ်ပေးနိုင်လား",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c0klnr8me81o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-11T09:00:21+00:00",
    "title": "Mandalay Airport Shut After Resistance Drone Attack: Security Sources",
@@ -2121,20 +2135,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kOHJIUVR2MUxzNXdIUzNkd0NvY3RHckpKVjM1Tnd1dmJmbWdRRzZ6SXNrbzR1S1V2dHg0N1VvQ0Z3dEFIRUNkbHBhQnZ3czdqTmV3?oc=5"
-  },
-  {
-   "ts": "2026-09-07T08:30:19+00:00",
-   "title": "Land Speculation Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uZDZ1ZzVWRkZLQzZEbUxEUlZCNDlLc0RrOHNkcVFvMjJSaUVGUlVpdjNQNExnMmVfVmZFajVVWjZnUHJtQTNVVHNFNXdtR1N1bTk1OVNhM2VRQQ?oc=5"
-  },
-  {
-   "ts": "2026-09-07T08:30:19+00:00",
-   "title": "The Irrawaddy News Magazine [Covering Burma and Southeast Asia]",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RM3RwSzd1WktFTHhGeUUtRkNCWnJYNi00TDRGOVRPQnlDYm9rdXQ1VmRUc2I4a2t3cnVBNU9VUkFGZk9ad0xSaEVIV3FlY2lBV0NlS19CN3RvMV82LWxNOTVYdTNrTTE1bkNQRVpTQWlUN0l6aFNmbzFjUQ?oc=5"
   }
  ]
 }
