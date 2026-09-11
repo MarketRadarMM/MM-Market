@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-09-11T08:30:23+00:00",
+ "generated_at": "2026-09-11T09:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-09-11T09:00:21+00:00",
+   "title": "Mandalay Airport Shut After Resistance Drone Attack: Security Sources",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdGpId3JjWE9wYUpqTFF2WTN1OXEzMlZXaEZnWnhkVjNsR3RPNVg2d0J5YksxUWpDQkV0WlY4dkRWWDhJeS1QMktyaDR2ZzlwZjBtUnZyb3p2RFB5dXlzbXUtZ0xmRnVJN1Rkclc5ZWxCd1Y1emt2a0cwbVhjYW5FR3V0c21WOXBGNV9fR3pOTTdNZThRTE42WjBKQ3BqOFhVU3dEUHpzZGZodTJjQWJZ?oc=5"
+  },
+  {
+   "ts": "2026-09-11T09:00:20+00:00",
+   "title": "ပိုးမွှားမကင်းရှင်းဟုဆိုကာ မြန်မာ့ဆန်တန်ချိန် ၂၅၀ ကို ပိုလန်တွင် ရောင်းချမှုတားမြစ်",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81108/"
+  },
+  {
+   "ts": "2026-09-11T09:00:20+00:00",
+   "title": "Myanmar resistance drones strike junta airbase near Mandalay airport",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/myanmar-resistance-drones-strike-junta-airbase-near-mandalay-airport/"
+  },
   {
    "ts": "2026-09-11T08:30:22+00:00",
    "title": "Yangon expands poultry farming",
@@ -2114,27 +2135,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RM3RwSzd1WktFTHhGeUUtRkNCWnJYNi00TDRGOVRPQnlDYm9rdXQ1VmRUc2I4a2t3cnVBNU9VUkFGZk9ad0xSaEVIV3FlY2lBV0NlS19CN3RvMV82LWxNOTVYdTNrTTE1bkNQRVpTQWlUN0l6aFNmbzFjUQ?oc=5"
-  },
-  {
-   "ts": "2026-09-07T08:00:20+00:00",
-   "title": "Workers’ Conscription Fears Leave Mandalay Businesses Short-Staffed",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb2YtZlpRUXB5dUwycHRuVDlEbW8yZzduRkxiYVEzbGRycFZKZHdYTUdfQ3FlT1Zwb09ZeEhHVkpyb1FselFEVG0yQk1lNFp5LTFIcUZucE1fOG00dTNRY1FERUJjMlhpb2poQWRCdC04aUhjQ1dOeGdxY3FOQ2EwZzNNTUVLeWxnVk01OFNvWVNXamJCQmNoUDY4MjFhdXd3eEg1TDQwMHhrNlFh?oc=5"
-  },
-  {
-   "ts": "2026-09-07T07:30:21+00:00",
-   "title": "Chairman of State Security and Peace Commission Commander-in-Chief of Defence Services Senior General Min Aung Hlaing inspects security measures in Triangle Region Command, delivers address to officers, other ranks and families",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbmFMUlQwX2N0YVdqZ0tYdlR5OE1sQWFmeGxuLXFPNm9PWGFnLWVCX2E0a3BzS3o4U005MDktN0QzUTdwblBVQ2dIVEd3N2JqQVBWRlZDWW9zem9tMEdDRzBsdG9NVVUtSm02N2tyMnB0V3JGWk5XWUVEODdwMGRsZTNoaFl0S1VWS2ltQ3RUTnFqMUJJNGphOUxwVW41WndnVVBQUDdZUEI2UC1pLVVGc2FZc2lmbnNKd2kzVUdPVjQ4Qmc?oc=5"
-  },
-  {
-   "ts": "2026-09-07T07:30:20+00:00",
-   "title": "\"I think it's rusted all the way through\"",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5QzdvSVloWFFhSXBVbjRsUGw1YlZjcndTbVZuR1JXUHh0OXYzZmZmUUdLeTdvdDE0UXFCMjhoUVRSWnhzSDlYYmxPT3BYckpxdWplSGJFTkhKbGtUdktqNg?oc=5"
   }
  ]
 }
