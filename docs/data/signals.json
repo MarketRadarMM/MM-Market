@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-12T05:30:19+00:00",
+ "generated_at": "2026-09-12T06:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-09-12T06:00:21+00:00",
+   "title": "Myanmar Army Unit Accused of Rohingya Atrocities Used in Deadly Crackdown: UN",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUklSMi1BWTlyTWxMY2prLWZiVm9HN25KSW5rakIwVFd5QmRGSjFMbFZJM3gyN3FWNVFQLTVRYkFuaVpnM2M5SlBPc3dGXzR3aVdSbmJleHByNEVVcTVJVzFndlRIZlR3b3V1OHB5LUQwRmNabk1Ic1NhRUM3N1prMFJxcWVjZy1WUDJNTHV2WlJDWHNQUVplUUlfX2xGR0doaExDYWxCVzNjdUhoUVFFSURn?oc=5"
+  },
   {
    "ts": "2026-09-12T04:00:56+00:00",
    "title": "12 September 2026",
@@ -2128,13 +2135,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQnlSUk1hS0tDZmtSRWRpU2tvN1dTVFJaVUllUWxEcEtEOExLWC1VcFVoM3o4NHJINWRsZ2FaQWphN3VLNExaNmFhNE84M0FFaGpLR2c0eGt6dHN1NTIxSFJzclgtd3JNcUtTb0NWZzQ1SVl3Z09LVzFibEtheTNCc1YyQ0VxQUpvUjVRcWoweFhwTzVTejN4SGJNN2JJVDZCQy1FR25nVnhFOVRHazB0eG1yTlREUQ?oc=5"
-  },
-  {
-   "ts": "2026-09-07T13:00:21+00:00",
-   "title": "Mogul, Minister Among Irrawaddy Election Hopefuls",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcFVieXZPR1hZbXU5SDZfQUpaYS1qRzAzdjhrRVJpRGY0b3pBT25RLVBTRGhtb3RrSlNaS1R4dFZ6R1pGdi04eHlJbldiMUhIWnFxSW0za1BvYTNnMkZsM0ljck5wUmtoUDJZMXJmNWR4V2RXLVFhcjB4YzRySWxnV2NQODUxWEJpTlJ5aGNDdUJ5dElWYzJZ?oc=5"
   }
  ]
 }
