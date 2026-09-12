@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-12T02:30:19+00:00",
+ "generated_at": "2026-09-12T03:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-12T03:00:19+00:00",
+   "title": "A ‘brotherly’ fight: Chin factions battle over Indian border",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYWE0eGtLRGtsX1B1cFhzZVpLenNLS2dfR1NNUTUzVUxHZ1dTVkxBQWZqSVVNZ1pRVUp2Xzlma1BzZ1hnN0xWeWt6OFFQenpkWGs0MGZnMERiNFRCdXprMV9ieEtRNVI4VFNiYjZWeHZ3MURfRHI2Qko4Ty1KTXlCV21XcFdkN2IzUkpVbkl6VmR0NGp6Wmc0dA?oc=5"
+  },
+  {
+   "ts": "2026-09-12T03:00:16+00:00",
+   "title": "စက်တင်ဘာ ၁၂ ရက်သတင်းများအနှစ်ချုပ် - မြန်မာနိုင်ငံဖွံ့ဖြိုးတိုးတက်နေတယ်လို့           ဟွန်ဆင်ပြော",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cy0zy9g495ko?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-12T02:30:17+00:00",
    "title": "ဒီတခါ ထူးမှာလား သားပုရေ",
@@ -2121,20 +2135,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83cFZtWlhpY3hkNjlNSjlSZlAxaHFBVzFIemF2LWRVeE1CekgwUFZ2UUd6cExCVTI3bWhVMWhlMzFpa1EwYnlrc2tWS2dvSHJOcFJzX0Rn?oc=5"
-  },
-  {
-   "ts": "2026-09-07T13:00:21+00:00",
-   "title": "Min Aung Hlaing Courts Vietnam for Business and Military Ties",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS2paT2tPb0w2di1MYWdZbUtIdkU0djQ3Z081enBfTmVtMElyRVVRdVpXQ2I0WVdBZnJ0QWNLOGJFaEZUWnNRRU9yVWVGc2RoMXNuazdqdEF4SlpCd0xPRzFyZjFoWl9IUDVzSkt1X3hack1fMklEc1dQQ1d4YTQyY0VNWS01QXNVU2VWMGlLMnRVcXJ1NnBHNWVrM2JZekNFc2FNc1RB?oc=5"
-  },
-  {
-   "ts": "2026-09-07T12:30:15+00:00",
-   "title": "Page 111",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QZ3ZDOXFYS08ybVhRZ2dFbXNxRk5HOUhvbVRkWk8wdzRVanc4YTdpRVhuX0pBdkNCYS1WUm9jdzV1czRxbG9NMUdyaEYwT3ZHcUFwUQ?oc=5"
   }
  ]
 }
