@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-09-12T10:30:23+00:00",
+ "generated_at": "2026-09-12T11:00:29+00:00",
  "signals": [
+  {
+   "ts": "2026-09-12T11:00:22+00:00",
+   "title": "ထိုင်းရောက်မြန်မာသန်းချီအတွက် စိုးရိမ်စရာဖြစ်လာတဲ့ ပြည်နှင်ဒဏ်စည်းမျဉ်းသစ်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/czrjm460y28o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-09-12T11:00:22+00:00",
+   "title": "တချိန်က ''ဥက္ကဋ္ဌကြီးမော်'' နှစ် ၅၀ အကြာမှာ  ''ဆရာကြီး''အဖြစ် Gen Z တွေကြားပြန်ရှင်သန်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cgjqyw42718o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-09-12T11:00:22+00:00",
+   "title": "ပဋိပက္ခကြားမှာ စာသင်ခန်းတွေ မပျောက်သွားအောင် ရုန်းကန်နေရတဲ့ဆရာတွေ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cdx0gv9p7xwo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-12T10:30:22+00:00",
    "title": "‘Social punishment’ campaign turns the tables on military elite",
@@ -2107,34 +2128,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRTQ0bW1aY2Zjb2dQZlRzMUk1RzBNeFJ1VjlZMERVTHQxZ3NVTGd5YlhhSkFaV01tSTU4Vkk0a1BONXJySlh0YnJRV3FxYTZ3d29Ha0tSZDk2YkxUa1BQNUU0dlZQbWtRSzFzYnNKVGtqT081ZlMweFRlbmZTNzlJSmQ1ZlNEZmQzVUE?oc=5"
-  },
-  {
-   "ts": "2026-09-07T13:00:23+00:00",
-   "title": "President of the Republic of theUnion of Myanmar U Min Aung Hlaing inspects Diesel Locomotive Factory (Mahlwagon) of MR, Ministry of Transportation",
-   "source": "Myawady",
-   "markets": [
-    {
-     "market": "fuel",
-     "direction": "neutral",
-     "confidence": 0.5,
-     "rationale": "Fuel-market story — read for direction"
-    }
-   ],
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdGpBV0dTUkxFamMyQ1J6dlNYVzhuTTBjUzVWQ3AtRnJUXzZDZjM0ZXlIRWtJeEJQaGh1V3Q1d055WlZVcG9YRjRxcUV3WW9ZRlBqUGV0OUhoX0ZEbFlic0VjY3Axd1V3ektrRFEtVG16SEtTazBUZEVfYUlPRnh0RlRzMXZYWFJvSXEtaTNyYWVEZnFtc19kUjJ5RDZUSV91bjdCbzZFUjdMdjEyeHBqeTBKWG5QMl9WdWxvLWh5MXJLdE0?oc=5"
-  },
-  {
-   "ts": "2026-09-07T13:00:23+00:00",
-   "title": "President of Myanmar U Min Aung Hlaing holds talks with Chairman of the National Assembly of Vietnam Mr. Tran Thanh Man",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb2RjeFFhUGw1U3lHTjl1NTN6YUVxN2pBUF9XU0lXaDNpRjBYZkxvQUFtQ3VfV2g2cUdibEl0ZTVLZkFHNy1wODhxdE82aEFEaFpVN25JS3lqWU82ZEY3S3ZfQXF4VEE1ZXBFSlMzc3NKN1FYUmhPNWUtbDluOFRmdkpjTmh1RlpJUThoUi1MckFQUGNRd2IzU3UtT1I0eXQwbVpIMUdaaUNjREl6LUJSSUxwaV9hUk9aa1FtNy0tanE?oc=5"
-  },
-  {
-   "ts": "2026-09-07T13:00:22+00:00",
-   "title": "Banana waste consumer goods trial-export expands to ROK besides China",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZTNnN281UGxUYk5aNDJvckhBV0VVbEVaRE9aWDRicDBHV2ctTW13VDdIdVNuWDNfNlJvdlMzdENSSUtHTGU3ZldnYmhiS0pWWURQR0thSmNrVC11ME1KejBXeGxSb0lodHNBTjUzbWhqWXdGa1ZnOS1RNzhOQzNpUlBIM0VNa0hWdzMxMGd5TE0yd3VRUUF1cF93?oc=5"
   }
  ]
 }
