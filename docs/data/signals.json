@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-12T02:00:22+00:00",
+ "generated_at": "2026-09-12T02:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-09-12T02:30:17+00:00",
+   "title": "ဒီတခါ ထူးမှာလား သားပုရေ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81135/"
+  },
   {
    "ts": "2026-09-12T02:00:22+00:00",
    "title": "Myanmar Nets US$225M from Fish Exports to 40 Nations",
@@ -2128,13 +2135,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QZ3ZDOXFYS08ybVhRZ2dFbXNxRk5HOUhvbVRkWk8wdzRVanc4YTdpRVhuX0pBdkNCYS1WUm9jdzV1czRxbG9NMUdyaEYwT3ZHcUFwUQ?oc=5"
-  },
-  {
-   "ts": "2026-09-07T12:30:15+00:00",
-   "title": "Page 3661",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFZnB1ZUx4Wk13SlJ0RDUwa2l2a1JTVlVzV19IdWxNcHBKRkJEWHl5TnNFVG4zZ0JRbkFkb29ERVpRckx5S3p1NWFGUHRQMldRZ3J6bk5n?oc=5"
   }
  ]
 }
