@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-12T11:30:18+00:00",
+ "generated_at": "2026-09-12T12:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-09-12T12:00:19+00:00",
+   "title": "ဂျပန်မှာ အလုပ်ရှင်ကိုတရားစွဲတဲ့မြန်မာအမျိုးသမီး ဘယ်လိုအနိုင်ရခဲ့လဲ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c2e0mw80ge8o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-12T11:00:22+00:00",
    "title": "ထိုင်းရောက်မြန်မာသန်းချီအတွက် စိုးရိမ်စရာဖြစ်လာတဲ့ ပြည်နှင်ဒဏ်စည်းမျဉ်းသစ်",
@@ -2121,13 +2128,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tNnVwQjY1QVBkQ19HeFIxUmZ5SVhIbzF4cm9jUGFWc3lTZG0yNDVmN2UxOFhaeEk5WEFGQUt4UklsT0hCRzQySmNsU01wLVFPM0hDNXN3T0NGMktpdUg4SmlNbnVRbHVPWDlNdl9wY2Z1YTZ1U3M2b1FJdlZzaFU?oc=5"
-  },
-  {
-   "ts": "2026-09-07T13:30:19+00:00",
-   "title": "The Irrawaddy Business Roundup (February 1, 2014)",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRTQ0bW1aY2Zjb2dQZlRzMUk1RzBNeFJ1VjlZMERVTHQxZ3NVTGd5YlhhSkFaV01tSTU4Vkk0a1BONXJySlh0YnJRV3FxYTZ3d29Ha0tSZDk2YkxUa1BQNUU0dlZQbWtRSzFzYnNKVGtqT081ZlMweFRlbmZTNzlJSmQ1ZlNEZmQzVUE?oc=5"
   }
  ]
 }
