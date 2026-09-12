@@ -1,6 +1,41 @@
 {
- "generated_at": "2026-09-12T20:35:33+00:00",
+ "generated_at": "2026-09-12T21:00:36+00:00",
  "signals": [
+  {
+   "ts": "2026-09-12T21:00:35+00:00",
+   "title": "Flood recovery measures underway in Kyonpyaw",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JTTFvV0c1Y21oQnVJUXVJMWNxT2JjTzRuTEpKend6a0paX0tPZ2JVelU5U0ZfTHQ4eDVudEZsMFJDZnp3Y2hGemJwWFBiaDl6bEl2MnNWSC1UT1l4eHFUSWFRdkFiUDB4U2hlU1AyWXVfTlE5T0ZrQQ?oc=5"
+  },
+  {
+   "ts": "2026-09-12T21:00:35+00:00",
+   "title": "Ayeyawady to implement annual riverbank conservation, protection works",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaW41NUNfSG9zMkZhSzNfdEZXaF9USG03SzNDdGl6Uy12YkN6cFBETGQwR2V3c3ZUTFY2TkFlUHhoSzJiaHdDanVPNmFZMUZXcjJIeDl1YWNPVnA5OFBmSTdqR2FWcjhDZEVTQVhaZExaY185MWhLQjdMSDlxcE41blJiaUswbktUWFhkS3hfZ3VuemY1d0Utbk5R?oc=5"
+  },
+  {
+   "ts": "2026-09-12T21:00:35+00:00",
+   "title": "Tenders called for materials, machinery for Ayeyawady Bridge (Thayet-Aunglan) project",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPREF6UVFNdjNlWEctcXZaQ0JNR0tDSk9iY0dxUTQ1cWlMV3hJN0NqSXNvS08wYWI5Q203UGc4MHM5QTZXckduZkxtTlFES1AxdTZFdnZRaGJLODhCZWgtWXktR240clBTcnJxVng0T25TMU9sd2NUeHN0WHh5dGZScG1EMkFVMFZ4dXRxQ0RmNTUwNTBKOVhUSDlJWkNzT1JSMFR3NWNoUXJxbzQ?oc=5"
+  },
+  {
+   "ts": "2026-09-12T21:00:35+00:00",
+   "title": "Staff capacity-strengthening test and agri-awareness discussion held",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMW91RUpXOXFSY1JkcjJGS0k0ZVVJb0VEYUkyWFhORktscDd0cVBvVUlvYy1KNDU1cE5XV0ZLM2ZHa3pMZUpMNDR1RF95MDdyeHlQeVZCX0NvSVlsYjQwZmhXWmJ2d3duWndqclpmR1V6VG55RmVUR21BNHVLV0VBVERXbDF4WkZ2WEVpLXpFalZXMnJYaXNfeg?oc=5"
+  },
+  {
+   "ts": "2026-09-12T21:00:34+00:00",
+   "title": "Min Aung Hlaing Appoints Female Mouthpiece as Myanmar Regime Bids for Legitimacy",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNXdIYnZPZnQwNEI3R3cyQ2xaVXM1ZEE4VmIzaWNyaGtyZnE3OFh3Sk9XbGJRQUJaSnN1djR1MHpIdDRVVFpoX0NWc1cwUUZTaEJaVlh2Rl9ZajUxZm91clJjUGdhUUhYWUZNQnNBRENtazdBaGxKWFNkYWtieG9WLVM5RG5ZbWdCVU9sQnFQMVZxb1pIZk5zTDU0a0d5NVhtRjZXT0pXb2tsZkFoZzRuNk5oTUp2NTJpcW1fN2FLbw?oc=5"
+  },
   {
    "ts": "2026-09-12T14:00:21+00:00",
    "title": "- yktnews.com",
@@ -2093,41 +2128,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/c1k2l2jyl7ko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-07T14:00:19+00:00",
-   "title": "ဒေါ်အောင်ဆန်းစုကြည်ကို ထောက်ခံခဲ့တဲ့ မင်းသမီး Jane Birkin ပိုင် Hermès Birkin အိတ်ဒေါ်လာ ၁၀ သန်းကျော်နဲ့စံချိန်တင်",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cj9xerr883xo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-07T14:00:19+00:00",
-   "title": "အခွန်စည်းကြပ်မှုနဲ့ အိမ်ခြံမြေဈေးကွက် အလှုပ်အခတ်",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c5yrypn5ryqo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-07T14:00:19+00:00",
-   "title": "9/11 - ၁၁ စက်တင်ဘာတိုက်ခိုက်မှုမှာ ဘာတွေဖြစ်ခဲ့လဲ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c9dwj9j3ezeo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-07T13:30:20+00:00",
-   "title": "A cute baby donkey born at Yangon Zoo",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1DbVEzdlVUdVA2bC1Nd2tnVjR2X3JlZmlRSVZCVHpsOTc0c3paSnZJT1c5NjBSbzhINGdFQm5pTVEzSENITVVYOVRB?oc=5"
-  },
-  {
-   "ts": "2026-09-07T13:30:19+00:00",
-   "title": "Megumi Kaneko visited Rangoon’s",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wek9aSmI3Y3Q3WmhRZjZBa3pGbGVjWlktV0FzRmxRVHBoamNDMF81SlctNWs1U0QxUGRNVzlrdnM4dTQyVzRNLXM4NGZTZ25iTmd2T1dyQjkyQk83QjVGbDBZQlFWeHFTM2FPQ2NQeWY?oc=5"
   }
  ]
 }
