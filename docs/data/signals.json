@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-09-12T21:00:36+00:00",
+ "generated_at": "2026-09-12T21:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-09-12T21:30:18+00:00",
+   "title": "MPC holds fake and false news awareness talk",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4yZzlGcHpqcWhnLUFTRW1uYXNkVzN0WWRqOG9wV2V5ei1DUTFpTFR5WlF3dlo1SFFYbGZUMjA1dlBremw5ZUJWX3RCS3hIdm9vVlk4ZVI4ZkFpblpKd1hRdEx5cl9nMVNZclROUnF6Qm5sQ00tdUdnOQ?oc=5"
+  },
+  {
+   "ts": "2026-09-12T21:30:18+00:00",
+   "title": "Entrepreneurs Tap K100M Loan for Cotton Gins",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RZlRwUExLN2drNlRoWXdRYmloZndtbkxRWlBQcXlJSURXRk9xY2pMS1p4S0ZGVEZzWWh6Zks3NjVqOEowak12T2NtY3BNWTc0WE1UZkJQZDBhdV9NaEdjbWJKYjNJMThMdHZ2Zl9Sd0RoR0RpbXhkUg?oc=5"
+  },
+  {
+   "ts": "2026-09-12T21:30:18+00:00",
+   "title": "13 September 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBnZThqSUVQSXp2M3duSDFzMTMyTHBoRnhnRGVHX3RGZUtvemtESHdfYlEtNVE3UDItNVlka0hNcjhYc29uZGFoTGJvZ1dSV1p6b0V1bA?oc=5"
+  },
   {
    "ts": "2026-09-12T21:00:35+00:00",
    "title": "Flood recovery measures underway in Kyonpyaw",
@@ -2107,27 +2128,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdWFjMGNxOGFXN0NZckdlUWJPck5XRUtFSTFjckFSbUZhSlV1VzNRUlYtSkgzUUg1V2x6RUtiS1lwX2lKNlN3bXF0TUNSTEN1Nm9xVG01RURpWEdkMGFZcy1tVmtOQTlGVlFwRk82Wm80SC1pOTFaRlQ0cFZKT1hIdzVURTJUS2FUSjN0Y29STVFzb1VLZ0xV?oc=5"
-  },
-  {
-   "ts": "2026-09-07T15:00:18+00:00",
-   "title": "Development",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oUElqbk1KbDlBWGZBNUNQT1NYR1AtQnlRcU16SloweUVvdE1Fd0VWem5jOURRMXdMSjlLajIxVGpPeUJMdng2Um5mVHU5LWpXNHdFZ0NfRHJQTUZyNEZ1Wg?oc=5"
-  },
-  {
-   "ts": "2026-09-07T15:00:18+00:00",
-   "title": "UN: Burma Faces Risk from Disasters",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CdUFNekdHUUlWa29Rb19IT0VyR19UdjR3Ql9iRDNtazJoUGZqV0J2RmluUVBaTFZXTThQWThocU9yV1lCX3dMeXdzUTNuMzdrRVBDenZqY0ZwS0d2R1M2eVF3emU2ZEdH?oc=5"
-  },
-  {
-   "ts": "2026-09-07T14:00:19+00:00",
-   "title": "\"ပိုက်ဆံပေးမှ ထွက်နိုင်တယ်\" - ရန်ကုန်လေဆိပ်က ခရီးသည်တွေရဲ့အတွေ့အကြုံ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c1k2l2jyl7ko?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
