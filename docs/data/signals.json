@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-12T22:00:22+00:00",
+ "generated_at": "2026-09-12T22:35:42+00:00",
  "signals": [
+  {
+   "ts": "2026-09-12T22:35:42+00:00",
+   "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing holds talks with President of the National Assembly of Cambodia",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa2lINjg2QXo1cVBIQWNFWHdXSjcwVFV2X0ducUVrS3k3SmpBR1I3QzNUQnF5LXhDQ3RzM2V3WVlOWXg0TmNsYUpiMnp4Z3NNVnJoSHM1V2FYc2NOdWxVQjVBMVRIak5GdzNaeXRsM0p1eFpBQTVLU3N2UzE0VkRvZlEtTVF1S2F4TTFvNnBFOFpoRjRtQ29EMnNhVV9nUVJXeXVIV2ZnSkhVVndRMWgtMVBmcXRIWVlHbGhQQjRzQQ?oc=5"
+  },
   {
    "ts": "2026-09-12T21:30:18+00:00",
    "title": "MPC holds fake and false news awareness talk",
@@ -2121,13 +2128,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPamJzZHRJOC1tX05PQ3NXeGhzbWpGRm5XNmRLM3lUemU0T2V3YlREWFRxQUJLV1dtYXJWWkYwTF9oZGk3VVhnQ3FQX1d0dGhGbGZUZHp0QkJqTC0zS2lzVGFhMFhuVmtkNzB2SlE3RG1ScUJhRG5KNGRydTFXckdpTmhpU1RZRjZEaWdfaTdtMA?oc=5"
-  },
-  {
-   "ts": "2026-09-07T15:00:18+00:00",
-   "title": "Union Govt Cuts Irrawaddy Division’s Supplementary Budget",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdWFjMGNxOGFXN0NZckdlUWJPck5XRUtFSTFjckFSbUZhSlV1VzNRUlYtSkgzUUg1V2x6RUtiS1lwX2lKNlN3bXF0TUNSTEN1Nm9xVG01RURpWEdkMGFZcy1tVmtOQTlGVlFwRk82Wm80SC1pOTFaRlQ0cFZKT1hIdzVURTJUS2FUSjN0Y29STVFzb1VLZ0xV?oc=5"
   }
  ]
 }
