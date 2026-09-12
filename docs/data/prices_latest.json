@@ -1,11 +1,11 @@
 {
   "source": "community",
-  "fetched_at": "2026-09-11T14:45:23.400350+00:00",
+  "fetched_at": "2026-09-12T02:45:21.633718+00:00",
   "status": "ok",
   "confidence": "amber",
-  "posted_at": "2026-09-11T12:41:12+00:00",
-  "post_date": "2026-09-11",
-  "age_hours": 2.1,
+  "posted_at": "2026-09-12T02:30:21+00:00",
+  "post_date": "2026-09-12",
+  "age_hours": 0.3,
   "labels": {
     "gold_16pe": {
       "my": "အခေါက်ရွှေ (စနစ်ဟောင်း)",
@@ -38,24 +38,16 @@
   },
   "unit": "MMK per tical (ကျပ်သား); ရောင်းဈေး unless marked",
   "values": {
-    "gold": {
-      "gold_16pe": 10130000,
-      "gold_15pe": 7150000,
-      "gold_16pe_buy": 10030000,
-      "gold_16pe_new": 9920000,
-      "gold_16pe_new_buy": 9860000,
-      "gold_15pe_new": 9330000
-    },
     "fx": {
-      "USD": 4390,
+      "USD": 4380,
       "GBP": 5920,
-      "EUR": 5080,
+      "EUR": 5090,
       "SGD": 3440,
       "AUD": 3150,
       "AED": 1190,
       "CAD": 3150,
       "MYR": 1070,
-      "THB": 132.6,
+      "THB": 132.5,
       "TWD": 137,
       "JPY": 28.5,
       "HKD": 555,
@@ -63,20 +55,18 @@
       "INR": 45.9,
       "KRW": 3.2
     },
-    "wg_usd": 4310,
-    "ygea": 7150000,
     "fx_detail": {
       "USD": {
-        "buy": 4320,
-        "sell": 4370
+        "buy": 4330,
+        "sell": 4380
       },
       "GBP": {
         "buy": 5810,
         "sell": 5920
       },
       "EUR": {
-        "buy": 4980,
-        "sell": 5080
+        "buy": 4990,
+        "sell": 5090
       },
       "SGD": {
         "buy": 3400,
@@ -99,8 +89,8 @@
         "sell": 1070
       },
       "THB": {
-        "buy": 129.5,
-        "sell": 132.6
+        "buy": 129.2,
+        "sell": 132.5
       },
       "TWD": {
         "buy": 129,
@@ -127,6 +117,10 @@
         "sell": 3.2
       }
     },
+    "gold": {
+      "gold_16pe": 10130000,
+      "gold_15pe": 7150000
+    },
     "fuel": {
       "MDY_92": 3865,
       "MDY_95": 3970,
@@ -136,7 +130,7 @@
   },
   "source_disclaimer_my": "ခန့်မှန်းဈေးသာဖြစ်ပြီး တစ်နေရာနှင့်တစ်နေရာ ကွာဟနိုင်ပါသည်",
   "source_disclaimer_en": "Estimates only; prices vary by location",
-  "posted_at_mmt": "2026-09-11T19:11:12+06:30",
+  "posted_at_mmt": "2026-09-12T09:00:21+06:30",
   "source_label_my": "လူမှုကွန်ရက်မှ စုစည်းသည်",
   "source_label_en": "community-reported"
 }
