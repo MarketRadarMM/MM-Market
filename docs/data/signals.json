@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-12T00:00:25+00:00",
+ "generated_at": "2026-09-12T00:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-09-12T00:30:16+00:00",
+   "title": "Xinbi Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9STGRyczhUZDRUcnllcXhLU3Y5dWhCeDV4TlZtMzVXQl9tci01dlRXVWk5alFwaHRSRmVCdnJlTkl2NjhzZFZjS2xEaw?oc=5"
+  },
   {
    "ts": "2026-09-11T23:00:20+00:00",
    "title": "Indian Air Force pays Functional Level Visit to Myanmar",
@@ -2128,13 +2135,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1SVFY1Z2V4U3NWQzBhNXprODNMM1ktWTFsOW5oSXVBV3pLanByZEF0eEJIWXlXZ1FtcVZMQnBnaklOQURVZl8zazBKODZmNlNTV1VQLUJfbGdyd0EtdXlHOWhSN2ZleUh4cVVEREtFNA?oc=5"
-  },
-  {
-   "ts": "2026-09-07T12:30:15+00:00",
-   "title": "The Irrawaddy Business Roundup (October 1)",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQzUxLThwX1RIQXpfeVc4UnpuUW1PNmZDdmM1b2ljdEMyeGxmOXhVck9IdkY1YnhRVGY5RzFyRkpkSEZLY3pQQllPMkhkZzdPLTlnODN6VGZpU0ZsdkUwMjkzYWp5MEdqcmZaNF9KZXNfTnk1S0Y4Q3UzWTR3aTlQUGVUaEdlbms?oc=5"
   }
  ]
 }
