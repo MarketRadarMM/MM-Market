@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-12T01:00:23+00:00",
+ "generated_at": "2026-09-12T01:30:22+00:00",
  "signals": [
+  {
+   "ts": "2026-09-12T01:30:21+00:00",
+   "title": "Junta ends state of emergency in election run-up",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPb1JnNUpQVDZSSllLM3RRNXhNUmxTVmxSVVUxN0F1TWpweUQ3VlBQZXJkT3VPOEZMTXE1Q0owNWtpcGFMZ3I0aXY0SDhrZ3FoZXc3WUxVa2dON1BKcmowLVctZ04tRVlUTkhqUXdCTzZaSEUwRW1rTmNjaGdmbWFMS2JpUVozZXUzWl82ag?oc=5"
+  },
   {
    "ts": "2026-09-12T00:30:16+00:00",
    "title": "Xinbi Archives",
@@ -2128,13 +2135,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMUpOVkVBaExUN3NoV21QTFhKSE5PMklnamVpc1JFSDBIZEVWV0tmbE5NU2ZUUVZlTUx5OVM0eGJBa0xJWVBPNmxuSXA2UDlyaVlvallVRG5iUEpBNjlid2tKdGE0VHBpeUtjRVY0TS01d29CS2FFRWcxM05LenVGazlrSWo2WnFxWEFnYklZMEJEc0ZU?oc=5"
-  },
-  {
-   "ts": "2026-09-07T12:30:15+00:00",
-   "title": "The Origins of the Kokang in Myanmar",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1SVFY1Z2V4U3NWQzBhNXprODNMM1ktWTFsOW5oSXVBV3pLanByZEF0eEJIWXlXZ1FtcVZMQnBnaklOQURVZl8zazBKODZmNlNTV1VQLUJfbGdyd0EtdXlHOWhSN2ZleUh4cVVEREtFNA?oc=5"
   }
  ]
 }
