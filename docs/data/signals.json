@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-12T03:00:20+00:00",
+ "generated_at": "2026-09-12T04:00:57+00:00",
  "signals": [
+  {
+   "ts": "2026-09-12T04:00:56+00:00",
+   "title": "12 September 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBoNGc5UU00RGlzYlJCZk15X21tTGhVR3h3NHlWU3VkQklkNzJ1bkY0T0IxV3BEN3ZVQW9VMVktWTUtS0tyVzlQQURtRmFCT0pXTERzNA?oc=5"
+  },
+  {
+   "ts": "2026-09-12T04:00:56+00:00",
+   "title": "Anti-Scam Alliance Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5RVTdhTFkwU3Z2QzlacEl2UHdtbDBlNlBBTTFkQk9reV9ySkF4NnlUeXk0b25rUnc0ekJDdEtFOEJlOElVekZzaDRvNjhiWUREbE1fTDVvaHVUcllL?oc=5"
+  },
   {
    "ts": "2026-09-12T03:00:19+00:00",
    "title": "A ‘brotherly’ fight: Chin factions battle over Indian border",
@@ -2121,20 +2135,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcFVieXZPR1hZbXU5SDZfQUpaYS1qRzAzdjhrRVJpRGY0b3pBT25RLVBTRGhtb3RrSlNaS1R4dFZ6R1pGdi04eHlJbldiMUhIWnFxSW0za1BvYTNnMkZsM0ljck5wUmtoUDJZMXJmNWR4V2RXLVFhcjB4YzRySWxnV2NQODUxWEJpTlJ5aGNDdUJ5dElWYzJZ?oc=5"
-  },
-  {
-   "ts": "2026-09-07T13:00:21+00:00",
-   "title": "Human Rights Program Launches in High Schools",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdGtfYWZLVGdfd3EzUTNZdWRjMnROOWRaclB3NXpMQ0JsZGZEMmRQeU1wSE53Snl0eW9memVqSGlSWjFkcE40N2dNYWhHQWpSSXJvMHhaVk8wY3lzendtd01ZZm9QbDhLbjRDNk1FOUdFZnh1QUNDaEJERU9MRnZLMldLWkczTGd5MkpFZA?oc=5"
-  },
-  {
-   "ts": "2026-09-07T13:00:21+00:00",
-   "title": "Page 3670",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83cFZtWlhpY3hkNjlNSjlSZlAxaHFBVzFIemF2LWRVeE1CekgwUFZ2UUd6cExCVTI3bWhVMWhlMzFpa1EwYnlrc2tWS2dvSHJOcFJzX0Rn?oc=5"
   }
  ]
 }
