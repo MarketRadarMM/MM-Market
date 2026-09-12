@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-12T09:30:17+00:00",
+ "generated_at": "2026-09-12T10:01:03+00:00",
  "signals": [
+  {
+   "ts": "2026-09-12T10:00:21+00:00",
+   "title": "AI ရဲ့ '80s trend -  ၁၉၈၀ ကာလဆီသို့ တမ်းချင်း",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/ckgwek3epj2o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-12T09:00:24+00:00",
    "title": "President U Min Aung Hlaing holds talks with Cambodian Prime Minister Samdech Hun Manet",
@@ -2128,13 +2135,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9pUG9qSWw5UVp0bnNaRzVqQ2xVUUFvcUp0V1ZHaU9vZW5uSnJmVlUzYm5pSk5uM1ZONFBtZEVobUtkeG9jSjdRTg?oc=5"
-  },
-  {
-   "ts": "2026-09-07T13:00:22+00:00",
-   "title": "Fire Dragon International Futsal Cup 2026 opening held in Yangon",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQmtTNUFQV0hNclkxdmdzY1RPdWl2TUU2QzJYa05NVnhrZnBHeE4yZzdJdWdXM2MyT2gyRGJ5Nzd2NnlkaHo3MXlwZXRraFFkbXZxTlR3b1A2b0FrMDVVOXBzR2kxb2RkbmVyWjdITDAzbzlodFhOZWlXT2FuZV9lSHQ2TGl5ZkFGdkJyN25iSlA2R1U?oc=5"
   }
  ]
 }
