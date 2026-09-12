@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-12T13:30:20+00:00",
+ "generated_at": "2026-09-12T14:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-09-12T14:00:21+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5TNXptVHA1bzNvVVBUa2JDNVR4WFlpQXlQQlZyTFpDbTJ4SERHejIxUWUyaDd0anQxVU1xU08wZzVPVi04dmF6dTFZMA?oc=5"
+  },
   {
    "ts": "2026-09-12T12:00:19+00:00",
    "title": "ဂျပန်မှာ အလုပ်ရှင်ကိုတရားစွဲတဲ့မြန်မာအမျိုးသမီး ဘယ်လိုအနိုင်ရခဲ့လဲ",
@@ -2121,13 +2128,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wek9aSmI3Y3Q3WmhRZjZBa3pGbGVjWlktV0FzRmxRVHBoamNDMF81SlctNWs1U0QxUGRNVzlrdnM4dTQyVzRNLXM4NGZTZ25iTmd2T1dyQjkyQk83QjVGbDBZQlFWeHFTM2FPQ2NQeWY?oc=5"
-  },
-  {
-   "ts": "2026-09-07T13:30:19+00:00",
-   "title": "The Irrawaddy Business Roundup (July 29)",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tNnVwQjY1QVBkQ19HeFIxUmZ5SVhIbzF4cm9jUGFWc3lTZG0yNDVmN2UxOFhaeEk5WEFGQUt4UklsT0hCRzQySmNsU01wLVFPM0hDNXN3T0NGMktpdUg4SmlNbnVRbHVPWDlNdl9wY2Z1YTZ1U3M2b1FJdlZzaFU?oc=5"
   }
  ]
 }
