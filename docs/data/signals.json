@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-13T19:30:17+00:00",
+ "generated_at": "2026-09-13T20:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-13T20:00:20+00:00",
+   "title": "Emergency Repairs Underway on Nyaungdonkyun Embankment",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOW1nTERFeXdRb2VNNmxDR0Z2eF8zMnFKZVNzdEZxa202ZUFyeklWSGRtSkhNRVZCWDlWXzJEdFdHR05hMFNNYll6MFd2QU9JTmZ1Ml9Pckd2QWFTUlVwSUdESG9EeE5JdnY5WG9ta3pTRm50cEhTcXAzYnNSX01mczNXMVJmQQ?oc=5"
+  },
+  {
+   "ts": "2026-09-13T20:00:20+00:00",
+   "title": "Union Minister calls for upgrading ageing sports facilities in Mandalay Region",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVkpXbERZcFJwR1F3UGJVY2hDRVlTRWRabV9ibVZfN3lCQ2RMUFota1ktcG03b3pVd0p2LXRHLVl3WG1PTWgxVUw3VlRhZERPZHdwcDVtWW1oLVRhNE94eTFFbWFLZ09TcUtnZl9ZN1ppamc1Ykx0RFh1MXF0eDU4U1k5WTctcTlFakxzVFg4QnJKa1cyY0RJdEVaaVVBYkpRNGJvNHR3?oc=5"
+  },
   {
    "ts": "2026-09-13T19:30:16+00:00",
    "title": "Myanmar women face South Korean in Asian Games opener",
@@ -2114,20 +2128,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xTzRMNnNCWXVCb2h0NnBMdlV2bHljZVlpdFpJaUs0UnlDQjBFY2pDTHYzX2YtR0lrbmdEOEF2SkRjOVNvSWNqOXpSWHB1LVN3RFBwSmY2dU4?oc=5"
-  },
-  {
-   "ts": "2026-09-07T20:30:19+00:00",
-   "title": "Suu Kyi Attends 'Save the Irrawaddy' Art Event",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02MU01NzFqLTBIVjByZDRmM183TTRhTWx6Y01HdGQzOVY4el91RW5HU1RjU0FDZW9vLVZsdXRmbmRScG1jb253NUFSOGNYWkxpYVdGMFFfbGFTSkp6eTQ0TmhzRHg?oc=5"
-  },
-  {
-   "ts": "2026-09-07T20:00:22+00:00",
-   "title": "News",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HU3VaYzZMbm82QnVDaGlNQkZwcHI0Z3E0c05JT3RsSXZvTGEzSWxSUFc5Z01xT1hjaHNFZDF1OVpySXMzS2YwUk1fZjI1dnB4X3prMTBtNlh6Tngt?oc=5"
   }
  ]
 }
