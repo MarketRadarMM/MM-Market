@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-13T12:00:23+00:00",
+ "generated_at": "2026-09-13T12:30:17+00:00",
  "signals": [
+  {
+   "ts": "2026-09-13T12:30:16+00:00",
+   "title": "Khawel Chan School For The Blind",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QY3NGQlZuNm8tUE1FYXM1eWFCWmlFLTM4SXAwTGhJYW1zRFY5bkZ1ZG50UHRqZTRRN2RyT3FQb3pYRUZNOXpIckhIcWo5WkJXNFA3VkstMGlCbDZFbmdISk1nTExFaV93ZGVvZzBn?oc=5"
+  },
   {
    "ts": "2026-09-13T12:00:21+00:00",
    "title": "Interviews Southeast Asia",
@@ -2121,13 +2128,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQUtVaHRfejEwYmFDYkN6clFrWFpfWWtBWkJhRDcxNUlxTDlBLTkySlBrZFZUUlFsUHVHMXkxZi1CUUdROHkwWnVURHRHY3BQenprQU4ySHNjX25kYnJReWo3Rzh2dS1BOE5BdW1JNDhsb1ljdmUwRXlhZ1hwYXFXcE9yd0NlUFZhUllqVU8yWWFNZW1JNWE0dldKQi1rZTBtcUhtdXZKN2x6WU9ObEpPMlZVOUtULWMyTUx4dDcxWQ?oc=5"
-  },
-  {
-   "ts": "2026-09-07T17:00:21+00:00",
-   "title": "2nd ASEAN Rice Trade Summit 2026 addresses regional collaboration in rice trade",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVU5HaFNLQlZqdVFQOTBaYVpkWC1rTGhkR3lSZVdyWlZPQ1NJTXVMbEZYeXI0dTJzSTBqZWt3eVFhTUNYUUJuazJrZkJXNm16MHJOc0NreTFPWDdCTmkyeWt4RmM2ZmZmTUJEZXNOZWNCN21tdkpRbWZEUk1kSmtDZHMxRlVQTFhMMzdMU3ZLWkQyZDF3NWFyT1h0OUdWUy1oS1prUGNuaw?oc=5"
   }
  ]
 }
