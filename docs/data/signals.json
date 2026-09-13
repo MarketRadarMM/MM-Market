@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-12T23:30:17+00:00",
+ "generated_at": "2026-09-13T00:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-09-13T00:00:20+00:00",
+   "title": "Putin hails Myanmar ties as junta chief visits Moscow",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObm1NcnpNVk9LN1FRS2o5SkRScjI4WVlEVE5YTERRdE45aW5GRVhGODZkVkVYcmpKX201R1l2VzFTVmNOYzdtS1NmSkc1SnBjZXNOQlFSVm51cG1LdVBseEZZMmVPWUtIV3FJMmM4UldxdVRlZ00wb0thcjNFU1k5eTRMQ2ZKcEFnUE9JcTNxMmdqTkU?oc=5"
+  },
   {
    "ts": "2026-09-12T23:00:23+00:00",
    "title": "2025 Myanmar Motion Picture Academy Awards Presentation Ceremony held; Acting President of the Republic of the Union of Myanmar, Chairman of State Security and Peace Commission, Senior General Min Aung Hlaing delivers opening address and pres",
@@ -2121,13 +2128,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FYV9hMmNlX1VGT0ZfV2lmb0dDVUFBTV81T3QxUVZ1VWVReHBBbDVVOFkwX1YwWmFTRlNUbUtsZEROZEpZTTh1MFVSZ3BYbEw0YTZ2d3R3?oc=5"
-  },
-  {
-   "ts": "2026-09-07T16:00:21+00:00",
-   "title": "Kaunghmudaw Pagoda in Sagaing",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSm10MTdTV2FUYndON3RQblFhWWZLcGRmaE13V19ST004RVlFMGxqalgyRXoxbm9aQzZ2aFU5ck9jMEl6VGNLRjlIdzg5SGVjRkRodkU5b0c1OXJkamlTMHl6SGtoTzdpMDBMTUdNOXZtTmZXdE9EcWlONmVDRnFqLTJyMmllLUFo?oc=5"
   }
  ]
 }
