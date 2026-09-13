@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-09-13T10:00:22+00:00",
+ "generated_at": "2026-09-13T10:30:17+00:00",
  "signals": [
+  {
+   "ts": "2026-09-13T10:30:16+00:00",
+   "title": "Burmese Spy Reveals MI’s Dirty Deeds",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9aZUhMcjY2VURBbVRmY1k3ei1PODluZ25PdDFaNHNqdExXSm5YTkpEc1JybVk2T1ZtUFgyWE1fTHVvUnJ6UFBLNzZqdENZaDRVUEVUZG0tR3Y2V2lCSm03eW1vQkxHQ0VCNGpMaGh3VkhjVVU?oc=5"
+  },
+  {
+   "ts": "2026-09-13T10:30:13+00:00",
+   "title": "နေပြည်တော်ရဲ့ ငြိမ်းချမ်းရေးကစားပွဲ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cvgyrzjlpe4o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-09-13T10:30:13+00:00",
+   "title": "AI ကိုထိန်းချုပ်ဖို့ ပိုခက်လာပြီလား၊ လူသားတွေဆက်ပြီး ထိန်းချုပ်နိုင်မှာလား",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cx2z5eggg0eo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-13T03:30:20+00:00",
    "title": "President U Min Aung Hlaing arrives in Siem Reap from Phnom Penh",
@@ -2107,27 +2128,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NZDc4YXVxTUlrMkdUNmQxVlBpc1hLeFoybWV0RlRYTlRJRGlVRThTNllDdzI2SDFSTFBaZ1lUNEE4MUdCWVFyb1hRM3F0QTVLQmdKcXZTck85YkhGdWgtMEFOYVJsQTJK?oc=5"
-  },
-  {
-   "ts": "2026-09-07T17:00:20+00:00",
-   "title": "Suu Kyi Attends 'Save the Irrawaddy' Art Event",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wcXRDY3lyS090c0U0RmV0Z1cxdHgtMVNTZ3lRM2JEVk9GdzhVWVdoLUU3bE5hczIyTkhDMVZ1eXNkNUZqREQ1bVhDUURIS3I4SXZyLWFjMTd5X0RpNHhEb0VGdHU?oc=5"
-  },
-  {
-   "ts": "2026-09-07T17:00:20+00:00",
-   "title": "The Irrawaddy Business Roundup (July 5, 2014)",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcVFCZkdUWHZ3SDNpak1IbmRybG13enZnb185SUNzeFFvaUJLY0p1TEl1Yl9nT0tUUGw0VU5rYVM0X3FDRHNrQmhoNXp1NWVad3NVWmNWVU1FSGwzR3c1ckxtQWNSQkczV0pTQjRCWW1IZlJvNWJNYmdVeUlNQUFEMEUzMkk?oc=5"
-  },
-  {
-   "ts": "2026-09-07T16:30:25+00:00",
-   "title": "News",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0teEZtWEszZVJHUUw0a1huNHlSZlhEOTF4bkFQdHd6dmk4dnczTVFLWFJuUE84WXE3UVpqU1A2NWs0WENqWlJ6bW1Tb0I4a2s4ZVpiaERKU2o3Y2c?oc=5"
   }
  ]
 }
