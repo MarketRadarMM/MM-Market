@@ -1,6 +1,48 @@
 {
- "generated_at": "2026-09-13T02:30:55+00:00",
+ "generated_at": "2026-09-13T03:00:19+00:00",
  "signals": [
+  {
+   "ts": "2026-09-13T03:00:19+00:00",
+   "title": "MAC opens applications for Diploma in Accountancy",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QMzR2eHBQNHp1R2d2VmJlUG5YQlpVZTNya3J3YWQyM200TGQteGhqRWQyb0JnOVBSV0ZuQWNDNUlOcGlCNmFIY25uMU9SV3poVzJ6M2l1Mk5OZHVRaGdoR0tHWmxkX1p6emNpc3F4VmFBenZtbW5LY1pxRXRVbXc?oc=5"
+  },
+  {
+   "ts": "2026-09-13T03:00:19+00:00",
+   "title": "MRF Quashes Pest Rumour in Myanmar Rice to Poland",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqVHdoeWpWUmJzRDVFNVdIYXo4VFBIazZBSFN5cFg5dVo2dkI0c0Z6b0piNUFEaWQ0dmp1WTBkZDdlcHg1ckJfM0JQR2x1YUZwM0cwWWRXWFlHeUFhQ3RyRFJZcUhWQmZPeGhCSE1JbnRPak9VeFRXeDkxRzdocUU?oc=5"
+  },
+  {
+   "ts": "2026-09-13T03:00:19+00:00",
+   "title": "Professional Boxing Matches 11 sees 6 bouts",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zWXhzN0Qtc1VCc1pUek11NFp2WXZCVDJrYW52YjhrdEpQYkFtRjVIenlLTDNtSDNvc1R4MEJFMzV6RlJHN3V4eVl6RGhxREpsQjBFOF9USmh0UVBlcE9leU56bXBIdFBkM2U5THcxYXBUZ3QyWUcw?oc=5"
+  },
+  {
+   "ts": "2026-09-13T03:00:19+00:00",
+   "title": "Guna Visitha Puja ceremony, 46th Maha/Cula graduation ceremony held",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR0JxX0JsODFTSlJXRl9EYWRRRlE5X3pnMGw3T2VMMWRHN0JPOHpnMDY1dVNqdXE1MjM0cTNFZTc3SlFpemQ4dDQ5SFFHYndwLTBuUTBZYmJGa2o0a1p0ckh6RktWeGppNk5vMHFoTEFianp2SnFpYjZnZ2NtS3VCeVh2YmZyMDAzSTBEaXNuVG1YdEphdXc?oc=5"
+  },
+  {
+   "ts": "2026-09-13T03:00:19+00:00",
+   "title": "Kyaiktiyo to begin Buddha Pujaniya Festival on Thadingyut Full Moon",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQajVfdFFsdGk1MXNZZ1k5SF9OeC0zZFUyd3doMjhRWFZMUnowS2d2aUozZXZBeElvNURsMjVVa3VZbmRBOENPeXBuS2Y4ZjM5dHRvOEZfV010b1doVm92OHV0eTFCS1ZUQmo2MWQ1NFNYZUt6TFAwRlAtN1l0N1RpOUs0OFoyekFxa0hHVmZHdjlnLWoyUzlJ?oc=5"
+  },
+  {
+   "ts": "2026-09-13T03:00:16+00:00",
+   "title": "စက်တင်ဘာ ၁၃ ရက်သတင်းများအနှစ်ချုပ် - စစ်တွေ၊ ကျောက်ဖြူနဲ့ ပုဏ္ဏားကျွန်းမှာ စစ်တပ်နဲ့ အေအေ တိုက်ပွဲပြင်းထန်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c75019199xlo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-13T00:00:20+00:00",
    "title": "Putin hails Myanmar ties as junta chief visits Moscow",
@@ -2086,48 +2128,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wQXpyTzJaOWVVRWE1b3JoTGJ6T0thSHJKTkljYnpMMjNvM3JzVUhEc3h1RXd6UVhZU2lsX3VnQXZ4c29iWVVlQmU3alU5LTR5NHN6S0lYUG52dWd6N1lhdmpZbVJ6ajRP?oc=5"
-  },
-  {
-   "ts": "2026-09-07T16:30:25+00:00",
-   "title": "Suu Kyi Attends 'Save the Irrawaddy' Art Event",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TRjhZNDZPd0g2MlNvTWhoRUU1MEtQYW5Gbk1WYjQtRzBUMUJvcFdEQndlNlJzSzJoTUxzOFdCRGdaRFhGQTkxcTFwT0E5Snk4Q09nb2p2dl9OWUh3YUR1MnRBNTA?oc=5"
-  },
-  {
-   "ts": "2026-09-07T16:30:25+00:00",
-   "title": "Page 88",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VWTZaTHlzTnFLdGI1LXJTaGp2TXB1aWp6VGFDOTd1VkVMbXdKOFRfSFF1b0tmSWxxUVhWWGVkc3M5c0lDdmhVRjNhNWhfTDM1ajdB?oc=5"
-  },
-  {
-   "ts": "2026-09-07T16:00:21+00:00",
-   "title": "News",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zUUtIT2ZnZlhldTdwcElMSk1kb09QeDJYQnExdmIzQnY1QnQ1LThjc2VJWnhMdVo4SUVfTVEzd2szZ3lKMjNmdzZ5UDlRaHpLakNDNl9JUFo2bzJh?oc=5"
-  },
-  {
-   "ts": "2026-09-07T16:00:21+00:00",
-   "title": "News",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxTTVPVkp5Sm1LeFV0bDNhZ1pqd2NoM1dKOE85YXo3MF9aeE5RTWhhcU5MYWpxd28zSzNldWY3X0otVGZQbjRvV29ua2JPbEdrNTBtQkJHY0JLZmFp?oc=5"
-  },
-  {
-   "ts": "2026-09-07T16:00:21+00:00",
-   "title": "Sein Lwin 'The Butcher of Rangoon' Dies in Poverty",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrc0JvUl9oRDhLODgyMzZmdmFzWkFwQ1dJMWRwVzM4MGp5OERpWHdwWnlzWkEyN21lRTUyMUlTeS1NbjFteTdENTV6LTB5RlRlZkJNYVp0U29tcDBuV1hqTXJiNVhnMU0?oc=5"
-  },
-  {
-   "ts": "2026-09-07T16:00:21+00:00",
-   "title": "Page 3389",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FYV9hMmNlX1VGT0ZfV2lmb0dDVUFBTV81T3QxUVZ1VWVReHBBbDVVOFkwX1YwWmFTRlNUbUtsZEROZEpZTTh1MFVSZ3BYbEw0YTZ2d3R3?oc=5"
   }
  ]
 }
