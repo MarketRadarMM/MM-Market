@@ -1,6 +1,55 @@
 {
- "generated_at": "2026-09-13T19:00:20+00:00",
+ "generated_at": "2026-09-13T19:30:17+00:00",
  "signals": [
+  {
+   "ts": "2026-09-13T19:30:16+00:00",
+   "title": "Myanmar women face South Korean in Asian Games opener",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdjZEeEd4NWFDSEhFV1lOMnhLNENxc2NicFRjclRmSGlMZFN2MFNBRDhuTWstRkp5STRHNUo3bk5xUnQ4Z0FFZVMzeUNpRjd2S0d0Nng0WUNrU0NyNkhrYWRNakN4RG14ZzdMWjUxT2tSOWFKd1dtMmFpaTA4cjFkVGFxMEk?oc=5"
+  },
+  {
+   "ts": "2026-09-13T19:30:16+00:00",
+   "title": "China Cultural Centre in Yangon holds poetry festival",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNanJycFd3azNTcjlua3VvRTlxanJ3V3JoUjFQTGpxeTVzcnVRZDhLOXRISnNWZWU4M1VuLTFWNm5iVGE4UTV1aW00UFEzcU9CSUZjeTlra0tpSXQweWJIYTl0N25rRkVuVWVlMlpfSGxiQ25YcGM1QnBpZlhkd0xLUmR5dy0?oc=5"
+  },
+  {
+   "ts": "2026-09-13T19:30:16+00:00",
+   "title": "Front-line Tatmadaw personnel welcomed back in Sagaing Region",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRHhPZDhBVnZRVWR3WlZvVVNWQWNTLTVzeHVVQnR2d2lWN09PdGJ5Z2tucHZ3d2pWWkU1aC1GdDV0REdMMW92b3dmX3hzTWNWbE1XSXhSQlpMeUVwZ2hjN2p4R3JhWXZvVm5QckJtd0hBSnMxcWw3a08xY19DYmJ3UFNnVHRsQnBpOHJneGxCMA?oc=5"
+  },
+  {
+   "ts": "2026-09-13T19:30:16+00:00",
+   "title": "Yangon to host Myanmar Premium Car Expo 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmNG9TYnNKcGY3ckxvbzFGRk8yRHFNWXJsNnRvSE5UVEEtaTNSclFuUWp3WHhQN3NWOXRpRzNEZVVzVTBkdnQ0aXRfdGExc2dGTlBpWUhGeXYxQm8xVEY0S185aGN6SHY5cmo0QlQ4NHdIZ0hxLUhsWA?oc=5"
+  },
+  {
+   "ts": "2026-09-13T19:30:16+00:00",
+   "title": "Applications open for Majestic Cultural Fashion Myanmar 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaXVmS19NaWRvYWlmajNJNklUcmlpWUVwNGhNeHJXcnhHXzk0SlJ3cXp1SWxYeTEtenlqVEJaRmtKak9HZ0FFQlZtLXZMM2VwN2tvZzZtcjNaUjFlZk9JMUszYTVDRkZPbzM2UEt3RU5aSkFNbXMtMHRRVHpmYXFSQk81OC1TeFI3S2hvdUJn?oc=5"
+  },
+  {
+   "ts": "2026-09-13T19:30:16+00:00",
+   "title": "Myanmar to compete in 5 sports at XX Asian Games",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9MRDBuS0djeGhHX0FYUFowbjVybm9BLWJ4MnotY2pXMmNqV0lkZ1dCM2dMUnkxbWNHcEVlejNmSDE4Yy1jVHhiMUVzV0dGSWNFUlg3U29PMTVYbVlUT3VabUVNSWtqQ0tPODlYemFlVmhrVlFSSzdxRHNON1FCdw?oc=5"
+  },
+  {
+   "ts": "2026-09-13T19:30:16+00:00",
+   "title": "Mister Myanmar 2026 Yu Gan to represent Myanmar at Mister International 2026 Pageant",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMnZnaWpJa0JlT2EzNjg5NzEwZzJCVzFhY2JxcFdmUm5QenA3OElydWI1NlA4NWFwTHlvcXlpd0JCa0tSTGJhOENUaU04TC1JN0F5NlpBcUVXUElLRVlUWEZYVmx0dklXVndqalg1UEdpdk1sUnloWlZ2eVFNRzVBWHFPR0VhUmc4NkppTXVySHdEZURWOHhWLWZSYVV5UmVyZFQ2ekNYQnY5WTJTR2c?oc=5"
+  },
   {
    "ts": "2026-09-13T17:30:17+00:00",
    "title": "Myanmar, India sign MoUs on QIP implementation",
@@ -2079,55 +2128,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HU3VaYzZMbm82QnVDaGlNQkZwcHI0Z3E0c05JT3RsSXZvTGEzSWxSUFc5Z01xT1hjaHNFZDF1OVpySXMzS2YwUk1fZjI1dnB4X3prMTBtNlh6Tngt?oc=5"
-  },
-  {
-   "ts": "2026-09-07T20:00:22+00:00",
-   "title": "The Irrawaddy News Magazine [Covering Burma and Southeast Asia]",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlMFJUWlNMcG1oQXgwZWJka3h1MGI5YWx5WWt3UC1ja3RHT21pcDBvbHAzZ0FBLXdyNWZlVGFQYk5YVkFfMHVMTnpYbkszWTE1dFBLOGotVktKY2otcXVrRFNNM3Q5S0NJWEpBdDR2Q0pIdE9fbWZYSHdleGo?oc=5"
-  },
-  {
-   "ts": "2026-09-07T20:00:22+00:00",
-   "title": "Eight Elephants Poached in Six Months in Irrawaddy Division",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcXRGWUF3WkRmZ3N5c2xnZGhKaXhDa19PNTdUX2RwVW1Fc0dMY09yUDduRjl6eXRpWV9IMkJFV2NGODg3U1huWlhUQm14SWlrU0dzRmJoSGxrYXNPSUZDNGJueGE0SjVfNk9IMGNYaExPZ19aLXNpZmxuNzZnRGx1dTdVbVB2ZVNyblk2ZFlKY1BXencxTFktbTBlaw?oc=5"
-  },
-  {
-   "ts": "2026-09-07T19:30:16+00:00",
-   "title": "China confirms 43 dead in mudslide, Tibetan resident says 26 dead in just one village",
-   "source": "RFA (EN)",
-   "markets": [],
-   "url": "https://rfa.org/english/tibet/2026/09/07/tibet-gyirong-nepal-glacier-death-toll/"
-  },
-  {
-   "ts": "2026-09-07T18:00:19+00:00",
-   "title": "Yangon to host Day of the Seafarer 2026",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zZE10TFgwb0FzOGViY1VOQjJETlVjZ2drY1VGR1JCRFNzZ0pjc3RQbGdvc09oT3ZIUnhHWEowLWpxTi0ybHVkeXRzbVdDSXlockZYWTFmLWt0VGF6SmpsQmVXcVc1ekMyYm5HZGczX0Mwdw?oc=5"
-  },
-  {
-   "ts": "2026-09-07T17:30:20+00:00",
-   "title": "Success of farming-based production industry will propel regional and national development",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX2pwRHBBeWxDblBCYWNUMUpYMnJSYzlrRU1WeGQ5QmRJd0EtVW93ZFo5ZW9jOUNuVmZPN3NvTE5QUXVHWm12YkVpdHpzZ1BBTzBmLXBHVTNJSDl1eTg5TlhzcHJoME56bERBbWUxNE9mUGxaNkhnaGQta1I0cHdkMEU0X1RseGlTSXE1QVM1NkN1UzFfMkdINkxMUkt0WENmTkNzNG5fZHVfVGowcFlYZm1lUF8?oc=5"
-  },
-  {
-   "ts": "2026-09-07T17:30:18+00:00",
-   "title": "Guest Column",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IdUNUcWhsN0VlME8wWW1CbHdzanZnSkdMdUhGcUZkUTVQV0NTV2NRSEoxRzlNUThBcU96d203N05wRDd0dFpEVl93OFBpeGVxaGphUzJGQ3JvRXpDMjlHZGtWc1hoUQ?oc=5"
-  },
-  {
-   "ts": "2026-09-07T17:30:18+00:00",
-   "title": "The Irrawaddy News Magazine [Covering Burma and Southeast Asia]",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB4bFBNWTNldzhPUW5DUmZSMUxQbjBxanEtNjhGakxfX3lwNmRtd3BMNXVVSnA3UWdJNUxYeGoxZzlMY1Y5LVRPMmk4Wk93MmxtVzFjcG0xWTdpVUlvMF80d2JXcVM0aTBoQ0lHX3VFdW9RMFVfaFBUanVPcw?oc=5"
   }
  ]
 }
