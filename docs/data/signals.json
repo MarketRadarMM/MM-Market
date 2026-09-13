@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-13T17:00:22+00:00",
+ "generated_at": "2026-09-13T17:30:17+00:00",
  "signals": [
+  {
+   "ts": "2026-09-13T17:30:17+00:00",
+   "title": "Myanmar, India sign MoUs on QIP implementation",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9YbFI5MDZvdWJHWlNMWGhKbWJWSkZoQTdKbVFUY0xtTFp6TXF2RnNvSXRZckthUWptTDZHSmg3LU9EcE91UDFCdDNpQ0s5anQ1dHlLd1YwUXpJNUpPMkNjRTVMeVg1dzRBLWpYUkRDMjFfSTRPYUxtUEp2ZDM?oc=5"
+  },
   {
    "ts": "2026-09-13T13:00:22+00:00",
    "title": "Chairman of State Administration Council Prime Minister Senior General Min Aung Hlaing attends Certificate presentation ceremony and dinner in honour of 23rd Myanmar Traditional Cultural Performing Arts Competitions",
@@ -2121,13 +2128,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB4bFBNWTNldzhPUW5DUmZSMUxQbjBxanEtNjhGakxfX3lwNmRtd3BMNXVVSnA3UWdJNUxYeGoxZzlMY1Y5LVRPMmk4Wk93MmxtVzFjcG0xWTdpVUlvMF80d2JXcVM0aTBoQ0lHX3VFdW9RMFVfaFBUanVPcw?oc=5"
-  },
-  {
-   "ts": "2026-09-07T17:30:18+00:00",
-   "title": "Donation",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBqUVkyYTdGU2d5VmtXSEJqem5wNUJKVjFoWEQ1Z1ppQ3ZKN3h3OXNEbTZOMjJZTF9waFZBcGQzM0ltczJ6UExmbFl3?oc=5"
   }
  ]
 }
