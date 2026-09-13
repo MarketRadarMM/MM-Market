@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-13T20:00:20+00:00",
+ "generated_at": "2026-09-13T20:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-09-13T20:30:19+00:00",
+   "title": "Citizenship scrutiny cards and UID cards issued in Sagu",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUHlmYWJobGYwUTdyMldtNHNHN3YtSDNsSXBGdUpEWkoyZXYtVmZyam0wUHVMZGdhSWdFVXhMN3k3dkxVOFE0V2NkRFJFMG0zTzItRUxEZEY2NXBCYXJmS252T29QaHpsNERqbkh3NEMwRzZNQU9SQ2JiSXc1dHhmZVRJWVdvT1k?oc=5"
+  },
+  {
+   "ts": "2026-09-13T20:30:19+00:00",
+   "title": "14 September 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wN1Y2dDZoc1FTZnF4ZDdUSVBWbUE0a1dqam5JWDB4ZVlNOUpkVFVqTm1WOXRiZXdNcTItdExGYXY2RzZuUXYwVWtNc3E4Yy11VUU1cg?oc=5"
+  },
   {
    "ts": "2026-09-13T20:00:20+00:00",
    "title": "Emergency Repairs Underway on Nyaungdonkyun Embankment",
@@ -2114,20 +2128,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zeklwcy1PM3ppeU9ScjZqbGlTamJ0cGVOYkV5Vjc1UzZIR0owa2VNbzBfVDhuZ1BLLVFDb1lyM2lvN05IR1dpOTI4UTR2emhCZmlEYnp3aWlycGpuWDdWRE9zX2pSaWFu?oc=5"
-  },
-  {
-   "ts": "2026-09-07T20:30:19+00:00",
-   "title": "News",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VeWZsUmN1cHpIRHlLSThaaTc0Q2s2NktKbzBJRUIxaVBvbmRVWG9aQ3J1bWhtZUdvT3BXZmxESFl4R19YVGVxM0VWM1BDN0Z2ejJKZlhzOVFVWGRX?oc=5"
-  },
-  {
-   "ts": "2026-09-07T20:30:19+00:00",
-   "title": "The Irrawaddy News Magazine [Covering Burma and Southeast Asia]",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xTzRMNnNCWXVCb2h0NnBMdlV2bHljZVlpdFpJaUs0UnlDQjBFY2pDTHYzX2YtR0lrbmdEOEF2SkRjOVNvSWNqOXpSWHB1LVN3RFBwSmY2dU4?oc=5"
   }
  ]
 }
