@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-14T04:00:24+00:00",
+ "generated_at": "2026-09-14T04:30:23+00:00",
  "signals": [
+  {
+   "ts": "2026-09-14T04:30:21+00:00",
+   "title": "စစ်မြေပြင်ချိန်ခွင်လျှာ ပြောင်းလဲစေသော FPV ဒရုန်းနှင့် ဧရာဝတီမြစ်ညာ ရေကြောင်းတိုက်ပွဲ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81140/"
+  },
   {
    "ts": "2026-09-14T03:00:17+00:00",
    "title": "ဗန်းမော်ကနေ ပြန်စုန်ဆင်းလာတဲ့စစ်တပ်ရေယာဉ် ၃ စီးကို KIA တိုက်ခိုက်",
@@ -2121,13 +2128,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fYkY0a2ozalc5cXhoTmpEeWhJUDZ5eU1PaXJIZmxKZEZfQXdBWU4xMHU5am13Yk5ONnVWdjdUS0tYdjlwak9vUXBHckhwTVc5OEFSWGZoNkI3ZFVaOXJV?oc=5"
-  },
-  {
-   "ts": "2026-09-08T01:00:22+00:00",
-   "title": "Daw Aung San Suu Kyi at World Economic forum",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYUh3dmc1bUtsR0RtREtWaXZpbnJ6TndESjdvZTlYbjEta3FfNjg5ZlZEVE56c1QxQXBkdkowT2hpMllTY2FxYjlPLXlDMGh0cmNrQ2pSWHF3cE5mT2hsLUttUHdtLWl5Y2xUeVNhMkpMSW05ejdDOWh1NWJVT2xXc3g1SDNDWDFicjFpR3JoQWRtWEdIdC1oRWw3b3pCUThYNko4?oc=5"
   }
  ]
 }
