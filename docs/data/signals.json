@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-14T04:30:23+00:00",
+ "generated_at": "2026-09-14T05:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-09-14T05:00:22+00:00",
+   "title": "Myanmar Regime Says UN Envoy Illegitimate Ahead of Credentials Decision",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRGhaSlB0bm5VUWViMVNxNk12QUJKczRZSHh3MDhjUnF4cVFvV2hYRUxSYnBLaG9wRmNVQzEzM0gxbEQ0Wk5FaUFSOEpkNDJHVFFKSTdEdVQyay1VS2c5VmhGemRGeUpidkt5R2Y2bHJueEc4b1FCMXgya05IMDRqRkV1elJQWTZCekRwNmRXc2cybzVsbXY0RjVvdEVZQU1BYnlQOVhSQldHU3pITGZFMXhVY1gtN0JnMVZteTM3R3cxZlE4TEVMZmdjMkIzQQ?oc=5"
+  },
   {
    "ts": "2026-09-14T04:30:21+00:00",
    "title": "စစ်မြေပြင်ချိန်ခွင်လျှာ ပြောင်းလဲစေသော FPV ဒရုန်းနှင့် ဧရာဝတီမြစ်ညာ ရေကြောင်းတိုက်ပွဲ",
@@ -2121,13 +2128,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBidDZLNUdYOEltRURFd2NUdnlsUXR2V1ZVeWhBTEVNbXVFUWlhTWIzSW5ZblE4bEtOQ2Uyb3N4MUtnSWNoS1BHUDZ6bzdHTmxqUm53?oc=5"
-  },
-  {
-   "ts": "2026-09-08T01:30:17+00:00",
-   "title": "Factiva",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fYkY0a2ozalc5cXhoTmpEeWhJUDZ5eU1PaXJIZmxKZEZfQXdBWU4xMHU5am13Yk5ONnVWdjdUS0tYdjlwak9vUXBHckhwTVc5OEFSWGZoNkI3ZFVaOXJV?oc=5"
   }
  ]
 }
