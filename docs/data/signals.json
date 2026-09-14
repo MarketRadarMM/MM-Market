@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-14T09:00:25+00:00",
+ "generated_at": "2026-09-14T09:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-14T09:30:19+00:00",
+   "title": "Beyond Rakhine: Arakan Army advance brings hope and fear",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdXhmek1qN2ZhSkRCZnA4Y0xHMUI4YUNvX3IxLWd6Y1V1WF9sTDZfcHdfU2FubThNTm84R2x1eXNxRGI5V0p6Y2JQWHRxajhSUGxvSGRXQ3o4amVfU3ptZ2FjZ0lZdG1wTENTei11Xy1qZnF5UmZHZ2JRVndBSXY1cUFWdm5HU2xTam81R2lVYXdFNEgzVHc?oc=5"
+  },
   {
    "ts": "2026-09-14T08:30:24+00:00",
    "title": "Poisoned earth: Unregulated mining ravages Myanmar’s deep south",
@@ -2121,13 +2128,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RRUtLUW1DWVhrM21TNWFoRXcxbFpHb2NLLWFYb0RYcWExS2d5V3pjZ2IxWElsYk8xZ3QwRm5ia0s0R0dnekN6Rk5nREktZDVHVFRwamFQaVdRUC0waW4wZFM1WG9GNDdYS0RDMHRpZw?oc=5"
-  },
-  {
-   "ts": "2026-09-08T01:30:18+00:00",
-   "title": "Communication devices for Tonzang arrive in Tiddim",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPejdkangzZE1neGFGVXNpN1YxOFdSa0R0eElUZmVmR2x2ZjdyNTdLNTlQVFBldFhWT1RTaG9MUk5Fb0pLbS0wbmQybFJ3clp0QnRYU011V1VUalBULWNLZnFSU0VnUHg3MWR3TWwzSWdyQ2pKSUV2U1BmamhXVWtQcA?oc=5"
   }
  ]
 }
