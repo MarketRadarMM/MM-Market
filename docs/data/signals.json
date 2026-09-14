@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-14T02:30:20+00:00",
+ "generated_at": "2026-09-14T03:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-14T03:00:17+00:00",
+   "title": "ဗန်းမော်ကနေ ပြန်စုန်ဆင်းလာတဲ့စစ်တပ်ရေယာဉ် ၃ စီးကို KIA တိုက်ခိုက်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.co.uk/burmese/live/c933kmzgd331t?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-14T02:30:18+00:00",
    "title": "China Donates 95 Tonnes of Rice to Flood Victims in Sagaing",
@@ -2121,13 +2128,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYUh3dmc1bUtsR0RtREtWaXZpbnJ6TndESjdvZTlYbjEta3FfNjg5ZlZEVE56c1QxQXBkdkowT2hpMllTY2FxYjlPLXlDMGh0cmNrQ2pSWHF3cE5mT2hsLUttUHdtLWl5Y2xUeVNhMkpMSW05ejdDOWh1NWJVT2xXc3g1SDNDWDFicjFpR3JoQWRtWEdIdC1oRWw3b3pCUThYNko4?oc=5"
-  },
-  {
-   "ts": "2026-09-08T01:00:22+00:00",
-   "title": "Page 3292",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lVlRZV3VXc1VXSHh3T3dyRG1nR1lhYWV0U0FzcnhkeXVTclNNYUN6czFQQ19JZk1oLW0wVFBiRHBPdDhlSHdXQ3pYeUZzU0Z6Tnpacldn?oc=5"
   }
  ]
 }
