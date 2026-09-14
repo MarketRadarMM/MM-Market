@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-14T13:30:20+00:00",
+ "generated_at": "2026-09-14T14:00:25+00:00",
  "signals": [
+  {
+   "ts": "2026-09-14T14:00:24+00:00",
+   "title": "Myanmar attends 2026 Conference of Global Public Security Cooperation Forum",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNmVkOXEzeGNhdS05dGk0YWhBanRPeHo3TU00SDlDWDg0cXFYdGw2cFk3Q1JrVXNPTTliRUV6enN5OEEyT0dVdWdLUkxXa2RER2x5UkN6c0NKektFRjN5UkNjMUg0cWdUX0wtbnlPLWZKdGdPa210bFlxUThkQzdzaUYwLVIyVmpNNkw2SXFuZE9PSWJ4d0NxaTNfVllnaEVPY0E?oc=5"
+  },
   {
    "ts": "2026-09-14T13:30:18+00:00",
    "title": "US Accreditation Body Gives Stamp of Approval to Hospitals Linked to Regime Leader",
@@ -2121,13 +2128,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uZTdJSnF1ZDlQa3FWaWo4Y2twMXBGLWIyTTg3UDRlbGRIRkVueGdsQnVUeHplTm1POVk3SGNhM1dTeU5QWEF6OFF1dW5HenctSlFxZF9iUUNORDA?oc=5"
-  },
-  {
-   "ts": "2026-09-08T05:00:18+00:00",
-   "title": "News",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rdjJyQnNtS01FSmZjY3dqSl9aOGwyOS0xSVhULVVocGt0LWhFQlplNVVJYk1xRFlGQUxTVnZycHFNVnMwOWgwTExRTkVjZ1JFWUYxMXdLWko4azZf?oc=5"
   }
  ]
 }
