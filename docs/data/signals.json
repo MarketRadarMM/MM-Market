@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-14T13:01:03+00:00",
+ "generated_at": "2026-09-14T13:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-14T13:30:18+00:00",
+   "title": "US Accreditation Body Gives Stamp of Approval to Hospitals Linked to Regime Leader",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTG9fcF9wTVJxVE5pR2xQemlSeWQtaWNibFFZdEs1RmtMZnNOczh6Tm92dzBFNmNFLWVVdkI2RmViLWdxZVNTY1E5Qk9SbTlmNEJHTERyTTFVRFJPZkRELXdFV3I4V3E4ejVONGhHV1R4U3RCMGtOTDU4bDNlREp1Q29IWS1mTnlvODdZd3hxWkFCM0xBcTRpMkRhV1Y5aXZ1ZWw4ZGxHRTFtTXd4dV9GcFJ5Q2tQNHE2SEppcEJ6djRMUQ?oc=5"
+  },
   {
    "ts": "2026-09-14T12:30:20+00:00",
    "title": "Former Myanmar striker and heading specialist U Win Aung passes away",
@@ -2121,13 +2128,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rdjJyQnNtS01FSmZjY3dqSl9aOGwyOS0xSVhULVVocGt0LWhFQlplNVVJYk1xRFlGQUxTVnZycHFNVnMwOWgwTExRTkVjZ1JFWUYxMXdLWko4azZf?oc=5"
-  },
-  {
-   "ts": "2026-09-08T05:00:18+00:00",
-   "title": "News",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB6WDBRNEhyWGg1Y2VCQzZTa2QtM1ZrVXIzeDhFY01lNW5LNHg2MlFlUHQ1bk5WcjViSGpSVUJXRHBWaXFkUGxOaXZydWJxNFFJTmtkUkl1Vk9fU0sx?oc=5"
   }
  ]
 }
