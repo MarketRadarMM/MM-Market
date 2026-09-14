@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-14T00:30:19+00:00",
+ "generated_at": "2026-09-14T01:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-09-14T01:00:23+00:00",
+   "title": "Yangon residents flock to Hpa-an’s popular monsoon destinations",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcThMbDFUYU5vVTBSMzVkdTIyLWpCeF9wdVNXc1d1Qk94SHBVUFNHZGo2ZWlGdk9TQWVpdWJRMzM1NWZ6cE02ZkFZNGVKbWNOZ0RzalQxSG9QMlhSWDdTRTgtbHI4Y01QTmE4VWxSSUJ0NExPQk1TaS1GeEhmMEhOcnBHVUNtdnhGdDVxc28zQXc?oc=5"
+  },
   {
    "ts": "2026-09-13T21:00:22+00:00",
    "title": "Memory",
@@ -2121,13 +2128,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xOTZ1b0lRQUdZYm5qSXB0THRPSl91Wmt5S09IR3poajBIY1lWSVgzdEpLUDY5VnZOQXlidzRVdE5ISHdCaWpxOXVSa0ozYnlCMnBxNFc3U3ZRYlox?oc=5"
-  },
-  {
-   "ts": "2026-09-07T21:00:18+00:00",
-   "title": "News",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCTUVDbWRzdVI3ODRXOE1pWHR3a0NfYl9QSk8tMXFERWJfUHJjS3d5a0ZfaUl1YTQzd0Vva3UwVlF0S1I1OENXVVNjYWVMdy1zcWRoTFMwazNHXzhM?oc=5"
   }
  ]
 }
