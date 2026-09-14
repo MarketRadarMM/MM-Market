@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-14T21:30:22+00:00",
+ "generated_at": "2026-09-14T22:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-09-14T22:00:22+00:00",
+   "title": "15 September 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KbHladk9ucnpBTmpBZUlDY3R4LVNnLTQtYm5xbTluOWtFcGtZV1I1SEppM3FFV3RueGNWMFhBcnJWSDQweFZxY2YzTmw4RTJYZl9QMQ?oc=5"
+  },
   {
    "ts": "2026-09-14T21:30:19+00:00",
    "title": "Junta Sets Up Committee to Expedite China-Backed Muse-Mandalay Railway",
@@ -2153,13 +2160,6 @@
    "source": "Myanmar Now (MM)",
    "markets": [],
    "url": "https://myanmar-now.org/mm/news/81030/"
-  },
-  {
-   "ts": "2026-09-08T09:00:31+00:00",
-   "title": "Frontier Myanmar",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9NQzlKdkJkQVlpaDdHT3h4OXdpWTlubHhZSFd6U1VnYlpPWDZyWUJIYVFGT1VQQjRGS1EtNVllVThqV0ZpRTFLVlVB?oc=5"
   }
  ]
 }
