@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-14T16:00:27+00:00",
+ "generated_at": "2026-09-14T16:30:23+00:00",
  "signals": [
+  {
+   "ts": "2026-09-14T16:30:23+00:00",
+   "title": "Betel leaf price falls but anticipates to increase back in April",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeWZaN3F5WW5oYzNQZE9aNUdISk1wYWM4cm1CRlRSQlVyR3hWMmhaRVg4d3BRdmkzUDB1cjF4N3I1MjM1Qkg3SUtSWmZVQTFrWElXWUlMUktTOV9oNjZUUVYzOG9rNmlPd285eFJCWjk3Z3dCX2pyUVpjUm9lWGNuUVlqNGd2ZnRrNWo5amRVdEh1U1k?oc=5"
+  },
   {
    "ts": "2026-09-14T14:00:24+00:00",
    "title": "Myanmar attends 2026 Conference of Global Public Security Cooperation Forum",
@@ -2121,13 +2128,6 @@
    "source": "Myanmar Now (MM)",
    "markets": [],
    "url": "https://myanmar-now.org/mm/news/81023/"
-  },
-  {
-   "ts": "2026-09-08T05:30:19+00:00",
-   "title": "News",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uZTdJSnF1ZDlQa3FWaWo4Y2twMXBGLWIyTTg3UDRlbGRIRkVueGdsQnVUeHplTm1POVk3SGNhM1dTeU5QWEF6OFF1dW5HenctSlFxZF9iUUNORDA?oc=5"
   }
  ]
 }
