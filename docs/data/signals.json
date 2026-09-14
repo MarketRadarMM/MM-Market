@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-14T20:30:20+00:00",
+ "generated_at": "2026-09-14T21:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-09-14T21:00:20+00:00",
+   "title": "Appointment of Kazakhstani Ambassador to Myanmar agreed on",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ0wxZnB2RTBmRmx5TUx6QUdROEJZZ0lwTFJCLU5JR3pJa3BPVldIRFVYVDZEQW9rN01mYm9hb0hXRTMzMXFmengySzh0Wi11QWxfc0l2QmJWX2hHTE5NR3drXy1NbnJQVktuYXVmaDRVTkNYallzU2dTWGxhLW9CTFVTMUtvdjVDb3VN?oc=5"
+  },
   {
    "ts": "2026-09-14T20:30:18+00:00",
    "title": "Regime Airstrikes Kill 5 More Civilians as Rakhine Counteroffensive Falters",
@@ -2134,13 +2141,6 @@
    "source": "Frontier Myanmar",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONGVHOHpLYUgwQnNNUXJuTDVKNENDZnBtcG82UjJ0dGVHQVdxZUZ4TU83VFk5Yk9NTEJyRUpnbWlaM3RMdS1hTzdfN3daY1hlbWlnNUxScUx0SWFoWkRydW52LS1HM2xfY0lKaE5aUEZHVzY0bmlORG02dFBvU19mcQ?oc=5"
-  },
-  {
-   "ts": "2026-09-08T09:00:31+00:00",
-   "title": "The Irrawaddy News Magazine [Covering Burma and Southeast Asia]",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1FU2JNUldlakFrdVRodlFPcWU1MDZzNGw1YjVaeUQ1a1hxZGlOVVY2dDJwRHU0VDNibGRiUGxXLUNSQzZPTU40T0JTaUtFcWY0clRpNHBzSlo0eUVDTEJpNkEwb2xPYzhqWkE5YUdmcW1OUkctdUJjWkJBdw?oc=5"
   }
  ]
 }
