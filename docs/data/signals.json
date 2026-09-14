@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-09-14T02:00:20+00:00",
+ "generated_at": "2026-09-14T02:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-14T02:30:18+00:00",
+   "title": "China Donates 95 Tonnes of Rice to Flood Victims in Sagaing",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRjFyRmc1bWRoVVZBRkh2LWFsa1UxLWhQaS1jSlJ4YUQ1azFGR0ZvVUJvRVAyWkVWNk9nMTJMdXRSVFdZWjRnaDdwT2JGRVFpR0pfbndGZ0tMSlU5ZS1tV193TW5kUWNKVXZyeTdscGsyRWRrRXUwTnY5aWVhU0JnQTVqdzJXTmlvZHAwXw?oc=5"
+  },
+  {
+   "ts": "2026-09-14T02:30:18+00:00",
+   "title": "Falam gradually returns to normalcy as residents return and MPT services resume",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObktmWUdWUFdHUkVVbzBic1k0SzFWX0pKYlRJTjFxdnBpNEFkVERMQXlscl82VU8yS3VOMVBaeVVyM1V1b2Z0R0RLZENmTEdjT05oS2xsVW9NbnVieE5iYktPeUk1V0k1RE1RSGI5cDdQMUdEd0NUb1V5Tlo1UEcybkctMzFHNFIweXdQR0hhZDFJYURndWhiVmhyMkZTSzNPOUdKSDc3Yw?oc=5"
+  },
+  {
+   "ts": "2026-09-14T02:30:18+00:00",
+   "title": "Taninthayi Expands Oil Palm Production with Plans for Local Refineries",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa1NNUDg5bVE5RmRGdzRpZ1hRX1ZjVi1XUnFUS0dVdDRva3l3c1Ayd3Y3UDY4bm9WRktKdEVPbU9yczZacWtXXzZNTWpwUFdGOVBhTTdPZS1RX29QcnJBbElQd0gwR0RaZzlaZlNSRzBKSmpDdVlwVEdWZUd0WDZjRzhRODJwaUNmTm9ZMmRrYk5SNVJxQkhMVVNoTQ?oc=5"
+  },
   {
    "ts": "2026-09-14T02:00:19+00:00",
    "title": "Arrangements made for Teng Hui (Myanmar) Knitting labourers ahead of temporary closure",
@@ -2107,27 +2128,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lVlRZV3VXc1VXSHh3T3dyRG1nR1lhYWV0U0FzcnhkeXVTclNNYUN6czFQQ19JZk1oLW0wVFBiRHBPdDhlSHdXQ3pYeUZzU0Z6Tnpacldn?oc=5"
-  },
-  {
-   "ts": "2026-09-08T01:00:22+00:00",
-   "title": "Economic and Social Chaos of the State",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52SU5uSWhvUkNOTE5yd3NQbm11YVJCb01TM2N1clRWODdLOEJkWDFWWFFrUWItR2xCSzNaVjhOV3NncHY3d0FySnNVN3RDcW85QjIyWmNoMjV0N1hET2p0U1g0SlBlQQ?oc=5"
-  },
-  {
-   "ts": "2026-09-08T01:00:22+00:00",
-   "title": "Page 2970",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xaWEyNDcwOVNVOC1FWTR1a2p2RVY3a1FHNXNiX0RRb25vazBKX0VIMWppaU5MNmM0cHVqM0hwSGJJc1ZVTnRCU043Tm9XVjhEcFdsUmVn?oc=5"
-  },
-  {
-   "ts": "2026-09-08T00:30:19+00:00",
-   "title": "News",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZQjNLTGRKblhxYzRnV3NEOHlJR2VRUWpyM0R4TGV5TmxnblQ2cHJDeEFFZ1dOU3YwUG03Yy11OHRYZUNsOGhidThPNVlvRjFUY0txcUJOdWlPT1Y4?oc=5"
   }
  ]
 }
