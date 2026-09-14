@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-14T17:00:23+00:00",
+ "generated_at": "2026-09-14T17:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-09-14T17:30:21+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5vMjdRR1RKbnRUWUtGc2oyeHBDamtFUEtBdDZCc25qM3ZWN25PZEh2VXVwUnI5SlgzQzZhb290eXV3VnAzSEhYaE1FOA?oc=5"
+  },
   {
    "ts": "2026-09-14T16:30:23+00:00",
    "title": "Betel leaf price falls but anticipates to increase back in April",
@@ -2121,13 +2128,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdGFOa09DWnRtajVWeXdOVy1fZmEzQkJZeHBKd2YxSWQxOEtfRW40UGt6QjFhRHdwaEpMUXBzZlM1dHlfTGtsRE1IanBPOXB3NjhhM25mbHc1TVRCdHN2aWtWalZuQ1Q4aTVwVWxGZDhGRDJ6aklpdElOV2JFbDFWNDN4LXpySFdpV1J6Q0J6N3h3eXNfYjNoSDFJb1V2bVBSMmhoZTBVUkVfaFBFUm4zOEdoNXhDWTJWZk5qWURpanU?oc=5"
-  },
-  {
-   "ts": "2026-09-08T06:30:18+00:00",
-   "title": "ရေဦးဒေသ ကားဝပ်ရှော့ ဗုံးကြဲ၊ ပစ်ခတ်ခံရပြီး  အရပ်သား ၇ ဦး သေဆုံး",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81023/"
   }
  ]
 }
