@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-14T07:00:25+00:00",
+ "generated_at": "2026-09-14T07:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-14T07:30:19+00:00",
+   "title": "5th Yangon International Gems and Jewellery Fair 2026 set for Aug",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUVVwdFRqZkxxajFVNUhWWTRXbVRLMUpYc1RJdUVvRHFwREdFaG42bDNtVTZxRUpWaDhiT0hBNF9VV0hpckxFZnRrRkg3LTFBSHVmN1BDbzRTcURsUWt1VGVmbHZNdWhtcHN5Ri10ZkVlUkp0U29KZkZTY3FKbEZmVUtod3J5NTZjcWlicXhtcDIwQWhW?oc=5"
+  },
   {
    "ts": "2026-09-14T05:00:22+00:00",
    "title": "Myanmar Regime Says UN Envoy Illegitimate Ahead of Credentials Decision",
@@ -2121,13 +2128,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMVd1VGtQSlhfaWo0bVlZaXNsT3VSUWlqNFE1M0M3dVpfal9YQnppazVMeDAxVC11TXplc05sUDd2S2RTQUFDQnQ1OHJaekxZVEhCTHFodGxyNW0yN0lPTWh3MmJNMV9CaXRIZ0N3TWdvQXRKRTV2aElUOHpWdmZZajVtWEtOc1E?oc=5"
-  },
-  {
-   "ts": "2026-09-08T01:30:18+00:00",
-   "title": "8 September 2026",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBidDZLNUdYOEltRURFd2NUdnlsUXR2V1ZVeWhBTEVNbXVFUWlhTWIzSW5ZblE4bEtOQ2Uyb3N4MUtnSWNoS1BHUDZ6bzdHTmxqUm53?oc=5"
   }
  ]
 }
