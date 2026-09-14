@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-14T10:00:22+00:00",
+ "generated_at": "2026-09-14T10:30:24+00:00",
  "signals": [
+  {
+   "ts": "2026-09-14T10:30:21+00:00",
+   "title": "စစ်ရေးတင်းမာနေသည့် ပုဏ္ဏားကျွန်းမြို့အနီး ဗုံးကြဲမှု ၃ ဦး သေဆုံး",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81148/"
+  },
+  {
+   "ts": "2026-09-14T10:30:21+00:00",
+   "title": "ဧရာဝတီမြစ်တွင်းသွား စစ်သင်္ဘောကို ရွှေကူမြို့အနီး KIA ထပ်မံတိုက်ခိုက်၊ ၁၀ စီးထက်မနည်း ပျက်စီး",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81156/"
+  },
   {
    "ts": "2026-09-14T10:00:20+00:00",
    "title": "Temples and Charities Face Demolition for Yadanabon Vanity Project",
@@ -2114,20 +2128,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWlAwUEJFa290QlhOVjlNVHJmUV9xbnZKaVNPdXBkMW03bFpFbzNUOUNyMzd5cl9HQ1ByMlY2ZlZuU1l1OE4xc0FqdGlEOHNBVE9QWVNWVWZnenBIeTVZeWdYUTUzMEdjcFhGeW9XMldrMkxRTzBBTmpKWk9aSGd0dVBTOEt3SEJlT3hoa1ZB?oc=5"
-  },
-  {
-   "ts": "2026-09-08T01:30:18+00:00",
-   "title": "Singapore-Myanmar Vocational Training Institute opens new intakes",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbnpEd0Q4NklTQjFlbFhqZ1pqX3ZUZk1mZlVaZGZndldyeHZQdDZZRng4REMzOUVmSmlaUUFTMzhkSGRKRUE4UHZEbnQzSU5INkpZc0V4TG5iSjhYZ1pUWEtOS1AzSHBON0tUTGREbEhCUF9yTV85TXpoQ3VQQ05ZTGI5dEdwYXAyd0xjbnY2YnQ3czVk?oc=5"
-  },
-  {
-   "ts": "2026-09-08T01:30:18+00:00",
-   "title": "195 PDFs rejoin society",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE45SGp6YlB0MDhhUGNIOGI4VkJaZnMtcTBLYnFpYWJTaDVoTWg0RXhfRWVwMUQwcDBYWEM4MTNNd3hlZVdrUk9IMWZXa2tVRXhGZmpIRXNJYXVQVXNm?oc=5"
   }
  ]
 }
