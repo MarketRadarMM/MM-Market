@@ -1,6 +1,26 @@
 {
- "generated_at": "2026-09-15T12:30:19+00:00",
+ "generated_at": "2026-09-15T13:00:34+00:00",
  "signals": [
+  {
+   "ts": "2026-09-15T13:00:26+00:00",
+   "title": "စစ်တပ်ထံ ဖုန်းသုံးစွဲသူအချက်အလက်များလွှဲပြောင်းမှု၊ ပိတ်ဆို့အရေးယူမှုများ ချိုးဖောက်မှုတိုင်ကြားချက်များအတွက်Telenor ကို စုံစမ်းစစ်ဆေးပြီ",
+   "source": "Myanmar Now (MM)",
+   "markets": [
+    {
+     "market": "fx_kyat",
+     "direction": "bearish",
+     "confidence": 0.65,
+     "rationale": "New sanctions pressure the kyat"
+    },
+    {
+     "market": "gold",
+     "direction": "bullish",
+     "confidence": 0.65,
+     "rationale": "Kyat pressure drives savings into gold"
+    }
+   ],
+   "url": "https://myanmar-now.org/mm/news/81180/"
+  },
   {
    "ts": "2026-09-15T12:30:19+00:00",
    "title": "Heavy rain and strong winds uproot trees in Yangon",
@@ -2146,13 +2166,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZlNoUFRUTjRJZEY0eU5GWEdhNjh5anA2eTRZa09HcmVSNVVkaDcwdVI1eDV2OVVrTGlOX1ZpNElpSkVOM0UyVUI2Y00zMk54eUtUcElBc2NjM0d5MEVBc3NZMEJzMVI5NkN2eldtTklST1ppeDdnaU16dzdaUVY4bDUwVjcyaXh6ejN1OW9sd0R5cmhlOWc?oc=5"
-  },
-  {
-   "ts": "2026-09-09T07:30:19+00:00",
-   "title": "မြန်မာနိုင်ငံမှ တာဝန်ယူမှုရှိရှိ ဆုတ်ခွာသည်ဟု ကမ္ဘာကျော် အထည်အမှတ်တံဆိပ်လုပ်ငန်း ပြော",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81055/"
   }
  ]
 }
