@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-15T03:30:22+00:00",
+ "generated_at": "2026-09-15T04:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-09-15T04:00:21+00:00",
+   "title": "Italian Embassy in Yangon opens scholarship applications",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTzlfOGt0VHNjSDdGQ19fODQzVGl6MzNfRDNqNVBuYWl2R01ySXhJZGFyNmJJODNDOGRSRWRoN2xaNUhBY3l6Z0NBd1ZmeVNqbk1YVFdXU1hsdEdxVjJoMGEyYzVyMDEwX2JlR0tER1B4UmlUdEFJQ3JvbFhxSUh5YV92N2dYMmNIVEF6amVNNE9sdTQ?oc=5"
+  },
+  {
+   "ts": "2026-09-15T04:00:20+00:00",
+   "title": "Myanmar regime says UN envoy illegitimate ahead of credentials decision",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd2FEM1h5WklRVEpuUGRRNUlVTS1QWWNNbHVhNXhRNEpKNVhfRFN3S0VuZklPNUxDVXFjc0l2VWV0cGZiMjRwX2Z6SnVyd3haZmViLUdnSGVBZGxUUHpZbTg3Sm1JZVhEZ191bFJPT0lMTzIzNHV4dktVNXBEM2JfcFVQdXExaTZoSnhFR3NWNnF1azV1c09WdGd2ZlFSdC1NMGtocFBCWDkxdGc?oc=5"
+  },
   {
    "ts": "2026-09-15T03:30:17+00:00",
    "title": "DEMU အမြန်ရထားနဲ့ လယ်ထွန်စက်တိုက်မိလို့ ယာဥ်မောင်းနဲ့ ယာဥ်ကူ ၂ ဦးသေဆုံး",
@@ -2146,20 +2160,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5rbjJjUXI4TDBKUm16YkJNWEVXNE1idDRZMHdDQTctOXhPNi1sdzJFN0NPeFh1aEpRclRjcDhuN190eklJVWl1RnlVQVBmU1RGYWR2Smk1bVc4RnRZ?oc=5"
-  },
-  {
-   "ts": "2026-09-08T13:00:21+00:00",
-   "title": "Dateline",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QLTVHVEVlVzd6VWFpOFJoeFQyY1dsQTJpZlQxZ3FGWFQ1WmY4VWVGalh4MklZR1NBZFJHMU5zcVdlNEdYLXNTRjRISTRhZUhwQWZROWs1bnZ0aDFYT3Bj?oc=5"
-  },
-  {
-   "ts": "2026-09-08T13:00:21+00:00",
-   "title": "The Irrawaddy News Magazine [Covering Burma and Southeast Asia]",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2UlJwaEtockdVVnpDVTdZUEVWV0tlSzN4bEhuandSZkJjYmlQdlJsTzJjc1YzOU92UEJjQ2R3bDU1V0dJT1VoNXV3S1IwNmFDQlc4MXRaRTlYRTNvdWhTMEZxUVQ0QjJ2?oc=5"
   }
  ]
 }
