@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-15T17:00:24+00:00",
+ "generated_at": "2026-09-15T17:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-09-15T17:30:19+00:00",
+   "title": "World",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBWWEVJMThadkFhLTJnelU0X3ZqRm8yaVE5Njc2Yk9BOG12UXVFa3JrUy16R0tkS2M0a0dJd2M5LWM4N2RwNzg3QzUzdVBoNDZSNTNjN3ZFNFM?oc=5"
+  },
   {
    "ts": "2026-09-15T14:00:20+00:00",
    "title": "News",
@@ -2159,13 +2166,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRVNTZkVpbFg0bThBbmZObHRIcmppNnlFR3ZsYk01bFJLYlpCR3lsWVRsbE1rZi03OVNfa2xtZFhkd3lRVGNhUkZ3aDhMUnlnYnhhRGN3dkwxYkE0eExsZXdMNVhfT3ppejd5dXM5eVkySkdQZDFCZzNUX1dQNDA4N0FvRWg?oc=5"
-  },
-  {
-   "ts": "2026-09-09T07:30:20+00:00",
-   "title": "Htantabin hands over MSY village project funds",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1TVp6V2pXQVBRV3FkbFZxc1lPREVVQ0JYN09WOE5YeTdBektENzNnaG9qNVNKdVdNLXJjcnRvSTUxTFN5UjdkRHJ1NVFnTmJ0a2lfRy00elh4OTV2UHJnSExubjJidUhMa1pfVlZCczZ4MDRQTTNVXzFudw?oc=5"
   }
  ]
 }
