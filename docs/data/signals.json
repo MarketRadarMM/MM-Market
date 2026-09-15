@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-15T11:00:21+00:00",
+ "generated_at": "2026-09-15T11:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-15T11:30:20+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CekQ4YS1kM20zaHV1VmVlN19WNmVoNDVveGU1ZW90cFV0TDJVa3BvWmg0Yk5qR2MxdF9zbUVGWnU4Mk9IdXdGazJkcw?oc=5"
+  },
+  {
+   "ts": "2026-09-15T11:30:16+00:00",
+   "title": "Dozens of Myanmar junta POWs escape detention in Chin State",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/dozens-of-myanmar-junta-pows-escape-detention-in-chin-state/"
+  },
   {
    "ts": "2026-09-15T11:00:21+00:00",
    "title": "Grade-7 English Lesson(3) The most expensive jeans",
@@ -2139,27 +2153,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUmtITFJSazFuY0dIZFJSXzc1a2diLUVYSWxWMFVkQnlCajF0OW55eld6SVFpaFh1cEJCS1dCQTdrZTZMTGtVblBsUElvTGJNVF9yRTA0ajlQV0g4VWw5ZFB2MkpfSHdqS3Y4OURqdmNSS0t5Nk9yNjZMci10VUJxalpHNmxCMXRoSVQ2SER1SkV5bVh1MDZoSVdyWldmUndLbnB3?oc=5"
-  },
-  {
-   "ts": "2026-09-09T06:30:21+00:00",
-   "title": "Thailand Arrests 12 South Koreans in Scam Center Bust",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcDBmTDdoODNoZlVzcXJKajVZOWd4dFoxUWVrdENUdXR0bUdQVnRYcmduU01KYVlKU1dOdUNvSFV3c2dyS3VyM0p0c3lUMUZPQndVNTB2ZnR2NE01eGhvMzFSMmhFb1BfcnNKUnd0V200dktPNGdPSlpzNFhSblN4RFN2by1ocUY0bHZsa2pDMmdfZTRJbmNDOG5B?oc=5"
-  },
-  {
-   "ts": "2026-09-09T06:00:18+00:00",
-   "title": "ကသာမြို့မှ ဆန်တက်လာသည့် စစ်သင်္ဘော ၄ စီး ကို KIA တိုက်ခိုက်၊ စင်းခန်းတံတားအနီး တိုက်ပွဲပြင်းထန်နေ",
-   "source": "Myanmar Now (MM)",
-   "markets": [
-    {
-     "market": "pulses",
-     "direction": "bullish",
-     "confidence": 0.55,
-     "rationale": "Conflict in bean/sesame heartland threatens supply"
-    }
-   ],
-   "url": "https://myanmar-now.org/mm/news/81049/"
   }
  ]
 }
