@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-15T09:30:23+00:00",
+ "generated_at": "2026-09-15T10:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-09-15T10:00:20+00:00",
+   "title": "Analysis | UWSA Neutered: Myanmar’s Revolutionary Driving Force Derailed by China",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYk1vOEZFSnZEZ09nX1ZZNzV0b1hqUS1TVnhLMDhWazJzZHZxLTZ1R21sbDJCaVFDZV9FZzlRZl9lNWM1Y0NpMU5wNDRuc055ZkZrUnAxYk9UOXoyYTlMX2ozYzBDSFBuNlRMS3Vkbkt2N25Jb1FuV05CS2RILWhOQjdlSjh0c2oyUEFieTA2RWJYelJSNWV0aWxWMjFnV2Vfd0lEWUZ3NVdkOE01c1JjTjZZUjVzcmM?oc=5"
+  },
   {
    "ts": "2026-09-15T09:30:22+00:00",
    "title": "Guangxi Floods Archives",
@@ -2153,13 +2160,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wZXZmQWg0NDZyM0plWkxSNVRIVG5VeHYzOElXMnBYRm1qQlpYZ01mWVpVWTYxS2E4cDRtdEpLa3VtNDFxWlc5NTFlVDZVUmppdHpZ?oc=5"
-  },
-  {
-   "ts": "2026-09-09T03:00:19+00:00",
-   "title": "SCEF ရဲ့ ဖက်ဒရယ်ယူနစ်ကိုယ်စားပြုမဏ္ဍိုင်မှာ စစ်ကိုင်း၊ မကွေးနဲ့ မန္တလေးတို့ အဖွဲ့ဝင်အသစ်ဖြစ်လာ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.co.uk/burmese/live/cxyvznj05355t?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
