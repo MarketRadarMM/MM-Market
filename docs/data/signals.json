@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-15T13:30:21+00:00",
+ "generated_at": "2026-09-15T14:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-09-15T14:00:20+00:00",
+   "title": "News",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBEUUp1ak9pUVRVN0Y1d2pBMTFjVHRKR1AxbUgzbm1aZ3dGdkk5c2xZQWpIRzJ0eGwyQU10SmVCVVdjaXZaVDB5RXJIeEFWaTEyYmNBeVRxTndQU29F?oc=5"
+  },
   {
    "ts": "2026-09-15T13:00:26+00:00",
    "title": "စစ်တပ်ထံ ဖုန်းသုံးစွဲသူအချက်အလက်များလွှဲပြောင်းမှု၊ ပိတ်ဆို့အရေးယူမှုများ ချိုးဖောက်မှုတိုင်ကြားချက်များအတွက်Telenor ကို စုံစမ်းစစ်ဆေးပြီ",
@@ -2159,13 +2166,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1TVp6V2pXQVBRV3FkbFZxc1lPREVVQ0JYN09WOE5YeTdBektENzNnaG9qNVNKdVdNLXJjcnRvSTUxTFN5UjdkRHJ1NVFnTmJ0a2lfRy00elh4OTV2UHJnSExubjJidUhMa1pfVlZCczZ4MDRQTTNVXzFudw?oc=5"
-  },
-  {
-   "ts": "2026-09-09T07:30:20+00:00",
-   "title": "Humanitarian assistance forum focuses on strengthening cooperation",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZlNoUFRUTjRJZEY0eU5GWEdhNjh5anA2eTRZa09HcmVSNVVkaDcwdVI1eDV2OVVrTGlOX1ZpNElpSkVOM0UyVUI2Y00zMk54eUtUcElBc2NjM0d5MEVBc3NZMEJzMVI5NkN2eldtTklST1ppeDdnaU16dzdaUVY4bDUwVjcyaXh6ejN1OW9sd0R5cmhlOWc?oc=5"
   }
  ]
 }
