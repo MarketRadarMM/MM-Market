@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-15T00:30:22+00:00",
+ "generated_at": "2026-09-15T01:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-09-15T01:00:22+00:00",
+   "title": "News - Khit Thit Media",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5nMGI4cFo0cTNfWnhKbTI5ZjR0QXVjZFI5SzMyZlo3ZUZ4VncyOXlJM3NXWnF2enplVFliZlh3MDhfV0FxellBejhR?oc=5"
+  },
   {
    "ts": "2026-09-15T00:00:19+00:00",
    "title": "Poem 4 – Page 231",
@@ -2153,13 +2160,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TTW9TVVlFV3AwbmU2bEVLRlgwVGlTWklsRjhLWllSVGVsWUllMjZVVWktdGNNdXNLS0NiZHRPNEo0dFF1LTh6endRb1Foa3hDRG51cnEzbktxQm55cmtmZ3NNNFFENUkz?oc=5"
-  },
-  {
-   "ts": "2026-09-08T11:30:18+00:00",
-   "title": "Buddhist monk, child among four killed in Myanmar military drone attacks",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/buddhist-monk-child-among-four-killed-in-myanmar-military-drone-attacks/"
   }
  ]
 }
