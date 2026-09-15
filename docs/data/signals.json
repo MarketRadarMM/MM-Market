@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-15T03:00:21+00:00",
+ "generated_at": "2026-09-15T03:30:22+00:00",
  "signals": [
+  {
+   "ts": "2026-09-15T03:30:17+00:00",
+   "title": "DEMU အမြန်ရထားနဲ့ လယ်ထွန်စက်တိုက်မိလို့ ယာဥ်မောင်းနဲ့ ယာဥ်ကူ ၂ ဦးသေဆုံး",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.co.uk/burmese/live/c8750vp4d761t?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-15T03:00:20+00:00",
    "title": "Yangon Police intensify efforts to prevent crimes",
@@ -2153,13 +2160,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2UlJwaEtockdVVnpDVTdZUEVWV0tlSzN4bEhuandSZkJjYmlQdlJsTzJjc1YzOU92UEJjQ2R3bDU1V0dJT1VoNXV3S1IwNmFDQlc4MXRaRTlYRTNvdWhTMEZxUVQ0QjJ2?oc=5"
-  },
-  {
-   "ts": "2026-09-08T12:00:24+00:00",
-   "title": "UN Rights Chief Calls for Referral of Situation in Myanmar to ICC",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQU5NMjNjblNCUmpSM3VuWUI2V2pCQzVKWGtCSGg4eEgyd3FoeUZNclAwVVBIU0lOQkhFMnVTOG5vTFBNTlhaMEo3bTlVakpHbjBVUnltQ2JsdVNiV0toSjJ6QThlZjZKdmRJMDM0M0RMOTRaNXk3N1NSRHN6anlpUzUwbEFvcEwzbmp4azEtQnBiU0lwODZ1T0VENkgtNDFSNDFkUlM2ZENKd1R0bndtRkYwX3hJaV82NkRwanVnd0dWZGFfVHc?oc=5"
   }
  ]
 }
