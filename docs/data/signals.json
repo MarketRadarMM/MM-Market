@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-15T04:00:21+00:00",
+ "generated_at": "2026-09-15T04:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-09-15T04:30:17+00:00",
+   "title": "Myanmar escalating aerial attacks on civilians: UN probe",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaG9qWGJKR2RNaEJ1MVlaNnNuT1FucGFGZ2tidkdOR29lbTk4clhUbHJLa1RRVzgwQW90YkV6SGlNWW0yN1R4dDVDbjl0WjZnamRUdGFJR2ZmZUpzZW5iYmNPOTZ3c0FmVlpMVHN4S2tsWDRkUFVXdW03Smc3bnBTd09IMHNHNU53VklhN1dsZkNzN19hWEE?oc=5"
+  },
   {
    "ts": "2026-09-15T04:00:21+00:00",
    "title": "Italian Embassy in Yangon opens scholarship applications",
@@ -2153,13 +2160,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pUkxNRGRjVzZxZmd1cEZnYzJCN1QyNmc3WGVXU3FHcTBGQUxqdmtlR1R2WTZlOC1sQWxFVkdFejlwRHk1VlBzZ2Uzd0JJTXRaMmp6cjdFWU05S2g2?oc=5"
-  },
-  {
-   "ts": "2026-09-08T15:00:34+00:00",
-   "title": "News",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5rbjJjUXI4TDBKUm16YkJNWEVXNE1idDRZMHdDQTctOXhPNi1sdzJFN0NPeFh1aEpRclRjcDhuN190eklJVWl1RnlVQVBmU1RGYWR2Smk1bVc4RnRZ?oc=5"
   }
  ]
 }
