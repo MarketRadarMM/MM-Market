@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-15T20:00:21+00:00",
+ "generated_at": "2026-09-15T20:30:27+00:00",
  "signals": [
+  {
+   "ts": "2026-09-15T20:30:26+00:00",
+   "title": "Lion Dance Competition",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcXdYUGtxaERZTmx4QXV0cjJ1cU5iVkJaS192U1haeEgydHZoRTlIZm5peVhtSDgxWjBBck1fYkNldkZDbng3NjVhanNnVDB3VWZiNDlWaGwwdkFwLU9NenBXdkdjaEhwektSZXQ2NExNbW9kbWQ5VFFLcnJCU1hnNXpR?oc=5"
+  },
   {
    "ts": "2026-09-15T17:30:19+00:00",
    "title": "World",
@@ -2159,13 +2166,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOFdNaGFkcEhySTBhVnNLUEI1WDlqdjBDYlRzZEdDVU5EVDZjaUdubG0tdjQyeGNyNnlFemlWTklHUUl5czM0bVJUNGNmVEUzMWIxdk9qbHBRN3czMlp3VFM2d2dQR25HdGFuYk00djVwZ0hDdFVweDFfT2pPb0drMjR0RVhsREh4UEg4bUh0TkxJTFoyTDZEQW5RUWw?oc=5"
-  },
-  {
-   "ts": "2026-09-09T07:30:20+00:00",
-   "title": "MSY Village Project implementation inspected in Papun",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRVNTZkVpbFg0bThBbmZObHRIcmppNnlFR3ZsYk01bFJLYlpCR3lsWVRsbE1rZi03OVNfa2xtZFhkd3lRVGNhUkZ3aDhMUnlnYnhhRGN3dkwxYkE0eExsZXdMNVhfT3ppejd5dXM5eVkySkdQZDFCZzNUX1dQNDA4N0FvRWg?oc=5"
   }
  ]
 }
