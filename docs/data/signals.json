@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-15T05:00:24+00:00",
+ "generated_at": "2026-09-15T05:30:22+00:00",
  "signals": [
+  {
+   "ts": "2026-09-15T05:30:22+00:00",
+   "title": "3.5 VISCOSITY (Fluid Friction)",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDRnlmTVdkS3BYM1h2dW9WejVCNmlVTmIwQUVPVkZMSXhLbkx3MnFJWnV6bkd1UFF4bDVYWmtFcy03b0dDbk11SHk1YmxhS1V2MXg1QVJXT05yQ0VqYWd2Qks3YUtNYU9IbmRHY2FLd2hYempXZXo0?oc=5"
+  },
   {
    "ts": "2026-09-15T04:30:17+00:00",
    "title": "Myanmar escalating aerial attacks on civilians: UN probe",
@@ -2153,13 +2160,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXVUgzdVhXT0djYkpRcUxyXzRwS2daVThSVTlHOEpRZ2xqUjRxLXZBTEFGdFJNWnFNTEx0Y1ZLbGtGSnVua3hNY21STTFLUFNBUDBoUEZFMmVITFcwNzZiR0FLSXJRS00?oc=5"
-  },
-  {
-   "ts": "2026-09-08T16:00:25+00:00",
-   "title": "News",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pUkxNRGRjVzZxZmd1cEZnYzJCN1QyNmc3WGVXU3FHcTBGQUxqdmtlR1R2WTZlOC1sQWxFVkdFejlwRHk1VlBzZ2Uzd0JJTXRaMmp6cjdFWU05S2g2?oc=5"
   }
  ]
 }
