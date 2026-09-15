@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-15T08:00:24+00:00",
+ "generated_at": "2026-09-15T08:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-15T08:30:18+00:00",
+   "title": "မင်းတုန်းမြို့နယ် ရိုးမတောင်ခြေကျေးရွာကို ဗုံးကြဲ၍ ကလေးများအပါအဝင် ၆ ဦး သေဆုံး",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81171/"
+  },
   {
    "ts": "2026-09-15T08:00:23+00:00",
    "title": "- yktnews.com",
@@ -2153,13 +2160,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VYWhoRzhWUl9aQVFLXy1ibmo5WF9QSlM1ZVlfTTdmNmFhYUVyMVpJUS0zNWdGdDdmME5uMVpiT1UyeXVNdkhkWEh2WjhSU2FIME9XcUp4aGN1QQ?oc=5"
-  },
-  {
-   "ts": "2026-09-08T18:30:20+00:00",
-   "title": "War-bruised Myanmar finds relief in bareknuckle bloodsport",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeEVEZDRjczh1NzViazFHa0FBQUw0RjdWX1oycUVpc1JjS2VEa0JjUF9WenRKb01YZnpQTHV1cnExaWMxcEp4MW9NMWszTm9RbFRUU0JWcU82dTFhOEplQ3RnRWR5Q25RT2JaTndaYldFZGVsbU00VE1DdUhHRlpYSjU1eU11YjNRSkgxMHEyVFBNU1ZRODNHVzJR?oc=5"
   }
  ]
 }
