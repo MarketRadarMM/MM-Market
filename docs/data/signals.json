@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-15T09:00:21+00:00",
+ "generated_at": "2026-09-15T09:30:23+00:00",
  "signals": [
+  {
+   "ts": "2026-09-15T09:30:22+00:00",
+   "title": "Guangxi Floods Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wZDhIMDNMOWZ4VEk0UlllRFh1d3pabDhtbGtEcUd0UURJa3dXQk8yOFJ4YUNqQk14d2V1VWpiRVU5d1lxSmQ0bmxVeTFTYmZxTnBqTnA1WQ?oc=5"
+  },
   {
    "ts": "2026-09-15T08:30:18+00:00",
    "title": "မင်းတုန်းမြို့နယ် ရိုးမတောင်ခြေကျေးရွာကို ဗုံးကြဲ၍ ကလေးများအပါအဝင် ၆ ဦး သေဆုံး",
@@ -2153,13 +2160,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.co.uk/burmese/live/cxyvznj05355t?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-08T22:00:20+00:00",
-   "title": "Karen Revolution Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VYWhoRzhWUl9aQVFLXy1ibmo5WF9QSlM1ZVlfTTdmNmFhYUVyMVpJUS0zNWdGdDdmME5uMVpiT1UyeXVNdkhkWEh2WjhSU2FIME9XcUp4aGN1QQ?oc=5"
   }
  ]
 }
