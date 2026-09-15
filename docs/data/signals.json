@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-09-15T10:30:22+00:00",
+ "generated_at": "2026-09-15T11:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-09-15T11:00:21+00:00",
+   "title": "Grade-7 English Lesson(3) The most expensive jeans",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTkRzUUFkYTdlbHM1b1lBMUc0X1ZzYzV6alNCRlRjRnZYVmlqM0dxV0luT2ZpUGdRbm5Cc2c0NHB5QWdONlNOYTlSNG1IdVhEeG5mRTh4bkd1bnpyRVd0OFJmMjAtOGhtZFhabXBjdUc4M0tEQ1UtWUdPMkdwdk5LZzJvaVdpaG55NnNtcGdCb2gyUQ?oc=5"
+  },
+  {
+   "ts": "2026-09-15T11:00:21+00:00",
+   "title": "2.2.1 Structure of cell membrane – Page 53",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSGw1bE9jTS1yblkwWEM1ZzVzX2dGVmlXYjYwTjVoOEdwTzZETHdsREE2Y2ppajVOcU9fR0xidklwWE5HX2F2N0tZeWJ6bGtzVW1zT1JmaW10NXpSanpiQTlEanUzS3I2ZERTX0dmUFVVbENQdHFQalhDUHB0eTlpa2FfRXp5V3N2Ykc3bA?oc=5"
+  },
+  {
+   "ts": "2026-09-15T11:00:18+00:00",
+   "title": "Only one of 20 junta flotilla vessels able to return from Bhamo: KIA",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/only-one-of-20-junta-flotilla-vessels-able-to-return-from-bhamo-kia/"
+  },
   {
    "ts": "2026-09-15T10:00:20+00:00",
    "title": "Analysis | UWSA Neutered: Myanmar’s Revolutionary Driving Force Derailed by China",
@@ -2139,27 +2160,6 @@
     }
    ],
    "url": "https://myanmar-now.org/mm/news/81049/"
-  },
-  {
-   "ts": "2026-09-09T04:30:20+00:00",
-   "title": "Q&A: Explaining Myanmar’s private security law",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQT2ZxSlFpdXVnWXlsaU9UQmhwYy1EVDlwMHZwbENBQmx0RDFucE0tdTVtMDZoQWpKcXRhQnRzUlduVEw4OHVEVmFpSDhWUlVDMWtPWVJtMFpSMTM4Q3JfYnN0dHM0dlFaUzBIa0NSOHN4QlNjRF80N2lHZjQyaXpEaGw1Y2wwZw?oc=5"
-  },
-  {
-   "ts": "2026-09-09T04:30:20+00:00",
-   "title": "News",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NZE1mYS10aklkSENjVXQzUXczSW1HMGJZOVBFRWJoRlZGbGtmZjFZMGVMeHlIUWxmWGYxYzdqdVlxUkVrRk82OVNkdTVGbFpOMGp0NVRoV2gwckx0?oc=5"
-  },
-  {
-   "ts": "2026-09-09T03:30:17+00:00",
-   "title": "9 September 2026",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wZXZmQWg0NDZyM0plWkxSNVRIVG5VeHYzOElXMnBYRm1qQlpYZ01mWVpVWTYxS2E4cDRtdEpLa3VtNDFxWlc5NTFlVDZVUmppdHpZ?oc=5"
   }
  ]
 }
