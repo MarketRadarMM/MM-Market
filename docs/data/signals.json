@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-09-16T05:00:23+00:00",
+ "generated_at": "2026-09-16T05:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-09-16T05:30:20+00:00",
+   "title": "YSX stock trading values exceed K1.7B in Feb",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmeGFFQV8xV05aSmNOTVZqeVF0eHQ3R01kblNpUXdoV0pUNGFXMU04bHNoTXdzVHlBUi13ZVVoaXExblMzTGw5MC1EMmRpNlVhWkxQUjBNdFdPbWF6emtvaDR0dUY3d0FIQnBGWmluZk1QeUYyQ01YTA?oc=5"
+  },
+  {
+   "ts": "2026-09-16T05:30:19+00:00",
+   "title": "The Irrawaddy News Magazine [Covering Burma and Southeast Asia]",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE15Ty10aTlkSEpaMmVES19lT3NzMUlFR3BmZ0V1TnphQTV2UWpTMHl1S0tjbFdjek9pOTZaaWhuMVRmcTNZRXdfTWM0MW1qWXBnWV9JOUUyU3JzQ3lwMmlkYWVkZ2tQV0RC?oc=5"
+  },
+  {
+   "ts": "2026-09-16T05:30:19+00:00",
+   "title": "The Irrawaddy News Magazine [Covering Burma and Southeast Asia]",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sand0Ri1yWFlTUGZVS3lmcWNWajlRQmdMeWRVZ19hODhUcEFqWHhPYXd1UmdpalNObXhZVmFSUDlhbWFnMnFiWjRvUjhERDg3M2luVGp5ZzVCamVzQnpxdFpkdWp1WmM?oc=5"
+  },
   {
    "ts": "2026-09-16T04:00:20+00:00",
    "title": "President U Min Aung Hlaing tours Angkor Wat and Bayon temples in Angkor Archaeological Park",
@@ -2138,34 +2159,6 @@
     }
    ],
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOFBueF96M2ZqNkpaMXpwRVlwdWxQUUV1MGZ3WFlxTG5RU281R18xOWZPa29wclctR3JIclYxRUxhYUZEcFdPWE1XNEIyWVN4QTkxQlFJUGFLV2VIZndCZ0hNR1d3X1EzRl9qY0xjQ1AxMFl2UkNwNGxQc3U1T2ZNOXROTEJWb2dwVUZpV2JlT21fRnZadGU4dGYwemlteGc?oc=5"
-  },
-  {
-   "ts": "2026-09-09T10:30:16+00:00",
-   "title": "H&M says Myanmar exit from garment factory follows responsible withdrawal policy",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/hm-says-myanmar-exit-from-garment-factory-follows-responsible-withdrawal-policy/"
-  },
-  {
-   "ts": "2026-09-09T09:30:15+00:00",
-   "title": "Myanmar military kills 7 in airstrike on Sagaing car workshop",
-   "source": "Myanmar Now (EN)",
-   "markets": [
-    {
-     "market": "pulses",
-     "direction": "bullish",
-     "confidence": 0.55,
-     "rationale": "Conflict in bean/sesame heartland threatens supply"
-    }
-   ],
-   "url": "https://myanmar-now.org/en/news/myanmar-military-kills-7-in-airstrike-on-sagaing-car-workshop/"
-  },
-  {
-   "ts": "2026-09-09T08:30:19+00:00",
-   "title": "ပညာရေးဝန်ထမ်းများကို AA  လစာ စတင်ပေး၊ ပမာဏနည်းသောကြောင့် အခက်တွေ့",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81060/"
   }
  ]
 }
