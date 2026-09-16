@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-16T09:00:23+00:00",
+ "generated_at": "2026-09-16T09:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-09-16T09:30:20+00:00",
+   "title": "Falam MEB installs B2B Satellite Terminal",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zbndqSE9vUnpyeE9kS1VNZGpkTm5tZ3VHTnNuMHpBbmlIQXFEY1JKemJlWHpmQUM3NVZDMmF2eDdEVjJfYXRwVjVTOEpZWGVDQVFEamZxeHdjZU1hcFhWLUZwMGdlQnFzX294TlhQOGx1WVlj?oc=5"
+  },
+  {
+   "ts": "2026-09-16T09:30:20+00:00",
+   "title": "Centenary Plaque to Honour Hsipaw Haw",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92YTNsNWV4V1pmRThYSnNLemNvOHZyN3pSVWNkc3ctWTFlQ3htQlJnWmhEX19sMlFGY3k0ZlQxOTljdE43U2hpRjBFcnM5ME1zRXlhakNZcTd6Tk1JRFVqZnNRaUFvMkpFcGxCTlB6MA?oc=5"
+  },
   {
    "ts": "2026-09-16T09:00:22+00:00",
    "title": "Man Held in Schoolgirl Murder, Gold Theft",
@@ -2138,20 +2152,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZE5wb3B6MHkwTE4xR2h3aFRmSHJESDVTXzJhSno4bGs4cG1kWktiNTY1ZVhaMlBvVmZOLVFGMTRjSzMxUUdmSHIyekNKSjhqZUZ0SXl1emZpa2szdE81bHI2NU52SGpZb0xBMEx6a096YlJDY3hYd0lGZEROZEd4c2RXQzRibkFLcTlpNHFEbVNYQTJjTXFQMG1oay1nYXN0M1lNUXMzZ2NHNnh5ZFRucUNPdExZRlhsM3VBaFROX3J5dzBMdTJoOVJ2ZWlIMktCWVJBMmlWQ1lMWXdMUTc1MEtYZXc?oc=5"
-  },
-  {
-   "ts": "2026-09-09T13:00:18+00:00",
-   "title": "9/11 - ၁၁ စက်တင်ဘာတိုက်ခိုက်မှုမှာ ဘာတွေဖြစ်ခဲ့လဲ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c9dwj9j3ezeo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-09T13:00:18+00:00",
-   "title": "တချိန်က ''ဥက္ကဋ္ဌကြီးမော်'' နှစ် ၅၀ အကြာမှာ  ''ဆရာကြီး''အဖြစ် Gen Z တွေကြားပြန်ရှင်သန်",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cgjqyw42718o?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
