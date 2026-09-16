@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-09-16T10:00:25+00:00",
+ "generated_at": "2026-09-16T10:30:22+00:00",
  "signals": [
+  {
+   "ts": "2026-09-16T10:30:22+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DdWR3UFN5RVVzaS1ULUFEM0N2eEthTjhjM3IzdG9HNUtYNHZ1Tk45UldFU0Vfd1NpWmt2ZjVnNG1uUG5nS1Q5TTExTQ?oc=5"
+  },
+  {
+   "ts": "2026-09-16T10:30:21+00:00",
+   "title": "China Vows to Protect Chinese Nationals Amid Battle for Kyaukphyu",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN3VuTlE0dUZjMlRKU0RHanItRkNJazZnRnR2ZjQxdTFFT1N1TndXZ0k2alVUakN1RVZMYmlnazZCZTllcDJiS3RidkFNb0ZHdWVCSWJpRTZxYUh4U2t0YlM0SFR1SEw2TkZqTEgwYl9pdmVjb1YySjc1ejROckZSUGQ3SW9KV19lRDVWalk1cDZQVExqaVNtYnpLMXIxb3owYWl6YUhHVmJFd2t6YWVuQWRqQjBtMGxlM1Z1T2h3?oc=5"
+  },
+  {
+   "ts": "2026-09-16T10:30:19+00:00",
+   "title": "Myanmar military kills six in paramotor attack on village near Magway-Rakhine border",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/myanmar-military-kills-six-in-paramotor-attack-on-village-near-magway-rakhine-border/"
+  },
   {
    "ts": "2026-09-16T10:00:23+00:00",
    "title": "Video Archives",
@@ -2144,27 +2165,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMkdmMWhzd3BpZzVmUUdQUzFNN3ZlejZsTVdfakxZTktGODM0cXZTdVlXQUJQcVVaRGx6a1NHLUx3dE03S1BrenlnOWZsRS01a0JGbVMtaXNrMjRYNGxnX3ZfV0hJUmYtZEVBak9jU1RhOU9Pc1k2Vm9wSmhSWnpvOFVXQWpPRFpMS2Q5VkFBVUp0Q0NRTGMtd0hFOFNRNnloZXA0VjF0Z0NEZU5RU1ozaWh6MWRhWVBERTBSc1JhUUg?oc=5"
-  },
-  {
-   "ts": "2026-09-09T14:30:19+00:00",
-   "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing addresses 2026 International Literacy Day",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSFRyOG5wSnJLazhCeVE1bUtPTTVNcy1sRDd2XzJ0VjZCS2V3eGRwVzNtVUJFMEhzZkpFMWYxOTgzOVB4OGpHd3dzRmg1N3g0YzVPaWdoWnpSZmhvRjRhVEIwclJMZUdCV25FazNPRHZuclBJQ1VYT0hCZXNlZ3Rzc2d5aVBfWUxiR09TQ1FTMy13NENGcGl5cVgzX2lmcnZadGIySERyWXRFdWp0Z1RrTkx5cC1Ednh6a3U4?oc=5"
-  },
-  {
-   "ts": "2026-09-09T14:00:22+00:00",
-   "title": "MNREC designates Kali-1 protected public forest",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBaaU9hMWZKYWFaTGp4VVQ4bFRsbnd1Ymw2clEyVjEzTkc5Vml5Wml1dE95RGJvU0dKaktsbUhaVER4bUNMaTcyajQ2aF8zRlVCVzkxVXhfZEN6YnlBVWFPN2JtdkJDUzBHeDJzc1ZIWlRvYkFWazBZTmlsS1k?oc=5"
-  },
-  {
-   "ts": "2026-09-09T14:00:21+00:00",
-   "title": "Resistance Destroys Five More Regime Vessels on Bhamo Mission",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQanFnMDlrMDVwdnVYanU1Wm80OTlXS25QYzh5b0Q5RGUzX3NPX3lCMXNBbHZXYU9PcS1rd3RxMno4Sm52bnRPeEZjWWtkSk41TGtqcTg2Q1hPcU8yTDM4OGRDNXJCNkhScVpHZWRJVUNDb2wybG9aNXhJb0s0MmxLRnBmWXROQXVkeXpEc0FrV25PWEZnejEyZXZVMkk2YzdRT3c5bTYzTmxGOUxtWnpFbkxkS2FEbTJJRnhB?oc=5"
   }
  ]
 }
