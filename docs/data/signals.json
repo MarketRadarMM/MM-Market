@@ -1,6 +1,33 @@
 {
- "generated_at": "2026-09-16T09:30:21+00:00",
+ "generated_at": "2026-09-16T10:00:25+00:00",
  "signals": [
+  {
+   "ts": "2026-09-16T10:00:23+00:00",
+   "title": "Video Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xeG5iSkN5OFp3alV2TzJOZXRRTG9DQzluYUVfWXFKbUoyVjJkYlFwLWhzUloxeURIVkZWS241WjVjRkdNems3bU52dkRlWVpyTlZEZTdRNS1kTmc?oc=5"
+  },
+  {
+   "ts": "2026-09-16T10:00:20+00:00",
+   "title": "Norway charges Telenor with dual human rights and sanction breaches",
+   "source": "Myanmar Now (EN)",
+   "markets": [
+    {
+     "market": "fx_kyat",
+     "direction": "bearish",
+     "confidence": 0.65,
+     "rationale": "New sanctions pressure the kyat"
+    },
+    {
+     "market": "gold",
+     "direction": "bullish",
+     "confidence": 0.65,
+     "rationale": "Kyat pressure drives savings into gold"
+    }
+   ],
+   "url": "https://myanmar-now.org/en/news/norway-charges-telenor-with-dual-human-rights-and-sanction-breaches/"
+  },
   {
    "ts": "2026-09-16T09:30:20+00:00",
    "title": "Falam MEB installs B2B Satellite Terminal",
@@ -2138,20 +2165,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQanFnMDlrMDVwdnVYanU1Wm80OTlXS25QYzh5b0Q5RGUzX3NPX3lCMXNBbHZXYU9PcS1rd3RxMno4Sm52bnRPeEZjWWtkSk41TGtqcTg2Q1hPcU8yTDM4OGRDNXJCNkhScVpHZWRJVUNDb2wybG9aNXhJb0s0MmxLRnBmWXROQXVkeXpEc0FrV25PWEZnejEyZXZVMkk2YzdRT3c5bTYzTmxGOUxtWnpFbkxkS2FEbTJJRnhB?oc=5"
-  },
-  {
-   "ts": "2026-09-09T13:30:17+00:00",
-   "title": "Old analogue meters to be replaced with smart digital ones in Hline",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQVdKaG5DanEwSEN5c0ZrWGNrQWFQLVQ4b0QzUWNOS3dVVnh6MDB5VXRBTVh1aWh2RXlnQ1VHU0xlMkl4R2U4M0w4a0xVYmNYSGhwWG9tRHRjcWxDY1hWS2pVT21JajloclVzUE5lRHI0NUM3RTlNYjJZb3hZM1RabVhSOWJ4dlFOY2VJRkVYNW9tWktnVG80?oc=5"
-  },
-  {
-   "ts": "2026-09-09T13:00:21+00:00",
-   "title": "၄၉၂၆ စစ်ဆင်ရေး Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZE5wb3B6MHkwTE4xR2h3aFRmSHJESDVTXzJhSno4bGs4cG1kWktiNTY1ZVhaMlBvVmZOLVFGMTRjSzMxUUdmSHIyekNKSjhqZUZ0SXl1emZpa2szdE81bHI2NU52SGpZb0xBMEx6a096YlJDY3hYd0lGZEROZEd4c2RXQzRibkFLcTlpNHFEbVNYQTJjTXFQMG1oay1nYXN0M1lNUXMzZ2NHNnh5ZFRucUNPdExZRlhsM3VBaFROX3J5dzBMdTJoOVJ2ZWlIMktCWVJBMmlWQ1lMWXdMUTc1MEtYZXc?oc=5"
   }
  ]
 }
