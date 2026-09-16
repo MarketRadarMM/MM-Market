@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-16T13:00:25+00:00",
+ "generated_at": "2026-09-16T13:30:23+00:00",
  "signals": [
+  {
+   "ts": "2026-09-16T13:30:22+00:00",
+   "title": "Gold and jewellery export, import commence",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96SUFjMnBuMFU2aTNvMGFmRDdvRnJIUkJxV1pTaVYtYXdZQzJ6bzVULVJCRnVlRU9meXY1VmFjZkRuSmZvOXMxZEtUaC1GcmtGZS1lalBlMGxYRzRybHlYWHlWSzQ3OXJNQXJnVlhST1dpcHFo?oc=5"
+  },
+  {
+   "ts": "2026-09-16T13:30:20+00:00",
+   "title": "ကရင်မြောက်ပိုင်း ဖာပွန်ကို စစ်ထိုးလာသော စစ်တပ်ဘက်တွင် လက်နက်ချသူနှင့် ကျဆုံးသူအချို့ရှိ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81197/"
+  },
   {
    "ts": "2026-09-16T13:00:23+00:00",
    "title": "Norway raids Telenor HQ over suspected Myanmar rights abuses",
@@ -2151,20 +2165,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUl9LWDV3eXlicWZTblQ3QV9YQ1hEWURYVGYyMlpWakZkWWt4OEQ4bWNPb1lFb0lidEh1MWlCVEZlajdQal9CYkpKX0p3NTNrRWwydGkxQzAwLU9uekFGaXZ4VUJfcXN1UllPOGpQTDVnTVByM2owOFlUR1VhVF9jTGx3?oc=5"
-  },
-  {
-   "ts": "2026-09-09T21:00:20+00:00",
-   "title": "CMG, ELBC launch science programme for Myanmar youth",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSThPcVpweFFQaVl4WWo1MVVWZ0xTNGgyYS1iR1g4dzZHaWg4SmFjc2xEVXdNTUphcXZnMk5fX1NrWDJSTVRPRzhnbkNfb09pX0dTRVZuNHIxLXBfWTlSbENfTndWcEM4SVVOcGdKS21Vc1RvVDA4c2hfY2J3OXJILS1n?oc=5"
-  },
-  {
-   "ts": "2026-09-09T21:00:20+00:00",
-   "title": "Dawei Airport Upgrade Nears Finish Line at 75%",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLRUNsT0NWRmViVUNEb0ZCX2lTeUZPU2ZmcngxZDRYR3ZBQ28zZDl0UVhjYjBtNDI4ZnB0Q19Sb2lsa1d1eFowejhBSWFmc0phQVNyYkF5aDd3RV9yM2FqeXVmS2xRMXRNUDBtVEU5TG5NYXpabmFlVzNB?oc=5"
   }
  ]
 }
