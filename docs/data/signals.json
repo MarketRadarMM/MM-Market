@@ -1,6 +1,34 @@
 {
- "generated_at": "2026-09-16T20:30:19+00:00",
+ "generated_at": "2026-09-16T21:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-09-16T21:00:23+00:00",
+   "title": "4 foreign nationals transferred over telecom fraud links",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTVJqQ0tWWnFYMFU0WXRfVF9jWkpHeURGMXBBck1tZGd0eFBIRXNCM0pzSHJLcXhWLVYxTkZ4aXB4UXlGSEZzYlNpNUZZM3pLeWV0UHRQQmZPbDFNWExER1dELU1JUm1jVmlXbU1USGVxa201LWc0akFaVVRYdXJLQjBYcHB0ZmZJ?oc=5"
+  },
+  {
+   "ts": "2026-09-16T21:00:23+00:00",
+   "title": "106th Myanmar Motion Pictures Day, 49th Film Industry Elders’ Honouring Ceremony set for 13 Oct",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdzNxVlJ2d0U2V0ZyM09fb3ZiZnVZdkw1VGFXbWVqXzhtYlg1V2M2U19kWDdqUGtCVnhmZjJnQWVqSkdFd01rT0NOWFpJWEZ6RmE4aFVXcklsT1ZRYkZ6NWRSb21HVERMU1loMUdqeWpKdFZPUEJzM1FUbzR2b01jbjQzV2FYUC1mOTlzZ0ZOZ1R6bjA5VHB6ZVcwdHFMZkNHeUNER25JUnR2VWpUNXhyUnBxZC0xNldGT2c?oc=5"
+  },
+  {
+   "ts": "2026-09-16T21:00:23+00:00",
+   "title": "MSY small-scale businesses inspected in Chauk",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4tS3NzUkF2TzFVUWxTNzZHUU1uUU1xLWRINk9ld3Rqa0RST1ctalllUlUySjdFR01oTkpDX1VvM1NTMFg2T2MzelpNUkY5VzVmTllndHh4MXdPSUhXU3hQa1FaNjZZdEZkWHZSN1A3LWlGaHJxNUxlM2lB?oc=5"
+  },
+  {
+   "ts": "2026-09-16T21:00:23+00:00",
+   "title": "VDP project introduced; committee formed in Aunglan",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZGI2ZVR0WnllQW1Pc2ZhMUdXT0lYY0t4b3lNQ0tCb1hxSVl6LVVWZkJ5a3hHSGppY2dEbEJIRklCQ2N6ZGlhTF84Z3JqazVDeUpHdHdwbDBadFh3dWsxSjdzWV9SOFc0N2VPaDlrc0l0QTF5UXZoTHE1VWRENHphSA?oc=5"
+  },
   {
    "ts": "2026-09-16T19:00:19+00:00",
    "title": "News",
@@ -2137,34 +2165,6 @@
    "source": "Myanmar Now (EN)",
    "markets": [],
    "url": "https://myanmar-now.org/en/news/myanmar-tin-mega-mine-restarts-operations-think-tank/"
-  },
-  {
-   "ts": "2026-09-10T05:30:22+00:00",
-   "title": "News",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wMXZsQ3BlTDBCVjNCTUdpUmNDZ1FhajZxTEpvUE94UnE3RjlOT2RtT1Fxa1BtcWFXUjcwNG5YbkNrQkN5TWs3cVl5R1hjVXF0OEMtT1Nzd1ZqdE9C?oc=5"
-  },
-  {
-   "ts": "2026-09-10T04:30:18+00:00",
-   "title": "The twilight of Myanmar’s NUG part 1: Internal dynamics",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcUpwT1R6UkdCZEhMYTktS2g1a0d0QldmaEFXLThhY0FuRkhYRHFuSWtlalh2TXI5YzI5cF96dU1hOW5vR3N5UExxcUtjbVlNT3lXRzR6SV9qcWNGd0FBTGJxZUFHWGQzTlBRR1BrQzlaQWdEQU5YRkRLUmlNNE9YUlFoNnpsODJ2YVU0WQ?oc=5"
-  },
-  {
-   "ts": "2026-09-10T04:00:18+00:00",
-   "title": "Myanmar Tin Mega-Mine Restarts Operations: Think Tank",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMmhHSEFTWm9qdGxKUVk3UzU1R2V4dE5ZdVl5Z243MUFYbVNHUDQwU3VXVjF5d3FJNVdvazhVQWRFcE4zWEN4VWl6UHlEczlRdVk2amFCNXRHX2tZVEpid2VmSEtXeUxBWVZzX08yQ1l6aUZGVzl0MXJnQ3RWSWJSQ2tQeUl6bE9BSjZBdUVKb3NReHhUYUI3cVBR?oc=5"
-  },
-  {
-   "ts": "2026-09-10T03:30:13+00:00",
-   "title": "UWSA ''ဝ'' ဒေသထဲ သတ္တုတူးဖော်ရေးလုပ်ငန်းကြီးပြန်စတင် - ICG သုတေသနအဖွဲ့",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.co.uk/burmese/live/cqvgyvgwjmwpt?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
