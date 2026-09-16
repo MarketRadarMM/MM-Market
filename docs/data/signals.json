@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-16T10:30:22+00:00",
+ "generated_at": "2026-09-16T11:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-09-16T11:00:24+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBJTC1aUmxNOFY5OGtTc29OS2ZOemRfeTBmSDRpRER2UjVmbXlRc1NQM3JhelUxZ0hPejM3TGJTZEU5a3ZjbE5hMnNYMA?oc=5"
+  },
   {
    "ts": "2026-09-16T10:30:22+00:00",
    "title": "- yktnews.com",
@@ -2158,13 +2165,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX19aYVVualgyRzZHZS1HRmdodVREQ2RFXzlXRVZROGdnMElHd0RVdThiTDlvSkRCZWtiTUdJa3hpSnBSQ3l4OFdTcXR4NVd1SDhqR1FKNEt1SmgxS3VIRU9KMzltbWZnYnpvYjlFZElVWWIxTWVPbndVSEh4eTJnZFpsVFo1d1M1Rkx0ejcyUnNGN1k1Umo0SDU4dzhubTFMN2Z3bg?oc=5"
-  },
-  {
-   "ts": "2026-09-09T16:00:25+00:00",
-   "title": "Tatmadaw columns regain control of Kalewa-Yargyi-Monywa route temporarily held by terrorist insurgents; India-Myanmar bilateral trade flow and regional goods transport to resume without obstruction",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMkdmMWhzd3BpZzVmUUdQUzFNN3ZlejZsTVdfakxZTktGODM0cXZTdVlXQUJQcVVaRGx6a1NHLUx3dE03S1BrenlnOWZsRS01a0JGbVMtaXNrMjRYNGxnX3ZfV0hJUmYtZEVBak9jU1RhOU9Pc1k2Vm9wSmhSWnpvOFVXQWpPRFpMS2Q5VkFBVUp0Q0NRTGMtd0hFOFNRNnloZXA0VjF0Z0NEZU5RU1ozaWh6MWRhWVBERTBSc1JhUUg?oc=5"
   }
  ]
 }
