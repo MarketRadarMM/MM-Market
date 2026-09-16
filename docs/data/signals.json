@@ -1,6 +1,48 @@
 {
- "generated_at": "2026-09-16T08:30:22+00:00",
+ "generated_at": "2026-09-16T09:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-09-16T09:00:22+00:00",
+   "title": "Man Held in Schoolgirl Murder, Gold Theft",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB0RGJHcWdjTUZLRzdHQnVhVUJWeXRFNHY4OE9vWV9IRzAyNW5EcVpFcGpyTnJnbjdlRFRqNzRUbFhDQWxESnpiUk8xclNYOVNrSndjZFA0ejZ4S0J3NEsxVWNpNjd1djBOSzJSa09pa1hwMlU?oc=5"
+  },
+  {
+   "ts": "2026-09-16T09:00:22+00:00",
+   "title": "MSY project implementation inspected in Papun",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xdy1FVG4wUDBwU1pzRTd6c09RUm5qX1g5aThvSU9KYXZJTFpzbnVkRElQNkVCb1pLT3dubHBVOElWeUZoOHlnWkVyeXY3REw3em5CUTdOdE5Zd3hBUFZjbW1OTWt6WGpiREtScHhhdkFJOGZtWHJJd3R3?oc=5"
+  },
+  {
+   "ts": "2026-09-16T09:00:22+00:00",
+   "title": "Tourist interest surges at Thekso Hill in Bagan Archaeological Zone",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTW9TUGxiTUF5amF4R2tWSjVCVXRYTjJCR3NJSDNxSVR6TWlTSHIwN0xIZzJ4NXBDR0trb1A5ZFdtSW5tUzJJcDZrTy11VUhnY3djZHo0NHQ3Sy1UQ1YzcWtlM2VNS1dxZkIxbDNxOTQ5SVlYLWU0TmhjY3RPM2VPM1BPTjBIdXN0M0VoeTlQS05qdFVPVmVJ?oc=5"
+  },
+  {
+   "ts": "2026-09-16T09:00:22+00:00",
+   "title": "Public awareness talk held at model village in Yaksawk",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOUxCWXFCWVk5eUhqTnN1R1pBLTB0dldjbW11SXREbEVvOXVMNmZIZHBkMUZDNi1wWFJJMTBtTTBld1NyQ3VIcHdpZU0xdW03TUcyNGh5ZFlmLXNOSWZoeThGV0o1b3NEOEFqMElSQTBrOVZmc1UtRUZRM0ZISldZSnFJX0xBZw?oc=5"
+  },
+  {
+   "ts": "2026-09-16T09:00:22+00:00",
+   "title": "Heavy rain and strong winds uproot trees in Yangon",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMGQ2eGk4VWJKUVJMMnhmMFlSSXlxc0YtWjJQZjR0THVYN2lDdUlzUHhtYkEwbEtKd3l6SlhvalVoZlBuOWhjMkNSX2VCRVlRaC1FbXd0M1VGZ0I4b1ROT1JVTEstVFBSNTYzSjB0VWZPaG83cVlEUjloMWR2cnczcC13cw?oc=5"
+  },
+  {
+   "ts": "2026-09-16T09:00:21+00:00",
+   "title": "Information Management Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9pOGlud2EtODRrOVhnN09teTd1bnQ1OER2T1VsRW80aF9nUXNzZGhMRS1oMS1sY0EyTEZ3Mld2YmdSX1dwQ1NsSktZTWFZRUYtT05DZTlSTEhWVVd6ZEJEWjFR?oc=5"
+  },
   {
    "ts": "2026-09-16T08:30:21+00:00",
    "title": "Myeik holds coord meeting on regional development activities",
@@ -2110,48 +2152,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/cgjqyw42718o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-09T12:30:18+00:00",
-   "title": "တပ်ချုပ်သစ်လက်ထက် ရခိုင်ကို အကြီးဆုံးထိုးစစ်ဆင်",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c8047j43x3no?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-09T12:00:23+00:00",
-   "title": "Myanmar’s position on the so-called IIMM",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBscUJOc2pQeUVvamRaWFlDSlE5U1ZKWmtYajI3Y2NSYWtoOGJpWmJjcS10RlAtaDF4TURwM0VnZ0hSQ1Bjdk1nMFhEYW1nd2hDakJ6MWtaLVprTkstaHVJUzRPS1F1UQ?oc=5"
-  },
-  {
-   "ts": "2026-09-09T12:00:19+00:00",
-   "title": "‘‘ဝန်ထမ်းလို့နာမည်တပ်ပေမဲ့ ကျွန်သာသာပဲ’’ – ကျားဖြန့်လုပ်ငန်းထဲပိတ်မိနေသူတွေ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c62mgrqg5jvo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-09T11:30:16+00:00",
-   "title": "မြန်မာလက်နက်ကိုင်များကို ကူညီမှု စွပ်စွဲချက်ဖြင့် ဖမ်းထားသည့် နိုင်ငံခြားသား ၇ ဦးကို အိန္ဒိယက လဝကဥပဒေဖြင့် တရားစွဲ",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81071/"
-  },
-  {
-   "ts": "2026-09-09T11:30:14+00:00",
-   "title": "ပဋိပက္ခကြားမှာ စာသင်ခန်းတွေ မပျောက်သွားအောင် ရုန်းကန်နေရတဲ့ဆရာတွေ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cdx0gv9p7xwo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-09T11:00:21+00:00",
-   "title": "မြစ်ခြေ စစ်တပ်စခန်း တိုက်ခိုက်ခံရမှု ဗုံးကြဲတုံ့ပြန်၊  ၅ ဦးသေဆုံးပြီး ဒေသခံ ထောင်ချီတိမ်းရှောင်",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81066/"
   }
  ]
 }
