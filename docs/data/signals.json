@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-16T07:30:16+00:00",
+ "generated_at": "2026-09-16T08:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-16T08:00:19+00:00",
+   "title": "AACI Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5peWVTaWlZLUJjQkU1OWItTTlqY0dEWjUyTFdQX0poS3pkMmFJMkc4NEplSFVRSk1JZGpYMWxvdVk5ejBBT3JUWkNOc18?oc=5"
+  },
   {
    "ts": "2026-09-16T05:30:20+00:00",
    "title": "YSX stock trading values exceed K1.7B in Feb",
@@ -2145,20 +2152,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmXzhMS3Z0TVBCdVlmQkhHTm9DX1YzWW4yRWhMNm5WdnJJY1hHSE54aTRmVHNRTEZPUElQTHI3aEFXQ0NpanVCWmNTdnBBMHVLc01CZ1k1V3lfVTMxMTQ1SkxKWXVxMDU1UU80U04xaGE?oc=5"
-  },
-  {
-   "ts": "2026-09-09T10:30:18+00:00",
-   "title": "Business | Myanmar Rice Prices Surge Amid Clampdown on Facebook Trade",
-   "source": "Irrawaddy",
-   "markets": [
-    {
-     "market": "rice",
-     "direction": "neutral",
-     "confidence": 0.5,
-     "rationale": "Rice-market story — read for direction"
-    }
-   ],
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOFBueF96M2ZqNkpaMXpwRVlwdWxQUUV1MGZ3WFlxTG5RU281R18xOWZPa29wclctR3JIclYxRUxhYUZEcFdPWE1XNEIyWVN4QTkxQlFJUGFLV2VIZndCZ0hNR1d3X1EzRl9qY0xjQ1AxMFl2UkNwNGxQc3U1T2ZNOXROTEJWb2dwVUZpV2JlT21fRnZadGU4dGYwemlteGc?oc=5"
   }
  ]
 }
