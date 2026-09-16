@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-16T12:30:22+00:00",
+ "generated_at": "2026-09-16T13:00:25+00:00",
  "signals": [
+  {
+   "ts": "2026-09-16T13:00:23+00:00",
+   "title": "Norway raids Telenor HQ over suspected Myanmar rights abuses",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPckxjdDNJMVFydklROTA2Y2JOcy1tWDVZdFNpUWpvS2lTV2JYNXZJbnllcEVhaWlaakpIalB0WmpYTldEeVNYc1BSb0RwVzVKRFNwQVFzODdWS1VtbWlUZFBhNGN4NXhiaXRoaTJmd1MzcmN6cDhEU1h0ZGVDQjFucHpIR2w3LVM4WUFsdVRlMl94V3VUX0JlcDNWT1U?oc=5"
+  },
+  {
+   "ts": "2026-09-16T13:00:23+00:00",
+   "title": "Japan Parliament Latest Target of Myanmar Regime’s Legitimacy Push",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOODdIRWRldzJjbDBIb28yOVlVY0dfMkJhcThsODFSczlmVllIOXlSWXlUVWI1TFFEVmhIcnhkeG53b1FaNmZvX3E3azVGYWdDeDlacXQ0MG1vV0liVHVhbWdTb04td1V6d0RRZ2g2TDRMZFQ1QXhNZWhhV1Jnemw2Q1FJakZKMkJrSmxtZUFZNTd1VG5HQ0QxYXdaVl84R0lPNTFKVlY2cEpQcEk?oc=5"
+  },
   {
    "ts": "2026-09-16T12:30:19+00:00",
    "title": "တယ်လီနောကုမ္ပဏီ အပြစ်ထင်ရှားလျှင် ဒဏ်ငွေအပြင် အကျိုးအမြတ်များသိမ်းဆည်းခံရနိုင်ကြောင်း နော်ဝေရဲပြော",
@@ -2151,20 +2165,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLRUNsT0NWRmViVUNEb0ZCX2lTeUZPU2ZmcngxZDRYR3ZBQ28zZDl0UVhjYjBtNDI4ZnB0Q19Sb2lsa1d1eFowejhBSWFmc0phQVNyYkF5aDd3RV9yM2FqeXVmS2xRMXRNUDBtVEU5TG5NYXpabmFlVzNB?oc=5"
-  },
-  {
-   "ts": "2026-09-09T20:30:21+00:00",
-   "title": "MoC wins Inter-Ministry Sepak Takraw Championship",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HX1RsQmFjMmtqSG9PMEpBX05xZE8ydjBudjQ3SFRIelFoQ3UzdlZCTlVEZ0Z6RmRiSkM5ZUMtSTBSTzhjRWc0a0xTa2NtM25sRHB2M0EyNUpoVWRyS0hlcmdQSHBIenduR3NST3lucWdYNFlsUXg1ckZXVHBKSzA?oc=5"
-  },
-  {
-   "ts": "2026-09-09T20:30:21+00:00",
-   "title": "10 September 2026",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aX2l3dXM2OWNhREpVbmJyUk1YS1J6cm01cVhfaVFfMXhFbmhuLWw3SXhqd1R1Ym9JRExqRjNyaktrRnR1RWlOZ3VyV3J1Um8tV2ttRQ?oc=5"
   }
  ]
 }
