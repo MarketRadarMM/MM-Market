@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-16T12:00:20+00:00",
+ "generated_at": "2026-09-16T12:30:22+00:00",
  "signals": [
+  {
+   "ts": "2026-09-16T12:30:19+00:00",
+   "title": "တယ်လီနောကုမ္ပဏီ အပြစ်ထင်ရှားလျှင် ဒဏ်ငွေအပြင် အကျိုးအမြတ်များသိမ်းဆည်းခံရနိုင်ကြောင်း နော်ဝေရဲပြော",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81194/"
+  },
   {
    "ts": "2026-09-16T12:00:19+00:00",
    "title": "Freedom restored? Readjusting to life after prison",
@@ -2158,13 +2165,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aX2l3dXM2OWNhREpVbmJyUk1YS1J6cm01cVhfaVFfMXhFbmhuLWw3SXhqd1R1Ym9JRExqRjNyaktrRnR1RWlOZ3VyV3J1Um8tV2ttRQ?oc=5"
-  },
-  {
-   "ts": "2026-09-09T20:00:23+00:00",
-   "title": "Construction materials provided in Tiddim",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hOE9wS0RlYjhtTS0xQ3hza1gwS0RUTXBneWo0Rlh0U3FmdmJyUFNnZy05OHVQeExpdjRtRHM4V1B2ZUNWTS1nT0d3bnEwV2FMdzRRU3hMaUJqektnNVBYYXRqeENEOU5Vek1zMnU5Q29MMEQ1?oc=5"
   }
  ]
 }
