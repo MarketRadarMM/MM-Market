@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-16T18:30:22+00:00",
+ "generated_at": "2026-09-16T19:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-09-16T19:00:19+00:00",
+   "title": "News",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBscmVHTm5hR1hRYm1yaE1Yb1B0QVhwZHpKN2hrcDJEYXg4X1JNTGpiTkxYT09PTWV2OG1LeFNSdk0zYXNCVGNybDNUdFUtcEFZSXRiN2RXTTVmYVpQ?oc=5"
+  },
   {
    "ts": "2026-09-16T17:00:31+00:00",
    "title": "- yktnews.com",
@@ -2158,13 +2165,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.co.uk/burmese/live/cqvgyvgwjmwpt?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-10T02:30:19+00:00",
-   "title": "Prof Stefan Talmon delivers rebuttal arguments at ICJ",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdkhTWVJUVjU3Zy1jMjItWF9RYjYtU3VjejBNbXZNeDBEekRwbk4xSmZXaHExMVVoR0dwQ0R5c0lzS1VzNEY5V1V3TWc1d3EzcVk3TkZScXA1RkdoV2JmSFRnZVZXYnFfSTFCeU1zUWVBbjJ4SzNhMTNJbDl0bmhNa1N3SQ?oc=5"
   }
  ]
 }
