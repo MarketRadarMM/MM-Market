@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-16T16:30:20+00:00",
+ "generated_at": "2026-09-16T17:00:31+00:00",
  "signals": [
+  {
+   "ts": "2026-09-16T17:00:31+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5IOG9oTDFYbkx3VWlOSHl4QzUwMmhCaU8yNW9DOFFLRkdienZmZW9SVTB3eGI2cjJEdkl2VDc5b1ZEbWNFRVQwX0FRcw?oc=5"
+  },
   {
    "ts": "2026-09-16T15:00:21+00:00",
    "title": "13 offenders involved in online gambling arrested in Hsipaw",
@@ -2158,13 +2165,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdkhTWVJUVjU3Zy1jMjItWF9RYjYtU3VjejBNbXZNeDBEekRwbk4xSmZXaHExMVVoR0dwQ0R5c0lzS1VzNEY5V1V3TWc1d3EzcVk3TkZScXA1RkdoV2JmSFRnZVZXYnFfSTFCeU1zUWVBbjJ4SzNhMTNJbDl0bmhNa1N3SQ?oc=5"
-  },
-  {
-   "ts": "2026-09-10T02:30:18+00:00",
-   "title": "Myanmar holds 40km SEA Games qualifier",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtSTJwNkdTd091a3JEM3N1amR1QXhIc1ZkR1lsWXhqbWRTeHVfRjJyekU3MDkzMXJDdTBfWEM3WC1fNloxZHBMZVMyVS11eWVoTW1XQW5FSEhaOWhCM3BYbmI5ZkdpVkhlbGZ1Unloc2w?oc=5"
   }
  ]
 }
