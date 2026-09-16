@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-16T11:00:24+00:00",
+ "generated_at": "2026-09-16T11:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-16T11:30:15+00:00",
+   "title": "ဒရုန်း၊ ဆိုက်ဘာတိုက်ခိုက်မှု၊ သတင်းမှားဖန်တီးပြီးစစ်ဖန်တီးနေတယ်လို့ ရုရှားစွပ်စွဲခံရ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cdr76jl5lv5o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-09-16T11:30:15+00:00",
+   "title": "ဗိုလ်ချုပ်စိုးတင့် - ကိုးကန့်က ဖမ်းထားတဲ့ လားရှိုးတိုင်းမှူးဟောင်း",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cdx7v2rq916o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-16T11:00:24+00:00",
    "title": "- yktnews.com",
@@ -2151,20 +2165,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcVdYMGZUV3pXUGNGVkUzWGtmR2d5OGFadEU2SEVvZFgtN2pfbVMxbjl5TFVpRjV5ZVBITkFidFRPYTZsWGdleU96SXp1djY2eFRNUGMtNmk5X196Vk16Tjg5ekV6RFdNTTZWV3lBUTVxZlRLZGZjOHE2cVFBTW1oRg?oc=5"
-  },
-  {
-   "ts": "2026-09-09T17:00:23+00:00",
-   "title": "KNU, KNLA, PDF lose Kamamoung-Papun route as roads, bridges restored",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRU1xa3JkaVA5MWV0MHNxa1JWMG5pSVRpYmEzMkJ3VzlOenQtVVlGSWQ5Tm5PNm1LbFVab1A3Zk9UTEwtZjVjREJwOGlCTkw2eXEtNUJIVnN2dlh3NjBqckNoak4wbk5UOUxMdjNUVDJzNld4ajRhdTVxbW1kUXl0cld6Q3hWcUszRmNtMC00SGQ4UDhj?oc=5"
-  },
-  {
-   "ts": "2026-09-09T17:00:23+00:00",
-   "title": "Laterite road construction underway for Aunglan-Pyay Highway-Ngapyinn Village",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX19aYVVualgyRzZHZS1HRmdodVREQ2RFXzlXRVZROGdnMElHd0RVdThiTDlvSkRCZWtiTUdJa3hpSnBSQ3l4OFdTcXR4NVd1SDhqR1FKNEt1SmgxS3VIRU9KMzltbWZnYnpvYjlFZElVWWIxTWVPbndVSEh4eTJnZFpsVFo1d1M1Rkx0ejcyUnNGN1k1Umo0SDU4dzhubTFMN2Z3bg?oc=5"
   }
  ]
 }
