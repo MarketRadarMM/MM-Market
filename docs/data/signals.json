@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-17T10:00:25+00:00",
+ "generated_at": "2026-09-17T10:30:17+00:00",
  "signals": [
+  {
+   "ts": "2026-09-17T10:30:16+00:00",
+   "title": "War Against the Junta",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lZTd6akpvelpZSExCY3h1RTd1amJOWWlNMzQ0Q0FwU201NDdWem5nUm1GRHViZmxPOWtpcThsYWp0aDFuY3NZdXU2bUF0SDdETlV1QXBmOFA0UnltTlJXem03QkhFeDhfTVpSR2JB?oc=5"
+  },
   {
    "ts": "2026-09-17T10:00:23+00:00",
    "title": "global security Archives",
@@ -2151,13 +2158,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQeWpHc3RheWxvT3daRWNxNm9rRWNjSTZ0R25EaTg0MEdNbWg5WDdlSFJLMFJVZVVjR21qT3c3Y0lMNnpiNlA0RXgwVi00QTVNMldz?oc=5"
-  },
-  {
-   "ts": "2026-09-10T11:00:18+00:00",
-   "title": "Dagon Tayar's 92nd Birthday Celebration",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObmg2ZjlEc0plSUxHVXFoSVQwZU5uMVc2RTR6cUhGSUlsSTk0YXA4WTlicktyZkVaOHgtM1VsS05TcVBhM09lcHUybF94UFlybERSY3lYTGxPTVpELTlUOWsxT2VpV3hobHhyT0RmcDVlZEt6cEJZM2p3T21ZNGpfeDdZZw?oc=5"
   }
  ]
 }
