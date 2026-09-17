@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-17T00:30:20+00:00",
+ "generated_at": "2026-09-17T01:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-09-17T01:00:19+00:00",
+   "title": "Viral moment for Manila showcases South China Sea dispute, but status quo remains",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/southchinasea/2026/09/17/philippines-china-teodoro-note-rebuke/"
+  },
   {
    "ts": "2026-09-16T21:00:23+00:00",
    "title": "4 foreign nationals transferred over telecom fraud links",
@@ -2158,13 +2165,6 @@
    "source": "Myanmar Now (MM)",
    "markets": [],
    "url": "https://myanmar-now.org/mm/news/81079/"
-  },
-  {
-   "ts": "2026-09-10T06:00:17+00:00",
-   "title": "Myanmar tin mega-mine restarts operations: think tank",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/myanmar-tin-mega-mine-restarts-operations-think-tank/"
   }
  ]
 }
