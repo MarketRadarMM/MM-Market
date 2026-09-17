@@ -1,11 +1,11 @@
 {
   "source": "community",
-  "fetched_at": "2026-09-17T10:45:20.245179+00:00",
+  "fetched_at": "2026-09-17T14:45:24.326474+00:00",
   "status": "ok",
   "confidence": "amber",
-  "posted_at": "2026-09-17T09:28:06+00:00",
+  "posted_at": "2026-09-17T12:08:05+00:00",
   "post_date": "2026-09-17",
-  "age_hours": 1.3,
+  "age_hours": 2.6,
   "labels": {
     "gold_16pe": {
       "my": "အခေါက်ရွှေ (စနစ်ဟောင်း)",
@@ -48,85 +48,14 @@
     },
     "fx": {
       "USD": 4420,
-      "GBP": 5980,
-      "EUR": 5120,
-      "SGD": 3480,
-      "AUD": 3160,
-      "AED": 1200,
-      "CAD": 3160,
-      "MYR": 1080,
-      "THB": 133.6,
-      "TWD": 139,
-      "JPY": 28.5,
-      "HKD": 565,
-      "CNY": 660,
-      "INR": 46.3,
-      "KRW": 3.2
+      "THB": 132.13,
+      "SGD": 3443,
+      "JPY": 27.49,
+      "AUD": 3123,
+      "CNY": 651
     },
     "wg_usd": 4285,
     "ygea": 7150000,
-    "fx_detail": {
-      "USD": {
-        "buy": 4390,
-        "sell": 4440
-      },
-      "GBP": {
-        "buy": 5870,
-        "sell": 5980
-      },
-      "EUR": {
-        "buy": 5020,
-        "sell": 5120
-      },
-      "SGD": {
-        "buy": 3440,
-        "sell": 3480
-      },
-      "AUD": {
-        "buy": 3100,
-        "sell": 3160
-      },
-      "AED": {
-        "buy": 1170,
-        "sell": 1200
-      },
-      "CAD": {
-        "buy": 3100,
-        "sell": 3160
-      },
-      "MYR": {
-        "buy": 1050,
-        "sell": 1080
-      },
-      "THB": {
-        "buy": 130.2,
-        "sell": 133.6
-      },
-      "TWD": {
-        "buy": 136,
-        "sell": 139
-      },
-      "JPY": {
-        "buy": 27.8,
-        "sell": 28.5
-      },
-      "HKD": {
-        "buy": 550,
-        "sell": 565
-      },
-      "CNY": {
-        "buy": 643,
-        "sell": 660
-      },
-      "INR": {
-        "buy": 45.1,
-        "sell": 46.3
-      },
-      "KRW": {
-        "buy": 3.1,
-        "sell": 3.2
-      }
-    },
     "fuel": {
       "MDY_92": 3865,
       "MDY_95": 3970,
@@ -136,7 +65,7 @@
   },
   "source_disclaimer_my": "ခန့်မှန်းဈေးသာဖြစ်ပြီး တစ်နေရာနှင့်တစ်နေရာ ကွာဟနိုင်ပါသည်",
   "source_disclaimer_en": "Estimates only; prices vary by location",
-  "posted_at_mmt": "2026-09-17T15:58:06+06:30",
+  "posted_at_mmt": "2026-09-17T18:38:05+06:30",
   "source_label_my": "လူမှုကွန်ရက်မှ စုစည်းသည်",
   "source_label_en": "community-reported"
 }
