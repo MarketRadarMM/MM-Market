@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-17T08:30:17+00:00",
+ "generated_at": "2026-09-17T09:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-09-17T09:00:19+00:00",
+   "title": "စစ်ကိုင်းတိုင်းတွင် တပ်သားသစ်အဓမ္မစုဆောင်းခံထားရသူ ၂၀ ထွက်ပြေး၊ ၁၂ ဦး ပကဖလက်ထဲရောက်",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81211/"
+  },
   {
    "ts": "2026-09-17T07:30:14+00:00",
    "title": "နိုင်ကျဉ်း ဦးဒိန်းဒေါင်ကို မြင်းခြံထောင်အစီအစဉ်ဖြင့်သာ မိသားစုက သင်္ဂြိုဟ်ရ",
@@ -2151,13 +2158,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tZS05RldWb0Vha3VUb01oNTZxODMwdHpxM1p5bTRiVGVQVEJMeDJFLWh1SVE2NGZ3SjhuUHN1VWtyZ3NTV0dQUEFMc3BLQWxoOHN0Z1g5SXFBczQ4OFNwTkYxaVRHQWdn?oc=5"
-  },
-  {
-   "ts": "2026-09-10T11:00:18+00:00",
-   "title": "Ceremony at Rangoon's Secretariat Commemorates Martyrs’ Day",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTERHR0ZSOXVFN2FxRG5DMllRbzNUZjRzSDJudEVnRkVocXN6SjJWR0c2VlA0Z1M0Q0xTeWtaeFRIZk1tcUJzQmxZUDdNYmVkWXE1Mm92X29sOWYxQ3l4MjV6eENHNTJGN2k0WEw1R1lZWnQ5Qm15T045VFExS2dRcXlTWWF5cWUxR0JrUGl5R0EwaGZhSFhYOUJMdHhEdG9zS2E1Ty12YXRoSE1oWEFBUXo0Yw?oc=5"
   }
  ]
 }
