@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-17T02:00:23+00:00",
+ "generated_at": "2026-09-17T02:30:17+00:00",
  "signals": [
+  {
+   "ts": "2026-09-17T02:30:16+00:00",
+   "title": "World Ozone Day 2026 celebrated",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuUzdlTHZCZGpudUpUanFPWW9GTEtEWmRKc2tQbFJ4YXFpR0xWZC1qa3ppSHEyODIyWXRmOUFmdnVGMTdMZERLRGhyMjRRYy1FOVNhX2l4X2k5OXFCMmFJZVdvNjlVVlU?oc=5"
+  },
   {
    "ts": "2026-09-17T01:00:19+00:00",
    "title": "Viral moment for Manila showcases South China Sea dispute, but status quo remains",
@@ -2158,13 +2165,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeFU5YV9heloxZlV1UFNvbDU0enE2a3pORjhwNmt1TTBOZUw3SWd4WWNoVDNYd1NnN3lXZ0VNRFpLMERKeHlQYUZxSHRHYl9QRmxZLUFnYkVmbnB5VHBRUEM2VHhCRkFYWXZhamZRZVE2ZnFLSWhiWGRLUDAtbjlkVW11dTU4bWdob0FoaWJYalhIMXJkcWZJN0dDMkNSaHY2ZEg5ME1pTHN0UVpIVy05ZDk2eWVNOWR3Y3p1cVVGczJuQ0E?oc=5"
-  },
-  {
-   "ts": "2026-09-10T07:00:20+00:00",
-   "title": "ရှမ်းမြောက် ကုန်သွယ်ရေးလမ်းပေါ်ရှိ မြို့များတွင် စစ်တပ်နှင့် MNDAA စစ်ရေးတင်းမာ",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81079/"
   }
  ]
 }
