@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-17T11:00:20+00:00",
+ "generated_at": "2026-09-17T11:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-17T11:30:16+00:00",
+   "title": "Myanmar political prisoner Dein Daung dies after delayed medical treatment",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/myanmar-political-prisoner-dein-daung-dies-after-delayed-medical-treatment/"
+  },
   {
    "ts": "2026-09-17T11:00:19+00:00",
    "title": "17 September 2026",
@@ -2151,13 +2158,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/c62mn59ngl7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-10T11:00:18+00:00",
-   "title": "Migrant workers in Ranong, Thailand.",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVTUwTkJZcXB0U2tJMElCOUVRNmxYcTMwQzBDazJ3bUVENUY0YWxlTldFaFRIYVNrSnlaU3g5S1BQejFiRnJxREpiZmxTdkVJNS1OZThwbmFDVmFVbzFkTDJZRHdhYlFzWE95ZWEyV3dUVjJITlY2UFg1dUl4LVY0bTQ4aXlrVUs4am1fa2ZmcFFYeUFLM01pZWpuN3Y?oc=5"
   }
  ]
 }
