@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-17T05:30:17+00:00",
+ "generated_at": "2026-09-17T06:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-17T06:00:17+00:00",
+   "title": "Myanmar deports US citizen detained over business dispute",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/myanmar-deports-us-citizen-detained-over-business-dispute/"
+  },
   {
    "ts": "2026-09-17T05:00:19+00:00",
    "title": "Myanmar Deports US Citizen Detained Over Business Dispute: Presidency",
@@ -2151,13 +2158,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX3JMNzYzWmx3bkZVNm1TQzhpWExJUFJRZnEzeUhMbHZxazZjVFgteHNHSFZBeVZpejBnQy1UWFVkMjZ3TVotcEpXVVpCcUVpS3FfX0tTNnNfVnhpeWZKS2hJNnM5aU9WUkRJN09pZnN5VFhIZkMzbFJLdE9yODZscnNOaVhidlJyMjJxUjdXdVVXR054WUQtLUFNOWdJdGM2OUNNdlIzc2UxMEpx?oc=5"
-  },
-  {
-   "ts": "2026-09-10T10:30:15+00:00",
-   "title": "Geology Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBFZWtCcTc2RUhNS3NabnhIUWk2YWJkbElqTGxUdlFBdE9TTHBIelZFeHVUTmJweHZuNTI1UV9PSW5XcFpRUkliMGdlS1N3UQ?oc=5"
   }
  ]
 }
