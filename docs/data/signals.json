@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-17T02:30:17+00:00",
+ "generated_at": "2026-09-17T03:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-09-17T03:00:20+00:00",
+   "title": "Contact Us",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DYVhsUGZ0RGtIOGFLM0s4QXVXSWlDM2lyb0tBZS01Z0xUeWMtWllyUG8tYy1KQk1TLTRVQzZ5WE9aV0hKZnV0Wm9fbkp1Z1poV2JwVG9EMEtidw?oc=5"
+  },
+  {
+   "ts": "2026-09-17T03:00:16+00:00",
+   "title": "ရိုဟင်ဂျာတွေကို ပြန်ပို့ရေး ဆွေးနွေးဖို့ ဦးမင်းအောင်လှိုင်ကို မလေးရှားကို ဖိတ်ကြားမယ်လို့ မလေး၀န်ကြီးချုပ်ပြော",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.co.uk/burmese/live/c6y4zwd78e8pt?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-17T02:30:16+00:00",
    "title": "World Ozone Day 2026 celebrated",
@@ -2151,20 +2165,6 @@
     }
    ],
    "url": "https://myanmar-now.org/en/news/five-killed-in-myanmar-junta-airstrikes-in-retaliation-for-attack-by-pdf-forces/"
-  },
-  {
-   "ts": "2026-09-10T07:30:21+00:00",
-   "title": "Senior General Min Aung Hlaing meets with departmental officials and local elders from Kangyidaunt, and discusses regional development",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcl85YjJmNWg4Wlo1NDlLbldYN1BURmFGV19vLVlqdUIyeTJELUlxLVRZdk0yUGRJNFpqbEtuZG5feVZucW9TbzBTbnNXaVdsMkZNVDNMRXNldXhkUUI5OUpIOHppbDJaZm5IbGY3b1JVUlB2czdXREF0Z2FUN09sNXFwT09GSi0yRHFQRWhfQ3o2Tkx6TzdTSFhwaTItQnZhX0pxVmRidkFkRkRnLXNCQktLUThJaXcyUUlr?oc=5"
-  },
-  {
-   "ts": "2026-09-10T07:30:21+00:00",
-   "title": "SAC Vice Chairman Deputy Prime Minister Vice-Senior General Soe Win delivers speech at coordination meeting 3/2025 of Illegal Trade Eradication Steering Committee",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeFU5YV9heloxZlV1UFNvbDU0enE2a3pORjhwNmt1TTBOZUw3SWd4WWNoVDNYd1NnN3lXZ0VNRFpLMERKeHlQYUZxSHRHYl9QRmxZLUFnYkVmbnB5VHBRUEM2VHhCRkFYWXZhamZRZVE2ZnFLSWhiWGRLUDAtbjlkVW11dTU4bWdob0FoaWJYalhIMXJkcWZJN0dDMkNSaHY2ZEg5ME1pTHN0UVpIVy05ZDk2eWVNOWR3Y3p1cVVGczJuQ0E?oc=5"
   }
  ]
 }
