@@ -1,6 +1,48 @@
 {
- "generated_at": "2026-09-17T18:30:21+00:00",
+ "generated_at": "2026-09-17T19:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-09-17T19:00:20+00:00",
+   "title": "News",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tSmgwYnpNd1gxbUNPN0lwdzBRX3c5bnJlZmdsbHBmWDJqRkVxbFFVNWhsU1d4R2dxblpJVFotdDBVelBPYnY0SkR0aTc1dGRQVXdGVUVwNHNHeTg?oc=5"
+  },
+  {
+   "ts": "2026-09-17T19:00:20+00:00",
+   "title": "Industrial Zone",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5hcG5DWXloRTdEamdLakV4SmU0VFZSV2s2RXRjcUNjcEtrS0NFYnVKMFgtV2RRQ2FaY01BRGJSOTV1MFZLT0lwcy1kSHRiOE51OTVjMmFKU0NseEpNQ0VkcUNCdW9UZkNQeVdRSHZwb2tzeVZNWHpMVnVsaw?oc=5"
+  },
+  {
+   "ts": "2026-09-17T19:00:20+00:00",
+   "title": "The Hindu traditional Holi festival",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUU9mMHJwcG5nb0V2aS1zV2FtRWxDbGM0MmdEcm5xSllDZTRINDkxNVBTNGx5QnVEb0tMVEV2MjR1M3hKRFVISmRZMEZjUXNnWlQwRUpPMHo3SHhwV0xUS3M1WENmLVd0N2czd3Y2MU5SMVlfYnR4NlI0SU5QU0FGS2JjNGhQMFhvVVhOOGc2ZWU?oc=5"
+  },
+  {
+   "ts": "2026-09-17T19:00:20+00:00",
+   "title": "မန်းမော Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaVhhc2lIR0oxaVlqY0lDT3JmWWczamJvelpQTnQ1OWloLTF3VTE4dF9uZHpaX2I4T2tLZlJiU2NFN1luYUp6SWF5Qy1xZS1XT3lYMkdZSU5LZmxyMjF0LXdwYmlNOF9OQTRWbEZfOW1BZDlKR24wSmhUdDc2eFdxNHdyRm9SVTI3aXFPMjVubUJIRmI4aUk4dkt1cw?oc=5"
+  },
+  {
+   "ts": "2026-09-17T19:00:20+00:00",
+   "title": "Kyaw San",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpS2ZuVDRtOUdLQmRUVktQY3pRbmFvUzFhamdiaEl2OEwzc01XazlhSXhjXy1aRUJ4cnk1Smd0RXp0LVlZQVlhdGtyZmdSc3BCSUhSbk1Hb2txeE51dEczNHpHeGVpbWN2S2I2al9oMkRBZw?oc=5"
+  },
+  {
+   "ts": "2026-09-17T19:00:20+00:00",
+   "title": "Video Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TQU1LcGlvM0FmWjF6Q1p1YklUWDdpV0RsSmE1RzhqTl9TRzNoUFVwLTV1QlpYb0IyUHdUeXBrdFZBUmtuTlBoVGl2OC1QYUxPN3h6WXFSZUFhQnc?oc=5"
+  },
   {
    "ts": "2026-09-17T16:30:19+00:00",
    "title": "Breaking newsrooms: Are Myanmar’s exiled journalists getting a fair deal?",
@@ -2116,48 +2158,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.co.uk/burmese/live/cred75xw54e6t?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-11T01:00:22+00:00",
-   "title": "Factiva",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ONXpvV0tKWEJEUzdWdW5DZlFhZjZzUEFGa0hNMW5nWVVMMjh3b3FMY2NYQ1VTenlLSlNxTGxmMWFUSjFHYUVkaHBsTW1pdXpZUVFlR2R0bm05OC1hOFpJbQ?oc=5"
-  },
-  {
-   "ts": "2026-09-10T22:30:17+00:00",
-   "title": "Nepal Flood Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WYjVxdEZhdTFQY0ZodWplUjdoSFpIMlJPSUp6ektUWXpYNlpfQmprOUV4UHlZZjNkd1AtV1lYR2laWVVzaVZfTlVYcWhkc095ZlRR?oc=5"
-  },
-  {
-   "ts": "2026-09-10T21:30:27+00:00",
-   "title": "‘They were all addicted’: Online slot games sink players into debt",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSnVtaTdZdVF5M1pQOHVYUk5BYngyS1hMWUxObjF1U29VZUp6dzRLVGRBZUdZUE4wQU1keVRHMGp0N0gwOEh0MVlDWVFHdzAyS2VaSnRMbFBYNS1hcTMtb2pseWpFTlNlcXBpWGtjUENrazJGajExWHNPVFhKU2pnUDBaYl9wWGlSRGFSQmhmVm84ZnhBdkhKUV9FUTFXRkph?oc=5"
-  },
-  {
-   "ts": "2026-09-10T20:30:17+00:00",
-   "title": "Kayah, Mon, Eastern Shan States see remarkable success in literacy campaign",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZnh1bGlYUnlZOVNDR1N0TGtxU3c5cVlMMWZLVG5OSjlycFRZc2d3dUU3ZFdQdngxQjZ2SWE0cGpVRWJZbnA1ZndnTGtGM2NHanFkdlpURGhlbmlLM2JxbHd4WHpIdHphM0RNcGlkN1BvV01UQXBQcmJTaFBvalRaX2FUY0VXWlBIM0JOVUlKOXhVaGdjeDdhdVRmR2lkSlU?oc=5"
-  },
-  {
-   "ts": "2026-09-10T20:30:16+00:00",
-   "title": "Myanmar Junta Sends Envoys to Wa State to Build Election Support",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLVN3RDdHaVFMTHZJMVhiYWtOS2FHam9JU183Y3dMNVV1UGFacjNFVzBRenpyMFRMMDZmZTdFeDkzWVRUeWpFSm5KOC1OMzZfbWxkbEk0cTdQeTV5Nk4xT0ZfTnVRVkR6Z3IxbjR1Vy1Uenhwb2p1U2ltUWZ5a3lJdF8wVGdLRXNNRk9GNXU5YV9HMV9WYVNBLVNncndBYTJXNGxLV0t2NFBSTWY0X0E?oc=5"
-  },
-  {
-   "ts": "2026-09-10T20:00:25+00:00",
-   "title": "Feature Archives",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxbFlzVXRCaHg5WGl1UHU2LXJaUnFYcnp6ZVkwTk9XWXVBNGVXR3RtN1habkJlLWlDaVJQOU51SHpzbVpCS1ZrU29zSnFhcnVYcnFF?oc=5"
   }
  ]
 }
