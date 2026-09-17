@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-09-17T10:30:17+00:00",
+ "generated_at": "2026-09-17T11:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-17T11:00:19+00:00",
+   "title": "17 September 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBucVY4TjR6VzdxbXBJSlNPbEFXMlpPWm9DY3VDbVNXUm9Jcm4wNXNRYmpEWHlXZXFpYk4xZWFnV1cxSGFCMzFCeXNPdW5HelZkeHJTNg?oc=5"
+  },
+  {
+   "ts": "2026-09-17T11:00:17+00:00",
+   "title": "စစ်တွေဝန်းကျင်တွင် စစ်တပ်က ပိုလှုပ်ရှားလာ၊  ငါးဖမ်းလှေ ၂ စီး ဖျက်ဆီးခံရ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81221/"
+  },
+  {
+   "ts": "2026-09-17T11:00:16+00:00",
+   "title": "Junta column faces strong resistance en route to Hpapun tactical base",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/junta-column-faces-strong-resistance-en-route-to-hpapun-tactical-base/"
+  },
   {
    "ts": "2026-09-17T10:30:16+00:00",
    "title": "War Against the Junta",
@@ -2137,27 +2158,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVTUwTkJZcXB0U2tJMElCOUVRNmxYcTMwQzBDazJ3bUVENUY0YWxlTldFaFRIYVNrSnlaU3g5S1BQejFiRnJxREpiZmxTdkVJNS1OZThwbmFDVmFVbzFkTDJZRHdhYlFzWE95ZWEyV3dUVjJITlY2UFg1dUl4LVY0bTQ4aXlrVUs4am1fa2ZmcFFYeUFLM01pZWpuN3Y?oc=5"
-  },
-  {
-   "ts": "2026-09-10T11:00:18+00:00",
-   "title": "Myanmar Water Festival (Thingyan) on 13 April 2012, Yangon, Myanmar.",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOUx4aFRESkR1N2o1WlZ2OWx2NlNRNWhfMGZYS3NVQnNZV011MUVUX2QwNFBqTTRld3RDRndPeGNkTU5nVl90dzVMNUJicEFqd09hUjNKcFdTaWhrcGVKWEUwa3FkX1AzYk02SEJhR0ZvTy0yMmhjSzNqUDhUQUtTZDd3aWt6V19WYVptdWsyeFBNZ1BBMzdoNU9NX213c284T1RCd1lFTlY1V1NEajFhY1I5UzVuQlFNeGtodUtwNjR5SkNOSjM4OXhodHMyUQ?oc=5"
-  },
-  {
-   "ts": "2026-09-10T11:00:18+00:00",
-   "title": "Melodies for Japanese: A Charity Concert in Chiang Mai, Thailand",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMnhLZkZBZ1U3VjBLeVptanRwLXRaanA0TERTN09Lc3VDQWhQNHBzYUpSUjlDSmtMR3E1VGNXUTZMc1lwWExUUEVPdWQ2WXg0VGF2OEI2ajlUcDZYeDVlYWhUZUtOblZBdXBadEZnWWEybUpVczZGMTRPMDlFejFmcXJB?oc=5"
-  },
-  {
-   "ts": "2026-09-10T11:00:18+00:00",
-   "title": "Plekhanov Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQeWpHc3RheWxvT3daRWNxNm9rRWNjSTZ0R25EaTg0MEdNbWg5WDdlSFJLMFJVZVVjR21qT3c3Y0lMNnpiNlA0RXgwVi00QTVNMldz?oc=5"
   }
  ]
 }
