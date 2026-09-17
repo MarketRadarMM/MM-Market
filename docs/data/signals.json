@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-17T11:30:20+00:00",
+ "generated_at": "2026-09-17T12:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-09-17T12:00:20+00:00",
+   "title": "ကရင်နီ ဒီးမော့ဆိုတွင်  ဒရုန်းတိုက်ခိုက်ခံရ၊ ကလေး ၁ ဦး သေဆုံး",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81228/"
+  },
+  {
+   "ts": "2026-09-17T12:00:18+00:00",
+   "title": "သားဖြစ်သူကိုသတ်ချင်ကြောင်း ChatGPT ကိုပြောခဲ့တဲ့ဖခင် ဖမ်းဆီးခံရ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c69w4np8z2kyo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-17T11:30:16+00:00",
    "title": "Myanmar political prisoner Dein Daung dies after delayed medical treatment",
@@ -2144,20 +2158,6 @@
    "source": "Myanmar Now (MM)",
    "markets": [],
    "url": "https://myanmar-now.org/mm/news/81087/"
-  },
-  {
-   "ts": "2026-09-10T12:00:20+00:00",
-   "title": "Myanmar military, MNDAA move to strengthen positions amid rising tensions",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/myanmar-military-mndaa-move-to-strengthen-positions-amid-rising-tensions/"
-  },
-  {
-   "ts": "2026-09-10T11:30:16+00:00",
-   "title": "အရည်ဆို ပူပူလောင်လောင်မှသောက်တတ်သူတွေ ကင်ဆာဖြစ်နိုင်ခြေကို ပညာရှင်တွေသတိပေး",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c62mn59ngl7o?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
