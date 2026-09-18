@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-18T07:30:16+00:00",
+ "generated_at": "2026-09-18T08:00:33+00:00",
  "signals": [
+  {
+   "ts": "2026-09-18T08:00:31+00:00",
+   "title": "Freed Japanese journalist tells of prisoner abuse in Insein",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ0FITmxnUk04bXh0Z0ZyWXNDZXlIWllxbHVOSUs5TDlYTWtKVTh2UlRKdUxaMl9GUjVSSjl0bi1TRmdRS0FQSG1PTEI2ZnA2Z3lKYkpUbkVNb3NOVVRQZUFyVUpaODZLQ3JNakZDMHlFRDIxaXViSnlkTVlMVVU2YXdCblNDX3NtZ19lSlV1ak9fSkRvLXM1bGJsaw?oc=5"
+  },
   {
    "ts": "2026-09-18T06:30:18+00:00",
    "title": "Ne Win’s Widow Rewrites Myanmar History Through Lens of Dictatorship",
@@ -2151,13 +2158,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcFRDYmZaak5PRkp1NGIyQ2NuQkRrMG9ZM29qSUFZSWE2SWhFMmxVUjFuZXRCT245eGVnamlxZWZMZV9rZjFhU0RVdi1wNDFqQ0FKeFNTYmpjMVhDOFFoY1dDbXg3LUE5d2pqd3ozWXc4a2d2TjJ4ZWdqY29pVlRYeUtHYUlnTTFvWFp1eDd1Z29sQzdvelJpZTMtMkNCMEptU1E?oc=5"
-  },
-  {
-   "ts": "2026-09-11T11:00:20+00:00",
-   "title": "စစ်တွေနှင့်ပုဏ္ဏားကျွန်းအစပ် တိုက်ပွဲများရှိလာပြီး လေကြောင်းကြောင့် သက်ကြီးပိုင်း ၂ ဦး သေဆုံး",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81118/"
   }
  ]
 }
