@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-18T10:30:23+00:00",
+ "generated_at": "2026-09-18T11:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-09-18T11:00:23+00:00",
+   "title": "Opinion",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VeTZEUGRKTm9QenBqMGlsZ0pvb29rWUNfSURMWUMtb2J6M0hSVG53eV96OVJWdXhfMS1QbzJiZnY4OGwyUVpsakxJWjNxQlQ4Q0RoaQ?oc=5"
+  },
+  {
+   "ts": "2026-09-18T11:00:22+00:00",
+   "title": "ထိုင်းရဲဖမ်းမည့်ဘေးမှလွတ်ရန် ထွက်ပြေးသည့် မြန်မာလုပ်သား အထပ်မြင့်မှပြုတ်ကျသေဆုံး",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81241/"
+  },
   {
    "ts": "2026-09-18T10:30:20+00:00",
    "title": "တီးတိန်တွင် ထွက်ပြေးစစ်သုံ့ပန်းအချို့ ပြန်ဖမ်းမိ၊ အချို့ကို ဆက်ရှာဖွေနေ",
@@ -2144,20 +2158,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVmt4UXFxY2R3UVZBUG5QSHhuMkh2TWZ1ZHVyRTU0YjY1Wk51M3A1NlpwQ1QwUFN0dF9SSWtrbVJPLWtPbU1zRnNQbkhBOWd2OU9HZlVOVUx2ZUpTUHpfbkFJVUNxSTdZV1gwYm85bGRmZ0pVZ3VrRjVweVQ5YVV4RGdVT2c5VE9ocy1uNEF0NUFSR1ZuTG8zMGxBTVJqUGRGQW54WA?oc=5"
-  },
-  {
-   "ts": "2026-09-11T11:30:17+00:00",
-   "title": "Thanphyzayat wins third place of the 2026 ASEAN Smoke-Free Award",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZFNPcmhBcHRxVDRqNkVETkg2YUxlNi1RcHJSQndSYW5lNFFmUmdhdzNoc3RwZnpScHViYTRmcC10VTRON1lpZHdEdDRwSmx3M3AycWNNQUVVZDQ3VDZuWHZfVjA4WlRhUjF2V2ZvdUxrUl9maHF4RHBGNTY1V2wwcjJZRmpuMGtiT2JicHlnV09UVkE?oc=5"
-  },
-  {
-   "ts": "2026-09-11T11:30:17+00:00",
-   "title": "Efforts accelerated to control water inflow route at Ngawun Embankment",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOUluYnE4eml5Ri0tWnBlcWNiZC1ER3ZId0w4YldOUEhvYVU2ZzlRV3VDWHZkMzQzZ2RIM0J3X25vcmlkWHEzaTd0VHQ2MGlJeWhlcDZRR3ZyRzlmREhFZFFtME1RRTNOZVZUX3loSU5UMUJxeUROdDRMVGRGZWRWNW9lbF81bTVDNUFqTjJsMGJGQUpFS3p0WmZ3UQ?oc=5"
   }
  ]
 }
