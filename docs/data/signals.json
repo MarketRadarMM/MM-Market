@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-18T09:00:20+00:00",
+ "generated_at": "2026-09-18T09:30:17+00:00",
  "signals": [
+  {
+   "ts": "2026-09-18T09:30:13+00:00",
+   "title": "'ကီမိုဆေးကြောင့် ဆံပင်ကျွတ်တာက ကျွန်မရဲ့ ခွန်အားကို ကိုယ်စားပြုတဲ့ သင်္ကေတ'",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cklyjz6q76gwo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-18T09:00:16+00:00",
    "title": "Detained forced conscripts escape past drunk junta guards in Sagaing",
@@ -2151,13 +2158,6 @@
    "source": "Frontier Myanmar",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNTh4UlBaU1YyMG9qaDdwLXg2d1dfZWNsNVY5b2tLSklUazJaSXdvRFJPT25xNkhDU3JFSU5oZlpXRmxLeHFzbzVJYVprMElfUGF4X2E3TjUyUk9XdHN4Z0FqWHdiY3kzWkltWlp3NWJ6NnBKQnNLRkFjODRlOGJYOG1mR3U5UkJWMktOdWc5d0RyWkVQblQ5cTZUR2IxV19fSlVHWWVYdGNhZVk?oc=5"
-  },
-  {
-   "ts": "2026-09-11T11:30:17+00:00",
-   "title": "Myanmar tin mega-mine restarts operations: thinktank",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSlUtTk9zZ1pZQXNSNV9DNXBueGU5MWFzZjZQWndzdHJfSm5QN0FOVnVtTXdCVjluSnNBdl8wR21JZlN2ckFna0FxSzVsVWdKVjFrZ1h4cmFIaHlYMmJGeHBHWmhOVElxTG92VE4waHF0Vmw3Z1diZDJ6WldFalVWblpiZEVHMlp3a1ZTN09kanM?oc=5"
   }
  ]
 }
