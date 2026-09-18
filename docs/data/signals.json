@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-18T09:30:17+00:00",
+ "generated_at": "2026-09-18T10:00:25+00:00",
  "signals": [
+  {
+   "ts": "2026-09-18T10:00:25+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55S183Ukt3MXdYZnJRMXAzQ2NUaVRYZjdTRjEwcHB0RjZOXzJmakZfR0NxcWx1bzEyM2JmeV9BSmhpMm1FLWVZMGpiVQ?oc=5"
+  },
   {
    "ts": "2026-09-18T09:30:13+00:00",
    "title": "'ကီမိုဆေးကြောင့် ဆံပင်ကျွတ်တာက ကျွန်မရဲ့ ခွန်အားကို ကိုယ်စားပြုတဲ့ သင်္ကေတ'",
@@ -2151,13 +2158,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMzRuVUM5U3R5MnFNb2xUXzU4UWEzdHR2M0F1cGRoTXFIVkNaRWxDY2lzUENKcjJ3ZFJwa2NsM0VCeGpTMEVaMk5KZlA2RkRXdzFyZXlwWWJieGNObXBreEk0TzVYalBQaGNKLXlWN0h3ZDVvM1lwSzR4R0YxMWRlV2lrY2k4STVhOUoybXJIUnJrZ2VjTzg1aG45WjVHQWNBdERLTEFielJKR3NFM2RNa052Z3JEc2ZNT19xUzBSbW41bEEw?oc=5"
-  },
-  {
-   "ts": "2026-09-11T11:30:17+00:00",
-   "title": "‘There are so many needs’: Humanitarian crisis grips Rakhine-Magway border",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNTh4UlBaU1YyMG9qaDdwLXg2d1dfZWNsNVY5b2tLSklUazJaSXdvRFJPT25xNkhDU3JFSU5oZlpXRmxLeHFzbzVJYVprMElfUGF4X2E3TjUyUk9XdHN4Z0FqWHdiY3kzWkltWlp3NWJ6NnBKQnNLRkFjODRlOGJYOG1mR3U5UkJWMktOdWc5d0RyWkVQblQ5cTZUR2IxV19fSlVHWWVYdGNhZVk?oc=5"
   }
  ]
 }
