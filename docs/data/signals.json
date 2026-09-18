@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-18T00:00:22+00:00",
+ "generated_at": "2026-09-18T00:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-18T00:30:19+00:00",
+   "title": "Commentary",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0ZWczZnZsbGtya1EtRkR0cXpxc3BqYlBXR044RXJfVDZjeGlPbk5NUHZLcEhxSTJISmZzNWk1U0pKS2d0enZqTFV3Rm0tY2p1dXJjeExTMVg4bWMzNGN1ZkQ4OA?oc=5"
+  },
+  {
+   "ts": "2026-09-18T00:30:19+00:00",
+   "title": "China Filling Huge Arms Order Placed by Myanmar Junta",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZUg2WEZEd3pCdVpCRXVrQ2lVeWpNQjJERExtMWcyLWhrNFlORUg1VHp5VTB2UzBLRHljRjhXVl93S0IwMUVuQTBSQkN6VHR6WUpzeFhHVXdxaTZpS2J4UU5tYkJwSGFvTnNYVG9palJCcXpmNFR0d2pHWmRxZ2VIcHBkcm5BT3JnWGFhQ0JFSF9FYmdOel9uZ3JpaDVVNmFBOHk3NUZNdE14TlBjdkE?oc=5"
+  },
   {
    "ts": "2026-09-17T20:00:21+00:00",
    "title": "Malaysia to invite Myanmar regime leader over Rohingya repatriation push",
@@ -2144,20 +2158,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LSDYxZExyZ3dqbVRtZWlJVDhYNWNfQ2d1TEoxVzN5d0dqdG1yVjVTdXlmc3VhalBYZzBkeWIwRWFZQUdWRWczaEp4eEV5SFVGZnpJMm5aZTk3SnVONVNNOThXQ09kdw?oc=5"
-  },
-  {
-   "ts": "2026-09-11T08:30:20+00:00",
-   "title": "တံတားဦးလေတပ် ဒရုန်းများဖြင့် တိုက်ခိုက်ခံရပြီး  အနီးဝန်းကျင်ကို စစ်တပ်စစ်ကြောင်းဝင်",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81096/"
-  },
-  {
-   "ts": "2026-09-11T07:30:23+00:00",
-   "title": "Myanmar Regime Confirms Massive New Gas Find",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVVREREcyRUR3emUzM21NWHh6czZsYmk1WFpEUFF6RnVtV1REU092SUt6dWp5MVVyN2ZBQk8takQxQUpFSmlTa0tWa3pfdlBhOVJ3a004Skl5OXJMSHdQc0JsT2J2b3hndm5qMGFyMnpnel9qUTN0TTVzbUxlOTI4V2F6aXlQX05ianhGZGdNNA?oc=5"
   }
  ]
 }
