@@ -1,11 +1,11 @@
 {
   "source": "community",
-  "fetched_at": "2026-09-18T10:45:17.619549+00:00",
+  "fetched_at": "2026-09-18T14:45:21.583253+00:00",
   "status": "ok",
   "confidence": "amber",
-  "posted_at": "2026-09-18T07:49:35+00:00",
+  "posted_at": "2026-09-18T12:23:52+00:00",
   "post_date": "2026-09-18",
-  "age_hours": 2.9,
+  "age_hours": 2.4,
   "labels": {
     "gold_16pe": {
       "my": "အခေါက်ရွှေ (စနစ်ဟောင်း)",
@@ -40,92 +40,15 @@
   "values": {
     "gold": {
       "gold_16pe": 10200000,
-      "gold_15pe": 7150000,
-      "gold_16pe_buy": 10100000,
-      "gold_16pe_new": 9990000,
-      "gold_16pe_new_buy": 9920000,
-      "gold_15pe_new": 9400000
+      "gold_15pe": 7150000
     },
     "fx": {
-      "USD": 4420,
-      "GBP": 5960,
-      "EUR": 5100,
-      "SGD": 3470,
-      "AUD": 3150,
-      "AED": 1190,
-      "CAD": 3150,
-      "MYR": 1070,
-      "THB": 133.2,
-      "TWD": 138,
-      "JPY": 28.4,
-      "HKD": 563,
-      "CNY": 659,
-      "INR": 46.3,
-      "KRW": 3.2
-    },
-    "wg_usd": 4340,
-    "ygea": 7150000,
-    "fx_detail": {
-      "USD": {
-        "buy": 4370,
-        "sell": 4420
-      },
-      "GBP": {
-        "buy": 5850,
-        "sell": 5960
-      },
-      "EUR": {
-        "buy": 5000,
-        "sell": 5100
-      },
-      "SGD": {
-        "buy": 3430,
-        "sell": 3470
-      },
-      "AUD": {
-        "buy": 3090,
-        "sell": 3150
-      },
-      "AED": {
-        "buy": 1160,
-        "sell": 1190
-      },
-      "CAD": {
-        "buy": 3090,
-        "sell": 3150
-      },
-      "MYR": {
-        "buy": 1040,
-        "sell": 1070
-      },
-      "THB": {
-        "buy": 130,
-        "sell": 133.2
-      },
-      "TWD": {
-        "buy": 135,
-        "sell": 138
-      },
-      "JPY": {
-        "buy": 27.7,
-        "sell": 28.4
-      },
-      "HKD": {
-        "buy": 548,
-        "sell": 563
-      },
-      "CNY": {
-        "buy": 642,
-        "sell": 659
-      },
-      "INR": {
-        "buy": 45.1,
-        "sell": 46.3
-      },
-      "KRW": {
-        "buy": 3.1,
-        "sell": 3.2
-      }
+      "USD": 4430,
+      "THB": 134.05,
+      "SGD": 3493,
+      "JPY": 27.89,
+      "AUD": 3168,
+      "CNY": 660
     },
     "fuel": {
       "MDY_92": 3980,
@@ -136,7 +59,7 @@
   },
   "source_disclaimer_my": "ခန့်မှန်းဈေးသာဖြစ်ပြီး တစ်နေရာနှင့်တစ်နေရာ ကွာဟနိုင်ပါသည်",
   "source_disclaimer_en": "Estimates only; prices vary by location",
-  "posted_at_mmt": "2026-09-18T14:19:35+06:30",
+  "posted_at_mmt": "2026-09-18T18:53:52+06:30",
   "source_label_my": "လူမှုကွန်ရက်မှ စုစည်းသည်",
   "source_label_en": "community-reported"
 }
