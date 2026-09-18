@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-18T14:30:24+00:00",
+ "generated_at": "2026-09-18T15:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-09-18T15:00:21+00:00",
+   "title": "The monk in blue robes",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pQXJ5SUJpVHl6aVR5eC1QUGRwVkM2aW9hNkhiLUMycHI2TW4tV05pNlU0aHJqZHJoVVVRbVJxOGRVb2o1S01vekY3bGpZa3U5M3pIamd4UGFCaVh2NXZtQUp2amtsTU5DZ1E?oc=5"
+  },
+  {
+   "ts": "2026-09-18T15:00:20+00:00",
+   "title": "In-Depth | How Myanmar Scam Centers Continue to Target Americans",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTWZfY2FoOVlpY2JfRzllOVY2MXduemFSTm8zanFlZ2E3TjdObG85amg3alRzTTZPYmlHbEkxemJob1c1eTJUNDRidks3VG5FNVZGNWVWV0k4NkxwaklVYVRTUTY3S0t4RFNGUDliU1NzMUxYNzJvNm1NXzhNUWpxNVBWcVF4VFQ1Y1Z0VTBJbGhzVWNtTDA2SjA5TVJobnlKZVVB?oc=5"
+  },
   {
    "ts": "2026-09-18T14:30:22+00:00",
    "title": "How Myanmar Scam Centers Continue to Target Americans",
@@ -2144,20 +2158,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQTJiMVZTLUlGdXRUTzBqMEZaR1FWRk9jckctNnU1cXNvTG9HS1JHSDgtcTMtTzFfQUNhenZPMm92bDFGektaZTJiMm9MeHY0TklCUWMzYlpianpPYWxreXY0M1hLakxvNldBOVZMbmZBRVQ3SXkxbWNPWmp0M1lTZFRscDJ4amZsMzlyVFRuZ05YdzhJbnozUGJwOWN4aWxZeXF6M2RNcW9CN0dRV1IwSnVNZkY5ay1qczY4eWVTUEQxWkVDM2Fv?oc=5"
-  },
-  {
-   "ts": "2026-09-11T16:00:23+00:00",
-   "title": "5th YGN Intl Gems and Jewellery Fair 2026 set for 6-9 Aug",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQTJadGNTZUpmQmVYVVNnV215QWlheDlpS2JfcmVsdElnZkhvQmtGeGthRFh2N1FTa3k4Rk02NkdrRGhydkFGclBLOFhwSTFEdlNHX2pnZEtmbHh6TGNwYTZfVERiU1lsN0FPSkZKaEkwZTVSc1plVlh2ekhKaEN5R0VFdUV5UTFrbkE?oc=5"
-  },
-  {
-   "ts": "2026-09-11T16:00:23+00:00",
-   "title": "MoST Union Minister promotes science cooperation in Moscow, encourages Myanmar students",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVkI5blFIc0VwNkZDZTZaTTVtd3IzcURRQkh6bnMxZElXd3hUV0x6Z2FqQUp0anAxeEVKZUpLUHVtNV9YVklWcENIOFAxcVV1UlNabGVpc01UYjRHN1ZRUFUxbXpDaW5FXzhrbFVjY050TWxvNGxZR1dmQmxQNWhiTnBPTlFnUkoxV04zLThwZURmLS16SlBJQXhiX2tSWjdSOS1uR0RDUEZNdzNtNTd2bw?oc=5"
   }
  ]
 }
