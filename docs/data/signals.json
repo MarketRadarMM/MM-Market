@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-18T03:00:21+00:00",
+ "generated_at": "2026-09-18T03:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-18T03:30:19+00:00",
+   "title": "18 September 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Bc0wxRjZkdVo4QTl0OHZCREVhZ3d0Y2xQX1NVMHdJZ1ZVa1duaVdzdS1sRFNZUEVnUm44LVZwZXJ2cjVLMEFiWHpXV3EzenBRN0g5Xw?oc=5"
+  },
+  {
+   "ts": "2026-09-18T03:30:18+00:00",
+   "title": "Guest Column | Why Is World Order Breaking Down?",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ185N1c4d2liLTRlT2VhTmVjMTRVWUlXTmlOZl85UTFENExqQzRJNFRvTW1iN0dvTnJNUHl3R0dhNFFFbGo4a2Nzak5HY2MyN3VCSFQxNl9ONXVnSGNLa2t2NTFkVW1hbGJ5a1d3Z0Y2anp4Ml9KUzNwQzFhbU9LMUJieVFEYkUxUnNTSA?oc=5"
+  },
   {
    "ts": "2026-09-18T03:00:16+00:00",
    "title": "\"မြန်မာရှိ အဖွဲ့အစည်းအားလုံးနဲ့ ဆက်ဆံနေ\" ဟု အမေရိကန် နိုင်ငံခြားရေးဝန်ကြီးဌာနပြော",
@@ -2144,20 +2158,6 @@
    "source": "Myanmar Now (MM)",
    "markets": [],
    "url": "https://myanmar-now.org/mm/news/81113/"
-  },
-  {
-   "ts": "2026-09-11T10:00:19+00:00",
-   "title": "Poland blocks sale of 250 tonnes of contaminated Myanmar rice",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/poland-blocks-sale-of-250-tonnes-of-contaminated-myanmar-rice/"
-  },
-  {
-   "ts": "2026-09-11T09:30:20+00:00",
-   "title": "Thai Abbot Arrested in $2.8-Million Embezzlement, Sex Scandal",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTnhud3BMdjRSYlRkSWNxbm9EZEVoWTNJNFRybXR4QkxsejNzdmNhbU14U2hCV3pNWHVIeTRIMEh0N0E5alFXN2tlT3RHbzRxWmcyYms4enhTLUVYZjkyWGhTbnVBcnFUb2t4VHJlNjNSYUNiV3ZQTW1hRGlHTlR0LXJRRDZOVHNVenhpRHBKRTYyLWNoTGJhMGR2MlJER2x1X0E?oc=5"
   }
  ]
 }
