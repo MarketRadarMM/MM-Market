@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-18T04:00:20+00:00",
+ "generated_at": "2026-09-18T04:30:16+00:00",
  "signals": [
+  {
+   "ts": "2026-09-18T04:30:16+00:00",
+   "title": "NSPNC and political parties meet",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ndkZZMVhkdGJKd3FpOEhPYVppYWRENGpkbnBRNVB5TjJ6djdZQzBFWVFkRVMtVTAtanVxUnRpT2NOWEprTkF3OG8wSkRHX2NJRHY5NEhHeFNxYkZVNHlEZE15RXZ5aGNK?oc=5"
+  },
   {
    "ts": "2026-09-18T03:30:19+00:00",
    "title": "18 September 2026",
@@ -2151,13 +2158,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR204OEZOWkFLUUNuRzYwYjU1SklrY1o3anJoZkNCRWQ3RkVSaWNPUVZiZlhRR1lvZnVnMHdrS1N5YWhxTHhESldBZml5aDE1S3FkMTd6bm1xN3F3SzdiYWY2bS1lYVVRWlZUSXhIQlRYNzZyV0ZLNGlmSFVfeV9Ea2ItdnNPaG10WnJhZlZSaDZVTk43LVBWRTZYYS1UbW90OTg3VFNzOTdIVEltbTVZenVZWlhtRWRQYWRr?oc=5"
-  },
-  {
-   "ts": "2026-09-11T10:00:20+00:00",
-   "title": "မြိုင်မြို့နယ်အတွင်းမှ တော်လှန်ရေးတပ်များ၏ ရေနံတွင်းများကို စစ်တပ် မိုင်းခွဲဖျက်ဆီး",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81113/"
   }
  ]
 }
