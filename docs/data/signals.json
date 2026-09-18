@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-18T22:30:54+00:00",
+ "generated_at": "2026-09-18T23:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-09-18T23:00:21+00:00",
+   "title": "YGN palm oil wholesale reference price remains stable",
+   "source": "GNLM",
+   "markets": [
+    {
+     "market": "edible_oil",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "Edible-oil story — read for direction"
+    }
+   ],
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcHQyWnZDYzFfRFUzalZVTXBBZ1JULV8ybVpERWhmQmxaSHQxY18wRUZsTEhuamVvZzFWc2t5cTJrdFo0RlhGV1gwdzl3eWxVbWhOOWRkYWVsdVlpSWxFb21mb1hqOHVfRWl0OG1jdVdnMWtoWXNWSG9vR0JLbGtIX280bWw?oc=5"
+  },
   {
    "ts": "2026-09-18T22:30:53+00:00",
    "title": "MoST UM attends 2026 China-ASEAN AI Ministerial Roundtable Meeting",
@@ -2151,13 +2165,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9STGRyczhUZDRUcnllcXhLU3Y5dWhCeDV4TlZtMzVXQl9tci01dlRXVWk5alFwaHRSRmVCdnJlTkl2NjhzZFZjS2xEaw?oc=5"
-  },
-  {
-   "ts": "2026-09-11T23:00:20+00:00",
-   "title": "Indian Air Force pays Functional Level Visit to Myanmar",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb09qNV9wVjhqdkI5VC1TSGRZX2RUQVFhY1dZOUxVU3J4RWNaNUNPMXh3TGdQNnc1Q0NXQkJUR0dTYVI3Nm0wTlpKOE5YVlBLRG05d203dHdTYlBueENzUHdSaXR5TUMxaGhubDhISzA1dlpvanVKc2NGcEVtN3pBWFdiSkF2N2s?oc=5"
   }
  ]
 }
