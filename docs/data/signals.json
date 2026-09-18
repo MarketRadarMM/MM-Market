@@ -1,6 +1,41 @@
 {
- "generated_at": "2026-09-18T11:00:24+00:00",
+ "generated_at": "2026-09-18T11:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-09-18T11:30:19+00:00",
+   "title": "Sitagu Sayadaw to donate 100 million kyats for flood victims in Laymyethna",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZVpNcjNsT19wbVhhVHExaUNQTU40dGN0Q1BHb0Z1Z1FaTFBGV2lUWVdNSTBhaW15bFR4dHhCT1ZYWUhhVExtNFZ5UjBKUTNvLVM4cGJ1QmN5X2JWdm55SDVYblpPLUt5eDhJY1EzcDhOQ0htS3h5Z3YyOE4wcHhXcFhZa3hIS1dORXZfSUZxZnRISE9lSzFtSkdFTW1meFg3?oc=5"
+  },
+  {
+   "ts": "2026-09-18T11:30:19+00:00",
+   "title": "Construction training project to be implemented in Mandalay and Sagaing",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPal96ZFVNM0ZlX1hoYlFvUmpxU3hEWmFyN01aQWFRTHFKUWFHa0I0UlplWnlmTFhkRlB6WWxDU1drZ21rMkIzckhyTnB2Y2NOQUs2VUpUakZTLXdVVXZxSFVFdHlVNnlnR3p1Y1JBWW9SZkVMbS1xdGVpWENZUlZkTXFtS2gwRkljODVJaUZqS1JBaC1xZDFXZllXSWc?oc=5"
+  },
+  {
+   "ts": "2026-09-18T11:30:19+00:00",
+   "title": "DAR wins a global award at the Drylands Congress 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSVpKNzZrMFpXbDVzbFp2Ulk1LVNHYXhRVnNndjNHMmFWNy1fSy1LWmFwcVR4VVhqOGRBWG1qdE1UeWlCcjlxWGZLNEJGZXpHbk5oSktVZDBzVm0zc0tnSGc3NHUwbFRBcE5vLU1fUURXOUlGZkpIZGVzZ0s4ejZXRFg0SC0?oc=5"
+  },
+  {
+   "ts": "2026-09-18T11:30:19+00:00",
+   "title": "Myanmar attends 2026 SCO Forum on Traditional Medicine",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMUxmUmctczBYdER1MTVxZm9aalAyZGYtREZ0bjMzS3dmcjhpV0RtQjFqN3dIMFl2aFppd2VYdnNCVFpzYWI5TWFNRkp4MjBmX2FfWmpqRVhvUkRLX0Z1eDZLRkthQzJOT3RpbUxoMENpVjZHbDJLVmdyeTJDcjh4RkZkWi1PUQ?oc=5"
+  },
+  {
+   "ts": "2026-09-18T11:30:17+00:00",
+   "title": "စစ်တပ်အမာခံ ခရိုနီတို့နှင့်ဆက်နွှယ်သည့် သရုပ်ဆောင်များ နိုင်ငံတကာစင်မြင့်တွင် ပါဝင်ခွင့်ငြင်းပယ်ခံရ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81244/"
+  },
   {
    "ts": "2026-09-18T11:00:23+00:00",
    "title": "Opinion",
@@ -2123,41 +2158,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa1FnWS1uYkN5WmJGTk9wR2tLTlo2MHRGZC14Yk51b2FzaFFwSkRxT3VzTWN6TG1wMUZ5QzZ2WC1pVVJrZDJFbzlWdTRfY2VkeTRCWnBscTFpNUpnZm1MQ2FHQUxuRUk5ZFYxZEVtcDIwNjJvXzA5OFQta1drazhDb1cyZHVrUV9KLTVYM010cHdOcTRnWDJ5ei14UUZXOVFCZ2RjUHRfNTUxWkQyWmEzTUdB?oc=5"
-  },
-  {
-   "ts": "2026-09-11T13:30:23+00:00",
-   "title": "၄၉၂၆စစ်ဆင်ရေး Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTVJCU2o1bnBibFNJLUQ2YlNnOVVfekZlc1pscGNNaUZPajlDbW1UUVhWTDVqRkczdC11Rk1RWWF5MWwyNDVXV2poektrRE5ncEFPS0hhaXl5VmNDcmVBQnZGZWhYeUxCYUJDTUpYZ0M3YUx1VUZvS04xWHg0UEU3V2V6aHRhZlNFelIyaU96N3QxbkhhMjBHNU51bkw2V0I2aVRoc0lsRnM5LUJIVUZZd2kyUTl4b19nb2ZQbFQzRnRnUTdMeEEwYWt0WjcxUTRHYkNUaHN2bFlLZWtDNl9OdmZlQQ?oc=5"
-  },
-  {
-   "ts": "2026-09-11T13:30:19+00:00",
-   "title": "နေပြည်တော်ရဲ့ ငြိမ်းချမ်းရေးကစားပွဲ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cvgyrzjlpe4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-11T13:00:20+00:00",
-   "title": "Suicide Drones Strike Regime Warplanes at Mandalay’s Tada-U Airbase",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPckM5a0RPQWxtLWxPOVVuOGdVUi1BbjRoY1paaFZhZUZIRk9ZYm1qeTNnVG1mV1dIRjVLSW5OOWk0R2VTWVlhTjBmYkI5NTdFS3JuZERTSUNIdFpVR083NkxmUkY2S1RneGN3aG5qdXZPWmpPQ00xbDl4Ny1jREhZMEFhTjV0RjUyR0d1RmxEcGxmaVhWUF9MRUpaUERlWnhwM0hpZnIxdGZKRHZucmFpWVN6ZkhUby1nSGotOTJkQnNTdw?oc=5"
-  },
-  {
-   "ts": "2026-09-11T11:30:17+00:00",
-   "title": "Urea fertilizers to be distributed directly to farmers",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUFhScjBsNGJleTc2MkpzZWtEa01uOGFFam04eUNMbFdNQUJVVnVUSjd3ZG1pVS1oZk85N0V4RmtDMmtGWHppem1Pb3pLbklSLUJHNEJOaGIySmhWQ0lhOVgxQ2pyWER0VUs4dzRuUHUzUmx5bmJTeWdsOXdGeGtqaGFZSk9BZw?oc=5"
-  },
-  {
-   "ts": "2026-09-11T11:30:17+00:00",
-   "title": "Union Minister Admiral Tin Aung San inspects relevant departments in Meiktila",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVmt4UXFxY2R3UVZBUG5QSHhuMkh2TWZ1ZHVyRTU0YjY1Wk51M3A1NlpwQ1QwUFN0dF9SSWtrbVJPLWtPbU1zRnNQbkhBOWd2OU9HZlVOVUx2ZUpTUHpfbkFJVUNxSTdZV1gwYm85bGRmZ0pVZ3VrRjVweVQ5YVV4RGdVT2c5VE9ocy1uNEF0NUFSR1ZuTG8zMGxBTVJqUGRGQW54WA?oc=5"
   }
  ]
 }
