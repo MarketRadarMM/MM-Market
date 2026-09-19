@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-19T01:30:21+00:00",
+ "generated_at": "2026-09-19T02:00:19+00:00",
  "signals": [
+  {
+   "ts": "2026-09-19T02:00:18+00:00",
+   "title": "Over 6 Million of Myanmar’s Children Not Going to School: Report",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaTFadHQzVGY3ak9vWXJEczZOSk8wbm8wS1Z0Z2VCWGt6NGRud0phMVktRG5OcXlDa0FLbTJyRDd6OFRGaWFjYk5KQVdrckhRdXhGV0stZmxwNlhhNEEwc0x5TldkelVoc05oRjk0ZG00SFA1M3BMbXdCcEZSWUl1NURIaklBdG83N3AtejB2SkJtSmlNa2xmQS1NUDFBZ0JzTjNkbDZHSQ?oc=5"
+  },
   {
    "ts": "2026-09-19T01:00:22+00:00",
    "title": "Toxic Thailand rivers pinned on Shan State mines",
@@ -2158,13 +2165,6 @@
    "source": "Myanmar Now (MM)",
    "markets": [],
    "url": "https://myanmar-now.org/mm/news/81135/"
-  },
-  {
-   "ts": "2026-09-12T02:00:22+00:00",
-   "title": "Myanmar Nets US$225M from Fish Exports to 40 Nations",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVTBtSVFDSUNoMjNtTGlqVGtIN2ZnSEl5eGV2VU0xcVI5MUM4cjB4aVBkNHZCendfY09NV0FwT1BsdFc2bmRodEptQU1xcTZubzdSYk5SdXJjamxkeUh0a0FBRFp6THJzUDhScEZhTmNkdW1FR3psLXd2T3lPRWVvbFdB?oc=5"
   }
  ]
 }
