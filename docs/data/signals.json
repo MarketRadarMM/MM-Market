@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-19T12:30:19+00:00",
+ "generated_at": "2026-09-19T13:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-19T13:00:18+00:00",
+   "title": "စားခွက် Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWjRkem15UXdEaFFRQ1FjQlJWeS15b1BWUHBGVjdqdTBzSjlvWmtyVEY4ajJDamZUTnZ3Nlh1SVpMZ0RmQWNKUG9GV29UMWVzc05fSmtKQlNQVlBmNFZHQzVtREhJeEoyNjhxb1hiWTJZbkE5Zml1NXZrb1hxdVdHMEU2ai1hLXhQRlBVWGlXdG1QQjlIY0RsOEY0UQ?oc=5"
+  },
+  {
+   "ts": "2026-09-19T13:00:18+00:00",
+   "title": "Trafficking in Women Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNanpTRWdJTHFQc2NSWk9IS25JN2Q3ajVNUXpfYmhFOFh5a0kyRE1kbFk0VHA4Mk1NTU1LX2FXbzVuOHJHR3d4TlJJVlc5QW80bGVpWktiT3RFVXJ5aWJn?oc=5"
+  },
   {
    "ts": "2026-09-19T12:30:17+00:00",
    "title": "နတ်သုဓာ Archives",
@@ -2151,20 +2165,6 @@
    "source": "Frontier Myanmar",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRy1vUWhFLVFxQ3VMWlpQNlpYdzZjY3RSQWx6SWNfSWNTUjBxMVBwUldfWVJ1RUFMQTRZcjZaV0I5SWwwNDVTYmNVN2hYQklld2hvTmlSNjNWeWY3NXJoU2lmNGUwMWs3cHRkN3Q3Qk9ZN1pVeTlsem9QcVV1am5kOEZDODh6d0xrNDRJWUM1RXEyd1B4OWR1UkxfaWQ4c3VGREtlTHBXQkFqTE1CdFBrRFFWcE1WUQ?oc=5"
-  },
-  {
-   "ts": "2026-09-12T10:00:21+00:00",
-   "title": "AI ရဲ့ '80s trend -  ၁၉၈၀ ကာလဆီသို့ တမ်းချင်း",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/ckgwek3epj2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-12T09:00:24+00:00",
-   "title": "President U Min Aung Hlaing holds talks with Cambodian Prime Minister Samdech Hun Manet",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM1VCSUVjSkZZVlFGd0JZeF9NMGU2QUpiYjhwN0IteXotUUw3Q3piUUhNRnJFVUVIME42NS03dk9wbVFFUlRaMFNDOFNqSEx2aFFRcXdiY2JKZGNMeEdGeTh3OXVPVkFHTnowYnl5b09rNTZNWVZMRGhuWkJYTUxvYWFUaVR1MEVsUUxZMGoxLWpjVkwtVkFmSG1pWko1cE50UEFkSlpXUko?oc=5"
   }
  ]
 }
