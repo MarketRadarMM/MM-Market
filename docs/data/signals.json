@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-19T18:30:27+00:00",
+ "generated_at": "2026-09-19T19:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-09-19T19:00:22+00:00",
+   "title": "The speech (draft) on one-year State responsibilities discharged by the State Administration Council to be delivered by Chairman of the State Administration Council Prime Minister Senior General Min Aung Hlaing",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU0dYQnMwai1falNBQ2xoSGZoNm5zM3RGeGVMaUZCSm0wVXpGeUdYZ0t6aHF0WlQyS3Q4clZacHpZYnN3enBpUGJrWlBDanA0c2FjQ053V2hpajV5ZERtTGttejR4WHEwLVRtcDJjcWxhbk8weGRmQ3BaSl80Vy1sSmNiUmtxZFc5Mkd2aldSYXNsZUp0M19vZHByQ0NIWlRzaEx6T0s3VExSZUdOdkYxR1hSbmNNam83bW01UUJMNHRtQQ?oc=5"
+  },
   {
    "ts": "2026-09-19T18:30:25+00:00",
    "title": "နိုင်နိုင်ဦး Archives",
@@ -2158,13 +2165,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/czrjm460y28o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-12T11:00:22+00:00",
-   "title": "တချိန်က ''ဥက္ကဋ္ဌကြီးမော်'' နှစ် ၅၀ အကြာမှာ  ''ဆရာကြီး''အဖြစ် Gen Z တွေကြားပြန်ရှင်သန်",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cgjqyw42718o?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
