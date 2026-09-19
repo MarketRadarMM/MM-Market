@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-19T02:30:24+00:00",
+ "generated_at": "2026-09-19T03:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-09-19T03:00:20+00:00",
+   "title": "စက်တင်ဘာ ၁၉ ရက် သတင်းများ အနှစ်ချုပ် - ကြံ့ခိုင်ရေးပါတီ ခေါင်းဆောင်ရွေးချယ်မှု  ဦးသန်းရွှေရဲ့ လူဟောင်းတွေ ဦးဆောင်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cq20v8dldgmxo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-19T02:30:21+00:00",
    "title": "Xi Jinping’s US visit will be a test of his power among China’s elite",
@@ -2158,13 +2165,6 @@
    "source": "Frontier Myanmar",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYWE0eGtLRGtsX1B1cFhzZVpLenNLS2dfR1NNUTUzVUxHZ1dTVkxBQWZqSVVNZ1pRVUp2Xzlma1BzZ1hnN0xWeWt6OFFQenpkWGs0MGZnMERiNFRCdXprMV9ieEtRNVI4VFNiYjZWeHZ3MURfRHI2Qko4Ty1KTXlCV21XcFdkN2IzUkpVbkl6VmR0NGp6Wmc0dA?oc=5"
-  },
-  {
-   "ts": "2026-09-12T03:00:16+00:00",
-   "title": "စက်တင်ဘာ ၁၂ ရက်သတင်းများအနှစ်ချုပ် - မြန်မာနိုင်ငံဖွံ့ဖြိုးတိုးတက်နေတယ်လို့           ဟွန်ဆင်ပြော",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cy0zy9g495ko?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
