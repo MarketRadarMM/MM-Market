@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-09-19T00:00:20+00:00",
+ "generated_at": "2026-09-19T00:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-19T00:30:19+00:00",
+   "title": "Myanmar’s Crisis & the World",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8wU3JrZFA3R0kyd0E1eWUzSkd6OFI0UUs5SmVkcklEQ01WS3VCWVdoUS1JNGNGQVFZZzFrZzFSQTNoYWRVV0w5YUNpbWp1b09GaEVOZWxfS3lhNzdXaUtBOHNhUFNCM2ZQR2d2b0NxTTVNLUU?oc=5"
+  },
+  {
+   "ts": "2026-09-19T00:30:19+00:00",
+   "title": "Life Without Power Spells Daily Misery for Yangon’s Residents",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM3BMSFN2U1Q4NVJyOVJyazF4a0F3NGZhNk1aamxtTHRWMVhkeVo1ek1iSW93b0U4OTlrWmFBd1hlcmh1ZWdrSVBFOFZUb18tM0dfQlFwRkJtVjNhbkdENjh1QTB1X0VCM1B6elFOcjFFWngyLTd1ZGkxcVN3akNjSUF6N0JtOUU0RnUwYS1UdFFUREdpdjRpTEFneWNtYTk5dF9aQw?oc=5"
+  },
+  {
+   "ts": "2026-09-19T00:30:19+00:00",
+   "title": "Opinion",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ScWgxVHBadERKMXNramZuRjRkcWRRSnFfYzRudnRXVVR3NTJBczFMeFk4MzBtQ0NrZFJ5bHFtclB5NVRsMWVqWlhaei1hM2pDZlc3Q0FJTjdCVDQwTkxEUg?oc=5"
+  },
   {
    "ts": "2026-09-18T23:00:21+00:00",
    "title": "YGN palm oil wholesale reference price remains stable",
@@ -2144,27 +2165,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWVFINS1LYVVGUDZJR3RWa3dkWkoxQ3FFMExpdENuV3R1R3FMcUlQd0lnVmdNazZvMmNZUXpVLWpPX3hzX0FFbVRKOUVNb2laWFZfMy1iY3ZiMWtSd3hGMjNWLWlMbDF3ZkpVT1I1cGtiV3ZQLXlsV0JuV2JtZ05SWDNpY2s?oc=5"
-  },
-  {
-   "ts": "2026-09-12T02:00:21+00:00",
-   "title": "inclusive governance Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JTGExMlJYVGVoazMzSEFBeE1VcE1nM0c1akpMUU0wUXprZDRReGNyWEZ1Z0hXdHpXalp6ak5Cd2tqVXlpTlZZSWE0MTZYa19jaksya2RpR2ROblpURXdn?oc=5"
-  },
-  {
-   "ts": "2026-09-12T01:30:21+00:00",
-   "title": "Junta ends state of emergency in election run-up",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPb1JnNUpQVDZSSllLM3RRNXhNUmxTVmxSVVUxN0F1TWpweUQ3VlBQZXJkT3VPOEZMTXE1Q0owNWtpcGFMZ3I0aXY0SDhrZ3FoZXc3WUxVa2dON1BKcmowLVctZ04tRVlUTkhqUXdCTzZaSEUwRW1rTmNjaGdmbWFMS2JpUVozZXUzWl82ag?oc=5"
-  },
-  {
-   "ts": "2026-09-12T00:30:16+00:00",
-   "title": "Xinbi Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9STGRyczhUZDRUcnllcXhLU3Y5dWhCeDV4TlZtMzVXQl9tci01dlRXVWk5alFwaHRSRmVCdnJlTkl2NjhzZFZjS2xEaw?oc=5"
   }
  ]
 }
