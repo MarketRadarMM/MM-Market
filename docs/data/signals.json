@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-19T15:30:19+00:00",
+ "generated_at": "2026-09-19T16:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-09-19T16:00:20+00:00",
+   "title": "Class war: The AA education system",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBHRWRBanduWXhfU0Q2dmpHeV9OVzdGbVE5WFpYN2liVmpuTE41bXAwcnEweVpmZEpSTGRJNDAtZWFoM1M2STByRE1Ea3lNWFdKcHktbWVmam1MYVlJMXBDbUpzVmxybm1hMXJiaEsxYkEwMUJyY0J1RQ?oc=5"
+  },
   {
    "ts": "2026-09-19T15:00:18+00:00",
    "title": "The end of Myanmar’s resource boom could doom the junta",
@@ -2158,13 +2165,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/cdx0gv9p7xwo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-12T10:30:22+00:00",
-   "title": "‘Social punishment’ campaign turns the tables on military elite",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLS1ZVFdUX3pmR2JKU1cwbVZtVHZ0QXFFMTBRT1E0WEJYUzZoTkstcWgybkpGYmVPeGt6LUxROHBNR2ZvcWJzV3dyWDlMajcxYWpCNUM4X2MyQzdPdHMwRU0wNjVUd0xxMHVobFRwd2FtVzlIRDU3QkJZRllidDlGenFjZ2dyOG4yQndqb2lJNXh2ZWoxeDgwMTFzOXpuUQ?oc=5"
   }
  ]
 }
