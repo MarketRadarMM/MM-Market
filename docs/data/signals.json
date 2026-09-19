@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-19T20:00:21+00:00",
+ "generated_at": "2026-09-19T20:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-09-19T20:30:16+00:00",
+   "title": "News",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SWkh6MmJ2di1wc2ljemNhd2Q1U19neUNOdldRYlRhbmJRektnWFdENkE0dmNMNHdXOEQ5aXN3d0N4eG5YTGg1XzJQczk2d0k0MFpoRy1RQnFsc3hM?oc=5"
+  },
+  {
+   "ts": "2026-09-19T20:30:16+00:00",
+   "title": "Creative Thinking Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9aem5vQUxBQTNObkFoRVloUkdzSjI5LWN2anBtSk1pNU5nYXA5RVhHcGFHdXlwcG92S1FpZ2F0a0x5WXozMGFYTV9LUG15LXpPNUhPZVQ0NmY4cklWWmc?oc=5"
+  },
   {
    "ts": "2026-09-19T19:00:22+00:00",
    "title": "The speech (draft) on one-year State responsibilities discharged by the State Administration Council to be delivered by Chairman of the State Administration Council Prime Minister Senior General Min Aung Hlaing",
@@ -2151,20 +2165,6 @@
    "source": "Khit Thit",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5TNXptVHA1bzNvVVBUa2JDNVR4WFlpQXlQQlZyTFpDbTJ4SERHejIxUWUyaDd0anQxVU1xU08wZzVPVi04dmF6dTFZMA?oc=5"
-  },
-  {
-   "ts": "2026-09-12T12:00:19+00:00",
-   "title": "ဂျပန်မှာ အလုပ်ရှင်ကိုတရားစွဲတဲ့မြန်မာအမျိုးသမီး ဘယ်လိုအနိုင်ရခဲ့လဲ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c2e0mw80ge8o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-12T11:00:22+00:00",
-   "title": "ထိုင်းရောက်မြန်မာသန်းချီအတွက် စိုးရိမ်စရာဖြစ်လာတဲ့ ပြည်နှင်ဒဏ်စည်းမျဉ်းသစ်",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/czrjm460y28o?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
