@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-19T02:00:19+00:00",
+ "generated_at": "2026-09-19T02:30:24+00:00",
  "signals": [
+  {
+   "ts": "2026-09-19T02:30:21+00:00",
+   "title": "Xi Jinping’s US visit will be a test of his power among China’s elite",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/china/2026/09/19/xi-jinping-visit-washington-economy/"
+  },
   {
    "ts": "2026-09-19T02:00:18+00:00",
    "title": "Over 6 Million of Myanmar’s Children Not Going to School: Report",
@@ -2158,13 +2165,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/cy0zy9g495ko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-12T02:30:17+00:00",
-   "title": "ဒီတခါ ထူးမှာလား သားပုရေ",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81135/"
   }
  ]
 }
