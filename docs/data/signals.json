@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-19T12:00:19+00:00",
+ "generated_at": "2026-09-19T12:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-09-19T12:30:17+00:00",
+   "title": "နတ်သုဓာ Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQUZRUHJPVDFqcVRrckhPelhoakVJWHgwQXJIdDdXaXZWdGJhU2tnLVNkYzYtVjdnZzgxMVB5RUR5S2JtbzlDbmhlN0ZPUDl0VnI0Vl8xdVF6ekpXV1J0aF80Y3JiRFY0Z0twa0h6NXlrSnFNd2d6SU1LNDZMdmxFSC10SV9XUEZjZ01zdGlqcDJqcmhVOTE4LVBVdw?oc=5"
+  },
   {
    "ts": "2026-09-19T08:30:17+00:00",
    "title": "Inside the ‘liberated’ villages of Myanmar’s deep south",
@@ -2158,13 +2165,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM1VCSUVjSkZZVlFGd0JZeF9NMGU2QUpiYjhwN0IteXotUUw3Q3piUUhNRnJFVUVIME42NS03dk9wbVFFUlRaMFNDOFNqSEx2aFFRcXdiY2JKZGNMeEdGeTh3OXVPVkFHTnowYnl5b09rNTZNWVZMRGhuWkJYTUxvYWFUaVR1MEVsUUxZMGoxLWpjVkwtVkFmSG1pWko1cE50UEFkSlpXUko?oc=5"
-  },
-  {
-   "ts": "2026-09-12T08:30:16+00:00",
-   "title": "Technical Problems Ground Myanmar’s JF-17 Fighter Jets Bought From China",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdzZ6WE5GS0p0eGFydXItTXFTcVRLSThieC1HR1J1OXVmYjRTVFNBWWNBU3hkTzh1QXFkTXl1YjRxYUtOdmFMWDRiN012Y0VGWUhLRzVTa2lpeVlqSmtoaFJUdlluWWFGS1p1TjZyRzVKSGZQOXlvZ2hyamRERTRuLXYwVWRFVjRsbWVVdU9HdmZYODhXS2s0UEVDbV9CcnQzNlE1RFFyS2hoMU9iWlhpMW9JYw?oc=5"
   }
  ]
 }
