@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-20T16:00:24+00:00",
+ "generated_at": "2026-09-20T16:30:17+00:00",
  "signals": [
+  {
+   "ts": "2026-09-20T16:30:16+00:00",
+   "title": "Dr Zarni",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83S1dkcTZpTy01NGRFdGUxZUdBaWdEc3R2dXFLZDBCN3JUYUtXdHRwdE43UmczS3JzZTZRV240SlFJbEd4SmVTbTZPa0Y1NDNFeF9INg?oc=5"
+  },
   {
    "ts": "2026-09-20T14:30:19+00:00",
    "title": "State Administration Council Chairman Prime Minister Senior General Min Aung Hlaing meets MSME businesspersons from Kachin State",
@@ -2158,13 +2165,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX2VVczdyX0FQOVdEM1lkLUlpbFlYQmI3WFlpbnRnYjYtRnhlSmR5X04yazZpeTJzWnh1VlVqSTBXVUxpWThWMElSODdTUGt1Xy1RengzbGg1b0xmWUEzZl9Jd01CenlOOUllMGg3QnB0MFNxYnNzZFo2eTFFdzJiYWNLclpXMmljQW5CVzI5TmdTRHJzZzZ6QWt2elZKZ1JMTXgwRW90M1h0YTNUVzhwZ01hOHZZV25uUnpfbQ?oc=5"
-  },
-  {
-   "ts": "2026-09-13T13:00:22+00:00",
-   "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing meets with families of Myanmar Embassy and Military Attaché Office, and state scholars in Cambodia",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTFJiRHVnS0s3TnVBRG5ucjJlc0FydzFLMmI2NDRsSjRrVUtQcU9UNDhEam5Na2JzMzI4TU5oMzl2RTVOOHZXUzJUbks2emM0OHFQSll1eTRwX21va3hYQ1g3d2tBSE9RWG9kLXZmb3pGX2xqRzkxdGs3QmNweVlPTzlYdWZCUjVIdml3U3FVeXBleXVWVUZlYmswWWhDLW04OFU2ZlRxaGtTM2NGZW8tWVJpaTNSOEFPOExF?oc=5"
   }
  ]
 }
