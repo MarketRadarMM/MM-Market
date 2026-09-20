@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-20T00:00:22+00:00",
+ "generated_at": "2026-09-20T00:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-09-20T00:30:17+00:00",
+   "title": "Specials",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VRmdZSm1lWGEyOE95eHdPNWNxeUdheGJYMWNCbVBZSF9DM2k3ZVpyOGJxLWRNTFFnSEFwZzByTVk0QXh0ZVUwM3phelJVaXZFaUpwOS1tam5hcUZZalE?oc=5"
+  },
   {
    "ts": "2026-09-19T23:30:16+00:00",
    "title": "၄၉၂၆ Archives",
@@ -2158,13 +2165,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RZlRwUExLN2drNlRoWXdRYmloZndtbkxRWlBQcXlJSURXRk9xY2pMS1p4S0ZGVEZzWWh6Zks3NjVqOEowak12T2NtY3BNWTc0WE1UZkJQZDBhdV9NaEdjbWJKYjNJMThMdHZ2Zl9Sd0RoR0RpbXhkUg?oc=5"
-  },
-  {
-   "ts": "2026-09-12T21:30:18+00:00",
-   "title": "13 September 2026",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBnZThqSUVQSXp2M3duSDFzMTMyTHBoRnhnRGVHX3RGZUtvemtESHdfYlEtNVE3UDItNVlka0hNcjhYc29uZGFoTGJvZ1dSV1p6b0V1bA?oc=5"
   }
  ]
 }
