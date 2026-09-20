@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-20T03:30:18+00:00",
+ "generated_at": "2026-09-20T04:00:19+00:00",
  "signals": [
+  {
+   "ts": "2026-09-20T04:00:19+00:00",
+   "title": "20 September 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ubHI2cTZYa0xSM2RKOFJ5d0tWNnU3bW1JdlNFNmNKeDFFWU5ybzMyVlVjN0Q4NzVvNDU5N2ZGSVFkdXJXdXl5UzVzSjUyNnVFc2JJbw?oc=5"
+  },
   {
    "ts": "2026-09-20T03:30:18+00:00",
    "title": "Real estate associations hold executive elections",
@@ -2158,13 +2165,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbkhMZElrdnVaWFZRQXRCYU5Ob09VVDRwdm53NTVZM3NtMTVhV3NnSTRSUE81ZXg2ZVpEM3lwaTNQR0Nmal9KTkMtbGNjRlctSGJ2UlpaNjR3Tm1IZWIyMjZKeXNXMkdKT0NMWHkxal9Bd3lIM1A2TktYNVB5YW9qZFFuZnFWajEyZ3FOZzJPZUJsMF84dUd4RG5TQW9xNnlWc3dlS0FfbEtwNTE1STZrTkFyZWdySHg5MlpScktyYXgzT1poWHV1ZW5pQzlUSDRTTDRuNTY5QVZCb1Bmb3ZmR1J1amdIT05IaUE?oc=5"
-  },
-  {
-   "ts": "2026-09-13T03:30:19+00:00",
-   "title": "From the editor",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEVHhZU0FfS1M1Z0dwbWtBakhCLWFpRGFrdFBsa2dYdElGY2wzRWtTdjVCQWVvcE4wN0RuVlQyNERuMnBnSkJCYjY4WDJVQVpSdjFoaTVFZGQ2SXd3QWExUzZiQ1ZMdG8?oc=5"
   }
  ]
 }
