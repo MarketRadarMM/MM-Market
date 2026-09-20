@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-20T23:00:23+00:00",
+ "generated_at": "2026-09-20T23:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-09-20T23:30:16+00:00",
+   "title": "Ethnic Armed Group Claims Govt Offered Timber Deal to Sign NCA",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR0gwejAzdW9ZUm5wc3JUcnJyVm9SUVVub2JuOEowdHZiVlNwTVlkYlRJc19nbzlob3JrUG4xeW55SDhjNWhxajNmM1RXMTFSUlFUanpfMXE5cjVPRGxJMjNDc2xzbUFHVE9HMkRWb0huOGNyYkJkckNMZS1pQnh4UFE4djgzN3NBbW15LWJNXzUtenFxLWN3SXFlU25jdmoxeWlR?oc=5"
+  },
   {
    "ts": "2026-09-20T21:30:18+00:00",
    "title": "Food Running Out for 100,000 Myanmar Refugees After US Aid Freeze",
@@ -2158,13 +2165,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdjZEeEd4NWFDSEhFV1lOMnhLNENxc2NicFRjclRmSGlMZFN2MFNBRDhuTWstRkp5STRHNUo3bk5xUnQ4Z0FFZVMzeUNpRjd2S0d0Nng0WUNrU0NyNkhrYWRNakN4RG14ZzdMWjUxT2tSOWFKd1dtMmFpaTA4cjFkVGFxMEk?oc=5"
-  },
-  {
-   "ts": "2026-09-13T19:30:16+00:00",
-   "title": "China Cultural Centre in Yangon holds poetry festival",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNanJycFd3azNTcjlua3VvRTlxanJ3V3JoUjFQTGpxeTVzcnVRZDhLOXRISnNWZWU4M1VuLTFWNm5iVGE4UTV1aW00UFEzcU9CSUZjeTlra0tpSXQweWJIYTl0N25rRkVuVWVlMlpfSGxiQ25YcGM1QnBpZlhkd0xLUmR5dy0?oc=5"
   }
  ]
 }
