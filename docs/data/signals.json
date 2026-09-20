@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-20T11:00:23+00:00",
+ "generated_at": "2026-09-20T11:30:16+00:00",
  "signals": [
+  {
+   "ts": "2026-09-20T11:30:12+00:00",
+   "title": "ဂျော့ရှုဝါ ဗန် - UFC Flyweight တန်းကို ရေရှည်ကြီးစိုးမယ့်ချန်ပီယံလား",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cmqlw7qzg67do?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-20T10:00:22+00:00",
    "title": "- yktnews.com",
@@ -2158,13 +2165,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QY3NGQlZuNm8tUE1FYXM1eWFCWmlFLTM4SXAwTGhJYW1zRFY5bkZ1ZG50UHRqZTRRN2RyT3FQb3pYRUZNOXpIckhIcWo5WkJXNFA3VkstMGlCbDZFbmdISk1nTExFaV93ZGVvZzBn?oc=5"
-  },
-  {
-   "ts": "2026-09-13T12:00:21+00:00",
-   "title": "Interviews Southeast Asia",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pQ3FzWE1zT2Q2TnhzRGV6T0dlcDk5Zjg4NHo5RU1tY2lCSHlhSmgtbDdybGstMTROMVIzb1NkaEJxMms3ZFdtQ0t6c0hheVNEcDg5T0U2X3NUWVdaWnc?oc=5"
   }
  ]
 }
