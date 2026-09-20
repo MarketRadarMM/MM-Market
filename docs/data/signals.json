@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-20T13:00:22+00:00",
+ "generated_at": "2026-09-20T13:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-09-20T13:30:17+00:00",
+   "title": "Opinion",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzMDFnQ2hCMmllazdSU2NBYm5EeUZ0U0lIRGM2ZVpBdW8zT1ZjQkFhMXdiS2tFeVBKc3NPX1VWNXhTUW0tbnhXTDhzZDZ1ZDE4TVJzN2paTU56Z3hOb3Z2OA?oc=5"
+  },
   {
    "ts": "2026-09-20T11:30:12+00:00",
    "title": "ဂျော့ရှုဝါ ဗန် - UFC Flyweight တန်းကို ရေရှည်ကြီးစိုးမယ့်ချန်ပီယံလား",
@@ -2158,13 +2165,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcjBGbVQxY0dkMFl5cGVDeVBRVlpjTElaWXB6cEVOekhmY2U3Z1g1aVZLalM1TUJjSW9UNFU1WU51ckRLWDF5Ymp3VVZiSlprM3FwYU9pOC0yUjgyQ1ppZmk5OFZLeklCbjdCcjM4MkpqVUZadXR2RTZQbEszaUdpZEhIelpRTjVidHVWWTRuM1pJR1d1V1JYck16VW8yMEl1SkFMcFVvVUJLQ1hYTVk1aUlrUmhBYllZUG1PYw?oc=5"
-  },
-  {
-   "ts": "2026-09-13T12:30:16+00:00",
-   "title": "Khawel Chan School For The Blind",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QY3NGQlZuNm8tUE1FYXM1eWFCWmlFLTM4SXAwTGhJYW1zRFY5bkZ1ZG50UHRqZTRRN2RyT3FQb3pYRUZNOXpIckhIcWo5WkJXNFA3VkstMGlCbDZFbmdISk1nTExFaV93ZGVvZzBn?oc=5"
   }
  ]
 }
