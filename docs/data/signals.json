@@ -1,6 +1,34 @@
 {
- "generated_at": "2026-09-21T09:30:17+00:00",
+ "generated_at": "2026-09-21T10:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-09-21T10:00:23+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMeHl1SHczTWxZWGJsRUV1elliamJwUkk4SlRULVBjbVVEMURvR1g1dGM3LVhlT2dlTEtFQ0lUdDFOSDR5dEFIUE9ROA?oc=5"
+  },
+  {
+   "ts": "2026-09-21T10:00:22+00:00",
+   "title": "ထွန်စက် Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT081ZzY1MGYzeWdsN1RxVktYVjVXbUVlanZqWm1xSVFhQzBXYzdPd1VqSlR2TmtrZzQwdzFNc1FhSjM2U3BKMXM5S3E5cnRENXIwM0pDUVdzT1VyQU9XN0VnS0lfVHhSSTNRYjZSNUtTYzUtSjNkaHl2M0ZpNmo5Nl9STFRjUUFxakpzZnRnOWNPaFRuRDBDN3Z5WQ?oc=5"
+  },
+  {
+   "ts": "2026-09-21T10:00:22+00:00",
+   "title": "Chronology of the Press in Burma",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05cmlsRlcyam9tZVlHR2kzYzY3TDVaalNuN05PWi11VkxmTlNoQUVWbXFMLTFfQjBkNjJPdGh1dUpzbGFja2U0aTlCSDE4a2RTNTZkazBWb1JrWXpEbGlNa2p6UFMwTTA?oc=5"
+  },
+  {
+   "ts": "2026-09-21T10:00:19+00:00",
+   "title": "Myanmar worker dies after fleeing Thai police raid at Bangkok-area construction site",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/myanmar-worker-dies-after-fleeing-thai-police-raid-at-bangkok-area-construction-site/"
+  },
   {
    "ts": "2026-09-21T08:30:17+00:00",
    "title": "Welcoming concert held in Falam for returning residents",
@@ -2137,34 +2165,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa1NNUDg5bVE5RmRGdzRpZ1hRX1ZjVi1XUnFUS0dVdDRva3l3c1Ayd3Y3UDY4bm9WRktKdEVPbU9yczZacWtXXzZNTWpwUFdGOVBhTTdPZS1RX29QcnJBbElQd0gwR0RaZzlaZlNSRzBKSmpDdVlwVEdWZUd0WDZjRzhRODJwaUNmTm9ZMmRrYk5SNVJxQkhMVVNoTQ?oc=5"
-  },
-  {
-   "ts": "2026-09-14T02:00:19+00:00",
-   "title": "Arrangements made for Teng Hui (Myanmar) Knitting labourers ahead of temporary closure",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQT3A3OHAydHd3ZGFQOVRjdjVld1RudlJJYkpWMF9DYTJoLUpUX3JBaHRQNXNlUEJXRFN3aW9yb2FYZDNCSENtNE96c2FwN2Z5b1o1eW5LektfZUlwSnBERjJSY2pOT0JGNzNhRFpvOFB1QWxDQ091SEZ4NXlHN3pKVzBGaTI2RXcxUm4wM2pDMVpIWUMtbGJWTklfTnVvVG12c2tPRzdHdEV4LTl1OHc?oc=5"
-  },
-  {
-   "ts": "2026-09-14T02:00:19+00:00",
-   "title": "Water inflow control measures underway following subsidence of Ngawun embankment",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU1F4bFM5N24yeklkWDFwMlBLRERTVDNyZDBLQmEyVTNKR1R3N0d4eUdXUjB6anZVMTQzOFJBX0Y3d0I4UHpxbXZCQ25qNTBYMjNzVk90NkdVbVRkZkd0VkY3UVJkenJXbVB4SzNXZERQd1RocnVsNzdiTnhaLWVXSEpmWE9JR204QWJ2cC1BV0pfWVdGeFRTdHJpQWhHMG92VERQclYtaTY?oc=5"
-  },
-  {
-   "ts": "2026-09-14T02:00:19+00:00",
-   "title": "Seven Suspects Arrested in Online Gambling Crackdown",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSzhSaTktTmpINFZIOFFxYnVEVTRPVVQtbkJ6TW1OWExnQ3dqRS1iTHpQeWpQYjk1Q3NyNGNMQVpnZkVYVExUNDNDZ1poMjRHb21MeFVGbEdTMWtGQV9PdzNoV0RrQVdUVV9xdjdZZ280dlQ3b1JvMHplVGJSNmZLa2cyNA?oc=5"
-  },
-  {
-   "ts": "2026-09-14T02:00:19+00:00",
-   "title": "Collective tree-planting ceremony held in Hlawga watershed area",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMThiaElYRmlDZHd3ZFNsTVFvQ1pSME1ZTWFuTHhkRkZzODhubmNxdTFkN2haWWQwTEJGeThBSUIwWHFOSHlCV0JBYlJzRmhnZ09EcFl2WEVZSjdDRHJ6LWpONkhLRkNWY0I4Ry0talFDRGtScXFxRUh6alpBUmUxeFNPLV9aZlIwZ1RlLUNBRlRMQQ?oc=5"
   }
  ]
 }
