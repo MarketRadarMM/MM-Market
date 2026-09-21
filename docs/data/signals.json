@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-21T22:00:25+00:00",
+ "generated_at": "2026-09-21T22:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-09-21T22:30:19+00:00",
+   "title": "ပစ လူငယ် Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVDNfUHA4SGUzNDg3dG0xdUxoRDQtTHhLQU8yNmJKMFZnYWxqTmU1RlNsRGNQN09vaW5oanUwYl9NUDI2Qk9XcFZaZkNYZ1ZzY08yRUk1aXM0bWpYcWQ5OV9BcEJ2a2hHdjhiQW5KTGFYamtKbE00dk1WbFJjRXBla2RhV3dfYjc2Y2tDSTlLRThXbEl3NWVNRWpsUFQ?oc=5"
+  },
+  {
+   "ts": "2026-09-21T22:30:19+00:00",
+   "title": "News",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9leEdybE5fSC1pSzFGR080UnE4alc5MkI5aEkzalR2WkJLa1pIbzNmSlhPSVFMd1FQQ3hzbXBYdnZ0bFp0bGpQSkNyX1dDV200SW5XS2ZYbjFHa28?oc=5"
+  },
   {
    "ts": "2026-09-21T22:00:24+00:00",
    "title": "uab Bank backs long-term clean water solution for flood-hit Laymyethna",
@@ -2126,20 +2140,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9PTW02OHBrb0M2aG03OWFmYXZBUUdfNzA2R1dMODBsc2xLUFBKck1YelBJcEhiTjYxNXpkZVVva09ESm5kMUE3cERn?oc=5"
-  },
-  {
-   "ts": "2026-09-14T23:00:51+00:00",
-   "title": "Founding father: statues of Myanmar’s Aung San disappear",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa1hwS3FYQmJ5cGJOYUVhTldHTU9LcjliWXlfRlQ2Vkc5ZFR6dDVFZTBwZ3UyM3dMT1V1MDJpcW9OWnpaZHg0Q0dISl9iY1hfWUY5NzBqcVFSLXNzX3kyWmpMMDBvVU9QNko0MnBNWEhLNVhnVEhpY3I4MzNXTGM1NFlZMWxiZFl1Y0QybU9WVG1SSllO?oc=5"
-  },
-  {
-   "ts": "2026-09-14T22:00:22+00:00",
-   "title": "15 September 2026",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KbHladk9ucnpBTmpBZUlDY3R4LVNnLTQtYm5xbTluOWtFcGtZV1I1SEppM3FFV3RueGNWMFhBcnJWSDQweFZxY2YzTmw4RTJYZl9QMQ?oc=5"
   }
  ]
 }
