@@ -1,6 +1,34 @@
 {
- "generated_at": "2026-09-21T12:00:22+00:00",
+ "generated_at": "2026-09-21T12:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-09-21T12:30:16+00:00",
+   "title": "News",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rM1NTdWRFZ0pnaHg3YUJTUkhLY3piQVpfTXU3TW1VX2pZa1hpaDdsQVNDQUtHUDhqNWZqMGF3NEtRYl9RSEFVYjdTdnltS2kzOGFmMjFvaUpjUQ?oc=5"
+  },
+  {
+   "ts": "2026-09-21T12:30:16+00:00",
+   "title": "Myanmar Junta Imposes Death Sentence to Crush Election Dissent",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQmtYMUwyLS1NWTB1bXBlcG85RGltR0VQS0R3eDBHQktQUWVuY3dNbUp3NVFwYTdULXVzYS1NaGhTdHFEQ1hFaGpuM3htQXBac1YxX2ZJSlRNRUxFdkktVmVhNzkwZXJPQTgxTjZGVHNFV3VhSmo2dnRscGRnUC1JTFVfOVhYLVlVSGVlcXdfdHUyd2VvV1hhWkxZblBWcmdPeU1FdDEzT0F2ZVU?oc=5"
+  },
+  {
+   "ts": "2026-09-21T12:30:16+00:00",
+   "title": "Analysis | As It Loses Control of Rakhine, Myanmar Junta Resorts to Stoking Religious Hatred",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRGlFZW1fRVllN3I4VU9FMjZ6eGU4SUl0LW5IZUgyQjZPaWEtdU9uRFhzZTdjWHpWUDlWOE9qaXo4OTdhSnNpVE0tSFpyanVYZVlQTGdkckxPbDl2cE9pOE1RRDBQeGg3Q1l0U04zX0ZsbnVYd1pFeTRVbngySjJpZVpUbHVnNDNjcjNFTHl5eUVnS0gyamYyczZnM3ZIam1KRkxoWHJWZHQ5UmZQY3N3amtOaHBlTEs3UlhRMnppLU92QQ?oc=5"
+  },
+  {
+   "ts": "2026-09-21T12:30:16+00:00",
+   "title": "Business | Min Aung Hlaing’s Investment Pitch at Odds With Myanmar’s Economic Reality",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ3Y1NUxSQUU5QkNsVXhGWVJFWThDcUdyaHFORHRBRG5XbmxHclFBczYzNnFjMkEwb2tuLXVRU0lQdXB5dHdQOTNmdXhNdkxLek13MnBLOXl0WWtuSzVJTU50alVVQlVrQVl5YThKU092SHRMNlNjRUxDWVZXdTBISUtMby00ZnVnemVGcTY4MTdzdzNfbVpqSTU1SGw4Z3d3bG1tWnpZZHlVQTNsdm9oRVZn?oc=5"
+  },
   {
    "ts": "2026-09-21T12:00:17+00:00",
    "title": "ဘုန်းကြီးကျောင်းတွေ ဆက်တိုက် ဗုံးကြဲခံရ",
@@ -2144,34 +2172,6 @@
    "source": "Frontier Myanmar",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1heWNUUGxULUVodjZqM19SQV9tNjdrbllDUWlweW9UOEdzcXQ5Z2xBaGxEWXZnOFZLaldWemdjWmZEb21CSlJtUXBldVU5WFljNWFtMmtZTDRQVXhuUlgzdEc1a01qVThtY2tkX180REZFT25maDdNUGIwSkc?oc=5"
-  },
-  {
-   "ts": "2026-09-14T10:30:21+00:00",
-   "title": "စစ်ရေးတင်းမာနေသည့် ပုဏ္ဏားကျွန်းမြို့အနီး ဗုံးကြဲမှု ၃ ဦး သေဆုံး",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81148/"
-  },
-  {
-   "ts": "2026-09-14T10:30:21+00:00",
-   "title": "ဧရာဝတီမြစ်တွင်းသွား စစ်သင်္ဘောကို ရွှေကူမြို့အနီး KIA ထပ်မံတိုက်ခိုက်၊ ၁၀ စီးထက်မနည်း ပျက်စီး",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81156/"
-  },
-  {
-   "ts": "2026-09-14T10:00:20+00:00",
-   "title": "Temples and Charities Face Demolition for Yadanabon Vanity Project",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeHN0X05pUnJjeFAtUnEzeUMxU1ZSMk5vU2I3VTU2R0YwSTMzcXptRjVjTXlwRlZDdnEwNkwyRW1senZZS1I0UEt6WE9yYXJaN09pbE1KRVkwY1JHYXh2ckIxeERtV3BMMWZiNklWV3cyYjhXT1h1LVZXYlRaUnFXeTdxNlpuSWw2ckFhVXNPMHRnRUpoS2UxbmpuNEM1bUYwZGE4SnVzUC1iMUpo?oc=5"
-  },
-  {
-   "ts": "2026-09-14T10:00:19+00:00",
-   "title": "ချင်းဒေသတွင် ထိန်းသိမ်းထားသည့် စစ်သုံ့ပန်း အစုလိုက်အပြုံလိုက် ထွက်ပြေး",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81144/"
   }
  ]
 }
