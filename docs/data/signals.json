@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-21T21:30:54+00:00",
+ "generated_at": "2026-09-21T22:00:25+00:00",
  "signals": [
+  {
+   "ts": "2026-09-21T22:00:24+00:00",
+   "title": "uab Bank backs long-term clean water solution for flood-hit Laymyethna",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVGVjUmgxMFdLTEhwT3d2T3hsaWdxUTcxSDBOZk9pTlRuWEc3UnV6YmVVLW1wN2NKRV91eWJrSVVndm1qMXVpOTBYQVlyOVpYbEdrY1JOU2xlVk1yWEloWU5VYlU4MmcyRXc2LU85Q3N3ZG5BWWMyUlV1U3pMSkZ3YjlMUGp2Rm1oUG9Ob2xkaVJvX3RTUUU3ZDJ0QQ?oc=5"
+  },
+  {
+   "ts": "2026-09-21T22:00:23+00:00",
+   "title": "Microplastics Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12TVRvdi0tOV9BbmM5b0VLcVl0a1c0T0t5RVhFVkZiMm9BYnhPZDJJTnJjOWhMYUxPTUZ1emxEeDVIMjNpc2V3NEczNnhpM2xDbWJ2bG1TejM?oc=5"
+  },
   {
    "ts": "2026-09-21T21:30:53+00:00",
    "title": "Latest News",
@@ -2126,39 +2140,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KbHladk9ucnpBTmpBZUlDY3R4LVNnLTQtYm5xbTluOWtFcGtZV1I1SEppM3FFV3RueGNWMFhBcnJWSDQweFZxY2YzTmw4RTJYZl9QMQ?oc=5"
-  },
-  {
-   "ts": "2026-09-14T21:30:19+00:00",
-   "title": "Junta Sets Up Committee to Expedite China-Backed Muse-Mandalay Railway",
-   "source": "Irrawaddy",
-   "markets": [
-    {
-     "market": "pulses",
-     "direction": "neutral",
-     "confidence": 0.5,
-     "rationale": "China border trade affects bean flows"
-    },
-    {
-     "market": "rice",
-     "direction": "neutral",
-     "confidence": 0.5,
-     "rationale": "Border status affects rice exports"
-    },
-    {
-     "market": "fuel",
-     "direction": "neutral",
-     "confidence": 0.45,
-     "rationale": "Border routes also carry imported goods"
-    }
-   ],
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTWZmZE45ZW1FamtGUnVneFhPaEZxczRGWDMxdTgzZkpOd1dIUXhlQ1ZQaXV1S3ctUDNLNExhLUg2NlczQV9JWlJrLWpyYktad0FWNDI4WVpUZURHeW1kSmtPcjRlS2NxYmhDU2QtUGlBMllDUG5ubkQ4VTVJaUNVcFczWUtRQ2xJbTl6N2Rkb0lCQ1BUVDVkV0lTMmpGSW5WcVNHeVNFMkxEZGtsVmxVeFBOSjlSMjNDRnl5OHRSMGJEbkpC?oc=5"
-  },
-  {
-   "ts": "2026-09-14T21:00:20+00:00",
-   "title": "Appointment of Kazakhstani Ambassador to Myanmar agreed on",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ0wxZnB2RTBmRmx5TUx6QUdROEJZZ0lwTFJCLU5JR3pJa3BPVldIRFVYVDZEQW9rN01mYm9hb0hXRTMzMXFmengySzh0Wi11QWxfc0l2QmJWX2hHTE5NR3drXy1NbnJQVktuYXVmaDRVTkNYallzU2dTWGxhLW9CTFVTMUtvdjVDb3VN?oc=5"
   }
  ]
 }
