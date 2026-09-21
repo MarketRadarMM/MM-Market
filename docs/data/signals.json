@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-21T14:30:19+00:00",
+ "generated_at": "2026-09-21T15:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-09-21T15:00:22+00:00",
+   "title": "Protecting the ‘Dear Leader’",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZNi1qNWRqM1R6Qmc0STAxNmhLa2NRcmJwYWI4TlU5aGxUa25CWW1LOWVzU0JwNlNpZHhZTG1CaUFNRGpjWUpxZmQ5blZac2NMN0hGb0ZtYXlLSi1HLWhVZWppWGw3S3la?oc=5"
+  },
   {
    "ts": "2026-09-21T14:30:18+00:00",
    "title": "Emergency Repairs Underway Along Eroding Toe River Embankment in Nyaungdon",
@@ -2165,13 +2172,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd3duZGhXcjFfRGM4bEtTa2ZYUmZqVWEta0dZOC1HV3VMd3NWbnZPcjZ2RzZvZ0ZuckpVVzBDOThpWGQzZkU1LVh6a3B0ODhuejZTa2lDSWtBNVdnZW9MNDVKRFpZOEg4TTltaEMxY3ZGMVVwZFUwRFBpRHU2ZTRWUzVsQld4ekRjR3RVb2ZvbjN1Nzk1VWMyMQ?oc=5"
-  },
-  {
-   "ts": "2026-09-14T12:30:20+00:00",
-   "title": "Myanmar Embassy warns passport extensions will be denied for unethical applications",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNEhzelNvQ2N2bVp2Zm5yWUM0aDVkVWtOVEc4SzRQTjhDOFlpY0QtYkVxYWM0eGVSeUZNaEliLU56ejB2TUF1S01CU2p4eWsyZ09rUkVNekNPZ3Noc25qOF80QUQybGlCYnFQWnBfXzVnZG9vQVNMai1sRTRXVEtEZksxX2g3OGliSVNDZV9aWkxsMGFsVTJCQTViSU9vYzBDY2VNX2p1VmZiRHIx?oc=5"
   }
  ]
 }
