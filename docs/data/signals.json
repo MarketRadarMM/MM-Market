@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-21T04:00:58+00:00",
+ "generated_at": "2026-09-21T04:30:24+00:00",
  "signals": [
+  {
+   "ts": "2026-09-21T04:30:21+00:00",
+   "title": "ဖမ်း၍မကုန်သော တရုတ်ကျားဖြန့်နှင့် စစ်တပ်၏ သံသယဖြစ်ဖွယ် နှိမ်နင်းမှုပုံသဏ္ဌာန်",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81260/"
+  },
   {
    "ts": "2026-09-21T03:00:17+00:00",
    "title": "ကုလမှာ ဆက်ရှိရေး အခြေအနေတွေ သူ့ဘက်ပါနေတယ်လို့ ဦးကျော်မိုးထွန်းပြော",
@@ -2158,13 +2165,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qLWc4dVdDQjA2dWNsd29EcGNvNGxmNlpuZFhJeWdIRHdHc0c2VURLVzRoYWRuSmxtamVraHhmTE14VHJxNkZSTGM1N2xFTDlOSW5XY3YtYzBRWGhMSUN5bUctenMyaHFXaUJKZDFfVlY2aUlISTVYNFJxQmJZeWc?oc=5"
-  },
-  {
-   "ts": "2026-09-14T02:00:19+00:00",
-   "title": "K500+M donated for kidney patients over three years",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcDMwb1QzSG1aRFR6b2FGQ05pUWp3N1c5STlubmdOYlhjZHlnS1Z5SDUxRHBGMUIxd1ZkemdKcWMxbk5OcnJFNzlxblpkN19zckFURC1tTkpWdTh5UE1ncG9ucFpWaUNVM3JLNXhoNHNJOTJQUTRqS1VTUTFEMmpiUg?oc=5"
   }
  ]
 }
