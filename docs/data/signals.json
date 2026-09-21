@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-21T17:00:23+00:00",
+ "generated_at": "2026-09-21T17:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-09-21T17:30:18+00:00",
+   "title": "Untitled",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNelFnSlFCYl9MVHpoaXNfSEVvOW40MllUWWFrOHdhbEVyUXVxWVdxckJZNEZHTlEwS2ZKaXc4TmNSMGtGeDc5cjdUMDdBX0pvT2VrYXRPbTRja2tuX0VSTnQtMEYwT25seDRteFcteUZxTlRqM0hweVVldWJIYjVZM0h4TzBjX2I0eG91SDlzdjQzXzF6RFZUU3I0YUpuekxoZE5vYklzYlhvR3F2?oc=5"
+  },
   {
    "ts": "2026-09-21T16:30:17+00:00",
    "title": "As Myanmar’s Military Stumbles, a Top General’s Dissapearance Fuels Intrigue",
@@ -2165,13 +2172,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNmVkOXEzeGNhdS05dGk0YWhBanRPeHo3TU00SDlDWDg0cXFYdGw2cFk3Q1JrVXNPTTliRUV6enN5OEEyT0dVdWdLUkxXa2RER2x5UkN6c0NKektFRjN5UkNjMUg0cWdUX0wtbnlPLWZKdGdPa210bFlxUThkQzdzaUYwLVIyVmpNNkw2SXFuZE9PSWJ4d0NxaTNfVllnaEVPY0E?oc=5"
-  },
-  {
-   "ts": "2026-09-14T13:30:18+00:00",
-   "title": "US Accreditation Body Gives Stamp of Approval to Hospitals Linked to Regime Leader",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTG9fcF9wTVJxVE5pR2xQemlSeWQtaWNibFFZdEs1RmtMZnNOczh6Tm92dzBFNmNFLWVVdkI2RmViLWdxZVNTY1E5Qk9SbTlmNEJHTERyTTFVRFJPZkRELXdFV3I4V3E4ejVONGhHV1R4U3RCMGtOTDU4bDNlREp1Q29IWS1mTnlvODdZd3hxWkFCM0xBcTRpMkRhV1Y5aXZ1ZWw4ZGxHRTFtTXd4dV9GcFJ5Q2tQNHE2SEppcEJ6djRMUQ?oc=5"
   }
  ]
 }
