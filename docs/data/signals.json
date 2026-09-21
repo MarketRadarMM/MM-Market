@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-21T01:30:20+00:00",
+ "generated_at": "2026-09-21T02:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-09-21T02:00:19+00:00",
+   "title": "News",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WM2Y2Z2o1cjZ1c1RLZENVUF84bWtWR0F5bW5PYUNKclpSU0l0ZjRJY2dTZ2lvM3U1TVZreWgwMHZvNjFGNUZjNnlVZWQ0Sm1HRXkxVEh1ZHpkVlU?oc=5"
+  },
+  {
+   "ts": "2026-09-21T02:00:19+00:00",
+   "title": "News",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fZ21adVd3UWhWbm5hbVJHVkNjN1RYRjFhSndpWGFKTU41bzVKT1FlWHRGd2dMdjhBUndxZzBBaXJidWtRRHBfOTVaNUZnZDZxbnAyMU5tT0ZVUQ?oc=5"
+  },
   {
    "ts": "2026-09-21T00:00:19+00:00",
    "title": "News",
@@ -2151,20 +2165,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wN1Y2dDZoc1FTZnF4ZDdUSVBWbUE0a1dqam5JWDB4ZVlNOUpkVFVqTm1WOXRiZXdNcTItdExGYXY2RzZuUXYwVWtNc3E4Yy11VUU1cg?oc=5"
-  },
-  {
-   "ts": "2026-09-13T20:00:20+00:00",
-   "title": "Emergency Repairs Underway on Nyaungdonkyun Embankment",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOW1nTERFeXdRb2VNNmxDR0Z2eF8zMnFKZVNzdEZxa202ZUFyeklWSGRtSkhNRVZCWDlWXzJEdFdHR05hMFNNYll6MFd2QU9JTmZ1Ml9Pckd2QWFTUlVwSUdESG9EeE5JdnY5WG9ta3pTRm50cEhTcXAzYnNSX01mczNXMVJmQQ?oc=5"
-  },
-  {
-   "ts": "2026-09-13T20:00:20+00:00",
-   "title": "Union Minister calls for upgrading ageing sports facilities in Mandalay Region",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVkpXbERZcFJwR1F3UGJVY2hDRVlTRWRabV9ibVZfN3lCQ2RMUFota1ktcG03b3pVd0p2LXRHLVl3WG1PTWgxVUw3VlRhZERPZHdwcDVtWW1oLVRhNE94eTFFbWFLZ09TcUtnZl9ZN1ppamc1Ykx0RFh1MXF0eDU4U1k5WTctcTlFakxzVFg4QnJKa1cyY0RJdEVaaVVBYkpRNGJvNHR3?oc=5"
   }
  ]
 }
