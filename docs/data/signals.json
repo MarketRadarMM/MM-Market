@@ -1,6 +1,41 @@
 {
- "generated_at": "2026-09-21T10:30:18+00:00",
+ "generated_at": "2026-09-21T11:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-21T11:00:16+00:00",
+   "title": "အခွန်စည်းကြပ်မှုနဲ့ အိမ်ခြံမြေဈေးကွက် အလှုပ်အခတ်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c5yrypn5ryqo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-09-21T11:00:16+00:00",
+   "title": "\"ဝန်ထမ်းလို့နာမည်တပ်ပေမဲ့ ကျွန်သာသာပဲ\" – ကျားဖြန့်လုပ်ငန်းထဲပိတ်မိနေသူတွေ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c62mgrqg5jvo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-09-21T11:00:16+00:00",
+   "title": "AI ကိုထိန်းချုပ်ဖို့ ပိုခက်လာပြီလား၊ လူသားတွေဆက်ပြီး ထိန်းချုပ်နိုင်မှာလား",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cx2z5eggg0eo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-09-21T11:00:16+00:00",
+   "title": "ဗိုလ်ချုပ်စိုးတင့် - ကိုးကန့်က ဖမ်းထားတဲ့ လားရှိုးတိုင်းမှူးဟောင်း",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cdx7v2rq916o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-09-21T11:00:16+00:00",
+   "title": "စာတတ်ဖို့ခက်နေဆဲ စစ်မက်ဇုန်က မသန်စွမ်းကလေးငယ်တွေ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cq56n13g9zjo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-21T10:00:23+00:00",
    "title": "- yktnews.com",
@@ -2130,41 +2165,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRGhaSlB0bm5VUWViMVNxNk12QUJKczRZSHh3MDhjUnF4cVFvV2hYRUxSYnBLaG9wRmNVQzEzM0gxbEQ0Wk5FaUFSOEpkNDJHVFFKSTdEdVQyay1VS2c5VmhGemRGeUpidkt5R2Y2bHJueEc4b1FCMXgya05IMDRqRkV1elJQWTZCekRwNmRXc2cybzVsbXY0RjVvdEVZQU1BYnlQOVhSQldHU3pITGZFMXhVY1gtN0JnMVZteTM3R3cxZlE4TEVMZmdjMkIzQQ?oc=5"
-  },
-  {
-   "ts": "2026-09-14T04:30:21+00:00",
-   "title": "စစ်မြေပြင်ချိန်ခွင်လျှာ ပြောင်းလဲစေသော FPV ဒရုန်းနှင့် ဧရာဝတီမြစ်ညာ ရေကြောင်းတိုက်ပွဲ",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81140/"
-  },
-  {
-   "ts": "2026-09-14T03:00:17+00:00",
-   "title": "ဗန်းမော်ကနေ ပြန်စုန်ဆင်းလာတဲ့စစ်တပ်ရေယာဉ် ၃ စီးကို KIA တိုက်ခိုက်",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.co.uk/burmese/live/c933kmzgd331t?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-14T02:30:18+00:00",
-   "title": "China Donates 95 Tonnes of Rice to Flood Victims in Sagaing",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRjFyRmc1bWRoVVZBRkh2LWFsa1UxLWhQaS1jSlJ4YUQ1azFGR0ZvVUJvRVAyWkVWNk9nMTJMdXRSVFdZWjRnaDdwT2JGRVFpR0pfbndGZ0tMSlU5ZS1tV193TW5kUWNKVXZyeTdscGsyRWRrRXUwTnY5aWVhU0JnQTVqdzJXTmlvZHAwXw?oc=5"
-  },
-  {
-   "ts": "2026-09-14T02:30:18+00:00",
-   "title": "Falam gradually returns to normalcy as residents return and MPT services resume",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObktmWUdWUFdHUkVVbzBic1k0SzFWX0pKYlRJTjFxdnBpNEFkVERMQXlscl82VU8yS3VOMVBaeVVyM1V1b2Z0R0RLZENmTEdjT05oS2xsVW9NbnVieE5iYktPeUk1V0k1RE1RSGI5cDdQMUdEd0NUb1V5Tlo1UEcybkctMzFHNFIweXdQR0hhZDFJYURndWhiVmhyMkZTSzNPOUdKSDc3Yw?oc=5"
-  },
-  {
-   "ts": "2026-09-14T02:30:18+00:00",
-   "title": "Taninthayi Expands Oil Palm Production with Plans for Local Refineries",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa1NNUDg5bVE5RmRGdzRpZ1hRX1ZjVi1XUnFUS0dVdDRva3l3c1Ayd3Y3UDY4bm9WRktKdEVPbU9yczZacWtXXzZNTWpwUFdGOVBhTTdPZS1RX29QcnJBbElQd0gwR0RaZzlaZlNSRzBKSmpDdVlwVEdWZUd0WDZjRzhRODJwaUNmTm9ZMmRrYk5SNVJxQkhMVVNoTQ?oc=5"
   }
  ]
 }
