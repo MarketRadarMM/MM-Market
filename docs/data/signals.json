@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-21T19:00:21+00:00",
+ "generated_at": "2026-09-21T19:30:22+00:00",
  "signals": [
+  {
+   "ts": "2026-09-21T19:30:20+00:00",
+   "title": "News",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yXzZkTmNrbHRKaGFIMXc1Znp0QmQ0dEpibnRNcFIya0xua2NkSkFnRUdpSERIVVBPYUpuS0xMQ1AzaHhnY2tFMHM4NG9HNW9CZkl4U3FoTThqSTBZVlE?oc=5"
+  },
   {
    "ts": "2026-09-21T18:30:22+00:00",
    "title": "Intake of Officers Training Course of Defence Services (Army) Officers Training School (Bahtoo) held",
@@ -2165,13 +2172,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPczg1VHFhQ3VCaEFhSC1NTEI2ZkxQSUc4U21jM0pBekYtVEJVQjNiMzdaWjBjZ1FZYndnNkFQQWpMUGx6WVhkVE9HbzZWT0pldmNqMWVpU0Z4ZzYtN25fMXJMNjM4RUR6V2JHQVZ2TlVpQkd5ZkEtSXBwdm1tWUZBT1VzU05WekRzdld6dFRIbEZiMkZHTDdPTURJbDJYdEgxT1RiLU1ob21yZ2IxTGdOTTdPdjlNejNzUVZQRDZ3?oc=5"
-  },
-  {
-   "ts": "2026-09-14T17:30:21+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5vMjdRR1RKbnRUWUtGc2oyeHBDamtFUEtBdDZCc25qM3ZWN25PZEh2VXVwUnI5SlgzQzZhb290eXV3VnAzSEhYaE1FOA?oc=5"
   }
  ]
 }
