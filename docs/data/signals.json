@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-21T07:30:21+00:00",
+ "generated_at": "2026-09-21T08:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-09-21T08:00:19+00:00",
+   "title": "စစ်တွေနှင့် ပုဏ္ဏားကျွန်းတို့တွင် AA နှင့် စစ်တပ် အပြန်အလှန်ထိုးစစ်ဆင်",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81270/"
+  },
   {
    "ts": "2026-09-21T07:00:20+00:00",
    "title": "Burma",
@@ -2158,13 +2165,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUnAzN1J0UC1hLUxmXzlqN2ZkeDZqM2tRNHVWNHRtejJ4enQtbEZWVl9fLWlCU3Y0bEZNMUxndmhLTVZSYU53N3lOTm9odUlNb25ZOHhPZlpmbmxlOFlmWW5YcllCOUhqZENYS3ZrX0VTLUkwUjFpREl1THBnaG1KVFZITWExRGVJanFkUUdB?oc=5"
-  },
-  {
-   "ts": "2026-09-14T02:00:19+00:00",
-   "title": "Kachin State Chief Minister inspects Myitkyina commodity checkpoint",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQTJLTG5EdFlseV9jYWlQMXV0V1ZEbmV5bnJQU25hSkdxektGWTZmWmQxZU9CZ2JBd2FkZHJLSFlCUGRqakF5eWhsY3pYNzhPWlVieVJiRDBMaS1ySVhVLW1oZS1HbFBkVDlMUE1uN3pyM0tEM1R4OEE3X1ZTWC1ROU15QjJwSDA5OUp2TU5MSkt0YWdtZHhV?oc=5"
   }
  ]
 }
