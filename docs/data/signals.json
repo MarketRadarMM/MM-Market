@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-21T02:30:19+00:00",
+ "generated_at": "2026-09-21T03:01:00+00:00",
  "signals": [
+  {
+   "ts": "2026-09-21T03:00:17+00:00",
+   "title": "ကုလမှာ ဆက်ရှိရေး အခြေအနေတွေ သူ့ဘက်ပါနေတယ်လို့ ဦးကျော်မိုးထွန်းပြော",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.co.uk/burmese/live/cxnvlpm097l9t?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-21T02:30:18+00:00",
    "title": "29,109 insured workers in Nay Pyi Taw Council Area",
@@ -2158,13 +2165,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcDMwb1QzSG1aRFR6b2FGQ05pUWp3N1c5STlubmdOYlhjZHlnS1Z5SDUxRHBGMUIxd1ZkemdKcWMxbk5OcnJFNzlxblpkN19zckFURC1tTkpWdTh5UE1ncG9ucFpWaUNVM3JLNXhoNHNJOTJQUTRqS1VTUTFEMmpiUg?oc=5"
-  },
-  {
-   "ts": "2026-09-14T01:30:19+00:00",
-   "title": "Applications invited for Quiz on Korea 2026",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9DSGx6eDNsOTJLdUJmSk9Sd0RuWXNqMHpnY3FKc3dHRXBhajNDUjZ0a1pYQmhLYmtURXZFM1JITmxmYzNHc3NRaGpUZVlwcFlmUVRadjVid0FaOHpxemtsWFdzYXJOT2VlRS03aW5oanUtejZ5REpn?oc=5"
   }
  ]
 }
