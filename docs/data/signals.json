@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-21T20:30:17+00:00",
+ "generated_at": "2026-09-21T21:00:29+00:00",
  "signals": [
+  {
+   "ts": "2026-09-21T21:00:28+00:00",
+   "title": "22 September 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45clA0WWxXVm93QnJxVms0X3QzaVdaVVJHbHRxQkM2ckl2Wm1GTXVfLXZSN1NKODVTTWtIc2JWQXYya0Q3MExFUWl4ZWNYY3BtbTR6WQ?oc=5"
+  },
+  {
+   "ts": "2026-09-21T21:00:27+00:00",
+   "title": "Junta Suddenly Restricts Myanmar Migrants’ Passports to ‘Thailand Only’",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQzlJdkJ3c1dpMjZncGFRX055NTFIQUFQV05ia0xCa25yN2ZrSzVsVGhBNnlIMXduY2FYVDdrd1FHVUpKN0FYUTdqZjlSTkRaakdyeHE2cmdJaUQ0YkpCNVo1WUdvNFgyMFhUX3hqMFhldEw5X3UyUS1iTFFoYzM4WW9FTE1jczBmUHhYekRRMHllX3kyQXZMN0w0UGdRRERyQm45amYwUXlGOUowTnNN?oc=5"
+  },
   {
    "ts": "2026-09-21T20:30:16+00:00",
    "title": "News",
@@ -2145,33 +2159,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNblJlYXVtekwxSk92RHJ1blVYNmpVMVBZeHFqbzNYRUxMOG8zeWxwUXJKdHBDSmlwN3ppamlYOEtKeEpBcktveUttUzVDT3VhT1NHT2psblVfQkFSVENJRm5SSEZmRV9jSTRweG1abTBTY1cyTE9odXl0SG94NS02dVl2SWRYam41QkpmYmVpQ0JJYm96a1BScDRsZktwNFludzIxeU1UTTd5emdiaG5lT3dYUjdlU1NibE9TbVA1YlVrVThpMW9NNDR3MjAyZw?oc=5"
-  },
-  {
-   "ts": "2026-09-14T20:00:32+00:00",
-   "title": "‘We just want peace’: Lashio under siege",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jUFIzNTZuR0tYdjZHbFFvOFRVVGk3TW8zMWJaa1p2bEE5bHFLckVNbXhrQjRJYnAxMmhSem4wb1ZmbjFXdGhNRmVhSXVhNVQtV1ZERExxa3R4M1VGNkZnY2tsdzByV1FTVjdaSlVnMlBCbXFnMEtYQlFBbDNHZw?oc=5"
-  },
-  {
-   "ts": "2026-09-14T20:00:29+00:00",
-   "title": "Pyongyang subway ticket price nearly triples",
-   "source": "RFA (EN)",
-   "markets": [
-    {
-     "market": "fx_kyat",
-     "direction": "neutral",
-     "confidence": 0.5,
-     "rationale": "FX-rate story — check which way"
-    },
-    {
-     "market": "gold",
-     "direction": "neutral",
-     "confidence": 0.5,
-     "rationale": "Domestic gold tracks the dollar rate"
-    }
-   ],
-   "url": "https://rfa.org/english/korea/2026/09/14/north-korea-pyongyang-subway-inflation/"
   }
  ]
 }
