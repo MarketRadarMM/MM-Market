@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-21T20:00:23+00:00",
+ "generated_at": "2026-09-21T20:30:17+00:00",
  "signals": [
+  {
+   "ts": "2026-09-21T20:30:16+00:00",
+   "title": "News",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pUVFYaW81U3dmc0g2NmlWQ2VIQW9SVUl4cmN6U3dSZjV6aVhzaFN5RklVUlNscjJnVC1PRG5NUG43THdTNXl0a0V0V0Y1TUc2R2FsOGFURFZPLWU0SkE?oc=5"
+  },
+  {
+   "ts": "2026-09-21T20:30:16+00:00",
+   "title": "Business | Myanmar Shadow Government’s Crypto Soars After MEXC Exchange Listing",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNExTNzVpNkJfSXIwMmhHNm50eDh1YTUzMXJPVDA2SHM4SHV1aVFUY0E1WF96MEJZY0dZV0N1OUZJaS1jaGotMEprNGdHOTNmSG02UFVqME41M3BqV3ZmcU5zR2hJRmxubEI1TUJGUkpyZ2V0OWFocDlSdzNNLTNqdmJDTTdiR3FVa0pVbjJoTnRJTHUtVmI1ZG5ES3VpYmE3TVlBZVM0Z05jMFE?oc=5"
+  },
   {
    "ts": "2026-09-21T19:30:20+00:00",
    "title": "News",
@@ -2158,20 +2172,6 @@
     }
    ],
    "url": "https://rfa.org/english/korea/2026/09/14/north-korea-pyongyang-subway-inflation/"
-  },
-  {
-   "ts": "2026-09-14T19:00:24+00:00",
-   "title": "Parade of the 76th Anniversary Armed Forces Day held;Chairman of the State Administration Council Commanderin-Chief of Defence Services Senior General Maha Thray Sithu Min Aung Hlaing delivers address",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPX1lUOHVwUjNOb3lpTXZYc3B0YlZoR3BWY2d0M3pIUzFvTHlMSjFYaE0ya2l2ZWFuRWhBbktlZjkxa0tHb0QwYmdheDZ4YmJqMWprZXdNa2w5MWxRQnNlbW53M0RMc0ZWQkV2SGlNc0IyeHd6NFZDSWpPcVlmWDB3WmtwSEVHTGpLaTE4S2dQV3NWT3RySTlnN2VQMGFtY3FFbWF1SFhmQ2xCS2ZqWGcyV2IxOXh5Q3NvblhaUkhzbHlwc3RIakE?oc=5"
-  },
-  {
-   "ts": "2026-09-14T19:00:24+00:00",
-   "title": "Youth Peace Forum 2026 opens with a keynote address delivered by Acting President of the Republic of the Union of Myanmar, Chairman",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPczg1VHFhQ3VCaEFhSC1NTEI2ZkxQSUc4U21jM0pBekYtVEJVQjNiMzdaWjBjZ1FZYndnNkFQQWpMUGx6WVhkVE9HbzZWT0pldmNqMWVpU0Z4ZzYtN25fMXJMNjM4RUR6V2JHQVZ2TlVpQkd5ZkEtSXBwdm1tWUZBT1VzU05WekRzdld6dFRIbEZiMkZHTDdPTURJbDJYdEgxT1RiLU1ob21yZ2IxTGdOTTdPdjlNejNzUVZQRDZ3?oc=5"
   }
  ]
 }
