@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-20T23:30:18+00:00",
+ "generated_at": "2026-09-21T00:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-09-21T00:00:19+00:00",
+   "title": "News",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1rbENHeUwzV3NOSXZHdFpZS05QYkI0UlRxUDhPdENSdHFJWmlfQmJIV2tVaVpVc1BEUHlBVTRJYmtnS0pMY3pkNHNpZy1fdTliajRvWXpjZUR0RVV0?oc=5"
+  },
   {
    "ts": "2026-09-20T23:30:16+00:00",
    "title": "Ethnic Armed Group Claims Govt Offered Timber Deal to Sign NCA",
@@ -2158,13 +2165,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVkpXbERZcFJwR1F3UGJVY2hDRVlTRWRabV9ibVZfN3lCQ2RMUFota1ktcG03b3pVd0p2LXRHLVl3WG1PTWgxVUw3VlRhZERPZHdwcDVtWW1oLVRhNE94eTFFbWFLZ09TcUtnZl9ZN1ppamc1Ykx0RFh1MXF0eDU4U1k5WTctcTlFakxzVFg4QnJKa1cyY0RJdEVaaVVBYkpRNGJvNHR3?oc=5"
-  },
-  {
-   "ts": "2026-09-13T19:30:16+00:00",
-   "title": "Myanmar women face South Korean in Asian Games opener",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdjZEeEd4NWFDSEhFV1lOMnhLNENxc2NicFRjclRmSGlMZFN2MFNBRDhuTWstRkp5STRHNUo3bk5xUnQ4Z0FFZVMzeUNpRjd2S0d0Nng0WUNrU0NyNkhrYWRNakN4RG14ZzdMWjUxT2tSOWFKd1dtMmFpaTA4cjFkVGFxMEk?oc=5"
   }
  ]
 }
