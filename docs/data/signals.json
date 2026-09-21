@@ -1,6 +1,34 @@
 {
- "generated_at": "2026-09-21T14:00:25+00:00",
+ "generated_at": "2026-09-21T14:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-09-21T14:30:18+00:00",
+   "title": "Emergency Repairs Underway Along Eroding Toe River Embankment in Nyaungdon",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT1ZvMks3MVlwVE1OZmtaRVZTcE0zbTFaRC1SMU5ZSWpvWVI4a3J1N2E5dm9MZmJ3Y0xnbDRiTENUS2o3Y1ZMQjZ1eHAzN3A1R3pUUUhYU244Y3B6SnRseWVRdElRdHJwRE1DYnRGUjRFVjRydzBmaFRpekcwRjItWGhjRERSYVZvWGV5ZW42Z3NESVFVSXFtRno3a2FBSG9H?oc=5"
+  },
+  {
+   "ts": "2026-09-21T14:30:18+00:00",
+   "title": "21 September 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5NT2V1alF2SS02WDNqUXMzVVlhTFVlQ01VcXJCdnNqWnlaaGlXaG1JakphdjJ0WHBwRUk3UGRjSUkwaW4zY1Y2cGs0ZDhsa1JSQnQwZA?oc=5"
+  },
+  {
+   "ts": "2026-09-21T14:30:15+00:00",
+   "title": "ပဋိပက္ခကြားမှာ စာသင်ခန်းတွေ မပျောက်သွားအောင် ရုန်းကန်နေရတဲ့ဆရာတွေ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cdx0gv9p7xwo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-09-21T14:30:15+00:00",
+   "title": "'ကီမိုဆေးကြောင့် ဆံပင်ကျွတ်တာက ကျွန်မရဲ့ ခွန်အားကို ကိုယ်စားပြုတဲ့ သင်္ကေတ'",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cklyjz6q76gwo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-21T13:00:25+00:00",
    "title": "Chief of Military Proxy USDP Re-Elected After Power Struggle",
@@ -2144,34 +2172,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNEhzelNvQ2N2bVp2Zm5yWUM0aDVkVWtOVEc4SzRQTjhDOFlpY0QtYkVxYWM0eGVSeUZNaEliLU56ejB2TUF1S01CU2p4eWsyZ09rUkVNekNPZ3Noc25qOF80QUQybGlCYnFQWnBfXzVnZG9vQVNMai1sRTRXVEtEZksxX2g3OGliSVNDZV9aWkxsMGFsVTJCQTViSU9vYzBDY2VNX2p1VmZiRHIx?oc=5"
-  },
-  {
-   "ts": "2026-09-14T12:30:20+00:00",
-   "title": "Two people killed, one injured in Sanchaung’s beer bar fire",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNY21uWmhJQ1hUUDRPWEhpYzgwaU9uc3pkUWI0eXZxS2JSQmMxamR0bHVNckVZSFNSMUxwNFl6bTM5SEJSczhvYzIyUVpQZXlaejM1Z29OaG8tTzBxNE9qaXc2Nk5CLVZTOFBvbko1YVRvV21EQW9LUGZSVFRQYklPeHVlcWUyb3ppY3c?oc=5"
-  },
-  {
-   "ts": "2026-09-14T12:30:20+00:00",
-   "title": "Mahamuni board warns public regarding fake AI TikTok videos",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOWhlbVhESnY3R0M0S0hkNTQwaXM5T2prUVNRRGlkVnhzanhkOGtQWTlzdFFTUHc0WVdySF90MFBjaElkYWVLeU1jZGdqeTR5Yi1kM2I0SGNiRVZJWXR6cWFYaFg0SmdxcDV4RUdLQzN0UXZ6ZkY5QXFNM2lUSDJYa25SOXpjQlAySTdraw?oc=5"
-  },
-  {
-   "ts": "2026-09-14T12:30:19+00:00",
-   "title": "China and Myanmar Junta Warn Against ‘Foreign Meddling’ in Scam Crackdown",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLTJEdkFuOGtVMmxmZkMyN1R6OVNyZnNuVmRUbjZQb19MdnUtQV9HYi1ldEFvV2t4NVprYzJKVnBjd0NjSGZaWkJ3bkdINVBDTWxYRDNxek0wTlV2VGo2VzU4MElQVUNYc1BJbEtXQ2NLLWd6NGY4elZCS3pVSGExQW5WSWllbTJFQ1pfNU0xd2NCZkE2eEo2YUV5alNOX3dtOTA4em9vRWg1WE5VbDVtMXNtdWU1QWJuTEozMENhckp0b2hZdEE?oc=5"
-  },
-  {
-   "ts": "2026-09-14T12:30:19+00:00",
-   "title": "Cambodia Backs Regime’s Bid for Full Return to ASEAN: Spokesperson",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd1E5SDVDbnBrV0xuQUtfb0Z2UnNxSkRZbnlldnE2ZFktTVNMM0ZfeDZ3VVFfRmlwdWxaNVZfcHZsMGlzR2FnLVUzZVowdXZ3a2dwOHBhUnUwOFhQMzNxakM0ZzlKR2RyekJIZ201ZUZubFd2eS1uXzFrUk43eElSYUdiUXZRT0lHcllJQWZ4bmM0QjlJQVluNHJEaXdfUG8wT0o5dHlJRXhVdw?oc=5"
   }
  ]
 }
