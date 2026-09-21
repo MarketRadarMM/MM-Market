@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-21T11:30:23+00:00",
+ "generated_at": "2026-09-21T12:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-09-21T12:00:17+00:00",
+   "title": "ဘုန်းကြီးကျောင်းတွေ ဆက်တိုက် ဗုံးကြဲခံရ",
+   "source": "BBC Burmese",
+   "markets": [
+    {
+     "market": "pulses",
+     "direction": "bullish",
+     "confidence": 0.55,
+     "rationale": "Conflict in bean/sesame heartland threatens supply"
+    }
+   ],
+   "url": "https://www.bbc.com/burmese/articles/c84gk47w6x04o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-21T11:30:22+00:00",
    "title": "Only voluntary repatriation underway for Myanmar detainees in Malaysia",
@@ -2158,13 +2172,6 @@
    "source": "Myanmar Now (MM)",
    "markets": [],
    "url": "https://myanmar-now.org/mm/news/81144/"
-  },
-  {
-   "ts": "2026-09-14T10:00:19+00:00",
-   "title": "Regime destroy oil wells in Myaing Township, cutting resistance profits and jobs",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/regime-destroy-oil-wells-in-myaing-township-cutting-resistance-profits-and-jobs/"
   }
  ]
 }
