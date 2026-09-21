@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-21T06:30:19+00:00",
+ "generated_at": "2026-09-21T07:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-09-21T07:00:20+00:00",
+   "title": "Burma",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByNDFSR3FmYWtlR284YkJwTHNabXl5bHFtSlozZ2M0aWtUbDFVVXAtdkg2N2QyTDZHM2ZXSGY0Vm9qbTdsTFA1ck5ERTI0TFgyOG5xSVVOT1YxVkhnWXQyNTQ4Zw?oc=5"
+  },
   {
    "ts": "2026-09-21T05:30:15+00:00",
    "title": "India court grants bail to US citizen accused of illegal entry",
@@ -2158,13 +2165,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQTJLTG5EdFlseV9jYWlQMXV0V1ZEbmV5bnJQU25hSkdxektGWTZmWmQxZU9CZ2JBd2FkZHJLSFlCUGRqakF5eWhsY3pYNzhPWlVieVJiRDBMaS1ySVhVLW1oZS1HbFBkVDlMUE1uN3pyM0tEM1R4OEE3X1ZTWC1ROU15QjJwSDA5OUp2TU5MSkt0YWdtZHhV?oc=5"
-  },
-  {
-   "ts": "2026-09-14T02:00:19+00:00",
-   "title": "Health awareness talk held in Ngwehsaung to promote food hygiene",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQXpfcGdOUno3WUdvTGlTeVhmOGR4ZVREcTdRTUg5M1ZlVEExVzk1SnJTcHp5TENQaC10ZkR3U3NhOEgwdHZEYkVJbVp2bWJfSjNJNk0xZzVEcjk2Y0Z6X016RjRMeE0xVFBwRGdPdzY2T05ySXlydUZhdFU2Zl9ZRjV4ajFZX3ZOb3dhRVhhNUQ3MUk?oc=5"
   }
  ]
 }
