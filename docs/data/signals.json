@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-22T16:01:01+00:00",
+ "generated_at": "2026-09-22T16:30:24+00:00",
  "signals": [
+  {
+   "ts": "2026-09-22T16:30:21+00:00",
+   "title": "Opinion",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DYTJvVHVjSWpaRnZxdVpOZURSQ2dOM09VR0t2aVdYZHVSc0F2YllLbHlWS3dvM2t6ZUViT1lBaGhOMXVaRE5mdlp1NV9Wb0gteVhENFd3MEMydUVhQ1dn?oc=5"
+  },
+  {
+   "ts": "2026-09-22T16:30:21+00:00",
+   "title": "Myanmar Regime Admits Abducting Young Men for Conscription",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU0RmQlVRVjNZOXVISngySUxIMWJ3b1B4NkpTdUNTd2F5RnZyM3dsMnVOYmFJRHNua1NSNHh4LTZ4QUhLTXdBUUg1SWJmUldacnc0U3UxbEpGZXpjelZTc3FIVTlKWWg4NGhjUzdRejFtaGtqUjFPem5lVnd3clVqNGFzMmpkOXZtYlVqM044VUcxdGhOU1k0NkFKMUU?oc=5"
+  },
   {
    "ts": "2026-09-22T15:30:19+00:00",
    "title": "Deputy Commander-in-Chief of Defence Services Commander-in-Chief (Army) General Kyaw Swa Lin delivers address to senior military officers in Office of Commander-in-Chief (Army)",
@@ -2126,20 +2140,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMldiZDFiQUdJbDJoekR4SE5CZ3FFdkFwenRubzhRLXhoUGJPZjh0U003VWNhZE9QclBsUzNuWXFFZEp5ZmpJTnBfY0tjUVZjWEJzaGhWMW5FcGVlaEdDMjR3Nmxmcl9MQXI5WUpqT1RTOEhjbjd1S1ZuVFFYQWpQSjRMdVA2bnFiUVFnc0ZR?oc=5"
-  },
-  {
-   "ts": "2026-09-15T12:30:19+00:00",
-   "title": "Popular Cherry YPS cards back to counters",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TajNHdHJWZ1M0dndaR04yVGJaWHc4eTZtbDZtdFVRWlhpTkZ5blYtNmxaWml1Y0pYY05xd3BFNVRPRG1YYzE1a1RvVnVQX0pLTldIZ05mdkh4czVBYU5Ob1NodEpfdjZObURSZDhSQUU0eFJL?oc=5"
-  },
-  {
-   "ts": "2026-09-15T11:30:20+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CekQ4YS1kM20zaHV1VmVlN19WNmVoNDVveGU1ZW90cFV0TDJVa3BvWmg0Yk5qR2MxdF9zbUVGWnU4Mk9IdXdGazJkcw?oc=5"
   }
  ]
 }
