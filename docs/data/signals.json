@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-22T12:30:28+00:00",
+ "generated_at": "2026-09-22T13:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-09-22T13:00:21+00:00",
+   "title": "Business | Price of Household Goods Skyrockets in Myanmar as Regime Chokes Supply",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTENmLW9kSWh1aVM2S1dhQjNWdXRmM29MUWZlMVhWRE9mMUs3VWE1SVRqZjM1elZ0OG1WWTMtV1ZZaE4zdzRIcVhnLTNqQjN6Rjd0SjhTbWg5ck04aVNjWjB2SF9jRDNOc2dNMGdmeGdja1RvY3RPZDFYbXNxUXgzUDE3MWVFQnZtMU5vV2g5THppMy1xdnh5LU04dU9CRXFfY3pIWXJuUDNzYUxMTVVr?oc=5"
+  },
   {
    "ts": "2026-09-22T12:30:26+00:00",
    "title": "H&M Supplier Shutdown Leaves 1,000 Garment Workers High and Dry",
@@ -2133,13 +2140,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYk1vOEZFSnZEZ09nX1ZZNzV0b1hqUS1TVnhLMDhWazJzZHZxLTZ1R21sbDJCaVFDZV9FZzlRZl9lNWM1Y0NpMU5wNDRuc055ZkZrUnAxYk9UOXoyYTlMX2ozYzBDSFBuNlRMS3Vkbkt2N25Jb1FuV05CS2RILWhOQjdlSjh0c2oyUEFieTA2RWJYelJSNWV0aWxWMjFnV2Vfd0lEWUZ3NVdkOE01c1JjTjZZUjVzcmM?oc=5"
-  },
-  {
-   "ts": "2026-09-15T09:30:22+00:00",
-   "title": "Guangxi Floods Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wZDhIMDNMOWZ4VEk0UlllRFh1d3pabDhtbGtEcUd0UURJa3dXQk8yOFJ4YUNqQk14d2V1VWpiRVU5d1lxSmQ0bmxVeTFTYmZxTnBqTnA1WQ?oc=5"
   }
  ]
 }
