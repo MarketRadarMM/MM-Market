@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-22T10:45:56.548722+00:00",
+  "fetched_at": "2026-09-22T14:45:26.055430+00:00",
   "tiers": {
     "official": {
       "my": "တရားဝင် (ဗဟိုဘဏ်)",
@@ -204,18 +204,18 @@
       },
       "THB": {
         "official": 63.05,
-        "street": 133.2,
-        "premium_pct": 111.3
+        "street": 132.95,
+        "premium_pct": 110.9
       },
       "CNY": {
         "official": 313.63,
-        "street": 657,
-        "premium_pct": 109.5
+        "street": 662,
+        "premium_pct": 111.1
       },
       "SGD": {
         "official": 1646.22,
-        "street": 3450,
-        "premium_pct": 109.6
+        "street": 3460,
+        "premium_pct": 110.2
       }
     },
     "fx_spread": {
@@ -223,6 +223,6 @@
       "street_usd_mmk": 4420,
       "premium_pct": 110.5
     },
-    "implied_xau_usd": 4271.5
+    "implied_xau_usd": 4280.0
   }
 }
