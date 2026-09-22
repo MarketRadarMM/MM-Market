@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-22T13:00:23+00:00",
+ "generated_at": "2026-09-22T13:30:33+00:00",
  "signals": [
+  {
+   "ts": "2026-09-22T13:30:24+00:00",
+   "title": "လိင်ပိုင်းစော်ကားတဲ့ကျောင်းအုပ်ကြီးအကြောင်း ဖွင့်ချရင်း ဖူးစာဆုံတဲ့မောင်နှံ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c9vgyj5llx8jo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-22T13:00:21+00:00",
    "title": "Business | Price of Household Goods Skyrockets in Myanmar as Regime Chokes Supply",
@@ -2133,13 +2140,6 @@
    "source": "Myanmar Now (EN)",
    "markets": [],
    "url": "https://myanmar-now.org/en/news/only-one-of-20-junta-flotilla-vessels-able-to-return-from-bhamo-kia/"
-  },
-  {
-   "ts": "2026-09-15T10:00:20+00:00",
-   "title": "Analysis | UWSA Neutered: Myanmar’s Revolutionary Driving Force Derailed by China",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYk1vOEZFSnZEZ09nX1ZZNzV0b1hqUS1TVnhLMDhWazJzZHZxLTZ1R21sbDJCaVFDZV9FZzlRZl9lNWM1Y0NpMU5wNDRuc055ZkZrUnAxYk9UOXoyYTlMX2ozYzBDSFBuNlRMS3Vkbkt2N25Jb1FuV05CS2RILWhOQjdlSjh0c2oyUEFieTA2RWJYelJSNWV0aWxWMjFnV2Vfd0lEWUZ3NVdkOE01c1JjTjZZUjVzcmM?oc=5"
   }
  ]
 }
