@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-22T07:00:22+00:00",
+ "generated_at": "2026-09-22T07:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-22T07:30:19+00:00",
+   "title": "NSPNC, Political Parties Move to Fast-Track Peace Efforts",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYVlQOFN5NUpGY0xiMlI3RXVna2lfRE5MSUdBNVFRSXFKbElzZXg1VXNCV0FNWWpJQ0YtUmh2WXBYY3BIX0JBWWNyM1NoT2VXaVJja1VDRlJhOTNSWkI2SEpMaEY4ZUk4TXFnTlFQTWhRMmJQd3JBMWFDNGFNWG5mTUMtM1I2QTl3?oc=5"
+  },
   {
    "ts": "2026-09-22T06:00:19+00:00",
    "title": "Battle for Sittwe flares up as AA advances from Ponnagyun",
@@ -2133,13 +2140,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.co.uk/burmese/live/c8750vp4d761t?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-15T03:00:20+00:00",
-   "title": "Yangon Police intensify efforts to prevent crimes",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSFRPRFhPRjBBSEpHYjVVa3V6VG9wUWkzVEg0Z0Vhb1piZXBobmNZbFdTSGhNaU9HWXR0ZFFZZ0MtYWRVM1hFeHBzYV9nZlJaWnlfVFFRZzhrbDhDWm5MR05JenBuU2EwNFkydTM1Qld6SGFTSnlIb2gybnNoM25CYml3?oc=5"
   }
  ]
 }
