@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-22T11:30:20+00:00",
+ "generated_at": "2026-09-22T12:00:31+00:00",
  "signals": [
+  {
+   "ts": "2026-09-22T12:00:30+00:00",
+   "title": "An airstrike and a father’s sorrow in Rakhine",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQN0diQWg1eE42OFFpbmFEYmRuMWQ0U3RZNFcwYndZWkdPS2FJSllpN1M4U2ppM3NQWW9RQ2FkTHhPZjBKWXRMZXlsSEhBazBVd3ZwbzNrcnZ4Y1FFblo1Z3c2QkpCSEZxWEdicWF4QUtyS0MwNkU4amZRaWtlX2JMNHhwRWxkM2M?oc=5"
+  },
+  {
+   "ts": "2026-09-22T12:00:26+00:00",
+   "title": "ဘေကျင်း ရှန်ရှန်း လုံခြုံရေးဖိုရမ်မှာ မြန်မာစစ်တပ် ဘာတွေပြောခဲ့လဲ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cq783rz04mj3o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-22T11:30:19+00:00",
    "title": "DPTOA advises useful tips for safe travel",
@@ -2126,20 +2140,6 @@
    "source": "Khit Thit",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnRVR5VHpmMEowMWowTkNjV0lqVUc1aGw4TEpxUGE5eEhaUHA3Zi1mVjBlWnQzUF9Vb3RZNEFBT0hRWnRjOHBuVE5DVQ?oc=5"
-  },
-  {
-   "ts": "2026-09-15T08:00:23+00:00",
-   "title": "Burmese Media",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYcno0UXlTNkZmaGxwZVhEUVBNZVc2VW1zeGFLVVlnSXp5WWNBQXFTcFViTUk0TUNqQ1NxZDQyeE1QLUJQMVBIVGNEX0Fra28?oc=5"
-  },
-  {
-   "ts": "2026-09-15T07:00:22+00:00",
-   "title": "Khit Thit Media",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiN0FVX3lxTE9fLW40M0t2LVNhR1NWZTdSclF5ek9qY0FSS2pLUk5tcEVabm5XTGVKTDA5dzVpcFk?oc=5"
   }
  ]
 }
