@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-22T12:00:31+00:00",
+ "generated_at": "2026-09-22T12:30:28+00:00",
  "signals": [
+  {
+   "ts": "2026-09-22T12:30:26+00:00",
+   "title": "H&M Supplier Shutdown Leaves 1,000 Garment Workers High and Dry",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQekQ3ZUgxb0Zwa0hNcUxrMUxpQ29BYTBXTmxqcE45amlUUHVMdHlBRmJYMlZETEtlMzRRaHFWSG1xWVZXRVc0V3QwV2lKamdFODJkWjJLX0dHY0hlOTlhYUhfUTl2bWVjTWxpMldLY0xVNmVvdnR0bVBOSEZ6VXFiZU1kSVgzTVJrUTk4VW5fX3RicW5BNUdrTVdhd2d3b3UyaTJhUFZ3?oc=5"
+  },
+  {
+   "ts": "2026-09-22T12:30:26+00:00",
+   "title": "Myanmar Regime Admits Abducting Young Men for Conscription",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVDlRNjJYSk5TNTBmM1N6Uk5VcU1rbXk0a3lJN2d5SG96NlYzVERNLXJ0QUFWZXRzcWxuVmxUaVZzdnppcG1xOFFWRXZUUU1Oa3ZZVEI4V251ZXRQcmZwQzhVWm1sRFdEQjFjN3BlMmtkQU5HTmxmMnM5S19tS2d0NC1NQzNsSkREOVplTTg4NU5lWmcxeG1uQl9vY2lQcVl2MEE?oc=5"
+  },
   {
    "ts": "2026-09-22T12:00:30+00:00",
    "title": "An airstrike and a father’s sorrow in Rakhine",
@@ -2126,20 +2140,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wZDhIMDNMOWZ4VEk0UlllRFh1d3pabDhtbGtEcUd0UURJa3dXQk8yOFJ4YUNqQk14d2V1VWpiRVU5d1lxSmQ0bmxVeTFTYmZxTnBqTnA1WQ?oc=5"
-  },
-  {
-   "ts": "2026-09-15T08:30:18+00:00",
-   "title": "မင်းတုန်းမြို့နယ် ရိုးမတောင်ခြေကျေးရွာကို ဗုံးကြဲ၍ ကလေးများအပါအဝင် ၆ ဦး သေဆုံး",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81171/"
-  },
-  {
-   "ts": "2026-09-15T08:00:23+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnRVR5VHpmMEowMWowTkNjV0lqVUc1aGw4TEpxUGE5eEhaUHA3Zi1mVjBlWnQzUF9Vb3RZNEFBT0hRWnRjOHBuVE5DVQ?oc=5"
   }
  ]
 }
