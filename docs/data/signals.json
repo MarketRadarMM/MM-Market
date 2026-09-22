@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-22T21:30:23+00:00",
+ "generated_at": "2026-09-22T22:00:19+00:00",
  "signals": [
+  {
+   "ts": "2026-09-22T22:00:19+00:00",
+   "title": "23 September 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13S0xRenpPUW54djZVNFNxcUVxZ0c4dzhUTzZxcVN0R0N6TWwxUThpb3JybDB6OEJLLUtVRFptYmxJVG1VbVYycUx5WlNEV3hlVXNqdQ?oc=5"
+  },
+  {
+   "ts": "2026-09-22T22:00:18+00:00",
+   "title": "Business | Myanmar Military Shifts Jade Auction to China",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT0swTUEweW5SdDlKelltMFJzS21iNmlzTWtlRy1mSFJEYVl6ZHJ1VDR6TV9oazdKVGYybFBmUHp5VHJDaUF0ZVd1V2wtVHlIV1NQUGt2cXU0cVVNWS1wSURvQmg1Y0dLRHg3NngwQ0xTR1BQM09QMmJhUVFJTFdCMjZuTjJDcVp0SG8wblVR?oc=5"
+  },
   {
    "ts": "2026-09-22T19:00:25+00:00",
    "title": "Myanmar Military ‘Provided Protection For US$ 14 Billion a Year Scam Hub’ on China Border",
@@ -2126,20 +2140,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVUg4dUlkSzFyYldKbHZLWGFEdnRmRjZtTG05YjVxTU1ZU3pBLWdlMWdwR2x2VDZxdmdZbWFmR1BzQ0VidGMzZnprNWpvQmphV3E5NzE5TzBBUVJKc3ZNZEJhSUI4S1J2dlV5YTdpM0JqbDhZb1dUbkdUNTgzblZJRw?oc=5"
-  },
-  {
-   "ts": "2026-09-15T12:30:19+00:00",
-   "title": "Self-reading digital system to be tested for consumers with no smart meters",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYmlmYWxHZlh6a0dYbW1RdEVibGZnUlRIeGpRSFNCcU5VRmEtX1V6OEI0d1RKYTNfNVAzZ3VXcXUzQmhTSjdrNzdCY0EzcV9PQlF3eV9pMmgwWkhNSEVjaUgtUVNpSnBqZmh5elZ1TkkxLW91T3FpSUdoTHBudWpJdkg0WEhVbzlNUGNoblVHNVVlMVpJc2t1VkN0T3Q5c0J4NlE?oc=5"
-  },
-  {
-   "ts": "2026-09-15T12:30:19+00:00",
-   "title": "Insurance transferred to mother of deceased Myanmar migrant worker",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVGRzemRzU3pWNzM5dkJCVFRfbFpuZ1pZNDNGc1FJXzZqdHBrNTJlc2FnUVFPSUM1ODdpVUxuZlZSVFhhNUNZUy1vSWhRNGFfUnMydXdSNXNVUVh2TG9SaDNuUW16UGppSXFFOUo5cHNGdDJnS2pQaXUwZFZqV2Z0N0w0ME5hYXF4T0xldnh0RXA1NlhVS3c?oc=5"
   }
  ]
 }
