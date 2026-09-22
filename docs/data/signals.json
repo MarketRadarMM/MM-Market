@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-22T22:00:19+00:00",
+ "generated_at": "2026-09-22T22:30:22+00:00",
  "signals": [
+  {
+   "ts": "2026-09-22T22:30:20+00:00",
+   "title": "New rules to protect tech secrets could strand Taiwanese visitors in China",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/china/2026/09/22/taiwan-china-ai-exit-rules/"
+  },
   {
    "ts": "2026-09-22T22:00:19+00:00",
    "title": "23 September 2026",
@@ -2133,13 +2140,6 @@
     }
    ],
    "url": "https://myanmar-now.org/mm/news/81180/"
-  },
-  {
-   "ts": "2026-09-15T12:30:19+00:00",
-   "title": "Heavy rain and strong winds uproot trees in Yangon",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVUg4dUlkSzFyYldKbHZLWGFEdnRmRjZtTG05YjVxTU1ZU3pBLWdlMWdwR2x2VDZxdmdZbWFmR1BzQ0VidGMzZnprNWpvQmphV3E5NzE5TzBBUVJKc3ZNZEJhSUI4S1J2dlV5YTdpM0JqbDhZb1dUbkdUNTgzblZJRw?oc=5"
   }
  ]
 }
