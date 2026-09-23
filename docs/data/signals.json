@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-23T20:30:22+00:00",
+ "generated_at": "2026-09-23T21:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-09-23T21:00:21+00:00",
+   "title": "Myanmar Regime Ramps Up Deadly Airstrikes on Civilians in Rakhine",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcjBicms5UmV5Y0Jval9WZmV1c0dXS2IyVmxLd2RiX3o5eDAzdS1vTTVWTkhOWkw5Qk9nTEQzbnY3QWdSSDlJbDBFaGE1Y0tYUEhqV214MkNUSjZJRlF6d0lVc0NPQ2FnVS0tMUVXZ2xoVnIzTjRCWmhSNkhSVGxaN0RLWFdhUkE1SThScXdjVERRVWZYYVpaVndBM1hxQmloMUtKdWpwdFV4Qk0?oc=5"
+  },
   {
    "ts": "2026-09-23T14:00:26+00:00",
    "title": "Commodity Prices Soar but Regime Boss Blames Lazy Citizens, Resistance",
@@ -2114,13 +2121,6 @@
    "source": "Khit Thit",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBJTC1aUmxNOFY5OGtTc29OS2ZOemRfeTBmSDRpRER2UjVmbXlRc1NQM3JhelUxZ0hPejM3TGJTZEU5a3ZjbE5hMnNYMA?oc=5"
-  },
-  {
-   "ts": "2026-09-16T10:30:22+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DdWR3UFN5RVVzaS1ULUFEM0N2eEthTjhjM3IzdG9HNUtYNHZ1Tk45UldFU0Vfd1NpWmt2ZjVnNG1uUG5nS1Q5TTExTQ?oc=5"
   }
  ]
 }
