@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-23T22:00:23+00:00",
+ "generated_at": "2026-09-23T22:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-09-23T22:30:16+00:00",
+   "title": "As Xi lands in Washington, Uyghurs and Tibetans press Trump for human rights showdown",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/china/2026/09/23/xi-trump-summit-washington-2026/"
+  },
   {
    "ts": "2026-09-23T21:30:20+00:00",
    "title": "Uyghur rights advocate blasts China’s ‘red lines’ warning ahead of Trump-Xi summit",
@@ -2114,13 +2121,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/cdr76jl5lv5o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-16T11:30:15+00:00",
-   "title": "ဗိုလ်ချုပ်စိုးတင့် - ကိုးကန့်က ဖမ်းထားတဲ့ လားရှိုးတိုင်းမှူးဟောင်း",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cdx7v2rq916o?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
