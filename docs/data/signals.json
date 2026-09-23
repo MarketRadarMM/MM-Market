@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-23T10:00:22+00:00",
+ "generated_at": "2026-09-23T10:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-09-23T10:30:15+00:00",
+   "title": "Myanmar junta torches oil-producing village in new Magway offensive",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/myanmar-junta-torches-oil-producing-village-in-new-magway-offensive/"
+  },
   {
    "ts": "2026-09-23T09:30:22+00:00",
    "title": "Red Cross distributes drinking water in Laymyethna",
@@ -2127,13 +2134,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTW9TUGxiTUF5amF4R2tWSjVCVXRYTjJCR3NJSDNxSVR6TWlTSHIwN0xIZzJ4NXBDR0trb1A5ZFdtSW5tUzJJcDZrTy11VUhnY3djZHo0NHQ3Sy1UQ1YzcWtlM2VNS1dxZkIxbDNxOTQ5SVlYLWU0TmhjY3RPM2VPM1BPTjBIdXN0M0VoeTlQS05qdFVPVmVJ?oc=5"
-  },
-  {
-   "ts": "2026-09-16T09:00:22+00:00",
-   "title": "Public awareness talk held at model village in Yaksawk",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOUxCWXFCWVk5eUhqTnN1R1pBLTB0dldjbW11SXREbEVvOXVMNmZIZHBkMUZDNi1wWFJJMTBtTTBld1NyQ3VIcHdpZU0xdW03TUcyNGh5ZFlmLXNOSWZoeThGV0o1b3NEOEFqMElSQTBrOVZmc1UtRUZRM0ZISldZSnFJX0xBZw?oc=5"
   }
  ]
 }
