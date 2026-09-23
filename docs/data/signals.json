@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-23T03:00:20+00:00",
+ "generated_at": "2026-09-23T03:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-09-23T03:30:15+00:00",
+   "title": "ရခိုင်-မကွေးအစပ် မင်းတုန်းနယ်ထဲ တိုက်ပွဲဆက်ပြင်းထန်နေ",
+   "source": "BBC Burmese",
+   "markets": [
+    {
+     "market": "pulses",
+     "direction": "bullish",
+     "confidence": 0.55,
+     "rationale": "Conflict in bean/sesame heartland threatens supply"
+    }
+   ],
+   "url": "https://www.bbc.co.uk/burmese/live/cqkg04dpdzd1t?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-22T22:30:20+00:00",
    "title": "New rules to protect tech secrets could strand Taiwanese visitors in China",
@@ -2120,26 +2134,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBEUUp1ak9pUVRVN0Y1d2pBMTFjVHRKR1AxbUgzbm1aZ3dGdkk5c2xZQWpIRzJ0eGwyQU10SmVCVVdjaXZaVDB5RXJIeEFWaTEyYmNBeVRxTndQU29F?oc=5"
-  },
-  {
-   "ts": "2026-09-15T13:00:26+00:00",
-   "title": "စစ်တပ်ထံ ဖုန်းသုံးစွဲသူအချက်အလက်များလွှဲပြောင်းမှု၊ ပိတ်ဆို့အရေးယူမှုများ ချိုးဖောက်မှုတိုင်ကြားချက်များအတွက်Telenor ကို စုံစမ်းစစ်ဆေးပြီ",
-   "source": "Myanmar Now (MM)",
-   "markets": [
-    {
-     "market": "fx_kyat",
-     "direction": "bearish",
-     "confidence": 0.65,
-     "rationale": "New sanctions pressure the kyat"
-    },
-    {
-     "market": "gold",
-     "direction": "bullish",
-     "confidence": 0.65,
-     "rationale": "Kyat pressure drives savings into gold"
-    }
-   ],
-   "url": "https://myanmar-now.org/mm/news/81180/"
   }
  ]
 }
