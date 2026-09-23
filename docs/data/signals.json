@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-23T12:30:21+00:00",
+ "generated_at": "2026-09-23T13:00:25+00:00",
  "signals": [
+  {
+   "ts": "2026-09-23T13:00:23+00:00",
+   "title": "Regime Leader Says He Has Been ‘Lenient’ Toward Aung San Suu Kyi",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcHpndEFfcDcwelRsNDdhUVFMbVpBa2lPZTBYTGpVTEVGdElZVWFYbmFsZjFxSEIzREdyLTU2VWhUZTZsWldFVDZiTWpWZ21PQ01oeDJVQXBTMVE0U1NVNGhud1FJLXlmbFA2UTNjVHFJZ2VsblJTOWVDdklZNXNRS0ZzSzZ5bUV0clZjQjc4U3Q1ZEJuLWFuVFh5eUlEb2twQ1VLOWNBSQ?oc=5"
+  },
   {
    "ts": "2026-09-23T12:30:21+00:00",
    "title": "Vice President Daw Nan Ni Ni Aye attends reception marking 77",
@@ -2114,13 +2121,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN3VuTlE0dUZjMlRKU0RHanItRkNJazZnRnR2ZjQxdTFFT1N1TndXZ0k2alVUakN1RVZMYmlnazZCZTllcDJiS3RidkFNb0ZHdWVCSWJpRTZxYUh4U2t0YlM0SFR1SEw2TkZqTEgwYl9pdmVjb1YySjc1ejROckZSUGQ3SW9KV19lRDVWalk1cDZQVExqaVNtYnpLMXIxb3owYWl6YUhHVmJFd2t6YWVuQWRqQjBtMGxlM1Z1T2h3?oc=5"
-  },
-  {
-   "ts": "2026-09-16T10:30:19+00:00",
-   "title": "Myanmar military kills six in paramotor attack on village near Magway-Rakhine border",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/myanmar-military-kills-six-in-paramotor-attack-on-village-near-magway-rakhine-border/"
   }
  ]
 }
