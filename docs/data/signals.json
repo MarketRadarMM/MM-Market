@@ -1,6 +1,48 @@
 {
- "generated_at": "2026-09-23T11:30:20+00:00",
+ "generated_at": "2026-09-23T12:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-09-23T12:00:23+00:00",
+   "title": "Real estate transactions hit a sharp decrease",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBoWUN6UnhVSFB4T3ZpaXhGcGp4TTlNMmlxY2tSeVBKQUw1UjBpSnZQQ0V4ajg0TU5VZ0Nkd3owOTNuazF1TWRKMEYtUXRIY3plcHNDcERhc1BEVFIxWnFHZmNadF9xUlRlSHctc1RjbHctR2ZHSFNCQm53?oc=5"
+  },
+  {
+   "ts": "2026-09-23T12:00:23+00:00",
+   "title": "MOB and Matrix College sign MoU",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QYWpjUGVUQmJuOTNEcU9QNm50T2Z4eDB6OUQzeEZnRy1IdjBvV19lbmVNNE91ZUt4MFU1TXRVRDdkZGJvdUZTUHk4Z0pNUGlodHExZXJRTnZsWXNKVDFSem9wSUpNUmM?oc=5"
+  },
+  {
+   "ts": "2026-09-23T12:00:23+00:00",
+   "title": "POEA to accept EPS-TOPIK job application extensions",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNTZ5OURNNnRlQTh1WmswVmhlamt5UUVnSS1QTUt4RVVXT0E1ZHJoZHNlbFpBZU1VT1pVY1lia05Ta21rLWl6RUdYTnk0T2h5RWF2N29GS0p6VUdFVUVsQ0RyN0RuYnJxenFrNExiT094eDhsNktTbVV1WW1uZ3dlelVR?oc=5"
+  },
+  {
+   "ts": "2026-09-23T12:00:22+00:00",
+   "title": "On the Thai-Myanmar border, COVID-19 closes a billion-dollar racket",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMW80eTI0aV9VUE1mV05CTVR1S2RTWEhkN2xuTkxSRDVJNWRuYkRyOHVuNkcyN2k3T0U3M2diY0UtNHNGTTFwQktkSG1lTkg4X3dRQUJPelZZWmdsYlRRTHNNbXZhYVlJelFkLXhKSmxzTk5MRGdySWl3bHhBakpsWGZIZXg3d3Ryc2czTFBPa1FINDU5Y2FwVFFDQl9GcG84d3Y1MA?oc=5"
+  },
+  {
+   "ts": "2026-09-23T12:00:22+00:00",
+   "title": "‘Recovery will take time’: Sagaing Region grapples with floods",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaktlc3BSbkZfQWJNbVpvZnF6VHhFd1pXS19PeFpSbnJGUTRBaUF0TzJjY29hNHA4LXBMVDNwTTl2bGpnM3h1OVpUUVM5RHdlYUNvRFF1a2NVYnVWSWtDTDJaZTlmc0h5dUxQRTJNQXp4aS1vX2Q5YjZFREVpZlRncTZhZ21rcUh4RWFDdlQ1cUJ5SVVudTdFRUtEaw?oc=5"
+  },
+  {
+   "ts": "2026-09-23T12:00:20+00:00",
+   "title": "Myanmar coup leader claims ‘lenient’ on Suu Kyi: report",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/myanmar-coup-leader-claims-lenient-on-suu-kyi-report/"
+  },
   {
    "ts": "2026-09-23T10:30:15+00:00",
    "title": "Myanmar junta torches oil-producing village in new Magway offensive",
@@ -2079,61 +2121,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xeG5iSkN5OFp3alV2TzJOZXRRTG9DQzluYUVfWXFKbUoyVjJkYlFwLWhzUloxeURIVkZWS241WjVjRkdNems3bU52dkRlWVpyTlZEZTdRNS1kTmc?oc=5"
-  },
-  {
-   "ts": "2026-09-16T10:00:20+00:00",
-   "title": "Norway charges Telenor with dual human rights and sanction breaches",
-   "source": "Myanmar Now (EN)",
-   "markets": [
-    {
-     "market": "fx_kyat",
-     "direction": "bearish",
-     "confidence": 0.65,
-     "rationale": "New sanctions pressure the kyat"
-    },
-    {
-     "market": "gold",
-     "direction": "bullish",
-     "confidence": 0.65,
-     "rationale": "Kyat pressure drives savings into gold"
-    }
-   ],
-   "url": "https://myanmar-now.org/en/news/norway-charges-telenor-with-dual-human-rights-and-sanction-breaches/"
-  },
-  {
-   "ts": "2026-09-16T09:30:20+00:00",
-   "title": "Falam MEB installs B2B Satellite Terminal",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zbndqSE9vUnpyeE9kS1VNZGpkTm5tZ3VHTnNuMHpBbmlIQXFEY1JKemJlWHpmQUM3NVZDMmF2eDdEVjJfYXRwVjVTOEpZWGVDQVFEamZxeHdjZU1hcFhWLUZwMGdlQnFzX294TlhQOGx1WVlj?oc=5"
-  },
-  {
-   "ts": "2026-09-16T09:30:20+00:00",
-   "title": "Centenary Plaque to Honour Hsipaw Haw",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92YTNsNWV4V1pmRThYSnNLemNvOHZyN3pSVWNkc3ctWTFlQ3htQlJnWmhEX19sMlFGY3k0ZlQxOTljdE43U2hpRjBFcnM5ME1zRXlhakNZcTd6Tk1JRFVqZnNRaUFvMkpFcGxCTlB6MA?oc=5"
-  },
-  {
-   "ts": "2026-09-16T09:00:22+00:00",
-   "title": "Man Held in Schoolgirl Murder, Gold Theft",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB0RGJHcWdjTUZLRzdHQnVhVUJWeXRFNHY4OE9vWV9IRzAyNW5EcVpFcGpyTnJnbjdlRFRqNzRUbFhDQWxESnpiUk8xclNYOVNrSndjZFA0ejZ4S0J3NEsxVWNpNjd1djBOSzJSa09pa1hwMlU?oc=5"
-  },
-  {
-   "ts": "2026-09-16T09:00:22+00:00",
-   "title": "MSY project implementation inspected in Papun",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xdy1FVG4wUDBwU1pzRTd6c09RUm5qX1g5aThvSU9KYXZJTFpzbnVkRElQNkVCb1pLT3dubHBVOElWeUZoOHlnWkVyeXY3REw3em5CUTdOdE5Zd3hBUFZjbW1OTWt6WGpiREtScHhhdkFJOGZtWHJJd3R3?oc=5"
-  },
-  {
-   "ts": "2026-09-16T09:00:22+00:00",
-   "title": "Tourist interest surges at Thekso Hill in Bagan Archaeological Zone",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTW9TUGxiTUF5amF4R2tWSjVCVXRYTjJCR3NJSDNxSVR6TWlTSHIwN0xIZzJ4NXBDR0trb1A5ZFdtSW5tUzJJcDZrTy11VUhnY3djZHo0NHQ3Sy1UQ1YzcWtlM2VNS1dxZkIxbDNxOTQ5SVlYLWU0TmhjY3RPM2VPM1BPTjBIdXN0M0VoeTlQS05qdFVPVmVJ?oc=5"
   }
  ]
 }
