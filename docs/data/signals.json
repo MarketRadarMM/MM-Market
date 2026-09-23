@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-23T12:00:23+00:00",
+ "generated_at": "2026-09-23T12:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-09-23T12:30:21+00:00",
+   "title": "Vice President Daw Nan Ni Ni Aye attends reception marking 77",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeGY1QVRzd1NmVnlva1BRS1BtcnI4TnhMVXFPM19pRkhvUENZaDNIY0RULVVXZHB3dUNRTWtMQ003MDhhYTZyLXh3b1h6amw1bXRCc0hqM1NVOXlzM2RIcGxxYWU3RjNGWV9KNEpmYWx4U1BySXpSZGNBRDNGLUlNODdxOFNkUnNvM1U1Zk5Ec0ZnRXlLTXoyR0FBdW1SLWlkNTFHeHc1QUJlWHpEODFXY0Y2VzZEUQ?oc=5"
+  },
   {
    "ts": "2026-09-23T12:00:23+00:00",
    "title": "Real estate transactions hit a sharp decrease",
@@ -2114,13 +2121,6 @@
    "source": "Myanmar Now (EN)",
    "markets": [],
    "url": "https://myanmar-now.org/en/news/myanmar-military-kills-six-in-paramotor-attack-on-village-near-magway-rakhine-border/"
-  },
-  {
-   "ts": "2026-09-16T10:00:23+00:00",
-   "title": "Video Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xeG5iSkN5OFp3alV2TzJOZXRRTG9DQzluYUVfWXFKbUoyVjJkYlFwLWhzUloxeURIVkZWS241WjVjRkdNems3bU52dkRlWVpyTlZEZTdRNS1kTmc?oc=5"
   }
  ]
 }
