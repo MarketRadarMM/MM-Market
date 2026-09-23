@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-23T23:00:23+00:00",
+ "generated_at": "2026-09-23T23:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-23T23:30:18+00:00",
+   "title": "Photos: China’s Xi Jinping receives rare welcome as Trump summit begins",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/china/2026/09/23/trump-xi-jinping-arrival-pictures/"
+  },
   {
    "ts": "2026-09-23T22:30:16+00:00",
    "title": "As Xi lands in Washington, Uyghurs and Tibetans press Trump for human rights showdown",
@@ -2114,13 +2121,6 @@
    "source": "Frontier Myanmar",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVGh1OHBOa0tTTktCR2NWdmRYUi11em1EV3FBQXViNUpDZm1ZcEF5azFMM0syZldURWVZdmVnSkJpUlZ4M1FiTkItQ18zVlZROHZfNS15MC1PRmo2ZTlWMUhNcVQxRWdHMmw0T0pEVmJvMXJzbEphSFhBdVZpNVIyMmdkdXV2VGROUUlPMll3?oc=5"
-  },
-  {
-   "ts": "2026-09-16T11:30:15+00:00",
-   "title": "ဒရုန်း၊ ဆိုက်ဘာတိုက်ခိုက်မှု၊ သတင်းမှားဖန်တီးပြီးစစ်ဖန်တီးနေတယ်လို့ ရုရှားစွပ်စွဲခံရ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cdr76jl5lv5o?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
