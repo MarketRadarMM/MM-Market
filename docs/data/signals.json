@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-24T22:30:20+00:00",
+ "generated_at": "2026-09-24T23:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-09-24T23:00:21+00:00",
+   "title": "Myanmar esports teams depart for Asian Games",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tLWpGeWZWU2hiNU54Nk9CeEtUcnlnemFoamY1bmdsWlYtU2drQjczSV83SDNoZU8tekNoa3UwYUJ4X3l3d1dTV3dCMEhXUzZEOWRwOEwtWnN2MFBTU3JwekJ5NUMyRHlpUE5IeFl5TTV0eDNhOGdaYw?oc=5"
+  },
+  {
+   "ts": "2026-09-24T23:00:21+00:00",
+   "title": "Yaksawk holds public awareness talk",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IWnMzMGZmV0tLZ0FwVEwyXzVCcHQxZzBRNUgwWXlZY2VmWTJBUl9qZlFVTEdsWG0ycFVyUHc3S2dFOWJVYjMzNXZ4eVduUm0xdVgyMUJLWEpfbXU4QzNuYkZtUm51ZjE0OTlRSg?oc=5"
+  },
   {
    "ts": "2026-09-24T22:30:19+00:00",
    "title": "Myanmar beat Timor-Leste in FIFA-ASEAN Cup opener",
@@ -2126,20 +2140,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tSmgwYnpNd1gxbUNPN0lwdzBRX3c5bnJlZmdsbHBmWDJqRkVxbFFVNWhsU1d4R2dxblpJVFotdDBVelBPYnY0SkR0aTc1dGRQVXdGVUVwNHNHeTg?oc=5"
-  },
-  {
-   "ts": "2026-09-17T19:00:20+00:00",
-   "title": "Industrial Zone",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5hcG5DWXloRTdEamdLakV4SmU0VFZSV2s2RXRjcUNjcEtrS0NFYnVKMFgtV2RRQ2FaY01BRGJSOTV1MFZLT0lwcy1kSHRiOE51OTVjMmFKU0NseEpNQ0VkcUNCdW9UZkNQeVdRSHZwb2tzeVZNWHpMVnVsaw?oc=5"
-  },
-  {
-   "ts": "2026-09-17T19:00:20+00:00",
-   "title": "The Hindu traditional Holi festival",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUU9mMHJwcG5nb0V2aS1zV2FtRWxDbGM0MmdEcm5xSllDZTRINDkxNVBTNGx5QnVEb0tMVEV2MjR1M3hKRFVISmRZMEZjUXNnWlQwRUpPMHo3SHhwV0xUS3M1WENmLVd0N2czd3Y2MU5SMVlfYnR4NlI0SU5QU0FGS2JjNGhQMFhvVVhOOGc2ZWU?oc=5"
   }
  ]
 }
