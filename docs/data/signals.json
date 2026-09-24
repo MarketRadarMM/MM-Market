@@ -1,6 +1,41 @@
 {
- "generated_at": "2026-09-24T14:00:28+00:00",
+ "generated_at": "2026-09-24T14:30:22+00:00",
  "signals": [
+  {
+   "ts": "2026-09-24T14:30:22+00:00",
+   "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing met local elders, and MSME entrepreneurs from PyinOoLwin",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTGl2UTRIcG5oYjZzTkM4N0lLQmtuX25WZFBYS3J5ODJSY09BbnV3Wmd4bi1jX0NOaWdQNC1lLWtpcERJbkR1UGZfZ3VlNm5CSlI2Ymp3dHpGNks5RGlCb0VqcTFJZHRKOXhXUGNOdDE3UW11NDZ3R0lZR2t6MEdxR3ZqUDJHNHJsMS1ja0RnazYwTGxyXzRYTEhVRjNWT1B6TThYRFpsQ3NVcGt6eTVyeEFLY3YyZFBV?oc=5"
+  },
+  {
+   "ts": "2026-09-24T14:30:20+00:00",
+   "title": "News",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WbkdxQmszUmpfbExaa1J2SjY1WlNkTENYMXRpd095WF9IM2s0LXpxeWVqck9IUTBlQ2Q4dWpoSFhtMHpSUGNXV1FYbTMtcjJyTEVnYjZIQi1JY1hY?oc=5"
+  },
+  {
+   "ts": "2026-09-24T14:30:18+00:00",
+   "title": "ထိုင်းအစိုးရနဲ့ စစ်တပ်တို့ရဲ့မြန်မာ့အရေးအပေါ် သဘောထား",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/ck4gjy297rn5o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-09-24T14:30:18+00:00",
+   "title": "ရှီရဲ့အမေရိကန်ခရီး- ကုန်သွယ်မှု၊ အေအိုင်၊ ထိုင်၀မ်နဲ့ အီရန်အရေး ဘယ်ကိန်းဆိုက်နိုင်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cjp30ry96z4no?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-09-24T14:30:18+00:00",
+   "title": "ပြည်တွင်းငြိမ်းချမ်းရေးနဲ့ မသမာတဲ့စီးပွားရေး - ဘီဘီစီမြန်မာပိုင်း အထူးမေးမြန်းခန်း",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cmkg7v25dv6do?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-24T14:00:25+00:00",
    "title": "Malaysia’s migrant return plan chills Myanmar Rohingya",
@@ -2105,41 +2140,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTmN3Rkc1MzFDZjQ1ZFdjX2NmNUt0aHVsZy1iS25zVkVaekMzR2MtbnBrdExOT0l6YXFHV21JMS0xc2lKSnpMb3c5eTNkUmwybm5BN0ZWUEFhSXF6Z2FUQndwMm9OUF9idU9qcjFpY3dtUTdyU2E3MnFRU1FfWTlmeWZYd1BNeG9NeEhVd1YtbERBUzNGVERyTUcya2QwdXliY0ZFZGdQeWYyUQ?oc=5"
-  },
-  {
-   "ts": "2026-09-17T12:30:21+00:00",
-   "title": "Only qualified educational institutions will be allowed to register next year",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZlRiMko1MDBxWW93VUJqSmtHMUlXVGhONFdBTElKTzB3aUVqWTlkaFZGY284WXUxVUhBdjVfZ3E3RFFpZHVRNXhkRTIxQWR3YUdGNWtRZmNuYXhzWjNKUy1Fd0RYazUtbjNNTGRCVEdRVmhrMG5DTHREb25TcjRKb3JlMVA4VXRLcDFUVUhSNkFnOG9YbElkdFc3LUtZLWlOdXZaaw?oc=5"
-  },
-  {
-   "ts": "2026-09-17T12:30:20+00:00",
-   "title": "Malaysia to Invite Myanmar Leader Over Rohingya Repatriation Push",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLXU0OFhfTGFEdkN0TTczWXNQX25jU0ItRUtucWp4c1ZKQlFEY1JjMEplTEY2bGI3cTJRV3p2eXpDcVFuLWtaeFg5bkhkdnJJT2k5UUhhN0NLRzZSQTlqcFdVYmtaQ2hyUnRGX3JrMHotWG9uUV92VE8tRHFhTkxCdmV1VFhrQlBLZ3l3bnl2ajlnLXlzRHlqN2thRUVrQTltWUpxRWlPcTZtOHc?oc=5"
-  },
-  {
-   "ts": "2026-09-17T12:30:17+00:00",
-   "title": "စာတတ်ဖို့ခက်နေဆဲ စစ်မက်ဇုန်က မသန်စွမ်းကလေးငယ်တွေ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cq56n13g9zjo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-17T12:00:20+00:00",
-   "title": "ကရင်နီ ဒီးမော့ဆိုတွင်  ဒရုန်းတိုက်ခိုက်ခံရ၊ ကလေး ၁ ဦး သေဆုံး",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81228/"
-  },
-  {
-   "ts": "2026-09-17T12:00:18+00:00",
-   "title": "သားဖြစ်သူကိုသတ်ချင်ကြောင်း ChatGPT ကိုပြောခဲ့တဲ့ဖခင် ဖမ်းဆီးခံရ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c69w4np8z2kyo?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
