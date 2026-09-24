@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-09-24T10:00:23+00:00",
+ "generated_at": "2026-09-24T10:30:22+00:00",
  "signals": [
+  {
+   "ts": "2026-09-24T10:30:19+00:00",
+   "title": "နေပြည်တော်တွင် ကိုးကန့်အထူးဒေသ (၁) နယ်မြေသတ်မှတ်ရေးအပါအဝင် ဆွေးနွေးမှုများ စတင်",
+   "source": "Myanmar Now (MM)",
+   "markets": [
+    {
+     "market": "pulses",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "China border trade affects bean flows"
+    },
+    {
+     "market": "rice",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "Border status affects rice exports"
+    },
+    {
+     "market": "fuel",
+     "direction": "neutral",
+     "confidence": 0.45,
+     "rationale": "Border routes also carry imported goods"
+    }
+   ],
+   "url": "https://myanmar-now.org/mm/news/81349/"
+  },
   {
    "ts": "2026-09-24T10:00:20+00:00",
    "title": "စစ်ရေးပြင်းထန်နေသည့် ရခိုင်တွင်  လေတပ်ဗုံးကြဲမှုကြောင့် သေဆုံးမှုများ ရှိနေ",
@@ -2114,13 +2140,6 @@
    "source": "Myanmar Now (MM)",
    "markets": [],
    "url": "https://myanmar-now.org/mm/news/81206/"
-  },
-  {
-   "ts": "2026-09-17T07:30:13+00:00",
-   "title": "Malaysia to invite Myanmar junta leader over Rohingya repatriation push",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/malaysia-to-invite-myanmar-junta-leader-over-rohingya-repatriation-push/"
   }
  ]
 }
