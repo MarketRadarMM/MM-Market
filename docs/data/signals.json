@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-24T13:00:24+00:00",
+ "generated_at": "2026-09-24T13:30:22+00:00",
  "signals": [
+  {
+   "ts": "2026-09-24T13:30:20+00:00",
+   "title": "Video",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwR0QzMHZSMkkyVG5FVEhSaGZmS3o1WmhCV195X1R4VGVyOXJiZk8xMzdmUFFIbmRRRWE0T24wMEpoRDVhb2hteGxFSHd1NGxDeVE?oc=5"
+  },
   {
    "ts": "2026-09-24T13:00:22+00:00",
    "title": "Shwe Kokko Cyber-Fraud Hub Roars Back to Life After Fake Crackdown",
@@ -2133,13 +2140,6 @@
    "source": "Myanmar Now (EN)",
    "markets": [],
    "url": "https://myanmar-now.org/en/news/myanmar-political-prisoner-dein-daung-dies-after-delayed-medical-treatment/"
-  },
-  {
-   "ts": "2026-09-17T11:00:19+00:00",
-   "title": "17 September 2026",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBucVY4TjR6VzdxbXBJSlNPbEFXMlpPWm9DY3VDbVNXUm9Jcm4wNXNRYmpEWHlXZXFpYk4xZWFnV1cxSGFCMzFCeXNPdW5HelZkeHJTNg?oc=5"
   }
  ]
 }
