@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-09-24T01:01:01+00:00",
+ "generated_at": "2026-09-24T01:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-09-24T01:30:17+00:00",
+   "title": "Job Creation Seen as Key to Lowering Commodity Prices",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVHlTcEppaXVucllKRHVJRkFZTVlNb2hUXzAxMVY1Unp5OFdORmMwUkFRQS05TU9EdExuMXlZN0t1eFRhT3dyWEdlYVprZnFBajdpWnhKOVpyb2RCV0theXlhcDhRLU9YaDZrQ0NVTW90R1pXTlBORDAyVFFvTnNraDY2T0M?oc=5"
+  },
+  {
+   "ts": "2026-09-24T01:30:17+00:00",
+   "title": "Press Release",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1WTjQ2QXo5YjdqX3RpU3lXT1daN3IyV2N3STZOZ0RpR1ZBUlhCcl9SMVhEM1N3WmdMNVUxcDI0ZzhOaldadFM0endOSENva0hmSEdF?oc=5"
+  },
+  {
+   "ts": "2026-09-24T01:30:17+00:00",
+   "title": "Vice-President visits Union National Races Village (Yangon)",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYjYtekNZWF9wRFlvLW9aTnFCQ3pnS1QzLXNTQnA5NHY1UUR1MWZHbHpndXBXRGNfMXNOQXFrMjFTYlFhd0tpNXdNOTZRLWtVVDNuV2ZKVE9WeWRnam5DVjlWNDRZdDR2Z0FBUTJJWWhmcXN5ZUl5UldBSkNTQnV4RXcwU29oOUFJZFE?oc=5"
+  },
   {
    "ts": "2026-09-24T00:00:20+00:00",
    "title": "China Briefing",
@@ -2100,27 +2121,6 @@
    "source": "Myanmar Now (MM)",
    "markets": [],
    "url": "https://myanmar-now.org/mm/news/81197/"
-  },
-  {
-   "ts": "2026-09-16T13:00:23+00:00",
-   "title": "Norway raids Telenor HQ over suspected Myanmar rights abuses",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPckxjdDNJMVFydklROTA2Y2JOcy1tWDVZdFNpUWpvS2lTV2JYNXZJbnllcEVhaWlaakpIalB0WmpYTldEeVNYc1BSb0RwVzVKRFNwQVFzODdWS1VtbWlUZFBhNGN4NXhiaXRoaTJmd1MzcmN6cDhEU1h0ZGVDQjFucHpIR2w3LVM4WUFsdVRlMl94V3VUX0JlcDNWT1U?oc=5"
-  },
-  {
-   "ts": "2026-09-16T13:00:23+00:00",
-   "title": "Japan Parliament Latest Target of Myanmar Regime’s Legitimacy Push",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOODdIRWRldzJjbDBIb28yOVlVY0dfMkJhcThsODFSczlmVllIOXlSWXlUVWI1TFFEVmhIcnhkeG53b1FaNmZvX3E3azVGYWdDeDlacXQ0MG1vV0liVHVhbWdTb04td1V6d0RRZ2g2TDRMZFQ1QXhNZWhhV1Jnemw2Q1FJakZKMkJrSmxtZUFZNTd1VG5HQ0QxYXdaVl84R0lPNTFKVlY2cEpQcEk?oc=5"
-  },
-  {
-   "ts": "2026-09-16T12:30:19+00:00",
-   "title": "တယ်လီနောကုမ္ပဏီ အပြစ်ထင်ရှားလျှင် ဒဏ်ငွေအပြင် အကျိုးအမြတ်များသိမ်းဆည်းခံရနိုင်ကြောင်း နော်ဝေရဲပြော",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81194/"
   }
  ]
 }
