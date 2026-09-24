@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-24T08:30:18+00:00",
+ "generated_at": "2026-09-24T09:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-09-24T09:00:20+00:00",
+   "title": "Thammasat University Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE55OXBrS0doQmUtaWs4dExyX0ZieWdGLWVlSkhpRkwyRWc0d2FPWDJyTWxhVEE2LWEwUnVtQnh5c0tHcXJsQjVyM2VqdU9wdmtzclVSZU5fWkRINFJNbS1wa1FB?oc=5"
+  },
   {
    "ts": "2026-09-24T08:30:17+00:00",
    "title": "Interview | AA Chief Defends Rakhine Rebels Against Charges of Genocide",
@@ -2114,13 +2121,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWUExOXhRWDFuRm1oLUprUVotajNuNzg4cnpVWEpUTXphZV9OdnZxdi1BRGJxMmEwT1JYSEtCZkVPTjc4bXZZMjZOTjVWdC1wQndtQnVIeWhvQmpTY3hJQnk0V1kxRzNVMUQ3ay0wdGFpLXp3ZjQxNm0zeEN4enVNeDhNZEkwSFJoWnJPbndRVUJzZVN0TzhOdmxELTM0aVkzT1Q1M1JkSWFTY0hGSFA4?oc=5"
-  },
-  {
-   "ts": "2026-09-17T04:30:18+00:00",
-   "title": "NSPNC, RCSS to deepen cooperation in peace processes",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZjdseVpkUjFnbHBzLVc0UzdtT2QzdGttWUYxZ2U3YllxWFpKWmNhT2dITTllREIxSXlnWlk1eDl3UGRfODh6QUhCcms3aHhXWW5TRnFHM1MyVXRBemtuNGFDMG5CR21oYnRqYjlPV1U1WktRZEhxWDVIZXRIMlV2OFhR?oc=5"
   }
  ]
 }
