@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-23T23:30:20+00:00",
+ "generated_at": "2026-09-24T00:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-09-24T00:00:20+00:00",
+   "title": "China Briefing",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PVlpZOEYtTXhiempfTEl2QWlWUFd5N01ES2lpeHE4cHNTd2lwdGE0c3lhQU1JOEdDMWNZUjdmVFl0ampaSk82clNrMDhyQXZlQkxMVFJKMmI5bW1kd3hDeDYzVkc?oc=5"
+  },
   {
    "ts": "2026-09-23T23:30:18+00:00",
    "title": "Photos: China’s Xi Jinping receives rare welcome as Trump summit begins",
@@ -2114,13 +2121,6 @@
    "source": "Myanmar Now (MM)",
    "markets": [],
    "url": "https://myanmar-now.org/mm/news/81194/"
-  },
-  {
-   "ts": "2026-09-16T12:00:19+00:00",
-   "title": "Freedom restored? Readjusting to life after prison",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVGh1OHBOa0tTTktCR2NWdmRYUi11em1EV3FBQXViNUpDZm1ZcEF5azFMM0syZldURWVZdmVnSkJpUlZ4M1FiTkItQ18zVlZROHZfNS15MC1PRmo2ZTlWMUhNcVQxRWdHMmw0T0pEVmJvMXJzbEphSFhBdVZpNVIyMmdkdXV2VGROUUlPMll3?oc=5"
   }
  ]
 }
