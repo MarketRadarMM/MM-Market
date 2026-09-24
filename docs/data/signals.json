@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-24T23:00:22+00:00",
+ "generated_at": "2026-09-24T23:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-24T23:30:18+00:00",
+   "title": "Mushroom cultivation training opens in Yangon",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1aWHNCT3ZIR0w5SVY5c2xkM2szLWhELVNGV3JoUG9Sb2xZU3NPeWhUMTUtMjY2SVVZQmV6NjdxUzRoVjZPa1Z5bUxOdHcyUjlzd3kxUDVCT09lMnRIdnY1ZDJHTXRSSlM1TEhzX2p0bmxrOU1PMXRqN0Nn?oc=5"
+  },
+  {
+   "ts": "2026-09-24T23:30:18+00:00",
+   "title": "21.64% of Falam’s urban population returns to city",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hUFlILUF3V19LRW5EY2FocVBrZE5BbV9ZRUM5UkRUN3RPZGNuT0ktWWd3empudkc5RUV3d0RkOGpqaFRxMXNKUm1FazhJMm1zZUhOaEJpTXFOVHZSOXI2c1lFdjZLSVFMODFlTUhROG5DallXdlJXbkM1NkJ0dw?oc=5"
+  },
   {
    "ts": "2026-09-24T23:00:21+00:00",
    "title": "Myanmar esports teams depart for Asian Games",
@@ -2126,20 +2140,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYmRtZ0NjN1BXUXoxcFNQeG03d1IzY0NYOHZkYzB1V0xJWHZES19NcEVjNWhiQmVJb1B4b0ZuT3dIcE9XMWx4RDVQTkxRbkJiMG9XSXZzNGIxYnUwaW9qVG5WZnhMTVhrWGE2alF5N0E5Sl9feFc4OV9ubG8zTEZjSDlPcmJkZw?oc=5"
-  },
-  {
-   "ts": "2026-09-17T20:00:21+00:00",
-   "title": "Guest Column | Guangxi’s Deadly Floods and China’s Propaganda Crisis",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbmxyQ19RQUk3UGR5YU9Xb0R0amJSSUd6R1FVZEViU0RrNWhUOWdCYnhjd2NSWDhsQmZNZC04cVczZjNUYnZMNVF0X1BNNjRQZEl6b01pbVMyNWlyV2JGNnVrRlMteFdBYjlzc3QyY09jbHB0SnhZZHMzUlhzdXFOb2lLVnJWWXZzRENud3RHSFY0TGhWREw4OHQ3alAzRThscjJTMVh3?oc=5"
-  },
-  {
-   "ts": "2026-09-17T19:00:20+00:00",
-   "title": "News",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tSmgwYnpNd1gxbUNPN0lwdzBRX3c5bnJlZmdsbHBmWDJqRkVxbFFVNWhsU1d4R2dxblpJVFotdDBVelBPYnY0SkR0aTc1dGRQVXdGVUVwNHNHeTg?oc=5"
   }
  ]
 }
