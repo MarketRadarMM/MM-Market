@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-24T04:00:24+00:00",
+ "generated_at": "2026-09-24T04:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-09-24T04:30:19+00:00",
+   "title": "Guest Column | Arakan’s Fragile Trade Lifeline",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbDM3VVcwTjFMN1l6MkhiRk1EX3hhbzhaNUZsejlJT3pqNElTZjZKS0ZncTZrMFpFbnU1X0t5bnpEV1ctZXdXelBpVklyMmZxWEVFUDltOTZnMU00b0dMcFJ2UGlVbFBrc0h4ajV5WnBVV3M0VEdwdm5fUkhXY0FZeVBOdzUzYmc2TGc?oc=5"
+  },
+  {
+   "ts": "2026-09-24T04:30:17+00:00",
+   "title": "ကြံ့ခိုင်ရေးညီလာခံ၊ ပါတီတွင်းအားပြိုင်ပွဲနှင့် မင်းအောင်လှိုင်၏ အနာဂတ်",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81323/"
+  },
   {
    "ts": "2026-09-24T03:30:15+00:00",
    "title": "ဆားတောင်နယ်မြေထဲက PDF ၃၂ ဦးနဲ့ မိသားစု၀င်တွေ ဘက်ပြောင်းလာတယ်လို့ နေပြည်တော်‌ပြော",
@@ -2107,20 +2121,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xY2tfT0dMbUFkajF5UEpyZmhKX3hmSHBfSFh4RXpMb082al9lQ2NncjNXdnM5QkIydmpIaWlmNFY4MzZZVUhCX3dUcVVlZUZWejF5MUxaWnRLYVlwUEw3Ynd3aEFoVDZ1ek5ZNGd3?oc=5"
-  },
-  {
-   "ts": "2026-09-16T14:30:22+00:00",
-   "title": "2nd Myanmar Auto and Parts Expo 2026 to be held in Yangon for three days",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ3hVeDc0MmJGZnVrS29UMjB1U1FhbFlGRlV6LXFFRVgxV0xadWNyVWJ6cHhXR1pmQWkxdi1XR0Q2NHJXd3lxV3p1R2Y2bXkwWlpLMkI4dDBNMjhSa0xsT21uMDVpR2NhNWxXVXRWaFJ0M0lEM2cyUzdCMHlfQUxCZEx1RGNPZFZmS3RFeXdjYWhMUThPaERzZDcxM2E2Zw?oc=5"
-  },
-  {
-   "ts": "2026-09-16T14:30:22+00:00",
-   "title": "Despite El Niño influence, rain may return in late September",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSWNHcnFMSXh3RFVTM1p3TTNNbl91QjdFN0RoclpIWVZtU2lpQm5UYVlhUUpPZUp6UXJxOGR0UndLOGY4LWowc1dveFZ6RGNjMUhEUVl1b3RNVDdHc3JxT19ZcnJlLW81eEk0blNxNGJNU205Y1JpR1FlRXNQeDYwWlV1SElnNmNlOFBfZQ?oc=5"
   }
  ]
 }
