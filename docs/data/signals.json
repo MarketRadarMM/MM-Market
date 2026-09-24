@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-24T07:30:20+00:00",
+ "generated_at": "2026-09-24T08:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-09-24T08:00:20+00:00",
+   "title": "Business",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EbTNfQ3BFY2h3cXEzZmZReFFFY0pWVHhGdHZTbEZ1bVYzaVVqdmJpWmhzMUFwb3R1cVdpWURvYm9HbnNLWlpVVXpxcU1Fam4wbUU4MkVR?oc=5"
+  },
   {
    "ts": "2026-09-24T07:30:20+00:00",
    "title": "Myanmar moves to establish framework for peaceful nuclear energy development",
@@ -2114,13 +2121,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.co.uk/burmese/live/c6y4zwd78e8pt?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-17T02:30:16+00:00",
-   "title": "World Ozone Day 2026 celebrated",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuUzdlTHZCZGpudUpUanFPWW9GTEtEWmRKc2tQbFJ4YXFpR0xWZC1qa3ppSHEyODIyWXRmOUFmdnVGMTdMZERLRGhyMjRRYy1FOVNhX2l4X2k5OXFCMmFJZVdvNjlVVlU?oc=5"
   }
  ]
 }
