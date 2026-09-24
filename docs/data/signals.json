@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-09-24T12:30:20+00:00",
+ "generated_at": "2026-09-24T13:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-09-24T13:00:22+00:00",
+   "title": "Shwe Kokko Cyber-Fraud Hub Roars Back to Life After Fake Crackdown",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQT1JPN2p3NHMzeXRuMTdCN0t0QnAyYUtmME03ZVkwM0RYZ3p4eGNZSjlsSEcycXc0amExdGlHNTVKUmNKNm52TWFKZF9mQmFELWdYbUtseEYzNl9QN1ZTMVNuM1c1aEVXcTdnNGtxTHVtYk8wV21ITkpEcFdpUkV1cTMzSVZrVTlTc01GZmdIMXFWOFB1eTF1SnBRdEFId3pMT3pTSHNtbFVFTDF5?oc=5"
+  },
+  {
+   "ts": "2026-09-24T13:00:22+00:00",
+   "title": "Myanmar Internet a Dead Zone After Thousands Arrested for Regime Criticism",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS19JM0hLbVhqQ2Eya3N1cW5SUmNJOU1NSTh6c0UzdGFTeUJLb3ZZcDBVTEVLRWJ1T3oxUld2eEJ0UTBBai1POWY4ZUdOdlVtWldTb0s0SVNpa2Zfai1BZnRVck5SSjJwWldIZDVCMUNJcXlWa05hQ0RkZXhhZEJqUTNsOTl0TWtKRVZ3ZjJGQ3NvRFJXdE1jNWlvaDQtbERMSWV2Y0tCakF0UUJMUmU2RGpzeXNQUFU?oc=5"
+  },
+  {
+   "ts": "2026-09-24T13:00:20+00:00",
+   "title": "‘‘စက်လှေမှောက်ပြီး ခဏအတွင်း မှောင်အတိဖြစ်သွားတယ်’’",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/ck7v4gn47pl5o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-24T12:00:21+00:00",
    "title": "Tour Group issues safety guidelines for domestic pilgrims",
@@ -2119,27 +2140,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBucVY4TjR6VzdxbXBJSlNPbEFXMlpPWm9DY3VDbVNXUm9Jcm4wNXNRYmpEWHlXZXFpYk4xZWFnV1cxSGFCMzFCeXNPdW5HelZkeHJTNg?oc=5"
-  },
-  {
-   "ts": "2026-09-17T11:00:17+00:00",
-   "title": "စစ်တွေဝန်းကျင်တွင် စစ်တပ်က ပိုလှုပ်ရှားလာ၊  ငါးဖမ်းလှေ ၂ စီး ဖျက်ဆီးခံရ",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81221/"
-  },
-  {
-   "ts": "2026-09-17T11:00:16+00:00",
-   "title": "Junta column faces strong resistance en route to Hpapun tactical base",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/junta-column-faces-strong-resistance-en-route-to-hpapun-tactical-base/"
-  },
-  {
-   "ts": "2026-09-17T10:30:16+00:00",
-   "title": "War Against the Junta",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lZTd6akpvelpZSExCY3h1RTd1amJOWWlNMzQ0Q0FwU201NDdWem5nUm1GRHViZmxPOWtpcThsYWp0aDFuY3NZdXU2bUF0SDdETlV1QXBmOFA0UnltTlJXem03QkhFeDhfTVpSR2JB?oc=5"
   }
  ]
 }
