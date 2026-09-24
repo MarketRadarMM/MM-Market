@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-24T08:00:22+00:00",
+ "generated_at": "2026-09-24T08:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-09-24T08:30:17+00:00",
+   "title": "Interview | AA Chief Defends Rakhine Rebels Against Charges of Genocide",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcU93Z00yeHdES0hCZ1AweVpscVQ0NEoyMlBQSWtaTmJHTW1XZlRyV0sxUXlTbEJ1VU16VDdWUElXb0x5MUFQaFFLU1pjSmR1b0dhUUI1bjAtbEEtTVJpX1dTUnU4aU9sNEV4SkUzOHAyVUpPbnk3YjFaZS1iV1RBVkdvSXpNam5Uc2hzeTFxNkk4TDMtLWozMjRCbXI2UC1rSFV0cVBQVkh5N2Ns?oc=5"
+  },
+  {
+   "ts": "2026-09-24T08:30:17+00:00",
+   "title": "Myanmar Regime Wins Prize for Combating Fake News—Awarded by Cambodia",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOWlnQ3pZU2E2QjBIZ2lGandsV0VVcjBUbURuLWxIcDBuZnFUbl9DdkxYT01ab2JHX0xia0dWWFdiMjVLN1E4RjdvNzRzd3ptaDNOSURnLUlfeUxURXVjQXY3TUxpYkxWN25oWVpSRFVGWld4RHFIdWtZd3RjRjdsQ0JEclNFSHlZbURCZlNMRHZWQnVzZzI4b1EtejRoWnZJWUQtR2NjMTZVT1p6NC10VA?oc=5"
+  },
   {
    "ts": "2026-09-24T08:00:20+00:00",
    "title": "Business",
@@ -2107,20 +2121,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZjdseVpkUjFnbHBzLVc0UzdtT2QzdGttWUYxZ2U3YllxWFpKWmNhT2dITTllREIxSXlnWlk1eDl3UGRfODh6QUhCcms3aHhXWW5TRnFHM1MyVXRBemtuNGFDMG5CR21oYnRqYjlPV1U1WktRZEhxWDVIZXRIMlV2OFhR?oc=5"
-  },
-  {
-   "ts": "2026-09-17T03:00:20+00:00",
-   "title": "Contact Us",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DYVhsUGZ0RGtIOGFLM0s4QXVXSWlDM2lyb0tBZS01Z0xUeWMtWllyUG8tYy1KQk1TLTRVQzZ5WE9aV0hKZnV0Wm9fbkp1Z1poV2JwVG9EMEtidw?oc=5"
-  },
-  {
-   "ts": "2026-09-17T03:00:16+00:00",
-   "title": "ရိုဟင်ဂျာတွေကို ပြန်ပို့ရေး ဆွေးနွေးဖို့ ဦးမင်းအောင်လှိုင်ကို မလေးရှားကို ဖိတ်ကြားမယ်လို့ မလေး၀န်ကြီးချုပ်ပြော",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.co.uk/burmese/live/c6y4zwd78e8pt?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
