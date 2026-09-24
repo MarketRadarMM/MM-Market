@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-24T11:00:20+00:00",
+ "generated_at": "2026-09-24T11:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-09-24T11:30:21+00:00",
+   "title": "Intellectual Property Awareness Seminar held for TISC leaders, members",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT0FZMlM2M19mNlJSNmFVbHZBSnFENnVsdDZ5YzVSUGJYcGotZy1lX1plN25vMHpXTExSOXJWbUg4bUJ3d2FBdlJ5WEFnRDQzMTUzMFczUU1ZT1MtSS1NMDlKemZGbXMweVNUOGVKdGlLNElta0k3THBsQndaay1hU2xqWUp3NkNHdXJtU0s1NEJfWFdLT251NWtB?oc=5"
+  },
   {
    "ts": "2026-09-24T10:30:19+00:00",
    "title": "နေပြည်တော်တွင် ကိုးကန့်အထူးဒေသ (၁) နယ်မြေသတ်မှတ်ရေးအပါအဝင် ဆွေးနွေးမှုများ စတင်",
@@ -2133,13 +2140,6 @@
    "source": "Myanmar Now (MM)",
    "markets": [],
    "url": "https://myanmar-now.org/mm/news/81211/"
-  },
-  {
-   "ts": "2026-09-17T07:30:14+00:00",
-   "title": "နိုင်ကျဉ်း ဦးဒိန်းဒေါင်ကို မြင်းခြံထောင်အစီအစဉ်ဖြင့်သာ မိသားစုက သင်္ဂြိုဟ်ရ",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81206/"
   }
  ]
 }
