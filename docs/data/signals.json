@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-24T06:30:18+00:00",
+ "generated_at": "2026-09-24T07:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-24T07:00:18+00:00",
+   "title": "လေဖမ်းဒန်းစီး စစ်ခေါင်းဆောင်၏ AI စိုက်ပျိုးရေးနှင့် ရုန်းကန်နေရသည့် လယ်သမားများ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81326/"
+  },
+  {
+   "ts": "2026-09-24T07:00:17+00:00",
+   "title": "14 Buddhist monasteries ordered to leave Yadanabon New City project area",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/14-buddhist-monasteries-ordered-to-leave-yadanabon-new-city-project-area/"
+  },
   {
    "ts": "2026-09-24T06:00:17+00:00",
    "title": "ငွေကြေးသစ်များ Archives",
@@ -2107,20 +2121,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4tS3NzUkF2TzFVUWxTNzZHUU1uUU1xLWRINk9ld3Rqa0RST1ctalllUlUySjdFR01oTkpDX1VvM1NTMFg2T2MzelpNUkY5VzVmTllndHh4MXdPSUhXU3hQa1FaNjZZdEZkWHZSN1A3LWlGaHJxNUxlM2lB?oc=5"
-  },
-  {
-   "ts": "2026-09-16T21:00:23+00:00",
-   "title": "VDP project introduced; committee formed in Aunglan",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZGI2ZVR0WnllQW1Pc2ZhMUdXT0lYY0t4b3lNQ0tCb1hxSVl6LVVWZkJ5a3hHSGppY2dEbEJIRklCQ2N6ZGlhTF84Z3JqazVDeUpHdHdwbDBadFh3dWsxSjdzWV9SOFc0N2VPaDlrc0l0QTF5UXZoTHE1VWRENHphSA?oc=5"
-  },
-  {
-   "ts": "2026-09-16T19:00:19+00:00",
-   "title": "News",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBscmVHTm5hR1hRYm1yaE1Yb1B0QVhwZHpKN2hrcDJEYXg4X1JNTGpiTkxYT09PTWV2OG1LeFNSdk0zYXNCVGNybDNUdFUtcEFZSXRiN2RXTTVmYVpQ?oc=5"
   }
  ]
 }
