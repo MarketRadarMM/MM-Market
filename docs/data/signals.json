@@ -1,6 +1,40 @@
 {
- "generated_at": "2026-09-25T12:00:20+00:00",
+ "generated_at": "2026-09-25T12:30:23+00:00",
  "signals": [
+  {
+   "ts": "2026-09-25T12:30:23+00:00",
+   "title": "President U Min Aung Hlaing responds to queries raised by Charlie Campbell the journalist from the Time Magazine at the President’s Office in Nay Pyi Taw on the morning of 28 August",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbWk5Sy0tTDU5dzJMU3I4S0ozY0RST09Bb2VBT1pFZEZkTk13eUdfRDNNWUx0WHNYd1JtNnd0U1Z3UnBuZ3BmZW8xMWtWY0xWTnR1TFVIWmFUdXR3Vm8zcU1ld0pNVEJKSnpIWW4yUkdFemJ6cU5tTkRNTko2b1NzeDh2Sk5WMlVTWDhzM1dnbm05ejhhSXlnZ3UwWWtqc01Ibk5JT1VlekYtQ2F3OFRyV18xa2ZSNnc?oc=5"
+  },
+  {
+   "ts": "2026-09-25T12:30:23+00:00",
+   "title": "32 PDF members, six family members, totalling 38 return to legal fold along with arms and ammunition, due to abhorrence of terror acts and desire to live in peacefully",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWGgyOGg0a1AxNGNmOGE2bVB3V0RLNzRRU0Z5N3VIQVh6TDRUMEEtTERBNzFiT1pmUDdramZ5WGRRMG5vWmhYRGpDUnhhdnYtVFhGRmVEOGNrVG1hOU5RMlR1eUctODFTR3lOZnZKTEhDeVFWTHVmT2pLMWVaMDMyRElkbVhSc1UyVjkxakJzamRmdnlvTmtHbmd2LXl6NXdwaHdIdF9rQ1FpQ3liM0dnOFMtM1ZvdERH?oc=5"
+  },
+  {
+   "ts": "2026-09-25T12:30:20+00:00",
+   "title": "Coup Leader Says Myanmar Is a Democracy, Urges US to Drop Sanctions",
+   "source": "Irrawaddy",
+   "markets": [
+    {
+     "market": "fx_kyat",
+     "direction": "bearish",
+     "confidence": 0.65,
+     "rationale": "New sanctions pressure the kyat"
+    },
+    {
+     "market": "gold",
+     "direction": "bullish",
+     "confidence": 0.65,
+     "rationale": "Kyat pressure drives savings into gold"
+    }
+   ],
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR2lxWjFJQ2JrMjdyb1VmNVRNeE9hYXBrcmUtTTJWaXY2MEVxNzU2VDZLTFBLQklIclQ2ekU4YnVxdUUyX293T0pfaHNtZ0pkUmZJc3RmMVRpQVE0b0ZrbmZMSUx5NmtOVGg1anhYbFpxLWlVaVdHY0gwQlhiX0RNcEZMenJ2b3k3ajgyZk9YZ3Q3eUc2eE1TcmRYQmQtX0JHRFlKcUxjX0RwX3pH?oc=5"
+  },
   {
    "ts": "2026-09-25T12:00:17+00:00",
    "title": "Six Killed in Myanmar junta attack on NUG regional command",
@@ -2126,27 +2160,6 @@
    "source": "Myanmar Now (MM)",
    "markets": [],
    "url": "https://myanmar-now.org/mm/news/81244/"
-  },
-  {
-   "ts": "2026-09-18T11:00:23+00:00",
-   "title": "Opinion",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VeTZEUGRKTm9QenBqMGlsZ0pvb29rWUNfSURMWUMtb2J6M0hSVG53eV96OVJWdXhfMS1QbzJiZnY4OGwyUVpsakxJWjNxQlQ4Q0RoaQ?oc=5"
-  },
-  {
-   "ts": "2026-09-18T11:00:22+00:00",
-   "title": "ထိုင်းရဲဖမ်းမည့်ဘေးမှလွတ်ရန် ထွက်ပြေးသည့် မြန်မာလုပ်သား အထပ်မြင့်မှပြုတ်ကျသေဆုံး",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81241/"
-  },
-  {
-   "ts": "2026-09-18T10:30:20+00:00",
-   "title": "တီးတိန်တွင် ထွက်ပြေးစစ်သုံ့ပန်းအချို့ ပြန်ဖမ်းမိ၊ အချို့ကို ဆက်ရှာဖွေနေ",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81235/"
   }
  ]
 }
