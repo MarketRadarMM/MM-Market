@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-25T04:00:23+00:00",
+ "generated_at": "2026-09-25T04:31:01+00:00",
  "signals": [
+  {
+   "ts": "2026-09-25T04:31:00+00:00",
+   "title": "News",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aRTI1ZTBYWGJlcnl2cU9XcEJQdTE5Vnhlb182S0dyLW85RXA0dlgtRlRkbl9EaXVHaml5WlZCZkN5WlZyZjRmREFONmZxOUczeDhSYkp2SXZfMHhh?oc=5"
+  },
   {
    "ts": "2026-09-25T04:00:21+00:00",
    "title": "Down and out: Junta offers scant help to homeless civil servants",
@@ -2133,13 +2140,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc2JoOUJzajNjSzhzNzl0UFdQdGloVGFERjlGNlFuajR5M2ZPdllmdWg1T2NwTjVYTFdTd2ZiTW9neFJHMFFCWktUMllpbnpjUmRVMEtMNjNmeDF0OWF5SF9xZXpOMF9rWm9nMEpDajl6MDA1N256VGw2akk5OW9rVElFWGJ1MHdIcXBfU0xpMVhMb2ZScnByNzJ1cDg0WDM3b2c?oc=5"
-  },
-  {
-   "ts": "2026-09-18T01:30:19+00:00",
-   "title": "India to Boost Scholarships for Myanmar Students",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05LUJsUWlXcEc0NTEzclFRQnZ4eTg1LWF4aHlWeG4yT2wwU1Y4bnFreExzWFkzSVdHVFdYNTRWZkdqWHNBUmZnWHY5X2lMLTZEcTJDMVFrTEFxZC1pbHhWbXdGTEdnSkNuMGJjeVVLNl9zSW9oYUtma3FQU2Vpdw?oc=5"
   }
  ]
 }
