@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-09-25T11:00:23+00:00",
+ "generated_at": "2026-09-25T11:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-25T11:30:18+00:00",
+   "title": "Prominent Defector Among 6 Killed as Regime Bombs NUG Regional HQ",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOWJDNDhLclZ3UXc3NkF2VWhvZlZoNldVOFJkSzF3Qi14bnd0bjZpZUM4a0xHVkFXdzlBWDg4Y2tfNjVzX1plWERESFdaNWlZaV9WbHhWUXAyVUVTR3RPRmxRSC1mbUJBQkp2LVlqX2s3ZFNxQm54YXFKUy1yaVZQb2xfOVF3SWhsMGRoUV9ON04xdGRMTlhxUExxcTNCaG5FRzhtVC1ETUVJQTg?oc=5"
+  },
+  {
+   "ts": "2026-09-25T11:30:18+00:00",
+   "title": "Myanmar Regime Boss Downplays China Dependency, Shadow Govt’s Beijing Ties, and More",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSVJYSkxicEVPd2JFNXp6Y1dlUU8weV9oY2F0N2FMVmlSdTVvZ3lyT2hiRjBaRU5URXZERFpYaUpiUG9JcVZZQUdJSUFzekxPaUZUbnpKVzlzdENmOFNVbGxJTHBWWnFvZ0xGaEQxR0pVa1NGVjd2TUJCNnRNTEZfMlVQaFNtbkxNWnRNYXlnWVdncGRqTjRKbEh2MU5ucTNFYzFYRkNKbGwySnljVzVTYVJURTBQQnM0MjBRYUJZT1NLaEQ5X210c29zSEk?oc=5"
+  },
+  {
+   "ts": "2026-09-25T11:30:18+00:00",
+   "title": "မန္တလေးတွင် ကျားဖြန့်နှင့်ဆက်စပ်၍ ဖုန်းဆင်းကတ် ၅ သိန်းနီးပါး ပိတ်ခဲ့ရဟု စစ်တပ် ဆို",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81386/"
+  },
   {
    "ts": "2026-09-25T11:00:20+00:00",
    "title": "ရန်ကုန်တွင် အထည်ချုပ်စက်ရုံ  ၁ ရုံထပ်ပိတ်မည်",
@@ -2126,27 +2147,6 @@
    "source": "Myanmar Now (EN)",
    "markets": [],
    "url": "https://myanmar-now.org/en/news/two-fishing-boats-destroyed-as-myanmar-military-intensifies-activity-around-sittwe/"
-  },
-  {
-   "ts": "2026-09-18T10:00:25+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55S183Ukt3MXdYZnJRMXAzQ2NUaVRYZjdTRjEwcHB0RjZOXzJmakZfR0NxcWx1bzEyM2JmeV9BSmhpMm1FLWVZMGpiVQ?oc=5"
-  },
-  {
-   "ts": "2026-09-18T09:30:13+00:00",
-   "title": "'ကီမိုဆေးကြောင့် ဆံပင်ကျွတ်တာက ကျွန်မရဲ့ ခွန်အားကို ကိုယ်စားပြုတဲ့ သင်္ကေတ'",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cklyjz6q76gwo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-18T09:00:16+00:00",
-   "title": "Detained forced conscripts escape past drunk junta guards in Sagaing",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/detained-forced-conscripts-escape-past-drunk-junta-guards-in-sagaing/"
   }
  ]
 }
