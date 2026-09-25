@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-25T19:00:24+00:00",
+ "generated_at": "2026-09-25T19:30:23+00:00",
  "signals": [
+  {
+   "ts": "2026-09-25T19:30:20+00:00",
+   "title": "Lao migrant’s disappearance in Thailand seems like transnational repression, NGO says",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/laos/2026/09/25/khieo-lapchanh-laos-thailand-missing/"
+  },
   {
    "ts": "2026-09-25T18:30:20+00:00",
    "title": "‘Serious deadlock’: ASEAN seeks progress with 5PC",
@@ -2153,13 +2160,6 @@
    "source": "Frontier Myanmar",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pQXJ5SUJpVHl6aVR5eC1QUGRwVkM2aW9hNkhiLUMycHI2TW4tV05pNlU0aHJqZHJoVVVRbVJxOGRVb2o1S01vekY3bGpZa3U5M3pIamd4UGFCaVh2NXZtQUp2amtsTU5DZ1E?oc=5"
-  },
-  {
-   "ts": "2026-09-18T15:00:20+00:00",
-   "title": "In-Depth | How Myanmar Scam Centers Continue to Target Americans",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTWZfY2FoOVlpY2JfRzllOVY2MXduemFSTm8zanFlZ2E3TjdObG85amg3alRzTTZPYmlHbEkxemJob1c1eTJUNDRidks3VG5FNVZGNWVWV0k4NkxwaklVYVRTUTY3S0t4RFNGUDliU1NzMUxYNzJvNm1NXzhNUWpxNVBWcVF4VFQ1Y1Z0VTBJbGhzVWNtTDA2SjA5TVJobnlKZVVB?oc=5"
   }
  ]
 }
