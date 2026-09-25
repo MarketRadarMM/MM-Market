@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-25T11:30:20+00:00",
+ "generated_at": "2026-09-25T12:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-25T12:00:17+00:00",
+   "title": "Six Killed in Myanmar junta attack on NUG regional command",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/six-killed-in-myanmar-junta-attack-on-nug-regional-command/"
+  },
   {
    "ts": "2026-09-25T11:30:18+00:00",
    "title": "Prominent Defector Among 6 Killed as Regime Bombs NUG Regional HQ",
@@ -2140,13 +2147,6 @@
    "source": "Myanmar Now (MM)",
    "markets": [],
    "url": "https://myanmar-now.org/mm/news/81235/"
-  },
-  {
-   "ts": "2026-09-18T10:30:18+00:00",
-   "title": "Two fishing boats destroyed as Myanmar military intensifies activity around Sittwe",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/two-fishing-boats-destroyed-as-myanmar-military-intensifies-activity-around-sittwe/"
   }
  ]
 }
