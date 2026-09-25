@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-25T06:30:21+00:00",
+ "generated_at": "2026-09-25T07:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-09-25T07:00:21+00:00",
+   "title": "25 September 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4tai1rdnRzcC11WHZsc1IxTTFRM1d5OGk2MVZiMUxtclRWZmNuYlBYMnRYclhsSDZTeDVnSmpBN1FEempuTzRQZU9OM1l5eTBOcFU0bQ?oc=5"
+  },
   {
    "ts": "2026-09-25T05:00:20+00:00",
    "title": "Bad news for snack lovers... just an extra 100g of processed food a day linked to risk of cancer, diabetes and death in new study",
@@ -2133,13 +2140,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.co.uk/burmese/live/cqj3d2281m3zt?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-18T02:00:21+00:00",
-   "title": "11 foreign nationals and 17 Myanmar citizens arrested with evidence for online gemstone sales fraud in Mahaaungmyay Township, Mandalay Region",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaENULW5RaHU5dWx6M3hzRXlyeFAybXFBRkMwck8yd01PWklLdk1RZ3JtSnpxWFl0bGVsd05IcEtkZUg3T1V1YWJpX3FTNnZZVHlaMnA1WjdjTGh6TmJrczJERXJpTXpPQVJuOW1vTmdSaERmUW1wSTJCanhmeG5haV9qRjNpN1VzektNekFpX21WdHBwZGxuanFhbWxyMEFQVmdEaUxqYlI4cDJrX294dl9YSQ?oc=5"
   }
  ]
 }
