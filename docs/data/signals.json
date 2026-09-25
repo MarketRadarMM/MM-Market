@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-25T00:00:24+00:00",
+ "generated_at": "2026-09-25T00:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-09-25T00:30:20+00:00",
+   "title": "Mandalay Celebrates 77 Years of PRC Founding",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1RLXEyaVZpS08xd2F5TFZyUVNhVzZ1aG9XdUdfTVB2Zm1PYmFVb3ZvRm90NkZZWGNxcUs2UThrZWNfLXJES2IyQ1dXRWpvWXJtcmZVVWJXRGtrR1ZOU2gyVWRoQWM1b05hOVpKaGYyd2VSOGxHclpmag?oc=5"
+  },
+  {
+   "ts": "2026-09-25T00:30:20+00:00",
+   "title": "News",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4SXFfWTJmekh1a3M3UlJpNkZpOWtNQVoxVDlNY0VOMmtXaXpRTUVsY0JhUU9IYTcwbjhDWDdZWTRhN1daOGtvcVJSdGZMUGtQeVZ2alQzSVZxOUhO?oc=5"
+  },
   {
    "ts": "2026-09-24T23:30:18+00:00",
    "title": "Mushroom cultivation training opens in Yangon",
@@ -2126,20 +2140,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZUg2WEZEd3pCdVpCRXVrQ2lVeWpNQjJERExtMWcyLWhrNFlORUg1VHp5VTB2UzBLRHljRjhXVl93S0IwMUVuQTBSQkN6VHR6WUpzeFhHVXdxaTZpS2J4UU5tYkJwSGFvTnNYVG9palJCcXpmNFR0d2pHWmRxZ2VIcHBkcm5BT3JnWGFhQ0JFSF9FYmdOel9uZ3JpaDVVNmFBOHk3NUZNdE14TlBjdkE?oc=5"
-  },
-  {
-   "ts": "2026-09-17T20:00:21+00:00",
-   "title": "Malaysia to invite Myanmar regime leader over Rohingya repatriation push",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTHFWS3JobmZraHhQUFNreTMyRHBjSWhZbnh1Wm9XQnRUT2NIMXpsQ3ZRVElTMnJaV083VmNFVEtLZmh3ZlR4Wlpkdmd3YlNOSlVUV0s1T2pkMGdCZW11R0l4LXB6N3NMWV9LVzlDa2pyTTJDdS1oT1FuY2doeFJfcW1EVWZEcGNkRl9lX2VTd0lmbGhZUlkwck9rYXdBTWFoNnh3amxPQ3VhaDZo?oc=5"
-  },
-  {
-   "ts": "2026-09-17T20:00:21+00:00",
-   "title": "The Resumption of Drone Warfare in Myanmar",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYmRtZ0NjN1BXUXoxcFNQeG03d1IzY0NYOHZkYzB1V0xJWHZES19NcEVjNWhiQmVJb1B4b0ZuT3dIcE9XMWx4RDVQTkxRbkJiMG9XSXZzNGIxYnUwaW9qVG5WZnhMTVhrWGE2alF5N0E5Sl9feFc4OV9ubG8zTEZjSDlPcmJkZw?oc=5"
   }
  ]
 }
