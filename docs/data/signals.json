@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-25T07:00:22+00:00",
+ "generated_at": "2026-09-25T07:30:17+00:00",
  "signals": [
+  {
+   "ts": "2026-09-25T07:30:16+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FX0xBVXdVbmtYV1FZc05rSkFNOTVCOFB4cjg0SDJRLXpMc2lGdi1QejUyV3o3Umt0VDluVjZ0VmpLMkpvQk9MQU9ZSQ?oc=5"
+  },
+  {
+   "ts": "2026-09-25T07:30:14+00:00",
+   "title": "ပဲခူးတိုင်းတွင် လေကြောင်းနှင့်လက်နက်ကြီးကြောင့် လေတပ် CDM အပါအဝင် ၆ ဦးသေဆုံး၊ ၄ ဦး ဒဏ်ရာရ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81366/"
+  },
   {
    "ts": "2026-09-25T07:00:21+00:00",
    "title": "25 September 2026",
@@ -2126,20 +2140,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Bc0wxRjZkdVo4QTl0OHZCREVhZ3d0Y2xQX1NVMHdJZ1ZVa1duaVdzdS1sRFNZUEVnUm44LVZwZXJ2cjVLMEFiWHpXV3EzenBRN0g5Xw?oc=5"
-  },
-  {
-   "ts": "2026-09-18T03:30:18+00:00",
-   "title": "Guest Column | Why Is World Order Breaking Down?",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ185N1c4d2liLTRlT2VhTmVjMTRVWUlXTmlOZl85UTFENExqQzRJNFRvTW1iN0dvTnJNUHl3R0dhNFFFbGo4a2Nzak5HY2MyN3VCSFQxNl9ONXVnSGNLa2t2NTFkVW1hbGJ5a1d3Z0Y2anp4Ml9KUzNwQzFhbU9LMUJieVFEYkUxUnNTSA?oc=5"
-  },
-  {
-   "ts": "2026-09-18T03:00:16+00:00",
-   "title": "\"မြန်မာရှိ အဖွဲ့အစည်းအားလုံးနဲ့ ဆက်ဆံနေ\" ဟု အမေရိကန် နိုင်ငံခြားရေးဝန်ကြီးဌာနပြော",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.co.uk/burmese/live/cqj3d2281m3zt?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
