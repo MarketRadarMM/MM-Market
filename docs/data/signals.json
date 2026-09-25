@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-25T10:30:23+00:00",
+ "generated_at": "2026-09-25T11:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-09-25T11:00:20+00:00",
+   "title": "ရန်ကုန်တွင် အထည်ချုပ်စက်ရုံ  ၁ ရုံထပ်ပိတ်မည်",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81383/"
+  },
   {
    "ts": "2026-09-25T09:30:21+00:00",
    "title": "China Fires Warning Shots as Regime Jets Circle KIA’s Border HQ",
@@ -2140,13 +2147,6 @@
    "source": "Myanmar Now (EN)",
    "markets": [],
    "url": "https://myanmar-now.org/en/news/detained-forced-conscripts-escape-past-drunk-junta-guards-in-sagaing/"
-  },
-  {
-   "ts": "2026-09-18T08:30:20+00:00",
-   "title": "Myanmar Junta Pushes Chinese BRI projects in Rakhine Amid Fierce Fighting",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTjVLY2RQMjlXbmpMQ01Wcmx3cWlVOXNpc2NaeHZUdC1tWFRMV05Vd21nVmZnMGZFSkh1SmNXV21TYlRzU2drZDhlTEhzcTF0bzVYMUQzbVpFTUNXTmpZMFoxRGtEN1VGSk9Db25DLVhxd25lajBiTUdUOVFYT2d1YVl1aDgyaTNJeDRncFZ4TVdPakFWWkRPWkFQM3RZQ0xwUXp5SVdDczRfZUVXUjFoblZWbVYydw?oc=5"
   }
  ]
 }
