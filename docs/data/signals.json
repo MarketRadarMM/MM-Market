@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-25T02:30:21+00:00",
+ "generated_at": "2026-09-25T03:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-09-25T03:00:18+00:00",
+   "title": "နေပြည်တော်နဲ့ ကိုးကန့် တရုတ်စီမံကိန်းတွေဖော်‌ဆောင်ရေးဆွေးနွေး",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.co.uk/burmese/live/cm209428wzg7t?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-25T02:30:21+00:00",
    "title": "SAC Chairman Prime Minister Senior General Min Aung Hlaing delivers speech at Union government meeting 6/2023",
@@ -2133,13 +2140,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBHZHlZZWVyWmROeWJERjhqVlZSYWEtWU56SW1pR3NGTVBULXVyOXlOQVFJZzBMNnkyT3VJbzk2TlhEWmtLckJsVE5WX2tCdFQyUW9WSm1tTU83WnMta2YwV1RVY0ZQQXlmUmpwdlJBT3F0X201cTFrVg?oc=5"
-  },
-  {
-   "ts": "2026-09-18T00:30:19+00:00",
-   "title": "Commentary",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0ZWczZnZsbGtya1EtRkR0cXpxc3BqYlBXR044RXJfVDZjeGlPbk5NUHZLcEhxSTJISmZzNWk1U0pKS2d0enZqTFV3Rm0tY2p1dXJjeExTMVg4bWMzNGN1ZkQ4OA?oc=5"
   }
  ]
 }
