@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-25T12:30:23+00:00",
+ "generated_at": "2026-09-25T13:00:25+00:00",
  "signals": [
+  {
+   "ts": "2026-09-25T13:00:24+00:00",
+   "title": "Trade Restrictions Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQUlNiVkxtSUJ1Z2FqX3ZPR0ZBbm5BQy11RjdGYXZsVGMwM1NET2ZpZGdnM0Y1a0Z3a2Yyc3RQVDlNRFNjOHo0alhVYUNrMzB4eFE5LUN2cVVIblhf?oc=5"
+  },
+  {
+   "ts": "2026-09-25T13:00:20+00:00",
+   "title": "၀ါဒဖြန့်ပေးသူတွေကိုပါ စစ်တိုက်ခိုင်းသတဲ့လား",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/ck2094wjdy65o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-25T12:30:23+00:00",
    "title": "President U Min Aung Hlaing responds to queries raised by Charlie Campbell the journalist from the Time Magazine at the President’s Office in Nay Pyi Taw on the morning of 28 August",
@@ -2146,20 +2160,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSVpKNzZrMFpXbDVzbFp2Ulk1LVNHYXhRVnNndjNHMmFWNy1fSy1LWmFwcVR4VVhqOGRBWG1qdE1UeWlCcjlxWGZLNEJGZXpHbk5oSktVZDBzVm0zc0tnSGc3NHUwbFRBcE5vLU1fUURXOUlGZkpIZGVzZ0s4ejZXRFg0SC0?oc=5"
-  },
-  {
-   "ts": "2026-09-18T11:30:19+00:00",
-   "title": "Myanmar attends 2026 SCO Forum on Traditional Medicine",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMUxmUmctczBYdER1MTVxZm9aalAyZGYtREZ0bjMzS3dmcjhpV0RtQjFqN3dIMFl2aFppd2VYdnNCVFpzYWI5TWFNRkp4MjBmX2FfWmpqRVhvUkRLX0Z1eDZLRkthQzJOT3RpbUxoMENpVjZHbDJLVmdyeTJDcjh4RkZkWi1PUQ?oc=5"
-  },
-  {
-   "ts": "2026-09-18T11:30:17+00:00",
-   "title": "စစ်တပ်အမာခံ ခရိုနီတို့နှင့်ဆက်နွှယ်သည့် သရုပ်ဆောင်များ နိုင်ငံတကာစင်မြင့်တွင် ပါဝင်ခွင့်ငြင်းပယ်ခံရ",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81244/"
   }
  ]
 }
