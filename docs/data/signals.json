@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-25T04:31:01+00:00",
+ "generated_at": "2026-09-25T05:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-25T05:00:20+00:00",
+   "title": "Bad news for snack lovers... just an extra 100g of processed food a day linked to risk of cancer, diabetes and death in new study",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd3paS2YxME1qdEVQemZfQnNHNVlqbE9MZnV2eDJ4S0k3VkVjUE5IQjF1QlpDRWo2SlZRd2R6OC1xR0xZcERJRXV2NXRvUHlnWE14MDZlb2VUOGo1T3dfQUY0Y3ZCakNvdFR1bFZGaGFLTklfUERqUjNXRGhUQlFRSlZITl9VdnBIVkFVbGtVZlBON2xMbDV0OTJBZHYzdnFmalAyR3dkY3A5REYwV05RYTZ2dDR2Zm56OVV1bmx3?oc=5"
+  },
   {
    "ts": "2026-09-25T04:31:00+00:00",
    "title": "News",
@@ -2133,13 +2140,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaENULW5RaHU5dWx6M3hzRXlyeFAybXFBRkMwck8yd01PWklLdk1RZ3JtSnpxWFl0bGVsd05IcEtkZUg3T1V1YWJpX3FTNnZZVHlaMnA1WjdjTGh6TmJrczJERXJpTXpPQVJuOW1vTmdSaERmUW1wSTJCanhmeG5haV9qRjNpN1VzektNekFpX21WdHBwZGxuanFhbWxyMEFQVmdEaUxqYlI4cDJrX294dl9YSQ?oc=5"
-  },
-  {
-   "ts": "2026-09-18T01:30:19+00:00",
-   "title": "5th Consultation on Shanghai Cooperation Organization Development Bank held",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc2JoOUJzajNjSzhzNzl0UFdQdGloVGFERjlGNlFuajR5M2ZPdllmdWg1T2NwTjVYTFdTd2ZiTW9neFJHMFFCWktUMllpbnpjUmRVMEtMNjNmeDF0OWF5SF9xZXpOMF9rWm9nMEpDajl6MDA1N256VGw2akk5OW9rVElFWGJ1MHdIcXBfU0xpMVhMb2ZScnByNzJ1cDg0WDM3b2c?oc=5"
   }
  ]
 }
