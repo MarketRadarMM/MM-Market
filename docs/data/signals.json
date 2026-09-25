@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-09-25T08:30:21+00:00",
+ "generated_at": "2026-09-25T09:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-09-25T09:00:17+00:00",
+   "title": "စစ်ကိုင်းနှင့် ကချင်နယ်စပ် လေကြောင်းတိုက်ခိုက်မှုတွင် ၈ ဦးထက်မနည်းသေဆုံး",
+   "source": "Myanmar Now (MM)",
+   "markets": [
+    {
+     "market": "pulses",
+     "direction": "bullish",
+     "confidence": 0.55,
+     "rationale": "Conflict in bean/sesame heartland threatens supply"
+    }
+   ],
+   "url": "https://myanmar-now.org/mm/news/81373/"
+  },
+  {
+   "ts": "2026-09-25T09:00:17+00:00",
+   "title": "Junta chief’s AI agriculture vision collides with realities facing Myanmar farmers",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/junta-chiefs-ai-agriculture-vision-collides-with-realities-facing-myanmar-farmers/"
+  },
   {
    "ts": "2026-09-25T07:30:16+00:00",
    "title": "- yktnews.com",
@@ -2126,20 +2147,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcndhUnhPSy1pOGQ0b3M5UzJrdGl5Ql9kTUxOM3Vvd3IxVUctTl9hSll2ZWR4LXFuMUhva01VQlJuVDY5LW9UZVJTMzV3eEJNWG5XQnBxejVZRk9HNkxrSW5CcjlXbXlXT3RQeUdTdFZ0SXFBNk95cUEyeW42Tk94X3FGV1pkay1HaEpmZ2QzRkp0V2IzdVhXTU1HR1Iyb3k1c2dUeUxMVEFBZmhRcXVMTkt3?oc=5"
-  },
-  {
-   "ts": "2026-09-18T04:30:16+00:00",
-   "title": "NSPNC and political parties meet",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ndkZZMVhkdGJKd3FpOEhPYVppYWRENGpkbnBRNVB5TjJ6djdZQzBFWVFkRVMtVTAtanVxUnRpT2NOWEprTkF3OG8wSkRHX2NJRHY5NEhHeFNxYkZVNHlEZE15RXZ5aGNK?oc=5"
-  },
-  {
-   "ts": "2026-09-18T03:30:19+00:00",
-   "title": "18 September 2026",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Bc0wxRjZkdVo4QTl0OHZCREVhZ3d0Y2xQX1NVMHdJZ1ZVa1duaVdzdS1sRFNZUEVnUm44LVZwZXJ2cjVLMEFiWHpXV3EzenBRN0g5Xw?oc=5"
   }
  ]
 }
