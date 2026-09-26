@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-26T12:30:22+00:00",
+ "generated_at": "2026-09-26T13:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-09-26T13:00:21+00:00",
+   "title": "Paungde hosts 129th Buddha Tooth Relic Pujaniya Festival",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcTFPeXdzNTdtWEVWRXQwUVdiT01YR185YjQtS0ZqRUQzY3daQ0VGQ19aektIN1hPSmRIYW9lUzAyME51WG41OFNYZkNYOUduVlRsM2pXNGN4dFVIMlJTOHNOa1lqTkt4MUJnZ3BzWEFZQ3BJSkJnTjR0YUlNelNWLXhRLVpkUFhN?oc=5"
+  },
   {
    "ts": "2026-09-26T11:30:16+00:00",
    "title": "ဘန်ကောက်မှာ ဘာကြောင့်ရေကြီးနေလဲ",
@@ -2153,13 +2160,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/cq783rz04mj3o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-20T00:30:17+00:00",
-   "title": "Specials",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VRmdZSm1lWGEyOE95eHdPNWNxeUdheGJYMWNCbVBZSF9DM2k3ZVpyOGJxLWRNTFFnSEFwZzByTVk0QXh0ZVUwM3phelJVaXZFaUpwOS1tam5hcUZZalE?oc=5"
   }
  ]
 }
