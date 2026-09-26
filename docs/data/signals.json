@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-26T14:00:22+00:00",
+ "generated_at": "2026-09-26T14:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-26T14:30:20+00:00",
+   "title": "Commander-in-Chief of Defence Services General Ye Win Oo gives instructions to officers, other ranks, families of military stations under Yangon Command",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVVktcGFxMW40LWZHZDlkT1lZMDNGVUNvaTFqQ0Z4eHY1TXNCY0VpZzlCQlN4MTA1N211VDJJZ09Ud0FiYmpVdi1BczlibGZudThZa2x2TXlMNkxtazVtY05LV1NPZDZPRVQzZkJWRG5MVGRqejQ3LVZnQ05Ia2FickJacGRNYzI1V2hDMlVrYXRhY0kxbGVQWVBhWWQ4NlhzYVJBQlI4cFozT0c2aXZKSW14X2hpNG1wSDUzZzU2WQ?oc=5"
+  },
+  {
+   "ts": "2026-09-26T14:30:20+00:00",
+   "title": "Final rites of the late the Most Venerable Chanmyae Sayadaw Bhaddanta Janaka Bhivamsa, State Ovadacariya, Maha Nayaka of Shwegyin Nikaya, Abhidhaja Aggamaha Saddhammajotika, Aggamaha Kammathanacariya, held",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbGh4MC1FR0p5MnhkcWpQS2lVSkpXZHlnRTBDTG4yTHNwX1hjOVNBQWhnSmxTaGhDN1FRbWR1Q1BoMlZmTTNkRVZOVld5QXBONFIyY0p6a1BvZGFzaHdVb0FmanJocGdLQ1Yzc0FWTDFCUS05SEN6MkFhdFlBZ0R4cjd3Rk05a2s3Y3VaUnhaZjFrcDhPdnZmZUp4SzdsT2xBUGEycjlsQkRhX3BzbHZzZkctMTRjbkt0YWg0bw?oc=5"
+  },
   {
    "ts": "2026-09-26T13:00:21+00:00",
    "title": "Paungde hosts 129th Buddha Tooth Relic Pujaniya Festival",
@@ -2146,20 +2160,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/c64gv8jp5nl0o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-20T02:30:13+00:00",
-   "title": "AI ဖွံ့ဖြိုးမှုအရှိန်လျှော့ဖို့ အမေရိကန်နည်းပညာခေါင်းဆောင်တွေအပြောကို တရုတ် ဘယ်လိုမြင်လဲ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cqkgxl72jpr4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-20T02:30:13+00:00",
-   "title": "ဘေကျင်း ရှန်ရှန်း လုံခြုံရေးဖိုရမ်မှာ မြန်မာစစ်တပ် ဘာတွေပြောခဲ့လဲ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cq783rz04mj3o?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
