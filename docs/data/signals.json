@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-26T05:00:22+00:00",
+ "generated_at": "2026-09-26T05:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-09-26T05:30:15+00:00",
+   "title": "Benchmark price for palm oil remains stable",
+   "source": "GNLM",
+   "markets": [
+    {
+     "market": "edible_oil",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "Edible-oil story — read for direction"
+    }
+   ],
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0taUlSTU9SakRwN0dKOFV0eXZsOWkxMjVSMktIUWRuNTQ1SHdaek9lclgwQ01rYWlNQ3llbFJ6eHl6MnJBU1MxbVE5UVBlX2VhSkVheG9reEVMUXVFbXliZXZMaTc5VEh2ajFmYUN5TlFsYmR2OE9B?oc=5"
+  },
   {
    "ts": "2026-09-26T03:00:20+00:00",
    "title": "၃၅ နှစ်အထက်ကိုပါ ပစ်မှတ်ထားလာသော စစ်သားသစ်စုဆောင်းရေး",
@@ -2146,13 +2160,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SWkh6MmJ2di1wc2ljemNhd2Q1U19neUNOdldRYlRhbmJRektnWFdENkE0dmNMNHdXOEQ5aXN3d0N4eG5YTGg1XzJQczk2d0k0MFpoRy1RQnFsc3hM?oc=5"
-  },
-  {
-   "ts": "2026-09-19T20:30:16+00:00",
-   "title": "Creative Thinking Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9aem5vQUxBQTNObkFoRVloUkdzSjI5LWN2anBtSk1pNU5nYXA5RVhHcGFHdXlwcG92S1FpZ2F0a0x5WXozMGFYTV9LUG15LXpPNUhPZVQ0NmY4cklWWmc?oc=5"
   }
  ]
 }
