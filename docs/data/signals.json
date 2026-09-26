@@ -1,6 +1,62 @@
 {
- "generated_at": "2026-09-26T22:00:25+00:00",
+ "generated_at": "2026-09-26T22:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-09-26T22:30:17+00:00",
+   "title": "Myanmar joins 4th Indo-Pacific Business Summit in India",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYUVXUURZMzdnMFNXVGhpc1VoemJHTFVmMm13clhKcGJtMkFIWUlOT29LTlk1cGZiQlBfdW5Hd2FlaS1DQ1kzTG5DUS1ZY1hkbjZGcVZsXzFWaEQ2bVJNWXItUXhaS05Qc1k3UVhCMlI5WmYxNjVwYmk1VmpJeWdjX2paWERvRVE?oc=5"
+  },
+  {
+   "ts": "2026-09-26T22:30:17+00:00",
+   "title": "Yangon unveils South Dagon Mall",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwWkFtZFlkU1gxaWxjUktkci1TNllaMjZYRVkxRXA4VFVReFBwLVZaRlMzcTlUOXRibndfb2l1NTdwdGpKVy16RkZod2lHaDdMOXB5Y0pZNHlmX1N3cWF2LXdITHpCTDA?oc=5"
+  },
+  {
+   "ts": "2026-09-26T22:30:17+00:00",
+   "title": "Crackdown targets black market tickets for Myitkyina flights",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaXZWb19pVXp2eFZEWVBiNjV6OW16ajFaeTF0aF9LeDJtZkpRcjBvRlF5eGw0ZWlzSVVmLTJmZ2pxcE9zb2pZaGpTVEhud1FaUVdVSkhwWHJhdlEwakwtRDBpcVlNNzd6Q0JjY3VlUXd6SkFrSlpBaFBEeW53VXYwVkk1WTFneWR6UjI3OFF3?oc=5"
+  },
+  {
+   "ts": "2026-09-26T22:30:17+00:00",
+   "title": "Hybrid Rice, Soybean Training Launches in Nay Pyi Taw",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWC1lQXYyU1pSdml2c3hSUGdvQVROYlFSSVQwZFhNTjBkaXBvaTRpWnRlN0ZKS0pHOEdNVEVoZmJiTUJ6c0NXQzZzbkJfb1pMZXljVTljcEVDVEJFUTlXM1gyTHdTSjRabERFRE5xZElydlBSUFB2UmtXTXNKS0ZBQTFoZw?oc=5"
+  },
+  {
+   "ts": "2026-09-26T22:30:17+00:00",
+   "title": "Employers, workers urged to cooperate amid false information",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOamRhMjhMZ1JHb0EzWVdsYTJGWExSTUV5Z0tXSUtGd3l5X08zX3VyUUNYeWhYVm1vZE5sd09DdkUwaU9LajM1U1RlYTFtLXNkcS1ZcjNseTJXMVNnZnRUZ0JfTEphcHZScG9oM0xoMHdMUl9heTB6SkgtSG90cklUeVY4UUlYdm1TYm1YVg?oc=5"
+  },
+  {
+   "ts": "2026-09-26T22:30:17+00:00",
+   "title": "Shwedagon hosts Garudhamma Day",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95NzNlVnUzWkxuMWZBWnc3ZzhBS1pNN2tLVmFuR1NCclNoVzM2Q2FPS3NZNjF3Qjl1WDE4aTB6MGxCbkw3RnZtNTRFUjNZeVFTcXpmLTU3dnVyY3FtWk5oRUFOYmdaUQ?oc=5"
+  },
+  {
+   "ts": "2026-09-26T22:30:17+00:00",
+   "title": "UMFCCI Calls Business to Join Global Trade Fairs",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9faGZqbWctVEQzS3liX0Z0TXZyRUZySzBOaDBQR0p4VzdXUDVlVzRqY2h1UEJ5VGhITlNtMFdzMzBpVTJ6ek0wNW5qakRSdUpMS1dva3NQbXVKcmxJNjNqWm4xYVRKNF8wSHZBc3ZJb2RGWS1aVms0YlFaLXFwQQ?oc=5"
+  },
+  {
+   "ts": "2026-09-26T22:30:17+00:00",
+   "title": "Recasting power?: Amending the 2008 Constitution",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbjcybDM4dWc2ZFBEUGJ4aVRBRlJUTjczeEl6T1NtUzV0cDc1LVZKS0s1ZXltQVRYMU9wTkRmNXZDWnowX3oyWDI3aDd2dkNrakRKYzN5YU82MGd6eXlJcnRqR2VpWm1MV3NRZGtFWEdhVDBON2pNbTJtTHlyeHIxbkdfQVdDZzU0OWc?oc=5"
+  },
   {
    "ts": "2026-09-26T22:00:24+00:00",
    "title": "MRCCI partners with Nanning CCI and CCPIT Nanning to boost trade links",
@@ -2104,62 +2160,6 @@
    "source": "RFA (EN)",
    "markets": [],
    "url": "https://rfa.org/english/myanmar/2026/09/20/burma-forced-conscription-human-trafficking/"
-  },
-  {
-   "ts": "2026-09-20T04:00:19+00:00",
-   "title": "20 September 2026",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ubHI2cTZYa0xSM2RKOFJ5d0tWNnU3bW1JdlNFNmNKeDFFWU5ybzMyVlVjN0Q4NzVvNDU5N2ZGSVFkdXJXdXl5UzVzSjUyNnVFc2JJbw?oc=5"
-  },
-  {
-   "ts": "2026-09-20T03:30:18+00:00",
-   "title": "Real estate associations hold executive elections",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkaUtJV2t6a2JuYjdIU3h0MTB1MlFwNjF4aS00d05qekd0NzBCeU5SUkdEc2lta3ZXUlhzeDB1UUVaQ0tJWDFFM3BNeGV2UlNHSjZaSFB3UEJIMUdXOC1ybUd0YUtEUm9Oa1p4VnBWZjRBTVlfTGdNY1JVWDVGZjA?oc=5"
-  },
-  {
-   "ts": "2026-09-20T03:30:18+00:00",
-   "title": "Ayeyawady bolsters flood defences in 6 townships",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wdzJBaFdfRjQtV1dUUnpvcEFRRDhXSjl3bkEwaEtGQTVDdE96WnRrLWplR2JhVGZVV2U5blJ5cmx0OEJBV290LUp2ZDRxQUN6WkJNX2pWUjQ3U3NBV0p5cWZLT3dtb095Z1VBdHVPdGswdG1nbmNLeWY4b1Bldw?oc=5"
-  },
-  {
-   "ts": "2026-09-20T03:30:18+00:00",
-   "title": "Kayin State Day Shines in Colour Photography",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByTjQ3dEJVYUFpTGxKR3IxMXpsVm9sOTROMFdWYU9zeVJfZ3VpSUhqeEtBZk54Nm93VmwwMlhXYl82aC0xWXY0QnVlbWxOa29kS0h3RG5kZmR4ZGRERDRmaDZDQmZpTl83QXF1MWo5bklHUEgzckZJcg?oc=5"
-  },
-  {
-   "ts": "2026-09-20T03:30:18+00:00",
-   "title": "World Bamboo Day celebrated",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lR21zWmdxc3cweVBxQjB6QjJ1dFpva1Jhd0hRRlFONHRKNTY5TnkxN2NSLUpsZFk5UUxjNmV1djlXRkpFcl9QNFo5NDh6N1Z3QzZwOFdPM1N5cUdSblI5SGpB?oc=5"
-  },
-  {
-   "ts": "2026-09-20T03:30:18+00:00",
-   "title": "IPD Grants 350 Industrial Design Certificates",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5uRW10RTB1TGxiZWwwSi1BTVBlemhYMjhRbzI3UVU0NFhDdWlOYzN6Q2JtaENVeEYzQ2NFTDdZTzhaQ3h2VV85b0M3WEQwRWJ5amp3bGlDdmM0Ulk0SVJBZHdfOFF1VWYzMzhGSDl0aDZJcmk4ai1FQzRn?oc=5"
-  },
-  {
-   "ts": "2026-09-20T03:30:18+00:00",
-   "title": "Kyaikkhami to host honey alms offering ceremony",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44QlV4NEFXN0NmQkduekVVTlZ5dHFfY015bng4d09sYS1Edkgzbjd2eFZyUmxrVW4xRTNDdFpWZUZRZVo0Q1RMRlp5Y0Fxa2dXTkZwNHVaQmhhRVN4LW1qQ2ZvejcwS0pPS01mNUR5TF9FSXpubTNRUndBQkk?oc=5"
-  },
-  {
-   "ts": "2026-09-20T03:30:18+00:00",
-   "title": "Venerable Chanmyay Sayadaw passes away at 99",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZMHJIV3BRUEtBYUNnZ0NTd1VQam50dWNvejVyZ0VXVzM5VUR2MzdhLTdPSTJVWmRLQk9DY0RBaTNINjZabFRIdGdlNGxKdFYweDJLWTFqZUlFNktRQm45VXdURXlqSlh5T0pOcTl2SXlUMzdiWWExZA?oc=5"
   }
  ]
 }
