@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-26T06:00:24+00:00",
+ "generated_at": "2026-09-26T06:30:17+00:00",
  "signals": [
+  {
+   "ts": "2026-09-26T06:30:15+00:00",
+   "title": "Campaigning Begins in Myanmar’s Junta-Run Election",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYktwRVNBTF8tM1M2SGJsNktNQ3F2TTV2LVZRU1dndVJVbXFUOUhIR3J0cHBHRjROY1RVZ1QzZFFta0xXbzRVcURsUTVvZWczVjhNcG5TRk1OUEJTdWZSVkVDOTFXX01iTVFoM1k1U25qNDEtMEhoQzdaeFdXNktGaGJPQlN1c3BpVWNCcENxdEotS3JFY1pLbkNn?oc=5"
+  },
   {
    "ts": "2026-09-26T06:00:23+00:00",
    "title": "CBM Governor meets Korean Embassy Chargé d’Affaires",
@@ -2153,13 +2160,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNVlJRGt1c2dNUXdMQnlwR0x3NTlIeThEQk8tdndEWlVCakYtTG1SNEdWSUF5TXVsWC1SS1V0cFBFSDl5Q1p0dUtTUUlPeF9kU1laclRxX0RlS2FlY25fLUZhZlVLeFo2clhhQVpGc21MbnBGaDVQOE9JczFPTEI3bmg5Yjc1cldsRDNZRDI1UUYtV0pYYkp2WHd3?oc=5"
-  },
-  {
-   "ts": "2026-09-19T21:00:17+00:00",
-   "title": "From the Archive",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XLTBEdEk0OWxzclVSaTlLb2RUU2lMV2NfRnlrRkw4UWhJZlhoemRBTXZZbDRHeTZka2VoQUdxOEl0R2JLcGQ0ZVRtZWdONHBiSUx3ZFNPdTMxMmUyUHhlSjZxd2hjUGx4amc?oc=5"
   }
  ]
 }
