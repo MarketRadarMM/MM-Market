@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-09-26T22:30:18+00:00",
+ "generated_at": "2026-09-26T23:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-09-26T23:00:20+00:00",
+   "title": "Ayeyawady’s Chief Minister instructs fast clearance of legal goods",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVGx4cld3bVdaMnd3dmYyMnhNNGFwMWhQQVBHRjR1dVdsQWxYUmk3YjdKX19ORWoyOEZrWE5sUk1reHEtQnFkMUY2a0VJcHRYRVlya285aURiWFlHaXRHWVM5Szg5WXVpNGNqdGJONG83Y2FJZXhndWowTWhJWlZnRUpMVWdob19xUFpxVUwwUE1rTGU1?oc=5"
+  },
+  {
+   "ts": "2026-09-26T23:00:20+00:00",
+   "title": "100th pair receive kidney transplant at Aungban’s Tatmadaw Hospital",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc0ZzZjRQUjBvR1lrMlhJNFV6endlTlFwNmYtQmJHcWpNazl6T0dCaHItZlBUcVdZcDhXRHFOZVl1WWpzMEJNNW5Hc3MxYVBEdXVnX01TaFhyamphR3A2VnFqajZOOHZfb0ZDNjBta3JseUh2U0FBakRhUWc3YklGeWNOTDRBR2M0NzRaeF9oRmJJTkxkSlE?oc=5"
+  },
+  {
+   "ts": "2026-09-26T23:00:20+00:00",
+   "title": "Pilgrims flock to Bagan pagodas on Tawthalin full moon",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaDJXVzV4alBLLTZBclNWS05wNW1NbjUzZm4zY0RyNGs2OUNVbXdqb1Y0Z1JJeU9rYlpjZVJwZXF2MTRQM0lzMWJWVEVfZXBlRUFrNzB6aEJtM2h0Z2dJVHRPTjFQeE9mcFhHeEdBQWZYUWtnUVMwWnlDYk5vcDkwU2M5bnp0QQ?oc=5"
+  },
   {
    "ts": "2026-09-26T22:30:17+00:00",
    "title": "Myanmar joins 4th Indo-Pacific Business Summit in India",
@@ -2139,27 +2160,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYWdLRmtfN001Z201aUxMSWpUbUR2Y1JnS3hEaEQ1ekoxRjZCaGFiYmU4VXBxZlNsbmZ1M0I3dWZ1ZE9tTThlclE1cUZNTDA4OE1obGZVa2MyVkZoTzVPWERkejZ4NVh0VlBrZ0xaSzFhamQ3TVc5WUNxVG9LYXVSVllNRFd3U3JBRXNOQ0h6cUoxeEQ5bFgxQXNwZ0pCc3BMeFZQaGFfZVhzWmFKV2hDdWZ4Mm42Zw?oc=5"
-  },
-  {
-   "ts": "2026-09-20T07:00:22+00:00",
-   "title": "Top 5 Tips for Social Media Manager to Help You Schedule Your Day",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQanRYWDFvM2pNX2MyWHhKelZ3dUQ1U1h6enQ1ZmtEVlhLdW5OZC1uSjVEV3BzLWZIOGxpdEgwZUItSm92cmRudmdVdG5tVDM2b2VXSW9EckJIaEI0d0pvaDA4cEtLNWlrMWlQcV9wM2psT21KTUJGYjNKTTNjbVhVSEZNT1JKeWRKcC1LR3VB?oc=5"
-  },
-  {
-   "ts": "2026-09-20T07:00:20+00:00",
-   "title": "Meth Production Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uQnhTUGp2cnV1VVltbFFibFlFWHRLRzVZWFA3YVFRMVc1cEs2ZHdKNlRNZTZPN2JaeWs3UmgyMDdZYkxERkVHVGJ2bXRzOHE0NERJbEU1RnM?oc=5"
-  },
-  {
-   "ts": "2026-09-20T04:30:17+00:00",
-   "title": "‘Modern day slavery:’ Myanmar’s military swells ranks through corruption and deceit",
-   "source": "RFA (EN)",
-   "markets": [],
-   "url": "https://rfa.org/english/myanmar/2026/09/20/burma-forced-conscription-human-trafficking/"
   }
  ]
 }
