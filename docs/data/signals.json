@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-26T21:00:19+00:00",
+ "generated_at": "2026-09-26T21:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-09-26T21:30:19+00:00",
+   "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing receives a delegation led by Cardinal Charles Bo, Chairman of the Catholic Bishops’ Conference of Myanmar",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZmZwcDhiRHFVNkUzOFhFTEdQNm9ZMFEyOHF4ckpURF80d21vT25DZU9fZldQOUxYb3lWSV9JMzhLSl9idlBFQk4wWDlpcHpJTjZWX3ZsMGVpM0VpWjIxZ1p6TEh3TjU2UU1CN2lIYkh6aWJuaFM3eXhVZV9mcGR0NTNjQVVuYzhqbUt4NHJHYXlNUW1wbFU0ckdCa29jYTJqWThHejlxSFhXeVBaLXdlTS1seHJwbTFp?oc=5"
+  },
   {
    "ts": "2026-09-26T20:30:14+00:00",
    "title": "Analysis | Mapping the Myanmar Junta’s Gains, Losses, and Stalemates Since Operation 1027",
@@ -2153,13 +2160,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUVZLSjVyTVZJbDZXQ3l4akNzMElqcm5TTXMtZU81R05BeDVhcjRKazl5R1lha2dvT09VMHBUdVRIZnZWRHR0aEJYTmhYVmNwcDNuT0sxUnkyS3kzRkg1b1NXV3A4YWh2OEJseEJkMmh1UjBDZEZHcXh0R1UwcTBXMVRTazlaSWdteko0MjFNTW5lUTZuZUV6d043dw?oc=5"
-  },
-  {
-   "ts": "2026-09-20T03:30:18+00:00",
-   "title": "Yangon police step up crime prevention measures",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8wNFJlVFhuekt4RlhuNnNNbC1hZTVrZkJCdG9MVXNndTJVemU0eGt2SXo5TFo0SVZCX3BkX0ViSEg3QzFuaDNVQTl1T2t0RFlZcmt5ZnFkNkVGVDAzQW1mTEo0VnR3R3ZnU1h4WHJGZllmMGRnQkt0Y1cxaXk?oc=5"
   }
  ]
 }
