@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-26T23:00:21+00:00",
+ "generated_at": "2026-09-26T23:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-09-26T23:30:15+00:00",
+   "title": "News",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UQ3FOa3RhU3dwRzViUnREZ1FXbXdnUFpFVzh2OTF3Q2Ewd3hHaFFRSDBBUnJEUHJxUEJ4R3M1NGp1SFdzOE54TUNrbkVhOEVyR3FWY3BoSUZha1E?oc=5"
+  },
   {
    "ts": "2026-09-26T23:00:20+00:00",
    "title": "Ayeyawady’s Chief Minister instructs fast clearance of legal goods",
@@ -2153,13 +2160,6 @@
    "source": "Khit Thit",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1zZzdpSEpaUTFRTHpCb0gzUWNDalZQQnhEVC10NlVNYi1QcUZtOGVnTFF4MXpoNlFWX2R1aEJPWTEzc3k3NUNtMFNqMA?oc=5"
-  },
-  {
-   "ts": "2026-09-20T07:30:17+00:00",
-   "title": "Passing out Parade of the Thiha Company of the 129th Intake of Officers Training Course of Defence Services (Army) Officers Training School (Bahtoo) held",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYWdLRmtfN001Z201aUxMSWpUbUR2Y1JnS3hEaEQ1ekoxRjZCaGFiYmU4VXBxZlNsbmZ1M0I3dWZ1ZE9tTThlclE1cUZNTDA4OE1obGZVa2MyVkZoTzVPWERkejZ4NVh0VlBrZ0xaSzFhamQ3TVc5WUNxVG9LYXVSVllNRFd3U3JBRXNOQ0h6cUoxeEQ5bFgxQXNwZ0pCc3BMeFZQaGFfZVhzWmFKV2hDdWZ4Mm42Zw?oc=5"
   }
  ]
 }
