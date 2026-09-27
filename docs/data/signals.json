@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-26T23:30:19+00:00",
+ "generated_at": "2026-09-27T00:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-09-27T00:00:20+00:00",
+   "title": "Myanmar face Cambodia in FIFA-ASEAN Cup decider",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zZFBBTGROZnRNWHdfdTg2YkJSanVRa29pV1dCY3pERHE5U0NWdDBFbzFvOWMtYUFuV01JR3p3NWc0RVh0WUJ0VzYyZzhGSmYzdmJlcm9HZnpGbU5XVWFZb2MwNWdqZEdPSVRFZ0VRVG9XeW1uclVrT1FsT0Q?oc=5"
+  },
+  {
+   "ts": "2026-09-27T00:00:20+00:00",
+   "title": "Wazira Cinema hosts Myanmar Motion Pictures Day, honours film elders",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVGxOZDNHY3daaldaYjRLc1FxM2Y4MGNBWEhZOUEtemdiLUh3RTdjUmpPN0RKQW9uZFJod3M5NGFuQmxhTmgzRlBFOC1HNXZvczZISkhLbVVuNDJuX2dSQWoyREltd2dkSmhaQk5pU2lhc1E5QXpHendQaUZCdDhadE9FLTRqZjVqa3NObUtNTVJPTl94ZWdj?oc=5"
+  },
   {
    "ts": "2026-09-26T23:30:15+00:00",
    "title": "News",
@@ -2146,20 +2160,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzMDFnQ2hCMmllazdSU2NBYm5EeUZ0U0lIRGM2ZVpBdW8zT1ZjQkFhMXdiS2tFeVBKc3NPX1VWNXhTUW0tbnhXTDhzZDZ1ZDE4TVJzN2paTU56Z3hOb3Z2OA?oc=5"
-  },
-  {
-   "ts": "2026-09-20T11:30:12+00:00",
-   "title": "ဂျော့ရှုဝါ ဗန် - UFC Flyweight တန်းကို ရေရှည်ကြီးစိုးမယ့်ချန်ပီယံလား",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cmqlw7qzg67do?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-20T10:00:22+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1zZzdpSEpaUTFRTHpCb0gzUWNDalZQQnhEVC10NlVNYi1QcUZtOGVnTFF4MXpoNlFWX2R1aEJPWTEzc3k3NUNtMFNqMA?oc=5"
   }
  ]
 }
