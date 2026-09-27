@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-27T22:00:20+00:00",
+ "generated_at": "2026-09-27T22:30:16+00:00",
  "signals": [
+  {
+   "ts": "2026-09-27T22:30:15+00:00",
+   "title": "Farmers allowed to purchase up to 15 litres of fuel daily for agricultural machinery",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY1l0M09lLTlNNGd3Ym5tdHVKbmwzdEl0YjN1SHpHaVVaODZ4Sm12bXhCVExETS11aEN6MVFaazBzZXJkMEx5NzhVbFh1a3lTM2JWYmhQZ2dzU1B6cWlPd3JROTc2cnpnb3E3TzI5RHhfSFpKNUlFaExJLUNXT05jWnIwVEdTT3pzcElMb1JkUXdDX1ZESXc4WmZVbG9zS1lMRHB6US1UOFhUcUlpZnc?oc=5"
+  },
   {
    "ts": "2026-09-27T20:00:20+00:00",
    "title": "Regime airstrike on school leaves trauma in its wake",
@@ -2153,13 +2160,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT081ZzY1MGYzeWdsN1RxVktYVjVXbUVlanZqWm1xSVFhQzBXYzdPd1VqSlR2TmtrZzQwdzFNc1FhSjM2U3BKMXM5S3E5cnRENXIwM0pDUVdzT1VyQU9XN0VnS0lfVHhSSTNRYjZSNUtTYzUtSjNkaHl2M0ZpNmo5Nl9STFRjUUFxakpzZnRnOWNPaFRuRDBDN3Z5WQ?oc=5"
-  },
-  {
-   "ts": "2026-09-21T10:00:22+00:00",
-   "title": "Chronology of the Press in Burma",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05cmlsRlcyam9tZVlHR2kzYzY3TDVaalNuN05PWi11VkxmTlNoQUVWbXFMLTFfQjBkNjJPdGh1dUpzbGFja2U0aTlCSDE4a2RTNTZkazBWb1JrWXpEbGlNa2p6UFMwTTA?oc=5"
   }
  ]
 }
