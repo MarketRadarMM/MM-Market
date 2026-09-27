@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-27T08:00:19+00:00",
+ "generated_at": "2026-09-27T08:30:54+00:00",
  "signals": [
+  {
+   "ts": "2026-09-27T08:30:54+00:00",
+   "title": "Entertainment",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtZklNUHNqcERtRENXUG1WU1dTUjZyYXEtZFJ3QU13SzFiZFBKWFRPcDc0a0VfR1oybF9FZFJZY0tEY3Zxa2JhRGY3cFdfMmZRRUFn?oc=5"
+  },
   {
    "ts": "2026-09-27T08:00:18+00:00",
    "title": "Basic sewing machine training concludes",
@@ -2153,13 +2160,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1haXgySk5iT0I3SldXN1IxenJKczN5dUZ1VHFISkFsd21DNWp6XzFtbEpXN1FqRWRlUmtDRnQ0UFQ0Ti0tMURwSlRJZVlTRTBtcnA1RmtQdWM4VjhIVERTaGl3U01NeU93ekZORThraUpmU2d2ckVqbA?oc=5"
-  },
-  {
-   "ts": "2026-09-21T02:30:18+00:00",
-   "title": "Vice-President-led Myanmar delegation returns from China",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTmJDemxlS0ZyaEdVbWc5SF92enpfQmRBOTFZV2d4T0VPRG5kblhqTUdPQ0dQeGRaeDRQQnYwY0hzMHU0S2FZX1FDRUtNOVhNWXZnMkYtcUpRYm5WVlNIQlFoR0czbDA5bmZnckU1NGVFSENuOEhJM3pTQkwzdXRZenRfd3lKVmlY?oc=5"
   }
  ]
 }
