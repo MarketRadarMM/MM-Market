@@ -1,6 +1,69 @@
 {
- "generated_at": "2026-09-27T22:30:16+00:00",
+ "generated_at": "2026-09-27T23:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-09-27T23:00:24+00:00",
+   "title": "Senior General Min Aung Hlaing attends 78th Founding Anniversary of Tatmadaw (Navy)",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQW1LNi1HRmdYdDBwdTJyeTluTGgtSmF2V0RaYmtjSEVSUGh1S3FjZ2FHSEVvOTZxTWg2cVk0dWFoY3Q5dWFsVlN4M0tHc045TmswaURoalNHdUlEcERDQUZYTnhRU2pjN3NIVmNVR2FlWUdMVkVJaktudDRVcWVGUGZST1FRckVnSWxualpEMEx5RGZGRTlhT1dXTmFnNE1uZXJuWm9oLUE?oc=5"
+  },
+  {
+   "ts": "2026-09-27T23:00:23+00:00",
+   "title": "Bagan to release 30,000 hot-air balloons for Thadingyut Festival",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOX3ZfNUp6WFlzdjNDNnlTdEt3TjBDT1BPMC11Z2h3Vm91TnRveU4wSDdISmhGblRTeW5vM0pXM0g5MkQ0dUtNeXNQWl81QURHQTlwM0hnUGVvaTF3WkctSDNDOVc2bUIzQXYwY2FCb1ZSQk1IcHZpVE91RkJWMTNhakktaHN5OUx5WTJwM0NMcThwZw?oc=5"
+  },
+  {
+   "ts": "2026-09-27T23:00:21+00:00",
+   "title": "Pwintbyu plants 68,338 acres of paddy during monsoon crop season",
+   "source": "GNLM",
+   "markets": [
+    {
+     "market": "rice",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "Rice-market story — read for direction"
+    }
+   ],
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOE5kcnNESTA5T0trOTJlQS1Qd0x6Y3dYNVQza0ZyQ3FDc0NsNk42Umw3VEM3bzFyQ29kZFRFOGs2c3dHb2paN3NCc3kwV2M1Z1JHYlZnMk03MVVRbmJoRlVDZnJSbHNlaTZnLUdzcEgzaTBnQWpGUHBlR0dOVHk2Z2d5cER1SjdSMVFoSEFtSzIwZw?oc=5"
+  },
+  {
+   "ts": "2026-09-27T23:00:21+00:00",
+   "title": "New Myitkyina checkpoint handles over US$2.6M in trade in first month",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRVJ0SjYzbEtJS2NWY1dSa3pNTWh3YzNnTnZNc3FhaVNENDdvS0Y3YWhqenptUjBkcTdYTkJ6bkV3bXlkdXhqemxHS3ZXNU1hc0h4MEdJTmNEQ2dwQ1VZVUtiUmxGWmxwRkVfdEczZnpwVUF3aGlTUDFpQnpCNlh6XzNlcFZmOWQ3Vm9OM2F6UWx2SlA2YjR1eQ?oc=5"
+  },
+  {
+   "ts": "2026-09-27T23:00:21+00:00",
+   "title": "Pyinmana’s MSY village project loans disbursed",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBiZzJrZDBqSEtxbjVJSDZPTTJpMC1VVVRJZ241OE1aeW5VdHU2WnhueE9lcWlmclNUZC1xb3RFT0JEaE9sVENQZUtJSWF2UE5RQVBJRlZSNlMwSEN0RFlVLUhsbmRLSW51dkVlUkJzQnI0NC05SmtBejd3?oc=5"
+  },
+  {
+   "ts": "2026-09-27T23:00:21+00:00",
+   "title": "Torrential rainfall causes flooding, landslides in Dawei",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZXVadDY1RnZ1RmtvbW1TbXJ0dEdvU014RHZKbUwydEZJWlZQTjczbGh5QTVpemJXRXZrck1oQzhIck9XZXZsWDlZd29nWHJrVkxUam5LSlBadUJzWHVRSUxQd1JYaFM4b2NkTTA4N01EZW1LNnJiTjlHRFdOdG5xTjVYTmJTb2s?oc=5"
+  },
+  {
+   "ts": "2026-09-27T23:00:21+00:00",
+   "title": "Pwintbyu harvests 6,775 acres of green gram",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQVUtCaXQzZXhtTkdXTFJnYWx1dEl6VVpua2VESFh1N05KSjUzd2lNLVh1VnhlMUt1RExhaldPY0JuUUREaTVJdlRkN1dLb3c4M2lQZWJBTlRLcmhkNUkxQWppRHVlRFdCd3dGWS1xd2I2djFPU1E?oc=5"
+  },
+  {
+   "ts": "2026-09-27T23:00:21+00:00",
+   "title": "Rector Sayadaw offers robes to 6,538 monks",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qVC1wTmpwQkZ4YVNCQmUyTTJ0QlROVm42Q3FnMTYyNmgzSy1YUGZTVnR1aV9NeWVlQjRmYWR0NUd4TkRKQ3FiZmlxeTFSQ3BjRmpPU2JOMzZrc09UQjZLeUtjMEZ1N1VqOTIxYVhJek01Y29m?oc=5"
+  },
   {
    "ts": "2026-09-27T22:30:15+00:00",
    "title": "Farmers allowed to purchase up to 15 litres of fuel daily for agricultural machinery",
@@ -2104,62 +2167,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbmVDbV9QeDFOYzFETV9YVGx2SGFqOGFtUmNXNEJQMVpKOTRjS0JzWk1pVW1jRlI4SWhmRkR5YjRfOEZtUTctSG5ZVmxNMi1nRWR0QUR6aVB6Zy0wV2VZUWVKWndva1dqUGY1MGpWTU42Q1NIall5ZXdXRGlPLXZoUnhWcHpIVTluQzZUYlNTM0VBRTB5ZlpXaTJvYlY?oc=5"
-  },
-  {
-   "ts": "2026-09-21T11:30:22+00:00",
-   "title": "Myanmar to get access to 5G services soon",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGWEhFcHRwQTYwdElCSURUZThEZDNBMzhubTI5cm9HSFBQVnJ2M21HaDNnNC10YlBZTTdiV0JPMlVVY0lmdGIxTnNCdE5CYnZTM0hwZmZzYXhxeWhzbXBOYTlFS1NuZ3lBLTFGSkRJdGxETWxf?oc=5"
-  },
-  {
-   "ts": "2026-09-21T11:00:16+00:00",
-   "title": "အခွန်စည်းကြပ်မှုနဲ့ အိမ်ခြံမြေဈေးကွက် အလှုပ်အခတ်",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c5yrypn5ryqo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-21T11:00:16+00:00",
-   "title": "\"ဝန်ထမ်းလို့နာမည်တပ်ပေမဲ့ ကျွန်သာသာပဲ\" – ကျားဖြန့်လုပ်ငန်းထဲပိတ်မိနေသူတွေ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c62mgrqg5jvo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-21T11:00:16+00:00",
-   "title": "AI ကိုထိန်းချုပ်ဖို့ ပိုခက်လာပြီလား၊ လူသားတွေဆက်ပြီး ထိန်းချုပ်နိုင်မှာလား",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cx2z5eggg0eo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-21T11:00:16+00:00",
-   "title": "ဗိုလ်ချုပ်စိုးတင့် - ကိုးကန့်က ဖမ်းထားတဲ့ လားရှိုးတိုင်းမှူးဟောင်း",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cdx7v2rq916o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-21T11:00:16+00:00",
-   "title": "စာတတ်ဖို့ခက်နေဆဲ စစ်မက်ဇုန်က မသန်စွမ်းကလေးငယ်တွေ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cq56n13g9zjo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-21T10:00:23+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMeHl1SHczTWxZWGJsRUV1elliamJwUkk4SlRULVBjbVVEMURvR1g1dGM3LVhlT2dlTEtFQ0lUdDFOSDR5dEFIUE9ROA?oc=5"
-  },
-  {
-   "ts": "2026-09-21T10:00:22+00:00",
-   "title": "ထွန်စက် Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT081ZzY1MGYzeWdsN1RxVktYVjVXbUVlanZqWm1xSVFhQzBXYzdPd1VqSlR2TmtrZzQwdzFNc1FhSjM2U3BKMXM5S3E5cnRENXIwM0pDUVdzT1VyQU9XN0VnS0lfVHhSSTNRYjZSNUtTYzUtSjNkaHl2M0ZpNmo5Nl9STFRjUUFxakpzZnRnOWNPaFRuRDBDN3Z5WQ?oc=5"
   }
  ]
 }
