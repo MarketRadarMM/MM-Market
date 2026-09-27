@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-27T09:00:20+00:00",
+ "generated_at": "2026-09-27T09:30:17+00:00",
  "signals": [
+  {
+   "ts": "2026-09-27T09:30:15+00:00",
+   "title": "News",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvZ0xFNGtEMWF5Y2lDU3kxa0hlY1RaZURmRkM1OEtaOG1FNm05SDhNZVhnb2ZEM04zeG1ZaFNIakxmNFdTWHVjZm9Sb29oSGxVLXZxeGsxQ1BPa2ha?oc=5"
+  },
   {
    "ts": "2026-09-27T08:30:54+00:00",
    "title": "Entertainment",
@@ -2153,13 +2160,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNenRhU0JQZkg4d2tzUUFGUFJTVVhudDV1eldyZDdEN29vTjVLWjdzVGt0ZkNiT0dLLThQT0EwUFZ4ZnhqV1FhbG84V201SF82Y3hWSmJhQlNVa0tOSDd3TWNONm55STdYRTcyVmJXUEZ1NVJmNVBENnI5aks4NlVxRHVkMDE0TkxUeHJZY09Hc2d1ZTU1d3E5ZHZEczV6Ym1FQnROeFVKTEotTTBP?oc=5"
-  },
-  {
-   "ts": "2026-09-21T02:30:18+00:00",
-   "title": "USDP holds 4th Party Congress in Nay Pyi Taw",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1haXgySk5iT0I3SldXN1IxenJKczN5dUZ1VHFISkFsd21DNWp6XzFtbEpXN1FqRWRlUmtDRnQ0UFQ0Ti0tMURwSlRJZVlTRTBtcnA1RmtQdWM4VjhIVERTaGl3U01NeU93ekZORThraUpmU2d2ckVqbA?oc=5"
   }
  ]
 }
