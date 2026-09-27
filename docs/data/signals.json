@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-27T07:30:18+00:00",
+ "generated_at": "2026-09-27T08:00:19+00:00",
  "signals": [
+  {
+   "ts": "2026-09-27T08:00:18+00:00",
+   "title": "Basic sewing machine training concludes",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFQmQwS2w1Z2FaMUhKNU12XzBFMFVEVDMzRHFtZ0FndUNCSWo1dFhuWTByMUdCRDkxa2lwQU1oQms2bThNU0IwNG80NW9mQmYxMFNqVDNiWndaU0dMZVQzUDVDalFRZjY3TVFzdlFadTA4dw?oc=5"
+  },
   {
    "ts": "2026-09-27T07:30:17+00:00",
    "title": "Mandalay marks World Heart Day 2026",
@@ -2153,13 +2160,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTmJDemxlS0ZyaEdVbWc5SF92enpfQmRBOTFZV2d4T0VPRG5kblhqTUdPQ0dQeGRaeDRQQnYwY0hzMHU0S2FZX1FDRUtNOVhNWXZnMkYtcUpRYm5WVlNIQlFoR0czbDA5bmZnckU1NGVFSENuOEhJM3pTQkwzdXRZenRfd3lKVmlY?oc=5"
-  },
-  {
-   "ts": "2026-09-21T02:30:18+00:00",
-   "title": "Large rockfall damages building and two vehicles in Taunggyi",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbzBXZkJ5R2RXbl9rSWt3bnFDdG5McW9jeTdINGswYnp5TWlVdTlFTnNDWVc3dm1hM1NKN21uSVlPamtTWVN1UlVGNXBkSy1pLUwwcGZ6TFFwOGhRTWFBTktsZllXLV82TnkwUW1RcW85eDUxSm1WWEp1cUxua1hFZkxqb3lpVkZsNFBjZ1NB?oc=5"
   }
  ]
 }
