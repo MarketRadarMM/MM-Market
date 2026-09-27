@@ -1,6 +1,55 @@
 {
- "generated_at": "2026-09-27T10:30:21+00:00",
+ "generated_at": "2026-09-27T11:00:25+00:00",
  "signals": [
+  {
+   "ts": "2026-09-27T11:00:24+00:00",
+   "title": "The Irrawaddy News Magazine [Covering Burma and Southeast Asia]",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95MnI2OXhqQlJRdGdFNHFsdE02SEVFZEZjN0lCazlmRVJfd01NeXhvWXhEUldUQzFzRVUyZklGckNRc3kxRmF6ZFJsZnhwYVdWUG1wQ2JVOEFHMm9XMURuQXZFR0VaSEU?oc=5"
+  },
+  {
+   "ts": "2026-09-27T11:00:24+00:00",
+   "title": "အမှိုက်သရိုက် Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPc3lVTHh5TjZjRGJselNFY3lBc24zeUJ6b3lhblhsS3pDeXY5OU5MOTlySmdaUENDbk9hTEcxQjIycXowdEFpSDEtWTJqZzk3a3kxQ3ZMczgtc0h1dVFtNFdIbFd3ZDdCTC15c1dCVEU3TWxxMWEtcTlSNjZDdE1kWWd6NG80YnUwTmVFWTIxUHo5U0FQVk5nR1VQZmlCQjZVZGtXRG5tLTVkRk9kMWNabUNxdWtkOUkteEQxRkJNTVQ1X1AwUDZyQmlQYmtNMy1VSzFQWUIySFhwcFFVVUh0cXlkZw?oc=5"
+  },
+  {
+   "ts": "2026-09-27T11:00:24+00:00",
+   "title": "Pa-O: The Forgotten People",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZNDE3UDlPVjFITjNRUmtCaTJYSUlWWDN1TFZOcnpSQ0VXQmhCb1lRZTlUM0U1MC0yLVBBOExTOGR5V016OU5Sbjhmc1k0ZUxsdk1wRWxvQXNoM2FubjY3V3cwUi03UQ?oc=5"
+  },
+  {
+   "ts": "2026-09-27T11:00:20+00:00",
+   "title": "မြန်မာက ဒုစရိုက်မှုတွေကြား ကျူးလွန်သူရော သားကောင်ပါဖြစ်လာတဲ့ရဲတွေ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c24jv4j3jj4o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-09-27T11:00:20+00:00",
+   "title": "ဗိုလ်ချုပ်စိုးတင့် - ကိုးကန့်က ဖမ်းထားတဲ့ လားရှိုးတိုင်းမှူးဟောင်း",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cdx7v2rq916o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-09-27T11:00:20+00:00",
+   "title": "ပြည်တွင်းငြိမ်းချမ်းရေးနဲ့ မသမာတဲ့စီးပွားရေး - ဘီဘီစီမြန်မာပိုင်း အထူးမေးမြန်းခန်း",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cmkg7v25dv6do?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-09-27T11:00:20+00:00",
+   "title": "\"စက်လှေမှောက်ပြီး ခဏအတွင်း မှောင်အတိဖြစ်သွားတယ်\"",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/ck7v4gn47pl5o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-27T09:30:15+00:00",
    "title": "News",
@@ -2111,55 +2160,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByNDFSR3FmYWtlR284YkJwTHNabXl5bHFtSlozZ2M0aWtUbDFVVXAtdkg2N2QyTDZHM2ZXSGY0Vm9qbTdsTFA1ck5ERTI0TFgyOG5xSVVOT1YxVkhnWXQyNTQ4Zw?oc=5"
-  },
-  {
-   "ts": "2026-09-21T05:30:15+00:00",
-   "title": "India court grants bail to US citizen accused of illegal entry",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/india-court-grants-bail-to-us-citizen-accused-of-illegal-entry/"
-  },
-  {
-   "ts": "2026-09-21T05:00:20+00:00",
-   "title": "President U Min Aung Hlaing and wife Daw Kyu Kyu Hla pay homage to the remains of late Presiding Patron of Chanmyae Yeiktha Monastery, State Ovadacariya, Maha Nayaka of Shwegyin Nikaya, Abhidhaja Aggamaha Saddhammajotika, Aggamaha Kamm",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS1MzdE1sMTJMNEU5MWtkSzVWcXRFYkR4V3FRLTFjSFpLY2o0OXNUUmJxZ0EwVnJaLUtvTzJ5cFRVUEtxQ3V0TENQeHFQd1pnelYwNHFRaFNBd200d3lzYnc5eG5pRnlIWm5tTjhwdkUwRTdoMHdMbU8xNjFUOW04X0pVVjQ4R1lkbnJja2tVNWU3Zm5TLVZ3MUhDZ1I1S2hVRkdpcnJjajBwM2ZUWGZMZGFBakpMR3c?oc=5"
-  },
-  {
-   "ts": "2026-09-21T04:30:21+00:00",
-   "title": "ဖမ်း၍မကုန်သော တရုတ်ကျားဖြန့်နှင့် စစ်တပ်၏ သံသယဖြစ်ဖွယ် နှိမ်နင်းမှုပုံသဏ္ဌာန်",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81260/"
-  },
-  {
-   "ts": "2026-09-21T03:00:17+00:00",
-   "title": "ကုလမှာ ဆက်ရှိရေး အခြေအနေတွေ သူ့ဘက်ပါနေတယ်လို့ ဦးကျော်မိုးထွန်းပြော",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.co.uk/burmese/live/cxnvlpm097l9t?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-21T02:30:18+00:00",
-   "title": "29,109 insured workers in Nay Pyi Taw Council Area",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VcjVzMGN0ZGdrUGpnS2MyOTl3T015QUQzSkhEQ0Y1bEoweWhUaS1Sa3llMGtkOTUyVWZLNXlBb1ZvdnJYQ0xiRW4tSDE4c3JGNHdITHhVZkI0TllTRmkyODlXMnlORmJRZ2MtY1Ryand5OHk0bWFfZGdNNUJxd00?oc=5"
-  },
-  {
-   "ts": "2026-09-21T02:30:18+00:00",
-   "title": "Myanmar Delegation Observes Russian State Duma Elections in Moscow",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUWNKT2xvaUU5c0FqNjRaWnJFSFlvUUhyUVdSUzlqYXVLZG52TnNMLXNTdnpaM2RzMzVreDRtRUk0cWhWUGFxOGM4R3d6aERNMWF6NVB6YUpsNjIwamJwc3lWSWE4SWRQWWZQTi1hWHdIU0UtN2xfUm1GeFAtQXJVYVdINjc3Tzkwb011UlhPSjRXMGRVUFE?oc=5"
-  },
-  {
-   "ts": "2026-09-21T02:30:18+00:00",
-   "title": "40-million-year-old fossilized molar of new mammal species preserved in Nay Pyi Taw",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNenRhU0JQZkg4d2tzUUFGUFJTVVhudDV1eldyZDdEN29vTjVLWjdzVGt0ZkNiT0dLLThQT0EwUFZ4ZnhqV1FhbG84V201SF82Y3hWSmJhQlNVa0tOSDd3TWNONm55STdYRTcyVmJXUEZ1NVJmNVBENnI5aks4NlVxRHVkMDE0TkxUeHJZY09Hc2d1ZTU1d3E5ZHZEczV6Ym1FQnROeFVKTEotTTBP?oc=5"
   }
  ]
 }
