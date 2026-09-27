@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-27T05:00:24+00:00",
+ "generated_at": "2026-09-27T05:30:23+00:00",
  "signals": [
+  {
+   "ts": "2026-09-27T05:30:22+00:00",
+   "title": "KIA Blames Myanmar Junta Airpower for Bhamo Stalemate",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPd3Y0OTc4RHBVdVVmdjFuNVVfUXlSTDFWdWRoUW0xNVJ2eW5UMjhtYkswY29PWXpKNHFvZGxmaVd4S2pDbzVjdGRpOUhmdjIxM05nRUkzTzdQLXJWbmRCZzJOLTNDaWN4eGx0NzZxNFdEaU1XQ2lvbjF0WWdTREZ4ckZPT080XzlLdi1XRXNsVW5mT1hJdTZPaUd2NWxDYTc5MktNWDBkM1JjUGFiZ2dmVA?oc=5"
+  },
   {
    "ts": "2026-09-27T04:30:17+00:00",
    "title": "Threats to maritime security must also be considered as national security issue",
@@ -2153,13 +2160,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fZ21adVd3UWhWbm5hbVJHVkNjN1RYRjFhSndpWGFKTU41bzVKT1FlWHRGd2dMdjhBUndxZzBBaXJidWtRRHBfOTVaNUZnZDZxbnAyMU5tT0ZVUQ?oc=5"
-  },
-  {
-   "ts": "2026-09-21T00:00:19+00:00",
-   "title": "News",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1rbENHeUwzV3NOSXZHdFpZS05QYkI0UlRxUDhPdENSdHFJWmlfQmJIV2tVaVpVc1BEUHlBVTRJYmtnS0pMY3pkNHNpZy1fdTliajRvWXpjZUR0RVV0?oc=5"
   }
  ]
 }
