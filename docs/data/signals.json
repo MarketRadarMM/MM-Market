@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-27T19:30:18+00:00",
+ "generated_at": "2026-09-27T20:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-09-27T20:00:20+00:00",
+   "title": "Regime airstrike on school leaves trauma in its wake",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNnppY2hld2JpUWVCRGVHVk1ySlZTNThZMDBqckplckhjYmR4VkVEenA0ZG5uUG02X0xsZm4yUWJTcDBRRlVLbWQwYnV5Nm1ZanAzelU0alFrTW5FZHJ6aEVOWHlXcUhQSjlfSmlIQnY2anBYV3B0NXllQU5pNDZlQXY4VU1JdzlRZ3ZEaGZkWGd4QQ?oc=5"
+  },
   {
    "ts": "2026-09-27T19:30:18+00:00",
    "title": "Commander-in-Chief of Defence Services General Ye Win Oo meets officers, other ranks and families from Thanlyin and Dala stations at Thanlyin Station of Yangon Command HQ",
@@ -2153,13 +2160,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05cmlsRlcyam9tZVlHR2kzYzY3TDVaalNuN05PWi11VkxmTlNoQUVWbXFMLTFfQjBkNjJPdGh1dUpzbGFja2U0aTlCSDE4a2RTNTZkazBWb1JrWXpEbGlNa2p6UFMwTTA?oc=5"
-  },
-  {
-   "ts": "2026-09-21T10:00:19+00:00",
-   "title": "Myanmar worker dies after fleeing Thai police raid at Bangkok-area construction site",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/myanmar-worker-dies-after-fleeing-thai-police-raid-at-bangkok-area-construction-site/"
   }
  ]
 }
