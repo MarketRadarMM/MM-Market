@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-28T04:30:21+00:00",
+ "generated_at": "2026-09-28T05:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-28T05:00:18+00:00",
+   "title": "အောင်ဘာလေနှင့်လမ်းခွဲပြီးနောက် မြန်မာတို့မျက်စိကျနေသည့် ဘတ် ၆ သန်းချစ်သူ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81421/"
+  },
   {
    "ts": "2026-09-28T04:30:18+00:00",
    "title": "တနင်္သာရီတိုင်း လောင်းလုံးတွင် ရွာ ၂၀ ခန့် ရေကြီးနေပြီး ၁ ဦး သေဆုံး၊  ၁၅ဦးထက်မနည်း ပျောက်ဆုံးနေ",
@@ -2153,13 +2160,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZNi1qNWRqM1R6Qmc0STAxNmhLa2NRcmJwYWI4TlU5aGxUa25CWW1LOWVzU0JwNlNpZHhZTG1CaUFNRGpjWUpxZmQ5blZac2NMN0hGb0ZtYXlLSi1HLWhVZWppWGw3S3la?oc=5"
-  },
-  {
-   "ts": "2026-09-21T14:30:18+00:00",
-   "title": "Emergency Repairs Underway Along Eroding Toe River Embankment in Nyaungdon",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT1ZvMks3MVlwVE1OZmtaRVZTcE0zbTFaRC1SMU5ZSWpvWVI4a3J1N2E5dm9MZmJ3Y0xnbDRiTENUS2o3Y1ZMQjZ1eHAzN3A1R3pUUUhYU244Y3B6SnRseWVRdElRdHJwRE1DYnRGUjRFVjRydzBmaFRpekcwRjItWGhjRERSYVZvWGV5ZW42Z3NESVFVSXFtRno3a2FBSG9H?oc=5"
   }
  ]
 }
