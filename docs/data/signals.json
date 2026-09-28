@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-28T12:00:32+00:00",
+ "generated_at": "2026-09-28T12:30:22+00:00",
  "signals": [
+  {
+   "ts": "2026-09-28T12:30:18+00:00",
+   "title": "At least one dead as villages flooded in southern Myanmar’s Tanintharyi Region",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/at-least-one-dead-as-villages-flooded-in-southern-myanmars-tanintharyi-region/"
+  },
   {
    "ts": "2026-09-28T12:00:30+00:00",
    "title": "At Least 13 Killed in Floods in Resistance-Held Dawei",
@@ -2167,13 +2174,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9leEdybE5fSC1pSzFGR080UnE4alc5MkI5aEkzalR2WkJLa1pIbzNmSlhPSVFMd1FQQ3hzbXBYdnZ0bFp0bGpQSkNyX1dDV200SW5XS2ZYbjFHa28?oc=5"
-  },
-  {
-   "ts": "2026-09-21T22:00:24+00:00",
-   "title": "uab Bank backs long-term clean water solution for flood-hit Laymyethna",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVGVjUmgxMFdLTEhwT3d2T3hsaWdxUTcxSDBOZk9pTlRuWEc3UnV6YmVVLW1wN2NKRV91eWJrSVVndm1qMXVpOTBYQVlyOVpYbEdrY1JOU2xlVk1yWEloWU5VYlU4MmcyRXc2LU85Q3N3ZG5BWWMyUlV1U3pMSkZ3YjlMUGp2Rm1oUG9Ob2xkaVJvX3RTUUU3ZDJ0QQ?oc=5"
   }
  ]
 }
