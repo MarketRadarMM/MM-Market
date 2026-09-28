@@ -1,6 +1,34 @@
 {
- "generated_at": "2026-09-28T10:00:23+00:00",
+ "generated_at": "2026-09-28T10:30:24+00:00",
  "signals": [
+  {
+   "ts": "2026-09-28T10:30:24+00:00",
+   "title": "National Interest, Culture and Tourism",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81amxQY1Rsam0wV1BYOXI5RHlZT3d5SVRmajFOT3FPeFdacUJuX1NvcV9CQ3VQbUR0Qk9OckNvVnNwblRZZ2VmZ1hHank4OEFoM014RnkyYVVuakp5TUJKLXRWSkJKT3NmVlNJUWRpdw?oc=5"
+  },
+  {
+   "ts": "2026-09-28T10:30:22+00:00",
+   "title": "ကျောက်တော်မြို့ကို စစ်တပ်ဗုံးကြဲ ၃၄ ဦးသေဆုံး၊ ၄၀ ခန့်ဒဏ်ရာရ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81495/"
+  },
+  {
+   "ts": "2026-09-28T10:30:19+00:00",
+   "title": "Airstrikes by Myanmar’s military kill eight civilians near Sagaing-Kachin border",
+   "source": "Myanmar Now (EN)",
+   "markets": [
+    {
+     "market": "pulses",
+     "direction": "bullish",
+     "confidence": 0.55,
+     "rationale": "Conflict in bean/sesame heartland threatens supply"
+    }
+   ],
+   "url": "https://myanmar-now.org/en/news/airstrikes-by-myanmars-military-kill-eight-civilians-near-sagaing-kachin-border/"
+  },
   {
    "ts": "2026-09-28T07:30:54+00:00",
    "title": "Kokang’s MNDAA Joins Peace Talks with Myanmar Regime",
@@ -2139,27 +2167,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQzlJdkJ3c1dpMjZncGFRX055NTFIQUFQV05ia0xCa25yN2ZrSzVsVGhBNnlIMXduY2FYVDdrd1FHVUpKN0FYUTdqZjlSTkRaakdyeHE2cmdJaUQ0YkpCNVo1WUdvNFgyMFhUX3hqMFhldEw5X3UyUS1iTFFoYzM4WW9FTE1jczBmUHhYekRRMHllX3kyQXZMN0w0UGdRRERyQm45amYwUXlGOUowTnNN?oc=5"
-  },
-  {
-   "ts": "2026-09-21T20:30:16+00:00",
-   "title": "News",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pUVFYaW81U3dmc0g2NmlWQ2VIQW9SVUl4cmN6U3dSZjV6aVhzaFN5RklVUlNscjJnVC1PRG5NUG43THdTNXl0a0V0V0Y1TUc2R2FsOGFURFZPLWU0SkE?oc=5"
-  },
-  {
-   "ts": "2026-09-21T20:30:16+00:00",
-   "title": "Business | Myanmar Shadow Government’s Crypto Soars After MEXC Exchange Listing",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNExTNzVpNkJfSXIwMmhHNm50eDh1YTUzMXJPVDA2SHM4SHV1aVFUY0E1WF96MEJZY0dZV0N1OUZJaS1jaGotMEprNGdHOTNmSG02UFVqME41M3BqV3ZmcU5zR2hJRmxubEI1TUJGUkpyZ2V0OWFocDlSdzNNLTNqdmJDTTdiR3FVa0pVbjJoTnRJTHUtVmI1ZG5ES3VpYmE3TVlBZVM0Z05jMFE?oc=5"
-  },
-  {
-   "ts": "2026-09-21T19:30:20+00:00",
-   "title": "News",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yXzZkTmNrbHRKaGFIMXc1Znp0QmQ0dEpibnRNcFIya0xua2NkSkFnRUdpSERIVVBPYUpuS0xMQ1AzaHhnY2tFMHM4NG9HNW9CZkl4U3FoTThqSTBZVlE?oc=5"
   }
  ]
 }
