@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-28T11:00:29+00:00",
+ "generated_at": "2026-09-28T11:30:17+00:00",
  "signals": [
+  {
+   "ts": "2026-09-28T11:30:14+00:00",
+   "title": "ကျောက်မဲတွင် SSPP ပစ်ခတ်၍ TNLA ရဲဘော်၂ ဦး သေဆုံးမှု  နှစ်ဖက်တပ်များ ညှိနှိုင်းနေဟု ဆို",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81502/"
+  },
   {
    "ts": "2026-09-28T11:00:25+00:00",
    "title": "Myanmar Regime Intensifies Airstrikes Along Kachin-Sagaing Supply Route",
@@ -2167,13 +2174,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wUWhCMnVRSHZFcEJsbHRZdXRMRWM4SUQtVV9jbEpoUjQ0SkFnb0hBV0w5RklfYWVoaFMwUXJPM1Q3NWVXUXVwaERsdlo0Smw2NWxyOUttWVQ2OS1vYUdxZQ?oc=5"
-  },
-  {
-   "ts": "2026-09-21T21:00:28+00:00",
-   "title": "22 September 2026",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45clA0WWxXVm93QnJxVms0X3QzaVdaVVJHbHRxQkM2ckl2Wm1GTXVfLXZSN1NKODVTTWtIc2JWQXYya0Q3MExFUWl4ZWNYY3BtbTR6WQ?oc=5"
   }
  ]
 }
