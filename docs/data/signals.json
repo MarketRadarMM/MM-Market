@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-28T11:30:17+00:00",
+ "generated_at": "2026-09-28T12:00:32+00:00",
  "signals": [
+  {
+   "ts": "2026-09-28T12:00:30+00:00",
+   "title": "At Least 13 Killed in Floods in Resistance-Held Dawei",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQakwyazNybDc2b2hpcWRwUFNFb1ZwR09jQWFCTUVfbk9HSEdOT3RhNUd4ZUQwOFdwYktmMlE1dTV6VTBINGd6S3V1cEgybHBvc2hYOHBmUWFNSVVnVTBNYUpNZjZqZFl3a2VpM0VZUGxURnI0MWFFV25RX2ZBbnY0LVFBa0FEOUxzU2dzSW9aN29pUV9JX2ZESnlxaw?oc=5"
+  },
+  {
+   "ts": "2026-09-28T12:00:29+00:00",
+   "title": "နှစ် ၃၀ အတွင်း အဆိုးဆုံးသဘာဝဘေးဒဏ်ခံ ထားဝယ်ကို စစ်တပ်က စစ်ကြောင်းထိုးနေ၊ ကယ်ဆယ်ရေး လုပ်နေပါသည်ဟု စစ်တပ်ဝါဒဖြန့်",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81509/"
+  },
   {
    "ts": "2026-09-28T11:30:14+00:00",
    "title": "ကျောက်မဲတွင် SSPP ပစ်ခတ်၍ TNLA ရဲဘော်၂ ဦး သေဆုံးမှု  နှစ်ဖက်တပ်များ ညှိနှိုင်းနေဟု ဆို",
@@ -2160,20 +2174,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVGVjUmgxMFdLTEhwT3d2T3hsaWdxUTcxSDBOZk9pTlRuWEc3UnV6YmVVLW1wN2NKRV91eWJrSVVndm1qMXVpOTBYQVlyOVpYbEdrY1JOU2xlVk1yWEloWU5VYlU4MmcyRXc2LU85Q3N3ZG5BWWMyUlV1U3pMSkZ3YjlMUGp2Rm1oUG9Ob2xkaVJvX3RTUUU3ZDJ0QQ?oc=5"
-  },
-  {
-   "ts": "2026-09-21T22:00:23+00:00",
-   "title": "Microplastics Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12TVRvdi0tOV9BbmM5b0VLcVl0a1c0T0t5RVhFVkZiMm9BYnhPZDJJTnJjOWhMYUxPTUZ1emxEeDVIMjNpc2V3NEczNnhpM2xDbWJ2bG1TejM?oc=5"
-  },
-  {
-   "ts": "2026-09-21T21:30:53+00:00",
-   "title": "Latest News",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wUWhCMnVRSHZFcEJsbHRZdXRMRWM4SUQtVV9jbEpoUjQ0SkFnb0hBV0w5RklfYWVoaFMwUXJPM1Q3NWVXUXVwaERsdlo0Smw2NWxyOUttWVQ2OS1vYUdxZQ?oc=5"
   }
  ]
 }
