@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-28T03:00:22+00:00",
+ "generated_at": "2026-09-28T03:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-09-28T03:30:15+00:00",
+   "title": "မိုးများလို့ ထားဝယ်မြို့ပေါ်အထိ ရေတက်လာပြီး နေအိမ်တွေ ရေမြုပ်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.co.uk/burmese/live/cq70dp1p14jxt?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-28T02:30:18+00:00",
    "title": "Nyaungkhashay Checkpoint inspected",
@@ -2153,13 +2160,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM1NOVzhKSzRWT2dyemVpeDJMRTVLa3NyV0ZKWHlNWVJEVllKblJjMEQ2aE0zakowcmRXQTVHeXk5NkhNSnZWTEhTLXNCS3NOS0M2ZEVNZGh1ZWotcVpUc0lfcWN3dHRETlY4NlFjbWFzR3p4X0ZpZzFSbGtkSGZsajE2cnZmMThzR2ZMMkdfaHJmQmtDenFkUVFEbVRHa0JLUmhVdQ?oc=5"
-  },
-  {
-   "ts": "2026-09-21T13:00:25+00:00",
-   "title": "Regime Troops Ordered to Kill All Civilians in Rakhine Counteroffensive: POWs",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbHNOT0dHc2ZtVE9HRGE4TGFVRnluR0p0TkZ2dkd1alJEcVd0VDF1NGRiRk9oeVB4LTUyX3J5MGROTmdvY1MxaGxvMTM5dzY5YmNXYlpUNXhNYXVHVEptdnUzWXNreHAyZDFqVU1fbXZRZUVGUzQ1SnJfS2hISThkQUFac05vQVVCSHVlRjI5a2RZQ3hra1Rsc0piaEdjM1l0OG54aUQ4OGpVQm10ZzU3eFphbjBFSVMyZEE?oc=5"
   }
  ]
 }
