@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-28T10:30:24+00:00",
+ "generated_at": "2026-09-28T11:00:29+00:00",
  "signals": [
+  {
+   "ts": "2026-09-28T11:00:25+00:00",
+   "title": "Myanmar Regime Intensifies Airstrikes Along Kachin-Sagaing Supply Route",
+   "source": "Irrawaddy",
+   "markets": [
+    {
+     "market": "pulses",
+     "direction": "bullish",
+     "confidence": 0.55,
+     "rationale": "Conflict in bean/sesame heartland threatens supply"
+    }
+   ],
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSlF0bTdVN3ktVkdtdEJNODkxVl9hS0VIWHpQb2FzeHgyVkIxdjFzMXpvaXEzNUEtaVlQVV9jd0ZvRFNGN2toek5lYmliNE1adnZGRGFlSmdNc3o5WHdlNEFTQXpuVG9QWUp5cG8tVnAxcW5MX1hhaFNRWHN6OFMtYUx4TVhRZlV2RFBVRUF2aHZtRGIydU5VX3IxNnpLb1Fnb3c4bmdfcjdjaC10MURUOTU5UQ?oc=5"
+  },
   {
    "ts": "2026-09-28T10:30:24+00:00",
    "title": "National Interest, Culture and Tourism",
@@ -2160,13 +2174,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45clA0WWxXVm93QnJxVms0X3QzaVdaVVJHbHRxQkM2ckl2Wm1GTXVfLXZSN1NKODVTTWtIc2JWQXYya0Q3MExFUWl4ZWNYY3BtbTR6WQ?oc=5"
-  },
-  {
-   "ts": "2026-09-21T21:00:27+00:00",
-   "title": "Junta Suddenly Restricts Myanmar Migrants’ Passports to ‘Thailand Only’",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQzlJdkJ3c1dpMjZncGFRX055NTFIQUFQV05ia0xCa25yN2ZrSzVsVGhBNnlIMXduY2FYVDdrd1FHVUpKN0FYUTdqZjlSTkRaakdyeHE2cmdJaUQ0YkpCNVo1WUdvNFgyMFhUX3hqMFhldEw5X3UyUS1iTFFoYzM4WW9FTE1jczBmUHhYekRRMHllX3kyQXZMN0w0UGdRRERyQm45amYwUXlGOUowTnNN?oc=5"
   }
  ]
 }
