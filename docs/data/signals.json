@@ -1,6 +1,41 @@
 {
- "generated_at": "2026-09-28T19:30:21+00:00",
+ "generated_at": "2026-09-28T20:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-09-28T20:00:23+00:00",
+   "title": "Terror Mine Rips Bus, Monks and Civilians Slain",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ORG9tM3dqZG50WEtCNFhpVkNRRWVPTllMbVpnWDBRcVpWbjV5NnV3dXQtaTBqamUxQ255YXNwWTJlVDBOVGRPS2xFaVJzMjNaeWI0amFnbWZPcF9lR3BzbDNpeHFlQ2VBNHZ6VG44eXA5NU1BLVhMeDRtUQ?oc=5"
+  },
+  {
+   "ts": "2026-09-28T20:00:23+00:00",
+   "title": "Financial supporters of CRPH, NUG through PRF website arrested",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMUJBalBJZEJ6emVPSWZUczh2ck5qU3FJWmQ1M3ZyXzdHeFRLUFlIQ0JLakszUjJoNnR3X0t1eGlrRDNrT1k1ZDlId3BWbTVWVlhwdWswOGxUVHRXLXV6VllxZ2VsOGdCU05ZM0ZlT1lzVFY3ak9raVJrbGtaZjZvRDBJY2FNXzh6Rk9ibF9mSQ?oc=5"
+  },
+  {
+   "ts": "2026-09-28T20:00:23+00:00",
+   "title": "Tatmadaw Columns Retake Sinswe Village Along Kamamaung-Papun Route",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVkNwS2tUSk9FQTRCaUJQQ1F6anhFd29nSzBteERkUVhWWUlEcGR6VWpwV1RYY3U3dElBbGloajktZ2EwejdycjV5dlctMWZrcTFMTkRGVl9VckxtNUJjTGwtb0Vlelk5dXRzVlNYbjRHcHhLU19fcG1pak9IUU90cnBhaXcxQzlNR2JmZ2FOWm1iWUlQRlE?oc=5"
+  },
+  {
+   "ts": "2026-09-28T20:00:23+00:00",
+   "title": "TTI offers export business startup course in Oct",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB4SXVITE0tbnFpaU4tTTl5RGg2S0xsb0lRZmVSd2xrcXBNcXl2M1Y0WHJFc01ZZ3JwZU9fUWlqbGwzcmNRa09HTnlYRUhGUlZJTmljNUZld2xZdUlVZENyTUtyOGVVMXdPMHZhSVpjTTJncVlSTUlwSGRHaldjdw?oc=5"
+  },
+  {
+   "ts": "2026-09-28T20:00:23+00:00",
+   "title": "Is sanctioning the Arakan Army logical?",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2ZUxvOXM0bEx0YnZqLWttTENOR2pwQ2N3ZFVJaFFMMkhGTGhJS3VadE5yeTVMbFk1akpEMnlva05uSGlPY2hYTVNYRzB0cGRwa0dfQjhpT0NQVzhPcjhiM3k1RmNOSnJ0clJnOW0zaHNpN2NqMmRra3Y5X2wxWWM?oc=5"
+  },
   {
    "ts": "2026-09-28T16:00:24+00:00",
    "title": "Continuous rains cause flooding in Taninthayi, submerging over 40 villages",
@@ -2139,41 +2174,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/cm3eqxndkewlo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-22T11:00:18+00:00",
-   "title": "Myanmar Regime Seeks Military Cooperation in China, Belarus as Losses Mount",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMnprNk5xM2R3N3IxYnF6SWlMY2hBV0NDTG01dkVXRDBLdHMyM3JmN1BMdGJuZnR5b1BubjVxanN2Ry1wYTJmQ2VhOVUzVV92VFl0T3FwbHJKSlJTMk4wYUtla1NDemRWeEVrdDluRXNsd2ZJNTZraEI0WnNuYWd5YTNKR3ZZRVpmTmI2T1c3MFJaYzdGVmhMRDlncEhQdjNkN0lWWkdmblcxU0RTWFdYbUt0SC1jeE0?oc=5"
-  },
-  {
-   "ts": "2026-09-22T11:00:18+00:00",
-   "title": "Myanmar Regime Seeks to Conscript Students",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOVhYX2lBLXN6a1VtZ2djSjdELTBSYmluZXNSSWJ1cXRha3VXYU1yeVJJLUt5WlNDb0hNSWlUMUpHNVMzc0xTYVdTN0QtQ2laOVJ6cUw2UGZJSUl3UGxXcWRvMWtpYUc1aUFBSHdKRHRCTXlCVWtSQkx6bmZxenRNYU9PR2p5REUzRVRUYQ?oc=5"
-  },
-  {
-   "ts": "2026-09-22T11:00:17+00:00",
-   "title": "ပုဂံတဖက်ကမ်း မကွေးတိုင်းမှ ရေနံထွက်သည့်ရွာကို စစ်တပ် ထပ်မံထိုးစစ်ဆင် မီးရှို့",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81287/"
-  },
-  {
-   "ts": "2026-09-22T07:30:19+00:00",
-   "title": "NSPNC, Political Parties Move to Fast-Track Peace Efforts",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYVlQOFN5NUpGY0xiMlI3RXVna2lfRE5MSUdBNVFRSXFKbElzZXg1VXNCV0FNWWpJQ0YtUmh2WXBYY3BIX0JBWWNyM1NoT2VXaVJja1VDRlJhOTNSWkI2SEpMaEY4ZUk4TXFnTlFQTWhRMmJQd3JBMWFDNGFNWG5mTUMtM1I2QTl3?oc=5"
-  },
-  {
-   "ts": "2026-09-22T06:00:19+00:00",
-   "title": "Battle for Sittwe flares up as AA advances from Ponnagyun",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/battle-for-sittwe-flares-up-as-aa-advances-from-ponnagyun/"
   }
  ]
 }
