@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-28T20:00:24+00:00",
+ "generated_at": "2026-09-28T20:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-09-28T20:30:20+00:00",
+   "title": "Junta Ramps Up Promises to Locals Over Myitsone Hydropower Project",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYkZMLWFUd0V4ck5EVnN2QnV1Zms1MEh5TXZsRDAwTGFQY1lTZHhZNlBvMkh0eEZWR0pGVTVQcldRNmZtMEN2NXo1SUNzbl9BLVduZk1Oa2gtSHlRamNWTUUxZUVLWkVlSlNyZ21fWlc4d181dllRS1dmZmpBdWRVTjgwS2VjSFpvZzFvTjE1a1JuZjVnNk12bzJ2UzN6MXJiOFJsNlltZTVzc0tJ?oc=5"
+  },
+  {
+   "ts": "2026-09-28T20:30:20+00:00",
+   "title": "Listing of Conscription-Age Women Spreads Across Myanmar",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcXdpSUNPdWxMUktZMFFkcXZmNVJUd1RhdDFmNWlGQUlKWXFhQnlIdWZRR3BtN0kwdDJsOGlmc2pqbm0yQ2l5cEU1ZDdHdWNPVW9ua0JScXVXZXFrRFFjYmxoOW9GWWJDR2FxUkJXWDhDTUxpZ2hGaUlGMkJoZnJLN1pjRTdQOEp5RHZDZnY5OHYtRGE5a0NaZUJCUDBYRzQ?oc=5"
+  },
   {
    "ts": "2026-09-28T20:00:23+00:00",
    "title": "Terror Mine Rips Bus, Monks and Civilians Slain",
@@ -2160,20 +2174,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ab096ZjhFeXpFbXdEQXYxRDNaWEc3WkstNEE1OGhHWW4zTnRLU1VBYUhDUmNfUlYtQlliVEtRVmZmVW5CNmQtMS1jTFJIa2E2cVZRS2NhcGRvSXh1MGxVU3RSTUJIZGNBRXRRYjIwbzJWR3lxNWtEWg?oc=5"
-  },
-  {
-   "ts": "2026-09-22T11:30:16+00:00",
-   "title": "ထိုင်းအစိုးရနဲ့ စစ်တပ်တို့ရဲ့မြန်မာ့အရေးအပေါ် သဘောထား",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/ck4gjy297rn5o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-22T11:30:16+00:00",
-   "title": "မလေးရှားမှာ တရားမဝင် မြန်မာတွေကိုပြစ်ဒဏ်တိုးမြှင့်ချမှတ်",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cm3eqxndkewlo?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
