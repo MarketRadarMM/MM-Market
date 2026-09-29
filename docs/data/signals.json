@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-29T09:30:23+00:00",
+ "generated_at": "2026-09-29T10:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-29T10:00:17+00:00",
+   "title": "Kyauktaw market airstrike death toll reaches 49; Arakan Army vows retaliation",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/kyauktaw-market-airstrike-death-toll-reaches-49-arakan-army-vows-retaliation/"
+  },
   {
    "ts": "2026-09-29T08:30:20+00:00",
    "title": "Everyone’s problem: Rare earths, toxic waters",
@@ -2160,13 +2167,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUkxFZHhYZzRYNkRVZUdJSjlUZmJDdW5iUDJBTTJXS1NpWllhUWh4bllIMUxHVFMyYnkwdjItRlltcWFpNGw3NVpvdGszZnJ5ZjdCRXgwUFk5dEdjRlRfY1RXaEVZSVA2TnFVeXVfbF8yYmN2VTJMZEdDQ3dsWm9vRjJLbldhamVlZDlqUw?oc=5"
-  },
-  {
-   "ts": "2026-09-23T08:00:23+00:00",
-   "title": "MRF President joins AFC Dream Asia Foundation meeting",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTlRFYm9TQ1dmallHVGQzdDZ0VXhVOEpKZzBjcHN1NXhHdUdvZVBDVHp5WTFsVktHVWYwa2NidTMwamdnVGdEeDZLdXloOVE3c0Z5YjUySUUyVXlfS05jMjQ2OElVdG5YcHJRZVZBeFBDWFRmNmx5cDBkVWY4NGNMZnhuS3o?oc=5"
   }
  ]
 }
