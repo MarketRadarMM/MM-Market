@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-29T11:00:25+00:00",
+ "generated_at": "2026-09-29T11:30:22+00:00",
  "signals": [
+  {
+   "ts": "2026-09-29T11:30:18+00:00",
+   "title": "ထရမ့်နဲ့ ရှီ ထိပ်သီးဆွေးနွေးပွဲ - အရေးအကြီးဆုံးကိစ္စတွေပြောဖြစ်ခဲ့ကြလား",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c3ew9eqvk1exo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-29T11:00:22+00:00",
    "title": "မိုးမိတ်နှင့် ဗန်းမော်တွင် တိုက်ပွဲများ ဆက်ပြင်းထန်၊ စစ်တပ်၏ စခန်းအချို့ကို KIA သိမ်းပိုက်",
@@ -2167,13 +2174,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSTBFY2oyVzFSaHVJc2VKd19lbFJuelU4cHpKejZ6VnhMeEY4STJVT1padmRQU1pNRmtCOW1weExzMmRCdkJtTGhrZ0FaT3BxSUxEbVJ4eHRCMFNBNTJrM0ZOODcxQ1ZVTTVjUWdzSU5EYXZENGxybzRYY2JQaU50ckU5YmRTbHZnbmVkOUJrRmhtVFJuZTQzejQ2UTItUjh1b09tNU0yU29WZEo1M0M0?oc=5"
-  },
-  {
-   "ts": "2026-09-23T08:00:23+00:00",
-   "title": "Kengtung’s MSY project funds disbursed",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DbU1tZnVEQUVPeFRoNWVBZ3dzaVVjZWpnVzhCNnpwQlU3MEhWUS1nWUVtQm1rR0E5ZXRwNXRNekYzU09tRm1ReHRLWmw0WHcxMlZ3RGVQVjIyZG5wZ0R1dXlVVGd4MGZqR0ljSmFPbw?oc=5"
   }
  ]
 }
