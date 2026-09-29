@@ -1,6 +1,48 @@
 {
- "generated_at": "2026-09-29T14:01:06+00:00",
+ "generated_at": "2026-09-29T14:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-29T14:30:19+00:00",
+   "title": "US Embassy announces health and humanitarian aid package including Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWjNyTi1fZUVWejM0TUVLZWFYRm41eUtwZldwTU1PblJkUEJOMHhsZG5Hbi14enhySG92aFpiU3l4M3RfMHUzWTFWelk3UWJ2UXE1dmd1V0VFS3dyMHg0T3lHOXZpV043WFgwekx3ZDk2djlQS1ZCTzdydmZzTXZDUHIwUF85U0t0U3BIOUVYSnFYQXBHNlBINU93bm83b0Zr?oc=5"
+  },
+  {
+   "ts": "2026-09-29T14:30:19+00:00",
+   "title": "Preparations underway to build 250 MW solar power plant in Ngwesaung",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaGF6Q1pHUXBkYzBMb3VxTm5iYllyVlNSMXpBQTgzcXhNQ3RpQVJNdnNlaXZpcHJfeFhjY3ZLQW0xUl9iRk1JZnJ2RDZDX3l3Y1NFZnB0dTZTZDUwV2tCSUh4bG43MzVBZHp6NjlDRE9HT2VZVmJiVExfamowZHZiQ1p0Rjl5MVhmemZuSWc2MnlEeURtZHRsTw?oc=5"
+  },
+  {
+   "ts": "2026-09-29T14:30:19+00:00",
+   "title": "Workers’ Hospital in Htantabin to offer hemodialysis in early October",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXczSUlfZDg1MmpwRlVIZ3pGS0lmQ3hzTGdJNGVmZjJJVHd2SnBrRExOZEtvMGxGSVBiMkxLckFCTko4dGIyeUxNUUhZZF9HU0VfMktEWUFRZWcyN21XNVo5RzNya0NzSER6b3BjVDZPZzBYd0VHdGkwRk1vQnNESmxGT0xyTU9EZXM1NDdQeTBQS1c1dUhmTA?oc=5"
+  },
+  {
+   "ts": "2026-09-29T14:30:19+00:00",
+   "title": "Metal roofing sheets donated for quake-affected communities",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVUxkazl0TFA4UGJLeTBXODc3YmtDLWJaQU90aVI5WllrZzFIUHFLT3FMM1lDNUdVWHo5V2FfSkNmR1B4eHpkeHdER09rRzQxR1BDUFlXb0NuVm96OTE5VWxLMHVEQjh3RU4yZWZBVHctYXFISDF4WEE0Y3VjYVBaY3RuRkk3Y3FFN3lhYg?oc=5"
+  },
+  {
+   "ts": "2026-09-29T14:30:18+00:00",
+   "title": "Overseas Remittances Become Lifeline for Myanmar Families Amid Regime Misrule",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMTlfQW1GTmJXUUthQ3RwV00tQ0dUYXZJQ1h0UE9RVG9COGlDZ0FXOEpBLWxTMW5JRElRMU1CTi1VOERWbVZLR256MTN2bzZlY0JRUVVtWFZoN3lQeUEyN3pTR3EyVy1YcGs1VHVyUUNoN0Z3NDZyYVI0RjNaanZVMlJlZ2U5Z0hSRkhSR0puSEdQSTdwckRjaGxJSFN6WVkwRl9hcVRJb01LaTJXdVFqNzFpVm1RNm9EX21Z?oc=5"
+  },
+  {
+   "ts": "2026-09-29T14:30:18+00:00",
+   "title": "Editorial | Regime Responds to Natural Disasters by Increasing Violence Against Civilians",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOU0yc013Tmhnck5TV2Y4YUNoN2ZRMDNwM01CUnM1dW5hTjR5R09fWlUwbE9QYkFwNUFqVnhNc21SVzZiNnlsWEVrTW9QYXZRbU9URG5ZLVlFRFA1VzZpYVFxbEJVazRrWnpPTWVHaTFIRXNVYURGWHdVcVIwaFhoRWtOeEowLVl5eUNuUi0zWUQ3WDhZTEkya3J2aHBSc3I2VUswZkNJekhZYVpxdUNMSXh1WUozM3lpTnhROFBkRktjeWpK?oc=5"
+  },
   {
    "ts": "2026-09-29T13:30:22+00:00",
    "title": "Radio Free Asia builds on major milestone with new chapter ahead",
@@ -2132,48 +2174,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcUMxUFgwRWtTZ240VGlZaFBqVW4tV2gwa25OSlh5dzJlOHNUOW8xeENZcWxFMFBhejlycmlDQUhvMkRDQjFGSnUtU1ZTQ3gwUmFWcWVCU25KOFRJeGQ2SU5NR0o0SDZEY1hNaDJpQVZ2Mno3Z19nYmZKTVBoRUQtMHd3bFg2OTA?oc=5"
-  },
-  {
-   "ts": "2026-09-23T09:00:21+00:00",
-   "title": "Public awareness training for fish farmers conducted frequently",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZXJNNURFSnNxUnhQTHQ1VzNwMTNoNE1JcFpWTGJCMXpJU0RIcXM0QlAwX3ExaHhvWXYwMEdzaVFJTkdNNnUxUVpzb054aC1zQ1VvbTBGcm9ZZFJIYjV2bjFUUGo3bnpJWWJZRGdiZ0swRjNLX2EtNUk4QXRQNUE2dU9Id3hRWHRrUDFfa2VVdUtSUQ?oc=5"
-  },
-  {
-   "ts": "2026-09-23T09:00:21+00:00",
-   "title": "Myanmar delegation attends China-ASEAN Expo in Nanning",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQ2dWOFFac3pSbU0wQ2s3T29GTGxLZHRyVHMxMzhwVk5BNHJyNDhVbW81Z0pNclNRZVRYZTRjbWpaSVAyNGpzRjdtREJiM1FrZDJiNDVzeVJyMGo3ZFJTT09nZ2lydFdRdVJvUnMySF9nYm5lMWJZYldLMm0ya210Z3VTeXRldw?oc=5"
-  },
-  {
-   "ts": "2026-09-23T09:00:21+00:00",
-   "title": "MoE Union Minister receives Indonesian Embassy Chargé d’Affaires",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbi1INnJ2dmNqY0RUaXEyZkhPMDZ6ZlhZZUg5c3ZOZGNidUp0UDFkQ2MySHk0WlhKOE1PNktzSzRFMHJwdTQ0N3BBVW9jZzBadWcyM3B0d2ltSHFNYmJlVU43N0c2Rng2QWdleFZSaVdhV2Z6UGlQVzVZMWxIZ2RVS05rNEt3dTF2bmVORFZJMkUtQQ?oc=5"
-  },
-  {
-   "ts": "2026-09-23T09:00:21+00:00",
-   "title": "Police beefs up security in Yangon Region",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NMnhqTnJUZjF2ZXBLXzlBSk9EVU1IcmNldmJXemxtVFh1X3h2RmZ5X0ZhSktGV2FHaGtVRGlueU9hWkpMdk9ROVZzM1lFVWlZakUtRU9leFdoVG9xaXd0THNfZ3BUMUUxTUY4S2Rlbi10SjZRakdv?oc=5"
-  },
-  {
-   "ts": "2026-09-23T09:00:20+00:00",
-   "title": "News",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xRm1nd3dnTUgxMnIyZjlfWkVrbjFFaWhELXdNWmRibzRTQTliTGpqSTFjN1ZjdUNVRnNldGEwR0swWEN2Umg0UHI4TkJfM2NhRU5nQThUTnNHeVJM?oc=5"
-  },
-  {
-   "ts": "2026-09-23T09:00:20+00:00",
-   "title": "အမြန်လမ်း ၁၁၅ မိုင်စခန်းအနီး ကျေးရွာများကို စစ်တပ်တိုက်ခိုက်၊ ဒေသခံ ထောင်နှင့်ချီ တိမ်းရှောင်ရ",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81316/"
   }
  ]
 }
