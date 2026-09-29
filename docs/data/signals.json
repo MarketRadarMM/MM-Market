@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-29T16:00:22+00:00",
+ "generated_at": "2026-09-29T16:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-09-29T16:30:16+00:00",
+   "title": "Interview: What Is the New Spring Revolution Alliance?",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMUR0WmJyN1ZiNTNhNDVUZl9nY0JnelpyX1R0bXJvMUlCX2ExNElFalpuVi1SS0k4N0hqRXp5dU5TSWZVSy10VFpiMVRLX0hvWGNJYlI2MXFXWW1uM0pzQlRSM0d4cHFUa2VGbXVqczZfSTRBOWpXX2FKaDlPSElGUXNpUjRvYW9qZmFvcnhnY3g4YlVjMThXQVFLZGk0V2FHaTFLaGN3?oc=5"
+  },
+  {
+   "ts": "2026-09-29T16:30:14+00:00",
+   "title": "စင်ကာပူက ရေလှောင်ကန်မှာ မိကျောင်းရှိကြောင်း အေအိုင် ပုံဖန်တီးခဲ့မှုနဲ့ မြန်မာအမျိုးသားတစ်ဦးကို တရားစွဲ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c8x2zrneqkvzo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-29T16:00:21+00:00",
    "title": "Min Aung Hlaing’s interview",
@@ -2160,20 +2174,6 @@
    "source": "Myanmar Now (EN)",
    "markets": [],
    "url": "https://myanmar-now.org/en/news/myanmar-junta-torches-oil-producing-village-in-new-magway-offensive/"
-  },
-  {
-   "ts": "2026-09-23T09:30:22+00:00",
-   "title": "Red Cross distributes drinking water in Laymyethna",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUjgyOFJOUkF4cUljalBVUTlNeWtBUldMdnktOFVHLXlaeGlVSWI2VXRtNDlsRjJnT0kxeXhMXzhKNlFBcVRYUTFYUWg3X1V2RUgyRHBQMkZDMjZIb3l6SVM2aURMcHlzQkVYdjFsWllSNFBkZ0JPdWI2ODdha29fRQ?oc=5"
-  },
-  {
-   "ts": "2026-09-23T09:30:20+00:00",
-   "title": "News",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52ZmxCVXVGTFhUSDVqdjVjSkZNNnNKM0hfSkJLOExjTDlaX2pjR2FPZU5vcVhqNHEtdWxrYU1peGtSb2JJTnVLdkU1Y0dTUC1LR1l4bEtJQThjOUd3?oc=5"
   }
  ]
 }
