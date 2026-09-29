@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-29T02:30:20+00:00",
+ "generated_at": "2026-09-29T03:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-29T03:00:18+00:00",
+   "title": "ထားဝယ်ခရိုင် ၄ မြို့နယ် ရေဘေးသင့်မှု လူအသေအပျောက် တိုးလာနိုင်",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81518/"
+  },
+  {
+   "ts": "2026-09-29T03:00:16+00:00",
+   "title": "ကျောက်တော်လေကြောင်းတိုက်ခံရမှု သေဆုံးသူ ၄၉ ဦးရှိလာ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.co.uk/burmese/live/cm2kwld0dn47t?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-29T02:00:20+00:00",
    "title": "The Heartbeat You Didn’t Hear: Myanmar’s Silent Warning Signs of Heart Disease",
@@ -2160,20 +2174,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeXJMUlAyYWlGSm9ZeHNUNGdlUUdHak5pVUU0cVVtaGhmQUlnNDFTLXR1U1kzXzZ0NWZHZjZ1M0x5U3gtNGVzYk9iUVdJb1UxcllmVHlmUmZmb1RRUEVKcEpXWFNIMl9PYkNPWUN3MFFOdGRuR3Q4b3BFUFBhT2NQZGg3ZG03UlRhbmxNci1PNTBJTGh2Y1dUZzR1TG50cEtVQ0MzQTNXdkEzcDZ3QjdybnNLMm1JSzlZX0gzdVNaTS1YS3kw?oc=5"
-  },
-  {
-   "ts": "2026-09-22T15:00:30+00:00",
-   "title": "Residents say Philippines’ Pax Silica Hub will force them off their ancestral land",
-   "source": "RFA (EN)",
-   "markets": [],
-   "url": "https://rfa.org/english/southchinasea/2026/09/22/aeta-philippines-pax-silica-tech-hub/"
-  },
-  {
-   "ts": "2026-09-22T14:00:20+00:00",
-   "title": "ဂျော့ရှုဝါ ဗန် - UFC Flyweight တန်းကို ရေရှည်ကြီးစိုးမယ့်ချန်ပီယံလား",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cmqlw7qzg67do?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
