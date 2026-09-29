@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-29T15:30:20+00:00",
+ "generated_at": "2026-09-29T16:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-09-29T16:00:21+00:00",
+   "title": "Min Aung Hlaing’s interview",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YSHRoaEhzWUVYMVp0SFd2NkJ4cEd4QzBXWlNYUE9ta0VEU0s4REVXQS1ZLVhDZ0M1QjRFN21RSzh4Y09mclhGUG56clJQcGxEMDkwLXozb0RvVnA0TkRFSUFQUVdoZVRZSGZEWF9Fbw?oc=5"
+  },
   {
    "ts": "2026-09-29T14:30:19+00:00",
    "title": "US Embassy announces health and humanitarian aid package including Myanmar",
@@ -2167,13 +2174,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52ZmxCVXVGTFhUSDVqdjVjSkZNNnNKM0hfSkJLOExjTDlaX2pjR2FPZU5vcVhqNHEtdWxrYU1peGtSb2JJTnVLdkU1Y0dTUC1LR1l4bEtJQThjOUd3?oc=5"
-  },
-  {
-   "ts": "2026-09-23T09:00:21+00:00",
-   "title": "National workshop on agricultural development concludes",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcUMxUFgwRWtTZ240VGlZaFBqVW4tV2gwa25OSlh5dzJlOHNUOW8xeENZcWxFMFBhejlycmlDQUhvMkRDQjFGSnUtU1ZTQ3gwUmFWcWVCU25KOFRJeGQ2SU5NR0o0SDZEY1hNaDJpQVZ2Mno3Z19nYmZKTVBoRUQtMHd3bFg2OTA?oc=5"
   }
  ]
 }
