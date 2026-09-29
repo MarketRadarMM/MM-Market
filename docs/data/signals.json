@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-29T07:30:19+00:00",
+ "generated_at": "2026-09-29T08:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-29T08:00:18+00:00",
+   "title": "ထောက်ပို့အဖွဲ့ဝင်များ ဖမ်းမိသည်ဆိုသည့်အခြေအနေကို စိစစ်နေဟု NUG ဆို",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81533/"
+  },
   {
    "ts": "2026-09-29T07:00:22+00:00",
    "title": "Import permits granted for 34 EVs through old-vehicle swap scheme",
@@ -2160,13 +2167,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GbVBONERjbzl4MVl5QnBVUmt5S2hUeGtpcVd1RlRJSTNNZjdPZUpSMnFGanNfUjFMb195S2Ricl9jMXIxbS1xR1UzRS1NbzdxNEJadUNvNUVsS2R5WDRveEtaNlRFTk05T0h1U2hhSkQ?oc=5"
-  },
-  {
-   "ts": "2026-09-23T08:00:21+00:00",
-   "title": "ပြင်ဦးလွင် ရတနာပုံမြို့သစ်စီမံကိန်းဧရိယာမှ ဘုန်းကြီးကျောင်း ၁၄ ခု ဖယ်ရှားပေးရမည်",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81310/"
   }
  ]
 }
