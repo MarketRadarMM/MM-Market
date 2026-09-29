@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-29T10:00:20+00:00",
+ "generated_at": "2026-09-29T10:30:24+00:00",
  "signals": [
+  {
+   "ts": "2026-09-29T10:30:18+00:00",
+   "title": "တော်လှန်ရေး အားကောင်းသည့် စစ်ကိုင်း၊ ကရင်နီနှင့် ရခိုင်ကို ၁ ရက်အတွင်း ဗုံးကြဲ",
+   "source": "Myanmar Now (MM)",
+   "markets": [
+    {
+     "market": "pulses",
+     "direction": "bullish",
+     "confidence": 0.55,
+     "rationale": "Conflict in bean/sesame heartland threatens supply"
+    }
+   ],
+   "url": "https://myanmar-now.org/mm/news/81542/"
+  },
   {
    "ts": "2026-09-29T10:00:17+00:00",
    "title": "Kyauktaw market airstrike death toll reaches 49; Arakan Army vows retaliation",
@@ -2160,13 +2174,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zQjZOaGY0ekUzZlRVbUdwejVrLVZ6Qzd0b1pCSkNuV3MzbjJCX3pmUXo3MW9EVGctM1N4NXA5OHRlbnB5VjBWQTFzVnVKcVVROFVBamZMajAyYTBrbGxjci1kSDNVNVByS3l2Tg?oc=5"
-  },
-  {
-   "ts": "2026-09-23T08:00:23+00:00",
-   "title": "CDF terrorists attack blood donation event at Haka Hospital",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUkxFZHhYZzRYNkRVZUdJSjlUZmJDdW5iUDJBTTJXS1NpWllhUWh4bllIMUxHVFMyYnkwdjItRlltcWFpNGw3NVpvdGszZnJ5ZjdCRXgwUFk5dEdjRlRfY1RXaEVZSVA2TnFVeXVfbF8yYmN2VTJMZEdDQ3dsWm9vRjJLbldhamVlZDlqUw?oc=5"
   }
  ]
 }
