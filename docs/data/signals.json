@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-29T21:30:18+00:00",
+ "generated_at": "2026-09-29T22:00:28+00:00",
  "signals": [
+  {
+   "ts": "2026-09-29T22:00:25+00:00",
+   "title": "UN not involved in repatriation",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jMnVUTlRmQ1RYTU1NQnMtczhIVTNTUzU1ckZHemcyRlVXS3pUVzktOWE2X1BybVRKajYzb0xvZnhjeWFDVEVaYURfZDUta0ZyZXlod3lsUURaOGdjcmJaMzJINnBFUFB2RGtHTkFqWEQ4Q0ZacUE?oc=5"
+  },
+  {
+   "ts": "2026-09-29T22:00:25+00:00",
+   "title": "Flights halted",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82Sk5WSkt1NmVNZDBHVzBNbEhiRnVqZnlzS2RqZUd2c0VmTDl4VW5OR29fY3RVMDFHZVdRdEo2Z0lIbE1yQjJoVjJXSGVLR1gwWVZodE8xZWFncEtYVlc4?oc=5"
+  },
   {
    "ts": "2026-09-29T21:30:17+00:00",
    "title": "Illegal hand-dug oil wells of PDFs seized in Pakokku",
@@ -2160,20 +2174,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcHpndEFfcDcwelRsNDdhUVFMbVpBa2lPZTBYTGpVTEVGdElZVWFYbmFsZjFxSEIzREdyLTU2VWhUZTZsWldFVDZiTWpWZ21PQ01oeDJVQXBTMVE0U1NVNGhud1FJLXlmbFA2UTNjVHFJZ2VsblJTOWVDdklZNXNRS0ZzSzZ5bUV0clZjQjc4U3Q1ZEJuLWFuVFh5eUlEb2twQ1VLOWNBSQ?oc=5"
-  },
-  {
-   "ts": "2026-09-23T12:30:21+00:00",
-   "title": "Vice President Daw Nan Ni Ni Aye attends reception marking 77",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeGY1QVRzd1NmVnlva1BRS1BtcnI4TnhMVXFPM19pRkhvUENZaDNIY0RULVVXZHB3dUNRTWtMQ003MDhhYTZyLXh3b1h6amw1bXRCc0hqM1NVOXlzM2RIcGxxYWU3RjNGWV9KNEpmYWx4U1BySXpSZGNBRDNGLUlNODdxOFNkUnNvM1U1Zk5Ec0ZnRXlLTXoyR0FBdW1SLWlkNTFHeHc1QUJlWHpEODFXY0Y2VzZEUQ?oc=5"
-  },
-  {
-   "ts": "2026-09-23T12:00:23+00:00",
-   "title": "Real estate transactions hit a sharp decrease",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBoWUN6UnhVSFB4T3ZpaXhGcGp4TTlNMmlxY2tSeVBKQUw1UjBpSnZQQ0V4ajg0TU5VZ0Nkd3owOTNuazF1TWRKMEYtUXRIY3plcHNDcERhc1BEVFIxWnFHZmNadF9xUlRlSHctc1RjbHctR2ZHSFNCQm53?oc=5"
   }
  ]
 }
