@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-29T10:30:24+00:00",
+ "generated_at": "2026-09-29T11:00:25+00:00",
  "signals": [
+  {
+   "ts": "2026-09-29T11:00:22+00:00",
+   "title": "မိုးမိတ်နှင့် ဗန်းမော်တွင် တိုက်ပွဲများ ဆက်ပြင်းထန်၊ စစ်တပ်၏ စခန်းအချို့ကို KIA သိမ်းပိုက်",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81547/"
+  },
   {
    "ts": "2026-09-29T10:30:18+00:00",
    "title": "တော်လှန်ရေး အားကောင်းသည့် စစ်ကိုင်း၊ ကရင်နီနှင့် ရခိုင်ကို ၁ ရက်အတွင်း ဗုံးကြဲ",
@@ -2167,13 +2174,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DbU1tZnVEQUVPeFRoNWVBZ3dzaVVjZWpnVzhCNnpwQlU3MEhWUS1nWUVtQm1rR0E5ZXRwNXRNekYzU09tRm1ReHRLWmw0WHcxMlZ3RGVQVjIyZG5wZ0R1dXlVVGd4MGZqR0ljSmFPbw?oc=5"
-  },
-  {
-   "ts": "2026-09-23T08:00:23+00:00",
-   "title": "Kayan concludes basic sewing course",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zQjZOaGY0ekUzZlRVbUdwejVrLVZ6Qzd0b1pCSkNuV3MzbjJCX3pmUXo3MW9EVGctM1N4NXA5OHRlbnB5VjBWQTFzVnVKcVVROFVBamZMajAyYTBrbGxjci1kSDNVNVByS3l2Tg?oc=5"
   }
  ]
 }
