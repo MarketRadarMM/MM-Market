@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-29T00:30:26+00:00",
+ "generated_at": "2026-09-29T01:00:25+00:00",
  "signals": [
+  {
+   "ts": "2026-09-29T01:00:24+00:00",
+   "title": "Myanmar Joins Vienna’s Global Costume Showcase",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4yVk5ZVXJhS0tOT0ZOZ0k3cXpGemtNNFhzWDZPQzBLZGtyREY2Z21uVTRQa0ZmYnpLZHBfbHdpR2REcUR6QVBBN0FJakk5NnlnZVNsQ1YxTzRVMXpNeHNtbm91V05JWldBVExnYXlaZ2dYY040Qi0wdFBR?oc=5"
+  },
   {
    "ts": "2026-09-28T22:00:20+00:00",
    "title": "Kayin State Peace and Development Forum 2026 Concludes in Hpa-an",
@@ -2167,13 +2174,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQekQ3ZUgxb0Zwa0hNcUxrMUxpQ29BYTBXTmxqcE45amlUUHVMdHlBRmJYMlZETEtlMzRRaHFWSG1xWVZXRVc0V3QwV2lKamdFODJkWjJLX0dHY0hlOTlhYUhfUTl2bWVjTWxpMldLY0xVNmVvdnR0bVBOSEZ6VXFiZU1kSVgzTVJrUTk4VW5fX3RicW5BNUdrTVdhd2d3b3UyaTJhUFZ3?oc=5"
-  },
-  {
-   "ts": "2026-09-22T12:30:26+00:00",
-   "title": "Myanmar Regime Admits Abducting Young Men for Conscription",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVDlRNjJYSk5TNTBmM1N6Uk5VcU1rbXk0a3lJN2d5SG96NlYzVERNLXJ0QUFWZXRzcWxuVmxUaVZzdnppcG1xOFFWRXZUUU1Oa3ZZVEI4V251ZXRQcmZwQzhVWm1sRFdEQjFjN3BlMmtkQU5HTmxmMnM5S19tS2d0NC1NQzNsSkREOVplTTg4NU5lWmcxeG1uQl9vY2lQcVl2MEE?oc=5"
   }
  ]
 }
