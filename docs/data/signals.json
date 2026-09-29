@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-09-29T06:30:20+00:00",
+ "generated_at": "2026-09-29T07:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-09-29T07:00:22+00:00",
+   "title": "Import permits granted for 34 EVs through old-vehicle swap scheme",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTTNHQ04tN3JHM3hvZlVEU0J2eGdrQnM2dWw2Rno4ZnhJcHV1TmJBNzRJcUtqYkh1YmtrMC1UdDdNejZkUjdqSmJNM1gtUERkc3pzaFAwSGw2NjIxSTVCUTRvcVh4V3RjNkJOdUxpYUp4SGhYNjQ3LTVIUHQtQnRhRHAyYWQ1N09pM3JMN1pJbmNxY3F2?oc=5"
+  },
+  {
+   "ts": "2026-09-29T07:00:21+00:00",
+   "title": "Myanmar Junta Headquarters Falls in Key Kachin Town",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTFUzNFFlazdfNFFpTGQ0V0paZWhhLUJtdTdTanRLSmEyMVVQYVF2R0lIbVJLSk9rME04dGtndUVqVWJTU0xVdVp2VjBVaXpfMnBGcmhmZVRQUW9KcU5iZ3Y4ZW9tYjFCVGRaT2EtTWxXMHd4a0xBb0doOXVrMG9OclRKNU5RNEhLTmRubmtYaE11V1JtSXRBc01GOGpWUDFSVVIzalF0MlA2Rkpoa3c?oc=5"
+  },
+  {
+   "ts": "2026-09-29T07:00:21+00:00",
+   "title": "Singapore Urges Employers to Shun Migrants from Myanmar",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTi1iZ2dULVpoZ0M1SGpCLWtzT1poUnVMQlhRNTJPQ3h6TE11dVBZYjBrSXBwM0FmMU1BSkZMd3h0eHhsT2RfeS1Oamt0aUFiTmxoUTZ4dWNKSF9lWmhWd21xQkpqS3FfZEZYWnlvNU1BaUdidnFuQ2ZoZVRteWVabnozX21NenRoYXVpRjZBVWo2RlduRkFMdW9MSQ?oc=5"
+  },
   {
    "ts": "2026-09-29T06:30:20+00:00",
    "title": "New Year greetings extended by Acting President of the Republic of the Union of Myanmar and State Security and Peace Commission Chairman",
@@ -2146,34 +2167,6 @@
    "source": "Myanmar Now (MM)",
    "markets": [],
    "url": "https://myanmar-now.org/mm/news/81310/"
-  },
-  {
-   "ts": "2026-09-23T03:30:15+00:00",
-   "title": "ရခိုင်-မကွေးအစပ် မင်းတုန်းနယ်ထဲ တိုက်ပွဲဆက်ပြင်းထန်နေ",
-   "source": "BBC Burmese",
-   "markets": [
-    {
-     "market": "pulses",
-     "direction": "bullish",
-     "confidence": 0.55,
-     "rationale": "Conflict in bean/sesame heartland threatens supply"
-    }
-   ],
-   "url": "https://www.bbc.co.uk/burmese/live/cqkg04dpdzd1t?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-22T22:30:20+00:00",
-   "title": "New rules to protect tech secrets could strand Taiwanese visitors in China",
-   "source": "RFA (EN)",
-   "markets": [],
-   "url": "https://rfa.org/english/china/2026/09/22/taiwan-china-ai-exit-rules/"
-  },
-  {
-   "ts": "2026-09-22T22:00:19+00:00",
-   "title": "23 September 2026",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13S0xRenpPUW54djZVNFNxcUVxZ0c4dzhUTzZxcVN0R0N6TWwxUThpb3JybDB6OEJLLUtVRFptYmxJVG1VbVYycUx5WlNEV3hlVXNqdQ?oc=5"
   }
  ]
 }
