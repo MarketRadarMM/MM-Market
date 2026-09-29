@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-29T20:30:17+00:00",
+ "generated_at": "2026-09-29T21:00:26+00:00",
  "signals": [
+  {
+   "ts": "2026-09-29T21:00:24+00:00",
+   "title": "China pressure accelerates Philippines-Taiwan ties, analysts say",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/china/2026/09/29/taiwan-philippines-trade-office/"
+  },
   {
    "ts": "2026-09-29T20:00:25+00:00",
    "title": "From city to jungle: Yangon nurse opens clinic in war-torn Karenni State",
@@ -2167,13 +2174,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNTZ5OURNNnRlQTh1WmswVmhlamt5UUVnSS1QTUt4RVVXT0E1ZHJoZHNlbFpBZU1VT1pVY1lia05Ta21rLWl6RUdYTnk0T2h5RWF2N29GS0p6VUdFVUVsQ0RyN0RuYnJxenFrNExiT094eDhsNktTbVV1WW1uZ3dlelVR?oc=5"
-  },
-  {
-   "ts": "2026-09-23T12:00:22+00:00",
-   "title": "On the Thai-Myanmar border, COVID-19 closes a billion-dollar racket",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMW80eTI0aV9VUE1mV05CTVR1S2RTWEhkN2xuTkxSRDVJNWRuYkRyOHVuNkcyN2k3T0U3M2diY0UtNHNGTTFwQktkSG1lTkg4X3dRQUJPelZZWmdsYlRRTHNNbXZhYVlJelFkLXhKSmxzTk5MRGdySWl3bHhBakpsWGZIZXg3d3Ryc2czTFBPa1FINDU5Y2FwVFFDQl9GcG84d3Y1MA?oc=5"
   }
  ]
 }
