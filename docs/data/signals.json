@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-29T05:00:21+00:00",
+ "generated_at": "2026-09-29T05:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-09-29T05:30:15+00:00",
+   "title": "Malaysia starts sending Myanmar migrants home",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/malaysia-starts-sending-myanmar-migrants-home/"
+  },
   {
    "ts": "2026-09-29T05:00:19+00:00",
    "title": "The Irrawaddy News Magazine [Covering Burma and Southeast Asia]",
@@ -2167,13 +2174,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcmNRWXZldjk5Y0x0cFAxa3pJWERhTW9YM1FVUlNLa2swSUNxWEZfbTMyZTE1T1JRSmV6OGJXTnFCRXZyMHdlTERZYXd3Y1lIWjFDLWxPT3d6TTVSSm1QQWh0bElUaWxBck1KWXB4WXBsYWdIVWI5d1k0TVFZbE1icHV0Qy1EZVdzX3hfTi00ZlFEcnR1Wlc3QWt2eVVaRnJOdG9zck1ydEx2NEJaVEtOZmRJeFpYYU0yRjVzSk5LaVRSZ0VzSVpB?oc=5"
-  },
-  {
-   "ts": "2026-09-22T16:30:21+00:00",
-   "title": "Opinion",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DYTJvVHVjSWpaRnZxdVpOZURSQ2dOM09VR0t2aVdYZHVSc0F2YllLbHlWS3dvM2t6ZUViT1lBaGhOMXVaRE5mdlp1NV9Wb0gteVhENFd3MEMydUVhQ1dn?oc=5"
   }
  ]
 }
