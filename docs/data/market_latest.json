@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-29T04:45:19.166127+00:00",
+  "fetched_at": "2026-09-29T05:45:18.909648+00:00",
   "tiers": {
     "official": {
       "my": "တရားဝင် (ဗဟိုဘဏ်)",
@@ -49,7 +49,7 @@
   "world_gold": {
     "tier": "global",
     "status": "error",
-    "note": "HTTP 404",
+    "note": "ConnectTimeout",
     "xau_usd": null,
     "as_of": null
   },
