@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-29T17:00:21+00:00",
+ "generated_at": "2026-09-29T17:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-29T17:30:19+00:00",
+   "title": "29 September 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9PNk9yNVZjaUFMWHY2UUJ4Qm45VTkwYlVyNG1mUzRNOUZPTFVELWRPQWg0Q2FxNmRUVXVkVW42cEwxOXlfam8zalVWSEJfQzI4NUE3ag?oc=5"
+  },
+  {
+   "ts": "2026-09-29T17:30:18+00:00",
+   "title": "Letters to the Editor — November, 2008",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FblNtNjd4c190bXRndG9mLVZBMFRoTEpfQktyTW9kUDByVTVfRDVvVGg2QnFJamFFTExaZlJxcHRqOFlHeXoxVGhramJaZDlLWFdMNjM5OENvNXdpOERGby05cW5nUWl0UVE?oc=5"
+  },
   {
    "ts": "2026-09-29T16:30:16+00:00",
    "title": "Interview: What Is the New Spring Revolution Alliance?",
@@ -2160,20 +2174,6 @@
    "source": "Frontier Myanmar",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaktlc3BSbkZfQWJNbVpvZnF6VHhFd1pXS19PeFpSbnJGUTRBaUF0TzJjY29hNHA4LXBMVDNwTTl2bGpnM3h1OVpUUVM5RHdlYUNvRFF1a2NVYnVWSWtDTDJaZTlmc0h5dUxQRTJNQXp4aS1vX2Q5YjZFREVpZlRncTZhZ21rcUh4RWFDdlQ1cUJ5SVVudTdFRUtEaw?oc=5"
-  },
-  {
-   "ts": "2026-09-23T12:00:20+00:00",
-   "title": "Myanmar coup leader claims ‘lenient’ on Suu Kyi: report",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/myanmar-coup-leader-claims-lenient-on-suu-kyi-report/"
-  },
-  {
-   "ts": "2026-09-23T10:30:15+00:00",
-   "title": "Myanmar junta torches oil-producing village in new Magway offensive",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/myanmar-junta-torches-oil-producing-village-in-new-magway-offensive/"
   }
  ]
 }
