@@ -1,6 +1,34 @@
 {
- "generated_at": "2026-09-30T05:00:21+00:00",
+ "generated_at": "2026-09-30T05:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-09-30T05:30:18+00:00",
+   "title": "Myanmar, IUCN discuss nature conservation cooperation",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVjBpQm14VlU4NExpTW5RZ0N4NzJVWFFjLThFQzR1Z2J3OWsxdEJzRVQ5M0ZjZ3dyWjIwQllGR1F0UFNyWDNqOHJnMUl5WmJCRDhmX3dnbEtTcnA2UG03d1JzY05MNm5QMjRmV2w4d0R0Q19GaFQtTGhnNUVvQTM1WW9GMA?oc=5"
+  },
+  {
+   "ts": "2026-09-30T05:30:18+00:00",
+   "title": "Thayawady’s MSY village project loans disbursed",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBUdDV5RjBJdS16ZlUxN0p3SkpGeFFkUDhzX29xV3dGQm1PZUVlSTdrek9FS09qOFJCdGpldmpMaDUyajNvd29Tc1V2b2xycmpNWUY4SG8tNGVSNGxPV2lVU0FHaXIzc0tSNTdoM1BxU2l5QWRQZlJqSHMyRQ?oc=5"
+  },
+  {
+   "ts": "2026-09-30T05:30:18+00:00",
+   "title": "Myanmar attends 12th St Petersburg Intl United Cultures Forum",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZE5qbTF6azZfLTZjZzNYUkM4MlB5WEw4OEJJeUI3X0JFc1pzdlNUTDRGQ3UxaTJvNDhQVmhZSVBsVElwM3R0WEk5Z0FjajJNNzRnVGdzUjd2a1UzQTBZT09CR19Ibkt2VUw2NWdER2hNT19OZFh3bFp5eTdKWE5lbGNrbi10elE3dGFtQS0ybw?oc=5"
+  },
+  {
+   "ts": "2026-09-30T05:30:16+00:00",
+   "title": "တိုက်ပွဲမရှိသည့်ကျောက်တော်မြို့တွင် လူစည်ကားသည့်ဈေး ဗုံးကြဲခံရခြင်း",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81480/"
+  },
   {
    "ts": "2026-09-30T05:00:19+00:00",
    "title": "Malaysia Starts Sending Myanmar Migrants Home",
@@ -2159,34 +2187,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5udkZaUTNTRERTcHlONk54U1NRRXZPZFJTN0o1M1M4RGVrWlplQk5IQmdaR28xV3Z3OFdTUnBHb05NZm5sRVpUU2xHZjcxOHRRWkNwQU9NVzVOd3BJNWx2bmRXdWkta2ZoSHRheU9vemdXazlBd1J4UTVsdjJPUzQ?oc=5"
-  },
-  {
-   "ts": "2026-09-24T07:30:20+00:00",
-   "title": "24 September 2026",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBrU3RaemJ6a29UN3JCQW96Vm5uanhIUEIzanVVSW5CeEtXUTA4M3BmMFlpSjNlQXUtUW1SeGVkUnZQRC1Id1l5VnhIVmkzcGdDSkV4Uw?oc=5"
-  },
-  {
-   "ts": "2026-09-24T07:30:19+00:00",
-   "title": "Angered by Article on Min Aung Hlaing, Myanmar Regime Bans TIME",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaWVHeDhTMklxN0tXdlpVRmJETGtCWS1nUldsMDZZSUpfY1k1dC1GT2RoWlB3NXk0TjlJaXFPVlBiQmg1NjJfTDlWV2g4a1lvTzNMbE41TlBMT2pKczhXYkVncmhUYTY0RGhaX19UWDl1SGNabHlHTVplb0d3S1JndDBBd0NiUWEweUlqUkJQcUx4SmZLakVCNGppaEVTeHJidEVOOGpIMA?oc=5"
-  },
-  {
-   "ts": "2026-09-24T07:00:18+00:00",
-   "title": "လေဖမ်းဒန်းစီး စစ်ခေါင်းဆောင်၏ AI စိုက်ပျိုးရေးနှင့် ရုန်းကန်နေရသည့် လယ်သမားများ",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81326/"
-  },
-  {
-   "ts": "2026-09-24T07:00:17+00:00",
-   "title": "14 Buddhist monasteries ordered to leave Yadanabon New City project area",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/14-buddhist-monasteries-ordered-to-leave-yadanabon-new-city-project-area/"
   }
  ]
 }
