@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-30T08:00:23+00:00",
+ "generated_at": "2026-09-30T08:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-09-30T08:30:17+00:00",
+   "title": "Holding the line in Mawdaung",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1SY0NDSTk4TXQtOVRFQm9BWGwyOXZqUjM4MDFHcG1mM1hVTkN6NFZMSDdGdm1KUkJiYnJkaEc4OHN2SUtfeUNaX2xKVnpSRXpLQkVNdk8wbzBGTXdhNHBvTVhrdlpUcEppc0M2Sml6Vkk1Zw?oc=5"
+  },
+  {
+   "ts": "2026-09-30T08:30:14+00:00",
+   "title": "အီရတ်ကနေ အမေရိကန်ထွက်ခွာတာ နှစ် ၂၀ ကြာ - ဘာတွေချန်ထားခဲ့နိုင်လဲ၊ ဘာဆက်ဖြစ်မှာလဲ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cqj9xm3n4702o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-30T08:00:23+00:00",
    "title": "Pyidaungsu Hluttaw arranges debates for ordinances, nomination of Supreme Court Judges",
@@ -2173,20 +2187,6 @@
     }
    ],
    "url": "https://myanmar-now.org/mm/news/81349/"
-  },
-  {
-   "ts": "2026-09-24T10:00:20+00:00",
-   "title": "စစ်ရေးပြင်းထန်နေသည့် ရခိုင်တွင်  လေတပ်ဗုံးကြဲမှုကြောင့် သေဆုံးမှုများ ရှိနေ",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81342/"
-  },
-  {
-   "ts": "2026-09-24T09:30:17+00:00",
-   "title": "စစ်ကိုင်းတွင်  ပကဖများ အပါအဝင် တော်လှန်ရေးတပ်ဖွဲ့ဝင် ၃၀ ကျော် စစ်တပ်ထံ လက်နက်ချ",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81338/"
   }
  ]
 }
