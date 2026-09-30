@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-30T02:30:20+00:00",
+ "generated_at": "2026-09-30T03:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-09-30T03:00:17+00:00",
+   "title": "ဦးမင်းအောင်လှိုင် အမိန့်နဲ့ ဗိုလ်ချုပ်ကြီးကိုကိုဦး ကို ပြည်ထဲရေးဝန်ကြီးအဖြစ်ခန့်အပ်လို့ ဝေဖန်ခံရပြီးမှ လွှတ်တော်တင်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.co.uk/burmese/live/cqx2zxdd7nrlt?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-30T01:30:18+00:00",
    "title": "MAI welcomes new ATR 72-600 aircraft in Yangon",
@@ -2167,13 +2174,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fU3J1OEpvVTNYRk84N2N3YkY0dXpfNFlHYXBjYWM4Tzl3RnM1eDZkeVpCVUNyV0YtellJYXUtY25LR2JuSGJSZFFJUkM1b0NONWNnZzFvdG1LMGxMWDViNXM4M0M0VC1BNmJoMS14NE9VUQ?oc=5"
-  },
-  {
-   "ts": "2026-09-24T05:30:16+00:00",
-   "title": "Malaysia’s migrant return plan chills Myanmar Rohingya",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/malaysias-migrant-return-plan-chills-myanmar-rohingya/"
   }
  ]
 }
