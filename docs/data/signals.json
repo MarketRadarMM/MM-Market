@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-30T08:30:18+00:00",
+ "generated_at": "2026-09-30T09:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-30T09:00:18+00:00",
+   "title": "‘Killing Civilians Will Never Crush the Rakhine Spirit’: AA Responds to Kyauktaw Massacre",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTUZzQjFENHpLei12OFFBazJxcGF1MklRencxLXBxWVVmRUpObHc1TkhyazB2aXF3MmJYYm4tRFFXZDR0LUxDaldWMjQyczg2NmhQQlZJMGcwMUdXblZsUTNVQlpfdWZXOTNaWDlCUW9ZdmlwTVhNUVlkUzBHbzAzbHBkY0ZBNENPWHJILXpQdWZ6Z3ByZ29sTWRJbkYyOVI3a25McW9sNnhsSFZSQXJabFQ5MmZCdU1LSDlnNTdxR3FiUGs3UGFreDVfS2NnMm5jN3Jz?oc=5"
+  },
+  {
+   "ts": "2026-09-30T09:00:16+00:00",
+   "title": "SSPP troops shoot dead two TNLA soldiers in Kyaukme dispute",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/sspp-troops-shoot-dead-two-tnla-soldiers-in-kyaukme-dispute/"
+  },
   {
    "ts": "2026-09-30T08:30:17+00:00",
    "title": "Holding the line in Mawdaung",
@@ -2154,39 +2168,6 @@
    "source": "Myanmar Now (MM)",
    "markets": [],
    "url": "https://myanmar-now.org/mm/news/81357/"
-  },
-  {
-   "ts": "2026-09-24T11:30:21+00:00",
-   "title": "Intellectual Property Awareness Seminar held for TISC leaders, members",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT0FZMlM2M19mNlJSNmFVbHZBSnFENnVsdDZ5YzVSUGJYcGotZy1lX1plN25vMHpXTExSOXJWbUg4bUJ3d2FBdlJ5WEFnRDQzMTUzMFczUU1ZT1MtSS1NMDlKemZGbXMweVNUOGVKdGlLNElta0k3THBsQndaay1hU2xqWUp3NkNHdXJtU0s1NEJfWFdLT251NWtB?oc=5"
-  },
-  {
-   "ts": "2026-09-24T10:30:19+00:00",
-   "title": "နေပြည်တော်တွင် ကိုးကန့်အထူးဒေသ (၁) နယ်မြေသတ်မှတ်ရေးအပါအဝင် ဆွေးနွေးမှုများ စတင်",
-   "source": "Myanmar Now (MM)",
-   "markets": [
-    {
-     "market": "pulses",
-     "direction": "neutral",
-     "confidence": 0.5,
-     "rationale": "China border trade affects bean flows"
-    },
-    {
-     "market": "rice",
-     "direction": "neutral",
-     "confidence": 0.5,
-     "rationale": "Border status affects rice exports"
-    },
-    {
-     "market": "fuel",
-     "direction": "neutral",
-     "confidence": 0.45,
-     "rationale": "Border routes also carry imported goods"
-    }
-   ],
-   "url": "https://myanmar-now.org/mm/news/81349/"
   }
  ]
 }
