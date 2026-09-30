@@ -1,6 +1,34 @@
 {
- "generated_at": "2026-09-30T07:30:53+00:00",
+ "generated_at": "2026-09-30T08:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-09-30T08:00:23+00:00",
+   "title": "Pyidaungsu Hluttaw arranges debates for ordinances, nomination of Supreme Court Judges",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZDVRV1NSOHJ3TUthNkFxcURyY05POTdDLXZJcDJkY0lMMkpIMGM1R2liaGdqdWNDRGM0VVU3NWZDN3NpRm15VlZnc2RsZEk5R01FVjJrSVlxLTV3cEkxTWU3TXJwYjRWM1VGOXJ5X1F0YW5rbEwxZWo2QlRQS016Y0QwWkpYcEFTQlJfdDR2TThMTVNNeE1mM1c5aUI1bV9ESEd1bF9INm1IRkM0azYw?oc=5"
+  },
+  {
+   "ts": "2026-09-30T08:00:23+00:00",
+   "title": "US Embassy Unveils Health, Humanitarian Aid Package for Myanmar, Others",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQX2tkcWNOTjktSG0yb1ZFS1E3WmtQYlFobTFxSGptNGVkNVY4WUJoLUhiYmpLcldkYnRfZ1g1RUlDaHRQVFVKWlU3RVdfZ1F5akI5RFhWTTNndkJHaU5yZEphNDEya1l3OFlaQ3N0X3lGdXVTZHhET0VpWWljV2pWYkJDVFFLRHJQOFlQeDZRMU5kT3ktSmt4d0V3?oc=5"
+  },
+  {
+   "ts": "2026-09-30T08:00:23+00:00",
+   "title": "Pyithu Hluttaw Discusses Tourism, Regional Infrastructure, and UNESCO Bid",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRkdoREpOdW8yWWxoc0xQSEk4ZUZjVHdDRndSWkJVWktqc2NWWElHN3JGQUdlQUZnQ0tXVGlLN2tvTkJnY25VWjhkeWNiU1hKZmtHcXZnazhEb1F1R1UxZDROZlM3RFUzX3pOTjQzWmxRQ0swZi1hVC1BNU9iWmx6X3Fvc3pSUExnVjhrcDdUMHBSeUo5TlBlb2R4VXo?oc=5"
+  },
+  {
+   "ts": "2026-09-30T08:00:21+00:00",
+   "title": "ရေဘေးသင့် ထားဝယ်ခရိုင်တွင် သေဆုံးသူ  ၃၄ ဦး ရှိ၊ ကလေးနှင့် သက်ကြီးပိုင်း အများစုပါဝင်",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81562/"
+  },
   {
    "ts": "2026-09-30T07:00:24+00:00",
    "title": "MRCS Ramps Up Emergency Response, Rescue and Relief after Deep Depression",
@@ -2159,34 +2187,6 @@
    "source": "Myanmar Now (MM)",
    "markets": [],
    "url": "https://myanmar-now.org/mm/news/81338/"
-  },
-  {
-   "ts": "2026-09-24T09:00:20+00:00",
-   "title": "Thammasat University Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE55OXBrS0doQmUtaWs4dExyX0ZieWdGLWVlSkhpRkwyRWc0d2FPWDJyTWxhVEE2LWEwUnVtQnh5c0tHcXJsQjVyM2VqdU9wdmtzclVSZU5fWkRINFJNbS1wa1FB?oc=5"
-  },
-  {
-   "ts": "2026-09-24T08:30:17+00:00",
-   "title": "Interview | AA Chief Defends Rakhine Rebels Against Charges of Genocide",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcU93Z00yeHdES0hCZ1AweVpscVQ0NEoyMlBQSWtaTmJHTW1XZlRyV0sxUXlTbEJ1VU16VDdWUElXb0x5MUFQaFFLU1pjSmR1b0dhUUI1bjAtbEEtTVJpX1dTUnU4aU9sNEV4SkUzOHAyVUpPbnk3YjFaZS1iV1RBVkdvSXpNam5Uc2hzeTFxNkk4TDMtLWozMjRCbXI2UC1rSFV0cVBQVkh5N2Ns?oc=5"
-  },
-  {
-   "ts": "2026-09-24T08:30:17+00:00",
-   "title": "Myanmar Regime Wins Prize for Combating Fake News—Awarded by Cambodia",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOWlnQ3pZU2E2QjBIZ2lGandsV0VVcjBUbURuLWxIcDBuZnFUbl9DdkxYT01ab2JHX0xia0dWWFdiMjVLN1E4RjdvNzRzd3ptaDNOSURnLUlfeUxURXVjQXY3TUxpYkxWN25oWVpSRFVGWld4RHFIdWtZd3RjRjdsQ0JEclNFSHlZbURCZlNMRHZWQnVzZzI4b1EtejRoWnZJWUQtR2NjMTZVT1p6NC10VA?oc=5"
-  },
-  {
-   "ts": "2026-09-24T08:00:20+00:00",
-   "title": "Business",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EbTNfQ3BFY2h3cXEzZmZReFFFY0pWVHhGdHZTbEZ1bVYzaVVqdmJpWmhzMUFwb3R1cVdpWURvYm9HbnNLWlpVVXpxcU1Fam4wbUU4MkVR?oc=5"
   }
  ]
 }
