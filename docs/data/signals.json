@@ -1,6 +1,41 @@
 {
- "generated_at": "2026-09-30T12:00:22+00:00",
+ "generated_at": "2026-09-30T12:30:25+00:00",
  "signals": [
+  {
+   "ts": "2026-09-30T12:30:24+00:00",
+   "title": "Five MoUs signed at the 23rd CAEXPO",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GZ1AyRjgtZ2NmQVZzX0lfUmkwWHN4QTFKWlJjQ1kyYml2MWxuRmhQVmc2MGlYbjdnSVItMUhheklRdFFaUUJFNDNSd1hUaG5KTFBsWFVyMU80bUJTREhISFA4LWRKMDZMWVA3dA?oc=5"
+  },
+  {
+   "ts": "2026-09-30T12:30:24+00:00",
+   "title": "CHID Bank holds Strategic Town Hall Meeting and Credit Analysis Training",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVzlMWVJDOHQ3R256aHhadV9zVHZfaVQycmE5VDZKWnZsVEpQcTRyTEhVdFJKcVotYXVhX3poT2ZNS1NrZXhLX2kwWHlPTEZYS2oxc3hWcEh1UFdRSkhBdlZVSEVPSlFjYTBvNm83ZmNzVklYcWhqT01Bbm1aSk8zTXkwZkg2N3pqTXU5S1pfR09EYzV2QXBiazJfY0MyUQ?oc=5"
+  },
+  {
+   "ts": "2026-09-30T12:30:24+00:00",
+   "title": "Reflections on a Memorable School Health Trip: A Nostalgic Trip down Memory Lane",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc2N5OVRGTjBmTkF0UmYwSktyRmdnclhyNjk2Q1hvSG9XOEJGVVUzcUxrN3hoNHdzZ29oeENWS1ZUOWt5MEZhenM0cUl6MzBVMDBsSV8tcE5aS0NFdnViaFNaNEYyMnR6dkdoTF9qdWtGNUtDSDhFOUp3NDA2eExzNmYwRjhZNlNGVDFoSXExZ0VOZzIycDlkeXUydFJCM2JWaWtLd19IMA?oc=5"
+  },
+  {
+   "ts": "2026-09-30T12:30:24+00:00",
+   "title": "K12B+ disbursed in social security benefits",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OWi1xYnppdnpSbHhCT3IyX2dJcVkzX0QzOG9OYVVHWHI2OVd1YnVUSEZ6YVVYdnFwQk1YcjZ1aVFGUlZVMTNSbVNRS1NrY21rajNSdkFIa3BzVmwwaTlGTUdLZGkwaXBHRlluY0dIV1VaWUE2dmc?oc=5"
+  },
+  {
+   "ts": "2026-09-30T12:30:23+00:00",
+   "title": "Regime’s Massacre of Rakhine Civilians Draws Global Condemnation",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTEIwZVJJLXBJb0wwZFNkcHNyZ3pVYTNBakdyUmlVM1VfSUxoUWI3RmtJU0RISERLNUdKR1JqUHdEeWhLRGUwbm1fdGtIN0ZGMjRJX2ljSVFRRkg0aEZJRXVCWUF1bU1hMmNaaXZIcUI4QndFa25Ld2Z2eEhmUG9RSjJFMERSOERLLUVCcThnQUpObnN1UDNSVEpLbXI2WlctcVlVdFJPU0p3a0Flc1NUZUt5aXZHWHl4aDZKTl96NkE1NGs?oc=5"
+  },
   {
    "ts": "2026-09-30T11:00:20+00:00",
    "title": "ထရမ့်နဲ့ ဘီလျံနာတွေရဲ့ Super Intelligence ဆွေးနွေးပွဲကနေ သိသင့်တဲ့အချက် ၃ ချက်",
@@ -2133,41 +2168,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/cjp30ry96z4no?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-24T14:30:18+00:00",
-   "title": "ပြည်တွင်းငြိမ်းချမ်းရေးနဲ့ မသမာတဲ့စီးပွားရေး - ဘီဘီစီမြန်မာပိုင်း အထူးမေးမြန်းခန်း",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cmkg7v25dv6do?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-24T14:00:25+00:00",
-   "title": "Malaysia’s migrant return plan chills Myanmar Rohingya",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZjRzdUF5Ui0zNFRrMS1VZDZPUHdlV0dwNlRaMklaZzNJOGM4ZmNOazhsVG5RWjZ3MkxweC00MXh0aFdNb3FqVVR2bm43N0o0ek9aYnNNYlpHdmtOQTJtNDV0S3VtcGJpLWJleEN6ZFZ2ZkowY2xmTmx2VVRNZGp3SnFrOW1rc3VtY0tSb2lRVEI2UzA?oc=5"
-  },
-  {
-   "ts": "2026-09-24T13:30:20+00:00",
-   "title": "Video",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwR0QzMHZSMkkyVG5FVEhSaGZmS3o1WmhCV195X1R4VGVyOXJiZk8xMzdmUFFIbmRRRWE0T24wMEpoRDVhb2hteGxFSHd1NGxDeVE?oc=5"
-  },
-  {
-   "ts": "2026-09-24T13:00:22+00:00",
-   "title": "Shwe Kokko Cyber-Fraud Hub Roars Back to Life After Fake Crackdown",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQT1JPN2p3NHMzeXRuMTdCN0t0QnAyYUtmME03ZVkwM0RYZ3p4eGNZSjlsSEcycXc0amExdGlHNTVKUmNKNm52TWFKZF9mQmFELWdYbUtseEYzNl9QN1ZTMVNuM1c1aEVXcTdnNGtxTHVtYk8wV21ITkpEcFdpUkV1cTMzSVZrVTlTc01GZmdIMXFWOFB1eTF1SnBRdEFId3pMT3pTSHNtbFVFTDF5?oc=5"
-  },
-  {
-   "ts": "2026-09-24T13:00:22+00:00",
-   "title": "Myanmar Internet a Dead Zone After Thousands Arrested for Regime Criticism",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS19JM0hLbVhqQ2Eya3N1cW5SUmNJOU1NSTh6c0UzdGFTeUJLb3ZZcDBVTEVLRWJ1T3oxUld2eEJ0UTBBai1POWY4ZUdOdlVtWldTb0s0SVNpa2Zfai1BZnRVck5SSjJwWldIZDVCMUNJcXlWa05hQ0RkZXhhZEJqUTNsOTl0TWtKRVZ3ZjJGQ3NvRFJXdE1jNWlvaDQtbERMSWV2Y0tCakF0UUJMUmU2RGpzeXNQUFU?oc=5"
   }
  ]
 }
