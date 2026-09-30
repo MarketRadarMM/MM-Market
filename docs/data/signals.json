@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-30T12:30:25+00:00",
+ "generated_at": "2026-09-30T13:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-09-30T13:00:18+00:00",
+   "title": "The Irrawaddy News Magazine [Covering Burma and Southeast Asia]",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8tZllFV1U1Sk4zc3ZHX1pQRWx0LXluNlhfN3c4MmJSc3BfelVPdVFTeU5FdThOWXZVdHBTZ241ZUZQYS1lcmV5bVR4Q28wNkJGZWUxeUdhbnN3Nk82UHdYakNiZ0JmNXVqR2VZRnhyQVpYbWNTVU1uUnhOaWQ?oc=5"
+  },
   {
    "ts": "2026-09-30T12:30:24+00:00",
    "title": "Five MoUs signed at the 23rd CAEXPO",
@@ -2161,13 +2168,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/ck4gjy297rn5o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-24T14:30:18+00:00",
-   "title": "ရှီရဲ့အမေရိကန်ခရီး- ကုန်သွယ်မှု၊ အေအိုင်၊ ထိုင်၀မ်နဲ့ အီရန်အရေး ဘယ်ကိန်းဆိုက်နိုင်",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cjp30ry96z4no?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
