@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-30T20:30:22+00:00",
+ "generated_at": "2026-09-30T21:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-09-30T21:00:21+00:00",
+   "title": "US bipartisan congressional delegation meets Dalai Lama during India trip",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/tibet/2026/09/30/us-dalai-lama-brian-mast-tibet/"
+  },
   {
    "ts": "2026-09-30T20:30:19+00:00",
    "title": "Fuel Rationing Sparks Nationwide Rush at Petrol Stations",
@@ -2168,13 +2175,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU3I2amNQQ1hMek16V0NPZlpwMHZ5dFBwZmxmWjRPU19hTjVZNlZWa01DVlVqNUhmY09ZVENRQ2ZydVBPMS1xZmt5emtOOUU1RktIcmEwY0hkUUJsa0VWcU5jb2txWl81MUJMTUUyQksxRTNNaEhDVXBIR1JITF9hVU8wRm5keWdFcVVVMw?oc=5"
-  },
-  {
-   "ts": "2026-09-24T21:30:20+00:00",
-   "title": "Digital Tourism Marketing course to launch in Oct",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGZFhrWDBlR0c3MVJGSU1xcjMxZVVZZFNkc3VVUDRaYUtKRXRTcGpZUnRhV250cWpoWDNBUUY0a0FKX3JRWWJsdVBIaEdtcEYtbFprcGFUUmp3MzdIWWlqUTdNNXhOMWo4ZmgwREFxR0JjTk9IeERGZFZ3VTd4VTQ?oc=5"
   }
  ]
 }
