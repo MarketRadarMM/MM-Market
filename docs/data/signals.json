@@ -1,6 +1,41 @@
 {
- "generated_at": "2026-09-30T14:30:22+00:00",
+ "generated_at": "2026-09-30T15:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-09-30T15:00:22+00:00",
+   "title": "Malaysia starts sending Myanmar migrants home",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcTBHM0c5VjBpMXVRaGpYd3BKYzZZZ0h4cTl4YlJNZ2Fvcy1OTWFSMzZHVkJBTHJPT3dvSDJsZFZRb3VOZlgyR1RLVzExa3lUaEwzWmRPdW5BSkRvdDYwNzJGam5hTnpJTVJtOUV1TmZMdk9TQ1ExbFkzQTNlbTVVdkUwNWVZSkNM?oc=5"
+  },
+  {
+   "ts": "2026-09-30T15:00:20+00:00",
+   "title": "စာတတ်ဖို့ခက်နေဆဲ စစ်မက်ဇုန်က မသန်စွမ်းကလေးငယ်တွေ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cq56n13g9zjo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-09-30T15:00:20+00:00",
+   "title": "ဘေကျင်း ရှန်ရှန်း လုံခြုံရေးဖိုရမ်မှာ မြန်မာစစ်တပ် ဘာတွေပြောခဲ့လဲ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cq783rz04mj3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-09-30T15:00:20+00:00",
+   "title": "ဝါဒဖြန့်ပေးသူတွေကိုပါ စစ်တိုက်ခိုင်း မတဲ့လား",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/ck2094wjdy65o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-09-30T15:00:20+00:00",
+   "title": "ဘန်ကောက်မှာ ဘာကြောင့်ရေကြီးနေလဲ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cm62een03pq6o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-30T14:00:23+00:00",
    "title": "Guest Column | Who Sustains Myanmar’s Murderous Air Force?",
@@ -2133,41 +2168,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNDQxWmVnZ1ExYnNQQWM2ZUtiS0FockJCTUE3LTZDenRKay1LOGtTMlFFWWoybUpSdnJCcmlBN1FNODQ5NkRYQkdDY0NOU0FfaWJpcXRrdGg4R0lKcHdyLUFxOFhNNnF1TUZDTHRVbGlTZmZOeEY0LU1zMC05WlByQ2EyYXRwemlkWXVmZkFPYWUtOUk?oc=5"
-  },
-  {
-   "ts": "2026-09-24T21:30:20+00:00",
-   "title": "Kyaukpadaung inspects completed village concrete road",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMlNXTGpXeW1rMF9vdWNrWHMwRWpxSzFpbTgzdnBXTUNISDJadTdKVWRKTVV4d2Ewd081QmFZcnBzQW9NRUJMd19KNmpBRWJUazJub05GdjFzX3lUR1RMSGE2NzZLTlFDVjMxeU5kLURkbEd0US1uWllZeE5DUjZ6SmIyUDk?oc=5"
-  },
-  {
-   "ts": "2026-09-24T21:30:20+00:00",
-   "title": "MSY Village Project funds disbursed in Sinbaungwe",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmSGY0LUtOUWhpTFpnZGwxUkE4cEYxWTNiM1RkSEMwajI3V3VrZGE1UmxUSFk3NEtmSDJiTE9KM1dSRzRhUnl5VHBHeW5zZGE3MkhSdjFJUnNibDZDY1E0cXBxMXNmVG1Yb1duaS0xQVVvVmdrR1BRTFRKYmFDVUE?oc=5"
-  },
-  {
-   "ts": "2026-09-24T21:30:20+00:00",
-   "title": "Chinese naval escort task group arrives in Myanmar for goodwill visit",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWnRXTmdQTWFvQ0ozNjA3c0tNQ1lyd0VwbDJrYlk5UHhDQkRiNHhKSTcwSjFwQTJSZUcxZTJBYXZ6QW1ZdktwbkVKZ0hpZjQzakdRYVdmNEFGeHI3anVMTjVrVVJHUEEzSXp4dHRVdmxLdmVEZUdvM0xhSzR3aFFUMWU5Z3BCbWRIRkZnQWNORkdIalhNMXVyRzd3?oc=5"
-  },
-  {
-   "ts": "2026-09-24T20:30:16+00:00",
-   "title": "Guest Column | Recognition Is What Myanmar’s Regime Craves Most—The UN Must Not Grant It",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaWhBQlNaZ3JSdm82a2dJTmtCTkNRZ05ITmtTSGFPWks2LVBZcDJvVjItRmZqU2VKcjZmVHk1RWpyeDI2bk5XYlRiUW5PbXBXd0hPM0wtdWtmMWJhOE9jUTJMMVVWeWlOZ1hOMHphdXRkamFQaWI5ODNDUk43S3o5MENRZGx2WlhVcHI3cWswaXptdmhCeGFjek5GYm51RkZ2aVRkc2c0d1BuMzBRV3J3aXdLbHFMMGFvak0tSVJVOUVJQQ?oc=5"
-  },
-  {
-   "ts": "2026-09-24T19:30:24+00:00",
-   "title": "President U Min Aung Hlaing delivers speech at the meeting of National-Level Nuclear Energy Implementation Steering Committee",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNazBhRzFZbFVuaUFubExYTzJFdk5ONnhuMGZvcGNSVE4ydzlGbmFXRzQzcFlqSzEtTEF3eWI2UlZnbXJBS3Q1V05iN0VtbDFVdUdIbEZNaDhKeGFaTXZnUndrLWFRYmJHa1N5VGxOa0JLMC1nc2g0THZaZmdiR080dHRDdHhTUFRlcWI0LTA5Ylhrbng1SGE2UnFTMW5zUkV1Yl9JRzl3RHBQNmtMT1R1VFBuM3FvODF4ZWtEM3hXTGs?oc=5"
   }
  ]
 }
