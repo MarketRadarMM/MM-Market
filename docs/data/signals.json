@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-30T23:00:20+00:00",
+ "generated_at": "2026-09-30T23:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-09-30T23:30:16+00:00",
+   "title": "Refugees to be sent back",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GeXowRmRRNndoQ2NUa1JOZTJXSDhPeFV2X0ZNY2xrSzI2VHcwSlM2ZDllRVQ5WXZZUi1fU1d5NkZxU2JjRm9qVlZNN1k1Z0NkUzRsS2xZWThTOFF5Vk1oNDR4U3dtVllLZkZpNQ?oc=5"
+  },
   {
    "ts": "2026-09-30T23:00:20+00:00",
    "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing plants ironwood sapling at the third national-level monsoon tree-growing ceremony for 2026",
@@ -2168,13 +2175,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aRTI1ZTBYWGJlcnl2cU9XcEJQdTE5Vnhlb182S0dyLW85RXA0dlgtRlRkbl9EaXVHaml5WlZCZkN5WlZyZjRmREFONmZxOUczeDhSYkp2SXZfMHhh?oc=5"
-  },
-  {
-   "ts": "2026-09-25T04:00:21+00:00",
-   "title": "Down and out: Junta offers scant help to homeless civil servants",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ1E4VW9BTU1tSGFsVWtueTBLWVdrVnRHMjM5eUtIQ0N3Q3FBMlROelhDbHBDN2tBcFJLaC1YTVg2NnZzVDlLWmp4ak1rdGJqT0tYWDUxd245TGVlV1c5WEZTVldPa0ZRa0dsbTZjSTlhN1d3ME5Jc3NOYXVFZ25MTHY5c1BMWjkxbmsycXBBX3BONDNxeldQZDROcWJYT3dr?oc=5"
   }
  ]
 }
