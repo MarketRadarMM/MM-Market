@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-30T10:30:20+00:00",
+ "generated_at": "2026-09-30T11:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-09-30T11:00:20+00:00",
+   "title": "ထရမ့်နဲ့ ဘီလျံနာတွေရဲ့ Super Intelligence ဆွေးနွေးပွဲကနေ သိသင့်တဲ့အချက် ၃ ချက်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c6d941pq953xo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-09-30T11:00:20+00:00",
+   "title": "DYSPHOR1A - မြန်မာဘဏ်တွေ အချက်အလက်ခိုးယူတဲ့ပြည်တွင်းဟက်ကာအဖွဲ့",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cq1kxyn374z3o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-09-30T10:30:19+00:00",
    "title": "KIA Recaptures Regime Stronghold Controlling Northern Supply Route",
@@ -2154,20 +2168,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS19JM0hLbVhqQ2Eya3N1cW5SUmNJOU1NSTh6c0UzdGFTeUJLb3ZZcDBVTEVLRWJ1T3oxUld2eEJ0UTBBai1POWY4ZUdOdlVtWldTb0s0SVNpa2Zfai1BZnRVck5SSjJwWldIZDVCMUNJcXlWa05hQ0RkZXhhZEJqUTNsOTl0TWtKRVZ3ZjJGQ3NvRFJXdE1jNWlvaDQtbERMSWV2Y0tCakF0UUJMUmU2RGpzeXNQUFU?oc=5"
-  },
-  {
-   "ts": "2026-09-24T13:00:20+00:00",
-   "title": "‘‘စက်လှေမှောက်ပြီး ခဏအတွင်း မှောင်အတိဖြစ်သွားတယ်’’",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/ck7v4gn47pl5o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-24T12:00:21+00:00",
-   "title": "Tour Group issues safety guidelines for domestic pilgrims",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMTczUzlzWGdub1Vwd1JsSTh0c2ZoZ2R5SVVvb0pvM3ZKdm1kaHAtVzJqbndPMlBXdlMxX0l6amJ6aHlzLTkwUjdaSVRDQVZxQU9NbDg1eFZTZ1VGYUJabHF2R3R3bWtHRF9pdkhSMXlfRmFzZTZMeFVtSDVyZk9uclZQOWNtZ0lZaEE?oc=5"
   }
  ]
 }
