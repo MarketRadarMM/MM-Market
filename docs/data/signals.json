@@ -1,6 +1,33 @@
 {
- "generated_at": "2026-09-30T04:30:19+00:00",
+ "generated_at": "2026-09-30T05:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-09-30T05:00:19+00:00",
+   "title": "Malaysia Starts Sending Myanmar Migrants Home",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2hMdVotdkJGWHR2cExSRi1yUDNENTRFMHozTGN1R2hYN0pYRTBnX2RteWphQl9kM2VBZ1BxS3VFRmxGbnQ0dkNiamxCX1Jha1k1MDliQVJ2NVlYcGRBeVl3aFN3RWVKMDJTT21ucko4U05rWGxCcDdBYzJtTVpzS1N1RklXazF5T1dmVi1zUlFjaW9mRVhVQ0lfNTBobTVsU0tWaXJqaVdqbkE?oc=5"
+  },
+  {
+   "ts": "2026-09-30T05:00:16+00:00",
+   "title": "Belgian company faces legal action over Myanmar beer awards",
+   "source": "Myanmar Now (EN)",
+   "markets": [
+    {
+     "market": "fx_kyat",
+     "direction": "bearish",
+     "confidence": 0.65,
+     "rationale": "New sanctions pressure the kyat"
+    },
+    {
+     "market": "gold",
+     "direction": "bullish",
+     "confidence": 0.65,
+     "rationale": "Kyat pressure drives savings into gold"
+    }
+   ],
+   "url": "https://myanmar-now.org/en/news/belgian-company-faces-legal-action-over-myanmar-beer-awards/"
+  },
   {
    "ts": "2026-09-30T03:00:17+00:00",
    "title": "ဦးမင်းအောင်လှိုင် အမိန့်နဲ့ ဗိုလ်ချုပ်ကြီးကိုကိုဦး ကို ပြည်ထဲရေးဝန်ကြီးအဖြစ်ခန့်အပ်လို့ ဝေဖန်ခံရပြီးမှ လွှတ်တော်တင်",
@@ -2160,20 +2187,6 @@
    "source": "Myanmar Now (EN)",
    "markets": [],
    "url": "https://myanmar-now.org/en/news/14-buddhist-monasteries-ordered-to-leave-yadanabon-new-city-project-area/"
-  },
-  {
-   "ts": "2026-09-24T06:00:17+00:00",
-   "title": "ငွေကြေးသစ်များ Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeUppb2lMNUIxZldBSE9pamRMN2ZpY1d2QUk1TEMtNk9wSzluS05vVFVEYnNmTDZJVHF0Y2VreHZuVE5BNkZsQ3NTRUdRN24zRlVLY0U3LTZieHE4TkhDckpwRHRySzFncEpWV2VCb09VX25IQUppX3luazkyRGdjNnFfN2FfTXA5ZHliU1l0c04yVXpvNzA0bTVqOWZFVWVNN0NHNUVrUGdyZ0lRcTQ5cW15WllGRXBZYTBRdFV3NmNFSFhzMjJuUkhvdTloYWlvSUhBYkpwa3p2RmJPLTBIRUIxc1doWnE2QkV0dFpQUQ?oc=5"
-  },
-  {
-   "ts": "2026-09-24T05:30:19+00:00",
-   "title": "Wisdom, Wisdom, Where Is Your Certificate?",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fU3J1OEpvVTNYRk84N2N3YkY0dXpfNFlHYXBjYWM4Tzl3RnM1eDZkeVpCVUNyV0YtellJYXUtY25LR2JuSGJSZFFJUkM1b0NONWNnZzFvdG1LMGxMWDViNXM4M0M0VC1BNmJoMS14NE9VUQ?oc=5"
   }
  ]
 }
