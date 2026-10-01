@@ -1,6 +1,34 @@
 {
- "generated_at": "2026-10-01T10:30:17+00:00",
+ "generated_at": "2026-10-01T11:00:28+00:00",
  "signals": [
+  {
+   "ts": "2026-10-01T11:00:27+00:00",
+   "title": "NSPNC, NCA-S EAOs hold second-day meeting",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51N2NVRHlfVU5vdi1zTjN3SE9MVWRzOTNOT2hSMTNFN1FkdkVjcWZ4cXhNeWFuQXZyeS11VERDT1luVDFmazQyMHNDZVZIejVTLVNfMTN2TG4ybVJSeU5RbF85M1hoOHBFRjEwZ1haZ2lxdU42a3c?oc=5"
+  },
+  {
+   "ts": "2026-10-01T11:00:26+00:00",
+   "title": "Battles Erupt in South Chin as Regime Launches Second Push for Rakhine Gateway",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWnhKdzlpeW0tYzNMc0J5OGpPZWl1Mk5QUWRJZVVwNlpZVmNwZmM4a1hMSjlYZV9ua0ZsUWZnX0hsRXFmbmRBdC11OWpieUZscDF3bkU4MDNKeHhnb1hxMkRzcnR5QkpnNElDTnQ5bkR0eG9xOHJoZVRybnhhUmVDNkdCTS1RM1BlS2Q4SE8wSmNCLXhXalN5ZVBqeXVDOFFXNHFCVGpVN0ZnT09JYktqakZQdGRCd3Z6SnB5aQ?oc=5"
+  },
+  {
+   "ts": "2026-10-01T11:00:26+00:00",
+   "title": "Myanmar Regime Has Killed 383 Civilians in 21 Rakhine Massacres: Irrawaddy Tally",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeF8wUmZ2dGM1T3M0c1F2S25XeFJZN0ZMdGJtNjJCMTVaSm9OdmRJMnhBWTdVWlZqNXh0a0lhTTU2UW80VmFvSDZmNWV3TlJQVjJjV0tJZjZjVXFqNkJ0QkhZTno2UTVqVFBpVm4wRnZaNWJuQzdoYjRxa1VaQk5NMDFMdlM0MUNFczdCYmRLTnZOcFRxc0dvcVlsUjJES2R4OFpLZWlySkE1amJnSV9GMm5sQS1TWXdHeXlBVEVrSjVsVXh4OEtGeFloREY0YUdEMEE?oc=5"
+  },
+  {
+   "ts": "2026-10-01T11:00:24+00:00",
+   "title": "စစ်တိုင်းအပြောင်းအလဲတွေကပြတဲ့ မြန်မာပြည်တွင်းစစ်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cmgjqj8dj5zwo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-01T10:30:16+00:00",
    "title": "The hidden plight of Myanmar’s double minorities",
@@ -2127,47 +2155,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbWk5Sy0tTDU5dzJMU3I4S0ozY0RST09Bb2VBT1pFZEZkTk13eUdfRDNNWUx0WHNYd1JtNnd0U1Z3UnBuZ3BmZW8xMWtWY0xWTnR1TFVIWmFUdXR3Vm8zcU1ld0pNVEJKSnpIWW4yUkdFemJ6cU5tTkRNTko2b1NzeDh2Sk5WMlVTWDhzM1dnbm05ejhhSXlnZ3UwWWtqc01Ibk5JT1VlekYtQ2F3OFRyV18xa2ZSNnc?oc=5"
-  },
-  {
-   "ts": "2026-09-25T12:30:23+00:00",
-   "title": "32 PDF members, six family members, totalling 38 return to legal fold along with arms and ammunition, due to abhorrence of terror acts and desire to live in peacefully",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWGgyOGg0a1AxNGNmOGE2bVB3V0RLNzRRU0Z5N3VIQVh6TDRUMEEtTERBNzFiT1pmUDdramZ5WGRRMG5vWmhYRGpDUnhhdnYtVFhGRmVEOGNrVG1hOU5RMlR1eUctODFTR3lOZnZKTEhDeVFWTHVmT2pLMWVaMDMyRElkbVhSc1UyVjkxakJzamRmdnlvTmtHbmd2LXl6NXdwaHdIdF9rQ1FpQ3liM0dnOFMtM1ZvdERH?oc=5"
-  },
-  {
-   "ts": "2026-09-25T12:30:20+00:00",
-   "title": "Coup Leader Says Myanmar Is a Democracy, Urges US to Drop Sanctions",
-   "source": "Irrawaddy",
-   "markets": [
-    {
-     "market": "fx_kyat",
-     "direction": "bearish",
-     "confidence": 0.65,
-     "rationale": "New sanctions pressure the kyat"
-    },
-    {
-     "market": "gold",
-     "direction": "bullish",
-     "confidence": 0.65,
-     "rationale": "Kyat pressure drives savings into gold"
-    }
-   ],
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR2lxWjFJQ2JrMjdyb1VmNVRNeE9hYXBrcmUtTTJWaXY2MEVxNzU2VDZLTFBLQklIclQ2ekU4YnVxdUUyX293T0pfaHNtZ0pkUmZJc3RmMVRpQVE0b0ZrbmZMSUx5NmtOVGg1anhYbFpxLWlVaVdHY0gwQlhiX0RNcEZMenJ2b3k3ajgyZk9YZ3Q3eUc2eE1TcmRYQmQtX0JHRFlKcUxjX0RwX3pH?oc=5"
-  },
-  {
-   "ts": "2026-09-25T12:00:17+00:00",
-   "title": "Six Killed in Myanmar junta attack on NUG regional command",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/six-killed-in-myanmar-junta-attack-on-nug-regional-command/"
-  },
-  {
-   "ts": "2026-09-25T11:30:18+00:00",
-   "title": "Prominent Defector Among 6 Killed as Regime Bombs NUG Regional HQ",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOWJDNDhLclZ3UXc3NkF2VWhvZlZoNldVOFJkSzF3Qi14bnd0bjZpZUM4a0xHVkFXdzlBWDg4Y2tfNjVzX1plWERESFdaNWlZaV9WbHhWUXAyVUVTR3RPRmxRSC1mbUJBQkp2LVlqX2s3ZFNxQm54YXFKUy1yaVZQb2xfOVF3SWhsMGRoUV9ON04xdGRMTlhxUExxcTNCaG5FRzhtVC1ETUVJQTg?oc=5"
   }
  ]
 }
