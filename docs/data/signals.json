@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-01T22:30:18+00:00",
+ "generated_at": "2026-10-01T23:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-10-01T23:00:21+00:00",
+   "title": "The Irrawaddy News Magazine [Covering Burma and Southeast Asia]",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93elRXVXd5REZvN1dfakk4aWRGeU5ENHNrSmFlMkhZcjZjN2FKUWF4UUZPOWRPMmJwd0VINl9nZlBuUm5fcmhpQ040eUxjWENHczNIWGVEYzFoQXlCMGhkSmpMUWtuVjlqWkE?oc=5"
+  },
   {
    "ts": "2026-10-01T22:00:26+00:00",
    "title": "Tatmadaw vessels return carrying 1,476 Myanmar nationals from Malaysia",
@@ -2168,13 +2175,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42WDVPSlFka21xeUNZLTg3cmxFTHZwQUROeDdmSWxLTU5SRHJPN093RHJlRm4wRzB6RzgzZ2EzQWF1a0ZONjBPZXF1ZHlOOWUtVmZfVDlpQ19uMlZyNk9OdXZuRXpvdk1kMFJralBwQzFBMlU1MXJIZGtyVQ?oc=5"
-  },
-  {
-   "ts": "2026-09-25T22:00:19+00:00",
-   "title": "Yangon, Wuhan Formalize Sister-City Ties",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kQmw2QTFOaUFpaThkUkFHd3N6bC1JWl9YUTZRaENxRmFoSlJyRzNvZkNRcVFzWUFvaVNEQzRkUjZ4TEx3U25uVFhRYjcyVldYYjdocTllOTF4SzR6bnVCZDh0XzBraklUaEhuTnF0SHRDdw?oc=5"
   }
  ]
 }
