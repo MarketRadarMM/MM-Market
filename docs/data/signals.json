@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-01T21:30:19+00:00",
+ "generated_at": "2026-10-01T22:00:26+00:00",
  "signals": [
+  {
+   "ts": "2026-10-01T22:00:26+00:00",
+   "title": "Tatmadaw vessels return carrying 1,476 Myanmar nationals from Malaysia",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbFhIaWd6Qkc5VUpEdk9pc3hKNDAtYl9COUFWd1VjYk01Rm1WTDRVVU5KZ25hTUJ2Q0ZvcXpXaXdxcjkzUTV3RFdjMGdoUVZ6OXo5TU5GVEhiS0d4TFQydXBsZDlubG85VWIxekl1bmhjdTJTaUtuVU1IWkVZelBRdEdURUtUZlMtOTkwVk5McWZIY1BoUWpzSG9B?oc=5"
+  },
   {
    "ts": "2026-10-01T21:30:18+00:00",
    "title": "Over 500 vehicles fitted with RFID-based TollPass System on Yangon-Mandalay Expressway",
@@ -2168,13 +2175,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kQmw2QTFOaUFpaThkUkFHd3N6bC1JWl9YUTZRaENxRmFoSlJyRzNvZkNRcVFzWUFvaVNEQzRkUjZ4TEx3U25uVFhRYjcyVldYYjdocTllOTF4SzR6bnVCZDh0XzBraklUaEhuTnF0SHRDdw?oc=5"
-  },
-  {
-   "ts": "2026-09-25T22:00:19+00:00",
-   "title": "Yangon lights up in blue marking World Maritime Day",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNFpSbGtIQ0w5TE40cUM0OVZ4cUpoQlNqbEoxczNNMVVnMVJFSzR3eUhTNDRsUVFnNUFyTUN1Q2lZXzFRVmQ2b0RJemNtVGNqYzUweFJtSVlWZThaTEJaYi11c1d3a2hWbWQtTC13VjVGZWpIbm9aYjdnOEE0UlVkZ1NR?oc=5"
   }
  ]
 }
