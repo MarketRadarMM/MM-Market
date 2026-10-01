@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-01T23:00:23+00:00",
+ "generated_at": "2026-10-01T23:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-10-01T23:30:19+00:00",
+   "title": "Q&A: ‘Refugees should be a shared responsibility’",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOFptM1ZybkxJaVNTVEQwazdLdlVUcEhYM0g3V21wRU5pUVhON0VJWER2cU5OMC16YmhkMUx4MFZ3QTdGQl84ZW9PV1Uwd1hYUWlwQjA1anJhQ2p3THR4VGhfMml0dURRSDZwNkhDSldyOXZoMXU5Q1dtQ21WaGo1Qml2YzZkTkR3?oc=5"
+  },
   {
    "ts": "2026-10-01T23:00:21+00:00",
    "title": "The Irrawaddy News Magazine [Covering Burma and Southeast Asia]",
@@ -2168,13 +2175,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd2tBMGw4U1FZRG45N3lPS3YtbVAwNXltZ3h1eFJ4SWRLWXhfZm5TSklXUUZBTzdjSVRPMGN0M1I1UnBFeDVSRWxtaG81NHdZMXU2clNYd2J3eWpBR3FVR1VyVDBDZUk1SjNLYlNHMHYxckFGZFFtYnROa1F0cWRfTVNKbGtQSm1BeURj?oc=5"
-  },
-  {
-   "ts": "2026-09-25T22:30:22+00:00",
-   "title": "Local fertilizer output covers only 3% of needs",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42WDVPSlFka21xeUNZLTg3cmxFTHZwQUROeDdmSWxLTU5SRHJPN093RHJlRm4wRzB6RzgzZ2EzQWF1a0ZONjBPZXF1ZHlOOWUtVmZfVDlpQ19uMlZyNk9OdXZuRXpvdk1kMFJralBwQzFBMlU1MXJIZGtyVQ?oc=5"
   }
  ]
 }
