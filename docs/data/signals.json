@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-30T23:30:18+00:00",
+ "generated_at": "2026-10-01T00:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-10-01T00:00:21+00:00",
+   "title": "1 October 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HMTdTS2xpZVdwQ1J1SFVubnRaU1MzU2NwLWRFaE5FLTlYakdGOHlGZHl5LWJjbGhsVVdwa2ZvUm5rRWlyNDVSTUU4M3U0djYt?oc=5"
+  },
   {
    "ts": "2026-09-30T23:30:16+00:00",
    "title": "Refugees to be sent back",
@@ -2168,13 +2175,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd3paS2YxME1qdEVQemZfQnNHNVlqbE9MZnV2eDJ4S0k3VkVjUE5IQjF1QlpDRWo2SlZRd2R6OC1xR0xZcERJRXV2NXRvUHlnWE14MDZlb2VUOGo1T3dfQUY0Y3ZCakNvdFR1bFZGaGFLTklfUERqUjNXRGhUQlFRSlZITl9VdnBIVkFVbGtVZlBON2xMbDV0OTJBZHYzdnFmalAyR3dkY3A5REYwV05RYTZ2dDR2Zm56OVV1bmx3?oc=5"
-  },
-  {
-   "ts": "2026-09-25T04:31:00+00:00",
-   "title": "News",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aRTI1ZTBYWGJlcnl2cU9XcEJQdTE5Vnhlb182S0dyLW85RXA0dlgtRlRkbl9EaXVHaml5WlZCZkN5WlZyZjRmREFONmZxOUczeDhSYkp2SXZfMHhh?oc=5"
   }
  ]
 }
