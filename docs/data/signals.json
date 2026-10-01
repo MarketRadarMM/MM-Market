@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-01T03:30:18+00:00",
+ "generated_at": "2026-10-01T04:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-10-01T04:00:19+00:00",
+   "title": "Mohnyin implements garment businesses with MSY project funds",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT3Vkd0JZR1RyckVDeWp5cENJLWVGa3lHeHJmOTh4TF9LcUxJQjRSMW9IdFRDeXAzeFNPVThFQjQ1dlRINEZSdXBSa0NwQlgtLW14cWlzUHZtYVU3SnhveWJJTC1OMnNRcG15cXUzVDZjREVVc2Z4VVhvM1FJTDRrWEhHS3ByajN1RFE5Vzln?oc=5"
+  },
   {
    "ts": "2026-10-01T03:00:51+00:00",
    "title": "ဦးမင်းအောင်လှိုင် အောက်တိုဘာမှာ မလေးရှားသွားမယ်",
@@ -2168,13 +2175,6 @@
    "source": "Myanmar Now (EN)",
    "markets": [],
    "url": "https://myanmar-now.org/en/news/junta-chiefs-ai-agriculture-vision-collides-with-realities-facing-myanmar-farmers/"
-  },
-  {
-   "ts": "2026-09-25T07:30:16+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FX0xBVXdVbmtYV1FZc05rSkFNOTVCOFB4cjg0SDJRLXpMc2lGdi1QejUyV3o3Umt0VDluVjZ0VmpLMkpvQk9MQU9ZSQ?oc=5"
   }
  ]
 }
