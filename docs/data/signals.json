@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-10-01T12:00:25+00:00",
+ "generated_at": "2026-10-01T12:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-10-01T12:30:18+00:00",
+   "title": "Czech Republic Supplies Planes to Myanmar Airline Tied to Junta",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUzZlY1c0RzUyNU1jaVhEMVJsMzNMbGo2a0ZocTBSYzVvX0VlcU5YLXZOR2MtNDgzcmduNnZOWEtLLVVQZThfLVRpeVZ5cWtSV3lnb2tqYnZvalhPbnVvN3Bpb2lXam80bC15ekJIQWNnelN3aEU3R3NKQ3lzdUpaX0lqMDBIekxVWmdjdnpoRmlYRFBrMF9iOUFLUjI0SmJEbWtoWHRzOU8?oc=5"
+  },
+  {
+   "ts": "2026-10-01T12:30:18+00:00",
+   "title": "Myanmar’s NUG Names Controversial US Businessman as Envoy to Washington",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdjdaRFlYVDRHZTd5OUUwUTk0eUhXNE03TGh0SUlWUzgyNEV3WkQ1QTRmUy01Z09KNmFxWFpKUXhKYmlTbnRTUXpxS2dtSE52VFUyNEwxaXItWHZyOUdWb3V0bmZlM1lVOS1UeFgxS252bG5kUWFGdnZqTGQ0V1VlemlHajA2UTZaVTl5MENla3FSUjdTWlNkdGQ4OGtxb2hTUlZqV0NfdVVfVzNtZ3dGbFln?oc=5"
+  },
+  {
+   "ts": "2026-10-01T12:30:15+00:00",
+   "title": "ဒူဘိုင်း -တဲလ်အဗီပျံတဲ့လေယာဉ်က ပိုင်းလော့ကိုဓားနဲ့ထိုးသူအကြောင်း အစ္စရေး၀န်ကြီးချုပ်ဘာပြောလဲ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cm0qxqg9jgyko?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-01T12:00:21+00:00",
    "title": "Myanmar nationals in Malaysia fear arrest and forced return",
@@ -2134,27 +2155,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/cjp30ry96z4no?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-25T14:30:21+00:00",
-   "title": "နာဇီစစ်သုံ့ပန်းစခန်းအမှုနဲ့ အသက် ၁၀၅ နှစ်အရွယ် အမျိုးသားကို ဂျာမနီ စုံစမ်း",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cqwyzmwxlyvgo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-25T13:00:24+00:00",
-   "title": "Trade Restrictions Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQUlNiVkxtSUJ1Z2FqX3ZPR0ZBbm5BQy11RjdGYXZsVGMwM1NET2ZpZGdnM0Y1a0Z3a2Yyc3RQVDlNRFNjOHo0alhVYUNrMzB4eFE5LUN2cVVIblhf?oc=5"
-  },
-  {
-   "ts": "2026-09-25T13:00:20+00:00",
-   "title": "၀ါဒဖြန့်ပေးသူတွေကိုပါ စစ်တိုက်ခိုင်းသတဲ့လား",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/ck2094wjdy65o?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
