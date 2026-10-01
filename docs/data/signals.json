@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-01T05:00:57+00:00",
+ "generated_at": "2026-10-01T05:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-10-01T05:30:17+00:00",
+   "title": "KIA captures hill-top outpost as fighting resumes in Mongmit",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/kia-captures-hill-top-outpost-as-fighting-resumes-in-mongmit/"
+  },
   {
    "ts": "2026-10-01T05:00:54+00:00",
    "title": "ဖာပွန်ကိုပြန်ရရေးလုံးပမ်းနေသည့် စစ်တပ်စစ်ကြောင်း ထင်သလောက်ခရီးမပေါက်ဟု KNLA ဆို",
@@ -2161,13 +2168,6 @@
    "source": "Myanmar Now (MM)",
    "markets": [],
    "url": "https://myanmar-now.org/mm/news/81378/"
-  },
-  {
-   "ts": "2026-09-25T09:30:19+00:00",
-   "title": "Myanmar junta attacks Bago villages near the 115-Mile Rest Stop",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/myanmar-junta-attacks-bago-villages-near-the-115-mile-rest-stop/"
   }
  ]
 }
