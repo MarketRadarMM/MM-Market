@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-01T20:30:20+00:00",
+ "generated_at": "2026-10-01T21:00:25+00:00",
  "signals": [
+  {
+   "ts": "2026-10-01T21:00:24+00:00",
+   "title": "Kangyidaunt inspects VDP concrete wheel-track road project",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS0F0Z0tCVWVLQ1o5MFkxWThqMTVjNWVGYW5xYjFnc3haY0JPdHVVVkJEQ0txeE9oOGgzQTBoYXc0Tm0xcWxoVWJuX3diVzA2ZVRKTXZpVmROS1JnQklQX3MwaVNMcjBvLWF1dFJJNzRSLUpPekZ6cjBXS1o2cUpFRThxdUVCQXlhTEpN?oc=5"
+  },
   {
    "ts": "2026-10-01T20:30:20+00:00",
    "title": "Kalay-Falam-Haka Road reopens after landslide clearup work",
@@ -2168,13 +2175,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWwyeVItendhaVNjNlpoNmhoQVZ2TWJFNGhJb2RCbzJweGZrT1VxcHVaREtNUG9QXzFLY0IxeG1KdWlmTWZEVVhqWENmb0lmR1dJLVgtM0hSMDZyeWYyZEQ1QnI1Rkx1VjFQTEgxdWNxdmlaaHAxXzBVWURXcXNyOHlNSDNic1BhSHZvMHFB?oc=5"
-  },
-  {
-   "ts": "2026-09-25T21:30:18+00:00",
-   "title": "Rural development activities inspected in Chaungzon",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLTFuN3R5NnhYOWtFSVAyU1VOMVNqckhubm01MlpaeVZGZlJjUWlOTEpJbXdBQlRFWDlNYWFNZWk2Mnc3MDgzTGhZSG5vVTd3N0ljNjRfbW5MWmR0YTJjVWkxOExEVzRQVE5CQzZyMlJfejZNelNTbW9hOGpHWVgtVFRR?oc=5"
   }
  ]
 }
