@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-10-01T12:30:19+00:00",
+ "generated_at": "2026-10-01T13:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-10-01T13:00:22+00:00",
+   "title": "Ahead the workshop, Zaw Min vowed to go on the Myitsone Dam at the source of the Irrawaddy River.",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QV25BX1RkY25LNDdCOE1qWFUtTmJYNHN4eEY4akIwWnF3Vl9Rcm00VnppejNHZ1pXWHZMVUgyNm5kQkYwTk1ZcEM0Y285a3dJcDltSDRfdC1NM09sVjV1SVJvR0xoUVRa?oc=5"
+  },
+  {
+   "ts": "2026-10-01T13:00:22+00:00",
+   "title": "Guest Column | How Power Really Works in Myanmar",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWjZHM0pVM0lmZ3FJQ1l5UWZWeUc3S3J0c1Fyel9ON0NsOTI5S285RDNybUdwUnk5TzU0QjFDR2VmR011VUE4YUtVZVg3eUd5YlowTkVnaXQxdHZtRnZydmtxLXhldjFBbFppMDhDZmlXY2FjRXY2dGpGYzFHRTBiLWtMalN4MEplRWlRSTJB?oc=5"
+  },
+  {
+   "ts": "2026-10-01T13:00:22+00:00",
+   "title": "Myanmar Military Used Human Shields on Doomed Flotilla, Says KIA",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa3E2U2NEMDg2alQtXzB5NEllYXJHRllQcmFPSXVVc1Nzbk5DMlQtZjItVl9PYV9pLVFZSjcydUNYdVY0V3RadVJIdGV2cHR5dU5BbnJqeVpWbHNfbXBYV0U4RFpwaFdKaU5RY3Fqak9kZlc2bzh6TmpRbExFT2ZJTVRFVEZlUWhUUlVpWTBFMHEzTVRkNWttRy1tZjRnRWV4WTU2aVc5TWw?oc=5"
+  },
   {
    "ts": "2026-10-01T12:30:18+00:00",
    "title": "Czech Republic Supplies Planes to Myanmar Airline Tied to Junta",
@@ -2134,27 +2155,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcTUzVXBkVmE1WmZodFVjN2E4dmY0Z1NITEVTdEx0b0djMkNzZkt6NWVSZmxNSi1hd3d4alJETThyUFhzX01aNEs5WkphbnNfTjZkQ1UzVXhpdWNyS2otaDNlYzJtT1F0VmhIc1U3eWpfYzUxTWE3YnRBNTJzcEJDVF9XdzA4YWJRTnBVamdXVG1Bdl9SYWpWUHczajJCM3BuZjJNMzVGMzhhRjRITHQtSVdvVkZDNEhmR1FJVDR3?oc=5"
-  },
-  {
-   "ts": "2026-09-25T14:30:21+00:00",
-   "title": "ဂျပန်မှာ အလုပ်ရှင်ကိုတရားစွဲတဲ့မြန်မာအမျိုးသမီး ဘယ်လိုအနိုင်ရခဲ့လဲ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c2e0mw80ge8o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-25T14:30:21+00:00",
-   "title": "လိင်ပိုင်းစော်ကားတဲ့ကျောင်းအုပ်ကြီးအကြောင်း ဖွင့်ချရင်း ဖူးစာဆုံတဲ့မောင်နှံ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c9vgyj5llx8jo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-25T14:30:21+00:00",
-   "title": "ရှီရဲ့အမေရိကန်ခရီး- ကုန်သွယ်မှု၊ အေအိုင်၊ ထိုင်၀မ်နဲ့ အီရန်အရေး ဘယ်ကိန်းဆိုက်နိုင်",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cjp30ry96z4no?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
