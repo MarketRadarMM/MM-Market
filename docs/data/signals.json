@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-01T04:00:20+00:00",
+ "generated_at": "2026-10-01T04:30:22+00:00",
  "signals": [
+  {
+   "ts": "2026-10-01T04:30:21+00:00",
+   "title": "Myanmar Junta Blames Thailand, EAOs as China Urges Scam Crackdown",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRnMxWFd2eTItOWMzaDA5V25FRlh3akJ1bktoZF9aeE1EeUtqOFJFb3RrU0RHNWRqRWxDeGIyWHgtODhBWWtsZXdfLW9xT3RYT2hVeDl2UHNSRDVtU2hsalhJcUNncWZ0LWNyamdXQkktY0IwdDNUV0QtSGFFSkd6ZGFjRXgzazQ2WG9JcnhUMmNYM212a25UNXBzWGxoMGxTOW9EWmNzcnVPQQ?oc=5"
+  },
   {
    "ts": "2026-10-01T04:00:19+00:00",
    "title": "Mohnyin implements garment businesses with MSY project funds",
@@ -2168,13 +2175,6 @@
     }
    ],
    "url": "https://myanmar-now.org/mm/news/81373/"
-  },
-  {
-   "ts": "2026-09-25T09:00:17+00:00",
-   "title": "Junta chief’s AI agriculture vision collides with realities facing Myanmar farmers",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/junta-chiefs-ai-agriculture-vision-collides-with-realities-facing-myanmar-farmers/"
   }
  ]
 }
