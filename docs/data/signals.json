@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-01T06:00:22+00:00",
+ "generated_at": "2026-10-01T06:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-10-01T06:30:20+00:00",
+   "title": "One in eight cancers are linked to infections, new study finds, including a common stomach bug linked to bowel cancer",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTmc4dnBOMnI4cU5OelJhYjd2QjJmNngwM0ZxRVBSZXRYXzNTQlUyQk9DRGdBOGJsRjAta1liZVNJblJxbllySnhNRW1HX2Y2dENnb0x2TkNjend1OURlNmdPQVhlYi02T1BpVzE1clN2LVdpVDQzOEJfaGdWcGZEd2dleTRQdF9PUzBjd3E4Y2dkc0lvWXJZN25HVlZxdFZ2OUR4UzVfdVBoQUhUZVlCNHlZSTRMeVhXcE52Wg?oc=5"
+  },
   {
    "ts": "2026-10-01T05:30:17+00:00",
    "title": "KIA captures hill-top outpost as fighting resumes in Mongmit",
@@ -2161,13 +2168,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUlZJREZpNFpYcjVoSjFYdm5CV3ZQQVZST2llbTlLRkJQb1BMOGxTNy1DUHVIazZWbHZPajNqZ2c3M3ptT3dzTlFhRVNDT1ZxYWFjMEtuZ1N6LTh5N21mM2tHaU85QklaWHZMQ3R6OGJpUHJJcDBLaWhHVUJPcFp6TkM5ZExfY0xBbG9oazNmSTVRTkh4UC13TjJCeUppTTJoRER5N0kwQQ?oc=5"
-  },
-  {
-   "ts": "2026-09-25T09:30:20+00:00",
-   "title": "ကျောက်တော်ကို စစ်တပ်ဗုံးကြဲ၊ အရပ်သား ၈ ဦးဒဏ်ရာရ",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81378/"
   }
  ]
 }
