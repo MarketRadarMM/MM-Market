@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-01T02:30:18+00:00",
+ "generated_at": "2026-10-01T03:00:55+00:00",
  "signals": [
+  {
+   "ts": "2026-10-01T03:00:51+00:00",
+   "title": "ဦးမင်းအောင်လှိုင် အောက်တိုဘာမှာ မလေးရှားသွားမယ်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.co.uk/burmese/live/cmlyryd21ynkt?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-01T02:00:24+00:00",
    "title": "- yktnews.com",
@@ -2168,13 +2175,6 @@
    "source": "Khit Thit",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FX0xBVXdVbmtYV1FZc05rSkFNOTVCOFB4cjg0SDJRLXpMc2lGdi1QejUyV3o3Umt0VDluVjZ0VmpLMkpvQk9MQU9ZSQ?oc=5"
-  },
-  {
-   "ts": "2026-09-25T07:30:14+00:00",
-   "title": "ပဲခူးတိုင်းတွင် လေကြောင်းနှင့်လက်နက်ကြီးကြောင့် လေတပ် CDM အပါအဝင် ၆ ဦးသေဆုံး၊ ၄ ဦး ဒဏ်ရာရ",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81366/"
   }
  ]
 }
