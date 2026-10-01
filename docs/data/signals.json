@@ -1,6 +1,34 @@
 {
- "generated_at": "2026-10-01T13:30:21+00:00",
+ "generated_at": "2026-10-01T14:00:29+00:00",
  "signals": [
+  {
+   "ts": "2026-10-01T14:00:26+00:00",
+   "title": "23rd cooking oil donation ceremony to be held in Sagaing",
+   "source": "GNLM",
+   "markets": [
+    {
+     "market": "edible_oil",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "Edible-oil story — read for direction"
+    }
+   ],
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ0RjMk9ZZE5RUVBYYmtpV3ZIakJBcDJDTEVRdG9KVXFQMng2ZUlsREZfVm1oM3pFNHNhajh6LU4tN1FRUVRmVTRPallRc2pHWUZfbDAzYTQtN3RISXBoTXhhVXdvNzRIaElUQTJLSFB6QUJRVXFybDFrVkJFVVgxU0tQZkE3U2l0?oc=5"
+  },
+  {
+   "ts": "2026-10-01T14:00:26+00:00",
+   "title": "Testing underway for Legal AI Assistant",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8temFYTTZlNHhzNG9oeElzMnZ4T0h3UWhISGEwNnlXc1RMV2YzVW1rVUhZaGhkbmd6aXNvWUdJb2dfeHNuQW5PTWd0dHdBTUxzQkRLb3JlMUdxbVZJUWpLLTFpb0dfMzllRVpYS1JSQXJNQQ?oc=5"
+  },
+  {
+   "ts": "2026-10-01T14:00:26+00:00",
+   "title": "Myanmar delegation attends ASEAN Tourism Ministers’ Retreat in Manila",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMDQwV0E0WUFSVnN6NHFBOXhXLXB5Ukh6ZXlDYi0wWEdXeE5aVWVKTnNnZE1ZN1lGUHJGMGZ4eS1tMFB5dHJOZ2xUaXBIa1M2ZjVCdzEzRGpRdkt5OXpUVVJ6SjlDazhZRk83X3QzX1dOUDdBcjFwLU9HaTNDNnlKdUtjRTdWRDljWHd0ME9RdlJyS19iZzBrSg?oc=5"
+  },
   {
    "ts": "2026-10-01T13:30:19+00:00",
    "title": "Under Chinese Pressure, Myanmar’s UWSP Cuts Off Support to Allied Ethnic Armies",
@@ -2147,27 +2175,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNHlyUlljZm1MR2JtVl9fOUxJcy1OVFlUQk5CZmdxNS1pbmEyOTRTNUo0b0MzcW9pdWgwSWpaU3M2RndiOFNtbjJ1c0pmNEVDek5jb1d4ZlFCclVmblMtMXRFVHd6VDdGTjhvZElYa0hpMlNaNURuT1IzU1hYOVlXUDNueWc2d0VFSVJoRUdBcEFseERkM3VDQjVxNkZ1My0tVl9RekVyTklacTVoclNrNmxoeXhWRWZuTXVDTF83SmVCTmZZT0F4dFhNVzdaSGttc1Rv?oc=5"
-  },
-  {
-   "ts": "2026-09-25T20:00:17+00:00",
-   "title": "Junta enforces military service law following battlefield losses",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTnA2UWhmZngydjdSLWRCSmJ2YWxCNV9DTUtHTEJPYWhYY0FwdXZYQk9ZWFRiS1NyZVVGR2N1dndpcEJrbHFBSWQ0Y3Vpdi03enZiaVNKVmZ5N191TGRsaEEyUVdPemlVUTk5OVdrbEZXcVlUb1FEQmczaFo5cEgwR3dxVDJjOTZXb0ZfcGFIOThpSVBzZThHNlFYUXBYY0xCWmc?oc=5"
-  },
-  {
-   "ts": "2026-09-25T19:30:20+00:00",
-   "title": "Lao migrant’s disappearance in Thailand seems like transnational repression, NGO says",
-   "source": "RFA (EN)",
-   "markets": [],
-   "url": "https://rfa.org/english/laos/2026/09/25/khieo-lapchanh-laos-thailand-missing/"
-  },
-  {
-   "ts": "2026-09-25T18:30:20+00:00",
-   "title": "‘Serious deadlock’: ASEAN seeks progress with 5PC",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcERCY2Z4NnRaTkNMVkRkeUFkTmwtQXJzaUxYcGJOa0UxWDkwMFJVSFpQMjRCWTlweUV5UFp1a2p6T1VIbnhGQ1VqYkczWTVUclNiVHhvbE5YUmt0U3A2QUlhbUY5OTViZHIyV2ZURTZPeGd3OVUxTm53TG9kLVNxU3BCZC1jX1VnMVE?oc=5"
   }
  ]
 }
