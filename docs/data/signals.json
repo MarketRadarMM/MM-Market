@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-01T04:30:22+00:00",
+ "generated_at": "2026-10-01T05:00:57+00:00",
  "signals": [
+  {
+   "ts": "2026-10-01T05:00:54+00:00",
+   "title": "ဖာပွန်ကိုပြန်ရရေးလုံးပမ်းနေသည့် စစ်တပ်စစ်ကြောင်း ထင်သလောက်ခရီးမပေါက်ဟု KNLA ဆို",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81582/"
+  },
   {
    "ts": "2026-10-01T04:30:21+00:00",
    "title": "Myanmar Junta Blames Thailand, EAOs as China Urges Scam Crackdown",
@@ -2161,20 +2168,6 @@
    "source": "Myanmar Now (EN)",
    "markets": [],
    "url": "https://myanmar-now.org/en/news/myanmar-junta-attacks-bago-villages-near-the-115-mile-rest-stop/"
-  },
-  {
-   "ts": "2026-09-25T09:00:17+00:00",
-   "title": "စစ်ကိုင်းနှင့် ကချင်နယ်စပ် လေကြောင်းတိုက်ခိုက်မှုတွင် ၈ ဦးထက်မနည်းသေဆုံး",
-   "source": "Myanmar Now (MM)",
-   "markets": [
-    {
-     "market": "pulses",
-     "direction": "bullish",
-     "confidence": 0.55,
-     "rationale": "Conflict in bean/sesame heartland threatens supply"
-    }
-   ],
-   "url": "https://myanmar-now.org/mm/news/81373/"
   }
  ]
 }
