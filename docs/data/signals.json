@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-01T11:30:19+00:00",
+ "generated_at": "2026-10-01T12:00:25+00:00",
  "signals": [
+  {
+   "ts": "2026-10-01T12:00:21+00:00",
+   "title": "Myanmar nationals in Malaysia fear arrest and forced return",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/myanmar-nationals-in-malaysia-fear-arrest-and-forced-return/"
+  },
   {
    "ts": "2026-10-01T11:00:27+00:00",
    "title": "NSPNC, NCA-S EAOs hold second-day meeting",
@@ -2148,13 +2155,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/ck2094wjdy65o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-25T12:30:23+00:00",
-   "title": "President U Min Aung Hlaing responds to queries raised by Charlie Campbell the journalist from the Time Magazine at the President’s Office in Nay Pyi Taw on the morning of 28 August",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbWk5Sy0tTDU5dzJMU3I4S0ozY0RST09Bb2VBT1pFZEZkTk13eUdfRDNNWUx0WHNYd1JtNnd0U1Z3UnBuZ3BmZW8xMWtWY0xWTnR1TFVIWmFUdXR3Vm8zcU1ld0pNVEJKSnpIWW4yUkdFemJ6cU5tTkRNTko2b1NzeDh2Sk5WMlVTWDhzM1dnbm05ejhhSXlnZ3UwWWtqc01Ibk5JT1VlekYtQ2F3OFRyV18xa2ZSNnc?oc=5"
   }
  ]
 }
