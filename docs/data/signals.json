@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-10-01T09:30:18+00:00",
+ "generated_at": "2026-10-01T10:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-10-01T10:00:20+00:00",
+   "title": "17-10-2022 Myawady Newspaer.pdf",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUDdsa3AxWmpGX1ZNTjRzbTdWZ2V4MTNHa3EwOVhPSzFUYzV1MW4tRGtNZEJhMWRfaHY0YkRHbkZWZlFpVjUtWklXMEhwSUVkZUR4Wlp4QXJnOVR0QWN2MHFsV0NLVnd2VDdNVVFkUGJlWUxReVJNQU9iY0g4LVZjdG9YQnpsNnZmeGhxektrZEZUVjFtbjZWdHE4ZFpaS1J0Qm41aGtEaElqUmE5cElHTzJjcW1veGlJdnlzV0w5NmFiem9fb2N1Y3ZoOE1yRWxzenJaczg1MGpjRnpHZ2F5YWVsdzdRZS1QckRWZUZR?oc=5"
+  },
+  {
+   "ts": "2026-10-01T10:00:17+00:00",
+   "title": "Death toll rises to 34 as floods, landslides devastate villages in southern Myanmar",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/death-toll-rises-to-34-as-floods-landslides-devastate-villages-in-southern-myanmar/"
+  },
   {
    "ts": "2026-10-01T09:30:16+00:00",
    "title": "Myanmar Military Shifts Regional Command to Embattled Karenni’s Loikaw",
@@ -2154,20 +2168,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSVJYSkxicEVPd2JFNXp6Y1dlUU8weV9oY2F0N2FMVmlSdTVvZ3lyT2hiRjBaRU5URXZERFpYaUpiUG9JcVZZQUdJSUFzekxPaUZUbnpKVzlzdENmOFNVbGxJTHBWWnFvZ0xGaEQxR0pVa1NGVjd2TUJCNnRNTEZfMlVQaFNtbkxNWnRNYXlnWVdncGRqTjRKbEh2MU5ucTNFYzFYRkNKbGwySnljVzVTYVJURTBQQnM0MjBRYUJZT1NLaEQ5X210c29zSEk?oc=5"
-  },
-  {
-   "ts": "2026-09-25T11:30:18+00:00",
-   "title": "မန္တလေးတွင် ကျားဖြန့်နှင့်ဆက်စပ်၍ ဖုန်းဆင်းကတ် ၅ သိန်းနီးပါး ပိတ်ခဲ့ရဟု စစ်တပ် ဆို",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81386/"
-  },
-  {
-   "ts": "2026-09-25T11:00:20+00:00",
-   "title": "ရန်ကုန်တွင် အထည်ချုပ်စက်ရုံ  ၁ ရုံထပ်ပိတ်မည်",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81383/"
   }
  ]
 }
