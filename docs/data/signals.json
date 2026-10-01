@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-10-01T21:00:25+00:00",
+ "generated_at": "2026-10-01T21:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-10-01T21:30:18+00:00",
+   "title": "Over 500 vehicles fitted with RFID-based TollPass System on Yangon-Mandalay Expressway",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZklhMHlURlRIbTRhWjRVVnBUNlNVZzRRLWZ0cDlDWVZyQWF5LUVuNGtWY2xVSzVtMktiVlQyRVdZcVV0dUp1Mks3aGpVQlZKMzc0UTFuNkRQMXhRQUxac1RfQXBpZkdJelhTa0tzTFFIZlozRExqZ1BGYVh3aF8wanRfWW80QmtjQWtUd3dIS1ZfakZ0aXpJS1hxa2h0OXJLdzFHVC1tc2o2MnRpSFFIcQ?oc=5"
+  },
+  {
+   "ts": "2026-10-01T21:30:18+00:00",
+   "title": "Monsoon predicted to leave early, water security is essential",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ0tRUTRYUUpZY2RIQW5oWlJjU0ZlMHZ2YVZkOGt6S2U2eTcyOFRTZk1iLUdCTDZaMEhId25lOVYtaUN1ZzdlTDRHTHhSWldsQkt2ZGlmaFpQLVJTcEVocFBvcmM2LUE5aXpKS1pHVjNwbEZVN1p4bk5ud29qRGtQZUJWdWJjaGl3c24taElR?oc=5"
+  },
   {
    "ts": "2026-10-01T21:00:24+00:00",
    "title": "Kangyidaunt inspects VDP concrete wheel-track road project",
@@ -2161,20 +2175,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNFpSbGtIQ0w5TE40cUM0OVZ4cUpoQlNqbEoxczNNMVVnMVJFSzR3eUhTNDRsUVFnNUFyTUN1Q2lZXzFRVmQ2b0RJemNtVGNqYzUweFJtSVlWZThaTEJaYi11c1d3a2hWbWQtTC13VjVGZWpIbm9aYjdnOEE0UlVkZ1NR?oc=5"
-  },
-  {
-   "ts": "2026-09-25T22:00:19+00:00",
-   "title": "Tachilek Opens to Third-Country Tourists on Package Trips",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTENZY2N2ekhFMWlGNkZHOFZsV0pURnRCMXV6N1cxZ3l1RnBHR3ZHdG5PZlpGeS1jWFV1dWlkWHgxN1dHcG0zRjE3ZkkwSTEtTGtlMG4talY4T0lHbl9DLS13OVA3Q21scnJ2WDFVWG14LXpJS2JYdUk3UDhLTE93QU5rQkFNMllJNXc?oc=5"
-  },
-  {
-   "ts": "2026-09-25T22:00:19+00:00",
-   "title": "Mid-Autumn Mooncake Festival and Tea Culture Exhibition held",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWwyeVItendhaVNjNlpoNmhoQVZ2TWJFNGhJb2RCbzJweGZrT1VxcHVaREtNUG9QXzFLY0IxeG1KdWlmTWZEVVhqWENmb0lmR1dJLVgtM0hSMDZyeWYyZEQ1QnI1Rkx1VjFQTEgxdWNxdmlaaHAxXzBVWURXcXNyOHlNSDNic1BhSHZvMHFB?oc=5"
   }
  ]
 }
