@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-01T20:00:26+00:00",
+ "generated_at": "2026-10-01T20:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-10-01T20:30:20+00:00",
+   "title": "Kalay-Falam-Haka Road reopens after landslide clearup work",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNk1GQWU4ellVMGRVRTZXakI0ejFmRHhPQUZ1TDFfU1ZJUHhxclZXb2JuX1JfT3VuM0ZPd3pjamR3RjhQSHFnN3pPbnRzbllLN3V5V3lkcURVY1lfMm4wTDh2b0xRdWp6NWJ1bkpMa1RVNDJjbi1Wc2FXazN6emJLZEtZNEFGRWJpVXh3?oc=5"
+  },
   {
    "ts": "2026-10-01T19:00:22+00:00",
    "title": "Accomplices of fugitive Thin Thin Nwe arrested over unlawful sale of cosmetics and gems to fund terrorist groups",
@@ -2168,13 +2175,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLTFuN3R5NnhYOWtFSVAyU1VOMVNqckhubm01MlpaeVZGZlJjUWlOTEpJbXdBQlRFWDlNYWFNZWk2Mnc3MDgzTGhZSG5vVTd3N0ljNjRfbW5MWmR0YTJjVWkxOExEVzRQVE5CQzZyMlJfejZNelNTbW9hOGpHWVgtVFRR?oc=5"
-  },
-  {
-   "ts": "2026-09-25T21:30:17+00:00",
-   "title": "Uyghur advocates in Washington rally against visit by Chinese President Xi Jinping",
-   "source": "RFA (EN)",
-   "markets": [],
-   "url": "https://rfa.org/english/uyghur/2026/09/25/uyghur-protest-china-xi-jinping/"
   }
  ]
 }
