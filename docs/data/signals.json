@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-02T03:00:25+00:00",
+ "generated_at": "2026-10-02T03:30:22+00:00",
  "signals": [
+  {
+   "ts": "2026-10-02T03:30:19+00:00",
+   "title": "Myanmar Protesters Say an Attack on China’s Pipelines Would Be ‘Internal Affair’",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQanE2Sk0tNnBwbm8yNnoyM043cUhuZHR6V1IzQmJvZ2xqWDU0WGw0anUxN1NTTzkweUJYZTNLRXBBZnE0b3lfVkJuMUM4ZjQtWWtwMDVzNHJ4V2VJbGNOYlU1OFpTalBlakliZV9paFJNUzllN2R0UUZXNE5WbUxsWENtUUpOMXFxY3V0ZG5kMGh3ajV4Um5laEZ0R2hxRFNXX1QwMm9YTQ?oc=5"
+  },
   {
    "ts": "2026-10-02T03:00:24+00:00",
    "title": "Striving to generate nuclear energy for national interest",
@@ -2175,13 +2182,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOY2FlWDhqSU8zYl9JZ1UxRkEtckpWM0ViUm5TQ0MzNWVrWk8tTDctMGFfSEl4ZW8yQUxSVnRHOUgtQW8xNkFBemZQWk1EVTlUTXdENll3UzdfM05FVVZiejVOd216VkNDd2N4N0NjYzVBdHBYYkthNjRIV3hrZVBORXlXazRGVDViVFI2cDJaTEphbXdLVmhCY0F4cw?oc=5"
-  },
-  {
-   "ts": "2026-09-26T00:30:15+00:00",
-   "title": "Tractor Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5LLTJaZG52cDhCVUxBbzU5dEVrdkpoMEEtTVZKZWxLZFdmS2pnMlZETk45TVVwRlY5VXh5ZFhFTHBGdzhodm1iekhJRmg1Z1p1?oc=5"
   }
  ]
 }
