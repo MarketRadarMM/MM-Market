@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-02T05:30:16+00:00",
+ "generated_at": "2026-10-02T06:00:19+00:00",
  "signals": [
+  {
+   "ts": "2026-10-02T06:00:15+00:00",
+   "title": "ခရစ်တာ ပိုက်ခ် ရဲ့ ကွပ်မျက်မှု မအောင်မြင်ခဲ့တာ ဘာကြောင့်လဲ၊ ဘာတွေဖြစ်လာနိုင်သလဲ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cxj0606p9q93o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-02T05:00:18+00:00",
    "title": "Myanmar Regime Seizes Bank Accounts of Soros’ Open Society Foundation",
@@ -2175,13 +2182,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTndIZ1QzS3NYcE5DdVlzR3U4UUNnYVotWk9uYnBucXI2WlZZSFNoRGZGOGdEOEZxMGZDMTB0OXBST1Bqak8tYjhNX3phRHEwWlQ1NGVlRl8yb2IxT2FPc3dmN0xWNHZUMXpuSzJxSjNwTkIyd1pXRS10Z0Z5VUZJdUNKR0xqS3U0c3Nsc2pBYi1nTHBkbjVKVXJRMjB6M1cwV1ZYZkZZMHVZWTByU3hqYkVZY2JhZDhYdmh4dUptWXk2elU?oc=5"
-  },
-  {
-   "ts": "2026-09-26T00:30:15+00:00",
-   "title": "ငတာ Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9leEtCMnpnWDE5Y2RfV3BEdkR0c2pPd1hxQVdLZnQ3OERUaW53S3N6eHlveUFwWVNRVkdpdUF1d2tuUjM3R0xIdTdMeHE0QU5zZklXWGNkcG5hOG84TVdRSkNqUFRYbHY4WnRN?oc=5"
   }
  ]
 }
