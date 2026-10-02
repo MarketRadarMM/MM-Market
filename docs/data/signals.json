@@ -1,6 +1,48 @@
 {
- "generated_at": "2026-10-02T22:00:24+00:00",
+ "generated_at": "2026-10-02T22:30:27+00:00",
  "signals": [
+  {
+   "ts": "2026-10-02T22:30:26+00:00",
+   "title": "55 basic education schools reopen in Taninthayi Region",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWjBtVVJ6TWh2QmhnbDBiWThfNEhTc2E4R0VLUmkyTmJmdERVUG1kVVFoMTk4ZUdyXzBtQk5wRVpaYXNUdDdvZ1NraVNVdzJlNDdxWG93cVpXSkVweWlPR2RMM25GbTZRY3RjZjJTck16TEVXUE1ob3ZabTlsa0FoT0FqMjdvZw?oc=5"
+  },
+  {
+   "ts": "2026-10-02T22:30:26+00:00",
+   "title": "APTERR Programme-3 Delivers 164 Tonnes of Chinese Rice to MDY",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd0ptcl95SjQ0RnpoMzhhMWRtTXp6cjJ5ckt1MV9NVDNnOVdpQ2dEcWM3dVdWaEFJN0xkREhsZ2Z0VW1SNGtPekV1bWNNZVJ0ODEteWpnUk9MbFBYOTJHYWlTZkllajA5OHhZMC02dXZzZXV0ZEJiS2ZnV1NiVlFNV0c1QUZGdlVhenN4M1B3UQ?oc=5"
+  },
+  {
+   "ts": "2026-10-02T22:30:26+00:00",
+   "title": "MSY Village Project activities inspected in Nyaungshwe",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdlNvYlh6ZzdpSFFTQUh3bjgxbS1MaWhWb2FHRzFHNFhGWTJsMXplbW9ScHlpb2syazcyVVpPbFk1MWtzdjV2ejk4QmpBZ3JQejhvalcxN0pNODlseEdCNy1YUl9RTTFSdjM3WnZKUXpRdWI2a2dxb0YyUy1xT3RPVXJHWm1Ia2JO?oc=5"
+  },
+  {
+   "ts": "2026-10-02T22:30:26+00:00",
+   "title": "K45M provided to 11 ethnic organizations in Shan State (South)",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcmJ2Vk80Tk12eVNYMUxEZzh3VFNxeDFOVmZlVEp0NHEzZFFNenozN19ScUVrekJYNTBvUXNtU2tHem9RMmE1REdNMmRPaEN0VndkR0Z5emhBS2hMdl9naGlSR0NhTjNJVzRiU0xEVFVhTEtmZVpab2c3TDhkYXdKeC01OVJfY2I5dWZPb0t3?oc=5"
+  },
+  {
+   "ts": "2026-10-02T22:30:26+00:00",
+   "title": "Frontline Tatmadaw members receive warm welcome home",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZVZwRkJiZldLNWhUWS11QWZGVWs5SmVjeHFfeFZWRVU2aXhUSXl3ZW1Ua3BObldjRzNxazVab1RrdjB1UmstT0NWX2VTRktuNTZIMU8ySEtPS1BUbjlDUUQzRnFCb1BwVkZva21HRmdrUVRSVEZXcWNLaHV0MVE3VWx1VTIzdw?oc=5"
+  },
+  {
+   "ts": "2026-10-02T22:30:26+00:00",
+   "title": "3 October 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvODlMajQwTWp1YTlka2lXeVRENno1WkM5RVpReGxZMHVsNkVtQndpbG1FLVJQS04ySDJhV2NLbUxBaXdnRXp2RGFQd2tCY1Na?oc=5"
+  },
   {
    "ts": "2026-10-02T21:30:28+00:00",
    "title": "Myanmar junta airstrikes target civilians to coerce Arakan Army into peace talks",
@@ -2152,55 +2194,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMmRjQXZpUXlEZ3l5LWhZN08zcWJhVEl0ZU96aU9DckVuQjQ3MWtCQTBiM19KMWpjUnRsTUpBWmRCZDFhVjJKbU1DNmtQNVh1WjdpcDJ1enN3aXdSSjNfWHdEWjMtdXR6d1hMZGZZN1J2M1lMQWk0M1lzOFhYLVUwQw?oc=5"
-  },
-  {
-   "ts": "2026-09-26T05:30:15+00:00",
-   "title": "Benchmark price for palm oil remains stable",
-   "source": "GNLM",
-   "markets": [
-    {
-     "market": "edible_oil",
-     "direction": "neutral",
-     "confidence": 0.5,
-     "rationale": "Edible-oil story — read for direction"
-    }
-   ],
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0taUlSTU9SakRwN0dKOFV0eXZsOWkxMjVSMktIUWRuNTQ1SHdaek9lclgwQ01rYWlNQ3llbFJ6eHl6MnJBU1MxbVE5UVBlX2VhSkVheG9reEVMUXVFbXliZXZMaTc5VEh2ajFmYUN5TlFsYmR2OE9B?oc=5"
-  },
-  {
-   "ts": "2026-09-26T03:00:20+00:00",
-   "title": "၃၅ နှစ်အထက်ကိုပါ ပစ်မှတ်ထားလာသော စစ်သားသစ်စုဆောင်းရေး",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81403/"
-  },
-  {
-   "ts": "2026-09-26T03:00:19+00:00",
-   "title": "စက်တင်ဘာ ၂၆ သတင်းများ အနှစ်ချုပ်- ထိုင်းနိုင်ငံက လေဖိအားနည်းရပ်ဝန်းတိမ်တွေ ရွေ့လာနိုင်ပြီး မြန်မာဘက်မှာမိုးကြီးနိုင်",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cj62eez192rgo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-26T02:30:17+00:00",
-   "title": "Myanmar Junta Chief Thanks Trump for Shutting Down VOA and RFA",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeGhTcGVCSU45akFHeWZHVldXeXlQcW1MWWJJUzlKLU5QZXJHY3l6bVRZOW9nR29WWTAtSEJyOEktSkNJRVFFX01DRmFodmxjekNsMHBNcVRzOHpOZjNRU25JWi1NVGtRS0JESEhtS1ZXalZndkFMTkhHeXNzR0YzeGVuZHhWWXYwcl9QSFV0Y1EtU1NrSHV0RFZxd2RQVndERUY5UTB3MA?oc=5"
-  },
-  {
-   "ts": "2026-09-26T02:30:17+00:00",
-   "title": "The Irrawaddy News Magazine [Covering Burma and Southeast Asia]",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94cGFKeXg2elRSd19nQzZTdmJxYjN3NUN0R1VJNDR4UDh6MEw0c2FUbWpfVXZmZ2VNM3YxcnE5cmdEMGZSb0l2TnZIQWZQVG9Ya3BIZ2hpbk5mSGJvV3dhSE1peUIyajVV?oc=5"
-  },
-  {
-   "ts": "2026-09-26T02:00:19+00:00",
-   "title": "Myanmar Regime Seizes Bank Accounts of Soros’ Open Society Foundation",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSnE3MnhKaGNMenR2LWl4YXRwcF9iWXpPekVCWndWSGFNWldfbkJ5SW42a2xSdE51VDRHVHE1bEwtVG9HQXBuUlVfU1NBTmtfbTY1LTMxZHBLTktsT2dFRnRHRmktcExpTG9WOUVILVM4c2tTVnQwODEzcU03SkwzNFlLMUowNFZhamdLdEZuakJ2LU9UMC1mT1haa1BnNGRiNVlNMkpB?oc=5"
   }
  ]
 }
