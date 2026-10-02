@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-02T21:00:22+00:00",
+ "generated_at": "2026-10-02T21:30:30+00:00",
  "signals": [
+  {
+   "ts": "2026-10-02T21:30:28+00:00",
+   "title": "Myanmar junta airstrikes target civilians to coerce Arakan Army into peace talks",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/myanmar/2026/10/02/myanmar-rakhine-air-strike-civilians/"
+  },
   {
    "ts": "2026-10-02T20:00:24+00:00",
    "title": "Fear and voting in Myanmar: Junta election heralds more violence",
@@ -2194,13 +2201,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSnE3MnhKaGNMenR2LWl4YXRwcF9iWXpPekVCWndWSGFNWldfbkJ5SW42a2xSdE51VDRHVHE1bEwtVG9HQXBuUlVfU1NBTmtfbTY1LTMxZHBLTktsT2dFRnRHRmktcExpTG9WOUVILVM4c2tTVnQwODEzcU03SkwzNFlLMUowNFZhamdLdEZuakJ2LU9UMC1mT1haa1BnNGRiNVlNMkpB?oc=5"
-  },
-  {
-   "ts": "2026-09-26T01:30:16+00:00",
-   "title": "26 September 2026",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5hSDZCbll6c2l5RGl0N0NQXzduOV81UktsQ0Zna2JPcS1fOUxPVW9pT0g5TlVJdEtQM2hwaFJHUFZCOE9nazNRc1B3Q0xOSU5SbTlaQw?oc=5"
   }
  ]
 }
