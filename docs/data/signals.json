@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-02T19:30:20+00:00",
+ "generated_at": "2026-10-02T20:00:25+00:00",
  "signals": [
+  {
+   "ts": "2026-10-02T20:00:24+00:00",
+   "title": "Fear and voting in Myanmar: Junta election heralds more violence",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWVl2RE5ncy0xNGxqZGtTQzI0Q0o1TnVfLTRVY2EzVVE0TzcwRFJ4NTB1MF9wV2dUVkZpQXZmcXZvUGt6N21rc21peV9JOERNd1hJdnQ5Z1NWRTF2NGxrSm90YzdsUHlSWDhQc0l4ejdFUUM5eWQ2S0J5c2x3ck8zUmgzZXJTYTJsM0lTYTNTTnRzVUpJSk9ZWi1NOGw1Q295?oc=5"
+  },
   {
    "ts": "2026-10-02T19:00:21+00:00",
    "title": "real estate disputes Archives",
@@ -2194,13 +2201,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5hSDZCbll6c2l5RGl0N0NQXzduOV81UktsQ0Zna2JPcS1fOUxPVW9pT0g5TlVJdEtQM2hwaFJHUFZCOE9nazNRc1B3Q0xOSU5SbTlaQw?oc=5"
-  },
-  {
-   "ts": "2026-09-26T01:00:20+00:00",
-   "title": "Myanmar wins silver on dragon boat debut",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zZDRRRW1ET0tCNXVyNkNZdDE0bVp1N0ZhRG1uOTNFanNtRmNfUkdJUHQ1WlhFUjI1ZDVlc2tUbHVpMlpsbG5zVzlxMFU1VzVveHp2cGJJNUF6VkstODFSVW5MT2N6NXoyaVNWaVh0R2JPS2s?oc=5"
   }
  ]
 }
