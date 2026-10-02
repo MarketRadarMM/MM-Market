@@ -1,6 +1,41 @@
 {
- "generated_at": "2026-10-02T01:00:55+00:00",
+ "generated_at": "2026-10-02T01:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-10-02T01:30:20+00:00",
+   "title": "Understand Tatmadaw’s national political role; be united and dutiful to nation, Tatmadaw",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMnhFWWpsRGp2cFNGNWlzUzlweUhBdG9tWmRMNUFJdGF5ajZWMlVDQkJWYXdDNjM3MHNQZmxsRkdieENXZjFCNGs5OUlkaktId2ZLMjV3WTNpUFJoajZvNy02VTkzS1JOM2d6YjA1WWxwU08zOHJ1VVRuZUhDdXkwNmZfMjZfOGEwWFhWLXl0UzhBQ1BSekVLcU02OFFoUFZVYVpsS0luamw?oc=5"
+  },
+  {
+   "ts": "2026-10-02T01:30:17+00:00",
+   "title": "Myanmar targets US$2B from rice exports in 2028",
+   "source": "GNLM",
+   "markets": [
+    {
+     "market": "rice",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "Rice-market story — read for direction"
+    }
+   ],
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5fLXFabEZiNEdoZUxQVHZwU2ExWmstRGl0ZGxsbEhNZ0hfYXNra0NGeTBfdWpFNkJrelo2LUVSemllTmtGMHBTdkpodDAwUFk3QzZNakJWa3ZNSXUzM25JX3p5M3hiaGplaE8xY2M5eGtqZHRUYmdwelF4QQ?oc=5"
+  },
+  {
+   "ts": "2026-10-02T01:30:17+00:00",
+   "title": "Russia Delivers Sunflower Oil Aid to Myanmar via WFP",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVU84SmJFMFpjVF93elVNbHlsX1ozbzR0MnR6NG92UXpQeFZiRmpRYmtoOWI1UTdDVEpmTVg2a2VDSFY1MlB6WW5Ud1pqRk9zUkhRdjJGTzEyVVd0Rkx2M1c4YngtWVdrVXQ5YmppS09samlWWDR3cGVlUWNaNTI5aXhhWQ?oc=5"
+  },
+  {
+   "ts": "2026-10-02T01:30:17+00:00",
+   "title": "2 October 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rR3lha2RuR3g0cVVLVmw2UEctdENhZnpzVVBwMmNBVEs3UldnMW56WFVqRmNMRUgxRTVfRDYyeWx4VXVNeG80LU96bXRqTktD?oc=5"
+  },
   {
    "ts": "2026-10-01T23:30:19+00:00",
    "title": "Q&A: ‘Refugees should be a shared responsibility’",
@@ -2147,34 +2182,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR2lmb3c4QjRVU1NqcGhGWHBoVnMtOU13cEpEbkltY3JhUEJYVVFhYmdJbWFleGRlUU9vYV85bzJBNU01bzFvaFFOSU9EOGhodG5zTG1zblFfaDdvYkplaFJoaVZGTEIxTHAyN3BzWFMtQkp0cEwxVVN1MUo2eUk2dVNXNVMzT0RCV1ZWNWZ0S2xMZ2pWS2NBRWdKcW9vLWw3MkUtSDBDd1FsQkFramtfZy1pbw?oc=5"
-  },
-  {
-   "ts": "2026-09-26T00:00:20+00:00",
-   "title": "Is the ‘armed group’ label still appropriate for the Arakan Army?",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQzI3cWI2M3JpcDZ5MUg5bXVCaGxpQ3R5dTAzUkMtYS1CaEhuZ3lheGx6WG1uVmtKUENrODVhUmVzMDZDR3M5b2lCdlBkYWV1NGp1dUhTbEtiTjFTV1JnX1RpX3hNT080MmljZW9oY1k4VnFzdnV3YjZhWjU1NUxNYWpuMDdERlpKVF9aTlpPUDZYV0pNbkg0b2czdnVKbTA?oc=5"
-  },
-  {
-   "ts": "2026-09-25T23:30:17+00:00",
-   "title": "Honorary awards presented to Tatmadaw member athletes who won medals at the 19th Asian Games, 33rd SEA Games and 13th ASEAN Para Games bringing honour to the State and coaches who guided them to win medals",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUGlyRlNUTmVRS0UxeDRtdF8wVEkxeTVSZ3ZNLVo4bXBuZEpKVTY3QzB1cFY3ZUF5RDJoMmluWXdaaWZienlHTi1pNmllUmxxS1ZEbVlkRFF6dGlReWhLV2U1blpFellVZXFlVG1sRW5LYmd2QlM5TC1ETmNjNjRYTUtwLTRmOTlqbHFLRzA2U3UzX0tIbG5pYTJtdG8zTXZWSHZER2tpUU54ZEx4Z1ExQWh0SGJPM3JaLXJWWDZ3am5DZw?oc=5"
-  },
-  {
-   "ts": "2026-09-25T22:30:22+00:00",
-   "title": "Vice-President U Nyo Saw receives Guangzhou Mayor, Governor of Guangxi Zhuang Autonomous Region",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU2lHZlBBNHVoMWs1NGg2T0hlVS14WlhOME5FajFkOUhGb2luQXhKd1F4cjZFamJqaGstcmNSMG1na0x3NDNnZ2Z6QU9xdERweDlWcmoxUV9WMlJiYmJ4bjliNmtIb3V1WkgtLWZiVHlFWjdzYmNfd1FkM050OHlCc1ViOWxnQTAwOElBeFR1WFotbHJuZHVyZkJsankyOXFCay0xY3pvWWZyWjZ5OHE3dGV3bFRfd2RTSXVV?oc=5"
-  },
-  {
-   "ts": "2026-09-25T22:30:22+00:00",
-   "title": "Nepal-funded Mahamuni inscription hall reopens in Mandalay",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd2tBMGw4U1FZRG45N3lPS3YtbVAwNXltZ3h1eFJ4SWRLWXhfZm5TSklXUUZBTzdjSVRPMGN0M1I1UnBFeDVSRWxtaG81NHdZMXU2clNYd2J3eWpBR3FVR1VyVDBDZUk1SjNLYlNHMHYxckFGZFFtYnROa1F0cWRfTVNKbGtQSm1BeURj?oc=5"
   }
  ]
 }
