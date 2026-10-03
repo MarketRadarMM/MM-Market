@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-03T03:30:54+00:00",
+ "generated_at": "2026-10-03T04:00:19+00:00",
  "signals": [
+  {
+   "ts": "2026-10-03T04:00:18+00:00",
+   "title": "Myanmar virtually attends 24th SCO Prosecutors-General Meeting",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMVdiNW5GZjFQcGdMQ2w4TnlKVG53c3FfdnlzQU1uMTFoa0NEXzJtazJFMl9XdXk5VVRYSkJGblItUDRTdjBZZ0I5YXJLSVdaRlFyZ1FycFZUbU1NZ0lMMWo2ZVlGbDJTX0dkNFpPbW1sSzFkdDF4VFZOMUNVX1kxeU1BY3JwN2o5N0VONWpxVlA?oc=5"
+  },
   {
    "ts": "2026-10-03T03:30:53+00:00",
    "title": "111 Dawei Flood Families Receive MRCS Relief",
@@ -2187,13 +2194,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/cm62een03pq6o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-26T11:00:20+00:00",
-   "title": "Ceremony marking the inauguration of the Nursing Institute (Nay Pyi Taw) and other similar institutes in regions and states held, addressed by President of the Republic of the Union of Myanmar U Min Aung Hlaing",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdUs2eFdCQ0FmVFhCQWJfVmhzdkpJODF1SmVoaDdFMmdUVmZNVGdoNWFFOW1Jd0lua09ydnZnSWJVRFlyT3hpOU5Ud2xLSGoyM29qQWVyMXIxVzJkSTNpdndZeURJb0hXU2RsQ1lTM0dsSDJjTmhXN2NaMUVaOE9sNkdFcFFpdGl3bVJWd1NITGxvUVM5S2lJVjhsRm9yS256YTVJOTlCbXdDWHNVYXpibmtxQktzM0xtbkw4?oc=5"
   }
  ]
 }
