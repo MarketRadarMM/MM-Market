@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-10-03T03:00:20+00:00",
+ "generated_at": "2026-10-03T03:30:54+00:00",
  "signals": [
+  {
+   "ts": "2026-10-03T03:30:53+00:00",
+   "title": "111 Dawei Flood Families Receive MRCS Relief",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuUnBjaVljN1RaLXBnZGhyV3pqYkt0VmhzSjlsbloyajFEMUt4Nm9uQm52WUxUTVNHeFBTX3N0WmIzSzNBUFU0TllnSk1hMVMwVjRuaWdLLWlvVjZ0THdGYk56UEctNFhUQ2lJYWpUY2ppSDFJajJaYg?oc=5"
+  },
+  {
+   "ts": "2026-10-03T03:30:49+00:00",
+   "title": "ကျွန်မ ''သား'' အိမ်ပြန်ရောက်မှ သက်ပြင်းချနိုင်မယ် - မလေးရှားအကျဥ်းစခန်းက ပြန်လာသူတွေကို စောင့်နေသူများ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c6dj4jj0vzw8o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-03T03:00:20+00:00",
    "title": "Patron of Myanmar War Veterans Organization Chairman of State Administration Council Commander-in-Chief of Defence Services Senior General Min Aung Hlaing at the Conference 2021 of MWVO",
@@ -2180,20 +2194,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdUs2eFdCQ0FmVFhCQWJfVmhzdkpJODF1SmVoaDdFMmdUVmZNVGdoNWFFOW1Jd0lua09ydnZnSWJVRFlyT3hpOU5Ud2xLSGoyM29qQWVyMXIxVzJkSTNpdndZeURJb0hXU2RsQ1lTM0dsSDJjTmhXN2NaMUVaOE9sNkdFcFFpdGl3bVJWd1NITGxvUVM5S2lJVjhsRm9yS256YTVJOTlCbXdDWHNVYXpibmtxQktzM0xtbkw4?oc=5"
-  },
-  {
-   "ts": "2026-09-26T10:30:21+00:00",
-   "title": "Tatmadaw effectively crushes terrorist insurgent base with cooperation of conscientious citizens and informants",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdEsxUW4tSF9MOFJtWnlVeUdiZS1UMkZJdlB3QkhXWnFhZlVqMEt3MW5SVE5POXYxd2lnVHRRVm1JTTFnMTNCV2c2VDFYLXVGNXNZODVENU9YM2RzeThDNHJXWTFNTnJ4TEZCVld4SFA5ZUJtT1pJa2E5SVlabWlkTmxwUmZCbXJqeDFzWEZGeWNRaWF6NTZxS3J5SXg4NDdWTXZtZlRiNVdVOFg0SC1lNS10ejlwYWtQaE00?oc=5"
-  },
-  {
-   "ts": "2026-09-26T09:00:27+00:00",
-   "title": "‘It was all lies’: Myanmar’s military widows denied pensions and payouts",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPanpDWUNEX2VHVHhIT1h2bHUtdE1iTDNrbGR4Yi1oVmVXU3MtWkFtaDhkeThuTFNfYm9ublhqeUtlZXQ0Ry1Na0kwYXN1M0Vla0RlYVVubGgzY3hVRF9NOThkeWptS3NnR1Q0WG1ES2tOUmVjTHZaamdUYlRCc0hfZmxXNU1hN1UzT1BRbWNKNXpBaVI1NlFoT1FPQzF2TnJWQ1BjeF95WQ?oc=5"
   }
  ]
 }
