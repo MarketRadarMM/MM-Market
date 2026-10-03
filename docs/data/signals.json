@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-03T20:30:20+00:00",
+ "generated_at": "2026-10-03T21:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-10-03T21:00:20+00:00",
+   "title": "News in Brief",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZbUZMODlUY0x0VHB5N2Fja3FET09lSGhacFhSMWJhWkpiMENmOXRSOE1BaHpaR3c4VUZra0xkczk0UEtxZWJua01GQUNVWmwwVW5tVjMtM0dFNXY2ZVE?oc=5"
+  },
   {
    "ts": "2026-10-03T19:00:20+00:00",
    "title": "Chairman of State Administration Council Prime Minister Senior General Min Aung Hlaing delivers speech at Meeting (16/2021) of SAC",
@@ -2187,13 +2194,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeTRMNmFhb0p0UUZFX3JUeDdtRFdDOHVRczJXbGFIMVNIVS1sVEJ3bjZIVnFRYXRLbnBENTZQRm13a0dNMF9kSGkzWDlkYkNZdTljc2d0V0pDR1FDREJJMV9pam9OSFBpakdWYkE4SmlvLTB3SmpZUmkyVUF0dXFrZnZsVEgxOWx3TnlIOTNWTGhySTQ?oc=5"
-  },
-  {
-   "ts": "2026-09-27T00:30:21+00:00",
-   "title": "Myanmar MSME (Cluster) Footwear Entrepreneurs Federation opens new temporary office",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbmFoWjY1clEtLUV5QjJNSGtCbDRkMXU5Y3pYcklDS3d3cmwxSUNRYlM4aWJjcG9SSXU5M3Y0NDhmSWJRSmtHSXlNRXQydEMtQU9LRHYwQmdXN0pqVDI0Sk5YM256MVNiRTJDWGkyYWtocWhJZnowNzNsdXVsS2pJYWZBSDdoZENYbl83WllpWjRWeTdqTzR1aWVWek16VExvaDV5cTQySHBVdw?oc=5"
   }
  ]
 }
