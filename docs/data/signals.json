@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-03T08:30:18+00:00",
+ "generated_at": "2026-10-03T09:00:18+00:00",
  "signals": [
+  {
+   "ts": "2026-10-03T09:00:17+00:00",
+   "title": "ကစ္ဆပနဒီတံတား Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcDdlRC1fQTl4Q3oyUkFkWXFsN0xXWndZeEU3MGU0bklSS2UtTnFYb1J2WEQ2SEtnNnB1MHY2TkZYM3NJYzBEWFBZb1JBOWtPX25qWnRwd0VoVjFvMzhjN2E1bFVYSk9NQURiQmJtWEZrMXlJT2NBbndyLTZ1RDFkME5UR05DZVQ1N2xma2FVM1I2N2FNT1RXWjM0UXB1VWc5STFqMjZnbm1fMUZFQ2hRTHJUY3RZVEtxME12T2UwVF9UMThiWkY4UERFM2EzT09YS2lubnBSdUQ4bE4xTUo0YlhYdw?oc=5"
+  },
   {
    "ts": "2026-10-03T08:00:20+00:00",
    "title": "How Do We Use Our Brain?",
@@ -2187,13 +2194,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9faGZqbWctVEQzS3liX0Z0TXZyRUZySzBOaDBQR0p4VzdXUDVlVzRqY2h1UEJ5VGhITlNtMFdzMzBpVTJ6ek0wNW5qakRSdUpMS1dva3NQbXVKcmxJNjNqWm4xYVRKNF8wSHZBc3ZJb2RGWS1aVms0YlFaLXFwQQ?oc=5"
-  },
-  {
-   "ts": "2026-09-26T22:30:17+00:00",
-   "title": "Recasting power?: Amending the 2008 Constitution",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbjcybDM4dWc2ZFBEUGJ4aVRBRlJUTjczeEl6T1NtUzV0cDc1LVZKS0s1ZXltQVRYMU9wTkRmNXZDWnowX3oyWDI3aDd2dkNrakRKYzN5YU82MGd6eXlJcnRqR2VpWm1MV3NRZGtFWEdhVDBON2pNbTJtTHlyeHIxbkdfQVdDZzU0OWc?oc=5"
   }
  ]
 }
