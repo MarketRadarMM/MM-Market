@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-03T11:00:24+00:00",
+ "generated_at": "2026-10-03T11:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-10-03T11:30:18+00:00",
+   "title": "61st Myanma Gems & Jewellery Expo set for 8-17 Oct",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PUVY2ZC1CR2RjeFVYUG9pYkdDN0RCY2lmS1NWaUxFWGgxbTJSRzBKYnpVV1kzRHFpQUQxOGFOTXg2ZjdVQ3N4R0dERm9Ea1FRUmpvZXlYckNDemxZTkp5czhCWU1vbzhGMWpsWnZsMU0tRjZoUmpyNVc4S0VBQQ?oc=5"
+  },
   {
    "ts": "2026-10-03T11:00:23+00:00",
    "title": "Heart and vascular disease risk rise by 20% in 10 yrs",
@@ -2187,13 +2194,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zZFBBTGROZnRNWHdfdTg2YkJSanVRa29pV1dCY3pERHE5U0NWdDBFbzFvOWMtYUFuV01JR3p3NWc0RVh0WUJ0VzYyZzhGSmYzdmJlcm9HZnpGbU5XVWFZb2MwNWdqZEdPSVRFZ0VRVG9XeW1uclVrT1FsT0Q?oc=5"
-  },
-  {
-   "ts": "2026-09-27T00:00:20+00:00",
-   "title": "Wazira Cinema hosts Myanmar Motion Pictures Day, honours film elders",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVGxOZDNHY3daaldaYjRLc1FxM2Y4MGNBWEhZOUEtemdiLUh3RTdjUmpPN0RKQW9uZFJod3M5NGFuQmxhTmgzRlBFOC1HNXZvczZISkhLbVVuNDJuX2dSQWoyREltd2dkSmhaQk5pU2lhc1E5QXpHendQaUZCdDhadE9FLTRqZjVqa3NObUtNTVJPTl94ZWdj?oc=5"
   }
  ]
 }
