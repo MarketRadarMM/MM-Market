@@ -1,6 +1,34 @@
 {
- "generated_at": "2026-10-03T05:00:21+00:00",
+ "generated_at": "2026-10-03T05:30:17+00:00",
  "signals": [
+  {
+   "ts": "2026-10-03T05:30:16+00:00",
+   "title": "MSY Village Project activities inspected in TadaU",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBldE9SVXVGcGFCX21wMFBVd2lBanRUa0RzSDhOMDBDUWVrQmVOdG5UU2dIcFpVVTVlT2IxbU50eE5JdjlSUmdrczRkU3Z0ZkFoTF96Q1pZUlFlTExHV0t6M0RrYXl6ZFd4QmRVMnhxLVlNbm8tZjhNUzVKdWgzZHM?oc=5"
+  },
+  {
+   "ts": "2026-10-03T05:30:16+00:00",
+   "title": "News",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qWlBjU1R1MUZEMEFHZGk5aTY5aUNfNTBZSzhRVmtYdlp4UWlXS21qVVhYVGtjQ3hDLWRiX3drX3RKNVlnM081ajdMMDRJNUZybmM1dFBpdXhzS3BQ?oc=5"
+  },
+  {
+   "ts": "2026-10-03T05:30:16+00:00",
+   "title": "News",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LZzc0YkphX0JyVzcxT0hHVk96a1VFdFdESzNEZUZwcWtsZlJaS2o4YS0wdFBZbGl4SEdZYWE3akhQLWRybENYV3hydTl4LU1tM1FqWW1GQks1djl0?oc=5"
+  },
+  {
+   "ts": "2026-10-03T05:30:16+00:00",
+   "title": "Myanmar Junta Boss Brands Global Reports of Civilian Slaughter ‘Fake News’",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWXNEZ18ydmpvenZMOXlySGphN1RnWUJ2cVREQWI4M0FlVVE4dDRqNHozMkFFbmM0V3RZTm5DT0FEendNZVFySjRXT2NkVW1wQ1FTOUpqeHYtRXRwT0ZidVZmcFJTd1llbWtJQ19xWHRXQ2VacFBRTmFObEhUSnFVczJ2MkpGUG5QamwtLV91Q0Z6TnhhOXFIOFpnT2hoZGtpa3lQWmN5d19LSVFoSFNLMUJ0SHg?oc=5"
+  },
   {
    "ts": "2026-10-03T04:30:16+00:00",
    "title": "Sundowner Musical Gathering Opens Its Call",
@@ -2166,34 +2194,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZmZwcDhiRHFVNkUzOFhFTEdQNm9ZMFEyOHF4ckpURF80d21vT25DZU9fZldQOUxYb3lWSV9JMzhLSl9idlBFQk4wWDlpcHpJTjZWX3ZsMGVpM0VpWjIxZ1p6TEh3TjU2UU1CN2lIYkh6aWJuaFM3eXhVZV9mcGR0NTNjQVVuYzhqbUt4NHJHYXlNUW1wbFU0ckdCa29jYTJqWThHejlxSFhXeVBaLXdlTS1seHJwbTFp?oc=5"
-  },
-  {
-   "ts": "2026-09-26T20:30:14+00:00",
-   "title": "Analysis | Mapping the Myanmar Junta’s Gains, Losses, and Stalemates Since Operation 1027",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT1BzZ3ljZEYxSzI2aUxsTGsxRmpwaGduUGlCTlRPQVItcU1aa2JPdmJJbVBRVWRkQmlRWFk3UjdpT21UbjhsNHQ2RnN2UkRjRTI2cnZZZ19FUWtyTWwzclJkYWN2cGZmbGVtb3JJRkkzVFIxa0h2UkdNX2lYVDdaWk52emJqV2NCakFYMnhXSkl5M1VlUUFSMkJuOElGRnNRS0REYkxoaE4teFh6YjVERmNlYUMyU055Z2tJclNac1U?oc=5"
-  },
-  {
-   "ts": "2026-09-26T19:00:22+00:00",
-   "title": "Smugglers’ paradise: Illicit seafood trade soars in Tanintharyi",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQkFBSUdnR3dSUmw2MkxaZ0VRak1PWmJWZjZmWGpnTmZDNHpDWnR3QXhxcUM3eVVxNkVJX1VmMWdXZmp1aldpVWtxU3NBdEZvS1o3MFZxZGZYdjFsRFZSelVUOVJKRGdoNFRnd19BOFV4bGU0d2VQUjhJc0N3OXgwLUVHcVp3UzhOSzNnTnU0RkxqaFpjTTZyUmxMTHVvdw?oc=5"
-  },
-  {
-   "ts": "2026-09-26T18:30:16+00:00",
-   "title": "Guest Column | China’s Chilling Detentions of American Scholars",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWllmaERvenBfNW1ZZGlRT0l5QzNzbnYzZ3VnUzJxX3VSMlJxNjh3MWdCRU50QkhSQjJxZWVObzRGRVZ6TXVwN3V5WVVfRUtobjRPbG10QXhWaDBheU9LWEVKMXNjdnp4M0Vpb3o0RlBTSlVrVUlPdWphcnZrSTNrS0kyaUNvX0FGdFdYNWtVdEUtTDIzOVFzdjhleWgtV2Zx?oc=5"
-  },
-  {
-   "ts": "2026-09-26T14:30:20+00:00",
-   "title": "Commander-in-Chief of Defence Services General Ye Win Oo gives instructions to officers, other ranks, families of military stations under Yangon Command",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVVktcGFxMW40LWZHZDlkT1lZMDNGVUNvaTFqQ0Z4eHY1TXNCY0VpZzlCQlN4MTA1N211VDJJZ09Ud0FiYmpVdi1BczlibGZudThZa2x2TXlMNkxtazVtY05LV1NPZDZPRVQzZkJWRG5MVGRqejQ3LVZnQ05Ia2FickJacGRNYzI1V2hDMlVrYXRhY0kxbGVQWVBhWWQ4NlhzYVJBQlI4cFozT0c2aXZKSW14X2hpNG1wSDUzZzU2WQ?oc=5"
   }
  ]
 }
