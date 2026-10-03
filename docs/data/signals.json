@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-10-03T04:00:19+00:00",
+ "generated_at": "2026-10-03T04:30:17+00:00",
  "signals": [
+  {
+   "ts": "2026-10-03T04:30:16+00:00",
+   "title": "Sundowner Musical Gathering Opens Its Call",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KSGRGeTdDVFRYVGZDRERLUVdTZVBlc3hjWFd4ODJScUwwcTVzZHctUENWOGNBNndrbWVGWlNXMFJTanNQa18xYjR2NlY4dWVpajlWOXJsbXVNNlR1YUItbEltVHlRbTB0X1J6elNJeXZXUHhQUUE?oc=5"
+  },
+  {
+   "ts": "2026-10-03T04:30:16+00:00",
+   "title": "MTB launches new service for MMQR payments",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04dnhLZHBkd1owZzlfN0pXYUIxcVRaTm9JOWZNRWk2V1lUUmF4QmFVeHNXN3k3X2g5SzhyR0Faelowa19PNFNYVkc1ZGRneDBhbWVRTkNPWVUwMWlYMHdueW84LUE2SUxJQmRhek8zbm40b0kxVkE?oc=5"
+  },
+  {
+   "ts": "2026-10-03T04:30:16+00:00",
+   "title": "Myanmar, Korean Experts Eye Conservation Restart at Phayathonzu, NyaungU",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeVNGV2x4bXVFSmliS1VUdjZHc3N1dHlzN0NjZ0czUkJGQjI2LWM1RlJWVkRyZUVNN3lsOXVBSk4wejlSQll1MzlWUUY3NFRDcHlRVUYzMlhEajZNTWd0bzVJU1ZxM3JfT25oWHM2a1o0TDI2TmtpWXRsZ2c3dU5Eem11R2d4UEFGRlZwbDVmSGZzSGNjNEdNX0dqOA?oc=5"
+  },
   {
    "ts": "2026-10-03T04:00:18+00:00",
    "title": "Myanmar virtually attends 24th SCO Prosecutors-General Meeting",
@@ -2173,27 +2194,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVVktcGFxMW40LWZHZDlkT1lZMDNGVUNvaTFqQ0Z4eHY1TXNCY0VpZzlCQlN4MTA1N211VDJJZ09Ud0FiYmpVdi1BczlibGZudThZa2x2TXlMNkxtazVtY05LV1NPZDZPRVQzZkJWRG5MVGRqejQ3LVZnQ05Ia2FickJacGRNYzI1V2hDMlVrYXRhY0kxbGVQWVBhWWQ4NlhzYVJBQlI4cFozT0c2aXZKSW14X2hpNG1wSDUzZzU2WQ?oc=5"
-  },
-  {
-   "ts": "2026-09-26T14:30:20+00:00",
-   "title": "Final rites of the late the Most Venerable Chanmyae Sayadaw Bhaddanta Janaka Bhivamsa, State Ovadacariya, Maha Nayaka of Shwegyin Nikaya, Abhidhaja Aggamaha Saddhammajotika, Aggamaha Kammathanacariya, held",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbGh4MC1FR0p5MnhkcWpQS2lVSkpXZHlnRTBDTG4yTHNwX1hjOVNBQWhnSmxTaGhDN1FRbWR1Q1BoMlZmTTNkRVZOVld5QXBONFIyY0p6a1BvZGFzaHdVb0FmanJocGdLQ1Yzc0FWTDFCUS05SEN6MkFhdFlBZ0R4cjd3Rk05a2s3Y3VaUnhaZjFrcDhPdnZmZUp4SzdsT2xBUGEycjlsQkRhX3BzbHZzZkctMTRjbkt0YWg0bw?oc=5"
-  },
-  {
-   "ts": "2026-09-26T13:00:21+00:00",
-   "title": "Paungde hosts 129th Buddha Tooth Relic Pujaniya Festival",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcTFPeXdzNTdtWEVWRXQwUVdiT01YR185YjQtS0ZqRUQzY3daQ0VGQ19aektIN1hPSmRIYW9lUzAyME51WG41OFNYZkNYOUduVlRsM2pXNGN4dFVIMlJTOHNOa1lqTkt4MUJnZ3BzWEFZQ3BJSkJnTjR0YUlNelNWLXhRLVpkUFhN?oc=5"
-  },
-  {
-   "ts": "2026-09-26T11:30:16+00:00",
-   "title": "ဘန်ကောက်မှာ ဘာကြောင့်ရေကြီးနေလဲ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cm62een03pq6o?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
