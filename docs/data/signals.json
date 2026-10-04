@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-10-04T22:00:21+00:00",
+ "generated_at": "2026-10-04T22:30:17+00:00",
  "signals": [
+  {
+   "ts": "2026-10-04T22:30:16+00:00",
+   "title": "Sequin Embroidery Sparks Prosperity in Waegyi, Dala",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNemVPOEVKTlQ4UTlvbzhDN1FXV0gtOXhERWcxekVCT294eVN4aWpsa3lXdVN5WHQtOTB2ZG9xUHZjOV9Xd2dwLS1zM1pVQ1VIc2VBSFdoWTM1VHFlX2ZhSW9CdzFXRHZXcE5leXhYNU5PVVhob2tZdFFhLVVsdjdUZw?oc=5"
+  },
+  {
+   "ts": "2026-10-04T22:30:16+00:00",
+   "title": "Monywa Economics University launches master’s programmes",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUWR3X2ZsdWdfVllkcDE0a05ub19aQnhLdnozVUpFZ3JMOUh4RUE0dU1OWlQ0cXh5XzBjWkc4LXFMSk54a0VSaFYxVkdKSTJRTjVreENhOXZaRVBCQU5uaVNKcnVvSWdxLVpUbzlncS1lTDBNbmQ3Mmd5aEdtN3ozaVNic25ZTG8?oc=5"
+  },
   {
    "ts": "2026-10-04T20:30:19+00:00",
    "title": "KNPC Archives",
@@ -2173,27 +2187,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOX3ZfNUp6WFlzdjNDNnlTdEt3TjBDT1BPMC11Z2h3Vm91TnRveU4wSDdISmhGblRTeW5vM0pXM0g5MkQ0dUtNeXNQWl81QURHQTlwM0hnUGVvaTF3WkctSDNDOVc2bUIzQXYwY2FCb1ZSQk1IcHZpVE91RkJWMTNhakktaHN5OUx5WTJwM0NMcThwZw?oc=5"
-  },
-  {
-   "ts": "2026-09-27T23:00:21+00:00",
-   "title": "Pwintbyu plants 68,338 acres of paddy during monsoon crop season",
-   "source": "GNLM",
-   "markets": [
-    {
-     "market": "rice",
-     "direction": "neutral",
-     "confidence": 0.5,
-     "rationale": "Rice-market story — read for direction"
-    }
-   ],
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOE5kcnNESTA5T0trOTJlQS1Qd0x6Y3dYNVQza0ZyQ3FDc0NsNk42Umw3VEM3bzFyQ29kZFRFOGs2c3dHb2paN3NCc3kwV2M1Z1JHYlZnMk03MVVRbmJoRlVDZnJSbHNlaTZnLUdzcEgzaTBnQWpGUHBlR0dOVHk2Z2d5cER1SjdSMVFoSEFtSzIwZw?oc=5"
-  },
-  {
-   "ts": "2026-09-27T23:00:21+00:00",
-   "title": "New Myitkyina checkpoint handles over US$2.6M in trade in first month",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRVJ0SjYzbEtJS2NWY1dSa3pNTWh3YzNnTnZNc3FhaVNENDdvS0Y3YWhqenptUjBkcTdYTkJ6bkV3bXlkdXhqemxHS3ZXNU1hc0h4MEdJTmNEQ2dwQ1VZVUtiUmxGWmxwRkVfdEczZnpwVUF3aGlTUDFpQnpCNlh6XzNlcFZmOWQ3Vm9OM2F6UWx2SlA2YjR1eQ?oc=5"
   }
  ]
 }
