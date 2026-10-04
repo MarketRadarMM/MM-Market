@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-04T15:30:21+00:00",
+ "generated_at": "2026-10-04T16:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-10-04T16:00:22+00:00",
+   "title": "Emerald Bay Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5peDV4RjNDc1NXU0dxTVF2QnJ1V2hIRFJFTnlFTTlyQ0RDNlNKaVJDS0w2UWxUdnAtcUhXaEhIYWxkOTN0U0NMSzdBWGRtUkFTMG8za3RR?oc=5"
+  },
   {
    "ts": "2026-10-04T14:30:18+00:00",
    "title": "The Weight of Progress: Why the World’s Major Cities Are Sinking",
@@ -2187,13 +2194,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qVC1wTmpwQkZ4YVNCQmUyTTJ0QlROVm42Q3FnMTYyNmgzSy1YUGZTVnR1aV9NeWVlQjRmYWR0NUd4TkRKQ3FiZmlxeTFSQ3BjRmpPU2JOMzZrc09UQjZLeUtjMEZ1N1VqOTIxYVhJek01Y29m?oc=5"
-  },
-  {
-   "ts": "2026-09-27T22:30:15+00:00",
-   "title": "Farmers allowed to purchase up to 15 litres of fuel daily for agricultural machinery",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY1l0M09lLTlNNGd3Ym5tdHVKbmwzdEl0YjN1SHpHaVVaODZ4Sm12bXhCVExETS11aEN6MVFaazBzZXJkMEx5NzhVbFh1a3lTM2JWYmhQZ2dzU1B6cWlPd3JROTc2cnpnb3E3TzI5RHhfSFpKNUlFaExJLUNXT05jWnIwVEdTT3pzcElMb1JkUXdDX1ZESXc4WmZVbG9zS1lMRHB6US1UOFhUcUlpZnc?oc=5"
   }
  ]
 }
