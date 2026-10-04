@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-10-04T04:30:22+00:00",
+ "generated_at": "2026-10-04T05:00:26+00:00",
  "signals": [
+  {
+   "ts": "2026-10-04T05:00:26+00:00",
+   "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing inspects undertakings for the development of Nay Pyi Taw, Union Territory, in accordance with urban characteristics",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMzhQeE1tMkYtY0lTcFRtcEFGNHBVLUtVRmItdldlX1ZkQ1BTZ3VQbHlfWlNGR2pwVC1oeERNcTRqMVlKT0hTVUkxRGlXcmxmamtaMV9aTldxRUstT2hJaFltQUxsWm5nZl9zWmRrd1NOZHRKRzNkV0ZYWnFoODlfTkJHSTAtRGdiSHIzUGhFRUhDbm5najUxVVhGYnFGdDcyRmR6aGtNdDJWdTh2QWZXa0Z5ZjNtWG1XdUw0?oc=5"
+  },
+  {
+   "ts": "2026-10-04T05:00:25+00:00",
+   "title": "4 October 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1heEhDWG12LVdtUTRmSVY5bHRzZ3U5b0paRVFyWjNzLXRRMWxUcXZ0bHVkR2RGdFprY2JkSlVuWjZRcUFEcjF5bjNhM2Z6VGJO?oc=5"
+  },
   {
    "ts": "2026-10-04T04:30:22+00:00",
    "title": "Attacks and Sabotages against National Education Sector by NUG and PDF Groups Breaching the International Law",
@@ -2180,20 +2194,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPc3lVTHh5TjZjRGJselNFY3lBc24zeUJ6b3lhblhsS3pDeXY5OU5MOTlySmdaUENDbk9hTEcxQjIycXowdEFpSDEtWTJqZzk3a3kxQ3ZMczgtc0h1dVFtNFdIbFd3ZDdCTC15c1dCVEU3TWxxMWEtcTlSNjZDdE1kWWd6NG80YnUwTmVFWTIxUHo5U0FQVk5nR1VQZmlCQjZVZGtXRG5tLTVkRk9kMWNabUNxdWtkOUkteEQxRkJNTVQ1X1AwUDZyQmlQYmtNMy1VSzFQWUIySFhwcFFVVUh0cXlkZw?oc=5"
-  },
-  {
-   "ts": "2026-09-27T11:00:24+00:00",
-   "title": "Pa-O: The Forgotten People",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZNDE3UDlPVjFITjNRUmtCaTJYSUlWWDN1TFZOcnpSQ0VXQmhCb1lRZTlUM0U1MC0yLVBBOExTOGR5V016OU5Sbjhmc1k0ZUxsdk1wRWxvQXNoM2FubjY3V3cwUi03UQ?oc=5"
-  },
-  {
-   "ts": "2026-09-27T11:00:20+00:00",
-   "title": "မြန်မာက ဒုစရိုက်မှုတွေကြား ကျူးလွန်သူရော သားကောင်ပါဖြစ်လာတဲ့ရဲတွေ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c24jv4j3jj4o?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
