@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-04T05:00:26+00:00",
+ "generated_at": "2026-10-04T05:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-10-04T05:30:18+00:00",
+   "title": "News",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iZ2VCbk5mUmJrZUk4d3Jvd1ZUZ2N4TGZVRHdyZC1CTzNPM09vRDNaa1V5MnJ0Z1JQeGVtWkZXMXRkODRiYnNtODFadVpSWlBiS1JER1NmckNXZHZw?oc=5"
+  },
   {
    "ts": "2026-10-04T05:00:26+00:00",
    "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing inspects undertakings for the development of Nay Pyi Taw, Union Territory, in accordance with urban characteristics",
@@ -2187,13 +2194,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95MnI2OXhqQlJRdGdFNHFsdE02SEVFZEZjN0lCazlmRVJfd01NeXhvWXhEUldUQzFzRVUyZklGckNRc3kxRmF6ZFJsZnhwYVdWUG1wQ2JVOEFHMm9XMURuQXZFR0VaSEU?oc=5"
-  },
-  {
-   "ts": "2026-09-27T11:00:24+00:00",
-   "title": "အမှိုက်သရိုက် Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPc3lVTHh5TjZjRGJselNFY3lBc24zeUJ6b3lhblhsS3pDeXY5OU5MOTlySmdaUENDbk9hTEcxQjIycXowdEFpSDEtWTJqZzk3a3kxQ3ZMczgtc0h1dVFtNFdIbFd3ZDdCTC15c1dCVEU3TWxxMWEtcTlSNjZDdE1kWWd6NG80YnUwTmVFWTIxUHo5U0FQVk5nR1VQZmlCQjZVZGtXRG5tLTVkRk9kMWNabUNxdWtkOUkteEQxRkJNTVQ1X1AwUDZyQmlQYmtNMy1VSzFQWUIySFhwcFFVVUh0cXlkZw?oc=5"
   }
  ]
 }
