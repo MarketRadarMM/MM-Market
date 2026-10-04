@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-04T19:00:59+00:00",
+ "generated_at": "2026-10-04T19:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-10-04T19:30:19+00:00",
+   "title": "News",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QbjFOWXg2bHRJOXRudWdRU3VXSThWRGVMS2hTX1ZxOVFzYUhCWVpLVWxGTmIyYVMxYXczQXVtRHo5eWEzbGN6a0EtVDJ5cTJUUlVZbjhMMEhMOWVW?oc=5"
+  },
   {
    "ts": "2026-10-04T19:00:59+00:00",
    "title": "National Natural Disaster Management Committee Chairman Vice Chairman of State Administration Council Vice-Senior General Soe Win inspects earthquake-hit areas in Shan State (South), gives necessary instructions",
@@ -2187,13 +2194,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBiZzJrZDBqSEtxbjVJSDZPTTJpMC1VVVRJZ241OE1aeW5VdHU2WnhueE9lcWlmclNUZC1xb3RFT0JEaE9sVENQZUtJSWF2UE5RQVBJRlZSNlMwSEN0RFlVLUhsbmRLSW51dkVlUkJzQnI0NC05SmtBejd3?oc=5"
-  },
-  {
-   "ts": "2026-09-27T23:00:21+00:00",
-   "title": "Torrential rainfall causes flooding, landslides in Dawei",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZXVadDY1RnZ1RmtvbW1TbXJ0dEdvU014RHZKbUwydEZJWlZQTjczbGh5QTVpemJXRXZrck1oQzhIck9XZXZsWDlZd29nWHJrVkxUam5LSlBadUJzWHVRSUxQd1JYaFM4b2NkTTA4N01EZW1LNnJiTjlHRFdOdG5xTjVYTmJTb2s?oc=5"
   }
  ]
 }
