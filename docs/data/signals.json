@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-04T03:30:16+00:00",
+ "generated_at": "2026-10-04T04:00:19+00:00",
  "signals": [
+  {
+   "ts": "2026-10-04T04:00:18+00:00",
+   "title": "Machinery, workers sent to Dawei for recovery",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RSDBhTHZzNlFVU1pJZTU5LTQ2UnVWeDFNOERpeWVDN3htdjVZRnhQQlVjQXZjMlZ5R25sTGRBdkZGR3JXMDRHSHpac1pqYThJbkloc0p6SzBOZ1I5dl9kMGdESVczSTh6TXFINXk5aDR1MEZBX25FdQ?oc=5"
+  },
   {
    "ts": "2026-10-04T03:30:16+00:00",
    "title": "K8.11B disbursed for MDY earthquake reconstruction loans",
@@ -2187,13 +2194,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/cmkg7v25dv6do?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-27T11:00:20+00:00",
-   "title": "\"စက်လှေမှောက်ပြီး ခဏအတွင်း မှောင်အတိဖြစ်သွားတယ်\"",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/ck7v4gn47pl5o?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
