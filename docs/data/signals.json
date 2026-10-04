@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-04T06:00:22+00:00",
+ "generated_at": "2026-10-04T06:30:15+00:00",
  "signals": [
+  {
+   "ts": "2026-10-04T06:30:15+00:00",
+   "title": "Warning over ‘common mistakes’ that cause blood pressure readings to rocket: ‘Where you rest your arm could cause misleading result’",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU3FNY1dYbXhZVm1OVnhWQWpSdXVVRzhVaDA3RmNaNXg1OElxOTNaWHNneFZZY25LV1NLQTN6OXdzalBUT0lLV2xGb2YtUm00VVJVNjZuQVUydjdLVUNBeTdlWGxGeDlKYkZobFFkNWxBVjlLODV1UGZ0OVEwMkNlUkdLVzg1SHlFN2VkMUoyTGhFa3VOcG5tRExxR0c2NEVEZEMxbWpRZU1Rb0JJcVhSRlRxU0ZLRk1wS1E?oc=5"
+  },
   {
    "ts": "2026-10-04T05:30:18+00:00",
    "title": "News",
@@ -2187,13 +2194,6 @@
    "source": "Frontier Myanmar",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOHBYa254NWtia0c5dHh5b2xZb3dRR2hFTTZpQWJWVWZWOUlLbHBuQzNNTkdmaC02MVdpaXNFWDlwOWxyTXR5X0VicXNTQ3NYNVc0Tm1kVXZnaW5nbGh2T1J4RnlVVU11OWtmU3NYaFRtRDlrQ1FuUzUzbzdhNV9LX3ByeGkyQ3h3YWdRcWlHdWF6Z09xTlZ1TzhlWUE1QlpUX19n?oc=5"
-  },
-  {
-   "ts": "2026-09-27T11:00:24+00:00",
-   "title": "The Irrawaddy News Magazine [Covering Burma and Southeast Asia]",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95MnI2OXhqQlJRdGdFNHFsdE02SEVFZEZjN0lCazlmRVJfd01NeXhvWXhEUldUQzFzRVUyZklGckNRc3kxRmF6ZFJsZnhwYVdWUG1wQ2JVOEFHMm9XMURuQXZFR0VaSEU?oc=5"
   }
  ]
 }
