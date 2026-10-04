@@ -1,6 +1,34 @@
 {
- "generated_at": "2026-10-04T03:00:20+00:00",
+ "generated_at": "2026-10-04T03:30:16+00:00",
  "signals": [
+  {
+   "ts": "2026-10-04T03:30:16+00:00",
+   "title": "K8.11B disbursed for MDY earthquake reconstruction loans",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSEcxeEpVY2lEQXhJOWJ2UEtTbmpKb3prZUtlRGt3TnlwQWlyM1JKQ0ozTnN0ZFdiQWt4VFA1YTBjZmNQSnltSWNMbl9obTlUbG13d0sxYWpIX3dBVk9OaWhPNThXbDVGd0hNYnpkbEx2dk5tdTNyTk96Vkx2eWZzTWpRbExaVm9Y?oc=5"
+  },
+  {
+   "ts": "2026-10-04T03:30:16+00:00",
+   "title": "Bago’s 3 Fisheries Yield 122M Viss in 6 Months",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE02QWNyRVIwcTk5bDZobXotQUJ2X3lQZEQ0WDNzTXh5VlRoaW5oeE1mdV9Fb1NHbDRRa2NfeWRPRkVSaVNtMzNWU2pPTGxEelRZT3BPRHppWFFHWDMySkJKTVIxVk1QNTI4OWJYOEM5dTNWQmk1Y1kyQTFR?oc=5"
+  },
+  {
+   "ts": "2026-10-04T03:30:16+00:00",
+   "title": "Taunggyi’s MSY income-generating activities inspected",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdFpab1JMOEZlakhxNklCWVBQcXVjWGhTbHBSSnBkaXBFQlZodFROZDhWWjF5RUpzN0w4VmVOeXJIb2IwQVVnd2xEaG9yVUI3ZXRWTDhKc2NOdG5DeWtuR0Y4Mml2dFFia1NEZ2pIRHhpTGN0ZXJVYUpDcDlTVFNIMjdLWQ?oc=5"
+  },
+  {
+   "ts": "2026-10-04T03:30:13+00:00",
+   "title": "မန်စီးတီးအတွင်းရေး ဖွင့်ချတဲ့ဟက်ကာ ဘယ်သူလဲ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c893zpwge0ylo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-04T03:00:19+00:00",
    "title": "Schools reopen in Laymyethna as floodwaters recede",
@@ -2166,34 +2194,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/ck7v4gn47pl5o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-27T09:30:15+00:00",
-   "title": "News",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvZ0xFNGtEMWF5Y2lDU3kxa0hlY1RaZURmRkM1OEtaOG1FNm05SDhNZVhnb2ZEM04zeG1ZaFNIakxmNFdTWHVjZm9Sb29oSGxVLXZxeGsxQ1BPa2ha?oc=5"
-  },
-  {
-   "ts": "2026-09-27T08:30:54+00:00",
-   "title": "Entertainment",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtZklNUHNqcERtRENXUG1WU1dTUjZyYXEtZFJ3QU13SzFiZFBKWFRPcDc0a0VfR1oybF9FZFJZY0tEY3Zxa2JhRGY3cFdfMmZRRUFn?oc=5"
-  },
-  {
-   "ts": "2026-09-27T08:00:18+00:00",
-   "title": "Basic sewing machine training concludes",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFQmQwS2w1Z2FaMUhKNU12XzBFMFVEVDMzRHFtZ0FndUNCSWo1dFhuWTByMUdCRDkxa2lwQU1oQms2bThNU0IwNG80NW9mQmYxMFNqVDNiWndaU0dMZVQzUDVDalFRZjY3TVFzdlFadTA4dw?oc=5"
-  },
-  {
-   "ts": "2026-09-27T07:30:17+00:00",
-   "title": "Mandalay marks World Heart Day 2026",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kbllXNVg1d3M5TU1KT1c1N2VNMEZoekNqdFI4XzluTEZkcF85RkVFTUtGVC1vN2RjekpNcGppYmQ0Z1p6dHhGUzdJak15d0RlT3lnQUpjeFVMam43T0liUll1Ql9HU19nT1dqUw?oc=5"
   }
  ]
 }
