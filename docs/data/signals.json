@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-04T14:00:24+00:00",
+ "generated_at": "2026-10-04T14:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-10-04T14:30:18+00:00",
+   "title": "The Weight of Progress: Why the World’s Major Cities Are Sinking",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa1BaQjhGdjYweWlHQ0haQ2E1UTAtcnVkZTZPRUl0SGJGX0tMb1ZDRWtOV3cwaE1Hc2VjbHFZc1U0OUVRM0JFMUNUeF9UMVI4dVRMeTNhNEtFbnJkWGFfU19UeV9UdXJmWGVZVUJPbUtMcHA1WmtyUnVKMWJDVllTRXBaUVhwalFfUzBEdER4QnI?oc=5"
+  },
   {
    "ts": "2026-10-04T12:30:14+00:00",
    "title": "ရန်ကုန်က အဆင့်မြင့်ကွန်ဒိုစီမံကိန်း၊ စသုံးလုံးနဲ့ အခန်းသော့မရသေးတဲ့၀ယ်သူတွေ",
@@ -2187,13 +2194,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY1l0M09lLTlNNGd3Ym5tdHVKbmwzdEl0YjN1SHpHaVVaODZ4Sm12bXhCVExETS11aEN6MVFaazBzZXJkMEx5NzhVbFh1a3lTM2JWYmhQZ2dzU1B6cWlPd3JROTc2cnpnb3E3TzI5RHhfSFpKNUlFaExJLUNXT05jWnIwVEdTT3pzcElMb1JkUXdDX1ZESXc4WmZVbG9zS1lMRHB6US1UOFhUcUlpZnc?oc=5"
-  },
-  {
-   "ts": "2026-09-27T20:00:20+00:00",
-   "title": "Regime airstrike on school leaves trauma in its wake",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNnppY2hld2JpUWVCRGVHVk1ySlZTNThZMDBqckplckhjYmR4VkVEenA0ZG5uUG02X0xsZm4yUWJTcDBRRlVLbWQwYnV5Nm1ZanAzelU0alFrTW5FZHJ6aEVOWHlXcUhQSjlfSmlIQnY2anBYV3B0NXllQU5pNDZlQXY4VU1JdzlRZ3ZEaGZkWGd4QQ?oc=5"
   }
  ]
 }
