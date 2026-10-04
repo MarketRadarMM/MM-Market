@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-04T20:00:19+00:00",
+ "generated_at": "2026-10-04T20:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-10-04T20:30:19+00:00",
+   "title": "KNPC Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBuaGlhZnBMZXdESUlmdDdfT3NtWXo0SV9OYTFiU0FRNmJMZEQ0MmxiSmhfdkpETm1MSVJoTXdsLVpYOG9vc0hNT3BXLTM?oc=5"
+  },
   {
    "ts": "2026-10-04T19:30:19+00:00",
    "title": "News",
@@ -2187,13 +2194,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRVJ0SjYzbEtJS2NWY1dSa3pNTWh3YzNnTnZNc3FhaVNENDdvS0Y3YWhqenptUjBkcTdYTkJ6bkV3bXlkdXhqemxHS3ZXNU1hc0h4MEdJTmNEQ2dwQ1VZVUtiUmxGWmxwRkVfdEczZnpwVUF3aGlTUDFpQnpCNlh6XzNlcFZmOWQ3Vm9OM2F6UWx2SlA2YjR1eQ?oc=5"
-  },
-  {
-   "ts": "2026-09-27T23:00:21+00:00",
-   "title": "Pyinmana’s MSY village project loans disbursed",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBiZzJrZDBqSEtxbjVJSDZPTTJpMC1VVVRJZ241OE1aeW5VdHU2WnhueE9lcWlmclNUZC1xb3RFT0JEaE9sVENQZUtJSWF2UE5RQVBJRlZSNlMwSEN0RFlVLUhsbmRLSW51dkVlUkJzQnI0NC05SmtBejd3?oc=5"
   }
  ]
 }
