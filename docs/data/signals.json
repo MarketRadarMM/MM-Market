@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-10-04T04:00:19+00:00",
+ "generated_at": "2026-10-04T04:30:22+00:00",
  "signals": [
+  {
+   "ts": "2026-10-04T04:30:22+00:00",
+   "title": "Attacks and Sabotages against National Education Sector by NUG and PDF Groups Breaching the International Law",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM19EM0duSi1oVmc0N1B2Q2FZbzRCLWpxOUc2bzJvZHlabEtpckVqek1UTHpXMVR2dFNVTFREb0Q2MnVaX2FGeE1kb053RU5ieUVDdHc0c05mWHQxblV3NWoyVG5EaVc2bTI1OXVlWFI2MmZIRFJXVDAxRG5sRG9xNjF0OFMzX3RuWnhUXzRnYTJZYVo5MW04Uld6UjI4dGNiQUpuSkprQ3BKUmxaNGFvQTRDb0pjN0t0SDlBNGVBRUxPOUU?oc=5"
+  },
+  {
+   "ts": "2026-10-04T04:30:21+00:00",
+   "title": "Advanced Sewing Course 12 concludes in Myeik",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15U014TGpZTzRTV2Z0Z1BiMUJucm1oUVBnZ054S09WeXJfQnlYQzhxd3FTMDFIOXVNbTBQYnZwOUtSVU5BYU9mSXVYLThzT3ZCb2p5SS1EZnhSLV8ySjNnSUtKalROSG9YcG5XWkxNaU1YMjlNRWYydw?oc=5"
+  },
   {
    "ts": "2026-10-04T04:00:18+00:00",
    "title": "Machinery, workers sent to Dawei for recovery",
@@ -2180,20 +2194,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/c24jv4j3jj4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-27T11:00:20+00:00",
-   "title": "ဗိုလ်ချုပ်စိုးတင့် - ကိုးကန့်က ဖမ်းထားတဲ့ လားရှိုးတိုင်းမှူးဟောင်း",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cdx7v2rq916o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-27T11:00:20+00:00",
-   "title": "ပြည်တွင်းငြိမ်းချမ်းရေးနဲ့ မသမာတဲ့စီးပွားရေး - ဘီဘီစီမြန်မာပိုင်း အထူးမေးမြန်းခန်း",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cmkg7v25dv6do?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
