@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-05T21:30:21+00:00",
+ "generated_at": "2026-10-05T22:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-10-05T22:00:21+00:00",
+   "title": "YR launches MSME One-Stop Service",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OZTRpanBseWxnODI2TVExVDZKREVldGMyT2NwLTdJUENwb0RnTk0zS2xNZS1lOUV4dlNudjF4a0ZmZl8yZk9nR0o5al9DcFFGWFgwaXVydDVxM3d1MWZOd19WbmZnYWtNQ3c?oc=5"
+  },
   {
    "ts": "2026-10-05T21:00:31+00:00",
    "title": "6 October 2026",
@@ -2166,13 +2173,6 @@
    "source": "Myanmar Now (MM)",
    "markets": [],
    "url": "https://myanmar-now.org/mm/news/81518/"
-  },
-  {
-   "ts": "2026-09-29T03:00:16+00:00",
-   "title": "ကျောက်တော်လေကြောင်းတိုက်ခံရမှု သေဆုံးသူ ၄၉ ဦးရှိလာ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.co.uk/burmese/live/cm2kwld0dn47t?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
