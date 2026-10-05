@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-05T09:00:22+00:00",
+ "generated_at": "2026-10-05T09:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-10-05T09:30:18+00:00",
+   "title": "စစ်ကြောင်းနှင့်တိုးစဉ် ဖမ်းဆီးခံခဲ့ရသည် မကွေးဒေသခံ ၁၂ ဦး၏ ရုပ်ကြွင်းများ သုံးနှစ်အကြာတွင် ပြန်တွေ့",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81605/"
+  },
   {
    "ts": "2026-10-05T08:30:16+00:00",
    "title": "Rescue efforts stepped up in flood-hit Taninthayi",
@@ -2173,20 +2180,6 @@
    "source": "Myanmar Now (MM)",
    "markets": [],
    "url": "https://myanmar-now.org/mm/news/81495/"
-  },
-  {
-   "ts": "2026-09-28T10:30:19+00:00",
-   "title": "Airstrikes by Myanmar’s military kill eight civilians near Sagaing-Kachin border",
-   "source": "Myanmar Now (EN)",
-   "markets": [
-    {
-     "market": "pulses",
-     "direction": "bullish",
-     "confidence": 0.55,
-     "rationale": "Conflict in bean/sesame heartland threatens supply"
-    }
-   ],
-   "url": "https://myanmar-now.org/en/news/airstrikes-by-myanmars-military-kill-eight-civilians-near-sagaing-kachin-border/"
   }
  ]
 }
