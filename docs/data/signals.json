@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-05T05:00:24+00:00",
+ "generated_at": "2026-10-05T05:30:23+00:00",
  "signals": [
+  {
+   "ts": "2026-10-05T05:30:21+00:00",
+   "title": "Myanmar Migrants Returned to War-Torn Nation From Malaysia",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQclEzUHUzZWMyb1RDekYxX3o4NUdYWGxRUEdtRFpQSGxvRFpKa0tnQl9sNUNoaENkYkpObnlLR3VPZk1mREFwU2lraDk0UXRxaVVvOE5NWGRtbDlObWZDNWNTOUhRbURDUEdjM0QtbUFDZWthblFQNDZYbjN4eUVGeFo2Sk5USnFaVVRxdTk2SUhabURUaUZOU0plYjRrYTNKeDhuWExiNXBxdUJOcXc0eC1vcm5UcEc1Rmg5eg?oc=5"
+  },
   {
    "ts": "2026-10-05T04:00:25+00:00",
    "title": "Q&A: Kachin activist Sut Seng Htoi says ‘no issue should be censored or avoided’",
@@ -2180,13 +2187,6 @@
    "source": "Myanmar Now (MM)",
    "markets": [],
    "url": "https://myanmar-now.org/mm/news/81421/"
-  },
-  {
-   "ts": "2026-09-28T04:30:18+00:00",
-   "title": "တနင်္သာရီတိုင်း လောင်းလုံးတွင် ရွာ ၂၀ ခန့် ရေကြီးနေပြီး ၁ ဦး သေဆုံး၊  ၁၅ဦးထက်မနည်း ပျောက်ဆုံးနေ",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81415/"
   }
  ]
 }
