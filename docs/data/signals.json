@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-05T09:30:21+00:00",
+ "generated_at": "2026-10-05T10:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-10-05T10:00:21+00:00",
+   "title": "ယနေ့မှစ၍ လာမည့်နှစ် ၂၀၂၇ မိုးကာလအထိ လျှပ်စစ်မီးအလှည့်ကျသာပေးတော့မည်",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81609/"
+  },
   {
    "ts": "2026-10-05T09:30:18+00:00",
    "title": "စစ်ကြောင်းနှင့်တိုးစဉ် ဖမ်းဆီးခံခဲ့ရသည် မကွေးဒေသခံ ၁၂ ဦး၏ ရုပ်ကြွင်းများ သုံးနှစ်အကြာတွင် ပြန်တွေ့",
@@ -2173,13 +2180,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81amxQY1Rsam0wV1BYOXI5RHlZT3d5SVRmajFOT3FPeFdacUJuX1NvcV9CQ3VQbUR0Qk9OckNvVnNwblRZZ2VmZ1hHank4OEFoM014RnkyYVVuakp5TUJKLXRWSkJKT3NmVlNJUWRpdw?oc=5"
-  },
-  {
-   "ts": "2026-09-28T10:30:22+00:00",
-   "title": "ကျောက်တော်မြို့ကို စစ်တပ်ဗုံးကြဲ ၃၄ ဦးသေဆုံး၊ ၄၀ ခန့်ဒဏ်ရာရ",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81495/"
   }
  ]
 }
