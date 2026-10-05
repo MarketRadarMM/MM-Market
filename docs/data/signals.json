@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-05T14:30:20+00:00",
+ "generated_at": "2026-10-05T15:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-10-05T15:00:23+00:00",
+   "title": "Some Lessons Never End",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqQ0JULWppR3FtLVMzbC1BNmFKR1BJcnNKOWlOQWJ5ejNWbEI5NW1GR3BJTlhUanRGTHFIVUdKX2tLdmhtWDhFSkNlbDBEeE0tYWdLNXBVY0FES3c?oc=5"
+  },
   {
    "ts": "2026-10-05T13:30:21+00:00",
    "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing inspects development undertakings in Taungoo region, and gives directives",
@@ -2166,13 +2173,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM1VhZzVBN0tGTmJCQURXTzh2WmwyelY5T284WXVUcFROQ051S19UdnBHR3B1eFV5M1VlYXB6MkdPV0h4MVdBdWNOV2FZR1kwOHNtVFRpcXZ0em93OGREOEhPbXh1ZWVIb0VpUUdXdldQUkNjVWZoeGRPWE9idkp2dXZKS2c3d3hiUUt5ajRSbmJnYm9mbkMwTTZwQWJnVnNDaXh1YXNROF80bDUteTJz?oc=5"
-  },
-  {
-   "ts": "2026-09-28T22:00:19+00:00",
-   "title": "Myanmar Junta Boss Personally Thanks Xi for Pressuring Ethnic Armed Groups",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNT1EzMzl4SnJIQUNwQVhFU1A2cWZZdUtFZFh0QnpaS0dmQ1VOOUdQZ3VtTkI5SnhONGRfTDBnYnh4OFhTd19KUTdld0k2T29sVUlTVUNaNHRPTXZxLU8wbFMzWWVLV1J5T3dLQTNSeXBLOC11TFJBVklCblJDY29iWE40b2JLSXVZZTBCUlVNTktuUjhUM2JFS0FtNFY2X1RIUmc4WXZ0U0FkQkd0MVo4NTBvdVNUejZ0bVZjaVBKQTJVemQxSzZ5UWRB?oc=5"
   }
  ]
 }
