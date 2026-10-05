@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-05T19:30:25+00:00",
+ "generated_at": "2026-10-05T21:00:32+00:00",
  "signals": [
+  {
+   "ts": "2026-10-05T21:00:31+00:00",
+   "title": "6 October 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1nWUtxQ1lEZWlOVkRBZ3JsY0QyX1dDb3BFWVd2dUlrb2c1QTFCUjkzWVdtQXY1cU8zN0lHZHBCeDNYTlNjQzYzeDh0czV4ZEVW?oc=5"
+  },
   {
    "ts": "2026-10-05T18:30:22+00:00",
    "title": "Chairman of State Security and Peace Commission Commander-in-Chief of Defence Services Senior General Min Aung Hlaing meets ...",
@@ -2166,13 +2173,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.co.uk/burmese/live/cm2kwld0dn47t?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-29T02:00:20+00:00",
-   "title": "The Heartbeat You Didn’t Hear: Myanmar’s Silent Warning Signs of Heart Disease",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPczM1U3JJckxsWXlpR1phVlpEMTJJUl9zY3gtN3BsSFpvYzM2NWFGQmJPTmJPNG1PdFpPR0RiNUU0ZmpQSUs1enVNWFltSkhFaUlCa2I0ZnNFZ3lfQUgxZDdacmNNcmxkdFhQZjdHRGRiQklscUlpTkd3OHUyMk5SUFdTMHVtMjhxZFRNVGdFeEc2SjcyQXBMNDhSYzF5Y3lrZHc?oc=5"
   }
  ]
 }
