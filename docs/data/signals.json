@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-10-05T02:30:20+00:00",
+ "generated_at": "2026-10-05T03:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-10-05T03:00:19+00:00",
+   "title": "5 October 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZamprajVGb3N5MzRuM2Q2aGk5Y0R0ZHFmVnlNOGdOQXhJWmFTVi0wZ0VNUklZYUJ3UWp0TGVRUnBKb0diU2o5UmtaM1FXWkhR?oc=5"
+  },
+  {
+   "ts": "2026-10-05T03:00:16+00:00",
+   "title": "ပုဏ္ဏားကျွန်းမြို့နယ်က စစ်ရှောင်စခန်း ဗုံးကြဲခံရမှု လူ ၆ ဦးသေဆုံး",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.co.uk/burmese/live/c574p91rj9d4t?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-05T02:30:20+00:00",
    "title": "Commander-in-Chief (Army, Navy and Air) Office families’ third monsoon tree-planting ceremony for 2026 held",
@@ -2173,20 +2187,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWFpYeEkxTXBhNEI0TXhnQkNqOGNwRkVhNG45R09jUEwyWnpDeWw0Q1piRnV6US13VXpfSGZaN0RrQmdDWmtpNnBGYmNxZkJobWo4ckNqNlF6ODJHQW1vbE50dTdkdXZJY3J3TkNCX1BUU294OEVfaVBfVkdJZHB5cy1aWHdoWHpqRGhPdUg2NlAzUVNNQW1UaWp1bUJYZFdTQmlv?oc=5"
-  },
-  {
-   "ts": "2026-09-28T04:00:22+00:00",
-   "title": "28 September 2026",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50R2Zhb3JQR21LS0tRVUF6OEV1bExsbzVnTUFxbW5GZmtHbkY3Ym56aXJFLUhTOWtsNE83NGI2ZXBkb2ZNSE9SZS1nQ0V3OWRlODRfRw?oc=5"
-  },
-  {
-   "ts": "2026-09-28T04:00:20+00:00",
-   "title": "အမေရိကန်တွေ ပြန်လာပြီတဲ့လား၊ သူတို့ ဘယ်တုန်းကမှ ထွက်မသွားခဲ့ပါ",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81412/"
   }
  ]
 }
