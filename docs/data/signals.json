@@ -1,6 +1,34 @@
 {
- "generated_at": "2026-10-05T10:00:24+00:00",
+ "generated_at": "2026-10-05T10:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-10-05T10:30:19+00:00",
+   "title": "APTERR Tier 3 Rice handed over to AR",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9nQ1dFM1ZpQU1uVU5BVFVJbTZKWmNuYi00SXFOWlBya25KbE5pWjhoRmhuRWQ1WVItS3FUZkxRMVZWWVVydGdPY0s1ZHVGVEJGSlFMdjdpVTJjdXo0TzJ6Q294aU5DNmlZY2hXdENR?oc=5"
+  },
+  {
+   "ts": "2026-10-05T10:30:15+00:00",
+   "title": "ပထမ မြန်မာအမျိုးသမီးကမ္ဘာလှည့် ဒဂုန်ခင်ခင်လေး",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cx2p14802qko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-10-05T10:30:15+00:00",
+   "title": "DYSPHOR1A - မြန်မာဘဏ်တွေ အချက်အလက်ခိုးယူတဲ့ပြည်တွင်းဟက်ကာအဖွဲ့",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cq1kxyn374z3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-10-05T10:30:15+00:00",
+   "title": "စစ်တိုင်းအပြောင်းအလဲတွေကပြတဲ့ မြန်မာပြည်တွင်းစစ်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cmgjqj8dj5zwo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-05T10:00:21+00:00",
    "title": "ယနေ့မှစ၍ လာမည့်နှစ် ၂၀၂၇ မိုးကာလအထိ လျှပ်စစ်မီးအလှည့်ကျသာပေးတော့မည်",
@@ -2145,41 +2173,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQakwyazNybDc2b2hpcWRwUFNFb1ZwR09jQWFCTUVfbk9HSEdOT3RhNUd4ZUQwOFdwYktmMlE1dTV6VTBINGd6S3V1cEgybHBvc2hYOHBmUWFNSVVnVTBNYUpNZjZqZFl3a2VpM0VZUGxURnI0MWFFV25RX2ZBbnY0LVFBa0FEOUxzU2dzSW9aN29pUV9JX2ZESnlxaw?oc=5"
-  },
-  {
-   "ts": "2026-09-28T12:00:29+00:00",
-   "title": "နှစ် ၃၀ အတွင်း အဆိုးဆုံးသဘာဝဘေးဒဏ်ခံ ထားဝယ်ကို စစ်တပ်က စစ်ကြောင်းထိုးနေ၊ ကယ်ဆယ်ရေး လုပ်နေပါသည်ဟု စစ်တပ်ဝါဒဖြန့်",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81509/"
-  },
-  {
-   "ts": "2026-09-28T11:30:14+00:00",
-   "title": "ကျောက်မဲတွင် SSPP ပစ်ခတ်၍ TNLA ရဲဘော်၂ ဦး သေဆုံးမှု  နှစ်ဖက်တပ်များ ညှိနှိုင်းနေဟု ဆို",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81502/"
-  },
-  {
-   "ts": "2026-09-28T11:00:25+00:00",
-   "title": "Myanmar Regime Intensifies Airstrikes Along Kachin-Sagaing Supply Route",
-   "source": "Irrawaddy",
-   "markets": [
-    {
-     "market": "pulses",
-     "direction": "bullish",
-     "confidence": 0.55,
-     "rationale": "Conflict in bean/sesame heartland threatens supply"
-    }
-   ],
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSlF0bTdVN3ktVkdtdEJNODkxVl9hS0VIWHpQb2FzeHgyVkIxdjFzMXpvaXEzNUEtaVlQVV9jd0ZvRFNGN2toek5lYmliNE1adnZGRGFlSmdNc3o5WHdlNEFTQXpuVG9QWUp5cG8tVnAxcW5MX1hhaFNRWHN6OFMtYUx4TVhRZlV2RFBVRUF2aHZtRGIydU5VX3IxNnpLb1Fnb3c4bmdfcjdjaC10MURUOTU5UQ?oc=5"
-  },
-  {
-   "ts": "2026-09-28T10:30:24+00:00",
-   "title": "National Interest, Culture and Tourism",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81amxQY1Rsam0wV1BYOXI5RHlZT3d5SVRmajFOT3FPeFdacUJuX1NvcV9CQ3VQbUR0Qk9OckNvVnNwblRZZ2VmZ1hHank4OEFoM014RnkyYVVuakp5TUJKLXRWSkJKT3NmVlNJUWRpdw?oc=5"
   }
  ]
 }
