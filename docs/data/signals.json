@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-10-05T12:30:19+00:00",
+ "generated_at": "2026-10-05T13:00:25+00:00",
  "signals": [
+  {
+   "ts": "2026-10-05T13:00:22+00:00",
+   "title": "Myanmar military kills six IDPs in latest Rakhine bombing",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/myanmar-military-kills-six-idps-in-latest-rakhine-bombing/"
+  },
+  {
+   "ts": "2026-10-05T13:00:21+00:00",
+   "title": "မိုင် ၆၀ ကျော်ရှည်တဲ့လောင်းလုံးတောင်တန်းမှာ လူသေတဲ့မြေပြိုမှုတွေဘာကြောင့်ဖြစ်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cq78p11grye3o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-05T12:30:17+00:00",
    "title": "Activists Welcome Review of Myanmar’s Membership in Regional Human Rights Umbrella",
@@ -2159,20 +2173,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ORG9tM3dqZG50WEtCNFhpVkNRRWVPTllMbVpnWDBRcVpWbjV5NnV3dXQtaTBqamUxQ255YXNwWTJlVDBOVGRPS2xFaVJzMjNaeWI0amFnbWZPcF9lR3BzbDNpeHFlQ2VBNHZ6VG44eXA5NU1BLVhMeDRtUQ?oc=5"
-  },
-  {
-   "ts": "2026-09-28T20:00:23+00:00",
-   "title": "Financial supporters of CRPH, NUG through PRF website arrested",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMUJBalBJZEJ6emVPSWZUczh2ck5qU3FJWmQ1M3ZyXzdHeFRLUFlIQ0JLakszUjJoNnR3X0t1eGlrRDNrT1k1ZDlId3BWbTVWVlhwdWswOGxUVHRXLXV6VllxZ2VsOGdCU05ZM0ZlT1lzVFY3ak9raVJrbGtaZjZvRDBJY2FNXzh6Rk9ibF9mSQ?oc=5"
-  },
-  {
-   "ts": "2026-09-28T20:00:23+00:00",
-   "title": "Tatmadaw Columns Retake Sinswe Village Along Kamamaung-Papun Route",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVkNwS2tUSk9FQTRCaUJQQ1F6anhFd29nSzBteERkUVhWWUlEcGR6VWpwV1RYY3U3dElBbGloajktZ2EwejdycjV5dlctMWZrcTFMTkRGVl9VckxtNUJjTGwtb0Vlelk5dXRzVlNYbjRHcHhLU19fcG1pak9IUU90cnBhaXcxQzlNR2JmZ2FOWm1iWUlQRlE?oc=5"
   }
  ]
 }
