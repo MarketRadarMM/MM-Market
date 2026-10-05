@@ -1,6 +1,48 @@
 {
- "generated_at": "2026-10-05T10:30:20+00:00",
+ "generated_at": "2026-10-05T11:01:00+00:00",
  "signals": [
+  {
+   "ts": "2026-10-05T11:00:18+00:00",
+   "title": "ပြည်တွင်းငြိမ်းချမ်းရေးနဲ့ မသမာတဲ့စီးပွားရေး - ဘီဘီစီမြန်မာပိုင်း အထူးမေးမြန်းခန်း",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cmkg7v25dv6do?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-10-05T11:00:18+00:00",
+   "title": "\"စက်လှေမှောက်ပြီး ခဏအတွင်း မှောင်အတိဖြစ်သွားတယ်\"",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/ck7v4gn47pl5o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-10-05T11:00:18+00:00",
+   "title": "ထရမ့်နဲ့ ရှီ ထိပ်သီးဆွေးနွေးပွဲ - အရေးအကြီးဆုံးကိစ္စတွေပြောဖြစ်ခဲ့ကြလား",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c3ew9eqvk1exo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-10-05T11:00:18+00:00",
+   "title": "အီရတ်ကနေ အမေရိကန်ထွက်ခွာတာ နှစ် ၂၀ ကျော်အကြာ ဘာတွေချန်ထားခဲ့နိုင်လဲ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cqj9xm3n4702o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-10-05T11:00:18+00:00",
+   "title": "ဒူဘိုင်း -တဲလ်အဗီပျံတဲ့လေယာဉ်က ပိုင်းလော့ကိုဓားနဲ့ထိုးသူအကြောင်း အစ္စရေး၀န်ကြီးချုပ်ဘာပြောလဲ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cm0qxqg9jgyko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-10-05T11:00:18+00:00",
+   "title": "ခရစ်တာ ပိုက်ခ် ရဲ့ ကွပ်မျက်မှု မအောင်မြင်ခဲ့တာ ဘာကြောင့်လဲ၊ ဘာတွေဖြစ်လာနိုင်လဲ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cxj0606p9q93o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-05T10:30:19+00:00",
    "title": "APTERR Tier 3 Rice handed over to AR",
@@ -2131,48 +2173,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYi1zLXN4QWRlakFja01JQjhDMjdrdDdPVmxSVl9PdmdiYVdENUU3aWRMZ0d4RlROaHJaNHZoMjBiU3JTMVkwRFBZOWRmb0NFOUVXOUM3SFBKcm5HNTctUFhESXlYNHhKQnd6M0xrOWxtczBPTE1VZjgzX0RBWTNHS3UxMUkwYkxxYU1YVHo4dF9FT2F3R3c0VlFMT20?oc=5"
-  },
-  {
-   "ts": "2026-09-28T15:30:16+00:00",
-   "title": "Thousands Flee Amid Myanmar Junta Raid Near Famous Pilgrimage Site",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSEFXM3VfaXYzb3dXbVd2Z2lJNjRCUGdjZDkxQ3FEUVNJbUZDbUZSS3FUQkJoQkZjS3dBTGRaR3V3RjV3Rlh6Y2ZVR3hlN01XUVpObG9HcTNJNWZmWnJocC15aFhqbHE5LVluakp1LTFCek1yc2JGV3o2VElRM3pQcXpySUhKYi1XZkdyOEUyeXNOR3dHS2NKMjlVS28ydXBoSndtZWhLMXBQZG1p?oc=5"
-  },
-  {
-   "ts": "2026-09-28T14:30:32+00:00",
-   "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing inspects Dagon University, University of Medicine (1), and Yangon University (Hlaing Campus) in Yangon Region and fulfills their requirements",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWkVkSHF6bExKUjZJQVBCR015Y1dDbVBBSFQ1YlItd1VTNmhnWDlPel9FYmJvVFpFQld4VHJ1WDN5bmZNS05lYnFFcDBVM00zbTlmWjRDRmxyVUhjZHk3Wk94VUJIVnVlZHZmd2U4Q3dGcDJvSlRScmpaRnk1eGh2Mmx5dlZEY3F2U1dsMFlRMTNhWXpPWVlCQ2Y1czIwZHI5TWx4eHhtWWFONmlKQWpOaWtmdkgxanBqWVpiU1ZB?oc=5"
-  },
-  {
-   "ts": "2026-09-28T13:30:18+00:00",
-   "title": "ဟူသီသူပုန်တွေသိမ်းဖို့လုပ်တဲ့ ယီမင်ရှေ့တန်းမြို့မှာ ဘာတွေဖြစ်နေလဲ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cv1j43ekw603o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-28T13:00:25+00:00",
-   "title": "Regime Peace Adviser Insists Ceasefire Agreement Cannot Be Nullified",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNek9veFA4S3ZHakRsUUNla0U5YnVqdGwxLWJNaVhvdkZFdzBYODVDYU5RZk0tYURwRlcwTG5IbG5sNGlKLTc4bjA1a21zZDVTRVhVVl9IclpxTTlzNFJnUF9sUDBnaE5FdW9NVDV3VnZIU0xSTWVkdGdlUkprckpHOGNSWmlXTUNaRWNPc0JvRVR6RExhYjg0alBLTzA5ckpycGJmT2ZJdndUZXB5ci1z?oc=5"
-  },
-  {
-   "ts": "2026-09-28T12:30:18+00:00",
-   "title": "At least one dead as villages flooded in southern Myanmar’s Tanintharyi Region",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/at-least-one-dead-as-villages-flooded-in-southern-myanmars-tanintharyi-region/"
-  },
-  {
-   "ts": "2026-09-28T12:00:30+00:00",
-   "title": "At Least 13 Killed in Floods in Resistance-Held Dawei",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQakwyazNybDc2b2hpcWRwUFNFb1ZwR09jQWFCTUVfbk9HSEdOT3RhNUd4ZUQwOFdwYktmMlE1dTV6VTBINGd6S3V1cEgybHBvc2hYOHBmUWFNSVVnVTBNYUpNZjZqZFl3a2VpM0VZUGxURnI0MWFFV25RX2ZBbnY0LVFBa0FEOUxzU2dzSW9aN29pUV9JX2ZESnlxaw?oc=5"
   }
  ]
 }
