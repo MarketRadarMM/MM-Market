@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-10-06T07:00:22+00:00",
+ "generated_at": "2026-10-06T07:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-10-06T07:30:18+00:00",
+   "title": "အိမ်သုတ်ဆေး Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOHp1bS1GWDVnZDdqYVZsWXlyZXItd3daS3l2QnZCQ3VyYkNiN1ZvMzZMVG9maktNX1NiS3Z6Wnh1TFJMRmdER3d2ZTJYVlBnLXlncWJBMjVXenFUMF9HS1BYUU9QVzVxc2F5QlphR2phUG5YLUNKWmZmMm03NlU0QzUyam93c3huZGlYYmdmclZUcHV5eVRRQjJ5ejFGb3gtdTlCT2M5dlh1bHMyNElXY1dCQy1fbWFPMXZfMzROZEhaVzBfbmdCdkYxSQ?oc=5"
+  },
+  {
+   "ts": "2026-10-06T07:30:18+00:00",
+   "title": "ဦးဇော်ဇော်စိုး Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOdXUtalJHaEZrTDRyc2R4S09VU0hVNE9wQTBhdGZjTkR0dFZQZEFpVW9CSEZuTFBmVHQzNklFSXI2QkV5SzQxN2lndk9yZmVELU5NbzBYb0VOZlJmSlpxeG9TUkpGQV9NSnFFR2F6RkFJTmt2RTFoVk4xOEpIaDY3NFFYSU1BTFgwME5CWUpGT3ZBVXpjekprMnE4dG9VNndpbUQtRjlFOGN3TWtZRFlQVEI2Q3FHU0Vxc0dIbzYxRlVWYlFzemlWbW1kWFN3OTNJODI0UlJEUkJpdHNNQmdrT0FnWDdhS2J0N1dBNjNsQjFpaWl1UTdrYUhqQQ?oc=5"
+  },
+  {
+   "ts": "2026-10-06T07:30:18+00:00",
+   "title": "အိန္ဒိယဈေး Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVmtUR3BWX0lITWdHQlhlM3BOT0daMk9GT0Flc2luUjhRcWJvaG5JdkNaZWlCdWdPVUpNUjVqdThJZGkzYnhWZl9HeDZvNDVuSDRoSXo4d0haZlpKSWZEbU43Q2I3X184MjRKWkJPbVRUZjlfX0E2WXZ2V0ZFR21TeEhuVFJyYTJZOV9rYm1EZ3BjUFpGOVVpOEloQkhjQ2FOcGZUUzFMSjBZUFdKZjdBMVJ5b2c1Tl9SSVFzalhlYw?oc=5"
+  },
   {
    "ts": "2026-10-06T06:30:55+00:00",
    "title": "စစ်ကိုင်းတိုင်း သဖန်းဆိပ်ဆည် ရွှေမျှောဖောင်များကို လေတပ်ဗုံးကြဲမှု ၆ ဦးသေဆုံး၊ ၃၀ ကျော်ဒဏ်ရာရ",
@@ -2159,27 +2180,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTTNHQ04tN3JHM3hvZlVEU0J2eGdrQnM2dWw2Rno4ZnhJcHV1TmJBNzRJcUtqYkh1YmtrMC1UdDdNejZkUjdqSmJNM1gtUERkc3pzaFAwSGw2NjIxSTVCUTRvcVh4V3RjNkJOdUxpYUp4SGhYNjQ3LTVIUHQtQnRhRHAyYWQ1N09pM3JMN1pJbmNxY3F2?oc=5"
-  },
-  {
-   "ts": "2026-09-29T07:00:21+00:00",
-   "title": "Myanmar Junta Headquarters Falls in Key Kachin Town",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTFUzNFFlazdfNFFpTGQ0V0paZWhhLUJtdTdTanRLSmEyMVVQYVF2R0lIbVJLSk9rME04dGtndUVqVWJTU0xVdVp2VjBVaXpfMnBGcmhmZVRQUW9KcU5iZ3Y4ZW9tYjFCVGRaT2EtTWxXMHd4a0xBb0doOXVrMG9OclRKNU5RNEhLTmRubmtYaE11V1JtSXRBc01GOGpWUDFSVVIzalF0MlA2Rkpoa3c?oc=5"
-  },
-  {
-   "ts": "2026-09-29T07:00:21+00:00",
-   "title": "Singapore Urges Employers to Shun Migrants from Myanmar",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTi1iZ2dULVpoZ0M1SGpCLWtzT1poUnVMQlhRNTJPQ3h6TE11dVBZYjBrSXBwM0FmMU1BSkZMd3h0eHhsT2RfeS1Oamt0aUFiTmxoUTZ4dWNKSF9lWmhWd21xQkpqS3FfZEZYWnlvNU1BaUdidnFuQ2ZoZVRteWVabnozX21NenRoYXVpRjZBVWo2RlduRkFMdW9MSQ?oc=5"
-  },
-  {
-   "ts": "2026-09-29T06:30:20+00:00",
-   "title": "New Year greetings extended by Acting President of the Republic of the Union of Myanmar and State Security and Peace Commission Chairman",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNY1dXcGU3YTAtMHY3aWZkeTdsWDZWSlBWMHNabUY3YWQ4Rm9fYWFiVzd6U2Q1eHdJcWxsc2ljT3JNYkFEZDRuaGJLSGpXWW1hY2R3VEE5MExveHlTLU43eG43QzNEZlhYQWRqSDdqZFVrV0xFMkloa3EyRHAza1pIUDJrMXljZUpsd05oZ3YtNldRelNYQkxwZjV6c2FWenNTX29UMW5WTElySThKSnEzWlZ3YmFPYkUxR2NBUVRoMWs?oc=5"
   }
  ]
 }
