@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-06T13:30:19+00:00",
+ "generated_at": "2026-10-06T14:00:26+00:00",
  "signals": [
+  {
+   "ts": "2026-10-06T14:00:22+00:00",
+   "title": "ရခိုင်ပြည်မှာမနေချင်လို့ ခိုးထွက်ကြသူတွေ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/ck780gpdvg67o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-06T13:00:20+00:00",
    "title": "မလေးရှားမှာ သောင်တင်ခဲ့သူတွေ မြန်မာခရီးဆုံးပြီလား",
@@ -2166,13 +2173,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaGF6Q1pHUXBkYzBMb3VxTm5iYllyVlNSMXpBQTgzcXhNQ3RpQVJNdnNlaXZpcHJfeFhjY3ZLQW0xUl9iRk1JZnJ2RDZDX3l3Y1NFZnB0dTZTZDUwV2tCSUh4bG43MzVBZHp6NjlDRE9HT2VZVmJiVExfamowZHZiQ1p0Rjl5MVhmemZuSWc2MnlEeURtZHRsTw?oc=5"
-  },
-  {
-   "ts": "2026-09-29T14:30:19+00:00",
-   "title": "Workers’ Hospital in Htantabin to offer hemodialysis in early October",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXczSUlfZDg1MmpwRlVIZ3pGS0lmQ3hzTGdJNGVmZjJJVHd2SnBrRExOZEtvMGxGSVBiMkxLckFCTko4dGIyeUxNUUhZZF9HU0VfMktEWUFRZWcyN21XNVo5RzNya0NzSER6b3BjVDZPZzBYd0VHdGkwRk1vQnNESmxGT0xyTU9EZXM1NDdQeTBQS1c1dUhmTA?oc=5"
   }
  ]
 }
