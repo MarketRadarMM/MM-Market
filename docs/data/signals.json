@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-06T09:30:18+00:00",
+ "generated_at": "2026-10-06T10:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-10-06T10:00:17+00:00",
+   "title": "‘သူ့ကို အဖေလို့တောင် ခေါ်ခဲ့ကြတာ’ - မသန်စွမ်းဂေဟာက လိင်အမြတ်ထုတ်မှု",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cmvgx5rnrd42o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-06T09:30:14+00:00",
    "title": "Remains of 12 abducted Magway residents uncovered after 3 years",
@@ -2166,13 +2173,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/c3ew9eqvk1exo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-29T11:00:22+00:00",
-   "title": "မိုးမိတ်နှင့် ဗန်းမော်တွင် တိုက်ပွဲများ ဆက်ပြင်းထန်၊ စစ်တပ်၏ စခန်းအချို့ကို KIA သိမ်းပိုက်",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81547/"
   }
  ]
 }
