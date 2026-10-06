@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-06T22:00:20+00:00",
+ "generated_at": "2026-10-06T22:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-10-06T22:30:19+00:00",
+   "title": "News",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZRVdEbU1YMkhkNXBoTXIyd3M0NDgtbkhiTl9XRlhhSGd5Qk05X2ZUTU1OYXJDSU8xVnoyQ0dya09IT1RZWXhVYzNHU3MwcDZvTktBWHdaMkt0SmUz?oc=5"
+  },
   {
    "ts": "2026-10-06T21:00:20+00:00",
    "title": "Myanmar’s cultural dance showcased at Hanoi’s 2nd Cultures of World Festival",
@@ -2166,13 +2173,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9PNk9yNVZjaUFMWHY2UUJ4Qm45VTkwYlVyNG1mUzRNOUZPTFVELWRPQWg0Q2FxNmRUVXVkVW42cEwxOXlfam8zalVWSEJfQzI4NUE3ag?oc=5"
-  },
-  {
-   "ts": "2026-09-29T17:30:18+00:00",
-   "title": "Letters to the Editor — November, 2008",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FblNtNjd4c190bXRndG9mLVZBMFRoTEpfQktyTW9kUDByVTVfRDVvVGg2QnFJamFFTExaZlJxcHRqOFlHeXoxVGhramJaZDlLWFdMNjM5OENvNXdpOERGby05cW5nUWl0UVE?oc=5"
   }
  ]
 }
