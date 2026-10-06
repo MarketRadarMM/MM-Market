@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-06T20:30:35+00:00",
+ "generated_at": "2026-10-06T21:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-10-06T21:00:20+00:00",
+   "title": "Myanmar’s cultural dance showcased at Hanoi’s 2nd Cultures of World Festival",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQjJQRWV2aU5vamUta0t0UUVScV94N0RrVC00NUhiY1hTUDVkX1Q2WE55a3VDalFGaTg3MGxHVVFqSURXVlFOVUNFQTZrMFRXZHB1clhCZWVxMTJadFhEdFR4eW9Rd3JkME4yaC1PdG1aMTdNZXI1d0tzQjA2TkxnNTVQZkIzTkFEdmlGcDRfd2lfOXd5SG1IMktkdmJTeDdO?oc=5"
+  },
   {
    "ts": "2026-10-06T19:30:20+00:00",
    "title": "Tsuyu Archives",
@@ -2166,13 +2173,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FblNtNjd4c190bXRndG9mLVZBMFRoTEpfQktyTW9kUDByVTVfRDVvVGg2QnFJamFFTExaZlJxcHRqOFlHeXoxVGhramJaZDlLWFdMNjM5OENvNXdpOERGby05cW5nUWl0UVE?oc=5"
-  },
-  {
-   "ts": "2026-09-29T16:30:16+00:00",
-   "title": "Interview: What Is the New Spring Revolution Alliance?",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMUR0WmJyN1ZiNTNhNDVUZl9nY0JnelpyX1R0bXJvMUlCX2ExNElFalpuVi1SS0k4N0hqRXp5dU5TSWZVSy10VFpiMVRLX0hvWGNJYlI2MXFXWW1uM0pzQlRSM0d4cHFUa2VGbXVqczZfSTRBOWpXX2FKaDlPSElGUXNpUjRvYW9qZmFvcnhnY3g4YlVjMThXQVFLZGk0V2FHaTFLaGN3?oc=5"
   }
  ]
 }
