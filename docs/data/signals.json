@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-06T23:00:22+00:00",
+ "generated_at": "2026-10-06T23:30:24+00:00",
  "signals": [
+  {
+   "ts": "2026-10-06T23:30:23+00:00",
+   "title": "DCA warns of unofficial air ticket sales",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB3NkMyZnppRmlhT28yYUo1elhLTUdMNFJjM2R3SjdnU3JSUkFLSy1BdXVCd2tKVl9YWHdfNjBROG5RM3ozUjJ3Wmp3RFRNOVl6UUptYzVuaEVkNUJVQmdTTFZPRFEtQnZQM3lZZUEwcmRtcWM?oc=5"
+  },
   {
    "ts": "2026-10-06T22:30:19+00:00",
    "title": "News",
@@ -2166,13 +2173,6 @@
    "source": "Frontier Myanmar",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRGNBdkZzY09way1qcXVqd3N3dTdHeEhrajItSjJRN0wtQmRmV2xwMlZFTVRCS0xFTlZMMm9LVzA5RUNtVDlOSW05LXh1Y2pXMEYxR2hvMkFOOVd6ZG9oWTVNelZXRkdrbmlwVXZEdHRGNjg0NE1ReWMyWUpJWFZWS29IalpqNko2N1ZJZlM0a1cxZkxrWUxFZ0pZdUxhNVdZVHJTRFQ2c2hXMDg?oc=5"
-  },
-  {
-   "ts": "2026-09-29T17:30:19+00:00",
-   "title": "29 September 2026",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9PNk9yNVZjaUFMWHY2UUJ4Qm45VTkwYlVyNG1mUzRNOUZPTFVELWRPQWg0Q2FxNmRUVXVkVW42cEwxOXlfam8zalVWSEJfQzI4NUE3ag?oc=5"
   }
  ]
 }
