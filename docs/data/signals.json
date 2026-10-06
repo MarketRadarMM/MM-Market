@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-10-06T06:00:23+00:00",
+ "generated_at": "2026-10-06T06:30:59+00:00",
  "signals": [
+  {
+   "ts": "2026-10-06T06:30:55+00:00",
+   "title": "စစ်ကိုင်းတိုင်း သဖန်းဆိပ်ဆည် ရွှေမျှောဖောင်များကို လေတပ်ဗုံးကြဲမှု ၆ ဦးသေဆုံး၊ ၃၀ ကျော်ဒဏ်ရာရ",
+   "source": "Myanmar Now (MM)",
+   "markets": [
+    {
+     "market": "pulses",
+     "direction": "bullish",
+     "confidence": 0.55,
+     "rationale": "Conflict in bean/sesame heartland threatens supply"
+    }
+   ],
+   "url": "https://myanmar-now.org/mm/news/81619/"
+  },
   {
    "ts": "2026-10-06T05:00:24+00:00",
    "title": "Chairman of the Financial Commission President of the Republic of the Union of Myanmar U Min Aung Hlaing delivers address at Financial Commission meeting",
@@ -2166,13 +2180,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNY1dXcGU3YTAtMHY3aWZkeTdsWDZWSlBWMHNabUY3YWQ4Rm9fYWFiVzd6U2Q1eHdJcWxsc2ljT3JNYkFEZDRuaGJLSGpXWW1hY2R3VEE5MExveHlTLU43eG43QzNEZlhYQWRqSDdqZFVrV0xFMkloa3EyRHAza1pIUDJrMXljZUpsd05oZ3YtNldRelNYQkxwZjV6c2FWenNTX29UMW5WTElySThKSnEzWlZ3YmFPYkUxR2NBUVRoMWs?oc=5"
-  },
-  {
-   "ts": "2026-09-29T06:30:20+00:00",
-   "title": "Those providing financial assistance to People’s Revolution Supply Family–PRF Website for funding CRPH and NUG terrorist groups arrested",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdjdnbnY2R2lFNlZXRXBKb2ZraTZVN0RWLUpIUzlUYjBSbjRuMkJCdzRzX1dwZnozREJ5SW5SRVFqM3RRWlY0aEZHZEhETUprYzFwSmh6S3lsN0lYeXRyRkR0dE5wVmhadTVCYUlhVmt4N2FSbV90TllUWnZWNER6UnFTR1RvNTJxa3Z3bG02d2dnNURkX3poT3FKTUJlV3JYeXRidWVCWVFsOEJrZE1tZ0lZeGdOT0p3TkZ5TEZR?oc=5"
   }
  ]
 }
