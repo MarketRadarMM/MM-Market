@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-06T09:00:23+00:00",
+ "generated_at": "2026-10-06T09:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-10-06T09:30:14+00:00",
+   "title": "Remains of 12 abducted Magway residents uncovered after 3 years",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/remains-of-12-abducted-magway-residents-uncovered-after-3-years/"
+  },
   {
    "ts": "2026-10-06T09:00:22+00:00",
    "title": "Myanmar Business Trade Show, Travel Expo 2026 set for 4 Sept",
@@ -2166,20 +2173,6 @@
    "source": "Myanmar Now (MM)",
    "markets": [],
    "url": "https://myanmar-now.org/mm/news/81547/"
-  },
-  {
-   "ts": "2026-09-29T10:30:18+00:00",
-   "title": "တော်လှန်ရေး အားကောင်းသည့် စစ်ကိုင်း၊ ကရင်နီနှင့် ရခိုင်ကို ၁ ရက်အတွင်း ဗုံးကြဲ",
-   "source": "Myanmar Now (MM)",
-   "markets": [
-    {
-     "market": "pulses",
-     "direction": "bullish",
-     "confidence": 0.55,
-     "rationale": "Conflict in bean/sesame heartland threatens supply"
-    }
-   ],
-   "url": "https://myanmar-now.org/mm/news/81542/"
   }
  ]
 }
