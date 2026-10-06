@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-06T08:30:19+00:00",
+ "generated_at": "2026-10-06T09:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-10-06T09:00:22+00:00",
+   "title": "Myanmar Business Trade Show, Travel Expo 2026 set for 4 Sept",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSldXMnJ1NUxodFQ5VzVnVmYwNU51eVlWY3FydjBydU1TQmM2RHNJQzRQeU43WTh6NDk2NUx4VW1SM0YwNTRheHRpbGFXbld6c3J6MEthM19wNFRZZERrM0xtdFNMWWVfZGpHTW1SQXpYMVZEVzlWZFczaVVUblRzdzNwb1Fuc3dIWUJacg?oc=5"
+  },
   {
    "ts": "2026-10-06T08:30:17+00:00",
    "title": "Ta’ang Rebels ‘Building New Bridge to China at Namhkam’",
@@ -2173,13 +2180,6 @@
     }
    ],
    "url": "https://myanmar-now.org/mm/news/81542/"
-  },
-  {
-   "ts": "2026-09-29T10:00:17+00:00",
-   "title": "Kyauktaw market airstrike death toll reaches 49; Arakan Army vows retaliation",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/kyauktaw-market-airstrike-death-toll-reaches-49-arakan-army-vows-retaliation/"
   }
  ]
 }
