@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-06T12:30:22+00:00",
+ "generated_at": "2026-10-06T13:00:25+00:00",
  "signals": [
+  {
+   "ts": "2026-10-06T13:00:20+00:00",
+   "title": "မလေးရှားမှာ သောင်တင်ခဲ့သူတွေ မြန်မာခရီးဆုံးပြီလား",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cme8r904k4jko?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-06T12:00:21+00:00",
    "title": "Only good on paper: Loan programme of limited help to SMEs",
@@ -2166,13 +2173,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXczSUlfZDg1MmpwRlVIZ3pGS0lmQ3hzTGdJNGVmZjJJVHd2SnBrRExOZEtvMGxGSVBiMkxLckFCTko4dGIyeUxNUUhZZF9HU0VfMktEWUFRZWcyN21XNVo5RzNya0NzSER6b3BjVDZPZzBYd0VHdGkwRk1vQnNESmxGT0xyTU9EZXM1NDdQeTBQS1c1dUhmTA?oc=5"
-  },
-  {
-   "ts": "2026-09-29T14:30:19+00:00",
-   "title": "Metal roofing sheets donated for quake-affected communities",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVUxkazl0TFA4UGJLeTBXODc3YmtDLWJaQU90aVI5WllrZzFIUHFLT3FMM1lDNUdVWHo5V2FfSkNmR1B4eHpkeHdER09rRzQxR1BDUFlXb0NuVm96OTE5VWxLMHVEQjh3RU4yZWZBVHctYXFISDF4WEE0Y3VjYVBaY3RuRkk3Y3FFN3lhYg?oc=5"
   }
  ]
 }
