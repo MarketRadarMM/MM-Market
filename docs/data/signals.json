@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-06T08:00:22+00:00",
+ "generated_at": "2026-10-06T08:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-10-06T08:30:17+00:00",
+   "title": "Ta’ang Rebels ‘Building New Bridge to China at Namhkam’",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOTJlT0hXU3ZhcFpPT05EQ29YWWpuNmNSV1d5eGdUeXVrdFFLWHR6VEhIR01ORTRLaUNJQVB6WjZWYkZEY09wTjlOYU1pQTZ0LXZIVnFVdFZpWWtRVHhqNGFvQmFJRW03RnN2SldTQzNxaTN1Rk4zRXhvLWpMUnJYSGE5T1hyY2VhZWtrV3cyM2l4VTBFd1hVX0ln?oc=5"
+  },
   {
    "ts": "2026-10-06T08:00:20+00:00",
    "title": "GLAMOS Archives",
@@ -2173,13 +2180,6 @@
    "source": "Myanmar Now (EN)",
    "markets": [],
    "url": "https://myanmar-now.org/en/news/kyauktaw-market-airstrike-death-toll-reaches-49-arakan-army-vows-retaliation/"
-  },
-  {
-   "ts": "2026-09-29T08:30:20+00:00",
-   "title": "Everyone’s problem: Rare earths, toxic waters",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU0pJcEs3UWM1cmNTYk8xaEM4UHhoTEFBZWd6dzBjUWFzYkNHY2pMaklrd3hQYVc3cE16N1hvWnFRSmIxcFZOVjdIcUhmbXFST0NXX2k5M21uTHNtQzY0ZGFqN1lrVTRmSGpFMjZuaXg1cFQ3ZmM5V19teGt0TkxKVUl4QVE?oc=5"
   }
  ]
 }
