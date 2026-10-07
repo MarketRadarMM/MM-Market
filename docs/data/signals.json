@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-07T02:30:20+00:00",
+ "generated_at": "2026-10-07T03:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-10-07T03:00:21+00:00",
+   "title": "7 October 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE15WVFPcVNpV0lHQ0J5NHVfWThBWjUzY09aV0p4TnUxekVBWHNmWTBBSEI4Q1RBVTNIaVJITUxCOWk3ZDJKSzNDTTVVYjVhMnF2?oc=5"
+  },
   {
    "ts": "2026-10-07T02:00:15+00:00",
    "title": "မြန်မာကနေ မုတ်သုံဆုတ်ခွာတဲ့နောက် နိုင်ငံအလယ်ပိုင်းမှာ အပူချိန်တိုးလာမယ်",
@@ -2166,13 +2173,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUUI1UlVBaVV2cVZ5MEVKU0tCc3ZGTnEzZUxXQlFKVnBpU0dHVWhFSm12ZERILWI2YUVGZG5KbEhXNEpiNXVyNEJ0OW56a0xlejZTTE10b01FM0V5VGU4UDlnQl9YeldiVVFMakhBSFh0Y0R5TWZIMjZBMVhnTUdPN1Rpc0FLdThfTGEyb3dsWVhNTDVqN3hHOEp0MWUwQQ?oc=5"
-  },
-  {
-   "ts": "2026-09-30T00:00:20+00:00",
-   "title": "Nakhat Min to compete in ONE Friday Fights 173",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0tSHJhYktSMUxZRmo0MUV6MGpwTC1kTno2MU1WemtnYUFJWTZnRG16WlJTMXJRLVgzLXB0YzJNT3JOUEMwdFpXdW9hSGo5Smtna2JYbUdiSHBXbzdiREtORnI2Z0ZQZEM0X1RUQmhfQmNPaDhoZXozNUFtbw?oc=5"
   }
  ]
 }
