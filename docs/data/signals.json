@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-10-07T12:30:19+00:00",
+ "generated_at": "2026-10-07T13:00:30+00:00",
  "signals": [
+  {
+   "ts": "2026-10-07T13:00:28+00:00",
+   "title": "Critics See Political Motives Behind Anwar-Min Aung Hlaing Talks",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNWljQ1hOZ0NrWnlDTkVmbkdTOGJNc1k3bUZ6dVdFNDBPUTNSa0lUVVJTbEJQXzdCREFseldXcm9FeEFvMndnZ1ptSFNIZEhKWGUxV1pnU2hzeWx1SjVxbWNGLTNSSUVBdUxhX2tBWXV0MTFXenAtVWlqMDhDbTFKeFMyMlhUN3phM20xQTFqQkFicEJwdUxBT25ZdVlVZGVwRlZLQ0pjZGJpQQ?oc=5"
+  },
+  {
+   "ts": "2026-10-07T13:00:27+00:00",
+   "title": "အတိုးနှုန်း ၉.၃၃ % အထိရှိသည့် ဘယ်လာရုစ်ချေးငွေယူရန် လွှတ်တော်အတည်ပြုချက်တောင်းခံ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81662/"
+  },
   {
    "ts": "2026-10-07T12:30:14+00:00",
    "title": "ပထမ မြန်မာအမျိုးသမီးကမ္ဘာလှည့် ဒဂုန်ခင်ခင်လေး",
@@ -2153,20 +2167,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVjBpQm14VlU4NExpTW5RZ0N4NzJVWFFjLThFQzR1Z2J3OWsxdEJzRVQ5M0ZjZ3dyWjIwQllGR1F0UFNyWDNqOHJnMUl5WmJCRDhmX3dnbEtTcnA2UG03d1JzY05MNm5QMjRmV2w4d0R0Q19GaFQtTGhnNUVvQTM1WW9GMA?oc=5"
-  },
-  {
-   "ts": "2026-09-30T05:30:18+00:00",
-   "title": "Thayawady’s MSY village project loans disbursed",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBUdDV5RjBJdS16ZlUxN0p3SkpGeFFkUDhzX29xV3dGQm1PZUVlSTdrek9FS09qOFJCdGpldmpMaDUyajNvd29Tc1V2b2xycmpNWUY4SG8tNGVSNGxPV2lVU0FHaXIzc0tSNTdoM1BxU2l5QWRQZlJqSHMyRQ?oc=5"
-  },
-  {
-   "ts": "2026-09-30T05:30:18+00:00",
-   "title": "Myanmar attends 12th St Petersburg Intl United Cultures Forum",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZE5qbTF6azZfLTZjZzNYUkM4MlB5WEw4OEJJeUI3X0JFc1pzdlNUTDRGQ3UxaTJvNDhQVmhZSVBsVElwM3R0WEk5Z0FjajJNNzRnVGdzUjd2a1UzQTBZT09CR19Ibkt2VUw2NWdER2hNT19OZFh3bFp5eTdKWE5lbGNrbi10elE3dGFtQS0ybw?oc=5"
   }
  ]
 }
