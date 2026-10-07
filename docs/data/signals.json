@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-07T05:00:22+00:00",
+ "generated_at": "2026-10-07T05:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-10-07T05:30:16+00:00",
+   "title": "Myanmar junta leader to visit Malaysia after migrant returns begin",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/myanmar-junta-leader-to-visit-malaysia-after-migrant-returns-begin/"
+  },
   {
    "ts": "2026-10-07T03:00:21+00:00",
    "title": "7 October 2026",
@@ -2166,13 +2173,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPazA3eVAxcS1WN0tVRHp6eXk1Tl8xVTdYd2w1WEJmbTF6RURsSmFYSkU3YTZRa3hqWkFMcEhZeXIwcFBDVUJwd1Z5Z3l5T0IxZWRmMFNzcklLV0pTMEsyWm42YWxiV0dVWjJKN1BrcGVPZ0xBRnE2UXk3TTdfZHhFeU1xMi1sWUhwSWZxN3VB?oc=5"
-  },
-  {
-   "ts": "2026-09-30T00:00:20+00:00",
-   "title": "CHUBB Life Myanmar due diligence on policyholders nears completion at 90%",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUUI1UlVBaVV2cVZ5MEVKU0tCc3ZGTnEzZUxXQlFKVnBpU0dHVWhFSm12ZERILWI2YUVGZG5KbEhXNEpiNXVyNEJ0OW56a0xlejZTTE10b01FM0V5VGU4UDlnQl9YeldiVVFMakhBSFh0Y0R5TWZIMjZBMVhnTUdPN1Rpc0FLdThfTGEyb3dsWVhNTDVqN3hHOEp0MWUwQQ?oc=5"
   }
  ]
 }
