@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-07T01:30:20+00:00",
+ "generated_at": "2026-10-07T02:00:19+00:00",
  "signals": [
+  {
+   "ts": "2026-10-07T02:00:15+00:00",
+   "title": "မြန်မာကနေ မုတ်သုံဆုတ်ခွာတဲ့နောက် နိုင်ငံအလယ်ပိုင်းမှာ အပူချိန်တိုးလာမယ်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.co.uk/burmese/live/crd6dvl17y7gt?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-07T00:30:19+00:00",
    "title": "Pyithu Hluttaw Speaker meets YR MPs",
@@ -2166,13 +2173,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0tSHJhYktSMUxZRmo0MUV6MGpwTC1kTno2MU1WemtnYUFJWTZnRG16WlJTMXJRLVgzLXB0YzJNT3JOUEMwdFpXdW9hSGo5Smtna2JYbUdiSHBXbzdiREtORnI2Z0ZQZEM0X1RUQmhfQmNPaDhoZXozNUFtbw?oc=5"
-  },
-  {
-   "ts": "2026-09-30T00:00:20+00:00",
-   "title": "30 September 2026",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5veUgxWTlUcHNTVHQzcWdXY1pyR01qZ3J5VUl3MlM0d1RRQzdRQ09lM29yQ3psblpiQ0ZvMmJRcVBqSEs4UEl1eFpRNjM0dzVxLUJqNg?oc=5"
   }
  ]
 }
