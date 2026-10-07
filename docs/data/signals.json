@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-07T21:30:20+00:00",
+ "generated_at": "2026-10-07T22:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-10-07T22:00:19+00:00",
+   "title": "Marga Landmark Development Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aU2txX3luQnFoX2pYM05RalRTMFNTa0pzQlI3cGhwaFpZdVlQWXJqWWJsd1FNSVFrcDh0bXkwQTQ3SElQSldYVjd4b3FmTGZjTU5SU0NKbEJiZ1dwdzhtQ0xURzlSNUFSQ2c?oc=5"
+  },
   {
    "ts": "2026-10-07T21:00:22+00:00",
    "title": "President U Min Aung Hlaing pays official visit to Malaysia",
@@ -2160,13 +2167,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTEIwZVJJLXBJb0wwZFNkcHNyZ3pVYTNBakdyUmlVM1VfSUxoUWI3RmtJU0RISERLNUdKR1JqUHdEeWhLRGUwbm1fdGtIN0ZGMjRJX2ljSVFRRkg0aEZJRXVCWUF1bU1hMmNaaXZIcUI4QndFa25Ld2Z2eEhmUG9RSjJFMERSOERLLUVCcThnQUpObnN1UDNSVEpLbXI2WlctcVlVdFJPU0p3a0Flc1NUZUt5aXZHWHl4aDZKTl96NkE1NGs?oc=5"
-  },
-  {
-   "ts": "2026-09-30T11:00:20+00:00",
-   "title": "ထရမ့်နဲ့ ဘီလျံနာတွေရဲ့ Super Intelligence ဆွေးနွေးပွဲကနေ သိသင့်တဲ့အချက် ၃ ချက်",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c6d941pq953xo?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
