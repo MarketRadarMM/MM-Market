@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-10-07T10:00:22+00:00",
+ "generated_at": "2026-10-07T10:30:17+00:00",
  "signals": [
+  {
+   "ts": "2026-10-07T10:30:13+00:00",
+   "title": "ဝါဒဖြန့်ပေးသူတွေကိုပါ စစ်တိုက်ခိုင်း မတဲ့လား",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/ck2094wjdy65o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-10-07T10:30:13+00:00",
+   "title": "ရန်ကုန်က အဆင့်မြင့်ကွန်ဒို၊ စသုံးလုံးနဲ့ သော့မရသေးတဲ့၀ယ်သူတွေ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cqrm9mewnpv8o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-07T10:00:20+00:00",
    "title": "ကစ္ဆပနဒီမြစ်ဘေးမှ ဖိနပ်လေးတစ်ရံနှင့် သွေးမျက်ရည်များ",
@@ -2159,20 +2173,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOUZ6WUFOdHZ1QUpHajlRdlFoeEVJN19VSzQ0VXZyR3NXS2hoU05KUm5obHlLMndkdGFJTkdYZFpzLVhfZ1BTTEpPVlB2RFNBeVZTeko2bTZ6NjR4dkpZVlkxQXI1clN2OFZNYi0zOWFwUURFUVNwWjlFTnZFaGlRSnVpWDRDdUl3NmcyVmdheWc5QldGdFUxd3UwUGtYLWRtNWFlMm1saDg?oc=5"
-  },
-  {
-   "ts": "2026-09-30T00:30:16+00:00",
-   "title": "Kunhing enjoys fruits of spring water supply",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9pX1ZSckNpT0NLS3dqOFQycnFKUkxBQmd3TVlWbXhEdE5rWXB3Ukl2ZWIzRnpMZHRia1hoTFY0WEZ2NFR2MFFRSHg2T3ZTNmtlTEdCTmJnSFNyYnpmOEhHbTRBN0ZjSGY3QmJJa2gtbE02cnpZaFFHMA?oc=5"
-  },
-  {
-   "ts": "2026-09-30T00:30:16+00:00",
-   "title": "Frontline-Returning Tatmadaw Personnel Honoured in Kayin State",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQkFVaWZNQnQ2OFp5SlduNmVqX0ROSFgtVGpiNFJ2NlFuREh6WDBLSmcyS1JvTFdLdk1yNkVnbXRmM1piSHVxRVAxdldvdXJCMk5EQjQwTzRuSEp1X2FqZFV0dmlveGR5MjBCQlJTbmZZVm1zYnhUZk1vSHJJWGxvVE5COFc5NzY0OHUwQXRadHY?oc=5"
   }
  ]
 }
