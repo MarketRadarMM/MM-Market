@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-10-07T12:00:23+00:00",
+ "generated_at": "2026-10-07T12:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-10-07T12:30:14+00:00",
+   "title": "ပထမ မြန်မာအမျိုးသမီးကမ္ဘာလှည့် ဒဂုန်ခင်ခင်လေး",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cx2p14802qko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-10-07T12:30:14+00:00",
+   "title": "မိုင် ၆၀ ကျော်ရှည်တဲ့လောင်းလုံးတောင်တန်းမှာ လူသေတဲ့မြေပြိုမှုတွေဘာကြောင့်ဖြစ်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cq78p11grye3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-10-07T12:30:14+00:00",
+   "title": "မလေးရှားမှာ သောင်တင်ခဲ့သူတွေ မြန်မာခရီးဆုံးပြီလား",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cme8r904k4jko?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-07T12:00:21+00:00",
    "title": "မြန်မာနောင်း အပါအဝင် သတင်းဌာန ၅ ခုကို ကြီးလေးသောပုဒ်မများဖြင့် စစ်တပ် အမှုဖွင့်",
@@ -2146,40 +2167,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZE5qbTF6azZfLTZjZzNYUkM4MlB5WEw4OEJJeUI3X0JFc1pzdlNUTDRGQ3UxaTJvNDhQVmhZSVBsVElwM3R0WEk5Z0FjajJNNzRnVGdzUjd2a1UzQTBZT09CR19Ibkt2VUw2NWdER2hNT19OZFh3bFp5eTdKWE5lbGNrbi10elE3dGFtQS0ybw?oc=5"
-  },
-  {
-   "ts": "2026-09-30T05:30:16+00:00",
-   "title": "တိုက်ပွဲမရှိသည့်ကျောက်တော်မြို့တွင် လူစည်ကားသည့်ဈေး ဗုံးကြဲခံရခြင်း",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81480/"
-  },
-  {
-   "ts": "2026-09-30T05:00:19+00:00",
-   "title": "Malaysia Starts Sending Myanmar Migrants Home",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2hMdVotdkJGWHR2cExSRi1yUDNENTRFMHozTGN1R2hYN0pYRTBnX2RteWphQl9kM2VBZ1BxS3VFRmxGbnQ0dkNiamxCX1Jha1k1MDliQVJ2NVlYcGRBeVl3aFN3RWVKMDJTT21ucko4U05rWGxCcDdBYzJtTVpzS1N1RklXazF5T1dmVi1zUlFjaW9mRVhVQ0lfNTBobTVsU0tWaXJqaVdqbkE?oc=5"
-  },
-  {
-   "ts": "2026-09-30T05:00:16+00:00",
-   "title": "Belgian company faces legal action over Myanmar beer awards",
-   "source": "Myanmar Now (EN)",
-   "markets": [
-    {
-     "market": "fx_kyat",
-     "direction": "bearish",
-     "confidence": 0.65,
-     "rationale": "New sanctions pressure the kyat"
-    },
-    {
-     "market": "gold",
-     "direction": "bullish",
-     "confidence": 0.65,
-     "rationale": "Kyat pressure drives savings into gold"
-    }
-   ],
-   "url": "https://myanmar-now.org/en/news/belgian-company-faces-legal-action-over-myanmar-beer-awards/"
   }
  ]
 }
