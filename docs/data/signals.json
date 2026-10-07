@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-10-07T20:30:21+00:00",
+ "generated_at": "2026-10-07T21:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-10-07T21:00:22+00:00",
+   "title": "President U Min Aung Hlaing pays official visit to Malaysia",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdmxjNFF6SnNlUHlISUNVZk1IQU9aSjNWWkJqRl9CenNBNmRZX1BveUhKcVpXallZaWU5WVNHeGhXMFRwenpzRmktNUc0TjN2Q0ZaMFMyQTQyNE92MUZPRlladkZFTDlSWVoybURVSWw0R2VjQ2xUZmJva3VFTnJTbEdEMXhaZlA5OUNEYg?oc=5"
+  },
+  {
+   "ts": "2026-10-07T21:00:22+00:00",
+   "title": "Bogyoke Aung San Market celebrates centenary",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjM0tjeWFoM0FnUWZrOGYwejlxR1FmWDItV3Y3eGpUODBhc2hHOUVqZTZ0eXJGbTdrRngzUHc0RU4wOGtXZ0lCYjVDV19wdzhmQ0hqNnR1ZUlxTVdlU1RCV0RWZ3JMd25JQm5maG9uczhQOVBOZG8zU21sZw?oc=5"
+  },
+  {
+   "ts": "2026-10-07T21:00:22+00:00",
+   "title": "8 October 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ybFdxU09LOUUzTkx3M1I1V3dXVVFseGI5X3l4dy0tQ1hHMHVEbVFDTXNZejdkdFpSNUVZV0haTHVaSmFVczZGQUNMWWxzUzNo?oc=5"
+  },
   {
    "ts": "2026-10-07T20:30:19+00:00",
    "title": "Index of /wp-content/cache/page_enhanced/www.irrawaddy.com/author/virginia-hendersonn/feed",
@@ -2146,27 +2167,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/c6d941pq953xo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-30T11:00:20+00:00",
-   "title": "DYSPHOR1A - မြန်မာဘဏ်တွေ အချက်အလက်ခိုးယူတဲ့ပြည်တွင်းဟက်ကာအဖွဲ့",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cq1kxyn374z3o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-30T10:30:19+00:00",
-   "title": "KIA Recaptures Regime Stronghold Controlling Northern Supply Route",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaVN3X1VFcjJmd1JmcTIxXzBSN051RDhWVXRvdXlyc1o2eUdOLXdsS2VaMzEyXzNCUy1McDhuX1dSREQ2VGM5REh6a21QcW5IdUZ0Y05IdGs5a1JCYmhPREpWVVFjRnVMYmhuak1tdElRQS13bHlyN1RoUjhuaU1YLTJlUkdUZnhjNV9BZWZEZnpHcGtQU2VVbnBrM05DUGczVWFKMGVOdTQyTllkdGxmNncyR1dJcXY4ZnNkSi1IaE1LUQ?oc=5"
-  },
-  {
-   "ts": "2026-09-30T09:30:18+00:00",
-   "title": "Yangon Region works to reduce crime",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBINnpsMmx0VDBMeDVyc0pXZmlVX2NBdi1LSFhzaTRhMjRPemtOektwWWl6cjJVZDE5VkJnRmNOZS1ITmhoU0dVbGRzNE1lNGVCdWN3VnpCSXU3aHU5alZGY3huTHNfck9NMjZxcw?oc=5"
   }
  ]
 }
