@@ -1,6 +1,34 @@
 {
- "generated_at": "2026-10-07T11:00:21+00:00",
+ "generated_at": "2026-10-07T11:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-10-07T11:30:20+00:00",
+   "title": "Myanmar Regime Trying to Hound Independent Exile Media Through Interpol",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNV3B6dVdrVUVRRFJId2hRWGtaZEtyN19qYW9UTWpMRzZNS25MTng5MFJpUzVaZlkydXFSM3RYd1k0OG1SU21lN093WnNsc3VwWi0tOGFsQ1c5S3FMYl8xMmlPSERYVmpwVU5NVkY5eTlGbEQtQk9FcXRNOXZtRm4yYkdPMk1HdGJlOWdVVThWWEhRWXNzTk1CZldka3NyUmlad1hHRERjejhBLUZJS2lYVTZxNFZ4cFpZMFFtVm14RF95bFBVZWRraXA5OGJHUQ?oc=5"
+  },
+  {
+   "ts": "2026-10-07T11:30:15+00:00",
+   "title": "Myanmar military kills six in ‘double-tap’ airstrikes on Sagaing dam",
+   "source": "Myanmar Now (EN)",
+   "markets": [
+    {
+     "market": "pulses",
+     "direction": "bullish",
+     "confidence": 0.55,
+     "rationale": "Conflict in bean/sesame heartland threatens supply"
+    }
+   ],
+   "url": "https://myanmar-now.org/en/news/myanmar-military-kills-six-in-double-tap-airstrikes-on-sagaing-dam/"
+  },
+  {
+   "ts": "2026-10-07T11:30:15+00:00",
+   "title": "Myanmar junta says bid to arrest exiled journalists and opponents through Interpol has failed",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/myanmar-junta-says-bid-to-arrest-exiled-journalists-and-opponents-through-interpol-has-failed/"
+  },
   {
    "ts": "2026-10-07T10:30:13+00:00",
    "title": "ဝါဒဖြန့်ပေးသူတွေကိုပါ စစ်တိုက်ခိုင်း မတဲ့လား",
@@ -2152,27 +2180,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM3c0S2lzZVR3V1V6NFZObVFZWU0zZ3VxWXJ3M1c5OUU3bmx5M2pnSlNJUHo4anZNVFMxeTNhMjUxZFNqTXdra2hVemZ3M1JNSF90SjhVOEJWakhvMkJXMkU2MzVNSzJyUmxBOUdiQWZyVGFDeGxHV1JGMGRnNUliV0doek4wNERvRVZ2dDRiZDE1OUlac1NLVFh6UmhvVEM0Q0J1ZW1BQ3c2QQ?oc=5"
-  },
-  {
-   "ts": "2026-09-30T01:30:18+00:00",
-   "title": "Push to Transition from E-Government to Digital Governance",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTGlWZFdSb3dVSVRzdnlBSXFzMDQxeFBFaVQ0YTRWZHAtbTJMU2cxeXlkekJ6d3ctekEwa3gweC15VG1wLWFKbkk1ZHBYcE91Rm5KYXY3VEFYdHZyMlAzM2dMaGoyNEVua1lUSVhyWlBwUDNjb1VWV2hHZVV6dmFXYkRNVEpnYmF2TEc4?oc=5"
-  },
-  {
-   "ts": "2026-09-30T01:30:18+00:00",
-   "title": "NSPNC meets NCA-S EAOs to discuss future peace processes",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORGhiUXh1ZUo2SGNwT2tVeUtLZ0RQWkZLaWEtOE1XUloyLUhmcmtvbDljQU9zZDZiR0pPYl9wZm1wWF85ekl1Tlp3WmJuUUQ1WlRNYzEtZ1VUcy1malVfOTlLQ2kzMm1DQnROY1BUODRZMC1ZV1E4cWotZzRnT3FmT2pWcmFJS2lF?oc=5"
-  },
-  {
-   "ts": "2026-09-30T00:30:16+00:00",
-   "title": "Laterite paving for Yenangyoung-Hteinchaung-Nyaungbintha-Phayagon Road inspected",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOUZ6WUFOdHZ1QUpHajlRdlFoeEVJN19VSzQ0VXZyR3NXS2hoU05KUm5obHlLMndkdGFJTkdYZFpzLVhfZ1BTTEpPVlB2RFNBeVZTeko2bTZ6NjR4dkpZVlkxQXI1clN2OFZNYi0zOWFwUURFUVNwWjlFTnZFaGlRSnVpWDRDdUl3NmcyVmdheWc5QldGdFUxd3UwUGtYLWRtNWFlMm1saDg?oc=5"
   }
  ]
 }
