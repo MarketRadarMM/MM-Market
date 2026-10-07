@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-10-07T00:00:25+00:00",
+ "generated_at": "2026-10-07T00:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-10-07T00:30:19+00:00",
+   "title": "Pyithu Hluttaw Speaker meets YR MPs",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3Ni1FdmFNbkp6YmxLTkh5c1licHEzYXVoRVZtZl9qLWc1TTgyUzVsVDFyaHd6bUdaZFdRUjZOeXVkSGNwYWc2anlISWpLNXlvWnZLMVdyVmcwcDNyRE96YzlfTEhESXplYnlKQg?oc=5"
+  },
+  {
+   "ts": "2026-10-07T00:30:19+00:00",
+   "title": "Contributing to productivity of the State through agriculture sector",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSTlLTWZqbnpQekhoamNZZDV6bWdlYS1EN2p3aE1neWlTRVR3V2h5c29Ndm5lOTkzOEFhdFozOEtEMGNDWHNkN2FqUXkybmY4MGNsc0g3bmZrbXpCQTRRTWd5NHR6UmVuSGVlVGlmWEpZcUlQS0w0WThOZ2lkRFlpd0oxZy1jNkNLSE5URXY5bDlXY04zRjlhcQ?oc=5"
+  },
   {
    "ts": "2026-10-07T00:00:25+00:00",
    "title": "President U Min Aung Hlaing gives guidance to Union ministers, Nay Pyi Taw Council Chairman, region and state chief ministers on development of State economy",
@@ -2159,20 +2173,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5veUgxWTlUcHNTVHQzcWdXY1pyR01qZ3J5VUl3MlM0d1RRQzdRQ09lM29yQ3psblpiQ0ZvMmJRcVBqSEs4UEl1eFpRNjM0dzVxLUJqNg?oc=5"
-  },
-  {
-   "ts": "2026-09-29T22:00:25+00:00",
-   "title": "UN not involved in repatriation",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jMnVUTlRmQ1RYTU1NQnMtczhIVTNTUzU1ckZHemcyRlVXS3pUVzktOWE2X1BybVRKajYzb0xvZnhjeWFDVEVaYURfZDUta0ZyZXlod3lsUURaOGdjcmJaMzJINnBFUFB2RGtHTkFqWEQ4Q0ZacUE?oc=5"
-  },
-  {
-   "ts": "2026-09-29T22:00:25+00:00",
-   "title": "Flights halted",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82Sk5WSkt1NmVNZDBHVzBNbEhiRnVqZnlzS2RqZUd2c0VmTDl4VW5OR29fY3RVMDFHZVdRdEo2Z0lIbE1yQjJoVjJXSGVLR1gwWVZodE8xZWFncEtYVlc4?oc=5"
   }
  ]
 }
