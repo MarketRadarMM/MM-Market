@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-10-07T11:30:21+00:00",
+ "generated_at": "2026-10-07T12:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-10-07T12:00:21+00:00",
+   "title": "မြန်မာနောင်း အပါအဝင် သတင်းဌာန ၅ ခုကို ကြီးလေးသောပုဒ်မများဖြင့် စစ်တပ် အမှုဖွင့်",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81656/"
+  },
+  {
+   "ts": "2026-10-07T12:00:19+00:00",
+   "title": "ရုရှားဓာတ်ခွဲခန်းဝန်ထမ်း သေဆုံးမှု - ပလိပ် ရောဂါလား၊ဘာတွေဖြစ်ခဲ့လဲ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cr3wvq2yvzeeo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-10-07T12:00:19+00:00",
+   "title": "ရန်ကုန်က HIV ကူးစက်မှု၊ လူငယ်တွေစိုးရိမ်ချက်နဲ့ ပြည့်တန်ဆာနှိမ်နင်းရေး",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cgrvxr41z8xo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-07T11:30:20+00:00",
    "title": "Myanmar Regime Trying to Hound Independent Exile Media Through Interpol",
@@ -2159,27 +2180,6 @@
     }
    ],
    "url": "https://myanmar-now.org/en/news/belgian-company-faces-legal-action-over-myanmar-beer-awards/"
-  },
-  {
-   "ts": "2026-09-30T03:00:17+00:00",
-   "title": "ဦးမင်းအောင်လှိုင် အမိန့်နဲ့ ဗိုလ်ချုပ်ကြီးကိုကိုဦး ကို ပြည်ထဲရေးဝန်ကြီးအဖြစ်ခန့်အပ်လို့ ဝေဖန်ခံရပြီးမှ လွှတ်တော်တင်",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.co.uk/burmese/live/cqx2zxdd7nrlt?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-30T01:30:18+00:00",
-   "title": "MAI welcomes new ATR 72-600 aircraft in Yangon",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1UYkVmNzFiTzNFbzg3ZEZYZ2o5OEpWZU8xX2RzYlRkMktZZHVKbTd3MmlBNEUwRTM5T3pQaXE5V2NQT3g2WWlFTnBpaDRhaFFjUm5MNWEzd19JYnZSS21CRUhwb2szZlg2eTNkZHFpbUMxeDNyZlVxZnlmRQ?oc=5"
-  },
-  {
-   "ts": "2026-09-30T01:30:18+00:00",
-   "title": "Kunming Seminar Spotlights Myanmar’s Economic Environment & Investment Opportunities",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM3c0S2lzZVR3V1V6NFZObVFZWU0zZ3VxWXJ3M1c5OUU3bmx5M2pnSlNJUHo4anZNVFMxeTNhMjUxZFNqTXdra2hVemZ3M1JNSF90SjhVOEJWakhvMkJXMkU2MzVNSzJyUmxBOUdiQWZyVGFDeGxHV1JGMGRnNUliV0doek4wNERvRVZ2dDRiZDE1OUlac1NLVFh6UmhvVEM0Q0J1ZW1BQ3c2QQ?oc=5"
   }
  ]
 }
