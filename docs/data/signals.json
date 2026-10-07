@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-07T14:30:20+00:00",
+ "generated_at": "2026-10-07T15:00:25+00:00",
  "signals": [
+  {
+   "ts": "2026-10-07T15:00:25+00:00",
+   "title": "President U Min Aung Hlaing attends inauguration of Wazira international-level red carpet theatre",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMFVJRW9acFlFbEVSR2tNakpOOFc2N3c0NVpaejVYYUh2ZG1NYkptaF9iOVVSZG8tUjhpV19rVWthVlZfcGZjY2N0dFFkeVRTOHdhYVhWNmdMNERXa3RtY1hVQV91Y21EbVgwdi0xTlpwWG1sd0xMM3pncWttSUluRlJ3MTVCd3pYeEJ5cVhjN2dSd1BKWV9VVHBrZkRhdlU0Q2txdlBTMHBhX05odS1JVHhsMnVrbjhRNS1xazBUVWNzcWpFelE?oc=5"
+  },
   {
    "ts": "2026-10-07T14:00:24+00:00",
    "title": "Diamond jubilee prize-presentation ceremony of National Literary Award for Lifetime Achievement, National Literature Awards and Sarpay Beikman Manuscript Awards for 2023 held; Chairman of State Administration Council Prime Minister Senior General Min",
@@ -2160,13 +2167,6 @@
    "source": "Frontier Myanmar",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1SY0NDSTk4TXQtOVRFQm9BWGwyOXZqUjM4MDFHcG1mM1hVTkN6NFZMSDdGdm1KUkJiYnJkaEc4OHN2SUtfeUNaX2xKVnpSRXpLQkVNdk8wbzBGTXdhNHBvTVhrdlpUcEppc0M2Sml6Vkk1Zw?oc=5"
-  },
-  {
-   "ts": "2026-09-30T08:30:14+00:00",
-   "title": "အီရတ်ကနေ အမေရိကန်ထွက်ခွာတာ နှစ် ၂၀ ကြာ - ဘာတွေချန်ထားခဲ့နိုင်လဲ၊ ဘာဆက်ဖြစ်မှာလဲ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cqj9xm3n4702o?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
