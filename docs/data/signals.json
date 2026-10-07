@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-07T20:00:21+00:00",
+ "generated_at": "2026-10-07T20:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-10-07T20:30:19+00:00",
+   "title": "Index of /wp-content/cache/page_enhanced/www.irrawaddy.com/author/virginia-hendersonn/feed",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOHQ1VXAxclV1YlI0VmxmSUNOOTdWZkpaN0NiRDBzaDhEQUNCZ05jbnMtT3hqWUJBODZKb1pfTHl5U2pkRjZMbGJ0NXZ1LXEtQjVna21EakhzYVNkTVJsdlVWSXExY1JSRlFRWXFmei1HQ0ZkRU5lZkY2ZjdjMXdfQnY3Vmlka1NXOXJnVk4waV82OHpSX0FRYVF2NThSSDVYYVJSVUpmazJmRGM?oc=5"
+  },
   {
    "ts": "2026-10-07T19:30:18+00:00",
    "title": "AI and the Digital Economy Rivalries Poised to Transform the World",
@@ -2160,13 +2167,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBINnpsMmx0VDBMeDVyc0pXZmlVX2NBdi1LSFhzaTRhMjRPemtOektwWWl6cjJVZDE5VkJnRmNOZS1ITmhoU0dVbGRzNE1lNGVCdWN3VnpCSXU3aHU5alZGY3huTHNfck9NMjZxcw?oc=5"
-  },
-  {
-   "ts": "2026-09-30T09:30:16+00:00",
-   "title": "မကွေးတိုင်းတွင် ရေနံတွင်း ၈၀၀ ကျော်ကို စစ်တပ် မီးရှို့ဖျက်ဆီး",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81570/"
   }
  ]
 }
