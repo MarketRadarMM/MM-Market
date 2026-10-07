@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-07T09:30:18+00:00",
+ "generated_at": "2026-10-07T10:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-10-07T10:00:20+00:00",
+   "title": "ကစ္ဆပနဒီမြစ်ဘေးမှ ဖိနပ်လေးတစ်ရံနှင့် သွေးမျက်ရည်များ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81638/"
+  },
   {
    "ts": "2026-10-07T09:00:19+00:00",
    "title": "Myanmar Coup Leader Lands in Malaysia for Migrant Return Talks",
@@ -2166,13 +2173,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQkFVaWZNQnQ2OFp5SlduNmVqX0ROSFgtVGpiNFJ2NlFuREh6WDBLSmcyS1JvTFdLdk1yNkVnbXRmM1piSHVxRVAxdldvdXJCMk5EQjQwTzRuSEp1X2FqZFV0dmlveGR5MjBCQlJTbmZZVm1zYnhUZk1vSHJJWGxvVE5COFc5NzY0OHUwQXRadHY?oc=5"
-  },
-  {
-   "ts": "2026-09-30T00:30:16+00:00",
-   "title": "Over 19.8M people die from CVDs",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xZHR0Ums2NXFCQTE2dW05cFNmMFZCbHAxaW91VGo2TlhtMWRBeWFIaWZQVVpTcG44WkRIdDRlWWpkemduTkJsUXh5VXFfcDJvQjRXdzZCbmZ2TGtLTk5sak5Zb1d3M0k?oc=5"
   }
  ]
 }
