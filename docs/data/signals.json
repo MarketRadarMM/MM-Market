@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-07T23:30:32+00:00",
+ "generated_at": "2026-10-08T00:00:31+00:00",
  "signals": [
+  {
+   "ts": "2026-10-08T00:00:30+00:00",
+   "title": "Rescue Efforts at Myanmar Earthquake’s Epicenter Hampered at Every Turn",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZThXM2tBMlRuRE9nQ2ZCSFpIMjJNTFkwVGVHeDNuZTFoZ0Q4eFAyb0NzdU9NYjBBNGMyZTd2cExqaEgwVzJUVDJ2Zk5BVzhFWTVmeldXa0xPMzdyakV6QjdQaUd3NWF6ZjByRDc3ZlBfUC1oYWtEbXE5a3pMeHNQdExrWnBqMGxGekZJV2JObGRmY2JCek13bVdtRGZEb0FQdXJrQ2VUTFV3ZXVVU040R1dR?oc=5"
+  },
   {
    "ts": "2026-10-07T23:30:30+00:00",
    "title": "Up to 700 Myanmar Muslims Killed in Quake-Hit Mosques Weakened by Neglect",
@@ -2160,13 +2167,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVzlMWVJDOHQ3R256aHhadV9zVHZfaVQycmE5VDZKWnZsVEpQcTRyTEhVdFJKcVotYXVhX3poT2ZNS1NrZXhLX2kwWHlPTEZYS2oxc3hWcEh1UFdRSkhBdlZVSEVPSlFjYTBvNm83ZmNzVklYcWhqT01Bbm1aSk8zTXkwZkg2N3pqTXU5S1pfR09EYzV2QXBiazJfY0MyUQ?oc=5"
-  },
-  {
-   "ts": "2026-09-30T12:30:24+00:00",
-   "title": "Reflections on a Memorable School Health Trip: A Nostalgic Trip down Memory Lane",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc2N5OVRGTjBmTkF0UmYwSktyRmdnclhyNjk2Q1hvSG9XOEJGVVUzcUxrN3hoNHdzZ29oeENWS1ZUOWt5MEZhenM0cUl6MzBVMDBsSV8tcE5aS0NFdnViaFNaNEYyMnR6dkdoTF9qdWtGNUtDSDhFOUp3NDA2eExzNmYwRjhZNlNGVDFoSXExZ0VOZzIycDlkeXUydFJCM2JWaWtLd19IMA?oc=5"
   }
  ]
 }
