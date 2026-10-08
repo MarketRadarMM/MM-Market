@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-08T11:30:17+00:00",
+ "generated_at": "2026-10-08T12:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-10-08T12:00:19+00:00",
+   "title": "ဒီပဲယင်း မူးကမ်းကြီးရွာကို စစ်တပ်ဗုံးကြဲ၊ အရပ်သား ၄ ဦးသေဆုံး",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81696/"
+  },
   {
    "ts": "2026-10-08T11:30:17+00:00",
    "title": "Authorities inspect Myawaddy bus lines to move to highway station",
@@ -2153,13 +2160,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XMjFBc3BrOHh0a2VUbWRTcVZJb0dGTjBER0FmWW5PSlllZDFETzRuMzhfZThvVHVSMjBoQ3h2MlBHeU0wUGJjcDNFdGcyYVlPNC03OHRFbXZzTG1FWFVvSE9WNEo4TE02?oc=5"
-  },
-  {
-   "ts": "2026-09-30T22:30:19+00:00",
-   "title": "Aunglan concludes carpentry training course",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lN3JPZ1FsVVl1VXpIS2gwcVpJZGpOZTZDLXU4UllpeVhHYnFaMkc5elRXaGZJR1FwT1NTRllsa1lKMmN1LWhlaWl3Wmp2cjByTFd2WkJHMkxOSE91MWR2R1J2QTR5T2NqM0JDaHFGRWRPQWViZXpN?oc=5"
   }
  ]
 }
