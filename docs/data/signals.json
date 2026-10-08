@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-10-08T22:30:18+00:00",
+ "generated_at": "2026-10-08T23:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-10-08T23:00:19+00:00",
+   "title": "Lawmakers’ debate focuses on proposals sent by President",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLWdVcEZBR09FcmtQNDVlVDBPWGFweUh1Rmt3X3ZvTjNHdWlsNG9HUWFMT2VCZXk1cDRCX25EN2M3SzEwR3Q5YVgyVTgySFJxWTFYc2dfMmhRT1c0RXp3QWlxUE9qRUMwdFRqZU1FbHRDTEpIYTZ1WG56dHBNcVppVnBLRURqWW8?oc=5"
+  },
+  {
+   "ts": "2026-10-08T23:00:19+00:00",
+   "title": "Pyithu Hluttaw Speaker meets law students",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1QWW5wMllJUnIxZ2lVWnQxZGdYVnMxT3M3RGpDTm5jbkJsV0JpWXhndUJXbGdFd1FaQ2pqMzVJeFR2MDFYSWhoOHk0WTBiMXA5d1FzMFMtRG5vSkNzMHAyRkZQT29WeGZ0Zlp0TlVtSkNGVjBu?oc=5"
+  },
+  {
+   "ts": "2026-10-08T23:00:19+00:00",
+   "title": "PIU College awards degrees to 1,098 graduates",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOMnJIcHBUOTdaSkVKS09EcEU5ZlR2TW9ZSm02Rk9GMmQ3VmZYU0lBSEh3SE5lMC15WjJXcVdjajB5WU1OaDh4bGZCSEd6cVlNRWxYRnZMWU5NcUJYY1JVa0xienA1MXRESlZFUm1VR1NlMklxeng1Yw?oc=5"
+  },
   {
    "ts": "2026-10-08T22:30:18+00:00",
    "title": "22 DPLA, TNLA and PDF members rejoin society",
@@ -2139,27 +2160,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/cmgjqj8dj5zwo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-01T10:30:16+00:00",
-   "title": "The hidden plight of Myanmar’s double minorities",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOazU0UEQ0VEFlTGIzUlk4dlZxME9NTjl2QVNaZGpGcUs4UXFJSHlISUVOaWFMV0xRTTVmUm4zb1hyZDdZakRWSTdrQTBKZko4bVMtT2EySXczdXI2YUxPbTFuUnlyWFNkQ0tYYnltc2w4UkxxSFJYcGhSRmpGZDl3ZEpqc0ljU29vWkpn?oc=5"
-  },
-  {
-   "ts": "2026-10-01T10:00:20+00:00",
-   "title": "17-10-2022 Myawady Newspaer.pdf",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUDdsa3AxWmpGX1ZNTjRzbTdWZ2V4MTNHa3EwOVhPSzFUYzV1MW4tRGtNZEJhMWRfaHY0YkRHbkZWZlFpVjUtWklXMEhwSUVkZUR4Wlp4QXJnOVR0QWN2MHFsV0NLVnd2VDdNVVFkUGJlWUxReVJNQU9iY0g4LVZjdG9YQnpsNnZmeGhxektrZEZUVjFtbjZWdHE4ZFpaS1J0Qm41aGtEaElqUmE5cElHTzJjcW1veGlJdnlzV0w5NmFiem9fb2N1Y3ZoOE1yRWxzenJaczg1MGpjRnpHZ2F5YWVsdzdRZS1QckRWZUZR?oc=5"
-  },
-  {
-   "ts": "2026-10-01T10:00:17+00:00",
-   "title": "Death toll rises to 34 as floods, landslides devastate villages in southern Myanmar",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/death-toll-rises-to-34-as-floods-landslides-devastate-villages-in-southern-myanmar/"
   }
  ]
 }
