@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-08T18:30:18+00:00",
+ "generated_at": "2026-10-08T19:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-10-08T19:00:23+00:00",
+   "title": "Vice President U Nyo Saw delivers speech at 11th Eastern Economic Forum in Vladivostok, Russia",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWi1vYWdVSFI5TzR3cmVoSTIzYXpScnJvTTBibU43OU5xVnpWc0ttUmlCOHhCelpDdXg0b3BYZ2JNWjFBWDM3OWhxakdweFQyVTRCTV9mZUIxWjRzbXhlakQtSUFzQy1PTG52R2F0LVRhbEdYNFFGX3g5Y1I0VE5SV2R0V0FjOXA2QTU5RTlzTmRmT1lkWEFNVGtNLTY3aFNWMUZ2OWRNVTMwNy1HbHlkckVB?oc=5"
+  },
   {
    "ts": "2026-10-08T18:00:19+00:00",
    "title": "Bagan’s hotels, guesthouses fully booked ahead of Thadingyut Festival",
@@ -2153,13 +2160,6 @@
    "source": "Khit Thit",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81aWlrSUd0R2JnMUx2Tmd1YmpSc2ZBRkFkRzJZLXZRS0ZDd1Z1ZVViclpab016SEpXX2M4cno1RFc0b2F2cF9ZWUIxRQ?oc=5"
-  },
-  {
-   "ts": "2026-10-01T00:00:21+00:00",
-   "title": "1 October 2026",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HMTdTS2xpZVdwQ1J1SFVubnRaU1MzU2NwLWRFaE5FLTlYakdGOHlGZHl5LWJjbGhsVVdwa2ZvUm5rRWlyNDVSTUU4M3U0djYt?oc=5"
   }
  ]
 }
