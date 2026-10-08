@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-08T09:30:22+00:00",
+ "generated_at": "2026-10-08T10:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-10-08T10:00:20+00:00",
+   "title": "Myanmar junta leader says will take back migrants from Malaysia ‘as soon as possible’",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/myanmar-junta-leader-says-will-take-back-migrants-from-malaysia-as-soon-as-possible/"
+  },
   {
    "ts": "2026-10-08T08:30:21+00:00",
    "title": "Colonial-era Ava Bridge over Irrawaddy River collapses during earthquake",
@@ -2160,13 +2167,6 @@
    "source": "Frontier Myanmar",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcTBHM0c5VjBpMXVRaGpYd3BKYzZZZ0h4cTl4YlJNZ2Fvcy1OTWFSMzZHVkJBTHJPT3dvSDJsZFZRb3VOZlgyR1RLVzExa3lUaEwzWmRPdW5BSkRvdDYwNzJGam5hTnpJTVJtOUV1TmZMdk9TQ1ExbFkzQTNlbTVVdkUwNWVZSkNM?oc=5"
-  },
-  {
-   "ts": "2026-09-30T15:00:20+00:00",
-   "title": "စာတတ်ဖို့ခက်နေဆဲ စစ်မက်ဇုန်က မသန်စွမ်းကလေးငယ်တွေ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cq56n13g9zjo?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
