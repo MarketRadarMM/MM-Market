@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-08T17:30:19+00:00",
+ "generated_at": "2026-10-08T18:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-10-08T18:00:19+00:00",
+   "title": "Bagan’s hotels, guesthouses fully booked ahead of Thadingyut Festival",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdFh6SkY4SW1hNnFqVVRGeDlsaEJ5WkxXeEladkJ6UW1ldklCbkRHbzVWUUJTZGtZSW1JeXZQcE54X0xDYzBFZEppZTQza1NKeWxjU0VlNzMxUnRkcEIzUlVIUkZuQkJNT3ZtRjJWeUtPQVRadzJLZlYzMzFNcW5pRjZ4d2ZUZWpxcGJYMko1ZFoxSENhanhN?oc=5"
+  },
   {
    "ts": "2026-10-08T13:30:20+00:00",
    "title": "Vice President Daw Nan Ni Ni Aye addresses National Tourism Development Central Committee meeting (1/2026)",
@@ -2153,13 +2160,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HMTdTS2xpZVdwQ1J1SFVubnRaU1MzU2NwLWRFaE5FLTlYakdGOHlGZHl5LWJjbGhsVVdwa2ZvUm5rRWlyNDVSTUU4M3U0djYt?oc=5"
-  },
-  {
-   "ts": "2026-09-30T23:30:16+00:00",
-   "title": "Refugees to be sent back",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GeXowRmRRNndoQ2NUa1JOZTJXSDhPeFV2X0ZNY2xrSzI2VHcwSlM2ZDllRVQ5WXZZUi1fU1d5NkZxU2JjRm9qVlZNN1k1Z0NkUzRsS2xZWThTOFF5Vk1oNDR4U3dtVllLZkZpNQ?oc=5"
   }
  ]
 }
