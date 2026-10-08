@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-08T08:00:22+00:00",
+ "generated_at": "2026-10-08T08:30:22+00:00",
  "signals": [
+  {
+   "ts": "2026-10-08T08:30:21+00:00",
+   "title": "Colonial-era Ava Bridge over Irrawaddy River collapses during earthquake",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ0NMbU1ISkpqZkJWaEJWZDBrYzZ3QlhMVV9BRGpIcFRnaEUzVWd4R2g4R2VOcGZ0d0d0YmV1QjhfT0ROa1NWaUk5MVlwV3lmZDA3TjR5Q1hIMTBNajh0MU1lc2dVMVFwY3hsTHlvMlduQU0yeVFHOG1XNG1TeU01SmwyeUlzSkcxNmlja0tLandOVGZfODNxMWtWTmo0R3ZNMUg1NVFiNHpSaFZo?oc=5"
+  },
   {
    "ts": "2026-10-08T06:30:18+00:00",
    "title": "President U Min Aung Hlaing delivers speech on enhancement of bilateral investment and economic cooperation at Myanmar-Malaysia High Level Business Dialogue 2026",
@@ -2160,13 +2167,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/cq56n13g9zjo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-09-30T15:00:20+00:00",
-   "title": "ဘေကျင်း ရှန်ရှန်း လုံခြုံရေးဖိုရမ်မှာ မြန်မာစစ်တပ် ဘာတွေပြောခဲ့လဲ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cq783rz04mj3o?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
