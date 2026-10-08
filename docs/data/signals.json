@@ -1,6 +1,34 @@
 {
- "generated_at": "2026-10-08T10:00:24+00:00",
+ "generated_at": "2026-10-08T10:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-10-08T10:30:19+00:00",
+   "title": "Pyithu Hluttaw Speaker holds 2nd coord meeting with committees’ chairpersons, secretaries",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM1ZCSk5nWW9XTGhTbmhBWjN1T192XzdXejVoRkFhUHQ5dTA0NWFmNHJhLVNFOEVhYTdvdEI2VkY2MUVwRExZQ1JwRlpEeEFRZHVWTTFzTWZhUzA3NllQWFo1NnhhUkl4Q1RSSlhxdURONGh0NUhHOWlpVUtabWtYY0JIdDNnNnZiZmRMR0t6VDRiZVpSOWp2elZvRmJrelFtVzJqaUdKTDNabUY5YlMwd1RR?oc=5"
+  },
+  {
+   "ts": "2026-10-08T10:30:18+00:00",
+   "title": "အင်းတော်တဝိုက်ကို စစ်တပ်က ဒုတိယအကြိမ် စစ်ကြောင်းထိုး၊ တိုက်ပွဲပြင်းထန်နေ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81679/"
+  },
+  {
+   "ts": "2026-10-08T10:30:18+00:00",
+   "title": "AA ထိန်းချုပ်သည့် ပေါက်တောမြို့နယ်အတွင်း စစ်သင်္ဘောများ ကမ်းတက်ရန်  ကြိုးပမ်း",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81682/"
+  },
+  {
+   "ts": "2026-10-08T10:30:17+00:00",
+   "title": "Belarus loans debated by Myanmar’s junta-controlled parliament",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/belarus-loans-debated-by-myanmars-junta-controlled-parliament/"
+  },
   {
    "ts": "2026-10-08T10:00:20+00:00",
    "title": "Myanmar junta leader says will take back migrants from Malaysia ‘as soon as possible’",
@@ -2132,41 +2160,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5TGNUREJkQVhkRzRzeGN0UUVzaTVkTnNnYk1sMFVLYjd4LXk4dWUyVVVYNF9CSzZqMUo4TTU3LV9PUTh2VE9pS2ptQV9GeV9HZTFYYjN1OHR3WUVHd2xjOGR6YWpacndoV0x1aERRZDUycW9hZGdmMktlWGlwMFE?oc=5"
-  },
-  {
-   "ts": "2026-09-30T21:00:21+00:00",
-   "title": "US bipartisan congressional delegation meets Dalai Lama during India trip",
-   "source": "RFA (EN)",
-   "markets": [],
-   "url": "https://rfa.org/english/tibet/2026/09/30/us-dalai-lama-brian-mast-tibet/"
-  },
-  {
-   "ts": "2026-09-30T20:30:19+00:00",
-   "title": "Fuel Rationing Sparks Nationwide Rush at Petrol Stations",
-   "source": "Irrawaddy",
-   "markets": [
-    {
-     "market": "fuel",
-     "direction": "neutral",
-     "confidence": 0.5,
-     "rationale": "Fuel-market story — read for direction"
-    }
-   ],
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObElXZDQxWUJkSTJiN3RnZlR6dHNrbC1pSlVYa2tXTGpSbDRNZEo4Y1BScm9vdlVaMnhVZWttc1RMbkpabzJwRFVPVGhXemFDd1JLenhkRjc3QWpnc3lKREJEbXIySU5wYnYtV1lVeXY0VzVPOEM5OTZLZzJsc28xTEZEaWJhVy1IZ0RSUUFpUjRJdzVhUDJyV2xNUnp2NTQ?oc=5"
-  },
-  {
-   "ts": "2026-09-30T16:00:25+00:00",
-   "title": "Borderline case: Arrests highlight security concerns at India-Myanmar frontier",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSU9JMzMtNEc5LVp2YWZOdVVtS2ZqOTVRSFFjNnh2UGRHbmJMXzdCSkhRakVSbXpfVDloTE1RUTNhYmNMQ0RId0xKOHcwbnNuUlYzSGhhb1Rqd2ZnT2N2MGh4T2dVbVd5NDB2V0Z2TEFPT1BUSlVobEF3TVM2dTJiMVQzSTdLeGRjQldLaTZCbVE4OUNfaF9hbE5OTHJZQlY4b2Z4Tk9OTVRYNW9GcGltRGc3WQ?oc=5"
-  },
-  {
-   "ts": "2026-09-30T15:00:22+00:00",
-   "title": "Malaysia starts sending Myanmar migrants home",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcTBHM0c5VjBpMXVRaGpYd3BKYzZZZ0h4cTl4YlJNZ2Fvcy1OTWFSMzZHVkJBTHJPT3dvSDJsZFZRb3VOZlgyR1RLVzExa3lUaEwzWmRPdW5BSkRvdDYwNzJGam5hTnpJTVJtOUV1TmZMdk9TQ1ExbFkzQTNlbTVVdkUwNWVZSkNM?oc=5"
   }
  ]
 }
