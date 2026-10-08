@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-08T01:30:19+00:00",
+ "generated_at": "2026-10-08T02:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-10-08T02:00:15+00:00",
+   "title": "ဝေဖန်မှုတွေကြား ဦးမင်းအောင်လှိုင်နဲ့ မလေးရှားဝန်ကြီးချုပ် ဒီကနေ့တွေ့မယ်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.co.uk/burmese/live/c52e9xwx3pgjt?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-08T01:30:17+00:00",
    "title": "From a cardboard box to an iron cage: a father’s fight for his daughter’s freedom",
@@ -2160,13 +2167,6 @@
    "source": "Myanmar Now (MM)",
    "markets": [],
    "url": "https://myanmar-now.org/mm/news/81577/"
-  },
-  {
-   "ts": "2026-09-30T13:00:18+00:00",
-   "title": "The Irrawaddy News Magazine [Covering Burma and Southeast Asia]",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8tZllFV1U1Sk4zc3ZHX1pQRWx0LXluNlhfN3c4MmJSc3BfelVPdVFTeU5FdThOWXZVdHBTZ241ZUZQYS1lcmV5bVR4Q28wNkJGZWUxeUdhbnN3Nk82UHdYakNiZ0JmNXVqR2VZRnhyQVpYbWNTVU1uUnhOaWQ?oc=5"
   }
  ]
 }
