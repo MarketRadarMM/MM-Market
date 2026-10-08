@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-10-08T23:00:20+00:00",
+ "generated_at": "2026-10-08T23:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-10-08T23:30:19+00:00",
+   "title": "MALI plans special export zones for black gram amid strong market prices",
+   "source": "GNLM",
+   "markets": [
+    {
+     "market": "pulses",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "Bean-market story — read for direction"
+    }
+   ],
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc0V0YnFMeEdFZ2lJdkg3Q0cteTNtUFFtcVVZc2xNNDZQRm13dUdyWC1Oc0lMdkRZYW9RMUlvdUJORWpNN1RpLVlVTDNRNmFFLThYSGNDSWg2a1JzaWZTVUE3b1RGNTd2NmNXWGpHd2g2amo1dVFyNkZ3ZEJZUF9KVzBvTzd2RE9ucnQwVlVVNk9DSFlXM1AxRWxYdF9aZw?oc=5"
+  },
   {
    "ts": "2026-10-08T23:00:19+00:00",
    "title": "Lawmakers’ debate focuses on proposals sent by President",
@@ -2153,13 +2167,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeF8wUmZ2dGM1T3M0c1F2S25XeFJZN0ZMdGJtNjJCMTVaSm9OdmRJMnhBWTdVWlZqNXh0a0lhTTU2UW80VmFvSDZmNWV3TlJQVjJjV0tJZjZjVXFqNkJ0QkhZTno2UTVqVFBpVm4wRnZaNWJuQzdoYjRxa1VaQk5NMDFMdlM0MUNFczdCYmRLTnZOcFRxc0dvcVlsUjJES2R4OFpLZWlySkE1amJnSV9GMm5sQS1TWXdHeXlBVEVrSjVsVXh4OEtGeFloREY0YUdEMEE?oc=5"
-  },
-  {
-   "ts": "2026-10-01T11:00:24+00:00",
-   "title": "စစ်တိုင်းအပြောင်းအလဲတွေကပြတဲ့ မြန်မာပြည်တွင်းစစ်",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cmgjqj8dj5zwo?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
