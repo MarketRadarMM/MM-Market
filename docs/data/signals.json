@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-10-08T12:00:22+00:00",
+ "generated_at": "2026-10-08T12:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-10-08T12:30:19+00:00",
+   "title": "Chinese Docuseries Hails Scam Victory as Myanmar Fraud Empire Rebuilds",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb0lUZjF0OWR0WkpXZ05PYXRacVhmY2dZRXIxT3V1dnEyc2s5OWxGZDZ1dzB4ZEJlS2p6UUJtQURILTR2elNUZUFCWXd2b2w2Yi1pRTFMRjJLLVlVZ2MyM19yMDFhQW9CR2M5czJzWWV6MEdpZ09KWlM0VDdMd3N5WkJCYWFmN1g1Z19DMnBQUHdxT0lVRk1YdUhtTTdzbTh6RUdSRjZkWllnZy1EZmpDcGJ3?oc=5"
+  },
+  {
+   "ts": "2026-10-08T12:30:19+00:00",
+   "title": "Malaysian Firms Linked to Myanmar Military Aviation Supply Chain: JFM",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZ1QtbUc1cDlNVEJiNk9CX2hwcVJUQU9tOXVmcmcydjFwbjZKd0ZXQzRNZmItS2lOSkV3ajBzMENadWZhVjUyV3poRURSQXh4N2xWLVdYbFNuNnZvOENYbjZuVDI2WDktOGJnT1k0V3pPZTFNVjBqZk1SZW5KdUVBZmVjOVZzVjcyLUtzUUtzeW95SUpvOVEweURqVFdwY2Nsd09ESDY4OV9wS3dlbVNzZktvVEpiYVJEampCVUk1VF9HQTJqcXVGck93?oc=5"
+  },
   {
    "ts": "2026-10-08T12:00:19+00:00",
    "title": "ဒီပဲယင်း မူးကမ်းကြီးရွာကို စစ်တပ်ဗုံးကြဲ၊ အရပ်သား ၄ ဦးသေဆုံး",
@@ -2146,20 +2160,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZjFHejBfZ2ZRUTZFR3lZWmpOR2tPUTVuTFhDUjY3WURTLUsxenl5ME1tMW9Wa3p2QnRpUURaQmJwc0w4SFJhb0FTbDEzdE5UMVdVb2c0Umo3S0p4OWlJS1lhbjRmTHhfd1A3UV9mLUVvLVo5akFaeFBadGFVQXRzRXZxYTJsQVhYdnprdGRRNHp5TlpWMTNEdkNlZlRYQQ?oc=5"
-  },
-  {
-   "ts": "2026-09-30T23:00:19+00:00",
-   "title": "Cleanup efforts conducted in Ayeyawady Region",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9EOWNtOFd4ZW95bFFBS1l5eDYxa1FSbURlcVotMi0yUjUtWmV3QWlucVFHZW5tbGxOamZtSnNGOC1JVE9SNXV3RHBraXpVUXd5YllTV0ZNeFJsM0NqQy1rM1pmZDQwMENKN3pYeWd2UmtoNUhOaERKTFVB?oc=5"
-  },
-  {
-   "ts": "2026-09-30T23:00:19+00:00",
-   "title": "Undocumented Indonesian detained",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XMjFBc3BrOHh0a2VUbWRTcVZJb0dGTjBER0FmWW5PSlllZDFETzRuMzhfZThvVHVSMjBoQ3h2MlBHeU0wUGJjcDNFdGcyYVlPNC03OHRFbXZzTG1FWFVvSE9WNEo4TE02?oc=5"
   }
  ]
 }
