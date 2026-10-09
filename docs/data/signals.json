@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-09T12:00:19+00:00",
+ "generated_at": "2026-10-09T12:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-10-09T12:30:17+00:00",
+   "title": "\"စက်ရုံပိတ်ရင် ဘာလုပ်စားရမလဲ\"- အလုပ်ဆက်ရရေးမရေရာတဲ့မြန်မာအထည်ချုပ်လုပ်သားတွေ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cmn45232pg8go?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-09T12:00:18+00:00",
    "title": "Over Two-Thirds of Myanmar’s Population Poor or at Risk of Poverty: UN",
@@ -2140,13 +2147,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ0tRUTRYUUpZY2RIQW5oWlJjU0ZlMHZ2YVZkOGt6S2U2eTcyOFRTZk1iLUdCTDZaMEhId25lOVYtaUN1ZzdlTDRHTHhSWldsQkt2ZGlmaFpQLVJTcEVocFBvcmM2LUE5aXpKS1pHVjNwbEZVN1p4bk5ud29qRGtQZUJWdWJjaGl3c24taElR?oc=5"
-  },
-  {
-   "ts": "2026-10-01T21:00:24+00:00",
-   "title": "Kangyidaunt inspects VDP concrete wheel-track road project",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS0F0Z0tCVWVLQ1o5MFkxWThqMTVjNWVGYW5xYjFnc3haY0JPdHVVVkJEQ0txeE9oOGgzQTBoYXc0Tm0xcWxoVWJuX3diVzA2ZVRKTXZpVmROS1JnQklQX3MwaVNMcjBvLWF1dFJJNzRSLUpPekZ6cjBXS1o2cUpFRThxdUVCQXlhTEpN?oc=5"
   }
  ]
 }
