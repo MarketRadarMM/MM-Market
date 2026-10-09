@@ -1,6 +1,34 @@
 {
- "generated_at": "2026-10-09T14:30:23+00:00",
+ "generated_at": "2026-10-09T15:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-10-09T15:00:22+00:00",
+   "title": "Myanmar Paw San wins World’s Best Rice Award for the second time",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLUIta2ZJcXpETEhPQ3VPLXQ0Y1c5bWduMEttbU12STE1NFhVNHhtQlFRYlozMXRRSFVDWjFDTGkxdlBkaEtKX2VsWkpEbU93ZDFvR0JCUGFBeEl0cE4tNGdCa09KbFRaSHdUMUpVcHd5ampMS05aUmJ0OTZsRFhJNW03X3pNNjhXdFkwQzBmX2FGUQ?oc=5"
+  },
+  {
+   "ts": "2026-10-09T15:00:22+00:00",
+   "title": "IRD warns restaurants to issue stamped receipts and remit commercial tax",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcXBlNXZfZ0FIbTZHc3R5UHFQVXhLd3FObGZ2RWxnOVBuV0VmSHR0aU9ndTdKSXRmdFRuUERKYW00czgyWlhfM1Jad0Znb0E3anJKZ3o3TWRfcEY0OWVSRGFlcGlTRHZrNFlvcjVYcWVUWnZHaWFkc3hWM1ZWamdOcFdKeWdCZWh4bGZoQ3Ffb3JDc1JVTGJuN180ZEpPQQ?oc=5"
+  },
+  {
+   "ts": "2026-10-09T15:00:22+00:00",
+   "title": "Former Miss shares her photo series about golden times of Rangoon",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdkY1ODJzbDZCWU9aSFdHNFpXTlNhQTY0b2x1Rmc1eDFKV1VUa0lCLVFKU1hjOXBWNk42MTl6aGllQ1RHSy1YNnJSNHh0QTR6V3RUTWNSVTNOcDFvRTF4YWVWS0hJQ2xobHZkVENDY3JVUEtFSjJxVGJHeGNLQXNJVXRiMDFPQ2JpaFcwbnQ3aGhkR1lD?oc=5"
+  },
+  {
+   "ts": "2026-10-09T15:00:22+00:00",
+   "title": "Magway Airport operates weekly domestic flights",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9xTFJQblc3WGVNZDFtcWx0dG1iTG9uYURaTmNJa0FWeF9KMWlwSnhMYXJKckFJMVVkdU54M2JLNURnbWhLUlJZdHZR?oc=5"
+  },
   {
    "ts": "2026-10-09T14:30:19+00:00",
    "title": "DYSPHOR1A - မြန်မာဘဏ်တွေ အချက်အလက်ခိုးယူတဲ့ပြည်တွင်းဟက်ကာအဖွဲ့",
@@ -2112,41 +2140,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMnhFWWpsRGp2cFNGNWlzUzlweUhBdG9tWmRMNUFJdGF5ajZWMlVDQkJWYXdDNjM3MHNQZmxsRkdieENXZjFCNGs5OUlkaktId2ZLMjV3WTNpUFJoajZvNy02VTkzS1JOM2d6YjA1WWxwU08zOHJ1VVRuZUhDdXkwNmZfMjZfOGEwWFhWLXl0UzhBQ1BSekVLcU02OFFoUFZVYVpsS0luamw?oc=5"
-  },
-  {
-   "ts": "2026-10-02T01:30:17+00:00",
-   "title": "Myanmar targets US$2B from rice exports in 2028",
-   "source": "GNLM",
-   "markets": [
-    {
-     "market": "rice",
-     "direction": "neutral",
-     "confidence": 0.5,
-     "rationale": "Rice-market story — read for direction"
-    }
-   ],
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5fLXFabEZiNEdoZUxQVHZwU2ExWmstRGl0ZGxsbEhNZ0hfYXNra0NGeTBfdWpFNkJrelo2LUVSemllTmtGMHBTdkpodDAwUFk3QzZNakJWa3ZNSXUzM25JX3p5M3hiaGplaE8xY2M5eGtqZHRUYmdwelF4QQ?oc=5"
-  },
-  {
-   "ts": "2026-10-02T01:30:17+00:00",
-   "title": "Russia Delivers Sunflower Oil Aid to Myanmar via WFP",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVU84SmJFMFpjVF93elVNbHlsX1ozbzR0MnR6NG92UXpQeFZiRmpRYmtoOWI1UTdDVEpmTVg2a2VDSFY1MlB6WW5Ud1pqRk9zUkhRdjJGTzEyVVd0Rkx2M1c4YngtWVdrVXQ5YmppS09samlWWDR3cGVlUWNaNTI5aXhhWQ?oc=5"
-  },
-  {
-   "ts": "2026-10-02T01:30:17+00:00",
-   "title": "2 October 2026",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rR3lha2RuR3g0cVVLVmw2UEctdENhZnpzVVBwMmNBVEs3UldnMW56WFVqRmNMRUgxRTVfRDYyeWx4VXVNeG80LU96bXRqTktD?oc=5"
-  },
-  {
-   "ts": "2026-10-01T23:30:19+00:00",
-   "title": "Q&A: ‘Refugees should be a shared responsibility’",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOFptM1ZybkxJaVNTVEQwazdLdlVUcEhYM0g3V21wRU5pUVhON0VJWER2cU5OMC16YmhkMUx4MFZ3QTdGQl84ZW9PV1Uwd1hYUWlwQjA1anJhQ2p3THR4VGhfMml0dURRSDZwNkhDSldyOXZoMXU5Q1dtQ21WaGo1Qml2YzZkTkR3?oc=5"
   }
  ]
 }
