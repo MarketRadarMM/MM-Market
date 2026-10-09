@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-10-09T11:00:23+00:00",
+ "generated_at": "2026-10-09T11:30:22+00:00",
  "signals": [
+  {
+   "ts": "2026-10-09T11:30:20+00:00",
+   "title": "China Takes Top Investor Crown in Myanmar, and More",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVm1Xc1FGeGI2aldWa1JTX1VYVU5hRWZmakhnanozdnFSbU9ZM1NOenJEQ1gzN3hjTmJ1Z1Y0b21rRlo4bGFDWjNwcXlJRmpQaDBNeUd0b0NaaE00cDk0a1BnYndMZ2RnaTFxTS12RzFMOEpCMlRjbTJ6STdUZU5RSVFxVXZZUzJQcE53cTlPMEtlQTBySEMtdzhzdGRRbF81WlZJ?oc=5"
+  },
+  {
+   "ts": "2026-10-09T11:30:19+00:00",
+   "title": "မြေပုံတွင် ငါးဖမ်းသမားများကို စစ်တပ်က ရိုက်နှက်ရေထဲပစ်ချ၊ ၁ ဦး ပျောက်ဆုံး",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81702/"
+  },
   {
    "ts": "2026-10-09T11:00:18+00:00",
    "title": "'သူ့ကို အဖေလို့တောင် ခေါ်ခဲ့ကြတာ' - မသန်စွမ်းဂေဟာက လိင်အမြတ်ထုတ်မှု",
@@ -2133,27 +2147,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTWVTQkF6ZkhjSWI5dWJOeEh1alo0UjlCUWp5dC1oZ2dRQWhFdGV3bXVHQmw1TEFhWGxpdTRsemZ6R04xeGFuVktwWXFZaHJwX2cxaU1fVDl1enVITkphcnBhVWpGekduWkxVY29SOV9kSjZWSGZ0ZGFZVlktYWJEOFZMbGNMM3kwb1p5RWNpYUdpSnRUQVV5VEQwR2wtUHU2TmRraVdHS2dnYWpGN3NJVUxxR1FtX29UcnFj?oc=5"
-  },
-  {
-   "ts": "2026-10-01T15:00:21+00:00",
-   "title": "နှစ်ကြိမ် ဆေးထိုး စီရင်ပေမဲ့ အသက်ရှင်နေတဲ့ သေဒဏ်ကျ အမေရိကန် အကျဉ်းသူ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c87505r9r504o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-01T14:00:26+00:00",
-   "title": "23rd cooking oil donation ceremony to be held in Sagaing",
-   "source": "GNLM",
-   "markets": [
-    {
-     "market": "edible_oil",
-     "direction": "neutral",
-     "confidence": 0.5,
-     "rationale": "Edible-oil story — read for direction"
-    }
-   ],
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ0RjMk9ZZE5RUVBYYmtpV3ZIakJBcDJDTEVRdG9KVXFQMng2ZUlsREZfVm1oM3pFNHNhajh6LU4tN1FRUVRmVTRPallRc2pHWUZfbDAzYTQtN3RISXBoTXhhVXdvNzRIaElUQTJLSFB6QUJRVXFybDFrVkJFVVgxU0tQZkE3U2l0?oc=5"
   }
  ]
 }
