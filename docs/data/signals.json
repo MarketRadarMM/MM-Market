@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-09T03:30:26+00:00",
+ "generated_at": "2026-10-09T04:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-10-09T04:00:23+00:00",
+   "title": "9 October 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE81OW9SQ0dVMkNCR2tBY0hHbHdHNW9LcDFCSEs2TkpIeTNZR1JTQTNJaTRoai10eUNFMWpoNkdfRUNXd1pmMlR0YnlfSGstNXlY?oc=5"
+  },
   {
    "ts": "2026-10-09T02:00:20+00:00",
    "title": "Myanmar, Malaysia Seek Greater Investment and Economic Cooperation at Business Dialogue",
@@ -2160,13 +2167,6 @@
    "source": "Myanmar Now (EN)",
    "markets": [],
    "url": "https://myanmar-now.org/en/news/myanmar-nationals-in-malaysia-fear-arrest-and-forced-return/"
-  },
-  {
-   "ts": "2026-10-01T11:00:27+00:00",
-   "title": "NSPNC, NCA-S EAOs hold second-day meeting",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51N2NVRHlfVU5vdi1zTjN3SE9MVWRzOTNOT2hSMTNFN1FkdkVjcWZ4cXhNeWFuQXZyeS11VERDT1luVDFmazQyMHNDZVZIejVTLVNfMTN2TG4ybVJSeU5RbF85M1hoOHBFRjEwZ1haZ2lxdU42a3c?oc=5"
   }
  ]
 }
