@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-09T10:30:23+00:00",
+ "generated_at": "2026-10-09T11:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-10-09T11:00:18+00:00",
+   "title": "'သူ့ကို အဖေလို့တောင် ခေါ်ခဲ့ကြတာ' - မသန်စွမ်းဂေဟာက လိင်အမြတ်ထုတ်မှု",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cmvgx5rnrd42o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-09T10:00:19+00:00",
    "title": "Aerial assault by Myanmar’s military kills mother, three daughters in Sagaing Region",
@@ -2147,13 +2154,6 @@
     }
    ],
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ0RjMk9ZZE5RUVBYYmtpV3ZIakJBcDJDTEVRdG9KVXFQMng2ZUlsREZfVm1oM3pFNHNhajh6LU4tN1FRUVRmVTRPallRc2pHWUZfbDAzYTQtN3RISXBoTXhhVXdvNzRIaElUQTJLSFB6QUJRVXFybDFrVkJFVVgxU0tQZkE3U2l0?oc=5"
-  },
-  {
-   "ts": "2026-10-01T14:00:26+00:00",
-   "title": "Testing underway for Legal AI Assistant",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8temFYTTZlNHhzNG9oeElzMnZ4T0h3UWhISGEwNnlXc1RMV2YzVW1rVUhZaGhkbmd6aXNvWUdJb2dfeHNuQW5PTWd0dHdBTUxzQkRLb3JlMUdxbVZJUWpLLTFpb0dfMzllRVpYS1JSQXJNQQ?oc=5"
   }
  ]
 }
