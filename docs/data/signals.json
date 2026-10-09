@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-09T07:30:20+00:00",
+ "generated_at": "2026-10-09T08:00:19+00:00",
  "signals": [
+  {
+   "ts": "2026-10-09T08:00:16+00:00",
+   "title": "Three Myanmar resistance fighters killed in two separate incidents in Sagaing Region",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/three-myanmar-resistance-fighters-killed-in-two-separate-incidents-in-sagaing-region/"
+  },
   {
    "ts": "2026-10-09T06:30:18+00:00",
    "title": "Myanmar Regime Leader Says Will Take Back Migrants From Malaysia ‘as Soon as Possible’",
@@ -2160,13 +2167,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QV25BX1RkY25LNDdCOE1qWFUtTmJYNHN4eEY4akIwWnF3Vl9Rcm00VnppejNHZ1pXWHZMVUgyNm5kQkYwTk1ZcEM0Y285a3dJcDltSDRfdC1NM09sVjV1SVJvR0xoUVRa?oc=5"
-  },
-  {
-   "ts": "2026-10-01T13:00:22+00:00",
-   "title": "Guest Column | How Power Really Works in Myanmar",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWjZHM0pVM0lmZ3FJQ1l5UWZWeUc3S3J0c1Fyel9ON0NsOTI5S285RDNybUdwUnk5TzU0QjFDR2VmR011VUE4YUtVZVg3eUd5YlowTkVnaXQxdHZtRnZydmtxLXhldjFBbFppMDhDZmlXY2FjRXY2dGpGYzFHRTBiLWtMalN4MEplRWlRSTJB?oc=5"
   }
  ]
 }
