@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-10-09T16:00:21+00:00",
+ "generated_at": "2026-10-09T16:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-10-09T16:30:17+00:00",
+   "title": "El Niño Prompts Multi-Hazard Readiness Plan",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95LXdEa2VNS2JGWXlVZDRtRkYtZVNSRW5QaWg0NGxxa1U4aE1DczhodkdzSjNFLUp6UjYtdlljTFh1a0VHeGcwNUdBeXFxY29YQl9RYnYxeHdHNjRxa3Bjc0RxVHR5elh5NHlqdFQwRzIxNUFhRlhN?oc=5"
+  },
+  {
+   "ts": "2026-10-09T16:30:17+00:00",
+   "title": "Myanmar, Malaysia boost cooperation in defence and security sectors",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTXNtNjhzR0VoYlRHS1Z5Y3pTdXlWaFhjV2JONmcyVlk4U2ppa0NGM0UycTBaS2RaLXJ4Um9DZEYwMl9vQUJ4WmhMQmw5c2JIX0taVkY1eDlpc3RLTU1OdkQwRHRZNmhxNjFNZVZWUzB4b3J1SFY5N1c0dVl0UldkU1VxeXRrYnctckEwU0wzaEZEZ0hPVWc?oc=5"
+  },
   {
    "ts": "2026-10-09T16:00:21+00:00",
    "title": "Central Committee and Work Committees for Convening Parliamentary Sessions Coordination Meeting (1/2026) held",
@@ -2126,20 +2140,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQenA0Nm9zMURLWGZ3OTJ3ZVVwckdwSHRkTXRfWW1oQ0ozWUNnVWc2SlY5VVM4OGwyZnpUak4wNkp0SEhaSnM4dGNnMkZUSjN1QUxHT3RVcmd5MFdkbTdGOTBfYjMtOUtjbkMyeFNaV0Z6UHlIZ0ZvcVU4ZmFaZ00xU3lmZU1EcDJmbGc?oc=5"
-  },
-  {
-   "ts": "2026-10-02T03:00:22+00:00",
-   "title": "သရက်ချောင်းတွင် ရေဘေးသင့်နေချိန် လေတပ်က ပစ်ခတ်ဗုံးကြဲ",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81591/"
-  },
-  {
-   "ts": "2026-10-02T03:00:21+00:00",
-   "title": "အွန်လိုင်းလိမ်လည်မှုနဲ့ လောင်းကစားမှုတွေကို အမြစ်ဖြတ်နှိမ်နင်းဖို့ ရဲတပ်ဖွဲ့ကို ဦးမင်းအောင်လှိုင်ပြော",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.co.uk/burmese/live/cwnvlvn57ejlt?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
