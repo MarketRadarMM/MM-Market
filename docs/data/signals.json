@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-10-09T13:30:33+00:00",
+ "generated_at": "2026-10-09T14:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-10-09T14:00:24+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5vTnZPYnVGZjhvV1hidk5ER0s2Y1c2SkFRcEgtNHBoNmVOTlR3XzRuX0dTRG0wUFF5RHRzVUhHUkMxWkQ3V0k1S0VwRQ?oc=5"
+  },
+  {
+   "ts": "2026-10-09T14:00:22+00:00",
+   "title": "Commentary: The story China wants you to swallow",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/opinions/2026/10/09/commentary-xinjiang-fish-seafood-china/"
+  },
   {
    "ts": "2026-10-09T12:30:17+00:00",
    "title": "\"စက်ရုံပိတ်ရင် ဘာလုပ်စားရမလဲ\"- အလုပ်ဆက်ရရေးမရေရာတဲ့မြန်မာအထည်ချုပ်လုပ်သားတွေ",
@@ -2133,20 +2147,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbFhIaWd6Qkc5VUpEdk9pc3hKNDAtYl9COUFWd1VjYk01Rm1WTDRVVU5KZ25hTUJ2Q0ZvcXpXaXdxcjkzUTV3RFdjMGdoUVZ6OXo5TU5GVEhiS0d4TFQydXBsZDlubG85VWIxekl1bmhjdTJTaUtuVU1IWkVZelBRdEdURUtUZlMtOTkwVk5McWZIY1BoUWpzSG9B?oc=5"
-  },
-  {
-   "ts": "2026-10-01T21:30:18+00:00",
-   "title": "Over 500 vehicles fitted with RFID-based TollPass System on Yangon-Mandalay Expressway",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZklhMHlURlRIbTRhWjRVVnBUNlNVZzRRLWZ0cDlDWVZyQWF5LUVuNGtWY2xVSzVtMktiVlQyRVdZcVV0dUp1Mks3aGpVQlZKMzc0UTFuNkRQMXhRQUxac1RfQXBpZkdJelhTa0tzTFFIZlozRExqZ1BGYVh3aF8wanRfWW80QmtjQWtUd3dIS1ZfakZ0aXpJS1hxa2h0OXJLdzFHVC1tc2o2MnRpSFFIcQ?oc=5"
-  },
-  {
-   "ts": "2026-10-01T21:30:18+00:00",
-   "title": "Monsoon predicted to leave early, water security is essential",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ0tRUTRYUUpZY2RIQW5oWlJjU0ZlMHZ2YVZkOGt6S2U2eTcyOFRTZk1iLUdCTDZaMEhId25lOVYtaUN1ZzdlTDRHTHhSWldsQkt2ZGlmaFpQLVJTcEVocFBvcmM2LUE5aXpKS1pHVjNwbEZVN1p4bk5ud29qRGtQZUJWdWJjaGl3c24taElR?oc=5"
   }
  ]
 }
