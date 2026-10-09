@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-09T04:00:24+00:00",
+ "generated_at": "2026-10-09T04:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-10-09T04:30:20+00:00",
+   "title": "Applying digital technology to document and preserve performing arts competitions",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd0ZKQXBsS1ZGRThnX1hFSk55elF6UWlDZWZpSS1GZmk3cnhYZjlMWFJxVVhUNllNME1odHY3a253LXlvMnAtay1abDM1YWtJS3lBZXZZbmozR2VHd2xmZC1ONVRxSVRqaDhTa0Y4QTBoakZ0bFVaU3dQbXE2WXowSm9yTHk2UHgxSTVCVmd6eVBxWHRNOURiSkZtMXkxZ3Z5VWp0QnVJbk84Zw?oc=5"
+  },
   {
    "ts": "2026-10-09T04:00:23+00:00",
    "title": "9 October 2026",
@@ -2160,13 +2167,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/cm0qxqg9jgyko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-01T12:00:21+00:00",
-   "title": "Myanmar nationals in Malaysia fear arrest and forced return",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/myanmar-nationals-in-malaysia-fear-arrest-and-forced-return/"
   }
  ]
 }
