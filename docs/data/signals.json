@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-10-09T21:30:20+00:00",
+ "generated_at": "2026-10-09T22:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-10-09T22:00:19+00:00",
+   "title": "Pyithu Hluttaw answers 10 questions, approves two motions on electricity, education and other matters",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM3lzTERPZGx0RjFpaTF3VFUtMi0yUk1Ja2lDcWFDTDBJWXFRVXloaHY0djVrWEttTFRJdWcyb2VPNnZkaEZtQVV4cUpFNFhwWmY2NWVGTHhpY0YtQXFmeWpuRlFCQU8wQkhFUzkzX1U1QmRXc3NCRVRiMlJxRVBfcXRxTnpPbExLX1kwQVNnOFQxMGx4SWFqck1MUTNRbjVuRmtNQnM2Zkh4LXRGMllQSFNvX2JDMEtuUzBkNndPMkNQQQ?oc=5"
+  },
+  {
+   "ts": "2026-10-09T22:00:19+00:00",
+   "title": "President U Min Aung Hlaing-led delegation returns from Malaysia",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMzZHbnJ6OFhWWGlzc1VUTUVZRjg2YmdmV0h4YWNNSkNKeDl2dzJhVHFrZ1pIVURJcGdJa3lrTndSSFdiRlFZSDc1RFNJN0ZCcnByZ3BXMUl4c19NVFJNbXY1VENfX3BROTBfbmFKSkVBdWluNVVKdlQzeGljZmVfbG5BWTRpYnpuSFlabC1qWlFaNkE?oc=5"
+  },
   {
    "ts": "2026-10-09T20:30:17+00:00",
    "title": "Guest Column | Chinese Military Infiltrates Myanmar in Security Guise",
@@ -2126,20 +2140,6 @@
     }
    ],
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMHpGeFBQYmRHVk1TQ0RybENvMkY5VU1zOUs4bHBIMF9ic0I1Wm5XZW14SEN0Z3kwX3VlTWdBMUdNOHQ4emtUOFFmNVpuY2xRTWV2VHpoTEUzcENNbjA5bjlBQ1E2cUNIczhvMWQtMUQ4VVhHeXRsN291RDF4SXp5Q3lXTHNGR2FaN2E4ZWRMUWppV1oyRnJRY0FNX0I5Vkt1WWxvdHNleDVXVW1jV2NiOUxQcw?oc=5"
-  },
-  {
-   "ts": "2026-10-02T10:30:18+00:00",
-   "title": "Myanmar junta bombs villages in flood-hit Tanintharyi Region",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/myanmar-junta-bombs-villages-in-flood-hit-tanintharyi-region/"
-  },
-  {
-   "ts": "2026-10-02T06:00:15+00:00",
-   "title": "ခရစ်တာ ပိုက်ခ် ရဲ့ ကွပ်မျက်မှု မအောင်မြင်ခဲ့တာ ဘာကြောင့်လဲ၊ ဘာတွေဖြစ်လာနိုင်သလဲ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cxj0606p9q93o?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
