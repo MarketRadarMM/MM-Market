@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-09T01:00:25+00:00",
+ "generated_at": "2026-10-09T01:30:25+00:00",
  "signals": [
+  {
+   "ts": "2026-10-09T01:30:19+00:00",
+   "title": "အခြေခံပညာကျောင်းအချို့မှာ ကျောင်းသားတွေ ဖုန်းယူဆောင်ခွင့်ပိတ်၊ ဆရာ၊ ဆရာမတွေစာသင်ချိန် ဖုန်းမသုံးရ တားမြစ်မှု စတင်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.co.uk/burmese/live/c893zgv1p3wqt?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-08T23:30:19+00:00",
    "title": "MALI plans special export zones for black gram amid strong market prices",
@@ -2160,13 +2167,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWnhKdzlpeW0tYzNMc0J5OGpPZWl1Mk5QUWRJZVVwNlpZVmNwZmM4a1hMSjlYZV9ua0ZsUWZnX0hsRXFmbmRBdC11OWpieUZscDF3bkU4MDNKeHhnb1hxMkRzcnR5QkpnNElDTnQ5bkR0eG9xOHJoZVRybnhhUmVDNkdCTS1RM1BlS2Q4SE8wSmNCLXhXalN5ZVBqeXVDOFFXNHFCVGpVN0ZnT09JYktqakZQdGRCd3Z6SnB5aQ?oc=5"
-  },
-  {
-   "ts": "2026-10-01T11:00:26+00:00",
-   "title": "Myanmar Regime Has Killed 383 Civilians in 21 Rakhine Massacres: Irrawaddy Tally",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeF8wUmZ2dGM1T3M0c1F2S25XeFJZN0ZMdGJtNjJCMTVaSm9OdmRJMnhBWTdVWlZqNXh0a0lhTTU2UW80VmFvSDZmNWV3TlJQVjJjV0tJZjZjVXFqNkJ0QkhZTno2UTVqVFBpVm4wRnZaNWJuQzdoYjRxa1VaQk5NMDFMdlM0MUNFczdCYmRLTnZOcFRxc0dvcVlsUjJES2R4OFpLZWlySkE1amJnSV9GMm5sQS1TWXdHeXlBVEVrSjVsVXh4OEtGeFloREY0YUdEMEE?oc=5"
   }
  ]
 }
