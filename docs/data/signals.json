@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-10-09T14:00:24+00:00",
+ "generated_at": "2026-10-09T14:30:23+00:00",
  "signals": [
+  {
+   "ts": "2026-10-09T14:30:19+00:00",
+   "title": "DYSPHOR1A - မြန်မာဘဏ်တွေ အချက်အလက်ခိုးယူတဲ့ပြည်တွင်းဟက်ကာအဖွဲ့",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cq1kxyn374z3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-10-09T14:30:19+00:00",
+   "title": "ရုရှားဓာတ်ခွဲခန်းဝန်ထမ်း သေဆုံးမှု - ပလိပ် ရောဂါလား၊ဘာတွေဖြစ်ခဲ့လဲ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cr3wvq2yvzeeo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-09T14:00:24+00:00",
    "title": "- yktnews.com",
@@ -2133,20 +2147,6 @@
    "source": "Frontier Myanmar",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOFptM1ZybkxJaVNTVEQwazdLdlVUcEhYM0g3V21wRU5pUVhON0VJWER2cU5OMC16YmhkMUx4MFZ3QTdGQl84ZW9PV1Uwd1hYUWlwQjA1anJhQ2p3THR4VGhfMml0dURRSDZwNkhDSldyOXZoMXU5Q1dtQ21WaGo1Qml2YzZkTkR3?oc=5"
-  },
-  {
-   "ts": "2026-10-01T23:00:21+00:00",
-   "title": "The Irrawaddy News Magazine [Covering Burma and Southeast Asia]",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93elRXVXd5REZvN1dfakk4aWRGeU5ENHNrSmFlMkhZcjZjN2FKUWF4UUZPOWRPMmJwd0VINl9nZlBuUm5fcmhpQ040eUxjWENHczNIWGVEYzFoQXlCMGhkSmpMUWtuVjlqWkE?oc=5"
-  },
-  {
-   "ts": "2026-10-01T22:00:26+00:00",
-   "title": "Tatmadaw vessels return carrying 1,476 Myanmar nationals from Malaysia",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbFhIaWd6Qkc5VUpEdk9pc3hKNDAtYl9COUFWd1VjYk01Rm1WTDRVVU5KZ25hTUJ2Q0ZvcXpXaXdxcjkzUTV3RFdjMGdoUVZ6OXo5TU5GVEhiS0d4TFQydXBsZDlubG85VWIxekl1bmhjdTJTaUtuVU1IWkVZelBRdEdURUtUZlMtOTkwVk5McWZIY1BoUWpzSG9B?oc=5"
   }
  ]
 }
