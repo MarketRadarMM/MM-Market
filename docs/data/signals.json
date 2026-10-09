@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-10-09T09:00:23+00:00",
+ "generated_at": "2026-10-09T09:30:22+00:00",
  "signals": [
+  {
+   "ts": "2026-10-09T09:30:22+00:00",
+   "title": "Bilateral talks between the Republic of the Union of Myanmar and Malaysia, press conference held",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTmJldmRXYnRWdERFMkF2Q1NPVUd0R1NsN0FsRTRGWHpWT1NVRFFxQjJoZXZleDZsN3k2b0xXOHEwNjlwVE9MaVMxd2oyYTZmV0tabko5MW8zbERQZHp0cHpBQXBnTkVGWll2U3lCYmczbEVkT3VuY2ZKQm9raktIM2NpTHR3TUd4QXFCNUZXX3VrSFNGNEJtQXdoc2x3TzFIbVo1M1VmWEVMTjVnRFZvZVlyVlo?oc=5"
+  },
+  {
+   "ts": "2026-10-09T09:30:22+00:00",
+   "title": "President U Min Aung Hlaing and Malaysian Prime Minister Dato’ Seri Anwar bin Ibrahim deliver speeches at Malaysia-Myanmar Cooperation Dialogue",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRXVILTlFTFRJbEVjZGNGNlNXbjJWRmt2bW4tT0s4QWZILXJoZ3kwanhRbXBaajV3S195NjRMMGRfb0FSX1ZieElOZTlBNzBTUmd6ZERZZUdTdmRYSkF4Sk9YejgxS09OdDlqXzFMRG5kMzNOcWs2NDVDSkVYYlBjaEZzV1lSTjF4VUlYWkpfVi1aYmN4eXhfNEVpYlVkWWkzUHNJSHRvOGc2bkhvYzcyckRzMWk2Zw?oc=5"
+  },
+  {
+   "ts": "2026-10-09T09:30:20+00:00",
+   "title": "Letters to the Editor — November, 2008",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HYWhIVkxraUpYejVQRmRCeDBrTm9YZVV2cTBRcmNkWkZ3ODRUNkNCbXVxcWVYbDU0anJEaldaRkVfT0pIcnpzY1JldWQ5Q1dtcl9IT21tRHVoN2lIZ1lLd2czc1hheXI1dVE?oc=5"
+  },
   {
    "ts": "2026-10-09T08:00:16+00:00",
    "title": "Three Myanmar resistance fighters killed in two separate incidents in Sagaing Region",
@@ -2133,40 +2154,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMDQwV0E0WUFSVnN6NHFBOXhXLXB5Ukh6ZXlDYi0wWEdXeE5aVWVKTnNnZE1ZN1lGUHJGMGZ4eS1tMFB5dHJOZ2xUaXBIa1M2ZjVCdzEzRGpRdkt5OXpUVVJ6SjlDazhZRk83X3QzX1dOUDdBcjFwLU9HaTNDNnlKdUtjRTdWRDljWHd0ME9RdlJyS19iZzBrSg?oc=5"
-  },
-  {
-   "ts": "2026-10-01T13:30:19+00:00",
-   "title": "Under Chinese Pressure, Myanmar’s UWSP Cuts Off Support to Allied Ethnic Armies",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeDlla3BmZFktX19mWHZlUExJOXg2MkY3UTNsNDhRV0d5aVNJNVpXb1FmYzhrWUMyYmRadExubEFTY0NndWpRUDhuSjBlTk1DNzVPWS12b09SVnJUWGNkYVZGb0Y3SWkzNDFDTUFOY1Y1WjF1aVZnQlRtTHJGbmJ4VFZfSUlOOXBNd0wxTTVaMHFzNy1EMl9MTmpzNVlUY19GZWs4NjBpX1o5UUt5YUtjTWJlOWlwa2FrRG5nUkFicnRiY0tlYmdMOHBfOGZQZw?oc=5"
-  },
-  {
-   "ts": "2026-10-01T13:30:17+00:00",
-   "title": "US Law Firm Confirms It Helped Two Myanmar Junta Cronies, 1 Firm Beat US Sanctions",
-   "source": "Irrawaddy",
-   "markets": [
-    {
-     "market": "fx_kyat",
-     "direction": "bearish",
-     "confidence": 0.65,
-     "rationale": "New sanctions pressure the kyat"
-    },
-    {
-     "market": "gold",
-     "direction": "bullish",
-     "confidence": 0.65,
-     "rationale": "Kyat pressure drives savings into gold"
-    }
-   ],
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRkVKX0RTTXFKMUxkYjd2cTNLeUhjVzZvSkR2el9nUVVoamdHRDBHcWJIdEo3QktodW1namtvSmFVQlEybjZjLW9KZnFjbEd3SzZwN0tZdW1JTGk0MzBQS21zSWp3TVVnR01SenJ0aXFCNFhxYW03em5IX0JWWWpaYlo3ckl3dTFLREs5NUZyY1VqLXhLYmVqSXJncWxaLXNnd1RfeFFVdXRZOE1DbkQ4NW1BWWZmajQxN2dEVFQwVFo?oc=5"
-  },
-  {
-   "ts": "2026-10-01T13:00:22+00:00",
-   "title": "Ahead the workshop, Zaw Min vowed to go on the Myitsone Dam at the source of the Irrawaddy River.",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QV25BX1RkY25LNDdCOE1qWFUtTmJYNHN4eEY4akIwWnF3Vl9Rcm00VnppejNHZ1pXWHZMVUgyNm5kQkYwTk1ZcEM0Y285a3dJcDltSDRfdC1NM09sVjV1SVJvR0xoUVRa?oc=5"
   }
  ]
 }
