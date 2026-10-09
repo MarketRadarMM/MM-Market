@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-09T09:30:22+00:00",
+ "generated_at": "2026-10-09T10:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-10-09T10:00:19+00:00",
+   "title": "Aerial assault by Myanmar’s military kills mother, three daughters in Sagaing Region",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/aerial-assault-by-myanmars-military-kills-mother-three-daughters-in-sagaing-region/"
+  },
   {
    "ts": "2026-10-09T09:30:22+00:00",
    "title": "Bilateral talks between the Republic of the Union of Myanmar and Malaysia, press conference held",
@@ -2147,13 +2154,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8temFYTTZlNHhzNG9oeElzMnZ4T0h3UWhISGEwNnlXc1RMV2YzVW1rVUhZaGhkbmd6aXNvWUdJb2dfeHNuQW5PTWd0dHdBTUxzQkRLb3JlMUdxbVZJUWpLLTFpb0dfMzllRVpYS1JSQXJNQQ?oc=5"
-  },
-  {
-   "ts": "2026-10-01T14:00:26+00:00",
-   "title": "Myanmar delegation attends ASEAN Tourism Ministers’ Retreat in Manila",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMDQwV0E0WUFSVnN6NHFBOXhXLXB5Ukh6ZXlDYi0wWEdXeE5aVWVKTnNnZE1ZN1lGUHJGMGZ4eS1tMFB5dHJOZ2xUaXBIa1M2ZjVCdzEzRGpRdkt5OXpUVVJ6SjlDazhZRk83X3QzX1dOUDdBcjFwLU9HaTNDNnlKdUtjRTdWRDljWHd0ME9RdlJyS19iZzBrSg?oc=5"
   }
  ]
 }
