@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-09T16:30:18+00:00",
+ "generated_at": "2026-10-09T17:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-10-09T17:00:22+00:00",
+   "title": "AI, Power, and Our Future",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RaWtxTVRDc0w1cndfYXhPclBBS2taRGFyVi00WWtKMFBlQnFlbXV6TjlITEVnX3lLeHRJd3ozTVlyWWxHS3dTazg0NDMtWllwVXNVQkFMUGFULWtY?oc=5"
+  },
   {
    "ts": "2026-10-09T16:30:17+00:00",
    "title": "El Niño Prompts Multi-Hazard Readiness Plan",
@@ -2133,13 +2140,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQanE2Sk0tNnBwbm8yNnoyM043cUhuZHR6V1IzQmJvZ2xqWDU0WGw0anUxN1NTTzkweUJYZTNLRXBBZnE0b3lfVkJuMUM4ZjQtWWtwMDVzNHJ4V2VJbGNOYlU1OFpTalBlakliZV9paFJNUzllN2R0UUZXNE5WbUxsWENtUUpOMXFxY3V0ZG5kMGh3ajV4Um5laEZ0R2hxRFNXX1QwMm9YTQ?oc=5"
-  },
-  {
-   "ts": "2026-10-02T03:00:24+00:00",
-   "title": "Striving to generate nuclear energy for national interest",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQenA0Nm9zMURLWGZ3OTJ3ZVVwckdwSHRkTXRfWW1oQ0ozWUNnVWc2SlY5VVM4OGwyZnpUak4wNkp0SEhaSnM4dGNnMkZUSjN1QUxHT3RVcmd5MFdkbTdGOTBfYjMtOUtjbkMyeFNaV0Z6UHlIZ0ZvcVU4ZmFaZ00xU3lmZU1EcDJmbGc?oc=5"
   }
  ]
 }
