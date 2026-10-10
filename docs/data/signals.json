@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-10-10T04:00:23+00:00",
+ "generated_at": "2026-10-10T04:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-10-10T04:30:19+00:00",
+   "title": "Republic of the Union of Myanmar President’s Office Order 69/2026, 70/2026, 71/2026, 72/2026, 73/2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcTNyUEsya0pWRGN4OVIzSWVVOFRudXUzcTJ6eEl1VlJoRS1pM1AzeTJudEIyUjZCVWpabUM0S0tJQWN5SEhCeU1kNFlOOGtIdzRlcjZCNlNsLXp5cHlnYUJveFIzekV3Wnp3czk5d09Zc1h6aWhlaXhOczhDQW85YVRJR2dreGNSMDd5WDZ2cWdXNHdCVTVQb0R0eUphOUp0VDJhUl9JbERTQ3p6bXZVNXFxNkIwSmFrWjZPTkVR?oc=5"
+  },
+  {
+   "ts": "2026-10-10T04:30:18+00:00",
+   "title": "Myanmar Junta Chief’s China Visit Hailed as ‘Successful and Fruitful’ by Regime",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcFRjbW5IRU1Zbm0wMUc4eTI1aGtFTlNSVDQyLUY3dXl5SmFXd1h4NDY1NU8xUVBxTThxVzdKbWFnalZxdzNpUGFubjN6MllSOEMwNGNtVDF2ZHFKNmFDT3RMTm43YXR6Y0trQUExaXY0T1hsbF9pNzE3WDJzeDJUOUNDQk1MV1FXLS1oeFV4QnNfcFJDeFRyV2NNOTB1QUs5WEdLdXRIUEZvUGFsUTFiUlJlaTZsODM4SlE?oc=5"
+  },
   {
    "ts": "2026-10-10T04:00:22+00:00",
    "title": "Pyithu Hluttaw Focuses on Public Welfare, Agricultural Support, and UNESCO Bids for Traditional Heritage",
@@ -2107,20 +2121,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMVdiNW5GZjFQcGdMQ2w4TnlKVG53c3FfdnlzQU1uMTFoa0NEXzJtazJFMl9XdXk5VVRYSkJGblItUDRTdjBZZ0I5YXJLSVdaRlFyZ1FycFZUbU1NZ0lMMWo2ZVlGbDJTX0dkNFpPbW1sSzFkdDF4VFZOMUNVX1kxeU1BY3JwN2o5N0VONWpxVlA?oc=5"
-  },
-  {
-   "ts": "2026-10-03T03:30:53+00:00",
-   "title": "111 Dawei Flood Families Receive MRCS Relief",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuUnBjaVljN1RaLXBnZGhyV3pqYkt0VmhzSjlsbloyajFEMUt4Nm9uQm52WUxUTVNHeFBTX3N0WmIzSzNBUFU0TllnSk1hMVMwVjRuaWdLLWlvVjZ0THdGYk56UEctNFhUQ2lJYWpUY2ppSDFJajJaYg?oc=5"
-  },
-  {
-   "ts": "2026-10-03T03:30:49+00:00",
-   "title": "ကျွန်မ ''သား'' အိမ်ပြန်ရောက်မှ သက်ပြင်းချနိုင်မယ် - မလေးရှားအကျဥ်းစခန်းက ပြန်လာသူတွေကို စောင့်နေသူများ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c6dj4jj0vzw8o?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
