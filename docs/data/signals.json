@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-10T23:00:24+00:00",
+ "generated_at": "2026-10-10T23:30:22+00:00",
  "signals": [
+  {
+   "ts": "2026-10-10T23:30:20+00:00",
+   "title": "Opinion",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DNG9pZS12dENOamVNaHlodGJTUmkzcnVjbjFMakZSb2Z1b29RMFVBMC03MHU5MkZ0bGh0cVE1X0p1UnFfdFMweFdaNE1SLWlmWnBDeExUaEZyMzhRU2Q3aw?oc=5"
+  },
   {
    "ts": "2026-10-10T22:30:20+00:00",
    "title": "Heads of State of Myanmar and Malaysia hold bilateral talks, meet media personnel",
@@ -2114,13 +2121,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLURIWHdYTlo5LVhkQ0M4YTA3ZnRaNGs5dmc0Rkg0RW1rSzVub1hFdmtzeVItWUhucXA4M0dqclB3LUd2NEZDeENlLVZlVUhHc2Z5T0lIQTU5SlVhM1U4eWJxNGpTd2djdkNIM0ZxTG1maEhMVjZ1czZGRzM2WWJNUm14WQ?oc=5"
-  },
-  {
-   "ts": "2026-10-03T11:00:23+00:00",
-   "title": "Third Pyithu Hluttaw’s third regular session enters its 10th day",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONXZUTmNMUXdBczFCYV9wdlVOZjJrRWRQQWZVVURseWdCanNvUlR5OFh0bDdjVHlQLTRHNGJrVXNGbXlHcjVqbmQ2VlM2ek9GQWZPdUplYkJuYVJvOE95MjRVcFBRWDRoVEx6eVRCWUVVdFpMYWNORGFjWTVuUEp5SjV1RmRSdG1nem9ELXRxUVJpUQ?oc=5"
   }
  ]
 }
