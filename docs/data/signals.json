@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-10T21:00:22+00:00",
+ "generated_at": "2026-10-10T21:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-10-10T21:30:18+00:00",
+   "title": "Opinion",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TTmRNZVRPdHpTZlhzUURFbWNjNnpyNF83OGpLY2hZNUl0VTZGRFgtU2Y3emFzR2JLM0lxSWNwSGxZOGZyTkJkaXZ5VjVVa3A3NEhLSVBvby1UZ1phQmVRMw?oc=5"
+  },
   {
    "ts": "2026-10-10T20:30:17+00:00",
    "title": "We Need Your Support—Your $5 Helps Keep The Irrawaddy’s Mission Alive",
@@ -2114,13 +2121,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RUUFMZnRhLU9Vc3NrNkU2TFUtSF9rdUdma0dodjNZNjNhTTJsd21IZDRCOUYzb3dGcWY0TEVlMU1PS051c0JXZldQdzlHNGl4NHg5MFR2akkzRlFUWldvSXo3VEpJc1F6Z05wdi15UHE5RXNWcXV6NTRLc1Itd28?oc=5"
-  },
-  {
-   "ts": "2026-10-03T11:00:23+00:00",
-   "title": "Efforts made to repair damaged railway sections and bridges",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYUFmVE9qWlVpZnBZbjBpUVRFZHh5cVlFVFQ3NV9TUUVveVk2REVkTmdyVXhObWVpcUtwY2lfMENRb1ZBXzM0cFdta1RrcDk2cU41Qk4wZFlScXh2cUtHLWRnZXNrQUVaRlFYNzJUdVN4TkZjUDlzYXJrZjNDci1DNDRLQ0NYTnFwVS1iQg?oc=5"
   }
  ]
 }
