@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-10T01:00:30+00:00",
+ "generated_at": "2026-10-10T01:30:22+00:00",
  "signals": [
+  {
+   "ts": "2026-10-10T01:30:16+00:00",
+   "title": "အောက်တိုဘာ ၁၀ ရက် သတင်းအနှစ်ချုပ်- ဌာနဆိုင်ရာနဲ့ ပုဂ္ဂလိက အွန်လိုင်းဝန်ဆောင်မှုစနစ်တွေကို ဆိုက်ဘာတိုက်ခိုက်မှုနဲ့ အမျိုးသားတစ်ဦး ဖမ်းဆီးခံရ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cqd09jd01pr5o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-09T23:00:23+00:00",
    "title": "Myanmar marks 152nd World Post Day",
@@ -2114,13 +2121,6 @@
    "source": "Frontier Myanmar",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTWowc0ZIWlo2dEJrVExST3RwRVNqVFU4SjJ2Q1YtNmQ1UVdJVkVYLUZwNkx0ZG9VcnNxbVpHTVVENDFTUTRCVzFNcFFINkJtQXlYRF9qYUZWNGYwNVRhb2d3Yy1zZE81WDRZLXBwLVhWLVZPdVFXNHRXS2VsQ2JCcEZwWk5Od21NVzRWNXVHUFcxOU95dUpv?oc=5"
-  },
-  {
-   "ts": "2026-10-03T03:00:16+00:00",
-   "title": "အောက်တိုဘာ ၃ ရက် သတင်းများအနှစ်ချုပ် -  ရသေ့တောင်မှာ လေကြောင်းဗုံးကြဲခံရ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c680zepnnxjxo?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
