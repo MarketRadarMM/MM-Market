@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-10T09:00:20+00:00",
+ "generated_at": "2026-10-10T09:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-10-10T09:30:16+00:00",
+   "title": "စစ်ခေါင်းဆောင်တွေနဲ့ သူတို့ရဲ့ ဆရာဝန်တွေ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c142m6561e3o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-10T08:30:19+00:00",
    "title": "Illegal Rare Earth Mines on China Border Multiply Since Myanmar’s Coup",
@@ -2114,13 +2121,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcDdlRC1fQTl4Q3oyUkFkWXFsN0xXWndZeEU3MGU0bklSS2UtTnFYb1J2WEQ2SEtnNnB1MHY2TkZYM3NJYzBEWFBZb1JBOWtPX25qWnRwd0VoVjFvMzhjN2E1bFVYSk9NQURiQmJtWEZrMXlJT2NBbndyLTZ1RDFkME5UR05DZVQ1N2xma2FVM1I2N2FNT1RXWjM0UXB1VWc5STFqMjZnbm1fMUZFQ2hRTHJUY3RZVEtxME12T2UwVF9UMThiWkY4UERFM2EzT09YS2lubnBSdUQ4bE4xTUo0YlhYdw?oc=5"
-  },
-  {
-   "ts": "2026-10-03T08:00:20+00:00",
-   "title": "How Do We Use Our Brain?",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiWnpaSU53ZDB5RUw1R1ZjN3pkTVdjS25wY1VfdTR0RkxLYkZvQmt1M1EzbEJ6UWhvMnkxLS1LSVFxejhkNkQzYmVpRkxGdDJEelRJamRKWUdfSWcx?oc=5"
   }
  ]
 }
