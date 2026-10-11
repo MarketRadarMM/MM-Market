@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-10-11T07:00:22+00:00",
+ "generated_at": "2026-10-11T07:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-10-11T07:30:17+00:00",
+   "title": "Podcast: Death in detention",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83ejl6TnJoZmNLOS1PeFdDNkQtWXZnTVFEWlJQVDBoNV9ORW1Kb0FqSVhBV0FkTWFVcEVtN2ZtcFNRQ1lwOUdGQy1LOXFrUzdhMld4MDBLZmF1Wm05N08welQ0Wk1Qa2lsVUhyczA5WQ?oc=5"
+  },
+  {
+   "ts": "2026-10-11T07:30:14+00:00",
+   "title": "အဆုတ်ပလိပ်ရောဂါ ကမ္ဘာတဝန်း ပျံ့နိုင်ခြေနည်းတာ ဘာကြောင့်လဲ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cmly0vxnjq41o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-11T06:00:19+00:00",
    "title": "Ten members of so-called PDF who returned to legal fold systematically handed over to their parents and guardians",
@@ -2107,20 +2121,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbDRZNTJ0ekhhZ1luYkNRRm40OTB0UzRpZjhfc3h1aE5BdE9jazNQVnpTaFdCZ244U1N4R2ZjVXR5d2hDVGNCNlN6TFhZbm5JWGVsdmd2YXdhN05ia1Vkc3NpLWJRMlBsbkUweldvaTJaMnQzT1doV1I0N2UyNnpMY1lHbEhubmM?oc=5"
-  },
-  {
-   "ts": "2026-10-04T03:00:16+00:00",
-   "title": "အောက်တိုဘာ ၄ ရက် သတင်းများအနှစ်ချုပ် - ရခိုင်၊ကျောက်ဖြူတဝိုက်ကို စစ်တပ်ကလေကြောင်းတိုက်ခိုက်နေ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cw8dzpd6zedjo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-03T23:00:21+00:00",
-   "title": "Amyotha Hluttaw discusses rural infrastructure upgrades, Election Law Amendment",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORkxXcHROVWpyM09MUnJ5YXZwNTBhVEptWHU2ekFIOHdQTTlHUWQ0Tng4ajZMaFlZNnlVYk1mZDlxQVNvZDltSW1aTUlsZE0xemE5VW5saEJPZVBOYkhNMFhZdzl4aVB5LUpzak84NDNDN0ZiZTcwMVVEcC1JQy1BUW5ackxNS0MteGRxdWZkWXdUdDZHcmlpRlNqNTVMZzhqbFpFX1J3?oc=5"
   }
  ]
 }
