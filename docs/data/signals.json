@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-10T23:30:22+00:00",
+ "generated_at": "2026-10-11T00:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-10-11T00:00:21+00:00",
+   "title": "ပျူနှင့် ဇိုးတို့ကြား အထိတ်တလန့် မန္တလေးနေ့ရက်များ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81709/"
+  },
   {
    "ts": "2026-10-10T23:30:20+00:00",
    "title": "Opinion",
@@ -2114,13 +2121,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PUVY2ZC1CR2RjeFVYUG9pYkdDN0RCY2lmS1NWaUxFWGgxbTJSRzBKYnpVV1kzRHFpQUQxOGFOTXg2ZjdVQ3N4R0dERm9Ea1FRUmpvZXlYckNDemxZTkp5czhCWU1vbzhGMWpsWnZsMU0tRjZoUmpyNVc4S0VBQQ?oc=5"
-  },
-  {
-   "ts": "2026-10-03T11:00:23+00:00",
-   "title": "Heart and vascular disease risk rise by 20% in 10 yrs",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLURIWHdYTlo5LVhkQ0M4YTA3ZnRaNGs5dmc0Rkg0RW1rSzVub1hFdmtzeVItWUhucXA4M0dqclB3LUd2NEZDeENlLVZlVUhHc2Z5T0lIQTU5SlVhM1U4eWJxNGpTd2djdkNIM0ZxTG1maEhMVjZ1czZGRzM2WWJNUm14WQ?oc=5"
   }
  ]
 }
