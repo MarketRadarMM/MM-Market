@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-10-11T18:30:22+00:00",
+ "generated_at": "2026-10-11T19:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-10-11T19:00:20+00:00",
+   "title": "11 October 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tUnJwYTJnNVhSVGEzWGN4ZFF0SS0tbGJoa091YXZqVW5QU0IwVS13LTdPek11eHp6XzVydWdDQ0pacENJMFdlMU5XeS1TWGIwMnc?oc=5"
+  },
+  {
+   "ts": "2026-10-11T19:00:20+00:00",
+   "title": "Karen Armed Group Leader Condemned for Backing Talks With Junta",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdy1PZ2cwZjMzWXpLZ0tzbTBYbU1yRHhwOE1jY2JwWFRQeXdCa1pzdWNQUjJzeHlTMmtQYzdMdVJQS0xDNVJSVkhqS1RnN2t3YndJV083RkduRWJCLWVCLVhaaXpxMktEVEJZczJQeGRWT0wwNXVRbXBWbENrRkktUHFyaU9PRVJERE5odjBtNHpsYS01ZGJmRXJIWnJBcHF2Ymln?oc=5"
+  },
   {
    "ts": "2026-10-11T17:30:18+00:00",
    "title": "Deputy Commander-in-Chief of Defence Services Commander-in-Chief (Army) General Kyaw Swa Lin addresses officers, other ranks and family members at Bokpyin Station",
@@ -2107,20 +2121,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE02QWNyRVIwcTk5bDZobXotQUJ2X3lQZEQ0WDNzTXh5VlRoaW5oeE1mdV9Fb1NHbDRRa2NfeWRPRkVSaVNtMzNWU2pPTGxEelRZT3BPRHppWFFHWDMySkJKTVIxVk1QNTI4OWJYOEM5dTNWQmk1Y1kyQTFR?oc=5"
-  },
-  {
-   "ts": "2026-10-04T03:30:16+00:00",
-   "title": "Taunggyi’s MSY income-generating activities inspected",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdFpab1JMOEZlakhxNklCWVBQcXVjWGhTbHBSSnBkaXBFQlZodFROZDhWWjF5RUpzN0w4VmVOeXJIb2IwQVVnd2xEaG9yVUI3ZXRWTDhKc2NOdG5DeWtuR0Y4Mml2dFFia1NEZ2pIRHhpTGN0ZXJVYUpDcDlTVFNIMjdLWQ?oc=5"
-  },
-  {
-   "ts": "2026-10-04T03:30:13+00:00",
-   "title": "မန်စီးတီးအတွင်းရေး ဖွင့်ချတဲ့ဟက်ကာ ဘယ်သူလဲ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c893zpwge0ylo?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
