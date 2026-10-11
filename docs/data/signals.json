@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-11T14:00:21+00:00",
+ "generated_at": "2026-10-11T14:30:17+00:00",
  "signals": [
+  {
+   "ts": "2026-10-11T14:30:16+00:00",
+   "title": "Guest Column | Yet Another Peace Ploy from Myanmar’s Junta",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZnFUQU9XS2tzbTZuYWFmWW40T2tUbHFNNEc4c1NuMmlYWkFoR3BJU01FQ0d4MFc2QjRQTTFQY3NUb3pZbnRqekZ2MDg4NEd3WHNqd1ktcC1TaEE2MWtCVjdSNnlmNU40T2R1eVFBUkh3YXd3MmNXMnFwLW9sNWluT0ZmSXpwYTZ6R1ZlSzJhMFlzQXlfb043SU13?oc=5"
+  },
   {
    "ts": "2026-10-11T14:00:21+00:00",
    "title": "Classroom Key to Shaping the Future of the Nation",
@@ -2114,13 +2121,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZUMxbGFYS09MYU1aNzVhYUpRV0FjQWJaNlRLQ0YtMU1iWW8ySlptS0hsRy0tTHlUUHNGLXJvaXZYemI4VWFvbzBCRWxCTDVuRlhtSi12Y0dyZjFRWDZvdnE1TThtZVRlOVpGaWZtU3JCbDh5MFU4cWZndTFUOEJjMHNjWUtsbHF1UUJzeEY5WmQ1cjA5WTFfNEluOEtUMXNXVi1mN2J1aU5uUE0?oc=5"
-  },
-  {
-   "ts": "2026-10-04T03:00:19+00:00",
-   "title": "YR Police beefs up security",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQaWp6TWxyNzVhQ3JDck9pcC1XbkRLc1lVdWJUd1BzNGE3NW1SN3Y5cnpEZ2JjcUluSFhZay1acWtqaFMwVTVaZHJKWm8wN19OaWdieWdCLTdFODJUS0x6ZERR?oc=5"
   }
  ]
 }
