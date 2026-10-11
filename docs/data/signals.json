@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-11T17:00:24+00:00",
+ "generated_at": "2026-10-11T17:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-10-11T17:30:18+00:00",
+   "title": "Deputy Commander-in-Chief of Defence Services Commander-in-Chief (Army) General Kyaw Swa Lin addresses officers, other ranks and family members at Bokpyin Station",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTGtCckxyU1E4OFZ2RWhtZFNzc2xTUUdfRE9oQlVVQ0JoWlJtUjdJTUltSDZZNWkweUc1Z2wyY1h2N3BlZ19ITVV4aFh4Ykx0VEJzMzl3NldtVk5NRnZzWWNiWktVLVJtVVRGcDBmVjVPT1hYVnREQlhsbkI0cUNiYzJ6bEt3N2oxNmpUX0tZU0FscndSUDlndlNUY3pZZDJqRU9kNlZTZ2FpdnFiclg5eE93Q1lTaHpnaEpNX2Rzdy1aa3l1Skc4?oc=5"
+  },
   {
    "ts": "2026-10-11T15:00:22+00:00",
    "title": "Ta’ang Rebels Accused of Betrayal for Handing Over Mogoke and Mongmit to Regime",
@@ -2114,13 +2121,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/c893zpwge0ylo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-04T03:00:19+00:00",
-   "title": "Schools reopen in Laymyethna as floodwaters recede",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOXzNDNGJYT3FVOEotWkk0RWZZLUNGMHhmbklCcEZocWt4SHlDSmJCYzQwZC12MG05aTd5MGF3VTh4Z0xXamZoZm1wNlJnYkx1NTNjR1d1bVl2dEpmQ3BCT0dOSm5JT0luLXNjZWktT0kzVDE1QTF6UUJlMWtmeld3Ng?oc=5"
   }
  ]
 }
