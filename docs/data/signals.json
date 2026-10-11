@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-11T20:30:20+00:00",
+ "generated_at": "2026-10-11T21:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-10-11T21:00:24+00:00",
+   "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing holds talks with Prime Minister of Socialist Republic of Vietnam Mr. Lê Minh Hung",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd1JVeEhjOHlWUVVtRlN1UmJxVE8wWUZjU3pqWmFjZHF5YTdJRnNBZXB5OVFIeldreTFNMV8xd3RxT050Z0tubWY0eDVCNU1aRTJ2ZXE0WXVMUkFDV1puOFFWd2ZCUXZCbU1KaE5qYzNDN3AwUEM5ZGJWdl83b3VISlhYQnhiSXJoMG1GWW1RRDQwQWdEZGg4NXc1d1VoTDhGYWFPUnBXUVNFeHIwT3B2TUxEN2hKckJSRnpn?oc=5"
+  },
   {
    "ts": "2026-10-11T20:30:19+00:00",
    "title": "12 October 2026",
@@ -2114,13 +2121,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMzhQeE1tMkYtY0lTcFRtcEFGNHBVLUtVRmItdldlX1ZkQ1BTZ3VQbHlfWlNGR2pwVC1oeERNcTRqMVlKT0hTVUkxRGlXcmxmamtaMV9aTldxRUstT2hJaFltQUxsWm5nZl9zWmRrd1NOZHRKRzNkV0ZYWnFoODlfTkJHSTAtRGdiSHIzUGhFRUhDbm5najUxVVhGYnFGdDcyRmR6aGtNdDJWdTh2QWZXa0Z5ZjNtWG1XdUw0?oc=5"
-  },
-  {
-   "ts": "2026-10-04T05:00:25+00:00",
-   "title": "4 October 2026",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1heEhDWG12LVdtUTRmSVY5bHRzZ3U5b0paRVFyWjNzLXRRMWxUcXZ0bHVkR2RGdFprY2JkSlVuWjZRcUFEcjF5bjNhM2Z6VGJO?oc=5"
   }
  ]
 }
