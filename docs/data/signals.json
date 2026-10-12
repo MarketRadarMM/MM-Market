@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-12T01:30:19+00:00",
+ "generated_at": "2026-10-12T02:00:43+00:00",
  "signals": [
+  {
+   "ts": "2026-10-12T02:00:42+00:00",
+   "title": "The Day One Computer Stopped a Bank",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82WThib2pjOFIxUHFEeDBURk54SlViemVqWnZQSUVKVTF4aFhjd19rRmhMNXpLdzMzSjljSUlaU0VQOVljY095LVVMeE1hclhZZThnamQ1VVdHd3J4dk91V1lPdzJhVUxWa240Ng?oc=5"
+  },
   {
    "ts": "2026-10-12T01:00:17+00:00",
    "title": "အယ်လ်နီညိုဖြစ်စဉ် အားကောင်းလာနေ၊ ဒီဇင်ဘာမှာ အမြင့်ဆုံးရောက်နိုင် - WMO",
@@ -2114,13 +2121,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU3FNY1dYbXhZVm1OVnhWQWpSdXVVRzhVaDA3RmNaNXg1OElxOTNaWHNneFZZY25LV1NLQTN6OXdzalBUT0lLV2xGb2YtUm00VVJVNjZuQVUydjdLVUNBeTdlWGxGeDlKYkZobFFkNWxBVjlLODV1UGZ0OVEwMkNlUkdLVzg1SHlFN2VkMUoyTGhFa3VOcG5tRExxR0c2NEVEZEMxbWpRZU1Rb0JJcVhSRlRxU0ZLRk1wS1E?oc=5"
-  },
-  {
-   "ts": "2026-10-04T05:30:18+00:00",
-   "title": "News",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iZ2VCbk5mUmJrZUk4d3Jvd1ZUZ2N4TGZVRHdyZC1CTzNPM09vRDNaa1V5MnJ0Z1JQeGVtWkZXMXRkODRiYnNtODFadVpSWlBiS1JER1NmckNXZHZw?oc=5"
   }
  ]
 }
