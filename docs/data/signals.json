@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-12T05:00:23+00:00",
+ "generated_at": "2026-10-12T05:30:17+00:00",
  "signals": [
+  {
+   "ts": "2026-10-12T05:30:14+00:00",
+   "title": "မူးယစ်ဆေးဝါးထုတ်လုပ်သူများနှင့် ငြိမ်းချမ်းရေးယူထားသော စစ်အုပ်စု၏ မူးယစ်နှိမ်နင်းမှုဗျူဟာ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81718/"
+  },
   {
    "ts": "2026-10-12T02:30:18+00:00",
    "title": "Magway Airport operates weekly domestic flights",
@@ -2114,13 +2121,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlUlBJR041amNOREUyNWFXQmhjZXJjU1JLLVl2NTR3LTRrLVh6RGxCM3BHRWFSV05pNUUwR2MzUnRBY0VSSEd6bDRUNF91TVRDSlJ2NnpNMkN6bEhoSjVaSjFn?oc=5"
-  },
-  {
-   "ts": "2026-10-04T07:00:21+00:00",
-   "title": "Kyaikkhami mid-water pagoda’s Buddha Pujaniya Festival set for 5 days",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObDF5ZTJuMVVaSV9VVFB5eUZ1OFZXMG1Mdy1nN2N6dHlnc0NRd1BwYVRjc29PQTRlUHN4ak1FVlFBZ19WZ3JlX2hDTGRRdUFYaEZXLWpmUU9IYjhuMzZVSWxNWC1ObkJIcm9XanlJbEp0ZTcwNWt4ekl1dVQtaDFqc2N0bFZJRjFseGs2NWFoMlNISXlMSFJndA?oc=5"
   }
  ]
 }
