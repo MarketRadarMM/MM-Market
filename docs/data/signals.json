@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-10-12T07:30:20+00:00",
+ "generated_at": "2026-10-12T08:00:25+00:00",
  "signals": [
+  {
+   "ts": "2026-10-12T08:00:22+00:00",
+   "title": "စစ်ကိုင်းတိုင်းတွင် မဟာစည်ဘုန်းကြီးကျောင်းနှင့် ကျေးရွာတို့ တိုက်ခိုက်ခံရ၊ ၆ ဦး သေဆုံး",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81739/"
+  },
+  {
+   "ts": "2026-10-12T08:00:21+00:00",
+   "title": "From refuge to repatriations: Malaysia’s Myanmar U-turn",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/from-refuge-to-repatriations-malaysias-myanmar-u-turn/"
+  },
   {
    "ts": "2026-10-12T07:30:20+00:00",
    "title": "Stroke warning over testosterone therapy taken by thousands of men",
@@ -2107,20 +2121,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa1BaQjhGdjYweWlHQ0haQ2E1UTAtcnVkZTZPRUl0SGJGX0tMb1ZDRWtOV3cwaE1Hc2VjbHFZc1U0OUVRM0JFMUNUeF9UMVI4dVRMeTNhNEtFbnJkWGFfU19UeV9UdXJmWGVZVUJPbUtMcHA1WmtyUnVKMWJDVllTRXBaUVhwalFfUzBEdER4QnI?oc=5"
-  },
-  {
-   "ts": "2026-10-04T12:30:14+00:00",
-   "title": "ရန်ကုန်က အဆင့်မြင့်ကွန်ဒိုစီမံကိန်း၊ စသုံးလုံးနဲ့ အခန်းသော့မရသေးတဲ့၀ယ်သူတွေ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cqrm9mewnpv8o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-04T11:00:21+00:00",
-   "title": "President U Min Aung Hlaing attends inauguration of Wazira international-level red carpet theatre",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdHllajdwQ05XNFBDLWkwSmtlX0tLY0pZSzFiaE1JRWg1emRvYnFoOGlvbjNaUGF0eG53RThCdVdvRXRZQl9WV3BXWWxjbFRSQ1VoZFBZc1ZraXYyUG1acDlsMU1naDhEM1BPeGxkN2pPbjYxZ1BOZlRvR2JzWkUwU3o1R3RqVDJ6aENVWlNVXy00N2pqSTMtVnpxaURZMzd6R0psMWFYelljaGFVSmpzaXQ4aURMQVFq?oc=5"
   }
  ]
 }
