@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-12T11:00:31+00:00",
+ "generated_at": "2026-10-12T11:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-10-12T11:30:15+00:00",
+   "title": "Fishermen harassed as Myanmar junta steps up naval offensives in Rakhine",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/fishermen-harassed-as-myanmar-junta-steps-up-naval-offensives-in-rakhine/"
+  },
   {
    "ts": "2026-10-12T08:00:22+00:00",
    "title": "စစ်ကိုင်းတိုင်းတွင် မဟာစည်ဘုန်းကြီးကျောင်းနှင့် ကျေးရွာတို့ တိုက်ခိုက်ခံရ၊ ၆ ဦး သေဆုံး",
@@ -2114,13 +2121,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5peDV4RjNDc1NXU0dxTVF2QnJ1V2hIRFJFTnlFTTlyQ0RDNlNKaVJDS0w2UWxUdnAtcUhXaEhIYWxkOTN0U0NMSzdBWGRtUkFTMG8za3RR?oc=5"
-  },
-  {
-   "ts": "2026-10-04T14:30:18+00:00",
-   "title": "The Weight of Progress: Why the World’s Major Cities Are Sinking",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa1BaQjhGdjYweWlHQ0haQ2E1UTAtcnVkZTZPRUl0SGJGX0tMb1ZDRWtOV3cwaE1Hc2VjbHFZc1U0OUVRM0JFMUNUeF9UMVI4dVRMeTNhNEtFbnJkWGFfU19UeV9UdXJmWGVZVUJPbUtMcHA1WmtyUnVKMWJDVllTRXBaUVhwalFfUzBEdER4QnI?oc=5"
   }
  ]
 }
