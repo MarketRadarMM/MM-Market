@@ -1,6 +1,33 @@
 {
- "generated_at": "2026-10-12T12:00:26+00:00",
+ "generated_at": "2026-10-12T12:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-10-12T12:30:17+00:00",
+   "title": "JFM Slams US Lifting of Sanctions on Fifth Myanmar Regime Crony",
+   "source": "Irrawaddy",
+   "markets": [
+    {
+     "market": "fx_kyat",
+     "direction": "bearish",
+     "confidence": 0.65,
+     "rationale": "New sanctions pressure the kyat"
+    },
+    {
+     "market": "gold",
+     "direction": "bullish",
+     "confidence": 0.65,
+     "rationale": "Kyat pressure drives savings into gold"
+    }
+   ],
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZlRPS1ZWV3JsQk5jbEtSRF9vMEFwMVhKbzZGT0lUaWtpZF9QVC1TVlZsaXhpdFB2Y2ptcTROUS05S0JfUFpCY2NJRzZUSjlBQzVfanBfb0RhUGhyN2VNR29Nakg5TGF5V2Eyc2dtUnZSU2prbWpROTE2TDRSdGVDRjlGU0Z0TXlpUlJ0ekxlVUd0czYwRVpJZWRyaDUyMnZCc2tIbmhQYnEyREFuVTN1X3FkZWFNWXF3ZGlwZjdYY0pNVzA?oc=5"
+  },
+  {
+   "ts": "2026-10-12T12:30:17+00:00",
+   "title": "Philippine President Hails Diplomatic Engagement with Myanmar’s Regime",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQUU4WUZndEN6WUJqOUxNb05WTmxrUlFqOVVQcTN6Y19RcGJJRlNvUHcwZGU2aXNVeXEzR3R4XzJFcTN1SXNSV3BfVDdOdmlmTGpaOHFNMVZJYlg5UnljdF9tbmZGNk1ZY25ES3lPOGp3Y29jVmlsTExVVjBEQlFqNmFxZDQ1MW9BVFdQSXU3anZGcW8tSkIyLXVVSW5KVFFJN3lMYVlTN25udWdlcjdVZ0NOUlRMUDJQYnhtR3BfMnFhU1ZVZ3JkT1pzRQ?oc=5"
+  },
   {
    "ts": "2026-10-12T12:00:24+00:00",
    "title": "The Rise and Fall of Myanmar’s Ambassador to Thailand",
@@ -2107,20 +2134,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUWR3X2ZsdWdfVllkcDE0a05ub19aQnhLdnozVUpFZ3JMOUh4RUE0dU1OWlQ0cXh5XzBjWkc4LXFMSk54a0VSaFYxVkdKSTJRTjVreENhOXZaRVBCQU5uaVNKcnVvSWdxLVpUbzlncS1lTDBNbmQ3Mmd5aEdtN3ozaVNic25ZTG8?oc=5"
-  },
-  {
-   "ts": "2026-10-04T20:30:19+00:00",
-   "title": "KNPC Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBuaGlhZnBMZXdESUlmdDdfT3NtWXo0SV9OYTFiU0FRNmJMZEQ0MmxiSmhfdkpETm1MSVJoTXdsLVpYOG9vc0hNT3BXLTM?oc=5"
-  },
-  {
-   "ts": "2026-10-04T19:30:19+00:00",
-   "title": "News",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QbjFOWXg2bHRJOXRudWdRU3VXSThWRGVMS2hTX1ZxOVFzYUhCWVpLVWxGTmIyYVMxYXczQXVtRHo5eWEzbGN6a0EtVDJ5cTJUUlVZbjhMMEhMOWVW?oc=5"
   }
  ]
 }
