@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-10-12T11:30:18+00:00",
+ "generated_at": "2026-10-12T12:00:26+00:00",
  "signals": [
+  {
+   "ts": "2026-10-12T12:00:24+00:00",
+   "title": "The Rise and Fall of Myanmar’s Ambassador to Thailand",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUDBKa19sWHNPYW5INkdBd3pVd25NaUh2QzBmdUdkQWlYSWJfWnZVb3BkSzFkZXQwN0VlRUdOT25qb0hOZUFlVURyNkJleFhRYTBrVUUxN2FCTk85WkJ2UVNWZEZQQlh3a2U5UmlwdWpxcU1FMHgtSnF0T3hyVUVkMDNUeGx2b0ctMVVhbEs1bFBNV1dLNjc3d093?oc=5"
+  },
+  {
+   "ts": "2026-10-12T12:00:24+00:00",
+   "title": "Hundreds of Myanmar Migrant Workers Barred From Returning Abroad Over Tax, Remittance",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWXd1V0lmQlNBQ1RVaXNxamF0WnZyYnVsWHYtQ1BESzd4VGNxLWR0M2dCbUpiellJZ1hCbjYxYkRiVnIxajFjRkRqUGpTd2ZWVWJaVWJXVmhqRVoxeWk1UmozOXhNNnNfV0lVanNDV1RPMUY2cXBqVHc3SWFmY1NwblF1cHhMa1U2RGVxWnI0Y253Q0taQnhKdUJWd2R1VlY0VGpnWVBVeUVyMWlGMlVwTmE0WmFsTVVlenhrTnRaX2p3bFV2?oc=5"
+  },
+  {
+   "ts": "2026-10-12T12:00:20+00:00",
+   "title": "ရခိုင်ကို ပိတ်ဆို့တိုက်ခိုက်တဲ့စစ်တပ်ဗျူဟာ အောင်မြင်နိုင်မလား",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cmwyvd7xyd5wo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-12T11:30:15+00:00",
    "title": "Fishermen harassed as Myanmar junta steps up naval offensives in Rakhine",
@@ -2100,27 +2121,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QbjFOWXg2bHRJOXRudWdRU3VXSThWRGVMS2hTX1ZxOVFzYUhCWVpLVWxGTmIyYVMxYXczQXVtRHo5eWEzbGN6a0EtVDJ5cTJUUlVZbjhMMEhMOWVW?oc=5"
-  },
-  {
-   "ts": "2026-10-04T19:00:59+00:00",
-   "title": "National Natural Disaster Management Committee Chairman Vice Chairman of State Administration Council Vice-Senior General Soe Win inspects earthquake-hit areas in Shan State (South), gives necessary instructions",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMlBDRjBLWWN4eUNjWk8zaER4ZkpCWHExOWIxc2VORHVhZlZ5NzA1VlVUdTgtQ1Q4NGJITHFDOTlMU0I2SGh2RFVBOUtyR2l6N01OeXFveTUwMS1iWjlJTjVQeVFMZXIxNFN2cldUbUd6S1lLNThBZU40eEEyRDdRV0NLVmVDTjlFYUllcG9EVDNRU0ZFMWxEb2pzZW9BV1RTNHJhRVRRZ0hpT3A5eGFPU183TVR0Y1FzZmlHQmNOQVRaUVU?oc=5"
-  },
-  {
-   "ts": "2026-10-04T19:00:59+00:00",
-   "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing addresses Union government meeting",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd2RsSURLTkloZXc3NDByV3RMcDBWLVlrMG9zdkVGMVU3TDJMaU9IQ3dfcXNMNWhfV0RoRWFmbkRZVEd2emdwMWhucWowY2REdHRHR0NRMDZLVG9wWk9iMzVnRkgxX09EeDE1cjNtSXotSDVhazBhd1p6bmhfTGFKZWZpdXRNZnhncFUzNzJ5YUlFcTVqNG1ERDZ4VDREYndLU0p3enVnel96R0E4di1F?oc=5"
-  },
-  {
-   "ts": "2026-10-04T16:00:22+00:00",
-   "title": "Emerald Bay Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5peDV4RjNDc1NXU0dxTVF2QnJ1V2hIRFJFTnlFTTlyQ0RDNlNKaVJDS0w2UWxUdnAtcUhXaEhIYWxkOTN0U0NMSzdBWGRtUkFTMG8za3RR?oc=5"
   }
  ]
 }
