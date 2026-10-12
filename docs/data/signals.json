@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-12T00:30:25+00:00",
+ "generated_at": "2026-10-12T01:01:00+00:00",
  "signals": [
+  {
+   "ts": "2026-10-12T01:00:17+00:00",
+   "title": "အယ်လ်နီညိုဖြစ်စဉ် အားကောင်းလာနေ၊ ဒီဇင်ဘာမှာ အမြင့်ဆုံးရောက်နိုင် - WMO",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.co.uk/burmese/live/cr9dzexd218yt?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-11T21:00:24+00:00",
    "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing holds talks with Prime Minister of Socialist Republic of Vietnam Mr. Lê Minh Hung",
@@ -2114,13 +2121,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iZ2VCbk5mUmJrZUk4d3Jvd1ZUZ2N4TGZVRHdyZC1CTzNPM09vRDNaa1V5MnJ0Z1JQeGVtWkZXMXRkODRiYnNtODFadVpSWlBiS1JER1NmckNXZHZw?oc=5"
-  },
-  {
-   "ts": "2026-10-04T05:00:26+00:00",
-   "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing inspects undertakings for the development of Nay Pyi Taw, Union Territory, in accordance with urban characteristics",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMzhQeE1tMkYtY0lTcFRtcEFGNHBVLUtVRmItdldlX1ZkQ1BTZ3VQbHlfWlNGR2pwVC1oeERNcTRqMVlKT0hTVUkxRGlXcmxmamtaMV9aTldxRUstT2hJaFltQUxsWm5nZl9zWmRrd1NOZHRKRzNkV0ZYWnFoODlfTkJHSTAtRGdiSHIzUGhFRUhDbm5najUxVVhGYnFGdDcyRmR6aGtNdDJWdTh2QWZXa0Z5ZjNtWG1XdUw0?oc=5"
   }
  ]
 }
