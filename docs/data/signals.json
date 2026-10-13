@@ -1,6 +1,41 @@
 {
- "generated_at": "2026-10-13T14:30:24+00:00",
+ "generated_at": "2026-10-13T15:00:26+00:00",
  "signals": [
+  {
+   "ts": "2026-10-13T15:00:21+00:00",
+   "title": "စစ်တိုင်းအပြောင်းအလဲတွေကပြတဲ့ မြန်မာပြည်တွင်းစစ်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cmgjqj8dj5zwo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-10-13T15:00:21+00:00",
+   "title": "ရခိုင်ပြည်မှာမနေချင်လို့ ခိုးထွက်ကြသူတွေ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/ck780gpdvg67o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-10-13T15:00:21+00:00",
+   "title": "ရန်ကုန်က HIV ကူးစက်မှု၊ လူငယ်တွေစိုးရိမ်ချက်နဲ့ ပြည့်တန်ဆာနှိမ်နင်းရေး",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cgrvxr41z8xo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-10-13T15:00:21+00:00",
+   "title": "\"စက်ရုံပိတ်ရင် ဘာလုပ်စားရမလဲ\"- အလုပ်ဆက်ရရေးမရေရာတဲ့မြန်မာအထည်ချုပ်လုပ်သားတွေ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cmn45232pg8go?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-10-13T15:00:21+00:00",
+   "title": "အမေရိကန်က နေပြည်တော်နဲ့ ဘာကြောင့်ပြန်ထိတွေ့ဆက်ဆံလာသလဲ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cqy0rp5jlk3ko?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-13T13:00:28+00:00",
    "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing gives the keynote review and guidance address at handover and practical demonstration ceremony of technological projects completed by the Myanmar Space Agency (MSA) during the 10",
@@ -2106,41 +2141,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/ck7v4gn47pl5o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-05T11:00:18+00:00",
-   "title": "ထရမ့်နဲ့ ရှီ ထိပ်သီးဆွေးနွေးပွဲ - အရေးအကြီးဆုံးကိစ္စတွေပြောဖြစ်ခဲ့ကြလား",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c3ew9eqvk1exo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-05T11:00:18+00:00",
-   "title": "အီရတ်ကနေ အမေရိကန်ထွက်ခွာတာ နှစ် ၂၀ ကျော်အကြာ ဘာတွေချန်ထားခဲ့နိုင်လဲ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cqj9xm3n4702o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-05T11:00:18+00:00",
-   "title": "ဒူဘိုင်း -တဲလ်အဗီပျံတဲ့လေယာဉ်က ပိုင်းလော့ကိုဓားနဲ့ထိုးသူအကြောင်း အစ္စရေး၀န်ကြီးချုပ်ဘာပြောလဲ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cm0qxqg9jgyko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-05T11:00:18+00:00",
-   "title": "ခရစ်တာ ပိုက်ခ် ရဲ့ ကွပ်မျက်မှု မအောင်မြင်ခဲ့တာ ဘာကြောင့်လဲ၊ ဘာတွေဖြစ်လာနိုင်လဲ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cxj0606p9q93o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-05T10:30:19+00:00",
-   "title": "APTERR Tier 3 Rice handed over to AR",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9nQ1dFM1ZpQU1uVU5BVFVJbTZKWmNuYi00SXFOWlBya25KbE5pWjhoRmhuRWQ1WVItS3FUZkxRMVZWWVVydGdPY0s1ZHVGVEJGSlFMdjdpVTJjdXo0TzJ6Q294aU5DNmlZY2hXdENR?oc=5"
   }
  ]
 }
