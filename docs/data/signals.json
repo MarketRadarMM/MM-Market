@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-13T10:00:24+00:00",
+ "generated_at": "2026-10-13T10:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-10-13T10:30:17+00:00",
+   "title": "ရခိုင်ကို ထိုးဖောက်လိုသည့် စစ်တပ်က နယ်မြေထိစပ်နေသည့် မင်းတုန်းတွင် ဗုံးကြဲ၊ ၃ ဦး‌ သေဆုံး",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81749/"
+  },
   {
    "ts": "2026-10-13T10:00:19+00:00",
    "title": "Six civilians killed in Myanmar junta airstrikes on monastery and villages in Sagaing",
@@ -2134,13 +2141,6 @@
    "source": "Myanmar Now (MM)",
    "markets": [],
    "url": "https://myanmar-now.org/mm/news/81605/"
-  },
-  {
-   "ts": "2026-10-05T08:30:16+00:00",
-   "title": "Rescue efforts stepped up in flood-hit Taninthayi",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zdDJURWNnZHlqZHZ0c2JvY2RXYWFBTzFwaU9Rd3lCUXQzS3dLWUhWSGRxNFp4M3hjNjkwZHktcXZHUW1QUUFXd0Y1czZnazhEYkM2WXdlY3pQdVltRExSak95STFFWWduVDhmSHlSZ3JjM1d5QThFMkRWYzNxMkE?oc=5"
   }
  ]
 }
