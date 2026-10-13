@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-10-13T09:30:20+00:00",
+ "generated_at": "2026-10-13T10:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-10-13T10:00:19+00:00",
+   "title": "Six civilians killed in Myanmar junta airstrikes on monastery and villages in Sagaing",
+   "source": "Myanmar Now (EN)",
+   "markets": [
+    {
+     "market": "pulses",
+     "direction": "bullish",
+     "confidence": 0.55,
+     "rationale": "Conflict in bean/sesame heartland threatens supply"
+    }
+   ],
+   "url": "https://myanmar-now.org/en/news/six-civilians-killed-in-myanmar-junta-airstrikes-on-monastery-and-villages-in-sagaing/"
+  },
   {
    "ts": "2026-10-13T07:00:23+00:00",
    "title": "ဘီလာရု Archives",
@@ -2127,13 +2141,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zdDJURWNnZHlqZHZ0c2JvY2RXYWFBTzFwaU9Rd3lCUXQzS3dLWUhWSGRxNFp4M3hjNjkwZHktcXZHUW1QUUFXd0Y1czZnazhEYkM2WXdlY3pQdVltRExSak95STFFWWduVDhmSHlSZ3JjM1d5QThFMkRWYzNxMkE?oc=5"
-  },
-  {
-   "ts": "2026-10-05T08:30:16+00:00",
-   "title": "MRF warns rice traders to ensure price stability and avoid irregular trading practices",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb2RybHVkTndPb1VQeDdSRkktN08xSzlESElsZ0NpY21XZjNIOW1aMktPSE5IN05GVVlUSThraEZLQlRXOHJhLV9WR3RQSUVoVkRUNWRBTWZzSGkwY2NBdTRwQmFueHdna1JHM0g5clk4YURuSnpBeUwxU2hxNldBel9HRWw4Ml8yNkc0d1U1RWdYS2dMNW1UOVJieUlGTnp5ZXY0d2U5b096SFBISDctNg?oc=5"
   }
  ]
 }
