@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-10-13T20:00:27+00:00",
+ "generated_at": "2026-10-13T20:30:23+00:00",
  "signals": [
+  {
+   "ts": "2026-10-13T20:30:22+00:00",
+   "title": "Dawei Airport Upgrade to Speed Exports",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSQ3U1NEswMzJpTHd6ejFlS3hQVExQNXplZ2xINTZNRFY3MERMbUswbkNKUGtkZXpZVWtpemllWVVlTWwtc3o4amlDUEFMbXdWRE56RC1DU3ltNkl0ZldtX2ZCbm1vM3JKV09Rc05Rbjg?oc=5"
+  },
+  {
+   "ts": "2026-10-13T20:30:22+00:00",
+   "title": "Capability and Inclusion Named Essential to Disaster Resilience",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeFFZQTFVeEFSZnJvVGxjNFhGbWM3YlFFd09VQjh3MVFITnN3RVZUVGI0XzhuNWE4YlJOSjBvNXNsUGY4cGNBZGhNbFRwcENhalZtTElmTnVWdTMydjA2eGROYW12QWRybVFpNGtiQkp3alJhc0FRUHFIUzRhb1lQUkQ4VnVPRGIzeklhMFhxVUNVUQ?oc=5"
+  },
+  {
+   "ts": "2026-10-13T20:30:22+00:00",
+   "title": "လူမှုဗေဒ Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRk5KU0ViRHRncFRMTm02SXhyYTJuT1dtLXdZaXg3STc5UmZyUkZsQ1F3LUNuVHJvZnduR0pKYlREZDk0NWR6cXp5Tm5mVkNaSTJ1dExsUXZ0NnN0WHZ1MXo4Z0VkcFFNZUVRSkN5MjR1QlhwbGE4OVJHeG9ONlRMVFBFTFdDSC13cV82S0Q5dnpmcmMxQk1RSXpfbnFGdEI0U0lBWXA5Yw?oc=5"
+  },
   {
    "ts": "2026-10-13T16:00:25+00:00",
    "title": "Wahnet elephant camp provides tourism activities for visitors",
@@ -2120,27 +2141,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdWVyTFJhWVA3VWZHRTByX0xXOVVZUF94VV9DSEV6eTlYQ2ZsV2R0bHczdGMyU3FWTG13Q1F5U0R1VGV5eXozWUxLODVtZ2dlOEx5UV9JdmhWdjlfR01aYmJHbU5BaXFBVURpMFJaakNVNUZvMHZqQ1FzenhKa1FTaW94TDhCM3JoOVNjYkZQak4wa1VhQkZJQVpSRURkZG1NYTBTVTUwU1B4WVRwTjd0bzhSLU0zWVRwbUdrNkRhakhZZ2Vid3RZWDFOTXNaYTIyaXdVOHpCb0piRDQ?oc=5"
-  },
-  {
-   "ts": "2026-10-05T11:30:21+00:00",
-   "title": "HRPS to generate 8 MW to national grid when complete",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMFgzcllBZDVpLXF3eUhMNUNCRnI0N1BSUVhJcGh4VUl4bVVQbGNlamlYdGkwTGtsZWJ3UjZMS2pkdXlVd1ozYWgzckRHXy1qN3cycTQ3c2VCNUgzTXVjclY5WGpnTDFuaFdranFjZVd0RjdJQlkwdkFWNW91d0MyOVJ0Yw?oc=5"
-  },
-  {
-   "ts": "2026-10-05T11:30:21+00:00",
-   "title": "First female train drivers assigned to Yangon Circular Railway Line",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN215MG1RclNzaFBiQnlxQ1NQYjE1WmxjMTRXQlVPcFBrZk4wUE5BZk1TUi1tUWxWQ3lTdU9ORHoyUU5HdHBtRFZTMTVMdWRtazIyLXZuMV95TEM5aUV2OHkyYWstWDB1NHVJY3BPZW1Yck5fSGdBWEk3aUstQVFUYnpqcEpPVmtjcGFpX255NlFPaUxoSG9J?oc=5"
-  },
-  {
-   "ts": "2026-10-05T11:30:21+00:00",
-   "title": "All hotels and guesthouses fully reserved in Bagan for Thadingyut holidays",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMTA0RWdlNkVEVHBqeGJkQURLdDU3WWlydEhaZHN2WklIYW1abjdyeEZRYVRWVXRKT3p2WVFkdTk5X1EzenhuSXhtTUhNNDVxakJqbUFtRC0xRWRkYU93amlpTzJkRlFRME9lSXZiYXdzRmJvX29FRTBUU1JXcmNiSThjaTNIMmlKWTNfenVIRXNzc2sxSWpaVVFMOWVBSzJx?oc=5"
   }
  ]
 }
