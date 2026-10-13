@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-13T11:30:27+00:00",
+ "generated_at": "2026-10-13T12:00:25+00:00",
  "signals": [
+  {
+   "ts": "2026-10-13T12:00:20+00:00",
+   "title": "ဂျီနိုဆိုက် ကျူးလွန်းကြောင်း မြန်မာကို ICJ ဆုံးဖြတ်မှာလား",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cm3wvxnwdp9po?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-13T11:30:24+00:00",
    "title": "China sentences to death Myanmar scam clan members",
@@ -2134,13 +2141,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/cmgjqj8dj5zwo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-05T10:00:21+00:00",
-   "title": "ယနေ့မှစ၍ လာမည့်နှစ် ၂၀၂၇ မိုးကာလအထိ လျှပ်စစ်မီးအလှည့်ကျသာပေးတော့မည်",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81609/"
   }
  ]
 }
