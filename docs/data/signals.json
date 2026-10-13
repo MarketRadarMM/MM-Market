@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-13T11:00:20+00:00",
+ "generated_at": "2026-10-13T11:30:27+00:00",
  "signals": [
+  {
+   "ts": "2026-10-13T11:30:24+00:00",
+   "title": "China sentences to death Myanmar scam clan members",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/china-sentences-to-death-myanmar-scam-clan-members/"
+  },
   {
    "ts": "2026-10-13T10:30:17+00:00",
    "title": "ရခိုင်ကို ထိုးဖောက်လိုသည့် စစ်တပ်က နယ်မြေထိစပ်နေသည့် မင်းတုန်းတွင် ဗုံးကြဲ၊ ၃ ဦး‌ သေဆုံး",
@@ -2134,13 +2141,6 @@
    "source": "Myanmar Now (MM)",
    "markets": [],
    "url": "https://myanmar-now.org/mm/news/81609/"
-  },
-  {
-   "ts": "2026-10-05T09:30:18+00:00",
-   "title": "စစ်ကြောင်းနှင့်တိုးစဉ် ဖမ်းဆီးခံခဲ့ရသည် မကွေးဒေသခံ ၁၂ ဦး၏ ရုပ်ကြွင်းများ သုံးနှစ်အကြာတွင် ပြန်တွေ့",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81605/"
   }
  ]
 }
