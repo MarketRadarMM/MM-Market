@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-13T02:00:21+00:00",
+ "generated_at": "2026-10-13T02:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-10-13T02:30:19+00:00",
+   "title": "13 October 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYSDFBR3ZZTlI1WEhmSk9jNk5VTWU5TU5pYmhXbjcxeVRCZThvUlNoS1hzUjR3dF9OMGpFV1B1R2lyRjZReF8xY09kbVhtWjdvOXc?oc=5"
+  },
   {
    "ts": "2026-10-13T02:00:19+00:00",
    "title": "Guest Column | Between Bombs and Red Carpets, the ‘ASEAN Way’ Is Failing",
@@ -2127,13 +2134,6 @@
    "source": "Myanmar Now (MM)",
    "markets": [],
    "url": "https://myanmar-now.org/mm/news/81602/"
-  },
-  {
-   "ts": "2026-10-05T06:00:23+00:00",
-   "title": "Message sent by President of the Republic of the Union of Myanmar Agga Maha Thray Sithu Agga Maha Thiri Thudhamma U Min Aung Hlaing to the ceremony to mark World Teachers’ Day 2026 (5 October 2026)",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUEQ0NGhlRHl6b3BLWHdTZTBEZmhvdWM3cnk4VE9oYVFDdk1iZERHSTgya2NyRDc1QTNmMFpiaUpIYjB3LXhrQUdvZTRwSEhlYVRkbFUxbEJZX19TUFVrNjJ3bHlydEFIZXI0aEJ4ZF81OEtkVXhHaENWSVM1WEp6RVZPTDdQdjJrQ19fLUNIb0tuVVNsLTJZVGNHNGthNDBRYW1YdDQxVXhUUlU1WHVfRXN2MmtPekhOYUlReA?oc=5"
   }
  ]
 }
