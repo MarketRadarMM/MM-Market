@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-13T06:30:19+00:00",
+ "generated_at": "2026-10-13T07:00:25+00:00",
  "signals": [
+  {
+   "ts": "2026-10-13T07:00:23+00:00",
+   "title": "ဘီလာရု Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT3Utc054MWIyY1QtN2FBaElKZ1lQUmZkWlN1amZfMFphcXo4dlIyQU9ia0Q3bk1iUkRUb1JoRnA5X2I1R3JvZUx5YTk1Sy1jOTZYV0ZsbU9xSGpjTnFQQlRweFhyc2pKMlFLRzlqSlp2LWRtbk9jR0w2SmVoSDluTnBuY1pYSTFmSFdQZjJsQQ?oc=5"
+  },
   {
    "ts": "2026-10-13T02:30:19+00:00",
    "title": "13 October 2026",
@@ -2127,13 +2134,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb2RybHVkTndPb1VQeDdSRkktN08xSzlESElsZ0NpY21XZjNIOW1aMktPSE5IN05GVVlUSThraEZLQlRXOHJhLV9WR3RQSUVoVkRUNWRBTWZzSGkwY2NBdTRwQmFueHdna1JHM0g5clk4YURuSnpBeUwxU2hxNldBel9HRWw4Ml8yNkc0d1U1RWdYS2dMNW1UOVJieUlGTnp5ZXY0d2U5b096SFBISDctNg?oc=5"
-  },
-  {
-   "ts": "2026-10-05T07:00:20+00:00",
-   "title": "ပုဏ္ဏားကျွန်း စစ်ဘေးရှောင်စခန်းများကို စစ်တပ်က ဗုံးကြဲ၊ လူ ၆ ဦးသေဆုံး",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81602/"
   }
  ]
 }
