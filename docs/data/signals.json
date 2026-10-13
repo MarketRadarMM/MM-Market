@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-13T21:00:24+00:00",
+ "generated_at": "2026-10-13T21:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-10-13T21:30:17+00:00",
+   "title": "Passport Online Booking System suspended on 5 December",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM3J1ZkFvcW9lMmJod09zRkNJMTNyRHBnWFpISndUc1hhYjRDUUR2RlpXcklyTnJ2Qi1XNk9qN0FTczlhZHVJWEkySUYydUVYXzlWdUxta184TVF0Nm5jUUdEM05rLTZhSVNwX1ZMTzlxSVBQTFdKdHJteUdVYmNxVEZOZWx0QQ?oc=5"
+  },
   {
    "ts": "2026-10-13T21:00:23+00:00",
    "title": "Latha BEHS 2 Marks Signboard Launch, Receives Material Donations",
@@ -2134,13 +2141,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYlJmdWFycWREamdqdGpEbW5KTTVzX1p2TXFhNWpaaFNjaG9TYnZPM19mcFNTWjlsY3B6WnJmazFmRkhUT0h0WkYyal9kUW5aVXVuQWdvekZiZkFBWnUwMVhtS2dMZXNoczhXSEUzUGlndjF5TlJQVEsxdnBwTVhMVjBnOXNBbUF6dER1bTlvRUd0QmZQQ0FsTXc4TlRaOEU?oc=5"
-  },
-  {
-   "ts": "2026-10-05T13:30:19+00:00",
-   "title": "Myanmar Regime Begins Rolling Blackouts as ‘Super El Niño’ Heat Intensifies",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQXzEyZy1nYlRxZDJKSU94UTVOQkZGbV9lMTVfdzhGMFU5WGhrNXZZOFM3cXNSS2JqNlQxbm1hZTVLY0kzMjdub2pQVWFVdnQ3blJXRTVEYlpTUzc0c05JaVplSWVXR0JkZDJkNWFnb01MU1pkLUZhbXdYbk52bEdUUWFQVnpMNkdROVBldkp3Z2tXcmtZVDNjYVdEMUYyaUZvLTBZNzFoOGZmQXlpeE4xNUU3SlpUUQ?oc=5"
   }
  ]
 }
