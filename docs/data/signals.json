@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-13T22:30:20+00:00",
+ "generated_at": "2026-10-13T23:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-10-13T23:00:22+00:00",
+   "title": "17th ASEAN Chiefs of Defence Forces’ Meeting (17th ACDFM) held in the form video conference, Senior General Min Aung Hlaing takes part in the discussions",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBkV25LSVVLVW1zNWJESFpqekdEVGRYQTg4WWlKVjhGaXFGOERkSFR3VHpENVJFX2c1WjhtQXI4NWNSam5pZVE0aWFtbDY?oc=5"
+  },
   {
    "ts": "2026-10-13T21:30:17+00:00",
    "title": "Passport Online Booking System suspended on 5 December",
@@ -2134,13 +2141,6 @@
    "source": "Frontier Myanmar",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZXpSWi1PcVFfV21nZFJoSTNHTkdNOVl1cFFJQ29xaHFicHNQM2J0Q1FvUC1tWHlTTkVJRHV6Qmx6Rll3bUR4bGtCT0MxUHNuVGt0aUwza0dCdkFESl93ck1XaS0wZmlNTVRvaDVRbTVlUHJReGZjcElfM014bElweW9UMkc4TFJQN1VDRlZ4VC1IVUx4YTlDYjZB?oc=5"
-  },
-  {
-   "ts": "2026-10-05T13:30:19+00:00",
-   "title": "Grisly Find Points to Myanmar Regime Massacre Near Bagan",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYlJmdWFycWREamdqdGpEbW5KTTVzX1p2TXFhNWpaaFNjaG9TYnZPM19mcFNTWjlsY3B6WnJmazFmRkhUT0h0WkYyal9kUW5aVXVuQWdvekZiZkFBWnUwMVhtS2dMZXNoczhXSEUzUGlndjF5TlJQVEsxdnBwTVhMVjBnOXNBbUF6dER1bTlvRUd0QmZQQ0FsTXc4TlRaOEU?oc=5"
   }
  ]
 }
