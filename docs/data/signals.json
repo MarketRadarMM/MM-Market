@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-13T12:00:25+00:00",
+ "generated_at": "2026-10-13T12:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-10-13T12:30:16+00:00",
+   "title": "''ထိုးစစ်အတွက် ရုရှား ဦးကျိုးနေပြီ'' လို့ ယူကရိန်းကာချုပ်ဟောင်းပြော",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c6vgjpn8yrkxo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-13T12:00:20+00:00",
    "title": "ဂျီနိုဆိုက် ကျူးလွန်းကြောင်း မြန်မာကို ICJ ဆုံးဖြတ်မှာလား",
@@ -2134,13 +2141,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/cq1kxyn374z3o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-05T10:30:15+00:00",
-   "title": "စစ်တိုင်းအပြောင်းအလဲတွေကပြတဲ့ မြန်မာပြည်တွင်းစစ်",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cmgjqj8dj5zwo?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
