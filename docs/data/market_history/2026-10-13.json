@@ -1,0 +1,228 @@
+{
+  "fetched_at": "2026-10-13T02:45:21.694235+00:00",
+  "tiers": {
+    "official": {
+      "my": "တရားဝင် (ဗဟိုဘဏ်)",
+      "en": "Official (CBM)"
+    },
+    "exchange": {
+      "my": "စတော့အိတ်ချိန်း",
+      "en": "Exchange (YSX)"
+    },
+    "global": {
+      "my": "ကမ္ဘာ့ဈေးကွက်",
+      "en": "Global market"
+    },
+    "community": {
+      "my": "လူမှုကွန်ရက်",
+      "en": "Community-reported"
+    }
+  },
+  "tical_troy_oz": 0.5339,
+  "cbm": {
+    "tier": "official",
+    "status": "ok",
+    "note": null,
+    "rates": {
+      "USD": 2100.0,
+      "EUR": 2352.95,
+      "SGD": 1640.82,
+      "THB": 62.57,
+      "CNY": 313.79,
+      "JPY": 1325.38,
+      "MYR": 514.26,
+      "INR": 21.93,
+      "KRW": 157.7,
+      "AUD": 1465.8,
+      "GBP": 2781.14
+    },
+    "per_100": [
+      "IDR",
+      "JPY",
+      "KHR",
+      "KRW",
+      "LAK",
+      "VND"
+    ],
+    "as_of": "2026-10-12"
+  },
+  "world_gold": {
+    "tier": "global",
+    "status": "error",
+    "note": "HTTP 404",
+    "xau_usd": null,
+    "as_of": null
+  },
+  "ysx": {
+    "tier": "exchange",
+    "status": "ok",
+    "note": null,
+    "index": "MYANPIX",
+    "close": 834.3,
+    "change": 8.17,
+    "change_pct": 0.99,
+    "volume": 7309.0,
+    "value_mmk": 45930250.0,
+    "listed": 8,
+    "market_cap_mil_mmk": 1582566.0,
+    "as_of": "2026-10-12"
+  },
+  "stocks": {
+    "tier": "exchange",
+    "status": "ok",
+    "note": null,
+    "as_of": "2026-10-12",
+    "stocks": [
+      {
+        "code": "FMI",
+        "name": "First Myanmar Investment",
+        "number": "00001",
+        "close": 19000.0,
+        "change": 500.0,
+        "change_pct": 2.7,
+        "open": 19000.0,
+        "high": 19000.0,
+        "low": 18500.0,
+        "volume": 501.0,
+        "value_mmk": 9354000.0,
+        "listed_shares": 33109694.0,
+        "market_cap_mil_mmk": 629084.0
+      },
+      {
+        "code": "MTSH",
+        "name": "Myanmar Thilawa SEZ Holdings",
+        "number": "00002",
+        "close": 8600.0,
+        "change": 0.0,
+        "change_pct": 0.0,
+        "open": 8500.0,
+        "high": 8600.0,
+        "low": 8500.0,
+        "volume": 3183.0,
+        "value_mmk": 27084600.0,
+        "listed_shares": 38929150.0,
+        "market_cap_mil_mmk": 334791.0
+      },
+      {
+        "code": "MCB",
+        "name": "Myanmar Citizens Bank",
+        "number": "00003",
+        "close": 12000.0,
+        "change": -500.0,
+        "change_pct": 4.0,
+        "open": 13000.0,
+        "high": 13000.0,
+        "low": 12000.0,
+        "volume": 180.0,
+        "value_mmk": 2247000.0,
+        "listed_shares": 10400986.0,
+        "market_cap_mil_mmk": 124812.0
+      },
+      {
+        "code": "FPB",
+        "name": "First Private Bank",
+        "number": "00004",
+        "close": 7000.0,
+        "change": 0.0,
+        "change_pct": 0.0,
+        "open": 7000.0,
+        "high": 7000.0,
+        "low": 7000.0,
+        "volume": 8.0,
+        "value_mmk": 56000.0,
+        "listed_shares": 31144738.0,
+        "market_cap_mil_mmk": 218013.0
+      },
+      {
+        "code": "TMH",
+        "name": "TMH Telecom",
+        "number": "00005",
+        "close": 3200.0,
+        "change": 0.0,
+        "change_pct": 0.0,
+        "open": 3200.0,
+        "high": 3200.0,
+        "low": 3200.0,
+        "volume": 57.0,
+        "value_mmk": 182400.0,
+        "listed_shares": 12823224.0,
+        "market_cap_mil_mmk": 41034.0
+      },
+      {
+        "code": "EFR",
+        "name": "Ever Flow River Group",
+        "number": "00006",
+        "close": 1750.0,
+        "change": 50.0,
+        "change_pct": 2.94,
+        "open": 1700.0,
+        "high": 1750.0,
+        "low": 1700.0,
+        "volume": 3110.0,
+        "value_mmk": 5287350.0,
+        "listed_shares": 19977223.0,
+        "market_cap_mil_mmk": 34960.0
+      },
+      {
+        "code": "AMATA",
+        "name": "Amata Holding",
+        "number": "00007",
+        "close": 4300.0,
+        "change": 300.0,
+        "change_pct": 7.5,
+        "open": 4300.0,
+        "high": 4300.0,
+        "low": 4300.0,
+        "volume": 5.0,
+        "value_mmk": 21500.0,
+        "listed_shares": 10497598.0,
+        "market_cap_mil_mmk": 45140.0
+      },
+      {
+        "code": "MAEX",
+        "name": "Myanmar Agro Exchange",
+        "number": "00008",
+        "close": 6500.0,
+        "change": 0.0,
+        "change_pct": 0.0,
+        "open": 6500.0,
+        "high": 6500.0,
+        "low": 6400.0,
+        "volume": 265.0,
+        "value_mmk": 1697400.0,
+        "listed_shares": 23804946.0,
+        "market_cap_mil_mmk": 154732.0
+      }
+    ]
+  },
+  "derived": {
+    "fx_premium": {
+      "USD": {
+        "official": 2100.0,
+        "street": 4500,
+        "premium_pct": 114.3
+      },
+      "THB": {
+        "official": 62.57,
+        "street": 135.32,
+        "premium_pct": 116.3
+      },
+      "CNY": {
+        "official": 313.79,
+        "street": 674,
+        "premium_pct": 114.8
+      },
+      "SGD": {
+        "official": 1640.82,
+        "street": 3526,
+        "premium_pct": 114.9
+      }
+    },
+    "fx_spread": {
+      "cbm_usd_mmk": 2100.0,
+      "street_usd_mmk": 4500,
+      "premium_pct": 114.3
+    },
+    "implied_xau_usd": 4220.5
+  }
+}
