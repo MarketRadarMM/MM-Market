@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-14T08:30:18+00:00",
+ "generated_at": "2026-10-14T09:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-10-14T09:00:21+00:00",
+   "title": "တာဝန်ယူမှု၊ တာဝန်ခံမှု ကင်းမဲ့နေကြသည့် ရန်ကုန် ဇိမ်ခံကွန်ဒိုမီနီယံ စီမံကိန်းများ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81760/"
+  },
   {
    "ts": "2026-10-14T08:00:19+00:00",
    "title": "Guest Column | Running for Cover: The Limits of Early Warning in Rakhine Air War",
@@ -2134,13 +2141,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdjRoQ1FvSVJVeHdzSG4ydVRVUktycXBMRlRuMVdNMFRfaW4tSmc1MjRMX2t0MDR6Vmp0LUZ5TlNfakRUbzhSZFZ5QTFod3ZaUlZHNE53Uk9RN0c0MmhKWGFvd2JqdUtIOGFwUlBVSWxCZmJsOThDcFNFekpWOGxSVWs2bzc0Wk1BRDRUN19vQTlITndkRmttdDlYRzJhWnpjRTNSRDVDUkZYX2pEY0J2c3FOblA?oc=5"
-  },
-  {
-   "ts": "2026-10-05T15:00:23+00:00",
-   "title": "Some Lessons Never End",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqQ0JULWppR3FtLVMzbC1BNmFKR1BJcnNKOWlOQWJ5ejNWbEI5NW1GR3BJTlhUanRGTHFIVUdKX2tLdmhtWDhFSkNlbDBEeE0tYWdLNXBVY0FES3c?oc=5"
   }
  ]
 }
