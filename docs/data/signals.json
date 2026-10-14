@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-14T14:30:22+00:00",
+ "generated_at": "2026-10-14T15:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-10-14T15:00:21+00:00",
+   "title": "Myanmar Junta Abandons Chinese Pipeline Amid Resistance Attacks",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOEk2SFlIWXIydWRFenAyZE53ZEk1R0piS2RESjNLUnk0Ri1LLWZXRHVxeFc1MUtvNG9hOGJrQ2NGVFpVYUpNOXlIU3JzYm5DUzZ6dG1EUVIxRXNFVmgzV0JsbWJmR05Ob1Y2SFp1QXJObnNkUEZGWmRXalBydUdzUTR4eXBIdmlCS3dQOUlqVTJLN2lldkNONjg0YmtaYzMtRmtGYWp6VHhJVDU3TkswWXlsQ0QyN3dIYXJ3NHVB?oc=5"
+  },
   {
    "ts": "2026-10-14T14:00:29+00:00",
    "title": "From the Archive",
@@ -2127,20 +2134,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVmtUR3BWX0lITWdHQlhlM3BOT0daMk9GT0Flc2luUjhRcWJvaG5JdkNaZWlCdWdPVUpNUjVqdThJZGkzYnhWZl9HeDZvNDVuSDRoSXo4d0haZlpKSWZEbU43Q2I3X184MjRKWkJPbVRUZjlfX0E2WXZ2V0ZFR21TeEhuVFJyYTJZOV9rYm1EZ3BjUFpGOVVpOEloQkhjQ2FOcGZUUzFMSjBZUFdKZjdBMVJ5b2c1Tl9SSVFzalhlYw?oc=5"
-  },
-  {
-   "ts": "2026-10-06T06:30:55+00:00",
-   "title": "စစ်ကိုင်းတိုင်း သဖန်းဆိပ်ဆည် ရွှေမျှောဖောင်များကို လေတပ်ဗုံးကြဲမှု ၆ ဦးသေဆုံး၊ ၃၀ ကျော်ဒဏ်ရာရ",
-   "source": "Myanmar Now (MM)",
-   "markets": [
-    {
-     "market": "pulses",
-     "direction": "bullish",
-     "confidence": 0.55,
-     "rationale": "Conflict in bean/sesame heartland threatens supply"
-    }
-   ],
-   "url": "https://myanmar-now.org/mm/news/81619/"
   }
  ]
 }
