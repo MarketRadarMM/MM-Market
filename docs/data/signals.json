@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-14T13:30:21+00:00",
+ "generated_at": "2026-10-14T14:00:31+00:00",
  "signals": [
+  {
+   "ts": "2026-10-14T14:00:29+00:00",
+   "title": "From the Archive",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90RGU4U1luTGJEdE0tUlRSYXYwQmlrRkU4Wkl3WTlHLVFWZFpHNWNPblFjck1hb1dHTzQxYUJOWEtYcF9zcEowSEYxZzlpWnF5SFNkM1ZQSnk0R0tFbG1jU2ZwRFpsQWZxbEE?oc=5"
+  },
   {
    "ts": "2026-10-14T13:30:20+00:00",
    "title": "Nine underwater fish condos and coral beds deployed off Ngwe Saung Beach",
@@ -2134,13 +2141,6 @@
     }
    ],
    "url": "https://myanmar-now.org/mm/news/81619/"
-  },
-  {
-   "ts": "2026-10-06T05:00:24+00:00",
-   "title": "Chairman of the Financial Commission President of the Republic of the Union of Myanmar U Min Aung Hlaing delivers address at Financial Commission meeting",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVEdaMThMVzZXdTZ0T3IyQ1NxNmZkVHZRRXJYYzNnVnZrVnE4YS1pb3B6OGRxRVktQWplNThlYkxCSXkzQnZQUVAyLXJBRVYwWU8tNHFCMC1ib1JDdGF0UmFld2RyTTFpRUxNREM3ZnlwZzM5MDExUVV6UFRaSkdyV21KOXpBSUlwclY4azZ5aGdqZldGOFdqRUxQUkZjVzFPcnR2S19wemdfZzF2bXAxeGNCZE95U0FHcTlTMw?oc=5"
   }
  ]
 }
