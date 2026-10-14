@@ -1,6 +1,55 @@
 {
- "generated_at": "2026-10-14T20:00:23+00:00",
+ "generated_at": "2026-10-14T20:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-10-14T20:30:19+00:00",
+   "title": "Dawei, Yangon, Pathein Ports Cast as Trade Hubs",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1UMkVRMEtkNkh0eTg5R2plZXBtcjFsNU5FdEZGNnpWeXBhemR4dm43cUtyVFBVY1FNRkRlQmIzLVZQM3ZjYUtzc1JPSllOdm5qSTlPMWhoZVY0ZG5XaXNzQ2hXS3VEY2NsSDhxbGd6NVFoS25fbGNNSW5R?oc=5"
+  },
+  {
+   "ts": "2026-10-14T20:30:19+00:00",
+   "title": "Thanlyin Refinery Phase I Commissioned",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1dHBSbDl5cExRMWdmY2tGTzUycm5VT2hFWTNaWldPMTJib0RWcjZyUGtLZndtbERMazJhQ3lLRlJCdTdsRUpSYnNiclpXZU1sbHF6TTNkcVlzemV2MTcyLW83T3dCLVF1SXBCMWo0QVY?oc=5"
+  },
+  {
+   "ts": "2026-10-14T20:30:19+00:00",
+   "title": "Myanma Gems Emporium sells 463 jade lots on 7th day",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxON0c0cTZNdDlEaTVFOWhjWTdKeW0yYnRrX0YtXzZub19fS2N1Z0hiMnFYQkRfUTRJSTlqRTV2YUU4ZXpJaFpjNklZaEJiM01KSFpaeTJVYjZiWGxWOTlUYUZ3a1RvUFM1ZDRVMGhjSXppZzc1bXk5c2NkempOd1YzbjB3?oc=5"
+  },
+  {
+   "ts": "2026-10-14T20:30:19+00:00",
+   "title": "MoFR Union Minister receives Chinese Ambassador",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOTDFMWjd4UEk2MkttbGtBMUtFcHp0cXV0TEQxME9KNXJTM2l1bXlIZWFwSU9KZWhMckMwUk9WOUNRTFVVME9lWERBcl9PQVNWYkVLSHk0UXZUODg0M1UyWXo1enk4Z2luSmdOQUp0NVM5MERvNXJIME1nSGpVb2s?oc=5"
+  },
+  {
+   "ts": "2026-10-14T20:30:19+00:00",
+   "title": "MoHA Union Minister attends 1st BIMSTEC Home Ministers’ Meeting",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSWFIVjF6OGI1SVRNUE9Lak1KOXFiaWFqbmllQmg4N01MVDNnZlhrc2I2TUsyUzlNbEtZSVJHUEVMcXpiYUc2TnVQdlMwSENFZnM4UTBCY283U1lVUTJmaTU3V0Rrd0czOWZkVTVvWTQ1V1JFWEhESHlJSVpoR0Q5VWdyY2NoU2dxQ3Bld2I4VU8?oc=5"
+  },
+  {
+   "ts": "2026-10-14T20:30:19+00:00",
+   "title": "UNDP Funds Quake-Hit Small Businesses",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BTXQxLUR3NHdfRkJwYWNBNzFBenluaWNIQnVmNXVPc3F2Q21pSVFxSnlCakRfQnJUdlJ3dm9XWC1DdmRrZHhpWHh0NzUxSGlCVDJubjJDcnZrN29OTnA2NlFmSmRvXzhaZkJjaU9EVQ?oc=5"
+  },
+  {
+   "ts": "2026-10-14T20:30:18+00:00",
+   "title": "WhtasHappensInMyanmar Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9TZFRhU2dLN1ZmSmV3Q3hSNnFzVjU0NEdWUXY5TlQ3dVpfNTNCa0p1TlJ6RlhDZzJiVlNNUDYyMURKUk5QVlU3TTg4MzdzOWRDSnB2X1JuMndVVkJzT2ZQU3pfdw?oc=5"
+  },
   {
    "ts": "2026-10-14T19:00:24+00:00",
    "title": "regional diplomacy Archives",
@@ -2085,55 +2134,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTXo1VmozVWdRNlpwM3l4dF9wQXZJUEd1a2tvTTZXbDNGM3NFRVR4eFZtVEN1WXpsNU1rMnBGelVxcHhhcjVVd1BTRDFqTkhsM2NYVVlXN2lpNVVkZG5PanBNTGs3bkxFZUdabkQtcUJqSlRTNVJwZW1MZnNqa0VQM25BMWVxbC02YzFtM1BkLWFTRU5MSGRBdlN4YThxWTViS2xXbWQzVFVxY3Z5YjdOWnFJZ3g3UUx1blNN?oc=5"
-  },
-  {
-   "ts": "2026-10-06T10:00:17+00:00",
-   "title": "‘သူ့ကို အဖေလို့တောင် ခေါ်ခဲ့ကြတာ’ - မသန်စွမ်းဂေဟာက လိင်အမြတ်ထုတ်မှု",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cmvgx5rnrd42o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-06T09:30:14+00:00",
-   "title": "Remains of 12 abducted Magway residents uncovered after 3 years",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/remains-of-12-abducted-magway-residents-uncovered-after-3-years/"
-  },
-  {
-   "ts": "2026-10-06T09:00:22+00:00",
-   "title": "Myanmar Business Trade Show, Travel Expo 2026 set for 4 Sept",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSldXMnJ1NUxodFQ5VzVnVmYwNU51eVlWY3FydjBydU1TQmM2RHNJQzRQeU43WTh6NDk2NUx4VW1SM0YwNTRheHRpbGFXbld6c3J6MEthM19wNFRZZERrM0xtdFNMWWVfZGpHTW1SQXpYMVZEVzlWZFczaVVUblRzdzNwb1Fuc3dIWUJacg?oc=5"
-  },
-  {
-   "ts": "2026-10-06T08:30:17+00:00",
-   "title": "Ta’ang Rebels ‘Building New Bridge to China at Namhkam’",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOTJlT0hXU3ZhcFpPT05EQ29YWWpuNmNSV1d5eGdUeXVrdFFLWHR6VEhIR01ORTRLaUNJQVB6WjZWYkZEY09wTjlOYU1pQTZ0LXZIVnFVdFZpWWtRVHhqNGFvQmFJRW03RnN2SldTQzNxaTN1Rk4zRXhvLWpMUnJYSGE5T1hyY2VhZWtrV3cyM2l4VTBFd1hVX0ln?oc=5"
-  },
-  {
-   "ts": "2026-10-06T08:00:20+00:00",
-   "title": "GLAMOS Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KWVBCSnpKWWJ1OTJ6LVY4R0M0MjdfSVlYSUplbk5wQllISEFrakxVc3FsNno1UmFrcG1KQmdNSG1iWU1CVDl1RjhTWG5TUTA?oc=5"
-  },
-  {
-   "ts": "2026-10-06T08:00:20+00:00",
-   "title": "Glacier Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ZR0lXc1pBRzNDNWhRSEhSZ1F3amVtbUVnVWZvWXZMS3RPcGViclFpbVpqVzFrekhkaDY4bXhWbmlRRFJWODFvTW9GUkdQNVdH?oc=5"
-  },
-  {
-   "ts": "2026-10-06T08:00:20+00:00",
-   "title": "iPhone 18 Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uU010bzlkaG5YMUg2TEluNDY0MDhzUXYwVmt1SDd0WmFERFg5ZXo1RGhOeTNHWXcwQ1cyc2dKLU1WYUdsdDhtdjE0ZzhELXF2QWFR?oc=5"
   }
  ]
 }
