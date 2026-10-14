@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-10-14T21:00:22+00:00",
+ "generated_at": "2026-10-14T21:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-10-14T21:30:19+00:00",
+   "title": "Stepping up efforts to achieve lasting peace",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52c25fYzVXZFVJUDNlTUlmQmJ5Y3B4WkFIYlZzRHBfRHdxSE81SW95Nm15Z3hLT29vNHdMSXAxSVU5Vm1HRkFfS0VlVkRXRnYtYjNlT0NLTExnWXZoM29PTWdlYUJBQklXYWpyNXk4aHFaMXc2OElKdA?oc=5"
+  },
+  {
+   "ts": "2026-10-14T21:30:18+00:00",
+   "title": "ဒီးဒုတ် ဒေါ်လှမေ Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPQmE0aVNSNG1xNVV2Z3BZeF8wbEZsT1NmVF9fajQxdGQ5SGVLV0hQblZMdUsydXZoMlhJLTBMa0wwM3dSRzQta3dNdXJtaVlaNk9TYktnYzY3dVYtaS1zWlhVVUNkOHNXSDYxTGZEZm1VeVRQZUJjMm5wQ21XSmdDazJwYlVJanlKeVp0XzYtdjQ1NUxsUWxiY2FYc0t4TDAwZktGOGdUcHhFdlhoTGhxN3p2RW13a0VBMGF2RGwzRnMyOTJYNjg3NUxFZ09VNWNONTh2RTRjTWhKTWxaMVNtTjRxWXBmTjhGVy1FdHFpS0FjemJPQXJlczZfNm0?oc=5"
+  },
   {
    "ts": "2026-10-14T21:00:21+00:00",
    "title": "Pyithu Hluttaw discusses road upgrades, doctor appointments and medical university proposal",
@@ -2120,20 +2134,6 @@
    "source": "Frontier Myanmar",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM0h4bHA0eUVCUmhETGFucVc3aGpOWjV3WnNXa1E4ZFpZVkh3N3VpZ0toYnU4Tzc3SGYxdUc4R1N5M25hNjQ0N1F6Q3M0ZTJlekZQREJuODBlcExqc2pua0JITmJmeGtjTm1yNXEtbElHQjAtcUlsN01Kb1FTS2NjSVh4bXdJMHRuRjMwNzRfZGFleVhsOUt0eQ?oc=5"
-  },
-  {
-   "ts": "2026-10-06T12:00:20+00:00",
-   "title": "Malaysia Warned Against Legitimizing War Criminal as Min Aung Hlaing Preps for Visit",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPS0tOYmY0cEZwR2dSZUlKS3JMajhNWWFPUDFHSW5VYVpNTlhzTndvZjVhdmtUano0MGZyNnlTZ3RmWmRQZDJFVVRFOHpiTExUbXhkUllEUXFfMEx6ZzdwcnVLR1hpdTgtempKN0ZuUXlXQy1hM1VmYVI1MHBwOWplTWo0SlE5Q05MaFd5aGV4MXhZZGZUejVFRUxHb1RUYTViVW1aQ1p4dmEwT3NIRUlLdWtoa045WGFVbVNiOXYyWWY3YklQS3FIS0QxYlViaXgtWjVOM1FISl9IOEVzUVFF?oc=5"
-  },
-  {
-   "ts": "2026-10-06T12:00:18+00:00",
-   "title": "Myanmar regime imposes electricity rationing amid severe shortages",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/myanmar-regime-imposes-electricity-rationing-amid-severe-shortages/"
   }
  ]
 }
