@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-14T18:30:22+00:00",
+ "generated_at": "2026-10-14T19:00:26+00:00",
  "signals": [
+  {
+   "ts": "2026-10-14T19:00:24+00:00",
+   "title": "regional diplomacy Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ncGItcDhoRE9ieEhGZnR1OW90ZFZjUF92WXg0ZFBXVjJtNUl2ZUxMVS0wc09kNUJTT2lRRURaUVZxc3NZY0FTNVlqS05rbXlBUHNpa3VpRDU2enVt?oc=5"
+  },
   {
    "ts": "2026-10-14T17:00:21+00:00",
    "title": "New Myanmar Regime Tightens Forcible Conscription Covering 13 Million Citizens",
@@ -2127,13 +2134,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uU010bzlkaG5YMUg2TEluNDY0MDhzUXYwVmt1SDd0WmFERFg5ZXo1RGhOeTNHWXcwQ1cyc2dKLU1WYUdsdDhtdjE0ZzhELXF2QWFR?oc=5"
-  },
-  {
-   "ts": "2026-10-06T08:00:20+00:00",
-   "title": "SEANF Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBzUlRhanRKc05RX0hudDBSc25qUml6SkZ0N0pFY1FDTVBkaUpXNG1MV2Z4RTBfX1dCengzazlzXzFlcG0yLWRfdXJlMA?oc=5"
   }
  ]
 }
