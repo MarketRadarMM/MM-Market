@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-15T05:00:19+00:00",
+ "generated_at": "2026-10-15T05:30:24+00:00",
  "signals": [
+  {
+   "ts": "2026-10-15T05:30:19+00:00",
+   "title": "ဂျပန်မှာ နိုင်ငံခြားသားတွေအမြဲတမ်းနေထိုင်ခွင့်ကြေးအဆ ၂၀ မြှင့်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cje3r3w0n1p9o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-15T05:00:19+00:00",
    "title": "Pancreatic cancer is terrifyingly deadly and there are almost no symptoms until it’s too late. But, analysing the dozens of patients I’ve treated, there ARE warning signs... including this specific back pain: DR PHILIPPA KAYE",
@@ -2127,13 +2134,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV1BJTXl0eF96SE5aOUpfQUkxOGk1WXNycl9MYnZEYzg5V1lrSV9NWnAxMjBtQ3dIOGI1Y09ENU9id2EzRUg5bER5LXRDTzBWY2E4bHFKQmFqdzJwRE4xbTBDaFNWdFUwN1NISXZ0VTQ2Skh5TWxfNUlrQnoyS2tTM2lVMU1Qb2V3ekpEUkhUa2RmSzV0OWJ0TGN5clg1ZnFRelE?oc=5"
-  },
-  {
-   "ts": "2026-10-06T23:30:23+00:00",
-   "title": "DCA warns of unofficial air ticket sales",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB3NkMyZnppRmlhT28yYUo1elhLTUdMNFJjM2R3SjdnU3JSUkFLSy1BdXVCd2tKVl9YWHdfNjBROG5RM3ozUjJ3Wmp3RFRNOVl6UUptYzVuaEVkNUJVQmdTTFZPRFEtQnZQM3lZZUEwcmRtcWM?oc=5"
   }
  ]
 }
