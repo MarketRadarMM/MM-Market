@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-15T11:30:19+00:00",
+ "generated_at": "2026-10-15T12:00:27+00:00",
  "signals": [
+  {
+   "ts": "2026-10-15T12:00:21+00:00",
+   "title": "တရုတ်လာစိုက်တဲ့မယ်ရီဂိုးပန်းခင်းတွေနဲ့ ဈေးနှိမ်ခံရတဲ့ရှမ်းတောင်သူတွေ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cw4g17k13415o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-15T11:00:21+00:00",
    "title": "မြင်းခြံခရိုင် တော်လှန်ရေးအဖွဲ့အချင်းချင်း လက်နက်ခဲယမ်း ရောင်းဝယ်မှုမပြုရန် NUG တားမြစ်",
@@ -2146,13 +2153,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY1BVU1RxRUpmNWdzemh5S293YlJXUVpHcVpHUkl1OTlNWU5PUVNqendmUXYtNzM2WkdTWEsxWDVVbWxRWjAwUW13TUZXNUVvNHlIc1Q2X21RdHd4X3gxdlJ1bDhvcG83c0FLdmYzd093eW9fWkNtdTROTkZsQVNuMzM3Q0ZZZWU1UmV2WTREYzNIY2Jkbi1nVEF3bU0wbnF0dWhURlcwUC0zRU51WHJBbE9od2UwSHdPWkFkUA?oc=5"
-  },
-  {
-   "ts": "2026-10-07T05:30:16+00:00",
-   "title": "Myanmar junta leader to visit Malaysia after migrant returns begin",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/myanmar-junta-leader-to-visit-malaysia-after-migrant-returns-begin/"
   }
  ]
 }
