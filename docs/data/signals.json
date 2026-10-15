@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-10-15T08:00:29+00:00",
+ "generated_at": "2026-10-15T08:30:24+00:00",
  "signals": [
+  {
+   "ts": "2026-10-15T08:30:23+00:00",
+   "title": "Myanmar Regime Denies Drafting College Students Into Army",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOFVIeDM5Q21KOXZ3N3VSMTRoUW9XVk5rTm1IUTRDczBYbWVpb1UwcXNvN2hldlp2VWh2TVdrT3pHWW1qLVVrbUlDYlpvV0hsMm15Rk9zVW9xeWc1SFlWTFN0M1haRndzT1UxazBJRVFtSncwXzl1RTAxazV5TGNqbm4takJPd2huRDg4ZE03cU9fWUZzV1htNDRPcWFlZ0Jn?oc=5"
+  },
+  {
+   "ts": "2026-10-15T08:30:21+00:00",
+   "title": "KIO/KIA rejects Myanmar junta’s offer of peace talks",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/kio-kia-rejects-myanmar-juntas-offer-of-peace-talks/"
+  },
   {
    "ts": "2026-10-15T08:00:29+00:00",
    "title": "Chairman of State Administration Council Prime Minister Senior General Min Aung Hlaing graces ceremony to mark the Centennial Anniversary of Economics Education in Myanmar",
@@ -2139,20 +2153,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.co.uk/burmese/live/crd6dvl17y7gt?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-07T00:30:19+00:00",
-   "title": "Pyithu Hluttaw Speaker meets YR MPs",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3Ni1FdmFNbkp6YmxLTkh5c1licHEzYXVoRVZtZl9qLWc1TTgyUzVsVDFyaHd6bUdaZFdRUjZOeXVkSGNwYWc2anlISWpLNXlvWnZLMVdyVmcwcDNyRE96YzlfTEhESXplYnlKQg?oc=5"
-  },
-  {
-   "ts": "2026-10-07T00:30:19+00:00",
-   "title": "Contributing to productivity of the State through agriculture sector",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSTlLTWZqbnpQekhoamNZZDV6bWdlYS1EN2p3aE1neWlTRVR3V2h5c29Ndm5lOTkzOEFhdFozOEtEMGNDWHNkN2FqUXkybmY4MGNsc0g3bmZrbXpCQTRRTWd5NHR6UmVuSGVlVGlmWEpZcUlQS0w0WThOZ2lkRFlpd0oxZy1jNkNLSE5URXY5bDlXY04zRjlhcQ?oc=5"
   }
  ]
 }
