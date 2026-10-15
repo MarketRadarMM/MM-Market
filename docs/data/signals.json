@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-10-15T07:00:22+00:00",
+ "generated_at": "2026-10-15T07:30:24+00:00",
  "signals": [
+  {
+   "ts": "2026-10-15T07:30:20+00:00",
+   "title": "တရုတ်နယ်စပ် ကုန်သွယ်ရေးဂိတ်များကို TNLAနှင့် MNDAA အပြိုင်အဆိုင် အဆင်မြှင့်တင်နေ",
+   "source": "Myanmar Now (MM)",
+   "markets": [
+    {
+     "market": "pulses",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "China border trade affects bean flows"
+    },
+    {
+     "market": "rice",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "Border status affects rice exports"
+    },
+    {
+     "market": "fuel",
+     "direction": "neutral",
+     "confidence": 0.45,
+     "rationale": "Border routes also carry imported goods"
+    }
+   ],
+   "url": "https://myanmar-now.org/mm/news/81778/"
+  },
   {
    "ts": "2026-10-15T06:00:21+00:00",
    "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing inspects operational capacity and potential expansion of Myanmar's port sector",
@@ -2127,13 +2153,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONHA3Q0xrcGVuZFF6MlFqdGFybnhXd0pFb1hQREVkWnJjQ1RQaXhPTEhxS1hmS05VdGs5WkowdmR1VVRLVk5HTm5vUjBWOHNaMXVBOWRvY0tWZC14OFd4N3RaMU92QldGcDNGdGZVQ3NndU95ZkNmZFFuNTU3UnE2ZjBfUE1qSXM?oc=5"
-  },
-  {
-   "ts": "2026-10-07T00:00:24+00:00",
-   "title": "Registrations open for Pyaing Sann Badminton Tourney 2026",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMEgyY2wzNFQ4b3dFQWhnaUx3WmdhSEhwUU1iTTZ0MEU1Y0hWMnN6ekNJcmd2RVUtbFRid2pHY05ZbFpqazVVYy1wc3piZEg2UEExd1ZSUjJRcnZuRkp5Wk9YVXF0bm5BMTd0cHpvUDBEd1ZIWjhlcF9DOUZuNThZamYzOW5mN2NSSEkwdg?oc=5"
   }
  ]
 }
