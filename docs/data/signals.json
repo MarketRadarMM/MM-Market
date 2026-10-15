@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-15T15:30:28+00:00",
+ "generated_at": "2026-10-15T16:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-10-15T16:00:21+00:00",
+   "title": "အံတုမှု Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM3RNdXJqRnVkbHlHbEF1S2FUa3JEVExSeFF2c1ZFa1JkZDNmLXcwZU4yRnBEa1ZITGticUI3WUJkdVp3UTFPYkxLVk1TX2hoalF1UlNCeGZIbTg4QzlhcGVmaVp5am5hWHlZRVExeEpNb2NFblBua0RmTXFCYTNBb2tDcDJsY2RHV1ZPZGZJeUNNV2JRUnJETW94QQ?oc=5"
+  },
   {
    "ts": "2026-10-15T15:30:26+00:00",
    "title": "ဆော်ဒီ Archives",
@@ -2139,13 +2146,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/cq78p11grye3o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-07T12:30:14+00:00",
-   "title": "မလေးရှားမှာ သောင်တင်ခဲ့သူတွေ မြန်မာခရီးဆုံးပြီလား",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cme8r904k4jko?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
