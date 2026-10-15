@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-10-15T22:30:20+00:00",
+ "generated_at": "2026-10-15T23:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-10-15T23:00:21+00:00",
+   "title": "Opportune Moment to Launch Peace Process",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WcXNYM0E5N3ktNU9FZEM2ZVhZaEljenVUTHkyU3ItV0RBX0NQRTZOODdpU2hlVW9zMkpLQkZDY3RLZUxJWnBheHJ0QlJIR1BZNHdBdExqTmlUMURhRlFqT1dsNnFZNXJMWjE2Sjhyb1hDX1E?oc=5"
+  },
+  {
+   "ts": "2026-10-15T23:00:21+00:00",
+   "title": "Pyithu Hluttaw approves motion on outstanding student awards, addresses key questions",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbGgwWTRGYm16dnBUWWRqOXFwbGxNcWU1MFFhakhQSjQ5MkxkU3VueXNGSzhaSHZXS3lwbmlNYm1TRVV4TjNuTnFQR1hWQVFuS3kwOUZlcTY3bVlYNmx3ekY1alE3TmZ1T01rVFY4d2FaR1JDclVUREJRLUhCaEhBZ1FkOTdJRGxrTjN5di0tMnFMRlY2ZjFTWk9laGtNT0NvemgyRnNlRWh4NVk2QkE?oc=5"
+  },
   {
    "ts": "2026-10-15T22:30:18+00:00",
    "title": "Conflict in Numbers | Kayah Resistance Groups Claim Victories Over Myanmar Junta",
@@ -2132,20 +2146,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aU2txX3luQnFoX2pYM05RalRTMFNTa0pzQlI3cGhwaFpZdVlQWXJqWWJsd1FNSVFrcDh0bXkwQTQ3SElQSldYVjd4b3FmTGZjTU5SU0NKbEJiZ1dwdzhtQ0xURzlSNUFSQ2c?oc=5"
-  },
-  {
-   "ts": "2026-10-07T21:00:22+00:00",
-   "title": "President U Min Aung Hlaing pays official visit to Malaysia",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdmxjNFF6SnNlUHlISUNVZk1IQU9aSjNWWkJqRl9CenNBNmRZX1BveUhKcVpXallZaWU5WVNHeGhXMFRwenpzRmktNUc0TjN2Q0ZaMFMyQTQyNE92MUZPRlladkZFTDlSWVoybURVSWw0R2VjQ2xUZmJva3VFTnJTbEdEMXhaZlA5OUNEYg?oc=5"
-  },
-  {
-   "ts": "2026-10-07T21:00:22+00:00",
-   "title": "Bogyoke Aung San Market celebrates centenary",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjM0tjeWFoM0FnUWZrOGYwejlxR1FmWDItV3Y3eGpUODBhc2hHOUVqZTZ0eXJGbTdrRngzUHc0RU4wOGtXZ0lCYjVDV19wdzhmQ0hqNnR1ZUlxTVdlU1RCV0RWZ3JMd25JQm5maG9uczhQOVBOZG8zU21sZw?oc=5"
   }
  ]
 }
