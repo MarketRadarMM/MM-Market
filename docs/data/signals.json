@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-15T15:00:22+00:00",
+ "generated_at": "2026-10-15T15:30:28+00:00",
  "signals": [
+  {
+   "ts": "2026-10-15T15:30:26+00:00",
+   "title": "ဆော်ဒီ Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOVctOUN5VkE0TC1IeHdHZV9udlRNTG5kNEFxTC0xdjI5TFJMRGR6OUpPZFdJejQyVkFYVE4xY25VSUZyREdUcXE4a1pyOHR1QlRVeUNMTXF6M2VpZWE3Wmswd2tmRTFhZnMyMlN5OEVkNjhNMXhIN2NHN3NldkJpdDlPZG5JVlBYYlNtaEM0RQ?oc=5"
+  },
   {
    "ts": "2026-10-15T15:00:21+00:00",
    "title": "Solar installation donated under Yunnan Hand in Hand Programme",
@@ -2139,13 +2146,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/cme8r904k4jko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-07T12:00:21+00:00",
-   "title": "မြန်မာနောင်း အပါအဝင် သတင်းဌာန ၅ ခုကို ကြီးလေးသောပုဒ်မများဖြင့် စစ်တပ် အမှုဖွင့်",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81656/"
   }
  ]
 }
