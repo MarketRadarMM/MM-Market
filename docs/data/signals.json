@@ -1,6 +1,48 @@
 {
- "generated_at": "2026-10-15T14:00:24+00:00",
+ "generated_at": "2026-10-15T14:30:29+00:00",
  "signals": [
+  {
+   "ts": "2026-10-15T14:30:27+00:00",
+   "title": "Myanmar Military-Owned Brewer’s Sales Halved as Boycott Bites",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdHlRNThWNUFBXy02d1gyZlFvTFNQaGp1dUk4OUNQYnFOVmRfVDIxeXNCc3ZETzdfYUpyVERDdU9nR1dzZVlLckpleGpiMHFoT19JNjRNV2Vyc0VYVkZRVzFTczhmeWVKY3hBemlZX2Q2dFY2RVl6OUJVa1JCYTVqYXltaEdYTmNHRTBGcko0ejVKTEs2QU9TZi1mb2ljMmM?oc=5"
+  },
+  {
+   "ts": "2026-10-15T14:30:27+00:00",
+   "title": "WMO Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1mT3JuYWNsXy1kSlJLV3FpR0tsQ0lCOXFpYlBtY2VaQTJJUjB5R0huaVdmVEJhRjB2b0haZ0Y1WHNXSkM2NmxReG1vOA?oc=5"
+  },
+  {
+   "ts": "2026-10-15T14:30:27+00:00",
+   "title": "The Central Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mejRxZDI0bmxfLUNTSGY0YUVFc3NHOXJOOW9mbmJjb3pJa3NoMUkxb0JzM2lBT0lkRGRjall5S1pBdDZNVlUwTnU1WTVCb0Q0NndTUFF3?oc=5"
+  },
+  {
+   "ts": "2026-10-15T14:30:27+00:00",
+   "title": "China Donates 500,000 COVID-19 Vaccines to Myanmar Junta",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR0NkVnhLMVZ3U181YS1Gc19SNHd5c25PVmhxTGJkYWhHeHBFX0VaTThhQjNPZUlIdVNQbWgzZG5tdWJGeHduT2x3NjVGN2EwUlhKY3hXNWRWRm1qRUFWWkoyTkRuSjhvYk16UllILTRiNElsZ19uYk1SamlHYlNINkdtUmI3MFhMd1oxN2FIeUJGOEF2?oc=5"
+  },
+  {
+   "ts": "2026-10-15T14:30:27+00:00",
+   "title": "ASEANAPOL Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0ZWswZVl4STRzaG1NbWdhSDNIeG44ZG9Fa1k3ejFCZkJzWmgtLWs1bzlTMG85ai1aaGJBNzJrYmZMM1NqbjA2bGo3OTdWZDl5YU1R?oc=5"
+  },
+  {
+   "ts": "2026-10-15T14:30:26+00:00",
+   "title": "Takeaways from RFA’s China TNR discussion on Capitol Hill",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/about/releases/2026/10/15/takeaways-from-rfas-china-tnr-discussion-on-capitol-hill/"
+  },
   {
    "ts": "2026-10-15T13:00:26+00:00",
    "title": "Myanmar Regime Launches ‘ASEAN Affairs’ Panel to Clinch Full Reintegration",
@@ -2111,48 +2153,6 @@
     }
    ],
    "url": "https://myanmar-now.org/en/news/myanmar-military-kills-six-in-double-tap-airstrikes-on-sagaing-dam/"
-  },
-  {
-   "ts": "2026-10-07T11:30:15+00:00",
-   "title": "Myanmar junta says bid to arrest exiled journalists and opponents through Interpol has failed",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/myanmar-junta-says-bid-to-arrest-exiled-journalists-and-opponents-through-interpol-has-failed/"
-  },
-  {
-   "ts": "2026-10-07T10:30:13+00:00",
-   "title": "ဝါဒဖြန့်ပေးသူတွေကိုပါ စစ်တိုက်ခိုင်း မတဲ့လား",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/ck2094wjdy65o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-07T10:30:13+00:00",
-   "title": "ရန်ကုန်က အဆင့်မြင့်ကွန်ဒို၊ စသုံးလုံးနဲ့ သော့မရသေးတဲ့၀ယ်သူတွေ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cqrm9mewnpv8o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-07T10:00:20+00:00",
-   "title": "ကစ္ဆပနဒီမြစ်ဘေးမှ ဖိနပ်လေးတစ်ရံနှင့် သွေးမျက်ရည်များ",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81638/"
-  },
-  {
-   "ts": "2026-10-07T09:00:19+00:00",
-   "title": "Myanmar Coup Leader Lands in Malaysia for Migrant Return Talks",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMVUxdlhLSktLVkdxdE9qYnNvUlpzbFNkQ21CWXJJdEZnR3ZhZTdWcjNEYW1QT0dLRXZwbHh5LWs3VlhvYzBzVFJLakNFbDlDZE11d2JvMWV3YzdzTGFpblIyeDVjY2Q0VFRhZ0VHc1kwRF9YZEdJUnhfUm13NmpqVHdua1pkbld6bkZyZXg3aEp2SEFZVVdsWTZNWUJTeFA5MVdubjB4MEJuQm1tVmphTHptMWlBMkVhcUxTM29mX2lTdw?oc=5"
-  },
-  {
-   "ts": "2026-10-07T09:00:19+00:00",
-   "title": "Min Aung Hlaing Admits Myanmar Economy Has Failed to Progress",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLXhVNjBWX01IMGNXVjI2RUxIVlZwdmJYd29uZnhhZ0ZNekl1NkF2NVNWYThaSU9vMWhIWFI0c1hMNjM5ekZWNE9CWjRoWVhVUndUdzNZQ0RvSTJJWkpHMXNKS2JrQnlEZVhKdHozRmk0c1dpSzdlcjBaMGZvQ3BYTVI0d1NaUFNQVUREZDNCMDFacEYzQmZyengyRTJ5YVRlYVdrdld3?oc=5"
   }
  ]
 }
