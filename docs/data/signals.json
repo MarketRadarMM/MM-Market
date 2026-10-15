@@ -1,6 +1,34 @@
 {
- "generated_at": "2026-10-15T14:30:29+00:00",
+ "generated_at": "2026-10-15T15:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-10-15T15:00:21+00:00",
+   "title": "Solar installation donated under Yunnan Hand in Hand Programme",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTkFycGJGLXU5SGhBUjg5ZndzS2JVTzZGaU16Xy11NjNhc29VWWk0aXhsaWFnOFBXcG9NY2tIMC14ZnFfbE9OYXY5UVVOdWFFNnJIcWxoRW84Zks3cWotTjV2SnNkc2JFRmxQbi1qLWlEUFl6SEtFQ1VyRjFNOEtmSjExeGpEWGJobmZnVWFRaks?oc=5"
+  },
+  {
+   "ts": "2026-10-15T15:00:21+00:00",
+   "title": "Basic course for ASEAN cooperation to open",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9RRDNwcUVwcU1aaTdUektkY1ZZQVBLa0N5cEZyMHlFTFJSZUJnOXc0eklnazQ1X0ktT2pFb1Q1cXZodkU5Z203eENhNV9tNE1meTRiOFdSRFItYlpsd0pXMlp1YnF4TEFJU290VlhqWl8tWFRDNWc?oc=5"
+  },
+  {
+   "ts": "2026-10-15T15:00:21+00:00",
+   "title": "Local oil mills to host Thadingyut market fair",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBJelNOOHNyTEYza282V3YyVU1WdFRLYTkwTzRBRUozRXZOTDhkZ0V3czdTMnRCdXJ6VjNLbmZiMWZMSGs3S1hsalVwR0pQS1V5RVhucHJ0NlpYam5aajVHNDliR1lYYkl3bXNWeWZBZFdrSHJXTHdGc3liOA?oc=5"
+  },
+  {
+   "ts": "2026-10-15T15:00:21+00:00",
+   "title": "VFRDC to conduct training on vegetable cultivation to seed production",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU2JuUVY1SG5kRWdZVGVHbGx2RmVvUVV0TnVRaHNzZXhsVTk2S0gweXBfR3ZYNTBWN3RBTkJRZDdGWllMVU5JVW1iVlNJbTFMc2tpUVJhWnY0ZWZnUDctYmNZdWVjRmx4SV9oSFZNOWIxSklsYzJ1VmVEQTV4a19WMWZsYnl6N3RINmJfQ2QxYmV5WWtCSEZwcjdR?oc=5"
+  },
   {
    "ts": "2026-10-15T14:30:27+00:00",
    "title": "Myanmar Military-Owned Brewer’s Sales Halved as Boycott Bites",
@@ -2118,41 +2146,6 @@
    "source": "Myanmar Now (MM)",
    "markets": [],
    "url": "https://myanmar-now.org/mm/news/81656/"
-  },
-  {
-   "ts": "2026-10-07T12:00:19+00:00",
-   "title": "ရုရှားဓာတ်ခွဲခန်းဝန်ထမ်း သေဆုံးမှု - ပလိပ် ရောဂါလား၊ဘာတွေဖြစ်ခဲ့လဲ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cr3wvq2yvzeeo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-07T12:00:19+00:00",
-   "title": "ရန်ကုန်က HIV ကူးစက်မှု၊ လူငယ်တွေစိုးရိမ်ချက်နဲ့ ပြည့်တန်ဆာနှိမ်နင်းရေး",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cgrvxr41z8xo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-07T11:30:20+00:00",
-   "title": "Myanmar Regime Trying to Hound Independent Exile Media Through Interpol",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNV3B6dVdrVUVRRFJId2hRWGtaZEtyN19qYW9UTWpMRzZNS25MTng5MFJpUzVaZlkydXFSM3RYd1k0OG1SU21lN093WnNsc3VwWi0tOGFsQ1c5S3FMYl8xMmlPSERYVmpwVU5NVkY5eTlGbEQtQk9FcXRNOXZtRm4yYkdPMk1HdGJlOWdVVThWWEhRWXNzTk1CZldka3NyUmlad1hHRERjejhBLUZJS2lYVTZxNFZ4cFpZMFFtVm14RF95bFBVZWRraXA5OGJHUQ?oc=5"
-  },
-  {
-   "ts": "2026-10-07T11:30:15+00:00",
-   "title": "Myanmar military kills six in ‘double-tap’ airstrikes on Sagaing dam",
-   "source": "Myanmar Now (EN)",
-   "markets": [
-    {
-     "market": "pulses",
-     "direction": "bullish",
-     "confidence": 0.55,
-     "rationale": "Conflict in bean/sesame heartland threatens supply"
-    }
-   ],
-   "url": "https://myanmar-now.org/en/news/myanmar-military-kills-six-in-double-tap-airstrikes-on-sagaing-dam/"
   }
  ]
 }
