@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-10-14T23:30:19+00:00",
+ "generated_at": "2026-10-15T00:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-10-15T00:00:20+00:00",
+   "title": "Pyidaungsu Hluttaw discusses taxation, loans, budgets",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaUlYaUk4cDdpcXZTRWI1SWRYejZ4aXhib0tiU0J2UU80UFozVHE5Q0ZUSE04T0owSm9uNHUwUWJuczlydndJVm9HenludTljV1NXazBlN0hYdGw2clRzVDQxNlpSeVBrOWxoRWZ6WWVTNXVtUWpkVzlyc0M1Wkp4dFpR?oc=5"
+  },
+  {
+   "ts": "2026-10-15T00:00:19+00:00",
+   "title": "The secret life of a Myanmar arms dealer in Dubai",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVDg2RFBMT3RHNmZQM05rMkxXSm96bm15dTlQRU1ZUjdnYThMbVJVcVhfelR4NzZUSGVrekxkazNVd3pvUmZIdmJITldITjVfZ01aa3oxbnNteGNnNURDdy1jX21FcVVXajUzVXVBRXFrLXpZQmluSGtyM2dFaEhPdnpmaUNrdWtXVy1rU1ZB?oc=5"
+  },
   {
    "ts": "2026-10-14T22:00:22+00:00",
    "title": "Vice Chairman of State Administration Council Deputy Prime Minister Deputy Commander-in-Chief of Defence Services Commander-in-Chief (Army) Vice-Senior General Soe Win honoured victorious soldiers in Nawnghkio, inspects People’s Hospital and sch",
@@ -2120,20 +2134,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE01X0R1cGhNNlJjMHNJN0RnTHZ4Mllvb0xQQVBuODJtc19JR3pXaXRfLWgzblNoQi1hUXg3eERwWkJnUzFvcjl0VUFxdDQ4eWVjNWFmS0NUd2VxR3M3WUdMX3VOQmYtNm94Tmd1bXVLaW9OZw?oc=5"
-  },
-  {
-   "ts": "2026-10-06T14:00:22+00:00",
-   "title": "ရခိုင်ပြည်မှာမနေချင်လို့ ခိုးထွက်ကြသူတွေ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/ck780gpdvg67o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-06T13:00:20+00:00",
-   "title": "မလေးရှားမှာ သောင်တင်ခဲ့သူတွေ မြန်မာခရီးဆုံးပြီလား",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cme8r904k4jko?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
