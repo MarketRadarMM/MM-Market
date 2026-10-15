@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-15T02:00:25+00:00",
+ "generated_at": "2026-10-15T02:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-10-15T02:30:14+00:00",
+   "title": "အိမ်သုံးဂက်စ်စျေးတက်ပြီး ပစ္စည်းပြတ်လပ်နေ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.co.uk/burmese/live/cwkgj455rv7rt?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-15T01:30:19+00:00",
    "title": "Myanmar’s Spies: A History of Surveillance, Power and Purges",
@@ -2127,13 +2134,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQjJQRWV2aU5vamUta0t0UUVScV94N0RrVC00NUhiY1hTUDVkX1Q2WE55a3VDalFGaTg3MGxHVVFqSURXVlFOVUNFQTZrMFRXZHB1clhCZWVxMTJadFhEdFR4eW9Rd3JkME4yaC1PdG1aMTdNZXI1d0tzQjA2TkxnNTVQZkIzTkFEdmlGcDRfd2lfOXd5SG1IMktkdmJTeDdO?oc=5"
-  },
-  {
-   "ts": "2026-10-06T19:30:20+00:00",
-   "title": "Tsuyu Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBMdWxTMlNLdDZ2a2w5b05JNmJHcDZTWkpHNkpYV3k0azBmVnBUdE9oYm9WcDZhWVFlb2M1QnFOV1BYM1pFSkItSlJJQml1dw?oc=5"
   }
  ]
 }
