@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-15T17:00:26+00:00",
+ "generated_at": "2026-10-15T17:30:22+00:00",
  "signals": [
+  {
+   "ts": "2026-10-15T17:30:21+00:00",
+   "title": "2026 AYA Tri-Nation Women’s Cup ticket details revealed",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNakk1VnRWXzd4U1BwSWItN2tDZm4xOGIzdmQzZ2VERUE3WGdvYnVQYjBzeU13aU15TlVLYlJjVGh0eEo0UmJsZXpVY0lhNC1vVjhRZmVBd002YmZRNEY5RlM1ajQ0M1dZMzZQZEpEV1VrRVRieFpHbmtVaDltM0JDc0NvRU0wdw?oc=5"
+  },
   {
    "ts": "2026-10-15T17:00:24+00:00",
    "title": "What is Torture?",
@@ -2139,13 +2146,6 @@
    "source": "Myanmar Now (MM)",
    "markets": [],
    "url": "https://myanmar-now.org/mm/news/81662/"
-  },
-  {
-   "ts": "2026-10-07T12:30:14+00:00",
-   "title": "ပထမ မြန်မာအမျိုးသမီးကမ္ဘာလှည့် ဒဂုန်ခင်ခင်လေး",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cx2p14802qko?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
