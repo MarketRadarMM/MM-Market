@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-15T21:00:23+00:00",
+ "generated_at": "2026-10-15T21:30:26+00:00",
  "signals": [
+  {
+   "ts": "2026-10-15T21:30:24+00:00",
+   "title": "China covered up the cause of a detained Uyghur father’s death",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/uyghur/2026/10/15/yasinjan-toxti-uyghur-xinjiang-china-detention/"
+  },
   {
    "ts": "2026-10-15T21:00:21+00:00",
    "title": "Swiss Head of Mission, SDC Team Visit Myitkyina Rehabilitation Centre",
@@ -2139,13 +2146,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ybFdxU09LOUUzTkx3M1I1V3dXVVFseGI5X3l4dy0tQ1hHMHVEbVFDTXNZejdkdFpSNUVZV0haTHVaSmFVczZGQUNMWWxzUzNo?oc=5"
-  },
-  {
-   "ts": "2026-10-07T20:30:19+00:00",
-   "title": "Index of /wp-content/cache/page_enhanced/www.irrawaddy.com/author/virginia-hendersonn/feed",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOHQ1VXAxclV1YlI0VmxmSUNOOTdWZkpaN0NiRDBzaDhEQUNCZ05jbnMtT3hqWUJBODZKb1pfTHl5U2pkRjZMbGJ0NXZ1LXEtQjVna21EakhzYVNkTVJsdlVWSXExY1JSRlFRWXFmei1HQ0ZkRU5lZkY2ZjdjMXdfQnY3Vmlka1NXOXJnVk4waV82OHpSX0FRYVF2NThSSDVYYVJSVUpmazJmRGM?oc=5"
   }
  ]
 }
