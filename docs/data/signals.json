@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-16T08:30:20+00:00",
+ "generated_at": "2026-10-16T09:00:28+00:00",
  "signals": [
+  {
+   "ts": "2026-10-16T09:00:26+00:00",
+   "title": "ဂျပန်ခေတ်နှင့်မခြား အမှောင်မိုက်ဆုံးနေ့ရက်များ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81815/"
+  },
   {
    "ts": "2026-10-16T08:00:19+00:00",
    "title": "ရခိုင်ပြည်နယ် မြို့တော်ကို စစ်မီးကူးစက်၊ ပေါက်တောတွင် တိုက်ပွဲ ဆက်ပြင်းထန်",
@@ -2152,13 +2159,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYWhyVnJxVWJ4dDdwNjNYSldlVU5tT3paY09tVUF4SUQ0SUZvWllSN1NyUDNaclc0LUFFWVJuZC1XUE1uNVRmZW15al95U1NGT0FqQVVaZVVDVkVncC15V1pmaGVJcmZJVU9oRzlKN1kwdEpOODBpUWVPRVcwLWk0dXJyNWVXUi00bjFtQkp0X29YMXlwSzFxYk1RYVl2SGstUUJtTEppcXlmRXpiZjVFQmt3ZDFHVHNJbFR0bWkwOA?oc=5"
-  },
-  {
-   "ts": "2026-10-08T04:00:21+00:00",
-   "title": "Monitoring online harassment of Rohingya",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaHlTSEt1dC1LTVdJQlRXUWVia0xGeEswd1I2ZS0zR21fS1Z6WlIwT09pNUJ0dHZxV2ZEZWRLVUJpSkp4M0JySmo5b0lKa0lJSjIybDl1Q2lxN1ZfQjRfVHlLbWFVMVhsQ2hVSGdBTXBLdzhWZ1JXZmtiX1hNaldsU3lR?oc=5"
   }
  ]
 }
