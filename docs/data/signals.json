@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-16T11:00:26+00:00",
+ "generated_at": "2026-10-16T11:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-10-16T11:30:14+00:00",
+   "title": "Fear grips Mandalay as junta-backed militias and kidnappers prey on residents",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/fear-grips-mandalay-as-junta-backed-militias-and-kidnappers-prey-on-residents/"
+  },
   {
    "ts": "2026-10-16T10:30:20+00:00",
    "title": "ပြည်ပအလုပ်သမားချွေးနှဲစာ စစ်အုပ်စုအတွက် အကြီးဆုံးနိုင်ငံခြားငွေအရင်းအမြစ်ဖြစ်လာ",
@@ -2165,13 +2172,6 @@
    "source": "Myanmar Now (EN)",
    "markets": [],
    "url": "https://myanmar-now.org/en/news/belarus-loans-debated-by-myanmars-junta-controlled-parliament/"
-  },
-  {
-   "ts": "2026-10-08T10:00:20+00:00",
-   "title": "Myanmar junta leader says will take back migrants from Malaysia ‘as soon as possible’",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/myanmar-junta-leader-says-will-take-back-migrants-from-malaysia-as-soon-as-possible/"
   }
  ]
 }
