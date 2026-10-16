@@ -1,6 +1,33 @@
 {
- "generated_at": "2026-10-16T01:30:23+00:00",
+ "generated_at": "2026-10-16T02:00:27+00:00",
  "signals": [
+  {
+   "ts": "2026-10-16T02:00:26+00:00",
+   "title": "The U.S. Visit to Naypyitaw and Will Interpol Arrest Myanmar Journalists?",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbkZybFhFWXhudGRuUEYtMW9CaUdlV0MtMTN0REJDbFN6aUJpZkt2Nm9ydGJLNmZCczZyMmdzQ3RsU1p5SFFDTk9Dd3UzYmVKcGhtQ0ZoLUY2cktidzFGZ0lCSV9SWUY4QmNXNXprQXI4ODJxdGl0NWhFbjYweGgyY00xdHRFREM5SVBpaENDbU1iUHBoVVBuYlRaUWE1NmFUYjEtdkJzTE9zSXVz?oc=5"
+  },
+  {
+   "ts": "2026-10-16T02:00:22+00:00",
+   "title": "ဒေါ်လာ၊ စက်သုံးဆီနဲ့ ရွှေဈေးအမြင့်စျေးမှာဆက်ရှိ ကျပ်ငွေတန်ဖိုး ဆက်ကျနေ",
+   "source": "BBC Burmese",
+   "markets": [
+    {
+     "market": "gold",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "Direct gold-market story"
+    },
+    {
+     "market": "fuel",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "Fuel-market story — read for direction"
+    }
+   ],
+   "url": "https://www.bbc.co.uk/burmese/live/cw8rze7ng6zkt?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-16T01:00:21+00:00",
    "title": "Deputy Commander-in-Chief of Defence Services Commander-in-Chief (Army) General Kyaw Swa Lin delivers address to senior military officers in Office of Commander-in-Chief (Army)",
@@ -2132,20 +2159,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZThXM2tBMlRuRE9nQ2ZCSFpIMjJNTFkwVGVHeDNuZTFoZ0Q4eFAyb0NzdU9NYjBBNGMyZTd2cExqaEgwVzJUVDJ2Zk5BVzhFWTVmeldXa0xPMzdyakV6QjdQaUd3NWF6ZjByRDc3ZlBfUC1oYWtEbXE5a3pMeHNQdExrWnBqMGxGekZJV2JObGRmY2JCek13bVdtRGZEb0FQdXJrQ2VUTFV3ZXVVU040R1dR?oc=5"
-  },
-  {
-   "ts": "2026-10-07T23:30:30+00:00",
-   "title": "Up to 700 Myanmar Muslims Killed in Quake-Hit Mosques Weakened by Neglect",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSHBfSjNKU1RiaTItVExmQ0NRTTNfZV81VDN6bGZyekVFbGdTSlMyT1ZGbXh2Z0VfVWYyejN1ZHJQSmpHcHZSelBxMURoMzZpOXdQU1MyYnoxZE53RXZfX2xOZ3ZPeUpUSmVYY0xwVW9EMG5GRERKZDh2Njc3ZDk5ZG9UbTZ5cm1UZ1RzWVhCcl95UEJFalJPMzZnaEVJejNqal9PUVlmQk5DZW9kQlgtaE1VTjNzUQ?oc=5"
-  },
-  {
-   "ts": "2026-10-07T23:30:30+00:00",
-   "title": "Low Turnout, Intimidation and Attacks Mark Phase 2 of Myanmar Junta’s Election",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY3Nod0xpMFNQejhaSXE2QzBPbFdEbldvRzVsbUJ5QUFsVXUxdUlMSkhJV0thckxabDZ3M0gzNWN0UThSRUJBamN3WEhhVXdiTmFmM3BGbXlyYm9zR3BTbmlMcGpHMXpqd0Y5TkM4UlZQWjBnN3hDa2FoNjZNSlhEMGoyQ0pIV0Rqbk9mZTNEVWVMTnZXa0paeklKYkpKelliQzFiTkJiQ1k4WXdnQXFrWGJUVnphZExjNk1UWVBR?oc=5"
   }
  ]
 }
