@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-16T16:00:28+00:00",
+ "generated_at": "2026-10-16T16:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-10-16T16:30:18+00:00",
+   "title": "Specials",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qdjMzYzNGV0VkYU5PcndPQmlxbVQtb2lfRmRDc0VUX1dmMzYtQlpqT3RTZ2loUkRGRG1hZmpTakxwb21yQU9DNGFaM3VFWFVmb0lPMjJ5ZUh6WWgyUDFv?oc=5"
+  },
   {
    "ts": "2026-10-16T15:30:18+00:00",
    "title": "Tibetan rights group: South Africa arson attack is transnational repression by CCP",
@@ -2178,13 +2185,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWnpOTWVSSlNrSW5uZHVlVzZVT29EYzhpZ1p2bjIwaWdyNVlRN0ozMjVsOUxkd0JmQ1FyQTRmanlsT0VBRThoNGs0NFRfZGhjWXBScm9VeTV2YldoQmFYeDc1UFlBLVQ1d19OU29fRTZwOFpzc1FNbmRBblFHNGpTTHNqa0JkWGRnTXkxRU8yeDE3d21j?oc=5"
-  },
-  {
-   "ts": "2026-10-08T11:30:17+00:00",
-   "title": "Over 2,000 unauthorized buildings actioned in Yangon",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZVBNeTdRTUpNZnBUNGZHSUswbENodkFxTVVHZUJ5T3RPMDVKaEFmeUNwcDgzNVFGSDhVY2FWN09OLV9qWXV6aFFZdWVodk53aHZjWThjb0ZHaFJpYy1CZ2JvaVE0NWFpZm1YZEpfZ3ZjbGttbURvaUZnM0VnODNlSkRB?oc=5"
   }
  ]
 }
