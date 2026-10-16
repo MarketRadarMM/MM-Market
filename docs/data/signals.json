@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-16T18:30:22+00:00",
+ "generated_at": "2026-10-16T19:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-10-16T19:00:21+00:00",
+   "title": "Uyghur activists urge Rubio to raise rights concerns with Central Asian officials",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/uyghur/2026/10/16/uyghur-uzbekistan-rubio-trip-c5/"
+  },
   {
    "ts": "2026-10-16T18:30:20+00:00",
    "title": "Myanmar Regime Turns to Belarus for High Interest Loans as Fiscal Crisis Deepens",
@@ -2178,13 +2185,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZ1QtbUc1cDlNVEJiNk9CX2hwcVJUQU9tOXVmcmcydjFwbjZKd0ZXQzRNZmItS2lOSkV3ajBzMENadWZhVjUyV3poRURSQXh4N2xWLVdYbFNuNnZvOENYbjZuVDI2WDktOGJnT1k0V3pPZTFNVjBqZk1SZW5KdUVBZmVjOVZzVjcyLUtzUUtzeW95SUpvOVEweURqVFdwY2Nsd09ESDY4OV9wS3dlbVNzZktvVEpiYVJEampCVUk1VF9HQTJqcXVGck93?oc=5"
-  },
-  {
-   "ts": "2026-10-08T12:00:19+00:00",
-   "title": "ဒီပဲယင်း မူးကမ်းကြီးရွာကို စစ်တပ်ဗုံးကြဲ၊ အရပ်သား ၄ ဦးသေဆုံး",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81696/"
   }
  ]
 }
