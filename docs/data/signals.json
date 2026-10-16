@@ -1,6 +1,26 @@
 {
- "generated_at": "2026-10-16T12:30:19+00:00",
+ "generated_at": "2026-10-16T13:00:30+00:00",
  "signals": [
+  {
+   "ts": "2026-10-16T13:00:26+00:00",
+   "title": "Chinese Jet-Fuel Refinery to Bypass Sanctions, Myanmar’s Blood Timber Flows to China, and More",
+   "source": "Irrawaddy",
+   "markets": [
+    {
+     "market": "fx_kyat",
+     "direction": "bearish",
+     "confidence": 0.65,
+     "rationale": "New sanctions pressure the kyat"
+    },
+    {
+     "market": "gold",
+     "direction": "bullish",
+     "confidence": 0.65,
+     "rationale": "Kyat pressure drives savings into gold"
+    }
+   ],
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdFJFaThWMGJjcnNxZzFfSzRaTFFZRDhFdERrSUhxT3NsVVJMeDUzTllNYlk3UlNWTFNBbTctT08tcnBCeXFwcWczbU5EZkdXMHI3VzRyU3BPSk9nN0tmN241Mm0zTENCV2Z4UWtGdG91WUJzQXYwczNXcWpieDhfRmRaZE9VT1Z4N2lOSVA0bC1hSGE0QmMwRDhhU0w3ODc1bnlkZF9qMVY3R0ZVVW9SZ3gtM0pxMENiTVZJZTJETmpoejhYUlNGUkJlNEc0d1B6bUYxRUwySFNOUQ?oc=5"
+  },
   {
    "ts": "2026-10-16T12:00:27+00:00",
    "title": "14 structures over 100 years old designated as ancient buildings",
@@ -2165,13 +2185,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZFZoTXZaYjNkR2ZsYzE3Z0NvRFo4TlM5M1dBRjliWXFTbTRNUG5JX2tUNm5aWWtRemVXeU5JenpLUVpGV2djSUFHd0lYMEZ3ZlRYZEs4cm8zeVRaTDBSQlBDVTJjZVJNbjUtemRlUExEc1VLbU1nU2VIVm5hQ1RWZXl3a24yVGYyRmRYVEQyTEpIdG1zMkNMY3Q2SER1dldCcFNPNHNVYmN0QWNkVk8w?oc=5"
-  },
-  {
-   "ts": "2026-10-08T11:30:15+00:00",
-   "title": "မလေးရှားအမတ်ဟောင်းနှင့် မလေးရှားရောက် မြန်မာအချို့ ဦးမင်းအောင်လှိုင်ကို ဆန္ဒပြ",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81689/"
   }
  ]
 }
