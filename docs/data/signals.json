@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-16T20:30:19+00:00",
+ "generated_at": "2026-10-16T21:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-10-16T21:00:22+00:00",
+   "title": "Beef up food production for all",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ibFdaU2c3UWhfZzFhaHlWdzVnRHNRSGthNFNSUG0tX1QtV1ZJUy0xTURqUkFjamJtWkp0WjdUUllxcTVWU1pRRGkyRUhzSmg4MEdjU0RJMXVNelIwWTBTZFdBWWswTXM?oc=5"
+  },
   {
    "ts": "2026-10-16T19:00:21+00:00",
    "title": "Uyghur activists urge Rubio to raise rights concerns with Central Asian officials",
@@ -2178,13 +2185,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb0lUZjF0OWR0WkpXZ05PYXRacVhmY2dZRXIxT3V1dnEyc2s5OWxGZDZ1dzB4ZEJlS2p6UUJtQURILTR2elNUZUFCWXd2b2w2Yi1pRTFMRjJLLVlVZ2MyM19yMDFhQW9CR2M5czJzWWV6MEdpZ09KWlM0VDdMd3N5WkJCYWFmN1g1Z19DMnBQUHdxT0lVRk1YdUhtTTdzbTh6RUdSRjZkWllnZy1EZmpDcGJ3?oc=5"
-  },
-  {
-   "ts": "2026-10-08T12:30:19+00:00",
-   "title": "Malaysian Firms Linked to Myanmar Military Aviation Supply Chain: JFM",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZ1QtbUc1cDlNVEJiNk9CX2hwcVJUQU9tOXVmcmcydjFwbjZKd0ZXQzRNZmItS2lOSkV3ajBzMENadWZhVjUyV3poRURSQXh4N2xWLVdYbFNuNnZvOENYbjZuVDI2WDktOGJnT1k0V3pPZTFNVjBqZk1SZW5KdUVBZmVjOVZzVjcyLUtzUUtzeW95SUpvOVEweURqVFdwY2Nsd09ESDY4OV9wS3dlbVNzZktvVEpiYVJEampCVUk1VF9HQTJqcXVGck93?oc=5"
   }
  ]
 }
