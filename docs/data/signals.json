@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-16T18:00:23+00:00",
+ "generated_at": "2026-10-16T18:30:22+00:00",
  "signals": [
+  {
+   "ts": "2026-10-16T18:30:20+00:00",
+   "title": "Myanmar Regime Turns to Belarus for High Interest Loans as Fiscal Crisis Deepens",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNjRoa2d1UXdOMWJjb0dwNGJNY2dWdzlLMndVT1l0dmw2LWdoalFvM1QyV1hnZV83WW55c0UtT1ZPekY2dUVmWDVGQ0tya0wybTZjVUt6Zjl0Q25VbkQ3OTVBbTVpS3RxZ3RRTVI5OEduSERBMEwwSEw5cTgyNkhnTmktR2VGQ2ZKUUZiTV9icC04WVh3aGd2RlU0MnZaTjJ5U1c1aWRBQjlKT0JGSFUyMjA2TVRzbzNIcXEwbDVrYw?oc=5"
+  },
   {
    "ts": "2026-10-16T16:30:18+00:00",
    "title": "Specials",
@@ -2178,13 +2185,6 @@
    "source": "Myanmar Now (MM)",
    "markets": [],
    "url": "https://myanmar-now.org/mm/news/81696/"
-  },
-  {
-   "ts": "2026-10-08T11:30:17+00:00",
-   "title": "Authorities inspect Myawaddy bus lines to move to highway station",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWnpOTWVSSlNrSW5uZHVlVzZVT29EYzhpZ1p2bjIwaWdyNVlRN0ozMjVsOUxkd0JmQ1FyQTRmanlsT0VBRThoNGs0NFRfZGhjWXBScm9VeTV2YldoQmFYeDc1UFlBLVQ1d19OU29fRTZwOFpzc1FNbmRBblFHNGpTTHNqa0JkWGRnTXkxRU8yeDE3d21j?oc=5"
   }
  ]
 }
