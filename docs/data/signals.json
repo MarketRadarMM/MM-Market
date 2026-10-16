@@ -1,6 +1,33 @@
 {
- "generated_at": "2026-10-16T10:00:26+00:00",
+ "generated_at": "2026-10-16T10:30:24+00:00",
  "signals": [
+  {
+   "ts": "2026-10-16T10:30:20+00:00",
+   "title": "ပြည်ပအလုပ်သမားချွေးနှဲစာ စစ်အုပ်စုအတွက် အကြီးဆုံးနိုင်ငံခြားငွေအရင်းအမြစ်ဖြစ်လာ",
+   "source": "Myanmar Now (MM)",
+   "markets": [
+    {
+     "market": "fx_kyat",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "CBM/forex news — read for direction"
+    },
+    {
+     "market": "gold",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "Kyat-sensitive: gold usually moves opposite to kyat"
+    }
+   ],
+   "url": "https://myanmar-now.org/mm/news/81821/"
+  },
+  {
+   "ts": "2026-10-16T10:30:18+00:00",
+   "title": "TNLA and MNDAA rapidly upgrading Chinese border gates",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/tnla-and-mndaa-rapidly-upgrading-chinese-border-gates/"
+  },
   {
    "ts": "2026-10-16T10:00:26+00:00",
    "title": "National Defence and Security Council of Republic of the Union of Myanmar holds meeting",
@@ -2145,20 +2172,6 @@
    "source": "Myanmar Now (EN)",
    "markets": [],
    "url": "https://myanmar-now.org/en/news/myanmar-junta-leader-says-will-take-back-migrants-from-malaysia-as-soon-as-possible/"
-  },
-  {
-   "ts": "2026-10-08T08:30:21+00:00",
-   "title": "Colonial-era Ava Bridge over Irrawaddy River collapses during earthquake",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ0NMbU1ISkpqZkJWaEJWZDBrYzZ3QlhMVV9BRGpIcFRnaEUzVWd4R2g4R2VOcGZ0d0d0YmV1QjhfT0ROa1NWaUk5MVlwV3lmZDA3TjR5Q1hIMTBNajh0MU1lc2dVMVFwY3hsTHlvMlduQU0yeVFHOG1XNG1TeU01SmwyeUlzSkcxNmlja0tLandOVGZfODNxMWtWTmo0R3ZNMUg1NVFiNHpSaFZo?oc=5"
-  },
-  {
-   "ts": "2026-10-08T06:30:18+00:00",
-   "title": "President U Min Aung Hlaing delivers speech on enhancement of bilateral investment and economic cooperation at Myanmar-Malaysia High Level Business Dialogue 2026",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRDdEcWJ4QTJiYnh2cFRYX0dmLUNjczhpZlFiaENQY2dsUTNUTFhyaEtUaGY4cGJhRDJLUFhZdGhRZExEeUQ1MlVTazJTQkFwZ1h2LS1hWS1sb2lwWGZLOFNrLS0yVzlTR25UQk9TMEV5cUhmNXpsaEM3enhGNzJhOXRRWWpXU0pSWGhWbW1STlkza3M5aGdvbi1kTl9yTElUdDJVV2xXVTdPZ0dkTndUeVdB?oc=5"
   }
  ]
 }
