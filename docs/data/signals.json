@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-16T07:30:42+00:00",
+ "generated_at": "2026-10-16T08:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-10-16T08:00:19+00:00",
+   "title": "ရခိုင်ပြည်နယ် မြို့တော်ကို စစ်မီးကူးစက်၊ ပေါက်တောတွင် တိုက်ပွဲ ဆက်ပြင်းထန်",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81801/"
+  },
   {
    "ts": "2026-10-16T07:30:41+00:00",
    "title": "New ID Rules Tighten Regime’s Grip on Migrant Remittances From Thailand",
@@ -2152,13 +2159,6 @@
    "source": "Frontier Myanmar",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaHlTSEt1dC1LTVdJQlRXUWVia0xGeEswd1I2ZS0zR21fS1Z6WlIwT09pNUJ0dHZxV2ZEZWRLVUJpSkp4M0JySmo5b0lKa0lJSjIybDl1Q2lxN1ZfQjRfVHlLbWFVMVhsQ2hVSGdBTXBLdzhWZ1JXZmtiX1hNaldsU3lR?oc=5"
-  },
-  {
-   "ts": "2026-10-08T03:30:18+00:00",
-   "title": "YBS 117 bus route changes in 2026",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pYzlFc096TjhmVEtkNEtjMkVkV05oRGI3eFNUeEpxNzV4ME00NHBEWS1wV1FNaDVLVkczVndDeFNxd09xZGNIWmdXSHF4ejltZVMxbXduT1JGVkUxa2RETWpfVDFHUFZWX2c?oc=5"
   }
  ]
 }
