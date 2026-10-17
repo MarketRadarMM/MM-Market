@@ -1,6 +1,68 @@
 {
- "generated_at": "2026-10-17T10:30:18+00:00",
+ "generated_at": "2026-10-17T11:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-10-17T11:00:19+00:00",
+   "title": "ရန်ကုန်က အဆင့်မြင့်ကွန်ဒို၊ စသုံးလုံးနဲ့ သော့မရသေးတဲ့၀ယ်သူတွေ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cqrm9mewnpv8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-10-17T11:00:19+00:00",
+   "title": "\"ပြုံးနေတဲ့ စိတ်ကျရောဂါ\" ဆိုတာ ဘာလဲ၊ ဘယ်လို သတိပြုမိနိုင်မလဲ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cqev3eey8vgzo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-10-17T11:00:19+00:00",
+   "title": "အဆုတ်ပလိပ်ရောဂါ ကမ္ဘာတဝန်း ပျံ့နိုင်ခြေနည်းတာ ဘာကြောင့်လဲ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cmly0vxnjq41o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-10-17T11:00:19+00:00",
+   "title": "ရခိုင်ကို ပိတ်ဆို့တိုက်ခိုက်တဲ့စစ်တပ်ဗျူဟာ အောင်မြင်နိုင်မလား",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cmwyvd7xyd5wo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-10-17T11:00:19+00:00",
+   "title": "''ထိုးစစ်အတွက် ရုရှား ဦးကျိုးနေပြီ'' လို့ ယူကရိန်းကာချုပ်ဟောင်းပြော",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c6vgjpn8yrkxo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-10-17T11:00:19+00:00",
+   "title": "နိုမီနီ - ထိုင်းမှာအိမ်ခြံမြေဝယ်ထားတဲ့မြန်မာတွေ အမည်ခံကုမ္ပဏီတွေကြောင့် စစ်ဆေးခံရလာ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c89ng781qvzo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-10-17T11:00:16+00:00",
+   "title": "ဗဟိုဘဏ်ဆီက သုံးနှစ်ဆက်တိုက်ငွေချေးရတာ ဘာကြောင့်လဲ",
+   "source": "BBC Burmese",
+   "markets": [
+    {
+     "market": "fx_kyat",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "CBM/forex news — read for direction"
+    },
+    {
+     "market": "gold",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "Kyat-sensitive: gold usually moves opposite to kyat"
+    }
+   ],
+   "url": "https://www.bbc.com/burmese/articles/c65yn0vlkp8po?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-17T10:00:23+00:00",
    "title": "President U Min Aung Hlaing holds meeting with Acting President of the National Assembly of Thailand",
@@ -2136,55 +2198,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOMnJIcHBUOTdaSkVKS09EcEU5ZlR2TW9ZSm02Rk9GMmQ3VmZYU0lBSEh3SE5lMC15WjJXcVdjajB5WU1OaDh4bGZCSEd6cVlNRWxYRnZMWU5NcUJYY1JVa0xienA1MXRESlZFUm1VR1NlMklxeng1Yw?oc=5"
-  },
-  {
-   "ts": "2026-10-08T22:30:18+00:00",
-   "title": "22 DPLA, TNLA and PDF members rejoin society",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBMdlFSUkdnUk5Zd1FhcWZIMTdrTVM5MjNjaVltZTZycFBwUE9qMUpRaVRVa2lhSjFWYVlScjBob3MxX2haOVR2SnZZVmk3TnFTTHVYTzdNT2ZKN3A2bVlzdVpiVUM4NXQwaHE5VmdGUDN1ZHNELU00?oc=5"
-  },
-  {
-   "ts": "2026-10-08T22:30:18+00:00",
-   "title": "Driving growth in bamboo-based industries",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1nSWsyN3BxVzF0S1VWRkMwem5wcG11WTJ4U2pnWGk0Q3U0MjRZSWJCWWd5eFNLYlV2ZUZ4Nk5PMy1lUHpUTDUtWEFiZkIyRjdFSjFLRzVzb3hKNmhSNnd1Y1h6OFRDMk1NSGZKVWwyZVBlZ2hQ?oc=5"
-  },
-  {
-   "ts": "2026-10-08T22:30:18+00:00",
-   "title": "Illegal buildings utilized for online gambling in Shwe Kokko demolished",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOenJ0cW9BdjJiQVhueWpyeXZ4MkpObjZNeGtGdW5VbVpYYUNSZXo2MmxhaUZxcFE1U3NscnMyME5NMUhtZElIREt4S1JHX0pTTjhCLUxWNWpia2wxREl5dlppdTFJVzl4NUl1bUVKY0JfbFdaV3hUZmRzQU1ZanRJSGNFYlVpTjU1aEczTi0wRkVOdVJ5S3hVMjNHRnc?oc=5"
-  },
-  {
-   "ts": "2026-10-08T22:30:18+00:00",
-   "title": "Vehicle crashes into bridge pillar in North Okkalapa",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOUJhaGhuS0tGMU9jZUFWcjh0b2lNN2RXdFBEZ3pwcG1VUW5TelQ1LWVwMzBNT1lDcjJ5dG1DeUpzUG50R25kSms5OEFBcnB5Q1A1VEZTN1REd0VOLVhOTTJSYlAxM2JQNmprcHoxTkxQTWxxRUdtWmZnbFRRWkJFc0R2WQ?oc=5"
-  },
-  {
-   "ts": "2026-10-08T22:00:19+00:00",
-   "title": "Nay Pyi Taw Builds More Landmark Facilities",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE91UjFwRGNoQmp2SW9WTmttNG11RThNTndQMUo2cS1ydC1RMFFJT2tFR0FiNVN5YkpuQzF1ZWFjdUo1RVZCTGNIVURiaDNsUTJ4VHNSM1d0UTdjdXdtWC1kNnJ3TlJ2c2h5UjVUeUx4aEhaUHZ4aklB?oc=5"
-  },
-  {
-   "ts": "2026-10-08T21:30:19+00:00",
-   "title": "Business-friendly environment urged to grow MSMEs",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYaGVpeTVFSFdzdGMwaVZqNnN0T1NyVUUzU1pOLXM1b0RHNlpkZ1NleTZiaFJWdXkzRkxVZ1hVRHVHMlhDbGdBWnpqbFJhcDNrTHRKUVY5eHBjQnk5VE05bkZFT3BjUW9zN0xqd2tKcW5kQWlVLUNPWjlUc1g4bzA?oc=5"
-  },
-  {
-   "ts": "2026-10-08T20:30:20+00:00",
-   "title": "ME Singapore announces 272 passport renewals on 8-12 July",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOamt3SEFieThrY04tdUgwSjZyYTY1NG1fR1gzNWFwR2JpZGU0WUJwZ3Uxb0Mzd2xkR0F3bllhNUppWWpFWDkxZktiUDROV1JkQ3JPOXNKWUh1c3BlZFRWbTdyNFoybjA5c1R1M05RV09vdmlKV0N6cktnSkgycUJKWGV1NlMta1dPbVIzUGVhemM4SXhUbW9PTExSd0JKdXI0anhXUw?oc=5"
   }
  ]
 }
