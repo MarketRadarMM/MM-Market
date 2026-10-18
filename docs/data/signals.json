@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-18T15:30:18+00:00",
+ "generated_at": "2026-10-18T16:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-10-18T16:00:20+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA3dlRhTVdIcGZ0MDJqWG5FNkZJRzJ5RWdUYzl5U0JaX1UyWjlkaDM5QXhnRTFxLXRMcDVpVE9DNTdsY1B1Zzl4RjZBSQ?oc=5"
+  },
   {
    "ts": "2026-10-18T15:00:18+00:00",
    "title": "ရန်ကုန်က HIV ကူးစက်မှု၊ လူငယ်တွေစိုးရိမ်ချက်နဲ့ ပြည့်တန်ဆာနှိမ်နင်းရေး",
@@ -2184,13 +2191,6 @@
    "source": "Frontier Myanmar",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPXzZNWkl6Z05Ob3pGVWJpUjJjMXVfemR3SG9kcWJFU240MUwweUIzWXVJRHR0dS1FVTBfMlVaVDJDMHB6SnBBeURlRnlzUmZWSV9RUDFxQjVpSTE3YTlsTERoZE0zUExvcVMyeFdKRFlxdDdPQzFrWV9TWTZZbFVRaEFIOHlSZ2gxbkhJWDR4VzdhMWFKcGk4ODdmX3Q2dw?oc=5"
-  },
-  {
-   "ts": "2026-10-09T20:00:21+00:00",
-   "title": "Guest Column | Thai Diplomacy at a Crossroads",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTXA0elRCa01CREp0Um5ETG8wMXJlcEt2NkUwUnJnQjZLZkV4WW1PYjItN3lFdW04ZDZpdktNOUZSNVhnNTdoaTZVQ2JuTVdXalkwS1BjU2ZlYmZEcWdzSGMtMllJWVFlT21ROW51eVBzT2JERF8tdkRPTTBsZ0s5LVo0MnczUUFOQ1E?oc=5"
   }
  ]
 }
