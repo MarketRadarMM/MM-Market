@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-18T07:30:18+00:00",
+ "generated_at": "2026-10-18T08:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-10-18T08:00:17+00:00",
+   "title": "စင်ကာပူမှာ အစိုးရဝန်ထမ်းတွေကို ဖူးစာဖက် ရှာပေး",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cwe9ek9zmy9mo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-18T06:00:18+00:00",
    "title": "President U Min Aung Hlaing delivers speech at the meeting of National-Level Nuclear Energy Implementation Steering Committee",
@@ -2184,13 +2191,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLUIta2ZJcXpETEhPQ3VPLXQ0Y1c5bWduMEttbU12STE1NFhVNHhtQlFRYlozMXRRSFVDWjFDTGkxdlBkaEtKX2VsWkpEbU93ZDFvR0JCUGFBeEl0cE4tNGdCa09KbFRaSHdUMUpVcHd5ampMS05aUmJ0OTZsRFhJNW03X3pNNjhXdFkwQzBmX2FGUQ?oc=5"
-  },
-  {
-   "ts": "2026-10-09T15:00:22+00:00",
-   "title": "IRD warns restaurants to issue stamped receipts and remit commercial tax",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcXBlNXZfZ0FIbTZHc3R5UHFQVXhLd3FObGZ2RWxnOVBuV0VmSHR0aU9ndTdKSXRmdFRuUERKYW00czgyWlhfM1Jad0Znb0E3anJKZ3o3TWRfcEY0OWVSRGFlcGlTRHZrNFlvcjVYcWVUWnZHaWFkc3hWM1ZWamdOcFdKeWdCZWh4bGZoQ3Ffb3JDc1JVTGJuN180ZEpPQQ?oc=5"
   }
  ]
 }
