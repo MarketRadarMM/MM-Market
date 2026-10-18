@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-18T20:00:49+00:00",
+ "generated_at": "2026-10-18T20:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-10-18T20:30:18+00:00",
+   "title": "19 October 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02WkU3RFlNNlhGZWI2elI2d05TSkZIUlNKV0VfeEdRbkhCQ0lIOHRFUDRLRXhPMHNaLWp3b0RhR1VsTmd4czZZTEdrQWNKOVAzSWc?oc=5"
+  },
   {
    "ts": "2026-10-18T20:00:48+00:00",
    "title": "Preserving tea culture of Myanmar people",
@@ -2191,13 +2198,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMmNyWElvR3F3YWJ1a1RQdlk1M1RJbVlrRVV1VjFCajJ4bHFyS3RyVi1xcXFGREhBT3hubmhGSEZBVk1oSkVEaGFJVkxsZ0kxd0dwZjJKZ09ldTdBbnJhaTVieXE2Um9peV80Nl9wN3JPT0E5LXROTDNmeWtwS3czNG9PX0h3QTc1V2hnRVpLQTBwdHQ3QVlXT0dzejJjbDB2d0RsOVBJWE5MQkZ6YXFtQmhjYmVsR3JadlNEb3NfSQ?oc=5"
-  },
-  {
-   "ts": "2026-10-10T01:30:16+00:00",
-   "title": "အောက်တိုဘာ ၁၀ ရက် သတင်းအနှစ်ချုပ်- ဌာနဆိုင်ရာနဲ့ ပုဂ္ဂလိက အွန်လိုင်းဝန်ဆောင်မှုစနစ်တွေကို ဆိုက်ဘာတိုက်ခိုက်မှုနဲ့ အမျိုးသားတစ်ဦး ဖမ်းဆီးခံရ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cqd09jd01pr5o?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
