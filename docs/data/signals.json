@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-10-18T14:30:17+00:00",
+ "generated_at": "2026-10-18T15:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-10-18T15:00:18+00:00",
+   "title": "ရန်ကုန်က HIV ကူးစက်မှု၊ လူငယ်တွေစိုးရိမ်ချက်နဲ့ ပြည့်တန်ဆာနှိမ်နင်းရေး",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cgrvxr41z8xo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-10-18T15:00:18+00:00",
+   "title": "တရုတ်လာစိုက်တဲ့မယ်ရီဂိုးပန်းခင်းတွေနဲ့ ဈေးနှိမ်ခံရတဲ့ရှမ်းတောင်သူတွေ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cw4g17k13415o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-10-18T15:00:18+00:00",
+   "title": "ယူကရိန်းမြို့တွေမှာ လူနေလို့မရအောင်လုပ်ဖို့    ပူတင်ရဲ့ \"စည်းမဲ့\" မဟာဗျူဟာသစ်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c84g13g6gdeeo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-18T13:00:17+00:00",
    "title": "After the fall: PDFs seek unity following resistance shakeup",
@@ -2170,27 +2191,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTXA0elRCa01CREp0Um5ETG8wMXJlcEt2NkUwUnJnQjZLZkV4WW1PYjItN3lFdW04ZDZpdktNOUZSNVhnNTdoaTZVQ2JuTVdXalkwS1BjU2ZlYmZEcWdzSGMtMllJWVFlT21ROW51eVBzT2JERF8tdkRPTTBsZ0s5LVo0MnczUUFOQ1E?oc=5"
-  },
-  {
-   "ts": "2026-10-09T17:00:22+00:00",
-   "title": "AI, Power, and Our Future",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RaWtxTVRDc0w1cndfYXhPclBBS2taRGFyVi00WWtKMFBlQnFlbXV6TjlITEVnX3lLeHRJd3ozTVlyWWxHS3dTazg0NDMtWllwVXNVQkFMUGFULWtY?oc=5"
-  },
-  {
-   "ts": "2026-10-09T16:30:17+00:00",
-   "title": "El Niño Prompts Multi-Hazard Readiness Plan",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95LXdEa2VNS2JGWXlVZDRtRkYtZVNSRW5QaWg0NGxxa1U4aE1DczhodkdzSjNFLUp6UjYtdlljTFh1a0VHeGcwNUdBeXFxY29YQl9RYnYxeHdHNjRxa3Bjc0RxVHR5elh5NHlqdFQwRzIxNUFhRlhN?oc=5"
-  },
-  {
-   "ts": "2026-10-09T16:30:17+00:00",
-   "title": "Myanmar, Malaysia boost cooperation in defence and security sectors",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTXNtNjhzR0VoYlRHS1Z5Y3pTdXlWaFhjV2JONmcyVlk4U2ppa0NGM0UycTBaS2RaLXJ4Um9DZEYwMl9vQUJ4WmhMQmw5c2JIX0taVkY1eDlpc3RLTU1OdkQwRHRZNmhxNjFNZVZWUzB4b3J1SFY5N1c0dVl0UldkU1VxeXRrYnctckEwU0wzaEZEZ0hPVWc?oc=5"
   }
  ]
 }
