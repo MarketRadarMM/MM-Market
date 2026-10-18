@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-18T02:30:20+00:00",
+ "generated_at": "2026-10-18T03:00:19+00:00",
  "signals": [
+  {
+   "ts": "2026-10-18T03:00:15+00:00",
+   "title": "အောက်တိုဘာ ၁၈ ရက် သတင်းအနှစ်ချုပ် - AA နဲ့ စစ်တပ်တို့ တိုက်ပွဲ စစ်တွေဒကစနဲ့ ၄ မိုင်ခန့်အကွာအထိ ရောက်လာ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cq369jeww2e4o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-17T21:30:18+00:00",
    "title": "Myanmar Business Groups meet to stabilize commodity prices",
@@ -2184,13 +2191,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9xTFJQblc3WGVNZDFtcWx0dG1iTG9uYURaTmNJa0FWeF9KMWlwSnhMYXJKckFJMVVkdU54M2JLNURnbWhLUlJZdHZR?oc=5"
-  },
-  {
-   "ts": "2026-10-09T14:30:19+00:00",
-   "title": "DYSPHOR1A - မြန်မာဘဏ်တွေ အချက်အလက်ခိုးယူတဲ့ပြည်တွင်းဟက်ကာအဖွဲ့",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cq1kxyn374z3o?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
