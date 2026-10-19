@@ -1,6 +1,62 @@
 {
- "generated_at": "2026-10-19T20:00:24+00:00",
+ "generated_at": "2026-10-19T20:30:24+00:00",
  "signals": [
+  {
+   "ts": "2026-10-19T20:30:23+00:00",
+   "title": "United Kingdom’s King Charles III Sends Two Books, Sealed Envelope and Diplomatic Pouch to Prisoner Daw Aung San Suu Kyi",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZHEzTTZuYWUyWk9pRkxWdkM0XzBUUk5OOFEzTGdOZnBtaEVIUHpOM2JwTHdVa1lYbGh3TWZGeDFpSGlLSXhqYkh4QjRXTlJ0NUtzamJ2VWtzQTN2ZEVuUUdLR1B2X0lteUpaSTZyRFFWYUprV3pUZFdmUFRmZGRsblJoeHkwZ2lhMy03LUdFdW5wUmxBVUltdzlXQUxsMmoxZFUwZ3BOblR4YnI5UTg4aFY0OXd0SjkxUXhnamoxYkEtSFlqYVl3VkctcGVsVUpoUWRqMklzZWE4RjA?oc=5"
+  },
+  {
+   "ts": "2026-10-19T20:30:21+00:00",
+   "title": "Octane price rises, diesel price slumps",
+   "source": "GNLM",
+   "markets": [
+    {
+     "market": "fuel",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "Fuel-market story — read for direction"
+    }
+   ],
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CVFV4dkItWDh0ZUZPUnp2RW4tUkJfVldBOWlLdGZfUnl4eVRYbHdraDdfdDFpbXFRbzBDMTd0QmlOeHBLOXJhcF9MZk5ZSVRETFB4NWtnaU85Z2UzT1JubFF4aVFJYXpmOTNHdnFjWW8?oc=5"
+  },
+  {
+   "ts": "2026-10-19T20:30:21+00:00",
+   "title": "Vice-President oversees regional development projects in Yangon",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcUtHSTNvVEEtekxvZWZTUEdsMFktTkNqX0ludHFFVkRMeVcwUHpSM25hclAxdzItMmlWbnpTY0ZmM09TemxZMlJhc3JVVHJjRVIwQ1NyWXBiS0g3WThDcHN6UExXT3plai10M1gybExzZ1R2ajhMczktVVVsdG9IM0xyZi1xSjNfSWMwcHltZTZKZw?oc=5"
+  },
+  {
+   "ts": "2026-10-19T20:30:21+00:00",
+   "title": "Delegation led by Pyidaungsu Hluttaw & Amyotha Hluttaw Speaker departs for Belarus",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWl9uT3VWUGRmVThaNEJucUUzcEk0aUxWUXhkTVdYazRrZFpTQ3ctelY0MDJ1YlJLQXZZMzBRcUFWUndEejVZeXd3WHRTZjB5MUlEM0dZUHo3UXppOVFCcFhIZTZoWVoySUtMMU15UkZsNzZrN290MXpVZVZDeFRocG14LXNXWGYtN2pNRC0zZ3VfT0RwajRrbmp5cVhqLTNUbS14UXBpYkU?oc=5"
+  },
+  {
+   "ts": "2026-10-19T20:30:21+00:00",
+   "title": "U Soe Thet Naung presents Credentials to Sultan and Yang Di-Pertuan of Brunei Darussalam",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeGc3M2xqM0wwMHVCeWVncWRncnA0cXR1TDN6Q1piTnFuT2t2X2RsLS01M1M5SjJoX3VZZmdBOG5VODFod29LOWpEV1NESnhoalQwTE9Gb3g5YXkyRzBmQTY1QzhhbUYtXzJWQ1JVbWFqMnc5ajJwVTdIeFlOZjcxOG5uRDRlblNrRDR3SVU4WDJDX0RJdDFiVG4zMnVlUkxGU1YwLTE4cWQxMHFfZDV4MEd1aw?oc=5"
+  },
+  {
+   "ts": "2026-10-19T20:30:21+00:00",
+   "title": "PyinOoLwin to lease market stalls at Thumingala Market via Open Tender",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY2llalNLZExEWm4yd2UxbkpYRVdnUXFqb2dLbFV5aUFTVm4zdEZ3ZDRpY28xVVNXSGc2dlRiTUstVTN2MldaazBTYl83MVREaHdCTmhBekFpRVNxRzhJd3NPU2R2eW9mdWZlUkVPUFhUVWx2M3BOS0o3anY0bTVWT1UteGZWT080UWdTeXd0cUZQQWRwdVlyNEZHTQ?oc=5"
+  },
+  {
+   "ts": "2026-10-19T20:30:21+00:00",
+   "title": "YU to offer Dip in Applied Philosophy in Dec",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZLXFybUgzbzlBbVBzT0xka0FNdk5NbXk2ei1ZTVZYMW9ROUczRUdLWDVIY3VTdGJTeUdxYjhLTXFJZmx3Y1pHWDZkNWIxQ09yRTFmUkJtekFnTFp4Ykp4X1k2ZUxhR3I0dzdrSU54VUxCNWZsQ1IzZg?oc=5"
+  },
   {
    "ts": "2026-10-19T19:00:46+00:00",
    "title": "Opinion",
@@ -2156,55 +2212,6 @@
    "source": "Frontier Myanmar",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83ejl6TnJoZmNLOS1PeFdDNkQtWXZnTVFEWlJQVDBoNV9ORW1Kb0FqSVhBV0FkTWFVcEVtN2ZtcFNRQ1lwOUdGQy1LOXFrUzdhMld4MDBLZmF1Wm05N08welQ0Wk1Qa2lsVUhyczA5WQ?oc=5"
-  },
-  {
-   "ts": "2026-10-11T07:30:14+00:00",
-   "title": "အဆုတ်ပလိပ်ရောဂါ ကမ္ဘာတဝန်း ပျံ့နိုင်ခြေနည်းတာ ဘာကြောင့်လဲ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cmly0vxnjq41o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-11T06:00:19+00:00",
-   "title": "Ten members of so-called PDF who returned to legal fold systematically handed over to their parents and guardians",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSTdPSWl4bVVsMGJGZHBrNUFCNFZOTkxNRWJHRVZEN3A2ekxYZl9KeHk0dGJQbVRoaVNDUE9EOFRZZk5LVW5YdVp1bi1adVpvYkg2d1k4amZwbnpEY2dHZFpMa0JyR1l3T0dFQXM0bUN6YWQ4SlJtZ1hfcUdta2FpNmJ4NkFkTlc0X1F2NnJPRVpNa3dISVRGX3ktUjV5OTVrQkhNZGZndG5lT1dTNFA2WWdZTE5lZE1a?oc=5"
-  },
-  {
-   "ts": "2026-10-11T02:30:17+00:00",
-   "title": "Sagaing as Myanmar’s Gateway to India: Turning Connectivity into Investment",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOLXdlMmZOS1dTVjZ6ejBSV3JyTTFhV1FHNXFKQTN6ckNxMWlHUDFuZFFBVFUwQThpd2dWUTlGSkRFM20wVWFzNDE5bXc1eGhqQ0FQQUZYSGV4VndtaXJDNi1kWHM0MkZZMmdkRnV6OUFILVdvZGdwdXhqaHpBeThFYWFGd2pZU2Rnel9PTXdBUnRCQUFHNE5FMVRVR21HbWs?oc=5"
-  },
-  {
-   "ts": "2026-10-11T02:30:17+00:00",
-   "title": "Cultivating a Smart Generation: Nourishing Young Minds for Modern Development of Myanmar",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRzk0MTVDTURTUWczWmJneEpmMy1tTS1LUDA2NWVjWXdlNlFua3ZEVjhTY3dDLTZkU0lLZmFSQ1ZSV0dWS2NlSzhicjhZSno2TjBJenl1V2tXbnFaZ01ObGdFdGtmMXdaeGhnNHRVNk1zdEFhMHM1LUYwOVFHbC14WUFMclVPSnVUQndqa2J4eTFxdFktQlZwTjF4bmp2dmQ5ZEtqbGl4a0pkUkVJYV9GSDB3?oc=5"
-  },
-  {
-   "ts": "2026-10-11T02:30:17+00:00",
-   "title": "Super El Niño in Late 2026: Why Myanmar Must Prepare Now",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMVRIZFQwU21jempVRExVZXpsVVVrelBWTWViNU9OUGJseENzN19sN1ozWG5PaTFJU3FFVHJUekRYQ0loUERjelkxQjlWbGtERDY4ODBDUmV3TncyVHVBdjVVQW83UkJhZDU1T0ZYVTI3NUdQZnliZ2hDQ09xQ01vYnlkZU5RODQ?oc=5"
-  },
-  {
-   "ts": "2026-10-11T02:30:17+00:00",
-   "title": "President U Min Aung Hlaing calls for Myanmar-Malaysia relations to reach next level",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRlh4ekR0MmQ0dFZrZV9fMjNKd2piUndKTllZdFVZeDFlWnpjMExwaW5PR1JEcnlNVTFvT2hnSS1wLUJtUUlPS1NlLW5UbE0yVTJhd3g5SDc2R1Z4aGJ3aFFjWHhUb0Y2a01zUjRyRmhhc1U1RFctLVdNd1dKQ1FZblRRZFloM1h6c0syX25yUEE3MVNNVzE0TTcyd2xWcUFMekNQRVk3cWw5UlpQbEE?oc=5"
-  },
-  {
-   "ts": "2026-10-11T02:30:17+00:00",
-   "title": "Questions Answered During Amyotha Hluttaw Debates",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jQW1LemVub04yZlFYMlZHMmJUQ0pwdVFWTnpWTVI0ZDZqb2ZqM1hDR0NoaUhoQXJIczRQeWEzY0tzTnl5bXphaVk0bWVGaFpKNDZiYUh4dmswRWlYWXhRTFJveDhVYVE0M0V4THVIWTA5YXB0MTNGVTF1bFo3bUk?oc=5"
   }
  ]
 }
