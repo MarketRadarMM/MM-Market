@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-19T23:00:20+00:00",
+ "generated_at": "2026-10-19T23:30:26+00:00",
  "signals": [
+  {
+   "ts": "2026-10-19T23:30:24+00:00",
+   "title": "Rare photos of Aung San Suu Kyi spark renewed calls for her release",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/myanmar/2026/10/19/myanmar-burma-aung-san-suu-kyi-king-charles/"
+  },
   {
    "ts": "2026-10-19T22:30:33+00:00",
    "title": "Breathless Archives",
@@ -2205,13 +2212,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tQ2pLS1hzVWlhVlZQak5CNFh3U0dJMDBMZ1paZEJlT3NoTVJOTTlBRS1EYkg2d3JiUzBGbUpEUGRxWEtRWlRFTkZyZWYyWlJ6TDRKOG9yWGNCa2tiX2dyRTljdDVoUkcxcnZtV2RNcHNOWko3RERGRGk4VFpoSUE?oc=5"
-  },
-  {
-   "ts": "2026-10-11T12:00:20+00:00",
-   "title": "President’s Office Spokeswoman responds to media queries",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdnZqYzhKRHZNWTFxTFVaTjNwWTZtVkY4QjRmelJPRmdjenRDa3ZPZUxYMFNhRGVEdW55YzVTMmNsT2pZZEJnMTNkUFcxb0hma2liUXVqSDlGZEdhZnhiNVhjOV9OZUNYaGZYU2d2d3ZOMF9HUWJXenpxY0djVkU4Tms0NDY1RU0?oc=5"
   }
  ]
 }
