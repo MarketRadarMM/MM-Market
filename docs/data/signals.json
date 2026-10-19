@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-19T06:00:19+00:00",
+ "generated_at": "2026-10-19T06:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-10-19T06:30:18+00:00",
+   "title": "Specials",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wVm9mNmRQR0Y4QU1oWEsxWkdTUEp4amV6VG1vZ3k3ZDN2X216Y01EcDdha1Etb0I2RHBNWlFrano1bHJRQjhBZVFnRlZOYjJ1bWlpYnV2aTFWeHpuamFEQw?oc=5"
+  },
   {
    "ts": "2026-10-19T06:00:19+00:00",
    "title": "- yktnews.com",
@@ -2191,13 +2198,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdng3dWtNdkF5dnpzcGt2eGx2OVk0cDVGdzRYNzJBM05HblJMelF5N3dZeUVmTGNINDdZYzQ2anJaX1YzNmNON25ZMDhMZnpESXRQa05YZzd4eU1MMktWRXZUQVJxRm11aktZdzFDZ1E2VG5WXzdtLXREek1nYmpSS0cwNWNkbDRfYm5semZZQnFGTFFsM3NSSzlZUzRvdnZwOHVQS2V3VVdCMEFlbDg3d3J2aTV0amRD?oc=5"
-  },
-  {
-   "ts": "2026-10-10T06:30:20+00:00",
-   "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing attends opening ceremony of 61st Myanmar Gems Emporium",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQm8xNC1jMDNxb3U3amJyUG9jSkVYakI0LTRyaVJpZHFONjdtaGxhWnEtQzgxRUt5TjhTc0FWbDg0Y0ZCSENCQkVzN1RGdjZBLXRnblpZeVQwcTVNRngtS3RoUlRpa3lCMHdtUmQtcC1CMTY4TzdJbS1sbEk2dW1qc0YyV1JVYTBjcmV0cXNncG5Zal9sZEtWWm5YakVvRkh5clNVRTlUSVNGOVFWeEI5UnFKU1M5ZVE?oc=5"
   }
  ]
 }
