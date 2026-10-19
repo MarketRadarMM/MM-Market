@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-19T22:00:20+00:00",
+ "generated_at": "2026-10-19T22:30:35+00:00",
  "signals": [
+  {
+   "ts": "2026-10-19T22:30:33+00:00",
+   "title": "Breathless Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45WkI3d0tlSk5nZ2p2cWU0cnluSEtPd3dpQl9TdzB0MjBzT1B3MVpQelVQRU1YS29QWGZVYU80aFUyeU1qX2ZRYTVZazBZeGVmZlpOYw?oc=5"
+  },
   {
    "ts": "2026-10-19T22:00:19+00:00",
    "title": "Pyithu Hluttaw Speaker receives legal professionals",
@@ -2205,13 +2212,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdnZqYzhKRHZNWTFxTFVaTjNwWTZtVkY4QjRmelJPRmdjenRDa3ZPZUxYMFNhRGVEdW55YzVTMmNsT2pZZEJnMTNkUFcxb0hma2liUXVqSDlGZEdhZnhiNVhjOV9OZUNYaGZYU2d2d3ZOMF9HUWJXenpxY0djVkU4Tms0NDY1RU0?oc=5"
-  },
-  {
-   "ts": "2026-10-11T12:00:20+00:00",
-   "title": "Myanmar military airstrike kills 33 in market area",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX1d5TUpPTzZnSG1ZaUdhNGlvdlVWU0x1dU5kdGN1TWRhUWs0UnlPNEFVZzcyemdhU3BzcVlyc2N1REV1dkprRlg4Mm11RzVYTW14Zmd6WVM5SGkwTkg5SENMNml1aDBYbHE5TW5icHdWYVVxajFJYmFZWVBWYUZ4ODVHOVhQNnk4ZWNmQmk1SQ?oc=5"
   }
  ]
 }
