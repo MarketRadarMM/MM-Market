@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-19T13:00:23+00:00",
+ "generated_at": "2026-10-19T13:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-10-19T13:30:17+00:00",
+   "title": "TNLA ဖွဲ့ပေးထားသည့် မိုးကုတ်မှလီဆူတပ် စစ်တပ်ထံဘက်ပြောင်းခိုလှုံ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81849/"
+  },
   {
    "ts": "2026-10-19T13:00:23+00:00",
    "title": "Chairman of State Administration Council Prime Minister Senior General Min Aung Hlaing inspects No 3 Steel Mill (Ywama), Pharmaceutical Factory (Insein) of Myanmar Economic Corporation, Pharmaceutical Factory(Ywathagyi Branch) and Hepatitis B Vacci",
@@ -2198,13 +2205,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX2VVUXUtTXFMVjQyT05GTnRScHc5dFRkOUtlZ3pWQ2pYNEI2VG1MUWdZVVM5NURPS21qSnUyeWw2NkN1S3kxUklNRUpFYjZmUFJDcGlfQXAyVkRaQU94UkYxV0J0RzViTXZXMVlIN2VwbGhidFpWcTZMLVluc0lRLXYxOXViLVVNXzVTRFFyck01ZmFXVlZFNEVlWHZzUlhTOHZrZDRR?oc=5"
-  },
-  {
-   "ts": "2026-10-10T19:30:20+00:00",
-   "title": "မဲဇာ Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5QMXR6dmxibkRLWHNHTk5fUWU1dHF1Q1o0R2ZzTHBCNmVYa2dsQmEyeEs5TnE5c1E3T3djcmNCTmtTX1lQSnczVmZCU0FrMk1WQXJIdVAxbnF1el9jOGpiMnUwc1VRMm9hMnprYTIzbHQyVFlaa2FB?oc=5"
   }
  ]
 }
