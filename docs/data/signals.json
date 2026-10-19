@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-10-19T18:30:22+00:00",
+ "generated_at": "2026-10-19T19:00:48+00:00",
  "signals": [
+  {
+   "ts": "2026-10-19T19:00:46+00:00",
+   "title": "Opinion",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zMG92SURLSjJMalJSWVhqM1FXZ3pmR2tiNFdQVWZ4MDJvRzFkMHVNSkdOWlgtMFdhZkdiaURXQmlMbnlrckd1RzVRY01kbDZBNG5EZWlUc2pPNE5TMjcxQg?oc=5"
+  },
+  {
+   "ts": "2026-10-19T19:00:46+00:00",
+   "title": "Earthquake Destroyed 50,000 Houses in Central Myanmar: Junta",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdzJsNGNYcm9BTW9kTjF5OFJQVDhiVjVVUUdfOGFkLWsyRWFnTUpGUFhac1pxUHRSM3hLRzE2OUs4ZkpZODNXQ1AzcDNfa3Fra1NGX25oa01GdldKQ09sTEF2dzc3S2RnT21oWW1VOHMtYVNCWTlEVExaU3haYVpWSzAtYmtmcjRmaEdKX1dPT292SFpiU1NXa2lUY2hDcFpacUE?oc=5"
+  },
   {
    "ts": "2026-10-19T16:30:21+00:00",
    "title": "ASEAN Ministers Call Off Myanmar Election Visit After Junta Snub",
@@ -2191,20 +2205,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jQW1LemVub04yZlFYMlZHMmJUQ0pwdVFWTnpWTVI0ZDZqb2ZqM1hDR0NoaUhoQXJIczRQeWEzY0tzTnl5bXphaVk0bWVGaFpKNDZiYUh4dmswRWlYWXhRTFJveDhVYVE0M0V4THVIWTA5YXB0MTNGVTF1bFo3bUk?oc=5"
-  },
-  {
-   "ts": "2026-10-11T02:30:17+00:00",
-   "title": "Ten PDF members reintegrated into society in Mon State",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZEZLenAwb0FJNWc0Z0hYTGpwaVVrS0s1UEVHTHZ0MDRpaE5COG9pOTlva1d1aFZUb0JQLXlMVjBiU3dBMnhxYXdrUG92SnVvdjktTGdSR3lEdzZZZS1LY1dMdmJGYnE4MTVja3VjSmtEWG9qOXo1cFBBYWpLZmZYQ2UzRzAzZw?oc=5"
-  },
-  {
-   "ts": "2026-10-11T02:00:20+00:00",
-   "title": "‘I’m proud of what he did’: Phyo Zayar Thaw’s wife speaks out",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWnlJQnNHa0ttdWRfMlRpVXFoMTBNOGNlQjExS1JfTEFCaFZSRFhWSW1tblIzNU9WbUx3TzdfQjFBai1JOHUzWTg2a3hEaGVXd3Y3WUxUNzBCZmZKVERHZEdmVHlTUGN2MWNJZllfZ09LY2RtcG1CZXZkaVM0Nkk3ZWRuYi1GUTBZZjZOWHdTZFlfTTlxaEhN?oc=5"
   }
  ]
 }
