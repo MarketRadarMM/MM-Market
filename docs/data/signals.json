@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-19T06:30:19+00:00",
+ "generated_at": "2026-10-19T07:00:19+00:00",
  "signals": [
+  {
+   "ts": "2026-10-19T07:00:18+00:00",
+   "title": "Truth, Knowledge, and Leadership",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ta2RVVFQwMkRRUGE2Snd1eURFVTNQOS1kWkR6d1JaMVROVXFxaFhJb1h1emtScXJUZ3lnZzlZLWZoX3d6aUNVZ01QVFFvek5EZXpoZWlFaTF4Vy1kbTRKc2FkRVNXdw?oc=5"
+  },
   {
    "ts": "2026-10-19T06:30:18+00:00",
    "title": "Specials",
@@ -2191,13 +2198,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWFJ0VHJoR25nZHQya1RoTGNYV0pxYmRVQmR6VzlrR3RWbXhVcWkwNTFLVmx0SEVGZjlYM3lvdEFaZlFKemJ6WDNXdGpKTWJWLVh0TWhZQnp4Z1JtVjVBRzhsMXk1S0F2TjBFclZybkpTRXlFUVVMdjRrZGpjaDlQWnQyOGxZMHYtTEJTejRCTTlQajNLVFI2R19nWm0zUVN0MTNGSEh3RDZ5THNNY25mZW91RENQa1E?oc=5"
-  },
-  {
-   "ts": "2026-10-10T06:30:20+00:00",
-   "title": "Suspect arrested for cyberattacks on government and private online services and a publicly used private digital payment system",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdng3dWtNdkF5dnpzcGt2eGx2OVk0cDVGdzRYNzJBM05HblJMelF5N3dZeUVmTGNINDdZYzQ2anJaX1YzNmNON25ZMDhMZnpESXRQa05YZzd4eU1MMktWRXZUQVJxRm11aktZdzFDZ1E2VG5WXzdtLXREek1nYmpSS0cwNWNkbDRfYm5semZZQnFGTFFsM3NSSzlZUzRvdnZwOHVQS2V3VVdCMEFlbDg3d3J2aTV0amRD?oc=5"
   }
  ]
 }
