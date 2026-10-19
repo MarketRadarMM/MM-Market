@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-19T05:30:18+00:00",
+ "generated_at": "2026-10-19T06:00:19+00:00",
  "signals": [
+  {
+   "ts": "2026-10-19T06:00:19+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JTzlfRU1rZ1YtOXUzNF9XY3lnVF94cFhKQk1uQkJONTgwX2xodlpaYzZsNWFJbGNRMzBNeEVCeFdfSUxUOFVyTk9EWQ?oc=5"
+  },
   {
    "ts": "2026-10-19T05:00:21+00:00",
    "title": "Bilateral talks between the Republic of the Union of Myanmar and Malaysia, press conference held",
@@ -2191,13 +2198,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQm8xNC1jMDNxb3U3amJyUG9jSkVYakI0LTRyaVJpZHFONjdtaGxhWnEtQzgxRUt5TjhTc0FWbDg0Y0ZCSENCQkVzN1RGdjZBLXRnblpZeVQwcTVNRngtS3RoUlRpa3lCMHdtUmQtcC1CMTY4TzdJbS1sbEk2dW1qc0YyV1JVYTBjcmV0cXNncG5Zal9sZEtWWm5YakVvRkh5clNVRTlUSVNGOVFWeEI5UnFKU1M5ZVE?oc=5"
-  },
-  {
-   "ts": "2026-10-10T06:30:18+00:00",
-   "title": "Guest Column | The Regime Is Laying a Trap for the US. Will Washington Fall for It?",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWThRbngxbFhmRmZMSUwwSVB4UGFTQ3pCSFZ4UVdKbkJBeFJSVzdoMlkzYnFTSHVzYm05MXFuZTFBTmxfX2NnVXFhZndtVFhud0tyaFFWbmR2UWJFa1ZmYmJsMzNBNkZoWVhMM1hnRjNQOUpjTUpfTThYYXB2SjFmTEJlN0lfMXZhSklQVzVzTXVYN3MwZWlDVllqRExvRkxGY3BkTE9rNWRtaUtKV2hSSmJGUGstVGNPRGc?oc=5"
   }
  ]
 }
