@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-19T10:30:23+00:00",
+ "generated_at": "2026-10-19T11:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-10-19T11:00:16+00:00",
+   "title": "Myanmar migrant remittances now junta’s largest foreign currency source",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/myanmar-migrant-remittances-now-juntas-largest-foreign-currency-source/"
+  },
   {
    "ts": "2026-10-19T10:30:20+00:00",
    "title": "ရေစကြိုတွင် ဗုံးကြဲမှုကြောင့် ကလေးများအပါအဝင် တစ်ဒါဇင်ကျော် အစုလိုက်အပြုံလိုက် သေဆုံး",
@@ -2198,13 +2205,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/cqy0rp5jlk3ko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-10T12:30:19+00:00",
-   "title": "Business | Myanmar Junta Blacklists Scam Warlord Saw Chit Thu in Currency Crackdown",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaXFQSHlqdDdXN25qcmo5LXlPRlc3SDJDSUREVUdDcnBoS1hyLXZGU1k1dlNUN2JsSkt3Yko5MTJKQVR0b1VfZ3l1LVB4NnV1Q1pTN1FPN2M3SGZIWHFsRzM2V2p1MGxUamY2ZW91a2JCYmlLMXFRZFhjbWN4R3ZlSlpscFdNUzUya193YVpoWUxiN05ZYmlVR3BtMmtDaU83amlyeXdQN3FaWWNFVjl4VHRB?oc=5"
   }
  ]
 }
