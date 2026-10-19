@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-19T04:30:42+00:00",
+ "generated_at": "2026-10-19T05:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-10-19T05:00:21+00:00",
+   "title": "Bilateral talks between the Republic of the Union of Myanmar and Malaysia, press conference held",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWTR0TFlZNUYxaXhqMXdmZUNTYUdpeFdsaVNNdjZLbUlHTnJEUjZ1eDNURExTS2tpYXpQMUZKME5XNjl1VWVWdml0VjZsSGZjSnNmZk5qSGZRZmdKUlVjcUNSS3BJZ2N3czFPbWZSN2NrdFhWZUNqdDdvUmY5TUJUdDdvYUlHVS1ab3UzT2ZmN3NPVFByUmo5eVJmSENqRDlDVHZpSEowMA?oc=5"
+  },
   {
    "ts": "2026-10-19T04:30:42+00:00",
    "title": "Vice President U Nyo Saw meets state-level departmental officials in Hpa-an, Kayin State and Mawlamyine, Mon State, inspects implementation of regional development projects",
@@ -2191,13 +2198,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWThRbngxbFhmRmZMSUwwSVB4UGFTQ3pCSFZ4UVdKbkJBeFJSVzdoMlkzYnFTSHVzYm05MXFuZTFBTmxfX2NnVXFhZndtVFhud0tyaFFWbmR2UWJFa1ZmYmJsMzNBNkZoWVhMM1hnRjNQOUpjTUpfTThYYXB2SjFmTEJlN0lfMXZhSklQVzVzTXVYN3MwZWlDVllqRExvRkxGY3BkTE9rNWRtaUtKV2hSSmJGUGstVGNPRGc?oc=5"
-  },
-  {
-   "ts": "2026-10-10T06:30:16+00:00",
-   "title": "\"ပြုံးနေတဲ့ စိတ်ကျရောဂါ\" ဆိုတာ ဘာလဲ၊ ဘယ်လို သတိပြုမိနိုင်မလဲ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cqev3eey8vgzo?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
