@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-10-19T10:00:20+00:00",
+ "generated_at": "2026-10-19T10:30:23+00:00",
  "signals": [
+  {
+   "ts": "2026-10-19T10:30:20+00:00",
+   "title": "ရေစကြိုတွင် ဗုံးကြဲမှုကြောင့် ကလေးများအပါအဝင် တစ်ဒါဇင်ကျော် အစုလိုက်အပြုံလိုက် သေဆုံး",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81843/"
+  },
+  {
+   "ts": "2026-10-19T10:30:18+00:00",
+   "title": "မကွေး၊ စဉ့်ကူးနှင့် ပလက်ဝတွင် ၁ ရက်အတွင်း လေကြောင်းတိုက်ခိုက်မှုကြောင့် တစ်ဒါဇင်ကျော် သေဆုံး",
+   "source": "Myanmar Now (MM)",
+   "markets": [
+    {
+     "market": "pulses",
+     "direction": "bullish",
+     "confidence": 0.55,
+     "rationale": "Conflict in bean/sesame heartland threatens supply"
+    }
+   ],
+   "url": "https://myanmar-now.org/mm/news/81837/"
+  },
   {
    "ts": "2026-10-19T08:30:16+00:00",
    "title": "Sagaing Resistance Seizes Three Budalin Strongpoints as Junta Stages Vote",
@@ -2184,20 +2205,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaXFQSHlqdDdXN25qcmo5LXlPRlc3SDJDSUREVUdDcnBoS1hyLXZGU1k1dlNUN2JsSkt3Yko5MTJKQVR0b1VfZ3l1LVB4NnV1Q1pTN1FPN2M3SGZIWHFsRzM2V2p1MGxUamY2ZW91a2JCYmlLMXFRZFhjbWN4R3ZlSlpscFdNUzUya193YVpoWUxiN05ZYmlVR3BtMmtDaU83amlyeXdQN3FaWWNFVjl4VHRB?oc=5"
-  },
-  {
-   "ts": "2026-10-10T09:30:16+00:00",
-   "title": "စစ်ခေါင်းဆောင်တွေနဲ့ သူတို့ရဲ့ ဆရာဝန်တွေ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c142m6561e3o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-10T08:30:19+00:00",
-   "title": "Illegal Rare Earth Mines on China Border Multiply Since Myanmar’s Coup",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTVpUSmdpX1hCNXhPTGM5RkNEMGo3Q1ZYeVhsZEw0cVNSd2pWb3N2M0F6REdRR1NYa0NrOHlFRzg2MTI2VXVWdHFERE05dktwcl90UEtqbmVJRUFFRWRScmtKc2JGNmUzOHRoU19sUlFMYkw4OElKZU05em5QN1pfWG5OLW8wcG91ZmlaUEZjSFBVU1BoVmZweGl2dXpRUVRpc0Z1RHZuemNPS0Qx?oc=5"
   }
  ]
 }
