@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-10-20T10:00:21+00:00",
+ "generated_at": "2026-10-20T10:30:28+00:00",
  "signals": [
+  {
+   "ts": "2026-10-20T10:30:23+00:00",
+   "title": "Myanmar military airstrikes kill 16 in single day",
+   "source": "Myanmar Now (EN)",
+   "markets": [
+    {
+     "market": "pulses",
+     "direction": "bullish",
+     "confidence": 0.55,
+     "rationale": "Conflict in bean/sesame heartland threatens supply"
+    }
+   ],
+   "url": "https://myanmar-now.org/en/news/myanmar-military-airstrikes-kill-16-in-single-day/"
+  },
   {
    "ts": "2026-10-20T09:00:19+00:00",
    "title": "ကိုင်လီ ဂျန်နာ၊ ဒေါ်လာသန်း ၅၀ တန်  Victoria's Secret ဘရာအတွင်းခံနဲ့ ကွဲပြားတဲ့အမြင်တွေ",
@@ -2205,13 +2219,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUDBKa19sWHNPYW5INkdBd3pVd25NaUh2QzBmdUdkQWlYSWJfWnZVb3BkSzFkZXQwN0VlRUdOT25qb0hOZUFlVURyNkJleFhRYTBrVUUxN2FCTk85WkJ2UVNWZEZQQlh3a2U5UmlwdWpxcU1FMHgtSnF0T3hyVUVkMDNUeGx2b0ctMVVhbEs1bFBNV1dLNjc3d093?oc=5"
-  },
-  {
-   "ts": "2026-10-12T12:00:24+00:00",
-   "title": "Hundreds of Myanmar Migrant Workers Barred From Returning Abroad Over Tax, Remittance",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWXd1V0lmQlNBQ1RVaXNxamF0WnZyYnVsWHYtQ1BESzd4VGNxLWR0M2dCbUpiellJZ1hCbjYxYkRiVnIxajFjRkRqUGpTd2ZWVWJaVWJXVmhqRVoxeWk1UmozOXhNNnNfV0lVanNDV1RPMUY2cXBqVHc3SWFmY1NwblF1cHhMa1U2RGVxWnI0Y253Q0taQnhKdUJWd2R1VlY0VGpnWVBVeUVyMWlGMlVwTmE0WmFsTVVlenhrTnRaX2p3bFV2?oc=5"
   }
  ]
 }
