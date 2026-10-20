@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-20T08:30:20+00:00",
+ "generated_at": "2026-10-20T09:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-10-20T09:00:19+00:00",
+   "title": "ကိုင်လီ ဂျန်နာ၊ ဒေါ်လာသန်း ၅၀ တန်  Victoria's Secret ဘရာအတွင်းခံနဲ့ ကွဲပြားတဲ့အမြင်တွေ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cv5ynkpnzp7ro?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-20T08:30:18+00:00",
    "title": "Regional Body Expels Myanmar Regime’s Human Rights Fig Leaf",
@@ -2205,13 +2212,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWXd1V0lmQlNBQ1RVaXNxamF0WnZyYnVsWHYtQ1BESzd4VGNxLWR0M2dCbUpiellJZ1hCbjYxYkRiVnIxajFjRkRqUGpTd2ZWVWJaVWJXVmhqRVoxeWk1UmozOXhNNnNfV0lVanNDV1RPMUY2cXBqVHc3SWFmY1NwblF1cHhMa1U2RGVxWnI0Y253Q0taQnhKdUJWd2R1VlY0VGpnWVBVeUVyMWlGMlVwTmE0WmFsTVVlenhrTnRaX2p3bFV2?oc=5"
-  },
-  {
-   "ts": "2026-10-12T12:00:20+00:00",
-   "title": "ရခိုင်ကို ပိတ်ဆို့တိုက်ခိုက်တဲ့စစ်တပ်ဗျူဟာ အောင်မြင်နိုင်မလား",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cmwyvd7xyd5wo?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
