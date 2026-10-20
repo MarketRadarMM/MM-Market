@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-20T03:30:21+00:00",
+ "generated_at": "2026-10-20T04:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-10-20T04:00:19+00:00",
+   "title": "Japan to recruit around 1,000 Myanmar workers",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9DZktndzV2Y211Mk9paV91YWp5enM1T29wNndfOTYyY1FzcUlLZ0o2REcybnp6MFFVQnFrSkt0STZtSjRMaHBORndGUWVYaFNqVnJJeXlGMkZMamxvUGFXcWRKM2dpZkJEeU9zWDJEVE5yNzdib1ZJMw?oc=5"
+  },
   {
    "ts": "2026-10-20T02:00:19+00:00",
    "title": "The Master Blueprint: How to Live a Long, Healthy, and Happy Life",
@@ -2205,13 +2212,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE04c2R4Nk8zMHFFSWZZV1lhTmkxRmp5eWJFdjhiS2FKTTBPZnk0QU5wSFU2X1Q0SThjS3B2QlRnN0wyRWtlZHM4aA?oc=5"
-  },
-  {
-   "ts": "2026-10-12T02:00:42+00:00",
-   "title": "The Day One Computer Stopped a Bank",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82WThib2pjOFIxUHFEeDBURk54SlViemVqWnZQSUVKVTF4aFhjd19rRmhMNXpLdzMzSjljSUlaU0VQOVljY095LVVMeE1hclhZZThnamQ1VVdHd3J4dk91V1lPdzJhVUxWa240Ng?oc=5"
   }
  ]
 }
