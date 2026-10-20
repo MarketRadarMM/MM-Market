@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-10-20T00:30:20+00:00",
+ "generated_at": "2026-10-20T01:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-10-20T01:00:19+00:00",
+   "title": "1.3M+ acres of Pawsan rice planted in Ayeyawady Region",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORkVSbE03alpRR010X0twcXRDTlhKY3kzQzhxVHFwWXJlUk9ob0drb3VFR3hzV0ZYUVdWX1ZNd0lYakRMSGRIUWRIN2o2NnhGNHZrVkpiV3RLcHBWeDJ1MDhNc0pOYkYzLWVsVFp1QlBWRHEzQngxbUI1Q2dGNDh6RE40azE?oc=5"
+  },
+  {
+   "ts": "2026-10-20T01:00:19+00:00",
+   "title": "SME Development Bank to hold 30th AGM in Jan 2027",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GZzVTamtzazkzTzRUUTZrU1ZTWlQ4RUpDSTJuc0k3dTdyVkpBcmpEcWI0Wlota2FMM29NSHhYTTQyR010ejFCaWR1Tm82X3g1b0RlQ0pBUHNEUVRBdEVZT2VyVGxDYzNzeThkNk5faEh4UTRCcElCX1YzOGxRUlE?oc=5"
+  },
+  {
+   "ts": "2026-10-20T01:00:19+00:00",
+   "title": "Vaccination campaigns resume in Falam",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GclRKZk44Rnd1cFVvMnV0R244YURuWlhyaWU1RnBoOXYzQ0VaOWRrYkF5Y1N6QnlETnNBTmd2QWllMnYwb1RjNVpkcS01cnFIZ2JsSUxFQmc0ajh2RU9LRG1ic2ZOQWxlQU8xR1h6NA?oc=5"
+  },
   {
    "ts": "2026-10-19T23:30:24+00:00",
    "title": "Rare photos of Aung San Suu Kyi spark renewed calls for her release",
@@ -2191,27 +2212,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTGtCckxyU1E4OFZ2RWhtZFNzc2xTUUdfRE9oQlVVQ0JoWlJtUjdJTUltSDZZNWkweUc1Z2wyY1h2N3BlZ19ITVV4aFh4Ykx0VEJzMzl3NldtVk5NRnZzWWNiWktVLVJtVVRGcDBmVjVPT1hYVnREQlhsbkI0cUNiYzJ6bEt3N2oxNmpUX0tZU0FscndSUDlndlNUY3pZZDJqRU9kNlZTZ2FpdnFiclg5eE93Q1lTaHpnaEpNX2Rzdy1aa3l1Skc4?oc=5"
-  },
-  {
-   "ts": "2026-10-11T15:00:22+00:00",
-   "title": "Ta’ang Rebels Accused of Betrayal for Handing Over Mogoke and Mongmit to Regime",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOejVNd2xHd2ZHRzhnTERnYlh5SjNkWU5IaXNOQW9RNnhsUnN1UXNac3h1R2NvNlk3YkJtajBrX2NRNVF1RjBWRlhTLVZjY0lxcGtibHBUVXE0aFZUS1lNSk0tbC1NSFZPN3JRdE5fYVY3NDZmeXFXREZwd0tYT0VlMFhudzBRTWdBUVR1dmdHMDVGYXJoSm5FYWcxREEwUmQ5bFpOamRtdkZ2ZzdUMl9WY3ZWTFY0TzVRQWUyTw?oc=5"
-  },
-  {
-   "ts": "2026-10-11T14:30:16+00:00",
-   "title": "Guest Column | Yet Another Peace Ploy from Myanmar’s Junta",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZnFUQU9XS2tzbTZuYWFmWW40T2tUbHFNNEc4c1NuMmlYWkFoR3BJU01FQ0d4MFc2QjRQTTFQY3NUb3pZbnRqekZ2MDg4NEd3WHNqd1ktcC1TaEE2MWtCVjdSNnlmNU40T2R1eVFBUkh3YXd3MmNXMnFwLW9sNWluT0ZmSXpwYTZ6R1ZlSzJhMFlzQXlfb043SU13?oc=5"
-  },
-  {
-   "ts": "2026-10-11T14:00:21+00:00",
-   "title": "Classroom Key to Shaping the Future of the Nation",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tQ2pLS1hzVWlhVlZQak5CNFh3U0dJMDBMZ1paZEJlT3NoTVJOTTlBRS1EYkg2d3JiUzBGbUpEUGRxWEtRWlRFTkZyZWYyWlJ6TDRKOG9yWGNCa2tiX2dyRTljdDVoUkcxcnZtV2RNcHNOWko3RERGRGk4VFpoSUE?oc=5"
   }
  ]
 }
