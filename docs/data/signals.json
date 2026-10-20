@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-20T04:00:20+00:00",
+ "generated_at": "2026-10-20T04:30:16+00:00",
  "signals": [
+  {
+   "ts": "2026-10-20T04:30:15+00:00",
+   "title": "Detained Aung San Suu Kyi Receives UK Royal Package: Regime",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeDZIQWFfdFVnMzBibmJ3UTNwSlBXa2YwQUlpUjBZSEJXSUF1RGZ5dEd2R2hZQWFKcGxpVkprQll0ZUlIb2lsc3Z0dE1heG1FdmtZTGFPZVpyZTlNUU1ldHJScEVrUk01RTZBQ0c1Q2RRQmZyVVBab3M0Y2h3ZWduTUV4TkVWQkNtTFR6cm9wTnU2SGtMZlBxTURkVEktOTEwdUtBYWpZOWwxSlFLN0hOY0l5R2ptR1oxckxoNQ?oc=5"
+  },
   {
    "ts": "2026-10-20T04:00:19+00:00",
    "title": "Japan to recruit around 1,000 Myanmar workers",
@@ -2205,13 +2212,6 @@
    "source": "Myanmar Now (MM)",
    "markets": [],
    "url": "https://myanmar-now.org/mm/news/81718/"
-  },
-  {
-   "ts": "2026-10-12T02:30:18+00:00",
-   "title": "Magway Airport operates weekly domestic flights",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE04c2R4Nk8zMHFFSWZZV1lhTmkxRmp5eWJFdjhiS2FKTTBPZnk0QU5wSFU2X1Q0SThjS3B2QlRnN0wyRWtlZHM4aA?oc=5"
   }
  ]
 }
