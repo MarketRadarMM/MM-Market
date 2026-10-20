@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-20T06:30:18+00:00",
+ "generated_at": "2026-10-20T07:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-10-20T07:00:17+00:00",
+   "title": "ကယ်ဆယ်ရေးသမား ဆုံးရှုံးသွားသည့် ပရဟိတ ကမ္ဘာ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81852/"
+  },
   {
    "ts": "2026-10-20T06:30:18+00:00",
    "title": "Vice President Daw Nan Ni Ni Aye attends and delivers address at the Fifth International Forum on Trans-Himalayan Cooperation",
@@ -2205,13 +2212,6 @@
    "source": "Myanmar Now (MM)",
    "markets": [],
    "url": "https://myanmar-now.org/mm/news/81739/"
-  },
-  {
-   "ts": "2026-10-12T08:00:21+00:00",
-   "title": "From refuge to repatriations: Malaysia’s Myanmar U-turn",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/from-refuge-to-repatriations-malaysias-myanmar-u-turn/"
   }
  ]
 }
