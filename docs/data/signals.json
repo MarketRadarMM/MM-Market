@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-20T05:00:21+00:00",
+ "generated_at": "2026-10-20T05:30:22+00:00",
  "signals": [
+  {
+   "ts": "2026-10-20T05:30:18+00:00",
+   "title": "Detained Suu Kyi receives UK royal package: Myanmar regime",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/detained-suu-kyi-receives-uk-royal-package-myanmar-regime/"
+  },
   {
    "ts": "2026-10-20T04:30:15+00:00",
    "title": "Detained Aung San Suu Kyi Receives UK Royal Package: Regime",
@@ -2205,13 +2212,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM2s3SGxlRDAwOXdxbWNoXzRaSEhGM21ncmZuTXRSVTBVZVhORDVKaVNKdTRIeTByOFE5S09pR3prMFhiTmx2aUpTVDE4aUxnZDdjRVZ2WFdBUnZGSXNnY01SbGhxTDhMTGw3VW1hUFdqVzRqOVhsNkRLOTNoQllzaTBaQ0VtTWczLUJTcmZWM00?oc=5"
-  },
-  {
-   "ts": "2026-10-12T05:30:14+00:00",
-   "title": "မူးယစ်ဆေးဝါးထုတ်လုပ်သူများနှင့် ငြိမ်းချမ်းရေးယူထားသော စစ်အုပ်စု၏ မူးယစ်နှိမ်နင်းမှုဗျူဟာ",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81718/"
   }
  ]
 }
