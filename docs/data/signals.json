@@ -1,6 +1,41 @@
 {
- "generated_at": "2026-10-20T18:00:23+00:00",
+ "generated_at": "2026-10-20T18:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-10-20T18:30:19+00:00",
+   "title": "နိုင်ငံရေးသစ် Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRWhyYTZNcUR5TWVQNUhqQ0p0UXhnd0FuMmRDWWtsQWxTeXI5RE5ZdVpEVkRackp3TXpOTFM3S3dSQVFyWkRKdVo0WE0waTNQVlVGeHJRVXJ6VHJIUGtGUHFxM3JfUVIzTnR6QnR1dDcwM0EycTk3YWZfUFZPempNQWM5LXVKRHZBNDlBNkc3aDNrcW5kaDhzc2xLTWY1SWg1TjgzZk5WRHpaUkdIRXNwaEtnUUI0NnQ5cHpXQW9FcGk2S1FWZlo4bXo1U3BXX1JEN0hjaEE4dXI5RzAwZFQ4Qk0zcw?oc=5"
+  },
+  {
+   "ts": "2026-10-20T18:30:19+00:00",
+   "title": "နို့ Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBQZDlBa2VPYVhfWTBPODhTdXFyZjJ6UDljMTlxejVjdTJUaGFvVzNJSklVMEFEWVowbDAyaWJScnJDamhrTThLZkZaLV9xTzNEQzBBaWRraU9Gd1VKOFQ5eTZGWG5KRUN6MEgyQjZnazU1WnktbXV3?oc=5"
+  },
+  {
+   "ts": "2026-10-20T18:30:19+00:00",
+   "title": "စစ်ကျွန်ခေတ် Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVXJOOTZSNEVFSDh5SGp3UmxGcmd2YUl5N29CekVDbUJkNG0ydlZmbmlfbzdqU0c4dHVuSW5Ea3J1Y1ptLUUzb0dJWnlzbThVLS1MZEZFQlRZTlkwOWIzbENWV2kyZjZVaDlWRk9UV3phOWxyRS03MDhZU1k2RnFfeXcxa1VlRnVmSWt4NlRWZkI5TWFfV1ItWEFOY1FmU1F2eFBrckZnQ19vSWRlcDBQRUF1MjJfNm1aa3llenRVNFRrejh6MXJZOHR4ejNlU2w3VE9LMDhndw?oc=5"
+  },
+  {
+   "ts": "2026-10-20T18:30:19+00:00",
+   "title": "Politburo Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5mOC1nTm5xTWoyYzhFWXROZzhEZmkwNmpIaGtFd2JyUkFwQjJMTm1DNkRIUkNYZUhWRVZfT2ZrdGdQZldZXzNYRWlpN0VSZFdq?oc=5"
+  },
+  {
+   "ts": "2026-10-20T18:30:19+00:00",
+   "title": "Nga Pyi Island Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAySUprWGpRSlp4bmNOZmltUVhGQm5iT3NKUk5KNmUxREp2MzJQTUl6Z0VsZl9wMk1CdUZQc09JaW5ucVlhXy1QOHpoSDlSb0ZTZEFQNzY4WQ?oc=5"
+  },
   {
    "ts": "2026-10-20T17:31:46+00:00",
    "title": "China-Laos air base could be another Southeast Asian forward outpost for Beijing",
@@ -2171,41 +2206,6 @@
    "source": "Frontier Myanmar",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSVBjdzdEVlBrZ0VpNEt3NDlDSUpnSk9Cb2tNREUwa3o0LVlBYUozakVYbmlPTVotOVFVV0tndUtJWEhOa0gybVJjUlc2SGRpSTd3VnlYemxBbDA0d1I3b0hUSVZ0NEpzcllSRHI4N1N1aHJlTmdZQzlPX3RkS1FaOV9aMDhvN3YwV0UxUWE4YkhSNTIxLVROYXoxdzQyaUNaejVEbQ?oc=5"
-  },
-  {
-   "ts": "2026-10-12T21:30:16+00:00",
-   "title": "Myanmar Junta Jails ex-Publisher of The Irrawaddy for Five Years",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeXJUTVVhR2paQVhHUXduU2VUNGJMNzRBRUZROHhaOUd0b0RlUTBqRW9udWI1Y0RRRmRLMDlzOVUxVnhhRFYyWW5XQUltb2tIS29qbC1LOTVEZDlJSjYwZ3BzZDd2UW1EZ1I3TGt3M085QUVwRTE2SEJMUXdxd2dLeEZwWVAxMExTNE5uS05ZWldrYm1UV1lWWXNaOFBTa0VwNl9GQzhEMFg3Zw?oc=5"
-  },
-  {
-   "ts": "2026-10-12T21:00:25+00:00",
-   "title": "From Renewable Energy to a Higher Quality of Life",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ja1V6NHJDNjlobXJ1dl9PbnY2NjB0Q3NBVXNSVS1kTXRUaURKeVNjRXdLcXBsbzFhcXl3STh5WWtLYXZzcUVOVjZjdF9sUVRzX09XQjV2U0l6dnJzdEY2bm5hVER3bkR0cWpkTEowcFdsVllQVnY3bW5QaERYWTQ?oc=5"
-  },
-  {
-   "ts": "2026-10-12T21:00:25+00:00",
-   "title": "Successfully holding performing arts competition",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HMjZ4bkhRZWFLbWFXazVMR0lLSjh5TmxCSVlHUmY2Y3FGcmVUY1BsRVdSTlh4d2RKekdfdjF0cEdSR0dnMnY5SkZ4VXJOLWRxcy1haFVESWhVVXc4c0MzSEVjRlZrTjMxdGxQX1FCekR0WGE0Zld2ZEg1eWFoZw?oc=5"
-  },
-  {
-   "ts": "2026-10-12T21:00:25+00:00",
-   "title": "President U Min Aung Hlaing pays homage to Lawka Marazein Buddha Image, Shwetaungsar Pagoda in Dawei",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLXdDMmppODRWMUdlY2ZUZnRpNERXemZjdTAwTkl3bFB6bGhjVnJtRHk0QWhUdWtwSnZjNnNteG9nMDlUdUFvRzNXTS1QV2VsYVZWTklGYU03VG9Nb190Y2dTUU1HNUZDOTVjcExxQU1EWE9xRWswQTIxaC1JUHVZdW1sRjd1ejZ2dVNENXhfRGlHTlRlSGJQcHUtY21FbkxoRWNzc2gzWFI2LVdIa1R6cUtmU3lfcEhBZ2J2TzVaMllOdw?oc=5"
-  },
-  {
-   "ts": "2026-10-12T20:30:18+00:00",
-   "title": "New Doctors and Dental Surgeons Commissioned into Civil Service to Boost Public Healthcare",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdHZTVm0yd0VQWGdZM0ppYlc1eE9zMVpUUU4yZEdEdENCZVE4SXhQaV82QXlhS0NnNnBrRnhNbnVsNDNHY3d2OG0zVWgzWnZMOGxBNVdDazdEZHYwT0c4VWNnMkNQeVdZbk9ralhHM3RnSV9NWmNMVVdfRDh2QUk2WURTT0NwMUVHVGI0ZWptWnEtWjQtc01lSGxUVnE2MHZ6XzdLVC01TTF0ZkFqcEFhUGJBLXdjUQ?oc=5"
   }
  ]
 }
