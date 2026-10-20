@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-20T08:00:24+00:00",
+ "generated_at": "2026-10-20T08:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-10-20T08:30:18+00:00",
+   "title": "Regional Body Expels Myanmar Regime’s Human Rights Fig Leaf",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcEFaQkFTVWxnTkU1Z0lQZTRYblpjcUVsVXMzc3ZBUFRVU1NLMWs1VEt1RTJHeTlnaEl3bnl4dndaLS1GRWRvUnZpSWhIenR6YndVTkFsZzRnamJWMGdfWXpDZ084V2VWdHVrX1FYcDFwMFFoWEdYOU1tbEQxNFZ1bjBkdHFxaHY2SmtNRnpnSXdPVHE3TWdsaEdza0o0SE9Tb3pVMDlRUmgwMUdzTmxFZ0FFSWVnRTFYUkdYaw?oc=5"
+  },
   {
    "ts": "2026-10-20T07:30:18+00:00",
    "title": "Myanmar Regime Bombs Civilians While Claiming Military Operations Serve Peace",
@@ -2205,13 +2212,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/cmwyvd7xyd5wo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-12T11:30:15+00:00",
-   "title": "Fishermen harassed as Myanmar junta steps up naval offensives in Rakhine",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/fishermen-harassed-as-myanmar-junta-steps-up-naval-offensives-in-rakhine/"
   }
  ]
 }
