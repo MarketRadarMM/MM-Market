@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-20T10:30:28+00:00",
+ "generated_at": "2026-10-20T11:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-10-20T11:00:19+00:00",
+   "title": "အင်္ဂါဂြိုဟ်ရဲ့ဂြိုဟ်ရံလကို ဖဲ့ယူမယ့် အာကာသလေ့လာရေး ဂျပန်စတင်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/crx2d39ye79qo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-20T10:30:23+00:00",
    "title": "Myanmar military airstrikes kill 16 in single day",
@@ -2212,13 +2219,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQUU4WUZndEN6WUJqOUxNb05WTmxrUlFqOVVQcTN6Y19RcGJJRlNvUHcwZGU2aXNVeXEzR3R4XzJFcTN1SXNSV3BfVDdOdmlmTGpaOHFNMVZJYlg5UnljdF9tbmZGNk1ZY25ES3lPOGp3Y29jVmlsTExVVjBEQlFqNmFxZDQ1MW9BVFdQSXU3anZGcW8tSkIyLXVVSW5KVFFJN3lMYVlTN25udWdlcjdVZ0NOUlRMUDJQYnhtR3BfMnFhU1ZVZ3JkT1pzRQ?oc=5"
-  },
-  {
-   "ts": "2026-10-12T12:00:24+00:00",
-   "title": "The Rise and Fall of Myanmar’s Ambassador to Thailand",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUDBKa19sWHNPYW5INkdBd3pVd25NaUh2QzBmdUdkQWlYSWJfWnZVb3BkSzFkZXQwN0VlRUdOT25qb0hOZUFlVURyNkJleFhRYTBrVUUxN2FCTk85WkJ2UVNWZEZQQlh3a2U5UmlwdWpxcU1FMHgtSnF0T3hyVUVkMDNUeGx2b0ctMVVhbEs1bFBNV1dLNjc3d093?oc=5"
   }
  ]
 }
