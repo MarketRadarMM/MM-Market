@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-10-20T12:00:22+00:00",
+ "generated_at": "2026-10-20T12:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-10-20T12:30:19+00:00",
+   "title": "Opening ceremony of 2026 79th Anniversary Union Day Commemorative Union-level MSME Product Fair and Market Festival held, attended by Acting President of the Republic of the Union of Myanmar, Chairman of State Security and Peace Commission, Se",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZ3Q1ZnhEbWZwbUVLck5renNjSnNreUNDd2F1bzFXWGFBNUFMMUdVOE1iZVhkdWwwVm5LcGVCSjI3RU5FM1UzaDJncVpMQXNsZmM2Qnh6RDZ1TWVhTVlZMWFzMndtdVFaa3hXT1FZcVhFalZ3OU1tSXJmZ21WcVROYXB5UzBhTlRjTjlrZW5XbWJTNXVzNWc4SERFaGxqNnlER1FwRVlPdE1sZHBvWXAxY1VSLVlJQnNiM24zZUhsUk4?oc=5"
+  },
+  {
+   "ts": "2026-10-20T12:30:17+00:00",
+   "title": "Guest Column | Tin, Territory and the Shadow Power of Myanmar’s Autonomous Wa State",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOTdKWUk0cDFpdnk5NWp4SnhUQVZWZjk0MndzR0VtYlBQUFZQRkdfNnQxalU1MHk4ZjdvRGVHUnJUSDFhX3VPSUp2azE0SW1uZlRVTmc3NllkNjVacWphbE9JcWtza2NjNFlWRVdtQjhOYTlJcGVJWHhQTUdDanN3cXpobXk3WXRycHUtS2VuREZGRlhYNGtBSWVEUlRfQi1HcUJjSDV4UkFiQkpmdllPLUpRUVUwOEF5RFE?oc=5"
+  },
+  {
+   "ts": "2026-10-20T12:30:15+00:00",
+   "title": "KNU မပါတဲ့ KNPC က ငြိမ်းချမ်းရေးအတွက် တကယ်လုပ်နိုင်မလား",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c1k234z87pdo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-20T12:00:21+00:00",
    "title": "Testing the faith: Military’s brand of toxic Buddhism backfires",
@@ -2185,40 +2206,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOenhReC0teFE5dm9LWFdYbGhnMVJIVzl2T3NXZFo2a3NsOTV6MFNFaDVZOC1NblBMY0lFMkxBcFRtWEhKSGVIMjdrUjhwc2U1LUNIZzBXUGg1RHlzVlpLZEdaM25SUVRZQjFJWk5wYzFkX1VJQkpVWFpWX00tcktFeXJTMA?oc=5"
-  },
-  {
-   "ts": "2026-10-12T16:00:24+00:00",
-   "title": "Preparations underway to relocate 900 villagers due to embankment subsidence in Myanaung",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONWlERk5zMThhdnBMTk1jVFdlMEZPUkh2cV96c3phMzMzVXN3Yk44Z1BqVEpkRkxfaVROQWJVN2h3T2JwdFByU3g2RDJBN09mUmxyWnJCT2VsbWY5bjlVR2xtRWM5SjlQNjVsX1ROZ2pURVZrMDJvRHdJMGNNbHdxTTN1ejB5MmtwNDhnQ1ZhUGdIeGwtdVRidnN2ZzRQajVsbFpvbEl1S1BhWFZRTHJFenlBcw?oc=5"
-  },
-  {
-   "ts": "2026-10-12T14:30:21+00:00",
-   "title": "Magway Airport operates weekly domestic flights",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBiallCTF9lQkprU0x3c2VaTnJGUFZHMWxJMkROMEF5bTdib2QtS0UyRHF6cjdFbUVSbVVQS0ZoQU5DODF1T0hZSFhKNHZadmJZOUNhVW1fZDRILXFxeGtmNzVKUk9GOGQ5c3lzYkRpam9pSjdMb0Nnd3g3ZHI?oc=5"
-  },
-  {
-   "ts": "2026-10-12T12:30:17+00:00",
-   "title": "JFM Slams US Lifting of Sanctions on Fifth Myanmar Regime Crony",
-   "source": "Irrawaddy",
-   "markets": [
-    {
-     "market": "fx_kyat",
-     "direction": "bearish",
-     "confidence": 0.65,
-     "rationale": "New sanctions pressure the kyat"
-    },
-    {
-     "market": "gold",
-     "direction": "bullish",
-     "confidence": 0.65,
-     "rationale": "Kyat pressure drives savings into gold"
-    }
-   ],
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZlRPS1ZWV3JsQk5jbEtSRF9vMEFwMVhKbzZGT0lUaWtpZF9QVC1TVlZsaXhpdFB2Y2ptcTROUS05S0JfUFpCY2NJRzZUSjlBQzVfanBfb0RhUGhyN2VNR29Nakg5TGF5V2Eyc2dtUnZSU2prbWpROTE2TDRSdGVDRjlGU0Z0TXlpUlJ0ekxlVUd0czYwRVpJZWRyaDUyMnZCc2tIbmhQYnEyREFuVTN1X3FkZWFNWXF3ZGlwZjdYY0pNVzA?oc=5"
   }
  ]
 }
