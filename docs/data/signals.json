@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-10-21T09:30:21+00:00",
+ "generated_at": "2026-10-21T10:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-10-21T10:00:20+00:00",
+   "title": "AA ထိန်းချုပ်သည့် ပေါက်တောမြို့နယ်ကို ညအချိန် ဗုံးကြဲမှု  ၂ ဦးသေဆုံး၊ ၆ ဦးဒဏ်ရာရ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81866/"
+  },
+  {
+   "ts": "2026-10-21T10:00:20+00:00",
+   "title": "TNLA-backed force defects to the junta",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/tnla-backed-force-defects-to-the-junta/"
+  },
   {
    "ts": "2026-10-21T09:30:19+00:00",
    "title": "Migrants Urge Thai Gov’t to Let Them Work Free of Myanmar Regime Extortion",
@@ -2185,20 +2199,6 @@
    "source": "Myanmar Now (EN)",
    "markets": [],
    "url": "https://myanmar-now.org/en/news/three-killed-in-magway-region-as-myanmar-junta-forces-continue-push-into-rakhine/"
-  },
-  {
-   "ts": "2026-10-14T10:30:20+00:00",
-   "title": "Members of so-called PDF groups and ethnic armed groups return the legal fold together with arms and ammunition due to their abhorrence of acts of terrorism that cause loss of life and damage to the property and livelihoods of ethnic people, their desire",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVHRZQWhfOGtrQTFLWmlCV0hxczRmSU1iWDVYOGdhd3NRajVMaHdkTW5SMUNCX2pjbDRnSERyOERuODNWTjFpZHpnZFN5YV9BUkdxRlZlRE5KWVNhaFg3Ml8yb0FUbmE3dTBreFJENzNHcmVXZmVGMDBJX09OU09VYUtzZVV6OERJVk9ONEx1dFVPRVJzX0U5bVEtemJoUzhWTEJDWDBUZGY0UDdQTGpyejl2OWROb29xQTUtR0MzOA?oc=5"
-  },
-  {
-   "ts": "2026-10-14T10:30:17+00:00",
-   "title": "စစ်တပ်၏ ဖိတ်ခေါ်မှု နေပြည်တော်၌ ဆွေးနွေးရန်မဖြစ်နိုင်ဟု KIA တုံ့ပြန်",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81765/"
   }
  ]
 }
