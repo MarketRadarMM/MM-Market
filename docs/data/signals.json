@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-10-21T10:00:23+00:00",
+ "generated_at": "2026-10-21T11:00:25+00:00",
  "signals": [
+  {
+   "ts": "2026-10-21T11:00:25+00:00",
+   "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing meets region, district and township level officials, local elders, MSME entrepreneurs from Taninthayi Region, discusses regional development",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNGwyZUVkaWFmSzYzZXBEbjRfRWhYZ2JLOHNkSTh5VkVPUXBKbWg5S3J4ZnVNM0sxTmEwVzJiUnNQZ0FGRmdIdEZTR1cweGx2d0tCR0x6RXFId01MNjB2MC1YV1c4NGwxWmQzOVB6SFRuVHI3N1VGS1pxWFhGNHFWUE5Hb2JnSGRtRHdLcnpKMEZ1OEVjcmM1WW5Cd09KV2Jwa1l1UGVaYzVHcUZNNXhoaHJJM1lzNzg?oc=5"
+  },
+  {
+   "ts": "2026-10-21T11:00:23+00:00",
+   "title": "China Moves to Cement Myanmar Influence After U.S. Talks With Regime",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZkNja3UwdXFON2tnanJ1eDcybEs0b1ZHTVlKNjZTX2N1alVhV2QtakF4eUJMUnRKZG81dXowN0ZvaE5fdGFtYWF6anlNRnVYY1JraWFqMlBybmp4aFc1TEZyOTV0eXN5bkwtdnZkUjRwQy1Sd2NaMlhHaWU2M3k2d0UwS282b2VVLUs4aHFSSTh5dnBITjdHTVd4b00wZDhGRlM0M0FRazI2NWlBTFE?oc=5"
+  },
+  {
+   "ts": "2026-10-21T11:00:21+00:00",
+   "title": "Yangon’s luxury condo buyers left waiting as projects stall",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/yangons-luxury-condo-buyers-left-waiting-as-projects-stall/"
+  },
   {
    "ts": "2026-10-21T10:00:20+00:00",
    "title": "AA ထိန်းချုပ်သည့် ပေါက်တောမြို့နယ်ကို ညအချိန် ဗုံးကြဲမှု  ၂ ဦးသေဆုံး၊ ၆ ဦးဒဏ်ရာရ",
@@ -2178,27 +2199,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSkRuR29ROHMycHlRSWpkSWRTTmItQjNBNnp2eVRhWndidWRrZlpqYkhpV01XdDVNTDEyblJoemN5aHhmSnl2QmZDN21MeHlMNUtfNk1BVk5XZjkzVXNDR2VFdU9wc0lWLTNtRDctS29VUmE2d0E3VVRrbzhtaE16VUxCbE5Qd3BDTF9UYjFXSlRXS1RkQlFJMQ?oc=5"
-  },
-  {
-   "ts": "2026-10-14T12:00:19+00:00",
-   "title": "နိုမီနီ - ထိုင်းမှာအိမ်ခြံမြေဝယ်ထားတဲ့မြန်မာတွေ အမည်ခံကုမ္ပဏီတွေကြောင့် စစ်ဆေးခံရလာ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c89ng781qvzo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-14T11:00:21+00:00",
-   "title": "ဘီးလင်းနှင့် ကြာအင်းဆိပ်ကြီး ဗုံးကြဲခံရ၊ အရပ်သား ၈  ဦးထက်မနည်း သေဆုံး",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81768/"
-  },
-  {
-   "ts": "2026-10-14T11:00:20+00:00",
-   "title": "Three killed in Magway Region as Myanmar junta forces continue push into Rakhine",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/three-killed-in-magway-region-as-myanmar-junta-forces-continue-push-into-rakhine/"
   }
  ]
 }
