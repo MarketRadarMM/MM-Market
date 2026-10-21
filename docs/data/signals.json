@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-21T13:00:27+00:00",
+ "generated_at": "2026-10-21T13:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-10-21T13:30:18+00:00",
+   "title": "Property Sector Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tLTdCUkdaNE0yaXVNb29RNVpPTlpKdGNjSHZudWdfaHRLX09fRkJfa2xJNVB2Q3VzM3J1aENyenEwTk5qSklTNjRCbk92OFRvUHhjd24tajM?oc=5"
+  },
   {
    "ts": "2026-10-21T12:30:17+00:00",
    "title": "Has the Myanmar Resistance Lost Politically and Diplomatically?",
@@ -2192,13 +2199,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYndaNnU4TXFLZm02NmRiYmFna21FdFhEUGNNSkRhUldmV0V3aFJraUo3TjNiSTZKNXVsRGN1X0ZIRXFpdThDbVl0X2g1Nzlqd2lmVjJzeUptd19XNk9kaXNBaHV3VE41WkRsRGhVWGpkVk8ySUNaU1dhZ19fMHktTkxyZk5pMkhqeVE?oc=5"
-  },
-  {
-   "ts": "2026-10-14T12:00:23+00:00",
-   "title": "Myanmar Regime Escalates Assault on Free Press Critical of Its Rule",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcVFMUlZPaXN2TzNoaHFjcTBCZ3IzOXpSLWVDVF9ac2xlOERQbzdOeTUzbkVERlpFU0QwTGlHaVBWRkdYNkkxUkNIOVNwR0szRl91SVJUV0hjaVp4RjZxSjVIV1Jhd3BFTGEzSC01cDhBOWpQM1NzS3ctRkFhOEQwRHZnMm5ZQlVBdlpJbUZzaFV3V2pSTUd2LV9lcUtheHZaNWJzX2dtYjg3VTVFTlE?oc=5"
   }
  ]
 }
