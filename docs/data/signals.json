@@ -1,6 +1,34 @@
 {
- "generated_at": "2026-10-21T00:00:22+00:00",
+ "generated_at": "2026-10-21T00:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-10-21T00:30:19+00:00",
+   "title": "Myanmar joins 4th ACHA meeting in Hangzhou, China",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5LLTl4MHVSUk13N2phRHZwU3ZMYUtYTG1iZ1FtYnJJbGM5bEdaSWcwLWpScW9ac21XMnZsTU45S0o5c3lrclNYVTFvcDhIOXk3ckZMS1BBRWZqQnp0X0RfOEowX2dJaFdvVkx4Q1BlZk9sdzRPWnhYMXZybThMZw?oc=5"
+  },
+  {
+   "ts": "2026-10-21T00:30:19+00:00",
+   "title": "Shwe Kokko scam compounds flattened in wide-ranging crackdown",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR09nU2ZWUkpoZjNaMk5iUnNqTVNVeHFGb0VWMlFMSl9GOEs4OWhqS0hvZVVXVlZTNktuNlBsVFJ2RWpJa1I4M1QwT0xFck13cVAxSGF3UDNBUml4MVJsbm5vS0ZSamFqamtDLV91VVZIa3JJSWI1aERkMUV4YXJEQndPLTNPdEF5UFBtSVMyVFRWZw?oc=5"
+  },
+  {
+   "ts": "2026-10-21T00:30:19+00:00",
+   "title": "Philippine nationals linked to online scams repatriated",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMENJSWFyRFRfYnhYSTFzQmJUelgwNnBfNFZ5T0RSZVpGcVhOMEl3djVpX2tHSGtoOXkxZXBTcnplaVl4bG1jXzNLRERPMHQ3d1p5NjFwSzRBeno3aGdIYnV0d2l5TWFZTmVYWllRbGpKOGVseGYxX0paS09xa0JJenNqYkJwYU0?oc=5"
+  },
+  {
+   "ts": "2026-10-21T00:30:19+00:00",
+   "title": "NSPNC, Political Parties Advance Dialogue on Federal Union and Constitutional Amendments",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcW1Gb01BR2hfSllBWTBHQ3kzejdSOUgzS3BnWDFub3czSW5MUy1NUGotNWppRnBOSGNzSzFWa3Y3VExUdUMxYml6U3phQzhLdVlOSHBuM0x4Y25CQTBfdVFPb0lqOEtMU0hCT09vOEVNRm9JSFdRcFhDYklTNE1scWwxM19tQjZjR0E0U3pqNmI4YTZHTnU1WjB4dlpWSEhUUC01cWt5NEFrTm5TRzlQSUdn?oc=5"
+  },
   {
    "ts": "2026-10-21T00:00:21+00:00",
    "title": "Myanmar Junta Bombs KIA Position in Shwegu, Killing at Least 17",
@@ -2171,34 +2199,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/cmgjqj8dj5zwo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-13T15:00:21+00:00",
-   "title": "ရခိုင်ပြည်မှာမနေချင်လို့ ခိုးထွက်ကြသူတွေ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/ck780gpdvg67o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-13T15:00:21+00:00",
-   "title": "ရန်ကုန်က HIV ကူးစက်မှု၊ လူငယ်တွေစိုးရိမ်ချက်နဲ့ ပြည့်တန်ဆာနှိမ်နင်းရေး",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cgrvxr41z8xo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-13T15:00:21+00:00",
-   "title": "\"စက်ရုံပိတ်ရင် ဘာလုပ်စားရမလဲ\"- အလုပ်ဆက်ရရေးမရေရာတဲ့မြန်မာအထည်ချုပ်လုပ်သားတွေ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cmn45232pg8go?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-13T15:00:21+00:00",
-   "title": "အမေရိကန်က နေပြည်တော်နဲ့ ဘာကြောင့်ပြန်ထိတွေ့ဆက်ဆံလာသလဲ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cqy0rp5jlk3ko?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
