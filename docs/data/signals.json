@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-21T04:30:18+00:00",
+ "generated_at": "2026-10-21T05:00:19+00:00",
  "signals": [
+  {
+   "ts": "2026-10-21T05:00:15+00:00",
+   "title": "‘ကင်ဂျုံအွန်းသေပြီ’ ဆိုတဲ့သတင်း ဘာကြောင့် ထပ်မံထွက်ပေါ်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c6kg5yr2jlzxo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-21T04:30:18+00:00",
    "title": "The ultra-processed foods that WON’T give you bowel cancer: cereal and sugary yoghurts could reduce your risk by 25 percent, intriguing data shows",
@@ -2192,13 +2199,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBkV25LSVVLVW1zNWJESFpqekdEVGRYQTg4WWlKVjhGaXFGOERkSFR3VHpENVJFX2c1WjhtQXI4NWNSam5pZVE0aWFtbDY?oc=5"
-  },
-  {
-   "ts": "2026-10-13T21:30:17+00:00",
-   "title": "Passport Online Booking System suspended on 5 December",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM3J1ZkFvcW9lMmJod09zRkNJMTNyRHBnWFpISndUc1hhYjRDUUR2RlpXcklyTnJ2Qi1XNk9qN0FTczlhZHVJWEkySUYydUVYXzlWdUxta184TVF0Nm5jUUdEM05rLTZhSVNwX1ZMTzlxSVBQTFdKdHJteUdVYmNxVEZOZWx0QQ?oc=5"
   }
  ]
 }
