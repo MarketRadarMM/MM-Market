@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-21T01:00:22+00:00",
+ "generated_at": "2026-10-21T01:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-10-21T01:30:17+00:00",
+   "title": "ကွန်ဖြူးရှပ်ဝါဒ Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPdDBvci1Kdm93bWV5WlFuaVF2TGhyZnN2SUliaVUyaDZneVNla0FjNkR2Nm5TdXVSX08tdVkxMVppRU10ZTNySFozaGpMMDFKWWhFMWZfbXJtdGktNG00dlF5d0JpemJBTGhOSWtfOEd2NGZFLXRxNWtvNE00ZHdOR2RDTzR2ZnBSeFdiMi1KUkJ3RThaU2JIdTdkS1I5a01GMGpqUnhteERaVFEtbW1aVVNWaFNadURkb3ZLZFZiMXEwTVdZVFNIYk5DS3I4Wml6QkhXODAtTDRhaXZMbU5USzU3dzRNclV6ejB5clI3WUo0eEZBakJ2dFYyVQ?oc=5"
+  },
   {
    "ts": "2026-10-21T00:30:19+00:00",
    "title": "Myanmar joins 4th ACHA meeting in Hangzhou, China",
@@ -2192,13 +2199,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9hZUtjU0NwdWdqQ3hoQXRSakpjSmIzbDhtOVdtaGVKYTlYM3o3NnhjMjRid3VDaDlycnJMMUZpY0RpYzNLcy1NcFFhMDEyUFNtVHgzMmtCLUxYOHAwU25YZzhsa2x0WGhtM1A0WGZ2M2d2T3hRaGtCZQ?oc=5"
-  },
-  {
-   "ts": "2026-10-13T15:00:21+00:00",
-   "title": "စစ်တိုင်းအပြောင်းအလဲတွေကပြတဲ့ မြန်မာပြည်တွင်းစစ်",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cmgjqj8dj5zwo?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
