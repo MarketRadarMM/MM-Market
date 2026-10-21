@@ -1,6 +1,40 @@
 {
- "generated_at": "2026-10-21T14:00:24+00:00",
+ "generated_at": "2026-10-21T14:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-10-21T14:30:16+00:00",
+   "title": "\"စက်ရုံပိတ်ရင် ဘာလုပ်စားရမလဲ\"- အလုပ်ဆက်ရရေးမရေရာတဲ့မြန်မာအထည်ချုပ်လုပ်သားတွေ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cmn45232pg8go?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-10-21T14:30:16+00:00",
+   "title": "ငါးရက်ပဲအလုပ်ဆင်းလိုက်ရတဲ့ အိမ်ဖြူတော်ပြောရေးဆိုခွင့်ရှိသူ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c60qk8v7jv08o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-10-21T14:30:14+00:00",
+   "title": "ဗဟိုဘဏ်ဆီက သုံးနှစ်ဆက်တိုက်ငွေချေးရတာ ဘာကြောင့်လဲ",
+   "source": "BBC Burmese",
+   "markets": [
+    {
+     "market": "fx_kyat",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "CBM/forex news — read for direction"
+    },
+    {
+     "market": "gold",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "Kyat-sensitive: gold usually moves opposite to kyat"
+    }
+   ],
+   "url": "https://www.bbc.com/burmese/articles/c65yn0vlkp8po?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-21T13:30:18+00:00",
    "title": "Property Sector Archives",
@@ -2178,27 +2212,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVVdsMnNjTERPclhUYjZsYk9hajBCQk9zSmRTQWJBN0o0ZmQzM2VoTG5zVWh1UTRKcHNrMy1ReVNZMFNoWTlKZFlVT1JLMUIwRzdBelBBNC1aY1o1b3VnMkRMWTlHZm5CbG96LWVlMHh4clA2dlZmZFV0UWdyLV9NblpKTzh3UkVRUUhXckFSZHFOaXBIMVhwNmhqYklOdw?oc=5"
-  },
-  {
-   "ts": "2026-10-14T13:30:20+00:00",
-   "title": "BEHS 2 Latha named CMFS",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RQnMtRWN2aVA2cE5CS2Y2MlJZeUY0bXQzZlB3TjVBS1VLU2NJbVZ0VVZCb1RrbFJhSU1xSzNxTDJzaktsYlF4N2lMWXl3TklzNkI5UXY2VEFsRFpx?oc=5"
-  },
-  {
-   "ts": "2026-10-14T13:30:20+00:00",
-   "title": "Irregular thundershowers and strong winds may continue until 19 October",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaHZVVjFLZDBDaVdkck1NYkRpV0tLUDVxVEFsaUxnRmxSaVI2QmIwRWxzVTlzWXgtVmtITVBGOGs1R3NNSTlXbGNCNGt1MGdIT1JPZW50QlVwLWF4SVQ1SUwxT2JZbWtDVFFDN0JlTGN4cEtvbHNPZVNSZUJwc2kxNG9ZRDUycWVfdlE1YnMtVTlHcGZRc1lEdmpOV0U?oc=5"
-  },
-  {
-   "ts": "2026-10-14T13:30:20+00:00",
-   "title": "Myanmar player from US Division III to join national team",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYndaNnU4TXFLZm02NmRiYmFna21FdFhEUGNNSkRhUldmV0V3aFJraUo3TjNiSTZKNXVsRGN1X0ZIRXFpdThDbVl0X2g1Nzlqd2lmVjJzeUptd19XNk9kaXNBaHV3VE41WkRsRGhVWGpkVk8ySUNaU1dhZ19fMHktTkxyZk5pMkhqeVE?oc=5"
   }
  ]
 }
