@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-21T12:00:21+00:00",
+ "generated_at": "2026-10-21T12:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-10-21T12:30:17+00:00",
+   "title": "Has the Myanmar Resistance Lost Politically and Diplomatically?",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMjZ5X1pSWnoxazVITXRaSE9WQm9jcHpUWVdHNWY1R0JnaXBSbGZ2TnhaSzdoOGxwT1Iwdm5WbGVKbHRpN0VNY0s4ZTVha0dMY25HcDZxTGF2QmZSVGNlaGpfaC05Nkd5VTE0dk9EN2dvZVJzejdQSnhzalVVbUNpVWstOU1ObVlVYnZxUU1HbGk5TGo3VW9YWlBPVDd2UEw4?oc=5"
+  },
   {
    "ts": "2026-10-21T11:00:25+00:00",
    "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing meets region, district and township level officials, local elders, MSME entrepreneurs from Taninthayi Region, discusses regional development",
@@ -2192,13 +2199,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcVFMUlZPaXN2TzNoaHFjcTBCZ3IzOXpSLWVDVF9ac2xlOERQbzdOeTUzbkVERlpFU0QwTGlHaVBWRkdYNkkxUkNIOVNwR0szRl91SVJUV0hjaVp4RjZxSjVIV1Jhd3BFTGEzSC01cDhBOWpQM1NzS3ctRkFhOEQwRHZnMm5ZQlVBdlpJbUZzaFV3V2pSTUd2LV9lcUtheHZaNWJzX2dtYjg3VTVFTlE?oc=5"
-  },
-  {
-   "ts": "2026-10-14T12:00:23+00:00",
-   "title": "Myanmar Regime Forces Burn Church in Bhamo, KIA Says",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSkRuR29ROHMycHlRSWpkSWRTTmItQjNBNnp2eVRhWndidWRrZlpqYkhpV01XdDVNTDEyblJoemN5aHhmSnl2QmZDN21MeHlMNUtfNk1BVk5XZjkzVXNDR2VFdU9wc0lWLTNtRDctS29VUmE2d0E3VVRrbzhtaE16VUxCbE5Qd3BDTF9UYjFXSlRXS1RkQlFJMQ?oc=5"
   }
  ]
 }
