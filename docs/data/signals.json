@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-21T03:00:21+00:00",
+ "generated_at": "2026-10-21T03:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-10-21T03:30:15+00:00",
+   "title": "ရေကူးကန်ရှည်ကြီးနဲ့ဇိမ်ခံသင်္ဘောက ကင်ဂျုံအွန်းရဲ့လျှို့၀ှက်အပန်းဖြေနေရာလား",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c6d09dn0vzgdo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-21T03:00:21+00:00",
    "title": "Myanma Awba Group Supports Myanmar’s Next Generation of Entrepreneurs Through Startup World Cup 2026",
@@ -2192,13 +2199,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRk5KU0ViRHRncFRMTm02SXhyYTJuT1dtLXdZaXg3STc5UmZyUkZsQ1F3LUNuVHJvZnduR0pKYlREZDk0NWR6cXp5Tm5mVkNaSTJ1dExsUXZ0NnN0WHZ1MXo4Z0VkcFFNZUVRSkN5MjR1QlhwbGE4OVJHeG9ONlRMVFBFTFdDSC13cV82S0Q5dnpmcmMxQk1RSXpfbnFGdEI0U0lBWXA5Yw?oc=5"
-  },
-  {
-   "ts": "2026-10-13T16:00:25+00:00",
-   "title": "Wahnet elephant camp provides tourism activities for visitors",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX20tdUdUYVctcF9pTDJQS0FHREluUWMxWm16bkxaZW40SlNqaUNOZmFsYTliSUpqNUFnZW56VlB2d053cjNxRmJMdUw3Ml9TZmV6OTZmM2M1ajRVdk1VU0ttMVpCZ0JadFZja0lzZFR3WWRiaGdsbDl3UlVYaWd5dDN5Y1Bjb0lCb2RNLXp6SQ?oc=5"
   }
  ]
 }
