@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-20T23:30:18+00:00",
+ "generated_at": "2026-10-21T00:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-10-21T00:00:21+00:00",
+   "title": "Myanmar Junta Bombs KIA Position in Shwegu, Killing at Least 17",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMDdMVnc5V00yWGtQckp0U0w2WU04dUNoTkl5SXZrWk14a1ZnQzhodTBaS3M0TjRJY0lYU3ZIV0dRWnRVT2ZYSVpReFJLTldhdnBORDZBZjRnT3hZN0F6NHhLWV9OdVhJcG9jbWRYbnJucFJOeW5sYTFwQTBQMFY3UjVoR1JObmdQZEdhbTZTdkZ2MTVQRzYya1lNaV9FYzl3UkFZekVCVQ?oc=5"
+  },
   {
    "ts": "2026-10-20T21:00:24+00:00",
    "title": "Yephyu’s VDP introduced with committee formation",
@@ -2192,13 +2199,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/cqy0rp5jlk3ko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-13T13:00:28+00:00",
-   "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing gives the keynote review and guidance address at handover and practical demonstration ceremony of technological projects completed by the Myanmar Space Agency (MSA) during the 10",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTnJZNDV2aDlBLTNtaVA1Rm9MQ1Q1RFAzcHhyQWgyc0ZWdEgwR1BZSENmZWFBTXlOb3g4M3hGbTM0YUtOYTNzamVjVm9sbFM3RzRPelZrdEhIVTFMOGY5dVhCejBRdHhyV0VSelBqWndVaTZHdC0tYWgxNW85UUlraGVtaGpvcmJaT3RwWEtENnd5ZWV5M1F4Zzl1TDRWTXg5SVBlN2tWb3NfdExzUXR4ZUJsTmhVdw?oc=5"
   }
  ]
 }
