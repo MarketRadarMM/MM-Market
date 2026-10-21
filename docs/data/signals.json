@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-10-21T21:00:23+00:00",
+ "generated_at": "2026-10-21T21:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-10-21T21:30:19+00:00",
+   "title": "22 October 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPb2VNWHBsR3NZQ3Uzd3BhVVVnV1dVOHdnanRVb1pNMndIeFIxSkZZZWliUFVyS0hUSTl4eUwtQi1tYnZkUEFwcEdaTHJwZDhpeVE?oc=5"
+  },
+  {
+   "ts": "2026-10-21T21:30:15+00:00",
+   "title": "ပူတင်ဆန့်ကျင်ရေး အဖျက်အမှောင့်လုပ်ဖို့ ရုရှားထဲ သူလျှိုလုပ်ကြသူတွေ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cxyvrnl30n7do?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-21T21:00:20+00:00",
    "title": "Duterte impeachment: bribing elites is China’s strategy, military official says",
@@ -2198,20 +2212,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9TZFRhU2dLN1ZmSmV3Q3hSNnFzVjU0NEdWUXY5TlQ3dVpfNTNCa0p1TlJ6RlhDZzJiVlNNUDYyMURKUk5QVlU3TTg4MzdzOWRDSnB2X1JuMndVVkJzT2ZQU3pfdw?oc=5"
-  },
-  {
-   "ts": "2026-10-14T19:00:24+00:00",
-   "title": "regional diplomacy Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ncGItcDhoRE9ieEhGZnR1OW90ZFZjUF92WXg0ZFBXVjJtNUl2ZUxMVS0wc09kNUJTT2lRRURaUVZxc3NZY0FTNVlqS05rbXlBUHNpa3VpRDU2enVt?oc=5"
-  },
-  {
-   "ts": "2026-10-14T17:00:21+00:00",
-   "title": "New Myanmar Regime Tightens Forcible Conscription Covering 13 Million Citizens",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNa0ROdlo5aFNRWE9hZGNlQlJHTmVfdmdQWllDbzBaWnNmY2ljMzRoVkI1M2Fwdno5dkt2SHhQUjNJNTRqZWZOMFRHS0xmWlZjbm1zRUROYnZDQ3JfZEpSXzdlenNwNTBFQjF1TnNIMHZZaVdteHR4Y2pXV2padDQwaWFOMU1NWnFLM1Jya2hDUndhRmVZSlZ4R3hWVFptTmN0TkpaT01XS1ZxQXBfTDFFTlo3UDRJeGwxRjFCbQ?oc=5"
   }
  ]
 }
