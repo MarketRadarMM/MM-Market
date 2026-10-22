@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-22T11:30:20+00:00",
+ "generated_at": "2026-10-22T12:00:25+00:00",
  "signals": [
+  {
+   "ts": "2026-10-22T12:00:19+00:00",
+   "title": "Nighttime junta airstrike kills 2 and injures 6 in Pauktaw Township",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/nighttime-junta-airstrike-kills-2-and-injures-6-in-pauktaw-township/"
+  },
   {
    "ts": "2026-10-22T11:00:20+00:00",
    "title": "Son of Aung San Suu Kyi Says He Has First Call With Her in 5 Years",
@@ -2212,13 +2219,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORzNXTGd4Smsxa0w5Rm9CdXZ3UGFzRXVUUk51UmR0eVdVTzRyOGhCcVJtckRXb2s5clF0WHU4MHFvU05EWUlVMjlZVXZRQkpOTW9jdXk5ZUZuUDRvTE9tUXN0Nm1Dcmxwa0RmalZibkdIbEItQ255d2Ezem5MVEUyODhmckRzQ0tGVU5sMA?oc=5"
-  },
-  {
-   "ts": "2026-10-15T00:00:20+00:00",
-   "title": "Pyidaungsu Hluttaw discusses taxation, loans, budgets",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaUlYaUk4cDdpcXZTRWI1SWRYejZ4aXhib0tiU0J2UU80UFozVHE5Q0ZUSE04T0owSm9uNHUwUWJuczlydndJVm9HenludTljV1NXazBlN0hYdGw2clRzVDQxNlpSeVBrOWxoRWZ6WWVTNXVtUWpkVzlyc0M1Wkp4dFpR?oc=5"
   }
  ]
 }
