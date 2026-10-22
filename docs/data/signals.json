@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-22T21:00:24+00:00",
+ "generated_at": "2026-10-22T21:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-10-22T21:30:19+00:00",
+   "title": "Press Statement",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yeHlYUWJoYTZ6QWI4Y1B4QXR4bGN0VlUyanUwdGY1VzhtMFUyVmI2Vng4UlFDU0lZcENpX0xQOG5wd3FoVi1Gd0lSTXdLeWpRZUE?oc=5"
+  },
   {
    "ts": "2026-10-22T21:00:23+00:00",
    "title": "Pawsan Rice Must Stand as Myanmar’s National Brand",
@@ -2193,13 +2200,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUXRJZjBka1BTXzhjVmtHNmxiOXVQdGdXSUlqZUUxMl9FY2xqcFduYTVCZHo3QjhtLWJBTzc3d1U0MkJlT1RCOHkzTGR4azZ4VVhfMEZJVjJpeHNITXBxVTdTWEpIZEpteGZfbWtvTEhWdGQ1cHJ5SThhbUxMTHMwNUJGVnAtY0I1cGY1YkhBUEMtWk1RcHVZbXlfemRlX1N2UG5nMTQ1RWNFXzhHVWJUOGF4UjFTWXV2LVI0UA?oc=5"
-  },
-  {
-   "ts": "2026-10-15T12:00:21+00:00",
-   "title": "တရုတ်လာစိုက်တဲ့မယ်ရီဂိုးပန်းခင်းတွေနဲ့ ဈေးနှိမ်ခံရတဲ့ရှမ်းတောင်သူတွေ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cw4g17k13415o?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
