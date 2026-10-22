@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-10-22T13:00:24+00:00",
+ "generated_at": "2026-10-22T13:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-10-22T13:30:18+00:00",
+   "title": "Paying the price: The high cost for families of political prisoners",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWFo3NzJPRTM3RnVpNmZpYnhtZDJrdmJoS3NTd3R4WHF5dW41ZmFJd1haSzJRQnMyS3NYTmlwckNyVlZxeDBTVjAzeF9GRGM3dzZOMGNOZ2lfZE11QVliWVljT0NmX3JKT1E2ZVVLRDdHNFFwQkxMcWFsa0s5VUdQYXpuS3c2ZWgxazFmNUhNelJnLWc3ZjFuY3JlR3N6NTlNbERHaA?oc=5"
+  },
+  {
+   "ts": "2026-10-22T13:30:15+00:00",
+   "title": "အမေရိကန်နိုင်ငံရေးသမားတွေ သက်ကြီးပိုင်းတွေဘာကြောင့်များနေ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c620regwn9j9o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-22T13:00:23+00:00",
    "title": "Social pensions can be withdrawn via mobile pay system",
@@ -2205,20 +2219,6 @@
     }
    ],
    "url": "https://myanmar-now.org/mm/news/81778/"
-  },
-  {
-   "ts": "2026-10-15T06:00:21+00:00",
-   "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing inspects operational capacity and potential expansion of Myanmar's port sector",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd2JRTHRISDFyMGNHa2lXREhFRy1vQjdhOUhMNTFXWHJKdGZUYjhhQk82QndHWmpnMURkZXdsakhJMUhPZXJ5OGhieTQwMTJsc0NHdm5sbEx1N1Y3MnV2VDUyTzRYa25EaHhiOEpYVzhPNUNLNVdBNjdscHVFVklEY2ZnWmJ2VnVBdjdSN0hKX0NZWXFBdE9oX1FwV1h2RUZCTnpndFdZWmlMOTZFYU9VTThqMUhtNTF2?oc=5"
-  },
-  {
-   "ts": "2026-10-15T05:30:19+00:00",
-   "title": "ဂျပန်မှာ နိုင်ငံခြားသားတွေအမြဲတမ်းနေထိုင်ခွင့်ကြေးအဆ ၂၀ မြှင့်",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cje3r3w0n1p9o?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
