@@ -1,6 +1,34 @@
 {
- "generated_at": "2026-10-22T20:30:24+00:00",
+ "generated_at": "2026-10-22T21:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-10-22T21:00:23+00:00",
+   "title": "Pawsan Rice Must Stand as Myanmar’s National Brand",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92MDRPRjJRYXBTZEpoLUgzM3lJR1dTY25aQTJSWk00eHNaOF9Rc2xKR0lFZllmaTJuMnlrbm9fcEx5cGY4bUdBMWNPaG5MVjRBSXdVNTUzZWI2NGxhemVGUng4Q2oxX19ZV0pFcVNjdlg2NThGcHpjcHFVa25BdlE?oc=5"
+  },
+  {
+   "ts": "2026-10-22T21:00:23+00:00",
+   "title": "Vice-President watches Vidhura Jataka drama, encourages contestants at performing arts competition",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON3FIaWtqb1RnOERTZENCTXQwWjJyOTB4Uk0wV290WVhJaU5sU3RxU3ZPckVMSFhqRmpKSFRmb0dvYmFoQUdZdGNvNHo1eGdwYjlCM0sxT1FxejRnS0szalVIYXhEbFRVNDIwVl9MaXk1eVgxUUR6V3RZVmdBUkVTWllfTDl0Wm1leTR2WGQ2ZWpVOG9aZGp3S1JwY3hSR3AxS21wSmwxZmtKN3NuT1Itak56NkxlR3FuTkxhckZFYw?oc=5"
+  },
+  {
+   "ts": "2026-10-22T21:00:23+00:00",
+   "title": "Pyidaungsu Hluttaw Speaker meets Belarusian President in Minsk",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUDhqT21tRTJJMWRwY21SV0dmMEN4aktudW1HcXFxTVNBZDBkVzc5QUF5ZUc3aFhHZnhFZk5yRVFlTzljOTN3ZEY5OTllTDdLNlpkXzduMlZ1WTRveXBOZ2hUSmhCNkxXNWx3MmlvZ0h0R0FnaE1UZnVwNFBnaVJmTmVPbXhJaTQxcG11bHJXNWk?oc=5"
+  },
+  {
+   "ts": "2026-10-22T21:00:21+00:00",
+   "title": "‘I hope that she will be free before long’ Aung San Suu Kyi’s son Kim Aris says",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/myanmar/2026/10/22/interview-kim-aris-aung-san-suu-kyi-phone-call-burma/"
+  },
   {
    "ts": "2026-10-22T20:00:22+00:00",
    "title": "As Thai Unease Over Migrants Rises, Myanmar Workers Are Being Rounded Up",
@@ -2172,34 +2200,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/cw4g17k13415o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-15T11:00:21+00:00",
-   "title": "မြင်းခြံခရိုင် တော်လှန်ရေးအဖွဲ့အချင်းချင်း လက်နက်ခဲယမ်း ရောင်းဝယ်မှုမပြုရန် NUG တားမြစ်",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81790/"
-  },
-  {
-   "ts": "2026-10-15T11:00:20+00:00",
-   "title": "At least 8 civilians killed by Myanmar junta airstrikes near Mon-Karen border",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/at-least-8-civilians-killed-by-myanmar-junta-airstrikes-near-mon-karen-border/"
-  },
-  {
-   "ts": "2026-10-15T08:30:23+00:00",
-   "title": "Myanmar Regime Denies Drafting College Students Into Army",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOFVIeDM5Q21KOXZ3N3VSMTRoUW9XVk5rTm1IUTRDczBYbWVpb1UwcXNvN2hldlp2VWh2TVdrT3pHWW1qLVVrbUlDYlpvV0hsMm15Rk9zVW9xeWc1SFlWTFN0M1haRndzT1UxazBJRVFtSncwXzl1RTAxazV5TGNqbm4takJPd2huRDg4ZE03cU9fWUZzV1htNDRPcWFlZ0Jn?oc=5"
-  },
-  {
-   "ts": "2026-10-15T08:30:21+00:00",
-   "title": "KIO/KIA rejects Myanmar junta’s offer of peace talks",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/kio-kia-rejects-myanmar-juntas-offer-of-peace-talks/"
   }
  ]
 }
