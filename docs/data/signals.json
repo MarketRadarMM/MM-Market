@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-10-22T07:30:20+00:00",
+ "generated_at": "2026-10-22T08:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-10-22T08:00:16+00:00",
+   "title": "Six women killed by Myanmar junta airstrike in Budalin",
+   "source": "Myanmar Now (EN)",
+   "markets": [
+    {
+     "market": "pulses",
+     "direction": "bullish",
+     "confidence": 0.55,
+     "rationale": "Conflict in bean/sesame heartland threatens supply"
+    }
+   ],
+   "url": "https://myanmar-now.org/en/news/six-women-killed-by-myanmar-junta-airstrike-in-budalin/"
+  },
   {
    "ts": "2026-10-22T06:30:19+00:00",
    "title": "Myanmar Traditional Cultural Performing Arts Competition, delivers keynote address",
@@ -2205,13 +2219,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbnk5WXJ0WjlXaUYyMkhycnJBOTdFWEJ4UXAxa2dSeTJzQXdsOWhtSmRaeUVfTmdhb2ItVWVoN1M4QlNNcHlMeXl3clVTbVZqY0E2dHI5aHFxQWJBOFdaRGtTY0dFb3phZk94N1YxR1gxLWIwZVRpUWp2MHJ4dFRPSUNKODdOQWc3ZmJlWGFBbko1aEYzNFlhRFhiTmhlRkxrdndialBpVjhBUk9JRmRQVm8tS3AyQQ?oc=5"
-  },
-  {
-   "ts": "2026-10-14T21:00:21+00:00",
-   "title": "MoL Union Minister receives Saudi Arabian Ambassador",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdVRrcGlNY2pnZUdkSFEwZEZZcVg5dDNuMDFuUFE5U0hWQkdLQ2dadU8xQkpTd2ZhMWJySHdDSGRUS3lHamNMVFdxekxSZkc2RVRRbkZxdUIyQ1pCUkJsbGw3M284TGNybTFzeUhGb2wzXzNQdDFfdmRta3NqcUlRdy1EUQ?oc=5"
   }
  ]
 }
