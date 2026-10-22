@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-22T10:00:22+00:00",
+ "generated_at": "2026-10-22T10:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-10-22T10:30:18+00:00",
+   "title": "ချင်းတောင်ပိုင်းတွင် ဖမ်းဆီးရမိသည့် စစ်သုံပန်းများတွင် BNRA တပ်ဖွဲ့ဟောင်းများပါဝင်",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81872/"
+  },
   {
    "ts": "2026-10-22T10:00:18+00:00",
    "title": "Suu Kyi speaks to son for first time in more than five years",
@@ -2212,13 +2219,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQd1VHVEl0akNxNVhjUEduUXBwWHNSRXNUVmZBcEhJMURTeVlBd0dIQUo0Nk9tSnZaUHFtazlraFlsSUtPd25hUG94NzZxNFFGa1hzVHN2TjVkZnlGYmNyLVVDVUoxVVR0UUxaeERkaGpXek40RzhiY3hWYlhNOGtrZk1rQ3g0WC1vODV3UC02RkkzMHE1dHdtWjh6SHJYX3lJLXM4cUtpR1RoZDdrUElCdWpudTJMUTNzODV4ZUtOcVppZw?oc=5"
-  },
-  {
-   "ts": "2026-10-14T21:30:19+00:00",
-   "title": "Stepping up efforts to achieve lasting peace",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52c25fYzVXZFVJUDNlTUlmQmJ5Y3B4WkFIYlZzRHBfRHdxSE81SW95Nm15Z3hLT29vNHdMSXAxSVU5Vm1HRkFfS0VlVkRXRnYtYjNlT0NLTExnWXZoM29PTWdlYUJBQklXYWpyNXk4aHFaMXc2OElKdA?oc=5"
   }
  ]
 }
