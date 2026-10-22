@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-10-22T23:00:22+00:00",
+ "generated_at": "2026-10-22T23:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-10-22T23:30:16+00:00",
+   "title": "Myanmar Junta Airstrikes Kill 100 Civilians During Shift to ‘Civilian Rule’",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeTY4RHF5Ml9CQjF0NW5sZmFvVHdBVUpTR1cwMWVWTHVZMjlsQnp5Uk85ZDBEb3p2OG9McVk4SjdjSWJLR2V2aXR3bWpXYUVEODVIS0taQXVzQXRaQkpRR1pwYkJUWW0zLVBjZVhXTXFISURIeUtZWEJiamVaRFhQR2w1UDVOX2F2WVc3N2RfZ3NQOWhUM011cVJsSC1oNU9wZHZMV0lQSE1DVm9ma0w1NUZ5bWJrZw?oc=5"
+  },
+  {
+   "ts": "2026-10-22T23:30:16+00:00",
+   "title": "Nine More People Including Children Detained in Myanmar Junta’s Pre-Poll Crackdown",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUUNlMEtQdk9KOTZJMktqNlhodzJjdXdXUVhGeWhSMUNrYnNOSmFLZW1pQmJiWEJYOUNwTEtiN2c2Sng3eTRTRmRDMlA0TXhtMDhONVlWSkZzeVBFaFo0Y013TVo0a29MdlF4eTBzSEp6SEQ2WDFtRUlvbDhDWTdGY3cxR0VxLUdGcFFfR01oYTRkMklUdS1ZM25sU2xSVTJlS0IwaFhub0lRRW54dUhBOWtCcUZ1ZExvdnhzbVM1YlhENzBq?oc=5"
+  },
   {
    "ts": "2026-10-22T22:00:24+00:00",
    "title": "NSPNC meets NSCN-K for national unity and peacebuilding",
@@ -2186,20 +2200,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mejRxZDI0bmxfLUNTSGY0YUVFc3NHOXJOOW9mbmJjb3pJa3NoMUkxb0JzM2lBT0lkRGRjall5S1pBdDZNVlUwTnU1WTVCb0Q0NndTUFF3?oc=5"
-  },
-  {
-   "ts": "2026-10-15T14:30:27+00:00",
-   "title": "China Donates 500,000 COVID-19 Vaccines to Myanmar Junta",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR0NkVnhLMVZ3U181YS1Gc19SNHd5c25PVmhxTGJkYWhHeHBFX0VaTThhQjNPZUlIdVNQbWgzZG5tdWJGeHduT2x3NjVGN2EwUlhKY3hXNWRWRm1qRUFWWkoyTkRuSjhvYk16UllILTRiNElsZ19uYk1SamlHYlNINkdtUmI3MFhMd1oxN2FIeUJGOEF2?oc=5"
-  },
-  {
-   "ts": "2026-10-15T14:30:27+00:00",
-   "title": "ASEANAPOL Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0ZWswZVl4STRzaG1NbWdhSDNIeG44ZG9Fa1k3ejFCZkJzWmgtLWs1bzlTMG85ai1aaGJBNzJrYmZMM1NqbjA2bGo3OTdWZDl5YU1R?oc=5"
   }
  ]
 }
