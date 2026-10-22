@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-10-22T06:00:19+00:00",
+ "generated_at": "2026-10-22T06:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-10-22T06:30:19+00:00",
+   "title": "Myanmar Traditional Cultural Performing Arts Competition, delivers keynote address",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU3VQWW42eUpFSEtqYmFMMEdvUUVNTzdKWmRCWmFJdGoxQk9udmZVeW90M2VxODFuMmotV0NIRDlLd0NlYlhGWEFDRWE0dG9kaFN5RVlpaFJHSWJYcXNkaXFacFRMaE9EWjVCOHVVT2FXZldVR19iWHEtdmoyQk1Fdjd4cXJYaURKMXJTMExmSkpsb1hMSkVvbVlFUFNscVA3MTRoVFQtYlhrWWJrWlhNekk5TV9GQU5FM0EtdmVsaw?oc=5"
+  },
+  {
+   "ts": "2026-10-22T06:30:18+00:00",
+   "title": "Japan to hire up to 1,300 Myanmar workers",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1MaU1FUzlYSkthel9PcWFTUkFFY0ZwWVF5ZGs2VE1kLS0yanNLMXN3dVhydkIxNVBWcW56QUJBbzFkOFd1dGVtd3ljdVlxMERPbXZBMnl2SFZCREQ0M1NoYVhSczI4Yl9WX3lMSjZWWXJmUjVtQThaZTVB?oc=5"
+  },
+  {
+   "ts": "2026-10-22T06:30:17+00:00",
+   "title": "Paris Principles Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IYTNZS1JqZ0d5RHVDYjRDaWpDcUxiMHRFcW9hQmg0eW44aFgtam1iVkVpZGUxd1JBd0VhVk1GUDQxbG5pTjE4bFhxQk9RV3FuLWx2alFaTVpCZw?oc=5"
+  },
   {
    "ts": "2026-10-22T05:30:18+00:00",
    "title": "Tatmadaw columns assault terrorists based around Laungshay-Hlaingdok-Kyindwe route, occupy Hlaingdok Village and continuously take area security measures to reopen the route",
@@ -2191,27 +2212,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdVRrcGlNY2pnZUdkSFEwZEZZcVg5dDNuMDFuUFE5U0hWQkdLQ2dadU8xQkpTd2ZhMWJySHdDSGRUS3lHamNMVFdxekxSZkc2RVRRbkZxdUIyQ1pCUkJsbGw3M284TGNybTFzeUhGb2wzXzNQdDFfdmRta3NqcUlRdy1EUQ?oc=5"
-  },
-  {
-   "ts": "2026-10-14T21:00:21+00:00",
-   "title": "Myanmar adopts 1,131 national standards to boost global market access",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSE52WnQwTUN6MHlOVFF5dDF4bDNwQW85VHZzUFFVT3BXUktNVk9PQjNPZlVldXNQSGpvM3A4VkVMMHE0T3ExZGVfOHhDYUdSQ2taTGRUdHRma0FPLUJkY05wRGtzazdkWHpmZi1BalAxNTdPWmE3dTF0TWNSLXdseFJDX0lEMWI2eDJOZkJONl9mazZyMnlKQw?oc=5"
-  },
-  {
-   "ts": "2026-10-14T21:00:21+00:00",
-   "title": "15 October 2026",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLWWtBNm5wYnRWQy1uMGRPdlNMdHZpWUVJQ3BYWWlmU08xcG91ZXhaMFoxQm1WOTlqeFhaUXZJY0pUaXkzSkxtYjRlYVVuRHRWaWc?oc=5"
-  },
-  {
-   "ts": "2026-10-14T20:30:19+00:00",
-   "title": "Dawei, Yangon, Pathein Ports Cast as Trade Hubs",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1UMkVRMEtkNkh0eTg5R2plZXBtcjFsNU5FdEZGNnpWeXBhemR4dm43cUtyVFBVY1FNRkRlQmIzLVZQM3ZjYUtzc1JPSllOdm5qSTlPMWhoZVY0ZG5XaXNzQ2hXS3VEY2NsSDhxbGd6NVFoS25fbGNNSW5R?oc=5"
   }
  ]
 }
