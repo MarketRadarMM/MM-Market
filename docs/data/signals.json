@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-23T01:30:17+00:00",
+ "generated_at": "2026-10-23T02:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-10-23T02:00:18+00:00",
+   "title": "တိုက်ပွဲပြင်းထန်နေတဲ့ ဗန်းမော်နဲ့ အတူ မံစီကိုပါ စစ်တပ်က ထိုးစစ်ပြင်လာတယ်လို့ KIA ပြော",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.co.uk/burmese/live/cm5ynd8ez0ept?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-22T23:30:16+00:00",
    "title": "Myanmar Junta Airstrikes Kill 100 Civilians During Shift to ‘Civilian Rule’",
@@ -2193,13 +2200,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1mT3JuYWNsXy1kSlJLV3FpR0tsQ0lCOXFpYlBtY2VaQTJJUjB5R0huaVdmVEJhRjB2b0haZ0Y1WHNXSkM2NmxReG1vOA?oc=5"
-  },
-  {
-   "ts": "2026-10-15T14:30:27+00:00",
-   "title": "The Central Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mejRxZDI0bmxfLUNTSGY0YUVFc3NHOXJOOW9mbmJjb3pJa3NoMUkxb0JzM2lBT0lkRGRjall5S1pBdDZNVlUwTnU1WTVCb0Q0NndTUFF3?oc=5"
   }
  ]
 }
