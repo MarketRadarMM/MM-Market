@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-23T04:30:22+00:00",
+ "generated_at": "2026-10-23T05:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-10-23T05:00:20+00:00",
+   "title": "A Fitting Conclusion to an Intellectual Life: James C. Scott on the Irrawaddy",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQTZqQmdHcG9YdWNILVItZUpsbTV5TXhDOHZsUEVab3hnZ2V2S3d6d1o1MDlvOFdlWU1ORGFtUVU4ZGFpSnptaUE3aDNNdDkwYkZiN2FJYkEtVEYzaHBuaGp4Z2ZhaGxCbVpZSUxpa3FfZW9fQnFqTDZ2bUw2dFdWMWNYeGNJRzR6Y1Z2c0FTR2RMM2Jrc0dqT093TVpHNGVSTzNteDBUMXdVVE9mcEM3aUdyQjRFc0xqOWV5Mg?oc=5"
+  },
   {
    "ts": "2026-10-23T03:00:21+00:00",
    "title": "23 October 2026",
@@ -2193,13 +2200,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU2JuUVY1SG5kRWdZVGVHbGx2RmVvUVV0TnVRaHNzZXhsVTk2S0gweXBfR3ZYNTBWN3RBTkJRZDdGWllMVU5JVW1iVlNJbTFMc2tpUVJhWnY0ZWZnUDctYmNZdWVjRmx4SV9oSFZNOWIxSklsYzJ1VmVEQTV4a19WMWZsYnl6N3RINmJfQ2QxYmV5WWtCSEZwcjdR?oc=5"
-  },
-  {
-   "ts": "2026-10-15T14:30:27+00:00",
-   "title": "Myanmar Military-Owned Brewer’s Sales Halved as Boycott Bites",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdHlRNThWNUFBXy02d1gyZlFvTFNQaGp1dUk4OUNQYnFOVmRfVDIxeXNCc3ZETzdfYUpyVERDdU9nR1dzZVlLckpleGpiMHFoT19JNjRNV2Vyc0VYVkZRVzFTczhmeWVKY3hBemlZX2Q2dFY2RVl6OUJVa1JCYTVqYXltaEdYTmNHRTBGcko0ejVKTEs2QU9TZi1mb2ljMmM?oc=5"
   }
  ]
 }
