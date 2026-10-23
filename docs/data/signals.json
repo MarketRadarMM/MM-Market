@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-10-23T12:00:22+00:00",
+ "generated_at": "2026-10-23T12:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-10-23T12:30:13+00:00",
+   "title": "ဘရာဇီးရွေးကောက်ပွဲ၊ AI အမျိုးသမီးအတုတွေသုံးပြီး လိင်ပိုင်းဆိုင်ရာအသုံးချ ငွေရှာမှုများ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c617kx5q0eweo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-10-23T12:30:13+00:00",
+   "title": "တရုတ်ပြောတဲ့ အဆင့်မြင့်ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ပုံစံဆိုတာဘာလဲ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/crwydv1nywepo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-23T11:00:22+00:00",
    "title": "Region Chief Minister inspects cultivation in deep-water fields of Danubyu",
@@ -2186,20 +2200,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeFZZOVBtQVYxYkFQT0ZvVlM5cVJrcmsxcDZIZUhya2Vwd0JVekRaN3FzS2xQMmxIUW9wWC1rd1NDdjY1ZXJIT0xFMzdVQU95X1VxYXp1NDlpLXpzZzVaUmFwOTBtc1BtUjRUS3ZkMnhRTUlLWmw3M29KRDlSazEyYWNQZW9LVDQ?oc=5"
-  },
-  {
-   "ts": "2026-10-15T20:30:20+00:00",
-   "title": "NCA Talks to Convene Peace Conference, Official Meetings",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNT1VLX0RSRGs5TXI1TWdXeEZtQ0tTTUw5dTlsXzJyZlVPeXM1b0tuQUEzRl9qX0l3YVBlRnVNNjhBVEhYdXdDY1g5bUg1aThja3k1RjNEZ1lLeXZyZW5FSzBfckg4OGd2SUVHcm1EbU9XVmxzVTJSYUs5dHNjN2ZiSTlCWXRrMTg?oc=5"
-  },
-  {
-   "ts": "2026-10-15T20:30:20+00:00",
-   "title": "16 October 2026",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1b3JSN3gtWFdBSVdSZDVESXVDTlIwVVRZQjliMV9sQnQ1anM0Wkhja1JMcjViQmRYcFU0Nl9URGpIMHJnSXZPSHViaHRRS2hSN3c?oc=5"
   }
  ]
 }
