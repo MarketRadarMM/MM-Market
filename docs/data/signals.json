@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-23T20:30:21+00:00",
+ "generated_at": "2026-10-23T21:00:26+00:00",
  "signals": [
+  {
+   "ts": "2026-10-23T21:00:25+00:00",
+   "title": "24 October 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9iR183bWhuTlVpZzcwMWRneDBtU0sza1paOWZhZ1V2N1E1andLNzFFNUxYVDRqQ2ZVclQyMk5oR1luWFhiUXZnX3FTaWd2ZDVZU2c?oc=5"
+  },
   {
    "ts": "2026-10-23T20:30:20+00:00",
    "title": "7th Myanmar-China High-Level Think Tank Forum held",
@@ -2193,13 +2200,6 @@
    "source": "Myanmar Now (MM)",
    "markets": [],
    "url": "https://myanmar-now.org/mm/news/81801/"
-  },
-  {
-   "ts": "2026-10-16T07:30:41+00:00",
-   "title": "New ID Rules Tighten Regime’s Grip on Migrant Remittances From Thailand",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYTd5R2w1Ym9QaG5scmJmUzRJUU5GRFNIRE83NEZJWkFKY2FQVVNTNDVkVk1XZTl5OHpGSzBwbzF3Njg4S0tCMUxaeS1VeHVSMk5KX2RrRVYyWUJnQzB5Tk9WblVGd01qOW1FMzZXcEd5NFlrbUZjS1hnVkVWWWJUelBId3hsUUloRWZDdFZJamt1RnNEb25pNUhrUkFVOU1rWE1Mbk01dG51Tm14NmV4b0RR?oc=5"
   }
  ]
 }
