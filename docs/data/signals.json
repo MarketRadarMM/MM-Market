@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-10-23T12:30:18+00:00",
+ "generated_at": "2026-10-23T13:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-10-23T13:00:20+00:00",
+   "title": "စစ်ကိုင်းအခြေစိုက် ဆားတောင်မိုးကြိုးအဖွဲ့ NUG ထံ လက်နက်အပ်ပြီး အဖွဲ့ဖျက်သိမ်း",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81901/"
+  },
+  {
+   "ts": "2026-10-23T13:00:19+00:00",
+   "title": "'ကင်ဂျုံအွန်းသေပြီ' ဆိုတဲ့သတင်းတွေ ဘာကြောင့် ထပ်မံထွက်ပေါ်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c6kg5yr2jlzxo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-23T12:30:13+00:00",
    "title": "ဘရာဇီးရွေးကောက်ပွဲ၊ AI အမျိုးသမီးအတုတွေသုံးပြီး လိင်ပိုင်းဆိုင်ရာအသုံးချ ငွေရှာမှုများ",
@@ -2186,20 +2200,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU182S2ZKd21CbEFzNFhFdUszZ0E2bE9DMjl4eTBlLWVFYjk2QjlQeVVkYnFDUEg2WHgyaEFVZEtzT2QwRkpwNVV1dGVIR1J1OC10OWxNcUNnZi1yVHJhMUo0U2FYSXdaT0xqQkwwdEhKeUFQdl9tOHNfUmlESlRwWFdkNWpWdllRSDdKSkFUT3Bod2JSYWl5VGpScXktekU?oc=5"
-  },
-  {
-   "ts": "2026-10-15T21:00:21+00:00",
-   "title": "UNDP’s ENCORE Reaches 54 Villages, 96 Camps in Kachin State",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQX3N1NHp3d1JleFhXaHZfQnlsZUhfN1Jud3BRLUtMNk5PQ2VVd3JkdHNOVHJhQlZyaVRJX2RuN0xiQzVwSHI1NXM3c0lCVUVFR05TZDNnUTFIMVVBZFJXbDBOYUctVUdrQnFaRFRqcngwOGNTNDJneXpicWJ3Y19MTV84U1JTUmlHNlE?oc=5"
-  },
-  {
-   "ts": "2026-10-15T21:00:21+00:00",
-   "title": "Vice-President U Nyo Saw receives Vietnamese Ambassador",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeFZZOVBtQVYxYkFQT0ZvVlM5cVJrcmsxcDZIZUhya2Vwd0JVekRaN3FzS2xQMmxIUW9wWC1rd1NDdjY1ZXJIT0xFMzdVQU95X1VxYXp1NDlpLXpzZzVaUmFwOTBtc1BtUjRUS3ZkMnhRTUlLWmw3M29KRDlSazEyYWNQZW9LVDQ?oc=5"
   }
  ]
 }
