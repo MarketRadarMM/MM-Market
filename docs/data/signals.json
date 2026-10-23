@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-23T02:30:30+00:00",
+ "generated_at": "2026-10-23T03:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-10-23T03:00:21+00:00",
+   "title": "23 October 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oSVYxTmtZbkRBUEJPeG1oT2N1UmNnRHhoZlQ2UkFEaHpGM2p6aU5MckhEV3RTSTc3eUlsakcwTFE5bW9ORkRlaEtmZzUyRDM1NXc?oc=5"
+  },
   {
    "ts": "2026-10-23T02:00:18+00:00",
    "title": "တိုက်ပွဲပြင်းထန်နေတဲ့ ဗန်းမော်နဲ့ အတူ မံစီကိုပါ စစ်တပ်က ထိုးစစ်ပြင်လာတယ်လို့ KIA ပြော",
@@ -2193,13 +2200,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdHlRNThWNUFBXy02d1gyZlFvTFNQaGp1dUk4OUNQYnFOVmRfVDIxeXNCc3ZETzdfYUpyVERDdU9nR1dzZVlLckpleGpiMHFoT19JNjRNV2Vyc0VYVkZRVzFTczhmeWVKY3hBemlZX2Q2dFY2RVl6OUJVa1JCYTVqYXltaEdYTmNHRTBGcko0ejVKTEs2QU9TZi1mb2ljMmM?oc=5"
-  },
-  {
-   "ts": "2026-10-15T14:30:27+00:00",
-   "title": "WMO Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1mT3JuYWNsXy1kSlJLV3FpR0tsQ0lCOXFpYlBtY2VaQTJJUjB5R0huaVdmVEJhRjB2b0haZ0Y1WHNXSkM2NmxReG1vOA?oc=5"
   }
  ]
 }
