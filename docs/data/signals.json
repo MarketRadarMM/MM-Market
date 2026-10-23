@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-23T09:30:22+00:00",
+ "generated_at": "2026-10-23T10:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-10-23T10:00:17+00:00",
+   "title": "KNU မပါတဲ့ KNPC က ငြိမ်းချမ်းရေးအတွက် တကယ်လုပ်နိုင်မလား",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c1k234z87pdo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-23T09:30:20+00:00",
    "title": "Analysis | China’s Myanmar Policy—Consistent but Fundamentally Flawed",
@@ -2193,13 +2200,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNakk1VnRWXzd4U1BwSWItN2tDZm4xOGIzdmQzZ2VERUE3WGdvYnVQYjBzeU13aU15TlVLYlJjVGh0eEo0UmJsZXpVY0lhNC1vVjhRZmVBd002YmZRNEY5RlM1ajQ0M1dZMzZQZEpEV1VrRVRieFpHbmtVaDltM0JDc0NvRU0wdw?oc=5"
-  },
-  {
-   "ts": "2026-10-15T17:00:24+00:00",
-   "title": "What is Torture?",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zeURDOUJndl9HcXVrZ3Qza1NuMUxHdVpzZGFFMWU2Y1RNR1pSWXBMMUw2RkhWcjUyckhKdkZWZkUwSXdzSlBJelFjN0hmaDd4TW9EWDhPTTVlMExJOThR?oc=5"
   }
  ]
 }
