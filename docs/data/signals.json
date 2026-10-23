@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-23T21:00:26+00:00",
+ "generated_at": "2026-10-23T21:30:24+00:00",
  "signals": [
+  {
+   "ts": "2026-10-23T21:30:22+00:00",
+   "title": "China closes 3 Tibetan schools in 3 months; threatens language, cultural preservation",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/tibet/2026/10/23/golog-qinghai-tibetan-schools-closed-ethnic-unity-law/"
+  },
   {
    "ts": "2026-10-23T21:00:25+00:00",
    "title": "24 October 2026",
@@ -2193,13 +2200,6 @@
    "source": "Myanmar Now (MM)",
    "markets": [],
    "url": "https://myanmar-now.org/mm/news/81815/"
-  },
-  {
-   "ts": "2026-10-16T08:00:19+00:00",
-   "title": "ရခိုင်ပြည်နယ် မြို့တော်ကို စစ်မီးကူးစက်၊ ပေါက်တောတွင် တိုက်ပွဲ ဆက်ပြင်းထန်",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81801/"
   }
  ]
 }
