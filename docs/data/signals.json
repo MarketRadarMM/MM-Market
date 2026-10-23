@@ -1,6 +1,76 @@
 {
- "generated_at": "2026-10-23T19:30:19+00:00",
+ "generated_at": "2026-10-23T20:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-10-23T20:00:22+00:00",
+   "title": "Pyithu Hluttaw discusses riverbank erosion, road upgrades, commercial tax policies",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUzE3bldhZTlJLS1WWGFTd3RxZV9wR3ZRZmtVTGdWdXpuU2xOOW1mcHhndzNWdG1rVEtQeXRwQmtpQmRKQVZ0N3J1V3NJdnoyenNpQ1VKU1M2MVBfTDZUOWhWUTFlTXhCM1gzcUNvY2hHYl9XSWdnODY4ajYzTm9HTXZ2LVk3N2NhRWUyd3FDLTdnRkViZnpOLXJucWU3Ny1mcHNaOHRla28?oc=5"
+  },
+  {
+   "ts": "2026-10-23T20:00:22+00:00",
+   "title": "Bagan Awaits Large Crowds in Thadingyut Festival",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vY3NnVFd4dGpWay1Pc0JqUjJ5R2xLRHg4QndpLU1YcE1vUEdkLWxZSkpyUkhkQXZNcTMxb2lLMDZWamRVY3hfaDdhakpWVlBvVUhscWRLSFNaRjB2NzNMeTU5X3ZHY3N1VkMwSGJCWi1nb0V2MDJXSm5CYnJlZw?oc=5"
+  },
+  {
+   "ts": "2026-10-23T20:00:22+00:00",
+   "title": "Myanmar startups join ASEAN-Korea Startup Week 2026 in Seoul, Daegu",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPak9pX29WWlhGTS0yR0tIOUMxalVoS2V4MFM0ZTFuRjkzb1lpU0lZOFlCVEdNWWVfMlBjRThGLWpocVJfTjd1dlNxcTNab3l4Z19GbEpTTDZVOTBoT1VmSzlMWlVTdXZnZURsUlRjQkI4QUotX3dxZ2tYYVdacmQ5cEw1YUczSTJfY3ZyZnVqYnlUQzFxdkE?oc=5"
+  },
+  {
+   "ts": "2026-10-23T20:00:22+00:00",
+   "title": "Pyidaungsu Hluttaw Speaker meets Myanmar Embassy staff, families and trainees in Belarus",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRnNDd0xvQjA5UjlNaGE0S1BVSU5UeExKN01wWkdFNjcyUFl5Tkl2ckJPUFR6RHI3SDRlZEtGbzRPUUNyem9ySF84cWc3YUlUbWZ1Z1dtclNNN05EeUw3SWNOQXZwa2EzRm9LU3dtMFlXY2JuWFpzWkRHaWFiYTFReFBQM1RmRlVDNXItaVhlalFiRGx4MTFKdWNiUWU2REkxNmRRWi1GNWEwV2I3ZEVUcmxR?oc=5"
+  },
+  {
+   "ts": "2026-10-23T20:00:22+00:00",
+   "title": "Government and people urged to work hand in hand to serve State’s interests",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVVhRNnRad29teWpyWEs5ejFZaWV4bHBhemdVdVpJcTZRX3N3aWx1eS00Y0I1b0pDLUJ5Vm9rdnBBNVFGWTV1MjYxMVZrbG94WEtpSFU0N2FzSUJsUzZRZzk0UkV3SjE1OUQxQXFMeHNFTExINHZmMzRzM0tNUGx6MFVoZC1XMXplMDJROTF0LWdUR1Q5QW1kd3p5UVFGMUJ5?oc=5"
+  },
+  {
+   "ts": "2026-10-23T20:00:22+00:00",
+   "title": "Traditional Chinlone Enchants Pakokku",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rNW12OUpuX3hJRXdHMDJGQ1JWc2Z6Qk9rT2stUXcxd3FvOTN0dHMyZWFWbWFyZDR6M1hIZkpzUTdDX216cmFVN1dVUnpZcjZmdHJZRDVrbkFqb2VySzdsb0JpZjBfREFMMVJ4a1dGWQ?oc=5"
+  },
+  {
+   "ts": "2026-10-23T20:00:22+00:00",
+   "title": "Meiktila promotes agriculture, livestock and regional development",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTEplako4ell3cW80andhMktfS2M5WTJUazM3VXJxRExJSHRaUXNhc1dkRUJmNUREdTNwdVlaYmgycDBtUzFHS19NZkprMElYRGNlSDdIMml4THJac0ZGeEVMZ0tpd3ZCNENvRE11ZjI1UGVCbkdVU2QtTTZ5UmhNTThiS1FVOFgtR1AtOEd2eEpyS2s?oc=5"
+  },
+  {
+   "ts": "2026-10-23T20:00:22+00:00",
+   "title": "27 insurance companies operating in Myanmar, discussions held to expand 6 new types",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUzJHV0dJaUZmOVl0Mk5GS21jczU5cUcyZmpQd1pLSnhTRnc3cXE3UUY1NFI1SjlfMEtJNUdwYTVXWHM0LUhsNFgyN1pRRFJzc1NLbVBJVE1HcFJFWWh3YV9lWG5NMkUyTThTdlhENXBfVTNhUmprdkhaSG9DUzk4XzN5MGt6dlZnMThoSFI3QThIT0RBczFHTzYxaWV2YU5pYVdaM1JRNGVyTXc?oc=5"
+  },
+  {
+   "ts": "2026-10-23T20:00:22+00:00",
+   "title": "Yangon-Bagan railway service resumes after being paused for more than a year",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYkFJUWJ0X0V6QkVWbDlDRFNzT2tnb2dmYUtNZjVUcUVOR2FfWnk1ajZybnVfZHdwVXFBSk92d3JaRUZGenJIUU1UREdkUzZ1S2haei1EdU93aUU0cC1iX2x3WnNEOVFBcENnU05BUktRQ0NKNHh1U3Bqc2RXOTBNOXFYdk9ZUmExTmdzVkhJRk5VR09Tejh3aEh2V0UwREZ5Q3B3?oc=5"
+  },
+  {
+   "ts": "2026-10-23T20:00:22+00:00",
+   "title": "Vice-President enjoys competitions of contestants at 27th Performing Arts Competition",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdmlIQzAzQ0dRekJYNUlrdFh1dzNCckVXQVpGQU5URTB4aVVqazJYMVBjSlkxdXF2aE9iQ25Hbmt6SEp2bExaU3oxRURyUzdMeXJzaXVpZ2Q1ekRGMWlRZ192aFlSV3JRT193TGFTQzZtd19ZQmY2STczUXRQZmYzeEw3bGZEOVR0cFA3WWlQRXBsWDhQZFpRRUoxcE5MdjBjM0tZLXlLR0R1ZGxNd19N?oc=5"
+  },
   {
    "ts": "2026-10-23T18:30:19+00:00",
    "title": "News release: Arrest and legal action taken against ring leaders (senior agents) of illegal online gambling operations",
@@ -2130,89 +2200,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbkZybFhFWXhudGRuUEYtMW9CaUdlV0MtMTN0REJDbFN6aUJpZkt2Nm9ydGJLNmZCczZyMmdzQ3RsU1p5SFFDTk9Dd3UzYmVKcGhtQ0ZoLUY2cktidzFGZ0lCSV9SWUY4QmNXNXprQXI4ODJxdGl0NWhFbjYweGgyY00xdHRFREM5SVBpaENDbU1iUHBoVVBuYlRaUWE1NmFUYjEtdkJzTE9zSXVz?oc=5"
-  },
-  {
-   "ts": "2026-10-16T02:00:22+00:00",
-   "title": "ဒေါ်လာ၊ စက်သုံးဆီနဲ့ ရွှေဈေးအမြင့်စျေးမှာဆက်ရှိ ကျပ်ငွေတန်ဖိုး ဆက်ကျနေ",
-   "source": "BBC Burmese",
-   "markets": [
-    {
-     "market": "gold",
-     "direction": "neutral",
-     "confidence": 0.5,
-     "rationale": "Direct gold-market story"
-    },
-    {
-     "market": "fuel",
-     "direction": "neutral",
-     "confidence": 0.5,
-     "rationale": "Fuel-market story — read for direction"
-    }
-   ],
-   "url": "https://www.bbc.co.uk/burmese/live/cw8rze7ng6zkt?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-16T01:00:21+00:00",
-   "title": "Deputy Commander-in-Chief of Defence Services Commander-in-Chief (Army) General Kyaw Swa Lin delivers address to senior military officers in Office of Commander-in-Chief (Army)",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbjhjQ016MGUtUEtDY1VFeHQ5NnB5dDFRM2xmekx2cDBINUdwSzRJcFFDbHdIMzQyVmFWWV9ON2tQOHp1Vk54QjNYYm1vQzlDS05fTlA1eDQ5NHJ2Z2JWSDF3ZjRqVnUzQ3dIRUNqcFpDYkFrTkt1RDl6Vjg5VkNuS21mdE9aZlpDaEktMFBFZkpMTWNsQm9oUFNCaHNiVWpPSG1idnFyMk0yWmZzanZLM2Ftank3azZmWnQyY0F3?oc=5"
-  },
-  {
-   "ts": "2026-10-15T23:00:21+00:00",
-   "title": "Opportune Moment to Launch Peace Process",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WcXNYM0E5N3ktNU9FZEM2ZVhZaEljenVUTHkyU3ItV0RBX0NQRTZOODdpU2hlVW9zMkpLQkZDY3RLZUxJWnBheHJ0QlJIR1BZNHdBdExqTmlUMURhRlFqT1dsNnFZNXJMWjE2Sjhyb1hDX1E?oc=5"
-  },
-  {
-   "ts": "2026-10-15T23:00:21+00:00",
-   "title": "Pyithu Hluttaw approves motion on outstanding student awards, addresses key questions",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbGgwWTRGYm16dnBUWWRqOXFwbGxNcWU1MFFhakhQSjQ5MkxkU3VueXNGSzhaSHZXS3lwbmlNYm1TRVV4TjNuTnFQR1hWQVFuS3kwOUZlcTY3bVlYNmx3ekY1alE3TmZ1T01rVFY4d2FaR1JDclVUREJRLUhCaEhBZ1FkOTdJRGxrTjN5di0tMnFMRlY2ZjFTWk9laGtNT0NvemgyRnNlRWh4NVk2QkE?oc=5"
-  },
-  {
-   "ts": "2026-10-15T22:30:18+00:00",
-   "title": "Conflict in Numbers | Kayah Resistance Groups Claim Victories Over Myanmar Junta",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS1RMTG1XZFN5a21KLXk0U0w0LWhLc1BjSzh6VERlcGxCZmY0ZnUtcVgxMmpRdW1POWN4SlNwRVJiY3RLUE1qQURuS2kxMnFaZVZzT0JRZWNjampkLU1ScTBtSER5azQ4aXhqaldaZ05lS05mb3VfV0xoUFM0RFpQdFVvd215S1JoWEprZUtJaV81QXVmNWRSakUyM19DcU1xNXcxd1g4RjkzRXczQjlJaw?oc=5"
-  },
-  {
-   "ts": "2026-10-15T21:30:24+00:00",
-   "title": "China covered up the cause of a detained Uyghur father’s death",
-   "source": "RFA (EN)",
-   "markets": [],
-   "url": "https://rfa.org/english/uyghur/2026/10/15/yasinjan-toxti-uyghur-xinjiang-china-detention/"
-  },
-  {
-   "ts": "2026-10-15T21:00:21+00:00",
-   "title": "Swiss Head of Mission, SDC Team Visit Myitkyina Rehabilitation Centre",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNEkxMzRFa3luS1ExOXk4NG9UOWtwRk1rOU9sY3dEbTM3N18xTjhVZlRDUjdLdy0ybzFIQmRFRUp3X3RRMkxmd180YnBWQTRZUzkxek1TNTF3VEVlN0s5UGs1RzlxZkhnUGU0S3FoUU5nYnF4YngtcDNJb3diNDZyNkk4eG0xLVZXd2R2SlFKcHpIcmxXc3NfcQ?oc=5"
-  },
-  {
-   "ts": "2026-10-15T21:00:21+00:00",
-   "title": "Myanmar, Vietnam to deepen cooperation between Parliaments",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQVRhQnMzM0xSUU5HVVZVc3EtOUFIVDNZaXRvZV8zU3V5OENfWkV0ZW5OTkxyQ0N5NVdkQTdxS2Npa1lkLTJLV0xDVlZpSWNsb0VRUkV2bV9pSWpIeUxhaklPLTBsRG9vZ2xraUxnUmhLcVlSNk9vaDVseDZKd0QzNzU0RTNrQUIwUUE?oc=5"
-  },
-  {
-   "ts": "2026-10-15T21:00:21+00:00",
-   "title": "Vice-President addresses Myanmar Youth Affairs Central Committee meeting",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYUxDT0o5akVOQlpRZWREQmhGMWJUYm5JSlY4Xy0tVmpXekRwZ2RIR3lTWnlyU3NuMkRMMWlxOTZCbnB6LVVBNlhCSHZSZ3hjOWRXSGN3SG9EZE5IMFVCYlEtT1NqbTBSUXpFUlpFZnNpVDJKTWZqd0gxR3BCcGNndmoxenpkSjA1VnFLWFY2V1BZdUtYYmhZN2h2eHNPQQ?oc=5"
-  },
-  {
-   "ts": "2026-10-15T21:00:21+00:00",
-   "title": "Myanmar and India sign MoUs on QIP implementation",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mNmc4TC00bGt4Q3VvVThuZHdrRVZudGhFdHVXSVE1a3hZaDlpc3lLdVJ6Wk94LVBGRFhkVnNsb29hMlRrbWY0cFZzR0xrWDh2Q2diVDdndmtQeTdYQnJiMFAwQUpjb19LYnV4YXFUMkpkVm50dWJ0U2p2djFBc28?oc=5"
   }
  ]
 }
