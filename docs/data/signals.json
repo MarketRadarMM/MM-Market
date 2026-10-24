@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-24T03:30:19+00:00",
+ "generated_at": "2026-10-24T04:00:19+00:00",
  "signals": [
+  {
+   "ts": "2026-10-24T04:00:18+00:00",
+   "title": "99 Chinese nationals apprehended in online scams and gambling crackdown in Monghsat",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNVZqakI5TTdNMlk4NWhQYmNJZzdGaWwxU2Nlcl96dWhaZTZSc3VfMndWRWJUU0E5SUF6NzhQZDM2dk9OU2F4bk5lZGozX0ctaWYxSjBhNEJydlZRS19sUjJWWlptLVc3dVNRbmNmTFprdWhVdGZWRzRxZkk3Z0FrNUFvSnBILTl2YVhqMFh1ci1ON2dLMHFONmpsTG13QXFxVl9wWGFkYUlSUWxJ?oc=5"
+  },
   {
    "ts": "2026-10-24T03:00:20+00:00",
    "title": "Hlaingbwe’s MSY village project activities inspected",
@@ -2187,13 +2194,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUnVJWEc5V1llNnRNcXprMHVRRTZoQmozaVFtX2tRZlMtRFlyWVpZZFBFb3ZsOVR4LWNhazk2dXdFb2JiakZ6clU1dmY3NVFrcmJqUy1kRjZVMkg5cFBYZ2lGYUUwLVJ0d1N5U0ZoX3hjUW8tRkNOY0tBcDZLNVRrSDlld0hwRzg?oc=5"
-  },
-  {
-   "ts": "2026-10-16T12:00:19+00:00",
-   "title": "နှိုးစက်မလိုဘဲ ဘယ်လိုအိပ်ယာထနိုင်မလဲ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cj9xlvzrmnpo?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
