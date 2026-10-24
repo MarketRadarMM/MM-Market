@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-10-24T04:00:19+00:00",
+ "generated_at": "2026-10-24T04:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-10-24T04:30:18+00:00",
+   "title": "Palm oil reference price shows uptick",
+   "source": "GNLM",
+   "markets": [
+    {
+     "market": "edible_oil",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "Edible-oil story — read for direction"
+    }
+   ],
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04dm1ldkJXa0s0VkJuZUFSN1ZlelVhS2FzOVdBSWplcDJXREYwcWhicGFKQ1J5cEZBZHFSQ1JGbEs4SWQ5RkVIUnZ1RGJsbS1CUXVrRDdJX0xEdVpBcTdhSEE2MTI4T1Z4ZEl3QTI0UQ?oc=5"
+  },
   {
    "ts": "2026-10-24T04:00:18+00:00",
    "title": "99 Chinese nationals apprehended in online scams and gambling crackdown in Monghsat",
@@ -2187,13 +2201,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNzZ5Sk81bTN6T0ZsMHlXM0tHaFo5RWFwQWpPMHZhc0xYNXFuazZIVFpVcjFNM1pMbHZiUkhVamFpZWRTY092QWRCaHZiVE13Vk5rZ0VTdEE2TDJwVmFac3ZCQnRkYkN6RXc1TF9MS3AxX1lxb2FKNHFFMWtVTzBycVZR?oc=5"
-  },
-  {
-   "ts": "2026-10-16T12:00:27+00:00",
-   "title": "Public awareness planned for the World Osteoporosis Day",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUnVJWEc5V1llNnRNcXprMHVRRTZoQmozaVFtX2tRZlMtRFlyWVpZZFBFb3ZsOVR4LWNhazk2dXdFb2JiakZ6clU1dmY3NVFrcmJqUy1kRjZVMkg5cFBYZ2lGYUUwLVJ0d1N5U0ZoX3hjUW8tRkNOY0tBcDZLNVRrSDlld0hwRzg?oc=5"
   }
  ]
 }
