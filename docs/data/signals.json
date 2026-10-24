@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-24T20:30:31+00:00",
+ "generated_at": "2026-10-24T21:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-10-24T21:00:20+00:00",
+   "title": "Myanmar avocados to target intl markets through improved varieties",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQmYtWHhUT1hVZGpGN0M5UmpVN2NKbGl4al85czJNMmtld3F3cV9pUVlNVHMzNV9kbXhpTURNOXpqbjMycHlBS1M4cktaeWNpRGZYS2RfMk9zdkF2MXZsanhZZF9GT1RzRGloMGFTMzdmLWtURFRTV2ljcVcyV1JINENpRWdHU1lxU1VqV2tQeU82NjBWWXc?oc=5"
+  },
   {
    "ts": "2026-10-24T20:30:31+00:00",
    "title": "Indonesia Expo 2026 set for 2 days at Novotel Yangon Max",
@@ -2168,13 +2175,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/cmly0vxnjq41o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-17T11:00:19+00:00",
-   "title": "ရခိုင်ကို ပိတ်ဆို့တိုက်ခိုက်တဲ့စစ်တပ်ဗျူဟာ အောင်မြင်နိုင်မလား",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cmwyvd7xyd5wo?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
