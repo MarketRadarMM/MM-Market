@@ -1,6 +1,34 @@
 {
- "generated_at": "2026-10-24T02:30:19+00:00",
+ "generated_at": "2026-10-24T03:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-10-24T03:00:20+00:00",
+   "title": "Hlaingbwe’s MSY village project activities inspected",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVFZQQlJYbmNHNnNyYzJNTFlJTzdJV3JWTWYtR1c1TG9sUDhIX1lGODhIM043WVlkUjhEQ01XdGM5Y0dEblJMZFJGLTFvcHR2X0RwcG1kc0QzdE9UODl3bkw5dU9wdG1kNk1BNVJtLUhwV0gtV0JEd1BKV0FKVGY1Y2VB?oc=5"
+  },
+  {
+   "ts": "2026-10-24T03:00:18+00:00",
+   "title": "DHPI seeks tenders for 45,000 gallons of diesel",
+   "source": "GNLM",
+   "markets": [
+    {
+     "market": "fuel",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "Fuel-market story — read for direction"
+    }
+   ],
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9fM1c0ekdtVVZvQ2owNTVWSVJZdGFJcXFEemtiY1J2TVJ4eXRLbG5CeEREVlh1eFZfdzhlR1ZfR2NhVEV2LVJUZ0dlY2xvbGIyYUU4eEpqNlVEa2VCMUNZVlYtV01FSWZYYUoxa1U3M0xvVEV3U01yRjNBcw?oc=5"
+  },
+  {
+   "ts": "2026-10-24T03:00:15+00:00",
+   "title": "အောက်တိုဘာ ၂၄ ရက် သတင်းအနှစ်ချုပ် - ဝေဖန်မှုများနေတဲ့ ထိုင်းရုပ်ရှင် မြန်မာ့ယဥ်ကျေးမှုကို မှီငြမ်းထားတယ်လို့ဝန်ခံ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c64g145yv9lro?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-23T22:30:20+00:00",
    "title": "Vice President Daw Nan Ni Ni Aye attends reception marking 77",
@@ -2166,40 +2194,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/cj9xlvzrmnpo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-16T11:30:14+00:00",
-   "title": "Fear grips Mandalay as junta-backed militias and kidnappers prey on residents",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/fear-grips-mandalay-as-junta-backed-militias-and-kidnappers-prey-on-residents/"
-  },
-  {
-   "ts": "2026-10-16T10:30:20+00:00",
-   "title": "ပြည်ပအလုပ်သမားချွေးနှဲစာ စစ်အုပ်စုအတွက် အကြီးဆုံးနိုင်ငံခြားငွေအရင်းအမြစ်ဖြစ်လာ",
-   "source": "Myanmar Now (MM)",
-   "markets": [
-    {
-     "market": "fx_kyat",
-     "direction": "neutral",
-     "confidence": 0.5,
-     "rationale": "CBM/forex news — read for direction"
-    },
-    {
-     "market": "gold",
-     "direction": "neutral",
-     "confidence": 0.5,
-     "rationale": "Kyat-sensitive: gold usually moves opposite to kyat"
-    }
-   ],
-   "url": "https://myanmar-now.org/mm/news/81821/"
-  },
-  {
-   "ts": "2026-10-16T10:30:18+00:00",
-   "title": "TNLA and MNDAA rapidly upgrading Chinese border gates",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/tnla-and-mndaa-rapidly-upgrading-chinese-border-gates/"
   }
  ]
 }
