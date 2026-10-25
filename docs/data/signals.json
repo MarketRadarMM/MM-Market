@@ -1,6 +1,34 @@
 {
- "generated_at": "2026-10-25T07:00:24+00:00",
+ "generated_at": "2026-10-25T07:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-10-25T07:30:18+00:00",
+   "title": "A Precious Moment for Oneself",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JZUNDSG10emNjcXhzRVdVUVY3TkJEWTN2YUI4RjRKVkY2QnhYUG1vRkZwMGtlbkR5NmtfR2duWTBHcWlJMWRBbkxURkdIMXJQUC1Wb194bWNMZVB2aVlQVUVYVzY?oc=5"
+  },
+  {
+   "ts": "2026-10-25T07:30:18+00:00",
+   "title": "130th Intake cadets of OTS (Bahtoo) explore Nay Pyi Taw",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX3N0ekg2b0tVb0JLaUxtWmR1WjhDWHZzT2VXVjFqODcwWW9rWlhadDM5aVBwVXYxTUFFYlU1N05uYUp3Z0N2Tlc1Nm0zMVFlUVNUYjlFR2prQlJ0VDdRRzZnR2ExRV9LM3B6Z3BMOW1mVnlOY2RmWTFOM2ZBT0FiM1R4dlQ?oc=5"
+  },
+  {
+   "ts": "2026-10-25T07:30:18+00:00",
+   "title": "Shwe Kokko Phase II scam compounds flattened",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42YkpjbXZ6NWplNnlqR3NhMEZ3RHpuWW51bjZZSEVybktPdkVxbi02TUVFaC1BUGl5WUxTdGdIMjA3MG5TUUZNNlQwQms5QVFkeHd6OFk2cU5BUmNOQWh6bnZlS2V2RU94amFjTGZYOE9DVnRHbXF1cw?oc=5"
+  },
+  {
+   "ts": "2026-10-25T07:30:18+00:00",
+   "title": "Laymyethna rehabilitation and development task underway",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbnlPc2FlMFlPMjI4SzZBOWFaUXdtbE1aT0dZUGVtS3RCQnVSSFFGcEdJNXQ5Y2VPZkZfdVVkQ2FidHpReXNnSWNMOFBYQlZJM2hNaWpvbUVaX2NfYkhYMno0SzNSSUg0VllEaENrVnpLOGN3UHduWXduT0R5QnBsSVJBOV9QYVE?oc=5"
+  },
   {
    "ts": "2026-10-25T06:30:18+00:00",
    "title": "Vice President U Nyo Saw attends and encourages contestants on fourth day of 27",
@@ -2147,34 +2175,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYmo0THFROUdQNFdmQzFKMXdjTFBINlBXVmVjNEkzS0VtczFFcjI5cjR6cER5OVlWMVg2dVkyYXl3dGpDSkQ0QzEwTUNPenJCNkI0Vm50U0tFQ245akpwUF9heldRQnl4ZnhtTWk1Rk5RaHVpVmRTSmJTbFJmS2JHV1NnVkdnS2ZJWFM4NFNyMWpXalVSVEhvMzQtaVRua3ozeDFpUmJ6bFluOVpKcDBDS0Zna2JJYlBJemRTYVpXYlZwbXA1eHkwSnlXRQ?oc=5"
-  },
-  {
-   "ts": "2026-10-17T16:00:18+00:00",
-   "title": "နှိုးစက်မလိုဘဲ ဘယ်လိုအိပ်ရာထနိုင်မလဲ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cj9xlvzrmnpo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-17T16:00:18+00:00",
-   "title": "ပန်းသီးထဲ ဝှက်ခိုးခံရတဲ့ ရှားပါးပန်းရောင်စိန် နှစ် ၁၀၀ နီးပါးအကြာ ပြန်လည်ပြသ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cw78p43zmv5mo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-17T15:00:21+00:00",
-   "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing addresses Union government meeting",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ2tXX0Z3MzBVbWIxbVd6TnZqbkI4dmVUc0NWRmIzaFRQakVjSV91QW5SejYtajFfZFlNOUMzZEg5ay1NZ3JsMnlBWU93UVAzZklOWU8xOG5kNHNLSVQwNDhBVW1mRTZVejJYU25SMFN2Vm4tUVA0Mkx1aXJhTWUycHhIbE81WjZnV2V0NllRclpuOEMxcGhMT0pSTDRFTmRzS3JiYjQxbHhWM1piMDZV?oc=5"
-  },
-  {
-   "ts": "2026-10-17T14:30:18+00:00",
-   "title": "Specials",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUMXJleHprMHM5dmlLWjdRSDgxSUdORFpMMFU5NzB3aDJEYWEwX0ZQeERucm1mLU5jNXpnSnI0TnljdGhveU1mNml2cDFUMWJsZ3BSYjI3RjNlbkZtZ1ZFcTF3?oc=5"
   }
  ]
 }
