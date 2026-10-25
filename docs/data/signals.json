@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-25T00:00:20+00:00",
+ "generated_at": "2026-10-25T00:30:17+00:00",
  "signals": [
+  {
+   "ts": "2026-10-25T00:30:15+00:00",
+   "title": "အငြိုးအတေး Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVEFjNTI4NVJuRnY3azBFOXNLTnJiRXRjQUk4aDVsSEVBTEY5QUw3bFp4bjVDS2pRVDhuc0RCNVlpOU9mNWlUZlVWbS1VTkVyRmp2X090SUlUa1YzZkJLTHdTNkVnbi1OUmUzUG03OEZtYkdUTlFFQTc4djZZTHlmcWllUTJidGpWdjVMVTkxaVUxTzQtb0hWMVlSb0lrSUFNSy1femEzeDdGdXJsb1hwemY1RGRJcHBOT00yclowVQ?oc=5"
+  },
   {
    "ts": "2026-10-24T21:00:20+00:00",
    "title": "Myanmar avocados to target intl markets through improved varieties",
@@ -2168,13 +2175,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/cqev3eey8vgzo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-17T11:00:19+00:00",
-   "title": "အဆုတ်ပလိပ်ရောဂါ ကမ္ဘာတဝန်း ပျံ့နိုင်ခြေနည်းတာ ဘာကြောင့်လဲ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cmly0vxnjq41o?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
