@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-25T17:00:23+00:00",
+ "generated_at": "2026-10-25T17:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-10-25T17:30:16+00:00",
+   "title": "Bashi Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TdmNfUEp0Mkw2VzlZTkE5VU5JZHBMekdwVHN5VC11WS0xSDhCWXBNTm4yU01ncnYtS2xRVlBRWXl6RGtMOUJDZVVHWk1jUQ?oc=5"
+  },
   {
    "ts": "2026-10-25T13:00:16+00:00",
    "title": "အစ္စရေးရွေးကောက်ပွဲ၊ စစ်မှုထမ်းစုဆောင်းရေးနဲ့ ခါးသက်သက်အမှန်တရား",
@@ -2168,13 +2175,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbkxTTllSU29vd3RWcEhPV0tCWi1FSGtQV2w2ajBtRjYzeEFjWHFCWXJwS0VxZmh5ZEpJMk5kQ2hoMm93ZnlvWTd3clJqZWYtenY3dmtrWHlta3ZuaGhDTi1tUUw4cFEwcmtSVkpWdTNDWVI2MWt3bWRiNHBvOVowU0JsclZBdw?oc=5"
-  },
-  {
-   "ts": "2026-10-17T21:00:19+00:00",
-   "title": "Pyithu Hluttaw Speaker meets Bago Region Chief Minister, MPs",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOanU1WXFOSFV2R055eGtBckc4UzVZSEdlTGJpNEo5Zk15WGdUQk1fQURqMW1BNGZXampEejEtRFBUUGx5MC04amNqbExTNWxCYVhtSm8zUDJtZ3VRZTBBUDZTZzNhUmJCbmNSd2tXaUtzM3F5RXU1eDlNNlZQZ3FsbXpHTnJmdTB6bXg5WQ?oc=5"
   }
  ]
 }
