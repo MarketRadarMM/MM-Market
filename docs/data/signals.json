@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-25T02:00:21+00:00",
+ "generated_at": "2026-10-25T02:30:17+00:00",
  "signals": [
+  {
+   "ts": "2026-10-25T02:30:16+00:00",
+   "title": "25 October 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxd0swbk5GU3RFbEZtQm05ZnktLTJ2d1dyOUduYTFldDc3aDBzeUxuWUlBS0M5VEp2QnVnbGR0b3dLcWNCYVo0Tndta01XRG51emc?oc=5"
+  },
   {
    "ts": "2026-10-25T00:30:15+00:00",
    "title": "အငြိုးအတေး Archives",
@@ -2168,13 +2175,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/cqrm9mewnpv8o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-17T11:00:19+00:00",
-   "title": "\"ပြုံးနေတဲ့ စိတ်ကျရောဂါ\" ဆိုတာ ဘာလဲ၊ ဘယ်လို သတိပြုမိနိုင်မလဲ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cqev3eey8vgzo?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
