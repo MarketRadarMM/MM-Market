@@ -1,6 +1,34 @@
 {
- "generated_at": "2026-10-25T11:00:19+00:00",
+ "generated_at": "2026-10-25T11:30:23+00:00",
  "signals": [
+  {
+   "ts": "2026-10-25T11:30:21+00:00",
+   "title": "How not to Grant Autonomy",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jSmlXN3ptU2hYblduMkNjV3NmMTdtcl85VWR2c2o1TUdLaFJyYlM3NnJFd2Q5LUZnSTdwcnVDcEFtRDdnYjcwelE3MzhTLXZLbUJEck1oVHJSYmVHcGdZ?oc=5"
+  },
+  {
+   "ts": "2026-10-25T11:30:21+00:00",
+   "title": "စတော်ဘယ်ရီ Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOb2w1bjlxZEkwdUVLekJwZXFZMVhlUk5nQVItdXA1SkljQWg4Zm5rdXNBTG51V2Q1RXNiRWUtLWtWTWlSN0ZLMno3Z18teGFpeWpjejFCVS1ka2F3Q2d0ZjdNRjFLR0RYNHhIZzJlRXgtdVNmWVcwWkZRZ0FMWkRIRHBIOXh4UjZYRHp6dzhSeVVfTlFiMDluUTZxYTVsR2NyTnZkSzlvWVZBYkFjdWlUeHBqMGh4cFUxZFRONlhPTQ?oc=5"
+  },
+  {
+   "ts": "2026-10-25T11:30:21+00:00",
+   "title": "Company Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HR1hXY1ItaXhUSDQwQVpVUnVUMVlsYXBzOXNCTmFiZmxpeDZROVNVbmhpQ1VkLUFKelV2WFFKVEIydWtoRGxIaVh5cWFWR2Rx?oc=5"
+  },
+  {
+   "ts": "2026-10-25T11:30:21+00:00",
+   "title": "topicNCA Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51NGlxLWdOWmVLTkFTTE5vNU1CYjk2OW9mY1pMR1JrWDRYMWFsYklWQ2UxWk03SjE2eGIydmJFNFJQTlRUNnY3Q1lGb2l1aE5PLVE?oc=5"
+  },
   {
    "ts": "2026-10-25T10:30:17+00:00",
    "title": "Acting President of the Republic of the Union of Myanmar, Chairman of State Security and Peace Commission, Senior General Min Aung Hlaing receives a delegation led by H.E. Mr. Sergey SHOIGU, Secretary of the Security Council of the Russian Federation",
@@ -2147,34 +2175,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOFZvanRnM1NoejlHYjlYMWZTUmRudzBPRU9MY2xzR1dpZUtCaWVOVFZBdGpOVlZkQVY2dFl0QjRnZUlJMnNoRmRjY1RISXVwVkhuSnBmcGVfVi1mNXk4QXAtR2NaWkFuX2VsaERrSlV3by10WmIwelhpVHVjb09BNmtha19udmQ2UHJIY21vbkhjd3J2Wl8zYl9ldGdzVWhrNXc?oc=5"
-  },
-  {
-   "ts": "2026-10-17T21:00:19+00:00",
-   "title": "China-Myanmar Culture & Tourism Promotion event held in Kunming",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYjJIYlVHNzRINjhmRVpISU9oZV9RalNKbVFSNGdHOHdDSl84ZkdzRHRnMTB5U25laDFoTXFuWXBaaVV2cXBPRFdFTzRiSW9qVDdmNm45cU1uY09yOGR1QnlRd0JXQmRoUmRWYjVhV1I1aktjWHJlSy1kZFFERkd4S0RQZnBmdlRtZGdPZXYwVQ?oc=5"
-  },
-  {
-   "ts": "2026-10-17T21:00:19+00:00",
-   "title": "India donates to Space Museum (Yangon)",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RTzhRY2JsaW9uYnhiRVNNU0h2QUUwN3pVQzhORFNfVVZFcTVKTm5tWHJoOENscXhFbHZUOWlfQk03bzFMY1NfeHJoMFBGeXBQSTkteGRIYVAwbVVmY1B6eDEwUG1OUlVIZEZNcjVR?oc=5"
-  },
-  {
-   "ts": "2026-10-17T21:00:19+00:00",
-   "title": "61st Myanma Gems Emporium concludes successfully",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ydnlHR1l2Uk5vNFhFbWtrUjBKd2FJWDV3RmtjZldCV0JENlljUy02ODU5cnh4QU9UV21iaWxxd0pLVVNvMWJDZ1U0MmFxYkhYSjVFWUlrbnJ0RFhwUllvZ2Y0b01sb2I4M3lqczZRMG5kZWxBOS1YTjB2Y1hYQQ?oc=5"
-  },
-  {
-   "ts": "2026-10-17T21:00:19+00:00",
-   "title": "MRCS to monitor AI-generated social media content",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QdG9aXzhWVS1IWFZoZWdya3pCb2stbUk5a2lFWDBrSzBEVE1yOVJNX3Bielh0dDVzYVZNT0hibENqOXVTV0dkcnA5Q1NBSDRWLWxfUldZc2hjb1U5LWNmdGxuNU5XZDJWME9pemNJZk9JLWl1NF9walgtV3JZejg?oc=5"
   }
  ]
 }
