@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-25T12:30:19+00:00",
+ "generated_at": "2026-10-25T13:00:19+00:00",
  "signals": [
+  {
+   "ts": "2026-10-25T13:00:16+00:00",
+   "title": "အစ္စရေးရွေးကောက်ပွဲ၊ စစ်မှုထမ်းစုဆောင်းရေးနဲ့ ခါးသက်သက်အမှန်တရား",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cm5yn5l3l93go?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-25T11:30:21+00:00",
    "title": "How not to Grant Autonomy",
@@ -2168,13 +2175,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOanU1WXFOSFV2R055eGtBckc4UzVZSEdlTGJpNEo5Zk15WGdUQk1fQURqMW1BNGZXampEejEtRFBUUGx5MC04amNqbExTNWxCYVhtSm8zUDJtZ3VRZTBBUDZTZzNhUmJCbmNSd2tXaUtzM3F5RXU1eDlNNlZQZ3FsbXpHTnJmdTB6bXg5WQ?oc=5"
-  },
-  {
-   "ts": "2026-10-17T21:00:19+00:00",
-   "title": "Ma Mya Dam continues to repair slope; water released from emergency spillway",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOFZvanRnM1NoejlHYjlYMWZTUmRudzBPRU9MY2xzR1dpZUtCaWVOVFZBdGpOVlZkQVY2dFl0QjRnZUlJMnNoRmRjY1RISXVwVkhuSnBmcGVfVi1mNXk4QXAtR2NaWkFuX2VsaERrSlV3by10WmIwelhpVHVjb09BNmtha19udmQ2UHJIY21vbkhjd3J2Wl8zYl9ldGdzVWhrNXc?oc=5"
   }
  ]
 }
