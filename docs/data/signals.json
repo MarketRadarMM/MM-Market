@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-25T02:30:17+00:00",
+ "generated_at": "2026-10-25T03:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-10-25T03:00:17+00:00",
+   "title": "အောက်တိုဘာ ၂၅ ရက် သတင်းအနှစ်ချုပ် - ပြင်သစ်ဆန္ဒပြပွဲ လူ ၁,၀၀၀ ကျော်အဖမ်းခံရ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c6zjxge3mrr1o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-25T02:30:16+00:00",
    "title": "25 October 2026",
@@ -2168,13 +2175,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/c60qk8v7jv08o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-17T11:00:19+00:00",
-   "title": "ရန်ကုန်က အဆင့်မြင့်ကွန်ဒို၊ စသုံးလုံးနဲ့ သော့မရသေးတဲ့၀ယ်သူတွေ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cqrm9mewnpv8o?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
