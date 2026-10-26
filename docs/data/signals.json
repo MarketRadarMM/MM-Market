@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-26T20:00:25+00:00",
+ "generated_at": "2026-10-26T20:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-10-26T20:30:18+00:00",
+   "title": "Kim Jong Un’s unprecedented day-trip to China shatters Pyongyang’s Korean War myths",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/korea/2026/10/26/kim-jong-un-china-trip-bridge/"
+  },
   {
    "ts": "2026-10-26T16:00:28+00:00",
    "title": "Guest Column | Myanmar War Crimes Survivors Look to Denmark for Justice",
@@ -2194,13 +2201,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVWpRT2tyRUFPa3pQNUpEZWl1VG5xc0gtYzdrU1NOV3F1U1czT19aUi1RRmhDTFV4cDlVQjFRQmEzcXYweEN6MVI4NE5GSFFabE51N1VSVmpYcHlBUVdQZ25UWmhpSGs3aWt3eEV6MUowUGF4UmxCRE5SbWpBR1hXb2ZsSWVOZHZhSXJFcGF4R2UtNUV0QzB1S0Yzamx2dw?oc=5"
-  },
-  {
-   "ts": "2026-10-18T20:00:47+00:00",
-   "title": "Hot Air Balloon Season Takes Flight Over Ancient Bagan",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRDhqOEUyX1BReDYwS3FuelcyRTBlZWhNdGY5d0xiWTBuRGpDcHJ1cUkyVUItWHJueW95bU5yY2dBVlQ1VHRLRWdianVpVnRvODdJLTlqUTVtc1VDZXVNdHFSOEo1Vk0yVWxvYk51OE5Ob0wwUGhkcENZVTJ3bHdkUzJaNVBudw?oc=5"
   }
  ]
 }
