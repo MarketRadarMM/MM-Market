@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-10-26T08:30:20+00:00",
+ "generated_at": "2026-10-26T09:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-10-26T09:00:20+00:00",
+   "title": "Myanmar Regime’s Minimum Rice Price ‘a License to Squeeze Farmers’",
+   "source": "Irrawaddy",
+   "markets": [
+    {
+     "market": "rice",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "Rice-market story — read for direction"
+    }
+   ],
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZm9KQ09KSTZLRjBtbG81Nl9PMXg0d0JBaUhrXzlwbmFoS0JhTHRrV3Y2ZG1zWUlHejF6azNjNElxR1ZwaUw5SlFoc0hxSThqQk1yT3VrV1M4SHU4Tjk2WnZMSnFtMFJJSkYzNVVjRnN3aDZRN2VzSEIwZ2Y0dXVhTEdhS1RCSERFM1VnMUljOWNoam16c05hYTF4T3hxZHNBcWR3akFhS3A?oc=5"
+  },
+  {
+   "ts": "2026-10-26T09:00:19+00:00",
+   "title": "ကြေးစည်သံနှင့် လေကြောင်းရန် သတိပေးချက်ကြားက ဥပုသ်သည်များ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81916/"
+  },
   {
    "ts": "2026-10-26T08:00:17+00:00",
    "title": "စစ်တပ်၏ ချင်းပြည်နယ်တောင်ပိုင်းထိုးစစ်ကို တော်လှန်ရေးတပ်များခုခံနေ",
@@ -2161,20 +2182,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/cq369jeww2e4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-17T21:30:18+00:00",
-   "title": "Myanmar Business Groups meet to stabilize commodity prices",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZFdaSFY0SFJhcHRVdTFCUjZiaWs2ODJuN0lYVkd3UDZBY00zc1ZiaGxYaXpfcDhBaV85ZVUwMXA4Vnp4cHhmQjRpdDEzbFJ1cGxPMndaeE5SdmRKNVotcmstSkZLVGhXX2lUdmdaZmRtdFFlMkkyTVd5Z0xrSzdfcGp6US1scldCSU00?oc=5"
-  },
-  {
-   "ts": "2026-10-17T21:30:18+00:00",
-   "title": "Another online scam hub demolished in Shwe Kokko",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4yNUVHTFBGazRJUkVIM3l6RFRSMGxhM2hZS1VrNERmc093al8wTGxEOGk0LXRBMGpkTHRPLVFxcklNOTlxVlZLMDhDTTNPVlVYcG50V2xxYWhPaXAzMmVMbmFsaEhLR0FrY1FiOG5sMVZObzl3UGtUYVhKQjI3QQ?oc=5"
   }
  ]
 }
