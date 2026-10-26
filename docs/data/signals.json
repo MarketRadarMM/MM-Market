@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-26T03:30:18+00:00",
+ "generated_at": "2026-10-26T04:00:19+00:00",
  "signals": [
+  {
+   "ts": "2026-10-26T04:00:18+00:00",
+   "title": "26 October 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLQXZYbGI4aXRPejdZa1lSNU8wSi1WOUxyQkVkbC1BY1poLWstWG9uRDRZUXZ3OUNJZjJyU25UM3FjNEZpUEUwMUZZR2xrWmRlM2c?oc=5"
+  },
   {
    "ts": "2026-10-26T02:30:19+00:00",
    "title": "Vice President Daw Nan Ni Ni Aye delivers speech at prize-presentation of basic education level (aged 10-15) and (aged 15-20) and higher education level contests of the 27th Myanmar Traditional Cultural Performing Arts Competition",
@@ -2168,13 +2175,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPalREMUYwVlRRSjZHOW1JOWt6MlVOcjd4dzFsX2t0WWpMX3hNU29sbWo4SEJjbHQ0Y1hPYXhXZ2oxTTJKd05zcHNJT1p0c3BLak1mS3NRaV9CbHhFc18xbi1yeHY1eGZNay02T01xMzU5elhaQUhEbktZZ2ZoeXd0UWV0ZjVZdw?oc=5"
-  },
-  {
-   "ts": "2026-10-17T21:30:18+00:00",
-   "title": "18 October 2026",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NRzR0NktISFQ0OW9lSm5kNEE5TFZuTzJFRWszcVJIangxQjlaeGI5R2VlZ2NQN2JYM0VXQ21nQW10N0VpaWJocnpfWm44Ml8tcHc?oc=5"
   }
  ]
 }
