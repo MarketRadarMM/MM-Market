@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-10-26T15:00:25+00:00",
+ "generated_at": "2026-10-26T15:30:22+00:00",
  "signals": [
+  {
+   "ts": "2026-10-26T15:30:18+00:00",
+   "title": "ရုရှားစစ်သားစုဆောင်းရေးတပ်ထဲက လွတ်မြောက်လာတဲ့ မြန်မာလုပ်သားတွေ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cke8rq7eng6mo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-10-26T15:30:18+00:00",
+   "title": "ဆားဘီးယားကျောင်းသားလှုပ်ရှားမှုက ၁၄ နှစ် အာဏာယူသူကို ဘယ်လိုဖြုတ်ချခဲ့လဲ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cx62y022y8mdo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-26T12:30:17+00:00",
    "title": "ရခိုင်ကို ပိတ်ဆို့တိုက်ခိုက်တဲ့စစ်တပ်ဗျူဟာ အောင်မြင်နိုင်မလား",
@@ -2168,20 +2182,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdmN4ODNvRTlZaWszTm5qZGhDM1NMTjAydUp4a3BUZXFpb3d0Uy1ISVhDZmVGSHc3NDBacVFaYUp0Y0JoVi1mT1FEUFpvODAwd255VUZ5eEFyWWVLUUlMUzRBcENqRGpYUl9oVk0xdlo1eXNpQkNxVzIzcG5xdU5fclJhQUJmbkJ5c1otQlh3SmI2Qld2Y25OOXRRUm5Telo1d3hTMjhpNTlJQW1iWkVKMDEtaUMxS05tdzJNX2kwbjM5ek0w?oc=5"
-  },
-  {
-   "ts": "2026-10-18T16:00:20+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA3dlRhTVdIcGZ0MDJqWG5FNkZJRzJ5RWdUYzl5U0JaX1UyWjlkaDM5QXhnRTFxLXRMcDVpVE9DNTdsY1B1Zzl4RjZBSQ?oc=5"
-  },
-  {
-   "ts": "2026-10-18T15:00:18+00:00",
-   "title": "ရန်ကုန်က HIV ကူးစက်မှု၊ လူငယ်တွေစိုးရိမ်ချက်နဲ့ ပြည့်တန်ဆာနှိမ်နင်းရေး",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cgrvxr41z8xo?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
