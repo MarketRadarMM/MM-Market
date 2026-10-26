@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-10-26T12:00:22+00:00",
+ "generated_at": "2026-10-26T12:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-10-26T12:30:17+00:00",
+   "title": "ရခိုင်ကို ပိတ်ဆို့တိုက်ခိုက်တဲ့စစ်တပ်ဗျူဟာ အောင်မြင်နိုင်မလား",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cmwyvd7xyd5wo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-10-26T12:30:17+00:00",
+   "title": "တရုတ်ပြောတဲ့ အဆင့်မြင့်ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ပုံစံဆိုတာဘာလဲ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/crwydv1nywepo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-26T12:00:22+00:00",
    "title": "Fire in Taunggyi during preparations for balloon leaves 1 child dead, 5 injured",
@@ -2168,20 +2182,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/cgrvxr41z8xo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-18T15:00:18+00:00",
-   "title": "တရုတ်လာစိုက်တဲ့မယ်ရီဂိုးပန်းခင်းတွေနဲ့ ဈေးနှိမ်ခံရတဲ့ရှမ်းတောင်သူတွေ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cw4g17k13415o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-18T15:00:18+00:00",
-   "title": "ယူကရိန်းမြို့တွေမှာ လူနေလို့မရအောင်လုပ်ဖို့    ပူတင်ရဲ့ \"စည်းမဲ့\" မဟာဗျူဟာသစ်",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c84g13g6gdeeo?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
