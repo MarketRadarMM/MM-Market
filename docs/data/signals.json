@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-26T21:00:20+00:00",
+ "generated_at": "2026-10-26T21:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-10-26T21:30:17+00:00",
+   "title": "Online post purportedly by Chinese students calls for restoring term limits for Xi",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/china/2026/10/26/xi-jinping-term-limits-open-letter/"
+  },
   {
    "ts": "2026-10-26T20:30:18+00:00",
    "title": "Kim Jong Un’s unprecedented day-trip to China shatters Pyongyang’s Korean War myths",
@@ -2194,13 +2201,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVkh4VVVzd1JnWU0tRVozRU9HX3M1QzlXZjlFZEJ3Z3l2VFJ0dUcyMnBkVHVUNmNiVXlrUGZCQUdrbkdWWWVPdGE0eTU2a0UycWdTYU1MSVlSUGdfdGUtUXJwRUl1dkh3U1lUVUhQVXF5YmI2VjB6WnJEd2lHbzM0cHlZdGExOUdjUFdHWThtMWhJQQ?oc=5"
-  },
-  {
-   "ts": "2026-10-18T20:00:47+00:00",
-   "title": "142 figures to participate in traditional elephant dance show in Kyaukse",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVWpRT2tyRUFPa3pQNUpEZWl1VG5xc0gtYzdrU1NOV3F1U1czT19aUi1RRmhDTFV4cDlVQjFRQmEzcXYweEN6MVI4NE5GSFFabE51N1VSVmpYcHlBUVdQZ25UWmhpSGs3aWt3eEV6MUowUGF4UmxCRE5SbWpBR1hXb2ZsSWVOZHZhSXJFcGF4R2UtNUV0QzB1S0Yzamx2dw?oc=5"
   }
  ]
 }
