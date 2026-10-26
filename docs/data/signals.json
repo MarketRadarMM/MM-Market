@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-26T05:30:16+00:00",
+ "generated_at": "2026-10-26T06:00:35+00:00",
  "signals": [
+  {
+   "ts": "2026-10-26T06:00:18+00:00",
+   "title": "မင်းအောင်လှိုင်၏ “ကာကက်စ်တိုကရေစီ” နိုင်ငံတော်",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81907/"
+  },
   {
    "ts": "2026-10-26T04:00:18+00:00",
    "title": "26 October 2026",
@@ -2168,13 +2175,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaWpZMXZEOVdJcllQZEFLZG5oYWJOd04td2IyYlJyLWxpUU9DUG1UUnJNNERyZ0o1UzBnVjUwc29MeHFqU0VPWm9rTm1FbzB0TjJQLUl6QkVVV2tRYnowMTR0NlRaOXQwbnFtTy10TnJxM2JnRGVSN19uRWxRV1FFMTQ5NUliUGxoMXU2MzhmNXBBanRfSEstOHZJdw?oc=5"
-  },
-  {
-   "ts": "2026-10-17T21:30:18+00:00",
-   "title": "YCDC opens direct farm-to-outlets across city’s markets",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPalREMUYwVlRRSjZHOW1JOWt6MlVOcjd4dzFsX2t0WWpMX3hNU29sbWo4SEJjbHQ0Y1hPYXhXZ2oxTTJKd05zcHNJT1p0c3BLak1mS3NRaV9CbHhFc18xbi1yeHY1eGZNay02T01xMzU5elhaQUhEbktZZ2ZoeXd0UWV0ZjVZdw?oc=5"
   }
  ]
 }
