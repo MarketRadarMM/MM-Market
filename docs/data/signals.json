@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-26T01:00:21+00:00",
+ "generated_at": "2026-10-26T01:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-10-26T01:30:15+00:00",
+   "title": "အောက်တိုဘာလအတွင်း ရန်ကုန်နဲ့ ပြင်ဦးလွင်မှာ နေအိမ်ဖောက်ထွင်းခိုးယူမှု လေးခုထက်မနည်းဖြစ်ပွား",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.co.uk/burmese/live/c60qk4y45v1lt?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-25T22:30:18+00:00",
    "title": "Myawady Daily Newspaper 12-10-2022.pdf",
@@ -2168,13 +2175,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZW1SejM1Z0hmWS1MajBNR2w3UnF0eWljRG85RHZYVU9PRjNGYklKcFdnYTR2eUlTbEdPTXFGanB0bnZOXzFDRHY3ZnhiN0xibmxZLUFVd081RVF1clB6WjRZb0lTM1NEUFJ5eDZrX2ZpTENEcWZYTkM3WXFzeUhpdWkzUktuRXVwZ3Z5OUhTcDg3N0hYaEVPYUtn?oc=5"
-  },
-  {
-   "ts": "2026-10-17T21:00:19+00:00",
-   "title": "MoE Union Minister attends World Vocational & Technical Education Conference in China",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSnZTN0lfaGRRWFZ0cnFQa2h6aHk3Y0dfMXZfWUNsSUx3UG56OVRIcHprUlhjemc1b25QRzNfOVV5SDJQZWtTSnV4Z1R3RkpvZFpaa2NZbmxlRG4xWVN6d1ZTT0RNVi15SFVISUFKTWV1dEtTMGRRWUIzeWlua2MyRmw5MnNZUUVGNWViMUVIdmNicWlGQ0k0X21oVk5HZHFkTW5od1dEblB4R1hp?oc=5"
   }
  ]
 }
