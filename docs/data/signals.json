@@ -1,6 +1,53 @@
 {
- "generated_at": "2026-10-26T15:30:22+00:00",
+ "generated_at": "2026-10-26T16:00:30+00:00",
  "signals": [
+  {
+   "ts": "2026-10-26T16:00:28+00:00",
+   "title": "Guest Column | Myanmar War Crimes Survivors Look to Denmark for Justice",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUGhqYjlBN2xQZ2kzdFBxc1BJQ1UwUUotQVkyZEIzNEltb3Mtb0JVRENnUDZTWE1La1pGTGpMdTR4d1dFd0xqUmhXcVZEemNvbkJIM1R4UVlRVVJRcDVCS0hYRy1OOTA3ckdLalJvREpVazBtV21VeTR2ZFowd3d3YjN5UVhUQUtvLWllX3dabjIxUW1GQjIyLW9ScXdGSjV2cWhEWGphb1VGOVZT?oc=5"
+  },
+  {
+   "ts": "2026-10-26T16:00:26+00:00",
+   "title": "Regime Disguises Military Jet Fuel as Diesel to Evade Sanctions: JFM",
+   "source": "Irrawaddy",
+   "markets": [
+    {
+     "market": "fx_kyat",
+     "direction": "bearish",
+     "confidence": 0.65,
+     "rationale": "New sanctions pressure the kyat"
+    },
+    {
+     "market": "gold",
+     "direction": "bullish",
+     "confidence": 0.65,
+     "rationale": "Kyat pressure drives savings into gold"
+    },
+    {
+     "market": "fuel",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "Fuel-market story — read for direction"
+    }
+   ],
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONnd5MTNwZDN5eHJYR3N1LWxPX29qdGRqbk5meXFFeEFMTDdnalo5U3I1MXRKQ1VDMVJ4alJXd1FGZWtkaXd0V2w0ZG85STFoRnNyYURoSzZ5cmJuU1k2SFY4eXpCT0ZZaFpNcW5JdFhRMTFvVDExMDI0dHJUVjQxWGFKX1Rvc1l0eTlHdENMQlJucVBTOEFEZE1mcmNpQ28wQlNvSEwzNGZnT1NOV3NuWndFWXpIUGxaU3FBRTRIOF91M2JyeUVJZA?oc=5"
+  },
+  {
+   "ts": "2026-10-26T16:00:23+00:00",
+   "title": "တရုတ်လာစိုက်တဲ့မယ်ရီဂိုးပန်းခင်းတွေနဲ့ ဈေးနှိမ်ခံရတဲ့ရှမ်းတောင်သူတွေ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cw4g17k13415o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-10-26T16:00:23+00:00",
+   "title": "ကိုင်လီ ဂျန်နာ၊ ဒေါ်လာသန်း ၅၀ တန်  Victoria's Secret ဘရာအတွင်းခံနဲ့ ကွဲပြားတဲ့အမြင်တွေ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cv5ynkpnzp7ro?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-26T15:30:18+00:00",
    "title": "ရုရှားစစ်သားစုဆောင်းရေးတပ်ထဲက လွတ်မြောက်လာတဲ့ မြန်မာလုပ်သားတွေ",
@@ -2154,34 +2201,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRDhqOEUyX1BReDYwS3FuelcyRTBlZWhNdGY5d0xiWTBuRGpDcHJ1cUkyVUItWHJueW95bU5yY2dBVlQ1VHRLRWdianVpVnRvODdJLTlqUTVtc1VDZXVNdHFSOEo1Vk0yVWxvYk51OE5Ob0wwUGhkcENZVTJ3bHdkUzJaNVBudw?oc=5"
-  },
-  {
-   "ts": "2026-10-18T20:00:47+00:00",
-   "title": "MAI launches its new Yangon-Chengdu flight route",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE83dkZuel9jbWVPeHN1dzM5dXJQMUxwMHlud1IySFhrMFR0aTEwWDlLWVRaSGUwTi1uWkZsajFwTVFUcklPcEtrM0xtOGJUVTFTd1N6OUJPM29YRDNFVHphQWs0TlRsVzA4TDIzcmQ4dzFEQmNZZ0lYMGRrNWlsQQ?oc=5"
-  },
-  {
-   "ts": "2026-10-18T20:00:47+00:00",
-   "title": "Notice Declaring That New 50,000-Kyat Banknotes Will Not Be Issued",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRUtBckxzZkpjUm1QeXZvX0RxZWxzdGc5b09oX1QwckJUaTIyWUstdmY2SExGWmROQ1RlYUpyVWo4bVFjODFERC03NFN1Sllmdk0zRGNTUXdIRGhsVHdwVTh0TU5mQTRnNlR4S290X3FJX0YxemRIRTFhSzBRWjNXbjQ3bTJ5dkZvOFdjWVkyaFN1Vy1L?oc=5"
-  },
-  {
-   "ts": "2026-10-18T20:00:46+00:00",
-   "title": "An Untimely Quest",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0bTl0bXJ0UW5rZ25EX204QnlfT1hvSEl3X2JSUW9vRXdzbmhpWkVlclZHNjRneDg2RmNoamRGM2c3Q1FweGpKcmJncWQtVTdSVWx4d0pnRUJ2RjJEYjZZ?oc=5"
-  },
-  {
-   "ts": "2026-10-18T18:30:20+00:00",
-   "title": "New Year greetings for 1388 Myanmar Era extended by President of the Republic of the Union of Myanmar Agga Maha Thray Sithu Agga Maha Thiri Thudhamma U Min Aung Hlaing to the esteemed national brethren",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdmN4ODNvRTlZaWszTm5qZGhDM1NMTjAydUp4a3BUZXFpb3d0Uy1ISVhDZmVGSHc3NDBacVFaYUp0Y0JoVi1mT1FEUFpvODAwd255VUZ5eEFyWWVLUUlMUzRBcENqRGpYUl9oVk0xdlo1eXNpQkNxVzIzcG5xdU5fclJhQUJmbkJ5c1otQlh3SmI2Qld2Y25OOXRRUm5Telo1d3hTMjhpNTlJQW1iWkVKMDEtaUMxS05tdzJNX2kwbjM5ek0w?oc=5"
   }
  ]
 }
