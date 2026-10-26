@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-26T09:00:23+00:00",
+ "generated_at": "2026-10-26T09:30:27+00:00",
  "signals": [
+  {
+   "ts": "2026-10-26T09:30:19+00:00",
+   "title": "Myanmar war crimes survivors look to Denmark for justice",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/myanmar-war-crimes-survivors-look-to-denmark-for-justice/"
+  },
   {
    "ts": "2026-10-26T09:00:20+00:00",
    "title": "Myanmar Regime’s Minimum Rice Price ‘a License to Squeeze Farmers’",
@@ -2175,13 +2182,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOHgzOHdlbUwzU1p3ci1Qcm5BOFdrdGstOGZHWWQ4ZTNRaWJILTlCYVpFckU1Si1fMEw4cUtmWWVrVGpIM080aTFVZ0dQaDhjZjFnbXlIU1RwYmRxb2djRHVsRmNWVWFIMXFFdUY1ZW9OZ1E2QVlYd1E3WHVMeHVTbkNoN3lFVzFUQUZzbkpfXzhDYzZPd0xUWWlDdTVBdFF2ajA4bkRaVmFrSmFzems3cFkwb2JpdmdZcFExSE5B?oc=5"
-  },
-  {
-   "ts": "2026-10-18T03:00:15+00:00",
-   "title": "အောက်တိုဘာ ၁၈ ရက် သတင်းအနှစ်ချုပ် - AA နဲ့ စစ်တပ်တို့ တိုက်ပွဲ စစ်တွေဒကစနဲ့ ၄ မိုင်ခန့်အကွာအထိ ရောက်လာ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cq369jeww2e4o?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
