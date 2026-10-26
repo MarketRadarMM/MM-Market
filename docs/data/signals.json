@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-26T07:30:18+00:00",
+ "generated_at": "2026-10-26T08:00:19+00:00",
  "signals": [
+  {
+   "ts": "2026-10-26T08:00:17+00:00",
+   "title": "စစ်တပ်၏ ချင်းပြည်နယ်တောင်ပိုင်းထိုးစစ်ကို တော်လှန်ရေးတပ်များခုခံနေ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81912/"
+  },
   {
    "ts": "2026-10-26T07:30:16+00:00",
    "title": "China Taps Myanmar’s Rare Earth Surge, Coffee Sell-Off, and More",
@@ -2168,13 +2175,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4yNUVHTFBGazRJUkVIM3l6RFRSMGxhM2hZS1VrNERmc093al8wTGxEOGk0LXRBMGpkTHRPLVFxcklNOTlxVlZLMDhDTTNPVlVYcG50V2xxYWhPaXAzMmVMbmFsaEhLR0FrY1FiOG5sMVZObzl3UGtUYVhKQjI3QQ?oc=5"
-  },
-  {
-   "ts": "2026-10-17T21:30:18+00:00",
-   "title": "MSY fund disbursement ceremony held in Phaungpyin",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJc0RubEJlVmkzb0h5Ynh0NFRscmstaEI1d2pUWWpoT0E1OWpubUNmcGVGOGp4Z3ludmlrV3hCZGtOSk5OWnR0VWtZZ01WYVJpUjFzZ2V2MUZCOFpieXU5NlRYeTJZaDlFNERBY3BrQkwwanZHbGVhSkFSN2o0Vjg?oc=5"
   }
  ]
 }
