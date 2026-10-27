@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-27T11:00:23+00:00",
+ "generated_at": "2026-10-27T11:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-10-27T11:30:16+00:00",
+   "title": "အစ္စရေးရွေးကောက်ပွဲ၊ စစ်မှုထမ်းစုဆောင်းရေးနဲ့ ခါးသက်သက်အမှန်တရား",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cm5yn5l3l93go?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-27T11:00:22+00:00",
    "title": "Rain expected until 29 October in several states and regions",
@@ -2194,13 +2201,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc0Y2Rkw4bHdWSzJfbTktbFlMc1pCRmpWQTh2RktCbFgzMUVFQmQydFpXb2pDSDQ2ajhzb0NoeGdGVkwtUlRYN2RNLUU4eV9JbGpZa18zOVAzREdzMUVsTW5JME9JU2N6N1JPSmZRczg3eTZFcDlxM0NzZU9sbTFMZEZNVWpkYnJqTEwzc2tyRHA?oc=5"
-  },
-  {
-   "ts": "2026-10-18T20:00:48+00:00",
-   "title": "Coordination meeting focuses on boosting exports from MSME and CMP Sectors",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYlY3OVVabnJKLWFzU3EtR3pEaW8wcGViTjFtcGd0eHUzUm1kMXJjeFd3WXVOX1hsMlhFak83MVgwNmNsZ0NuVHFsWGVPN1J5cEpUR25CN1M0Y2k3bDIwTV9rbVlTOXZtR1h0aGUwR2t0MjlCSTdubV9wMHEyeU1VV0pBYW5FLXNQb1dDb0I5aW5ydjA0NHBwRVNNVmxOek1n?oc=5"
   }
  ]
 }
