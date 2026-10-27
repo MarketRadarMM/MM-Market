@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-27T08:30:19+00:00",
+ "generated_at": "2026-10-27T09:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-10-27T09:00:17+00:00",
+   "title": "Chin forces resist Myanmar junta’s offensive in southern Chin",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/chin-forces-resist-myanmar-juntas-offensive-in-southern-chin/"
+  },
   {
    "ts": "2026-10-27T08:30:17+00:00",
    "title": "--- The article ID you specified is not available ---",
@@ -2187,13 +2194,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZVF3TFJjZE9NX29PVjM3Q09YUjZHeEtuTWtsWTZUeEFJMk1KYk44QTMxUzhSUmtVTmJSd3U3bUpiQkc2UkNfMWtmOWtRaXNQa2U4ZGJwUy1WNFZLM0RNdjE4NHF3VUlwQUdiUFBZWC1VbFdGOXZBX0hzTHVVX2p6R0hYMGpaMGc?oc=5"
-  },
-  {
-   "ts": "2026-10-18T20:00:48+00:00",
-   "title": "Rakhine Chief Minister inspects development projects in Manaung",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNEhmaFd5M202WFpoYm90NTRDWWNVQ19iUlFpUWZWVm5iTjBnSUFoaGd1dFNzVW1kTzZzc3lydGtOWWRkWWhlbWczUmZORXh3RU1kUExMT3VBclRqaXhHUkdmcmhlUW8xeDUwSkN4OEhWYzdKaUxhNUJfclVLc3ZHM3U4R201MFhYRXZWUlBzRWxuQQ?oc=5"
   }
  ]
 }
