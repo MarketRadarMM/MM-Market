@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-27T01:30:17+00:00",
+ "generated_at": "2026-10-27T02:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-10-27T02:00:18+00:00",
+   "title": "အင်္ဂလန်ရဲ့ ဘလွန်းဒီအော်ဆု စောင့်ဆိုင်းမှုကို ဟယ်ရီကိန်း ဘယ်လို အဆုံးသတ်ခဲ့လဲ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c6gqwg79zq7do?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-27T01:00:17+00:00",
    "title": "ဟယ်ရီကိန်း ဘလွန်းဒီအော်ဆုရ၊ အင်္ဂလန်သားတစ်ဦး ၂၅ နှစ်အတွင်း ပထမဆုံးဆုရရှိ",
@@ -2187,20 +2194,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbFF5bzVPdG9xOU5QM2tTUUhfN05fbGF3OG9TaTZvWFVGaDFDSFBSY3lwWHUzTWhYVFo4cENNamdlZkd3eUhFTVRoR3YtMmZpdEQ4MEtTSHVBb2RmQUJtTGY3UnI3Y1pVUnY5WG5hN1h6UFp3UGJ4TXllSERlVWVkU2Q3TDd2MzNnbEtfVzZvT0RQQ2lGWS1zZEJsS3Y?oc=5"
-  },
-  {
-   "ts": "2026-10-18T20:00:47+00:00",
-   "title": "Pantanaw model plot harvests monsoon paddy",
-   "source": "GNLM",
-   "markets": [
-    {
-     "market": "rice",
-     "direction": "neutral",
-     "confidence": 0.5,
-     "rationale": "Rice-market story — read for direction"
-    }
-   ],
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRZWdSNllnZS03ejdWZ0Y1eExyaHNVRmVWcHFQRkU1UVdyWHFDS3NVMlNzMFJNVXY4ZndKUV9VM1ZnNFJtTUtaT2RfbmV0TVNhMGJWdHpEX2JHbzJDeGhsem52dFZwRUN5cGhIbGRFeHFRMl9neXc?oc=5"
   }
  ]
 }
