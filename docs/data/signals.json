@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-27T00:30:21+00:00",
+ "generated_at": "2026-10-27T01:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-10-27T01:00:17+00:00",
+   "title": "ဟယ်ရီကိန်း ဘလွန်းဒီအော်ဆုရ၊ အင်္ဂလန်သားတစ်ဦး ၂၅ နှစ်အတွင်း ပထမဆုံးဆုရရှိ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.co.uk/burmese/live/cqze40lzjxj0t?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-26T21:30:17+00:00",
    "title": "Online post purportedly by Chinese students calls for restoring term limits for Xi",
@@ -2194,13 +2201,6 @@
     }
    ],
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRZWdSNllnZS03ejdWZ0Y1eExyaHNVRmVWcHFQRkU1UVdyWHFDS3NVMlNzMFJNVXY4ZndKUV9VM1ZnNFJtTUtaT2RfbmV0TVNhMGJWdHpEX2JHbzJDeGhsem52dFZwRUN5cGhIbGRFeHFRMl9neXc?oc=5"
-  },
-  {
-   "ts": "2026-10-18T20:00:47+00:00",
-   "title": "Myitkyina University to host Myitkyina International Forum (2026)",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVkh4VVVzd1JnWU0tRVozRU9HX3M1QzlXZjlFZEJ3Z3l2VFJ0dUcyMnBkVHVUNmNiVXlrUGZCQUdrbkdWWWVPdGE0eTU2a0UycWdTYU1MSVlSUGdfdGUtUXJwRUl1dkh3U1lUVUhQVXF5YmI2VjB6WnJEd2lHbzM0cHlZdGExOUdjUFdHWThtMWhJQQ?oc=5"
   }
  ]
 }
