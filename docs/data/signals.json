@@ -1,6 +1,48 @@
 {
- "generated_at": "2026-10-27T10:30:20+00:00",
+ "generated_at": "2026-10-27T11:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-10-27T11:00:22+00:00",
+   "title": "Rain expected until 29 October in several states and regions",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSUl3V3ZIaU1Fa1dIbXJ3WWlaNHJWOF9rSXlGQmdPN1gzUVpwMnA4NjNxdzBkUXFoZGRLbXRvdUJLc3EteFJRY0puWjVZZ1k3YThQaHlMUnY0Z1VvSnN0ZEtmMWl6cmtUS1F3aDZWZ3J6ZHRqVURxNFhZOWVjX1RrNlN6bGF5RDU5Z0k0bGx3?oc=5"
+  },
+  {
+   "ts": "2026-10-27T11:00:22+00:00",
+   "title": "Seven missing students at Mt Zwegabin safely arrive home",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORUd0OV9nUmQ4U0VaYjNSNktOMmFiSjI1RjczNWFlOG1DZExyZVl0cUpWUmg5UHVqUFJiamp1WjZyU1BsbGlIeXBiVS1ZckFpTFlxTUxTV1loZUVFOWVtZkFDMVkwdTJ0NHJWQk9seXVkLVdYeUxEYklQZ18tWGhiWVdENXRiVFJL?oc=5"
+  },
+  {
+   "ts": "2026-10-27T11:00:22+00:00",
+   "title": "Seismic vibration survey conducted inside Yangon University campus",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUzVPUXRTeXdtRFZndTdwRXNHWFFHUkFNS3ZSdENaQlZmUFJIYTY1cjdyel81RXJOTXdtVkdqM2dtWXZpZWx3R0FTdWVhUmp6UlRLb2FUVUFWbzVUUWdvN1lWZ0FtRk9XdFlvUXdFdUEwTjNJVFVnWl92MHMwbHJaOHdSVnpnbkxvSUEtN1l4OWxYMWh0MHc?oc=5"
+  },
+  {
+   "ts": "2026-10-27T11:00:22+00:00",
+   "title": "Locals celebrate traditional Chin Harvest Festival in Falam",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZHppNWFSM3NNal9DdHJtM0JSOVpSRWxIaGdPYTJ4SXItVjZwOVZkdEpuZ0xUOGtpUVM0dlM1Nl9ad3NES3lJeDRTdWc5aElxbU9RSVdXRVhDSFhNRE14TEI0Snp1cnAtaEJ0RzYxS0c5V3RSMzdrbWgxLTBVN2Nad19hcnBUcWNsQzhJOQ?oc=5"
+  },
+  {
+   "ts": "2026-10-27T11:00:19+00:00",
+   "title": "အင်းတော်နှင့် ဝန်းသိုတို့တွင် စစ်တပ်စစ်ကြောင်း ၂ ခု ပြုတ်လုနီးပါးတိုက်ခိုက်ခံရ",
+   "source": "Myanmar Now (MM)",
+   "markets": [
+    {
+     "market": "pulses",
+     "direction": "bullish",
+     "confidence": 0.55,
+     "rationale": "Conflict in bean/sesame heartland threatens supply"
+    }
+   ],
+   "url": "https://myanmar-now.org/mm/news/81929/"
+  },
   {
    "ts": "2026-10-27T10:30:19+00:00",
    "title": "Caught in limbo: US cancellation of ‘protected status’ hits thousands",
@@ -2159,41 +2201,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYlY3OVVabnJKLWFzU3EtR3pEaW8wcGViTjFtcGd0eHUzUm1kMXJjeFd3WXVOX1hsMlhFak83MVgwNmNsZ0NuVHFsWGVPN1J5cEpUR25CN1M0Y2k3bDIwTV9rbVlTOXZtR1h0aGUwR2t0MjlCSTdubV9wMHEyeU1VV0pBYW5FLXNQb1dDb0I5aW5ydjA0NHBwRVNNVmxOek1n?oc=5"
-  },
-  {
-   "ts": "2026-10-18T20:00:48+00:00",
-   "title": "Beijing Chamber of Commerce in Myanmar holds founding ceremony in Yangon",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTHFGUUlKaF9xTHotbFpxeXFWT3BKemx2WWRGd25iUzAxSnY3Z29aM2FKSW9OTkstSjdzUkpiclBZMVB0QUV1bnB5RENkX1BEMUY0eGpKcDJzMld0bFhlTFVkR2swYU5uZkxDdGFmc0I3TjZoZm5veEJ6TzlKOURPblNNOVhPdVpNMnFpZVJKdmRCMVNSOTAwZFp6RV9RUQ?oc=5"
-  },
-  {
-   "ts": "2026-10-18T20:00:48+00:00",
-   "title": "Shwe Kokko scam compounds flattened in wide-ranging crackdown",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd0thRjRPYnk4TVNXUGl4SW5OTF93Z1dYYTdqalJjTVJ4N1Q5NjBYb2hKMHdUR0huVnlGbFY2VG0zQktMODk1WHhkZHdfNVpFdzcxaV9IMEp4eHdUNFpmck40ZGdnZXFRRURGSWJsS19pcXlMRi1ybnpwV19MS0FfLWZJcDRBaHMwZS1ya2Z5Yw?oc=5"
-  },
-  {
-   "ts": "2026-10-18T20:00:48+00:00",
-   "title": "RFID toll pass system installed in 1,700 vehicles on Yangon-Mandalay Expressway",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOEJZRGJmSHFTNVBza0YySlZHQWVlNEl2Vmd1Ujl1ZEVXRlk4dUNraDk5bkVvOUpDeUZaMlNUU1hadE9PN3VDRHY4Skp1dHk3NnRyZnk2M1RUTkloZ1hKSFlSeW9VNFpZaFYzTF9hMTlGbTc2NkNDRG5iZFFNYkltNllZZ1FKUkFkSnk5dFp1WHFWbV9URWJWVDRiLWhzcDhKd0xGUU1B?oc=5"
-  },
-  {
-   "ts": "2026-10-18T20:00:48+00:00",
-   "title": "Vice-President Nan Ni Ni Aye overviews preparations to successfully hold 27th Performing Arts Competition",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaGVXVFJnN0VuaWtHcVp5VDh0Z1EtMkZlUzUxYnNCOGhqTExyUFpmOHNKRF9yUjVTeFFobDhDZy1zbnVxUGI3MHZVcnNMalhhZ1NSTVVfSDFWRXd2Yi1TYlJFMkhRMkd0MVlkSG1tUlVPbVotaTV0VFJtZ3dOclRjcnN3YncyOVBsNUFIS1BaWXJvVWxXTDVIcFJlQXUtZnhLS1NXazhZNEVKMTNOV2FSMmlZSmlwN3J1TU03X1UzQ3RVR2NvOVRFVWR3?oc=5"
-  },
-  {
-   "ts": "2026-10-18T20:00:48+00:00",
-   "title": "Vice-President Calls for Regional Development and Agricultural Growth",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSS1rUEI4TlJacDZiMmExa1dzdXU1b1BNM3IzMklUYlRnLVRYcDZTa0lhY2pVem16SU45WGE1bFYyQXBpeE1lTXRaMDRZQlFORWd4U05IbUh6UHpZamd3WUtfNU52WEk1bXRJa2Y0bzIwNDdqUkIxemt3X3NEZG5mR1Ewc2w0bDJqcFZiNlZtOWF0bVh0ckJtM1dn?oc=5"
   }
  ]
 }
