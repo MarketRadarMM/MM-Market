@@ -1,6 +1,40 @@
 {
- "generated_at": "2026-10-27T14:00:23+00:00",
+ "generated_at": "2026-10-27T14:30:24+00:00",
  "signals": [
+  {
+   "ts": "2026-10-27T14:30:19+00:00",
+   "title": "Myanmar Migrant Applications Plunge at Thai CI Centers Amid Boycott",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNczhic2Zabm1iY1BQd1VtRGlKS1l5dmx2N1R1aERLWEJ4MlhUa1Vrcl9BT29pOEpNQWE1dV9mSlJrRl9rekZXX2xuSlJHdXhacHZZenZxTHlPLS16SmdUVk9YLXFMNlVBbkFrSnVMNVlqeU82YjEtLS1tUlIwQkVPOGNkVVRqRWhyeGxhNENsZmdQbUdIa3oyYXNjMnVIcEc1UjFjMXlOU3BkQkc2SFE?oc=5"
+  },
+  {
+   "ts": "2026-10-27T14:30:15+00:00",
+   "title": "ဗဟိုဘဏ်ဆီက သုံးနှစ်ဆက်တိုက်ငွေချေးရတာ ဘာကြောင့်လဲ",
+   "source": "BBC Burmese",
+   "markets": [
+    {
+     "market": "fx_kyat",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "CBM/forex news — read for direction"
+    },
+    {
+     "market": "gold",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "Kyat-sensitive: gold usually moves opposite to kyat"
+    }
+   ],
+   "url": "https://www.bbc.com/burmese/articles/c65yn0vlkp8po?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-10-27T14:30:15+00:00",
+   "title": "၁၉၆၂ နဲ့ ဦးချစ်လှိုင်၊ အောင်ဗလ၊ ဦးသက်ထွန်း- ဗိုလ်ချုပ်ကြီးနေဝင်းနဲ့ လူသုံးယောက်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cwp93m03nkdko?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-27T14:00:22+00:00",
    "title": "27 October 2026",
@@ -2180,27 +2214,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ta2RVVFQwMkRRUGE2Snd1eURFVTNQOS1kWkR6d1JaMVROVXFxaFhJb1h1emtScXJUZ3lnZzlZLWZoX3d6aUNVZ01QVFFvek5EZXpoZWlFaTF4Vy1kbTRKc2FkRVNXdw?oc=5"
-  },
-  {
-   "ts": "2026-10-19T06:30:18+00:00",
-   "title": "Specials",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wVm9mNmRQR0Y4QU1oWEsxWkdTUEp4amV6VG1vZ3k3ZDN2X216Y01EcDdha1Etb0I2RHBNWlFrano1bHJRQjhBZVFnRlZOYjJ1bWlpYnV2aTFWeHpuamFEQw?oc=5"
-  },
-  {
-   "ts": "2026-10-19T06:00:19+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JTzlfRU1rZ1YtOXUzNF9XY3lnVF94cFhKQk1uQkJONTgwX2xodlpaYzZsNWFJbGNRMzBNeEVCeFdfSUxUOFVyTk9EWQ?oc=5"
-  },
-  {
-   "ts": "2026-10-19T05:00:21+00:00",
-   "title": "Bilateral talks between the Republic of the Union of Myanmar and Malaysia, press conference held",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWTR0TFlZNUYxaXhqMXdmZUNTYUdpeFdsaVNNdjZLbUlHTnJEUjZ1eDNURExTS2tpYXpQMUZKME5XNjl1VWVWdml0VjZsSGZjSnNmZk5qSGZRZmdKUlVjcUNSS3BJZ2N3czFPbWZSN2NrdFhWZUNqdDdvUmY5TUJUdDdvYUlHVS1ab3UzT2ZmN3NPVFByUmo5eVJmSENqRDlDVHZpSEowMA?oc=5"
   }
  ]
 }
