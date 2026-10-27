@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-27T14:30:24+00:00",
+ "generated_at": "2026-10-27T15:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-10-27T15:00:21+00:00",
+   "title": "khit thit news",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mVHAtS0dVT1FjM0w5UThYNkhJMHFsVXlNRWs2Z19faThkazA5ZlBKTlg4TGZNUEZFd0Q3NjZaV2E2QkxiNnVyWTZNRDJVZWZN?oc=5"
+  },
   {
    "ts": "2026-10-27T14:30:19+00:00",
    "title": "Myanmar Migrant Applications Plunge at Thai CI Centers Amid Boycott",
@@ -2207,13 +2214,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/cxyvrnl30n7do?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-19T07:00:18+00:00",
-   "title": "Truth, Knowledge, and Leadership",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ta2RVVFQwMkRRUGE2Snd1eURFVTNQOS1kWkR6d1JaMVROVXFxaFhJb1h1emtScXJUZ3lnZzlZLWZoX3d6aUNVZ01QVFFvek5EZXpoZWlFaTF4Vy1kbTRKc2FkRVNXdw?oc=5"
   }
  ]
 }
