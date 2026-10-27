@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-10-27T12:30:20+00:00",
+ "generated_at": "2026-10-27T13:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-10-27T13:00:21+00:00",
+   "title": "Analysis | Hostage Diplomacy: How the Myanmar Junta Is Weaponizing Jailed Aung San Suu Kyi",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYUJrUk1Qb2ZHMkU1QjBwU3Fia3RIalRqUW5ray1DZEhFb2ZmcG1NdmhLbW16dkw5V2VDVEVPZjQ1U3pRU2tfd3JCcjllUEUybXdYbTRiZUdhME5COEdYZW9QdVY3OUU4eTFVU19SQUpkMjNPN1RvYW9tcEV4WWwxbndCYW14UWs0cHBNRWdrSzNwdXk2TEcxSEtIOWpuRk5nbE91WDhkeHJoRzNrSF9PMDN6V2ltaGstbGtOZy1rWGdOSzc0?oc=5"
+  },
+  {
+   "ts": "2026-10-27T13:00:20+00:00",
+   "title": "TNLA ကိုကူညီမှုဖြင့် နောင်ချိုမြို့မဗလီကို  ပြည်သူပိုင်သိမ်း၊၊ ဘာသာရေးဆရာ၂ ဦးကို နှစ်ရှည်ထောင်ဒဏ်ချမှတ်",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81936/"
+  },
   {
    "ts": "2026-10-27T12:30:18+00:00",
    "title": "China’s Myanmar Policy and King Charles’s Gift to Aung San Suu Kyi",
@@ -2187,20 +2201,6 @@
    "source": "Myanmar Now (MM)",
    "markets": [],
    "url": "https://myanmar-now.org/mm/news/81833/"
-  },
-  {
-   "ts": "2026-10-19T02:00:17+00:00",
-   "title": "ကြက်သွန်နီစျေး ပြန်မကျ အမြင့်စျေးမှာဆက်ရှိနေ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.co.uk/burmese/live/ck7vpl962lmzt?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-19T00:00:18+00:00",
-   "title": "Specials",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9MOXJqUFdCN1liUkRRSHZlWVd1WlZLMm5XalFDdnh6dkM2YnA5VHBtczlyRlFwLWNjU2JZRGxCclQzaG5qNE1hNk5wRWx3QWpYVmdYV2Z0ek91T3RHaVNuYzlR?oc=5"
   }
  ]
 }
