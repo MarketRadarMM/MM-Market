@@ -1,0 +1,67 @@
+[
+  {
+    "source": "community",
+    "fetched_at": "2026-10-27T02:45:20.063547+00:00",
+    "status": "stale",
+    "confidence": "amber",
+    "posted_at": "2026-10-20T11:20:10+00:00",
+    "post_date": "2026-10-20",
+    "age_hours": 159.4,
+    "labels": {
+      "gold_16pe": {
+        "my": "အခေါက်ရွှေ (စနစ်ဟောင်း)",
+        "en": "Pure gold, old system (16.606g)"
+      },
+      "gold_15pe": {
+        "my": "၁၅ ပဲရည် (စနစ်ဟောင်း)",
+        "en": "15 pè yay, old system"
+      },
+      "gold_16pe_new": {
+        "my": "အခေါက်ရွှေ (စနစ်သစ်)",
+        "en": "Pure gold, new system (16.329g)"
+      },
+      "gold_15pe_new": {
+        "my": "၁၅ ပဲရည် (စနစ်သစ်)",
+        "en": "15 pè yay, new system"
+      },
+      "gold_16pe_buy": {
+        "my": "ပြန်ဝယ်ဈေး (စနစ်ဟောင်း)",
+        "en": "Buyback, old system"
+      },
+      "ygea": {
+        "my": "YGEA ရည်ညွှန်းဈေး",
+        "en": "YGEA reference price"
+      },
+      "wg_usd": {
+        "my": "ကမ္ဘာ့ရွှေဈေး",
+        "en": "World gold (USD/oz)"
+      }
+    },
+    "unit": "MMK per tical (ကျပ်သား); ရောင်းဈေး unless marked",
+    "values": {
+      "gold": {
+        "gold_16pe": 10210000,
+        "gold_15pe": 9600000
+      },
+      "fx": {
+        "USD": 4650,
+        "THB": 139.2,
+        "SGD": 3632,
+        "JPY": 29.4,
+        "AUD": 3251,
+        "CNY": 696
+      },
+      "fuel": {
+        "MDY_92": 4860,
+        "MDY_95": 5005,
+        "YGN_92": 4705,
+        "YGN_95": 4850
+      }
+    },
+    "source_disclaimer_my": "ခန့်မှန်းဈေးသာဖြစ်ပြီး တစ်နေရာနှင့်တစ်နေရာ ကွာဟနိုင်ပါသည်",
+    "source_disclaimer_en": "Estimates only; prices vary by location",
+    "posted_at_mmt": "2026-10-20T17:50:10+06:30",
+    "source_label_my": "လူမှုကွန်ရက်မှ စုစည်းသည်",
+    "source_label_en": "community-reported"
+  }
+]
