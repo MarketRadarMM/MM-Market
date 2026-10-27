@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-27T08:00:19+00:00",
+ "generated_at": "2026-10-27T08:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-10-27T08:30:17+00:00",
+   "title": "--- The article ID you specified is not available ---",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QY0tGYjAtTnh6RllNV3J5bElONlZsMTdUMU0zWUhUOWJiOFVKY0JON1ppZTRyd1FTRF9heWdXZ244OE1FdGJOV1owSW5OcjBjTkVwajc0c1JDNDhkUGc?oc=5"
+  },
   {
    "ts": "2026-10-27T05:00:19+00:00",
    "title": "Malaysia to Seek Clarification Over Reports of Detained Myanmar Returnees",
@@ -2187,13 +2194,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNEhmaFd5M202WFpoYm90NTRDWWNVQ19iUlFpUWZWVm5iTjBnSUFoaGd1dFNzVW1kTzZzc3lydGtOWWRkWWhlbWczUmZORXh3RU1kUExMT3VBclRqaXhHUkdmcmhlUW8xeDUwSkN4OEhWYzdKaUxhNUJfclVLc3ZHM3U4R201MFhYRXZWUlBzRWxuQQ?oc=5"
-  },
-  {
-   "ts": "2026-10-18T20:00:48+00:00",
-   "title": "Plans underway to open C of I issuance centres in Malaysia and Laos",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRV9FVnAtRW1VTktNb2dXMVkwV1FmREVnZ2VsYmJDN2lYdnBvMlVxc3FLeFlDenJTazdmRlEzcUl1NVY5dHpXallwYm11bEwxdTNrOFZkR0ZPLWU3ZHpVeFdPd1F1cWJFUW9QX1pTRjJoZlNjdWlVdDlvbGUwZVphVzladWJYSFpfVERmUTQ5VElMNG4xVENj?oc=5"
   }
  ]
 }
