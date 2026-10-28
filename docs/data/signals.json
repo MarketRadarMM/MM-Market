@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-28T09:30:23+00:00",
+ "generated_at": "2026-10-28T10:00:28+00:00",
  "signals": [
+  {
+   "ts": "2026-10-28T10:00:26+00:00",
+   "title": "ထိုင်းရှိ CI စခန်းများတစ်ဦးတည်းလုပ်ပိုင်ခွင့် စစ်တပ်နှင့်နီးစပ်သည့်ကုမ္ပဏီ ဆက်တိုက်ရနေ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81970/"
+  },
   {
    "ts": "2026-10-28T09:30:20+00:00",
    "title": "အမေရိကန်ဒေါ်လာ သန်း ၃၀ တန်သည်ဆိုသည့် တောင်ကြီးမြို့ရှိ Tuscan Village Taunggyi သည် ခွင့်ပြုချက်မဲ့ အိမ်ရာစီမံကိန်းဖြစ်နေ",
@@ -2193,13 +2200,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnMlcwbzlLdERjVTZWYkhjS19FUzRySzJvSlE5NXlGNzNFN2Z0MzNKajFMMXFzZkhPSWlScS1KdWdvSGY3aF9FRkM5TnVRejJnTXc?oc=5"
-  },
-  {
-   "ts": "2026-10-19T20:30:23+00:00",
-   "title": "United Kingdom’s King Charles III Sends Two Books, Sealed Envelope and Diplomatic Pouch to Prisoner Daw Aung San Suu Kyi",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZHEzTTZuYWUyWk9pRkxWdkM0XzBUUk5OOFEzTGdOZnBtaEVIUHpOM2JwTHdVa1lYbGh3TWZGeDFpSGlLSXhqYkh4QjRXTlJ0NUtzamJ2VWtzQTN2ZEVuUUdLR1B2X0lteUpaSTZyRFFWYUprV3pUZFdmUFRmZGRsblJoeHkwZ2lhMy03LUdFdW5wUmxBVUltdzlXQUxsMmoxZFUwZ3BOblR4YnI5UTg4aFY0OXd0SjkxUXhnamoxYkEtSFlqYVl3VkctcGVsVUpoUWRqMklzZWE4RjA?oc=5"
   }
  ]
 }
