@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-10-28T14:00:26+00:00",
+ "generated_at": "2026-10-28T14:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-10-28T14:30:19+00:00",
+   "title": "MidtermElections Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MblM3ZENpOENWT0hmVkpJVW1WMWtQenM2NU1QLXdIU1RldjFyRTduOE1iVDgyNHZCd1ZYbDBXMVZTb05EQkVDSWlPdDN3czR5Q01UajE5OHViaGVM?oc=5"
+  },
+  {
+   "ts": "2026-10-28T14:30:19+00:00",
+   "title": "Myanmar Junta’s Proxy Party Floods Election With Candidates, Dwarfing Rivals",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMkVKRXE2VjZ6UzRvNlJFckNEYmVBRnJ0eGVESEJ2VnY1bnhSeUtPMmtCdW8xVEczSUZYX0NFVFVDVXVRdVI3NHdFWWY0UXhpRHNWdGJqaXB3by05WU44WmNwVDhna2M0SDhTM3BNSVhXX3FXeGdwY0ptaFJKVU5Zc1RHQm9DMTBjV2puaVBQbURZeU91clY3Q3BnLTFFZzZlOU9MWUlaSE5DTkYxOWM5eGtZdVFvRkFwdDZ3?oc=5"
+  },
+  {
+   "ts": "2026-10-28T14:30:19+00:00",
+   "title": "ပုဝါ Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xSjZjdThVVTlRSmhBbENrUlZtUjFXVEx5X1VHM3lKY2laU0dqcGVUemltNFIzZnRXZDJTVnJtY1ZxNmxqd3d0ZWwtZHVJbVNnVnU3ekpRclVMV1hkU2wzRGVqNk5NZnVTa0l4VEVZNERaQV81Mkh3?oc=5"
+  },
   {
    "ts": "2026-10-28T12:30:19+00:00",
    "title": "Myanmar Junta Makes Gains in Embattled Jade Mining Hub",
@@ -2179,27 +2200,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYnF5U0xmZUI2dmdNNzVYMGlhZ2YwWU03T0VTakhfVVpmSGRERGFvdTZsX2RYQTRMNFdJT3R6LTdMc2h6S0FxdEpIN3VGRmg5ZTk4MVdGWVpfSjdSaklTNFZRTU93RHd1TnIzWjBMSVJNMGtyeE9BdG1mTDVnRjFwT3pjMmRUWVN3OTI3OWZ6NFcxTGVMUWd1N2FlNXE4WFRCTjhGRlRmekZOZTVLT1dhMg?oc=5"
-  },
-  {
-   "ts": "2026-10-20T02:00:19+00:00",
-   "title": "Building Myanmar’s Humanitarian–Development–Peace Nexus",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYnVkUHNON09hYWdIdWU3aXBPYzVMT0xuZ1d3b3ItZC1QeV9HRjNYS1BaTENiZnpjNjRjd19wY1dBWXh2azFwbHhVYnlTem5sczY1M2hiOHVoZWRNSlN6ZFljY0pqUC1TbDRuOFBhaDlRWGpPWFk2VXlVczFKLVU5cGpBRXMwQQ?oc=5"
-  },
-  {
-   "ts": "2026-10-20T02:00:19+00:00",
-   "title": "Myanmar, Thailand Discuss Energy Cooperation and New Investments",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVlRuLVRIRkFMejlGajdYUi15eDgwQjlPTXk1bzBVZGpIYW1UTE93aDZfOUMtOGFIWWgwdWpjSEdWdmtETi1vM2ZIRVJWVXIyTmsyQnFTRHJPenEyTURaT0RFUVZUdU9EUFBqYXVySEZpZFdZdWUxdHFYY0xaX2ZCZUVSYTEyaU1NVjIzVWZURkh4QQ?oc=5"
-  },
-  {
-   "ts": "2026-10-20T02:00:19+00:00",
-   "title": "Twin Parks model spotlighted at 2026 World Maritime Equipment Conference",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSHBXU3hBbll3dXQyREQzd3RPZ2dtcVYyeGlmRTE3M3ZydUNKTzNtdjN5MUVfRXZTMjBiYzFWQU9CWFkyTFJvOXozVHJlTXRaeGRvNU9JSF9LWF9ONnQ5Y2J4aEhYNzlRMWEzU3RlVC1GeTdQUkJfYVUyelFvbzV2Y0ViYWlTZ1dKZmtaOW5SRm9iTEZpaDhlRUZRT21wQQ?oc=5"
   }
  ]
 }
