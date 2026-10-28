@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-28T00:00:21+00:00",
+ "generated_at": "2026-10-28T00:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-10-28T00:30:17+00:00",
+   "title": "South China Sea tensions cause China to ‘recall’ teachers from the Philippines",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/southchinasea/2026/10/28/china-teachers-philippines-return-south-china-sea/"
+  },
   {
    "ts": "2026-10-28T00:00:19+00:00",
    "title": "‘We Know It’s a Sham’: Inked Fingers Become Mark of Shame in Junta Election",
@@ -2200,13 +2207,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSXB0ZzlZaWxTUlpoYk9QLWRQYTE2ZC12NVUtdXVGOEVTYVNsNDlvLThEdk5UNzFZWEI0eHlUVl9vUUg2SUg2aF9FYWViY2xQNUFDUGYzb3ctb1owNk5MTVpyRkhaSFl6VnpEY3kzYzRPSVR1eG0wcDY1T1pqdVFRdGk3bXhQVjJES0o0NHp1bENHV2sycFdNSUtkTExkTDQ5ZXBFYjZpZ0c1b3BtckE?oc=5"
-  },
-  {
-   "ts": "2026-10-19T11:00:16+00:00",
-   "title": "Myanmar migrant remittances now junta’s largest foreign currency source",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/myanmar-migrant-remittances-now-juntas-largest-foreign-currency-source/"
   }
  ]
 }
