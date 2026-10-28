@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-10-28T10:00:28+00:00",
+ "generated_at": "2026-10-28T10:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-10-28T10:30:19+00:00",
+   "title": "175th Shwegyin Thadingyut Floating Lantern Festival held",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObkZlR3J6U3Z4X0RCdjhiVTRqblNXVi1jSzd0cDVTYXJvbTRKUFlZUHBQRjkxck9HMHlkN0E4Rjh2cUZ0azJmSE9KOUNaYUxmaExOa1JOM25Sa28ySUgyWFVfakVYQlpBNnpDYUVqSENkOXhIZ1QxUzFFUGpjQmJneF9aRGlDb0I5?oc=5"
+  },
+  {
+   "ts": "2026-10-28T10:30:16+00:00",
+   "title": "Myanmar regime imprisons two Islamic teachers and seizes mosque",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/myanmar-regime-imprisons-two-islamic-teachers-and-seizes-mosque/"
+  },
   {
    "ts": "2026-10-28T10:00:26+00:00",
    "title": "ထိုင်းရှိ CI စခန်းများတစ်ဦးတည်းလုပ်ပိုင်ခွင့် စစ်တပ်နှင့်နီးစပ်သည့်ကုမ္ပဏီ ဆက်တိုက်ရနေ",
@@ -2186,20 +2200,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45WkI3d0tlSk5nZ2p2cWU0cnluSEtPd3dpQl9TdzB0MjBzT1B3MVpQelVQRU1YS29QWGZVYU80aFUyeU1qX2ZRYTVZazBZeGVmZlpOYw?oc=5"
-  },
-  {
-   "ts": "2026-10-19T22:00:19+00:00",
-   "title": "Pyithu Hluttaw Speaker receives legal professionals",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWVRneGVFNlJ2ZVA3OU1MM3Z1RXFIcThUdGV0NkE5bUxGMjVwcURhYlJGUkNSejU2TTAyNFNaM2tkMDJYUkEyM2l1UTRNS1FOVl9IemFhV3liN216dUpWRmQ3TnRBdmxUWTJtSm5oa3dwQktvaXVXcVpzeUFfakhONFhn?oc=5"
-  },
-  {
-   "ts": "2026-10-19T21:00:19+00:00",
-   "title": "20 October 2026",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnMlcwbzlLdERjVTZWYkhjS19FUzRySzJvSlE5NXlGNzNFN2Z0MzNKajFMMXFzZkhPSWlScS1KdWdvSGY3aF9FRkM5TnVRejJnTXc?oc=5"
   }
  ]
 }
