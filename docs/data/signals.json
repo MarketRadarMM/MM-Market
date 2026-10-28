@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-28T09:00:52+00:00",
+ "generated_at": "2026-10-28T09:30:23+00:00",
  "signals": [
+  {
+   "ts": "2026-10-28T09:30:20+00:00",
+   "title": "အမေရိကန်ဒေါ်လာ သန်း ၃၀ တန်သည်ဆိုသည့် တောင်ကြီးမြို့ရှိ Tuscan Village Taunggyi သည် ခွင့်ပြုချက်မဲ့ အိမ်ရာစီမံကိန်းဖြစ်နေ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81962/"
+  },
   {
    "ts": "2026-10-28T08:30:19+00:00",
    "title": "President U Min Aung Hlaing holds talks with Chairman of the House of Representatives, Chairwoman of the Council of the Republic of Belarus together",
@@ -2193,20 +2200,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZHEzTTZuYWUyWk9pRkxWdkM0XzBUUk5OOFEzTGdOZnBtaEVIUHpOM2JwTHdVa1lYbGh3TWZGeDFpSGlLSXhqYkh4QjRXTlJ0NUtzamJ2VWtzQTN2ZEVuUUdLR1B2X0lteUpaSTZyRFFWYUprV3pUZFdmUFRmZGRsblJoeHkwZ2lhMy03LUdFdW5wUmxBVUltdzlXQUxsMmoxZFUwZ3BOblR4YnI5UTg4aFY0OXd0SjkxUXhnamoxYkEtSFlqYVl3VkctcGVsVUpoUWRqMklzZWE4RjA?oc=5"
-  },
-  {
-   "ts": "2026-10-19T20:30:21+00:00",
-   "title": "Octane price rises, diesel price slumps",
-   "source": "GNLM",
-   "markets": [
-    {
-     "market": "fuel",
-     "direction": "neutral",
-     "confidence": 0.5,
-     "rationale": "Fuel-market story — read for direction"
-    }
-   ],
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CVFV4dkItWDh0ZUZPUnp2RW4tUkJfVldBOWlLdGZfUnl4eVRYbHdraDdfdDFpbXFRbzBDMTd0QmlOeHBLOXJhcF9MZk5ZSVRETFB4NWtnaU85Z2UzT1JubFF4aVFJYXpmOTNHdnFjWW8?oc=5"
   }
  ]
 }
