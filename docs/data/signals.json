@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-28T16:00:23+00:00",
+ "generated_at": "2026-10-28T16:30:22+00:00",
  "signals": [
+  {
+   "ts": "2026-10-28T16:30:22+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBoaHVDNmRUQURsemlBMkswdDh4MjNiWUlGek1oaTRUT0xGelhEMDhBQndkZzNUTmJkdi1VaXdwblZhTEl0X3dZV1RxTQ?oc=5"
+  },
   {
    "ts": "2026-10-28T15:00:20+00:00",
    "title": "ဆားဘီးယားကျောင်းသားလှုပ်ရှားမှုက ၁၄ နှစ် အာဏာယူသူကို ဘယ်လိုဖြုတ်ချခဲ့လဲ",
@@ -2193,13 +2200,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9DZktndzV2Y211Mk9paV91YWp5enM1T29wNndfOTYyY1FzcUlLZ0o2REcybnp6MFFVQnFrSkt0STZtSjRMaHBORndGUWVYaFNqVnJJeXlGMkZMamxvUGFXcWRKM2dpZkJEeU9zWDJEVE5yNzdib1ZJMw?oc=5"
-  },
-  {
-   "ts": "2026-10-20T02:00:19+00:00",
-   "title": "The Master Blueprint: How to Live a Long, Healthy, and Happy Life",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMXBWRkZSZzcyYWdsTGZGanpuam9qVGVZQzBHbVNMbTV5ckQ5LW83VEFsUU5HQzh6ZXB5ZmRQQk4tY3dSUUVVbzZOVm5qTV95R0R0T1BLX3lrTlNXOHRyMUNJUU9TZ0t1QUVDMzA2d0ZpdUFEZU1ucVhhTlQtc296dTA5dmZUdjE4aWhHa0NHemM?oc=5"
   }
  ]
 }
