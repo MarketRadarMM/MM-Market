@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-28T05:00:21+00:00",
+ "generated_at": "2026-10-28T05:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-10-28T05:30:16+00:00",
+   "title": "ASEAN envoy visits Myanmar as junta seeks return to summits",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/asean-envoy-visits-myanmar-as-junta-seeks-return-to-summits/"
+  },
   {
    "ts": "2026-10-28T04:30:17+00:00",
    "title": "“ည ၇ နာရီမထိုးခင်အိမ်ပြန်ပါ”",
@@ -2200,13 +2207,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zMG92SURLSjJMalJSWVhqM1FXZ3pmR2tiNFdQVWZ4MDJvRzFkMHVNSkdOWlgtMFdhZkdiaURXQmlMbnlrckd1RzVRY01kbDZBNG5EZWlUc2pPNE5TMjcxQg?oc=5"
-  },
-  {
-   "ts": "2026-10-19T19:00:46+00:00",
-   "title": "Earthquake Destroyed 50,000 Houses in Central Myanmar: Junta",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdzJsNGNYcm9BTW9kTjF5OFJQVDhiVjVVUUdfOGFkLWsyRWFnTUpGUFhac1pxUHRSM3hLRzE2OUs4ZkpZODNXQ1AzcDNfa3Fra1NGX25oa01GdldKQ09sTEF2dzc3S2RnT21oWW1VOHMtYVNCWTlEVExaU3haYVpWSzAtYmtmcjRmaEdKX1dPT292SFpiU1NXa2lUY2hDcFpacUE?oc=5"
   }
  ]
 }
