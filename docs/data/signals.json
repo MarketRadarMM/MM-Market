@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-28T07:30:19+00:00",
+ "generated_at": "2026-10-28T08:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-10-28T08:00:21+00:00",
+   "title": "28 October 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MNkRRdjdwN1doeW5ZQmZNQ0FVODQyY2VEQXFod2NHOXVveUotVWNnbFZOWEhnd0dlNHpMLWs4Yms4cjZHdnpvdEtxS3NmVkJPcUE?oc=5"
+  },
   {
    "ts": "2026-10-28T07:00:24+00:00",
    "title": "Commander-in-Chief of Defence Services General Ye Win Oo enjoys performance at Vidhura Drama contest",
@@ -2200,13 +2207,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcUtHSTNvVEEtekxvZWZTUEdsMFktTkNqX0ludHFFVkRMeVcwUHpSM25hclAxdzItMmlWbnpTY0ZmM09TemxZMlJhc3JVVHJjRVIwQ1NyWXBiS0g3WThDcHN6UExXT3plai10M1gybExzZ1R2ajhMczktVVVsdG9IM0xyZi1xSjNfSWMwcHltZTZKZw?oc=5"
-  },
-  {
-   "ts": "2026-10-19T20:30:21+00:00",
-   "title": "Delegation led by Pyidaungsu Hluttaw & Amyotha Hluttaw Speaker departs for Belarus",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWl9uT3VWUGRmVThaNEJucUUzcEk0aUxWUXhkTVdYazRrZFpTQ3ctelY0MDJ1YlJLQXZZMzBRcUFWUndEejVZeXd3WHRTZjB5MUlEM0dZUHo3UXppOVFCcFhIZTZoWVoySUtMMU15UkZsNzZrN290MXpVZVZDeFRocG14LXNXWGYtN2pNRC0zZ3VfT0RwajRrbmp5cVhqLTNUbS14UXBpYkU?oc=5"
   }
  ]
 }
