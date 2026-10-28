@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-28T20:30:24+00:00",
+ "generated_at": "2026-10-28T21:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-10-28T21:00:18+00:00",
+   "title": "Myanmar Junta Charges Tycoon Serge Pun With Money Laundering, Other Financial Crimes",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbzBOX0cxVklIRkdUWnJrenFrZGFzd1JGN3ZuYUU1d2pUOGtzcmh1RFFHU0oxNmlpLTh1eUs5WWZZczRNUW9HYlB0d3QwV0VyeWlFRDVtU3V0dHpoVnlsbGo3dmdnQ2JxNDlKOF9YODhldWVqNm1EMlJiUkRnbl9NMFpEcjFYdC1kZ1hkVGJmZHpValVKX0xIa1JiV2JUNzhrcmNRSUVQMW8tR2I1ZGlNUEYwU05BdXJwRUNHM05UWHE?oc=5"
+  },
   {
    "ts": "2026-10-28T19:30:16+00:00",
    "title": "Guest Column | China’s Monroe Doctrine and Its Strategic Blunder in Myanmar",
@@ -2193,13 +2200,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSjVycndKV2E5ZTJ4Uno1LXlpTnBEQ0pybVY3SnpLZFg1dExkQkI5Z1lWYlJEcjN3X0hva3dydGNOMFBnM1BNcmFBZlA3R1VSUXBxb3ZCM015WHBoal9jd2s2Z0s1bTZjaUdTUDJzSG8wNWZYdm9ZbWJQZEM4RjVsbTUxYmgxLW9UWW9VaDVubW40SWJXT2dPU0ptTGdmRVZOMjh5Y0hWYXRBY1VPYldWX2NKdUJfMm9vUXF5U2R6WUFlbjdE?oc=5"
-  },
-  {
-   "ts": "2026-10-20T05:30:18+00:00",
-   "title": "Detained Suu Kyi receives UK royal package: Myanmar regime",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/detained-suu-kyi-receives-uk-royal-package-myanmar-regime/"
   }
  ]
 }
