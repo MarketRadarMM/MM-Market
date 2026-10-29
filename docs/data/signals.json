@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-29T05:00:23+00:00",
+ "generated_at": "2026-10-29T05:30:22+00:00",
  "signals": [
+  {
+   "ts": "2026-10-29T05:30:20+00:00",
+   "title": "Guest Column | When Communications Become Humanitarian Infrastructure in Arakan",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbzFTbF9kNDZIcWtvZGpWc2NVczY4a2ZsVzJmS0UzTmo2NFUydkM2Rzc2TFQ5RFE0SU8yZmRGV0FLLWxwTVo3WHpGOE1KcXhRSzFDcEE3eVZLRjVGM25oZzNpM210dVVjWGhEX3U3enZsQ1NFamRPN3I4eFJraGlzM3JCNk1yWWVQa1RTOEhiTFJVdjFnN05FWmZTM2h4NnNlRHN4Q0FYZUJxZHZlRlMzWDk5aG15eTA?oc=5"
+  },
   {
    "ts": "2026-10-29T05:00:21+00:00",
    "title": "Myanmar’s growing gastro-diplomacy",
@@ -2186,13 +2193,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5mOC1nTm5xTWoyYzhFWXROZzhEZmkwNmpIaGtFd2JyUkFwQjJMTm1DNkRIUkNYZUhWRVZfT2ZrdGdQZldZXzNYRWlpN0VSZFdq?oc=5"
-  },
-  {
-   "ts": "2026-10-20T18:30:19+00:00",
-   "title": "Nga Pyi Island Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAySUprWGpRSlp4bmNOZmltUVhGQm5iT3NKUk5KNmUxREp2MzJQTUl6Z0VsZl9wMk1CdUZQc09JaW5ucVlhXy1QOHpoSDlSb0ZTZEFQNzY4WQ?oc=5"
   }
  ]
 }
