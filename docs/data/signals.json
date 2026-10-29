@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-29T08:30:20+00:00",
+ "generated_at": "2026-10-29T09:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-10-29T09:00:21+00:00",
+   "title": "29 October 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11ZHF0d0g1X2lvOGYtUTludGV1OUhXRFUtbTExYU1HQ3BCZmpQdW4yM29fNUtVN0VackIxRzBoZUxhalk0c0Z3NTdFUzFGMEMxZWc?oc=5"
+  },
   {
    "ts": "2026-10-29T08:30:18+00:00",
    "title": "Myanmar Regime Seizes Historic Nawnghio Mosque Over Rebel Links",
@@ -2186,13 +2193,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRGUwQ0tjT1hiWTlUb2xpX29seFVVeXphMjVqRzljU3QxVmJkVDNCNklpWmxIdFpPNEhTR0hfZjR5R0c5SS15ZGE1UlJYc0pHV1JJQWExdG5LOFR5a20wZnFfaC1KUmlwbWhYQjZvYUlVUTFtWTI0NzRMZG5VNWRRdHdZeUhXai15bW0wOWVBMGwxS2dGSUdPRmVvQkphZw?oc=5"
-  },
-  {
-   "ts": "2026-10-20T21:00:24+00:00",
-   "title": "21 October 2026",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EYmVNUDNBVUNmM0JTeWlSZG1CUFVSbjgxUGVncUswb0Zha3FHVnp4WllTZFJDRy1NT0JHWDNkMGZ3WFBVSlk2akFFbEVkUFBDQmc?oc=5"
   }
  ]
 }
