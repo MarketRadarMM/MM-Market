@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-29T04:30:18+00:00",
+ "generated_at": "2026-10-29T05:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-10-29T05:00:21+00:00",
+   "title": "Myanmar’s growing gastro-diplomacy",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0yclQ2ZWVhWmkzT21CUjNoT0lzaVA0UTJURGlha1dJZzhCQWVWc0kwYXFrTDRnZGZSMmo3UXE1YkthNkhlbTZWWUdZbUQ3SWVPUXVBdjlQSGw0UlpQZ0wwcDN3T2ZYX29oZFBEMmFWRmRocU9aWlNQVg?oc=5"
+  },
   {
    "ts": "2026-10-29T04:00:22+00:00",
    "title": "Falam’s ongoing rehabilitation, departmental offices inspected",
@@ -2186,13 +2193,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAySUprWGpRSlp4bmNOZmltUVhGQm5iT3NKUk5KNmUxREp2MzJQTUl6Z0VsZl9wMk1CdUZQc09JaW5ucVlhXy1QOHpoSDlSb0ZTZEFQNzY4WQ?oc=5"
-  },
-  {
-   "ts": "2026-10-20T17:31:46+00:00",
-   "title": "China-Laos air base could be another Southeast Asian forward outpost for Beijing",
-   "source": "RFA (EN)",
-   "markets": [],
-   "url": "https://rfa.org/english/laos/2026/10/20/china-laos-air-base-ban-keun-ream-cambodia/"
   }
  ]
 }
