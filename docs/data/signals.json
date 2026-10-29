@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-29T11:00:26+00:00",
+ "generated_at": "2026-10-29T11:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-10-29T11:30:17+00:00",
+   "title": "Myanmar junta launches arson spree in Sagaing after colonel’s killing",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/myanmar-junta-launches-arson-spree-in-sagaing-after-colonels-killing/"
+  },
   {
    "ts": "2026-10-29T11:00:26+00:00",
    "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing inspects National Library (Yangon) and National Museum (Yangon)",
@@ -2186,13 +2193,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSU9kU2l2LUlLMkdlUFJ6TlZEcVc4UVZwMV9QM292VmpPX2c4LTJGT0ZsMWFFS1RrU25HMWlhOE1kcUFlQ1VLcXR4M0dwSlRZTVhWYWdBbUlCajAzUkdTSGNCWkZZQjBZVUJ5bWRLekJUc1dyWmZIMkNWeWhGbS02eUlQVXhiUQ?oc=5"
-  },
-  {
-   "ts": "2026-10-21T02:00:17+00:00",
-   "title": "နေပြည်တော်ကိုခြေလှမ်းစိပ်နေတဲ့ နီပွန်ဖောင်ဒေးရှင်းဥက္ကဋ္ဌ ဆာဆာကာဝါ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.co.uk/burmese/live/cvwy78z7yzzzt?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
