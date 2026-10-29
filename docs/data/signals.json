@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-29T07:00:22+00:00",
+ "generated_at": "2026-10-29T07:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-10-29T07:30:17+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9Tc3VfN19sckhaTFNQai10UzdWM2M5VmVLdGVkel96YTJLcjlBTXZZYTNtM0V5cnQ3dm5vS1lFRWIwaUVEVENWNndR?oc=5"
+  },
   {
    "ts": "2026-10-29T07:00:22+00:00",
    "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing delivers speech at Union government meeting",
@@ -2186,13 +2193,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTElrR0N1dzZwZ0V3eEIwMHYzVlNXaThOTTc0b2VsMHE2Ml9GWmZwd2RwTTZ0OHp2b2l6eFZxYVRlZkZKNHBVaFNCOGJPNjhXREtqLWo0ZHNWVDM2VFhZNHV2LWNTb21qQW9IYWNELWxVVTdMVWJSM2VkWTRDX1VNSDhnYWRQaFV1TnZFQmFxSTJKQ3lpRHlacTA4QUhlSHRpTDktT21iR3hXSTBfaGx3UkJ4dw?oc=5"
-  },
-  {
-   "ts": "2026-10-20T20:30:19+00:00",
-   "title": "Kehsi’s VDP project oriented committee formed",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90aWIwbUxvUzVhaDdKcXF0VFNHNUY5Skhuc3V6aHpfWmU1VE53clRKM1ZoVmUxbnppc1VqTWhHLUdVWmVEZ2xsY2ZXYUd0NFNQdHd1dzd3bzJONzBTaE1hZENyWGpjMzVwd1ZEN2tMeU5MQnRQaXdJTg?oc=5"
   }
  ]
 }
