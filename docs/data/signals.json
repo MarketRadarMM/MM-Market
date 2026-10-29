@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-28T23:30:21+00:00",
+ "generated_at": "2026-10-29T00:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-10-29T00:00:19+00:00",
+   "title": "China leverages Taiwan’s reverence for Sun Yat-sen to promote ‘reunification’",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/china/2026/10/28/china-taiwan-sun-yat-sen/"
+  },
   {
    "ts": "2026-10-28T21:30:20+00:00",
    "title": "Questionable governance: Marking work in parliament",
@@ -2193,13 +2200,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWXJTMUM0cnc4YXMzOUllTjhpbXVJZjRVSEtENUhPNUFTWm9VeDd2QUh5Z2l2bnBqSUozSW5yckpnN2xXTUtqUEx1UUQ0dDFZRWdQZ2d2QVdYbWd1ckxZMXE5RTFzZWIybUFqMnJDOWQyZ1A4WTdoS2ZwMEZpUnlmbjhIZGpneWFoUW5FVmNuUUZ2NWxuSUdDRGc5dzFVVTMzVmREX3VjbU9GRVdQa3Q0blB4a0dWVmdJaktJ?oc=5"
-  },
-  {
-   "ts": "2026-10-20T07:00:17+00:00",
-   "title": "ကယ်ဆယ်ရေးသမား ဆုံးရှုံးသွားသည့် ပရဟိတ ကမ္ဘာ",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81852/"
   }
  ]
 }
