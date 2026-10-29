@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-29T01:30:18+00:00",
+ "generated_at": "2026-10-29T02:00:25+00:00",
  "signals": [
+  {
+   "ts": "2026-10-29T02:00:21+00:00",
+   "title": "လစာပေးဖို့ ငြင်းဆိုတဲ့ တရုတ်အလုပ်ရှင်ကို သတ်ဖြတ်မှုနဲ့ ဆက်စပ်ပြီး မြန်မာဇနီးမောင်နှံ ၂ တွဲကို ထိုင်းရဲ ဖမ်းဆီး",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.co.uk/burmese/live/cw8dzly1v81yt?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-29T00:00:19+00:00",
    "title": "China leverages Taiwan’s reverence for Sun Yat-sen to promote ‘reunification’",
@@ -2193,13 +2200,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcEFaQkFTVWxnTkU1Z0lQZTRYblpjcUVsVXMzc3ZBUFRVU1NLMWs1VEt1RTJHeTlnaEl3bnl4dndaLS1GRWRvUnZpSWhIenR6YndVTkFsZzRnamJWMGdfWXpDZ084V2VWdHVrX1FYcDFwMFFoWEdYOU1tbEQxNFZ1bjBkdHFxaHY2SmtNRnpnSXdPVHE3TWdsaEdza0o0SE9Tb3pVMDlRUmgwMUdzTmxFZ0FFSWVnRTFYUkdYaw?oc=5"
-  },
-  {
-   "ts": "2026-10-20T07:30:18+00:00",
-   "title": "Myanmar Regime Bombs Civilians While Claiming Military Operations Serve Peace",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWXJTMUM0cnc4YXMzOUllTjhpbXVJZjRVSEtENUhPNUFTWm9VeDd2QUh5Z2l2bnBqSUozSW5yckpnN2xXTUtqUEx1UUQ0dDFZRWdQZ2d2QVdYbWd1ckxZMXE5RTFzZWIybUFqMnJDOWQyZ1A4WTdoS2ZwMEZpUnlmbjhIZGpneWFoUW5FVmNuUUZ2NWxuSUdDRGc5dzFVVTMzVmREX3VjbU9GRVdQa3Q0blB4a0dWVmdJaktJ?oc=5"
   }
  ]
 }
