@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-29T14:30:21+00:00",
+ "generated_at": "2026-10-29T15:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-10-29T15:00:20+00:00",
+   "title": "မုန်ယို Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWWNLQldZR01NTzEwRkVyWW9wM00wbGFoNHRlZXNRcFM5UEViQWxuaUpuZ1pYMUZmaEZ6anZXR09wRFY0anRVT3d2NDdRMUZPazQyaHMyNjVpSGNRVktJOURDQ1dXd1ZxZm1yb3k5Sm1TTmU1ekhQcGtzQjUtTjViV0FEVnZyeHhlX3BOSGhDcG5sUk02S3JaTk5haw?oc=5"
+  },
   {
    "ts": "2026-10-29T13:00:25+00:00",
    "title": "Two Ex-Generals Elected Speakers of Myanmar’s Martial Parliament",
@@ -2186,13 +2193,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUU5YcEVhaGlINDlDV0ZqRjFUOWNyUjUtQ0xIODBNOWY2MXh3cTFMZ0NiOTJBY2VmR2JnMzZBR3RhX3FqOEd2NWFHR2xDal82aV9TNjBtM1JJVTNTbmVuNy0xcUxiWGs2VUZMYzZvR0llMzhrZE56LXFiLV9WQmptZ3kzaEphcmZFOFE5cnBqYzZpdw?oc=5"
-  },
-  {
-   "ts": "2026-10-21T04:30:17+00:00",
-   "title": "YR cultivates 27,000+ acres of prized Pawsan rice",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9kVFd6d0d5bzRNMGpiT3JndTdNay1sRDhUNGVoYzctN1ZZWnk1MUtSRUt5Z0EyMHhKelZEZWxIZXI3bDhobExXLVRCVTJaM2RnNTk1U0s3Qm5WektseVdUdGNWUFozTHc4R3VOb1JxeUtEMUp2NnIwNDFnODE?oc=5"
   }
  ]
 }
