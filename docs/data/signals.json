@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-30T01:30:19+00:00",
+ "generated_at": "2026-10-30T02:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-10-30T02:00:16+00:00",
+   "title": "ရက် ၁၀၀ ငြိမ်းချမ်းရေး ခေါ်ပေမဲ့ မြန်မာရဲ့ အခြေအနေဟာ ပိုဆိုးရွားလာတယ် - ကယ်လီအန်း (မြန်မာ/ကုလ အထူးအစီရင်ခံစာတင်သွင်းသူ)",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.co.uk/burmese/live/ckd7qpnzqvnyt?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-30T00:00:20+00:00",
    "title": "U.S. to China after demolition report:  ‘End interference in Tibetan religious life’",
@@ -2186,13 +2193,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/c6kg5yr2jlzxo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-21T04:30:18+00:00",
-   "title": "The ultra-processed foods that WON’T give you bowel cancer: cereal and sugary yoghurts could reduce your risk by 25 percent, intriguing data shows",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMDhDUnk1TkRoWW92M19oTVA1MFVPWmJfNE0yX3p1UFJmTHpPaHhRYlkxZ1RHLVZpaHJaQzlfdGZ6ZVBINlJHekt6cFhfT1dFcnVlUHQxcVY1S3VBY2ZhdDV1dVZRdS1Tb0lXc3I1RGJRSDl1eDFSdFdzUzF4YWlnT3lwZmhudDJUSXFuanF3Qi1vVFVpY19rVG5WMndsSGZQWVpVR2gyOW1UU2tFSHpJZERDVzlDcDl5bDJEaG5wMFBLeGM?oc=5"
   }
  ]
 }
