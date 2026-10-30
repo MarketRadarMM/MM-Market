@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-30T08:00:19+00:00",
+ "generated_at": "2026-10-30T08:30:22+00:00",
  "signals": [
+  {
+   "ts": "2026-10-30T08:30:22+00:00",
+   "title": "President U Min Aung Hlaing attends certificate of honour presentation ceremony and dinner for 27",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTzR2ZzVVSHN1cWMyeFFWYTR1MzRYR2NmdFlMTVhKVVduS2RrYW41SmZBaDg3ZTVSeF9tMzhjRHhtRG1HX1pySUFrYnkwSlBqZU9Mcy1ObnVPdXpFR0F0Zm5DLXBSaE1raHFsaUQ1Y0E4LUxfeEtWbmloVUhIcHh5c1ZZeVVET0ZUZ2xzYVpwQWJKZHJsaGptZVItWDZCVXJhTVdLRHRMZ01NMTJ3dzktV29GWmxnQQ?oc=5"
+  },
   {
    "ts": "2026-10-30T08:00:18+00:00",
    "title": "ASEAN Envoy Ends Myanmar Trip With No Public Aung San Suu Kyi Meeting",
@@ -2186,13 +2193,6 @@
    "source": "Myanmar Now (EN)",
    "markets": [],
    "url": "https://myanmar-now.org/en/news/yangons-luxury-condo-buyers-left-waiting-as-projects-stall/"
-  },
-  {
-   "ts": "2026-10-21T10:00:20+00:00",
-   "title": "AA ထိန်းချုပ်သည့် ပေါက်တောမြို့နယ်ကို ညအချိန် ဗုံးကြဲမှု  ၂ ဦးသေဆုံး၊ ၆ ဦးဒဏ်ရာရ",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81866/"
   }
  ]
 }
