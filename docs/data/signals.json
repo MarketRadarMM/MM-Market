@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-10-30T11:30:20+00:00",
+ "generated_at": "2026-10-30T12:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-10-30T12:00:21+00:00",
+   "title": "တော်လှန်ရေးအဖွဲ့များ၏ ထောက်ပို့လမ်းကြောင်း ဆုံးရှုံးမှုနှင့် စစ်ရေးချိန်ခွင်လျှာအပြောင်းအလဲ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/82004/"
+  },
+  {
+   "ts": "2026-10-30T12:00:20+00:00",
+   "title": "‘Be back by 7’: For Yangon’s young, a life ruled by a self-enforced curfew",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/be-back-by-7-for-yangons-young-a-life-ruled-by-a-self-enforced-curfew/"
+  },
   {
    "ts": "2026-10-30T11:30:15+00:00",
    "title": "Myanmar junta bombs religious ceremony; kills own POWs in Chin State",
@@ -2173,20 +2187,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVnMzSENmT1ByVXdORWVuQ0Foc3lGc29kSWJ3Nlh6OGJkRnpDcnV0VnE4Y2hWTmxOSUV5ZUdjNy1YQlQydC1vU1NBQWYyUDlROW1FR2xPUEwzM0VCRnlMeF9SVTViUFlYZDkxUWljUVdQZ0tsMFNkNE9zX3o5ZGlBUGFwRXRiNFhzT0x1dnl2ekxsYmduMEVwbk1NUXFWMmJUeTNYSmF6WVg1N3ViWjlMODU0WTR0QQ?oc=5"
-  },
-  {
-   "ts": "2026-10-21T16:30:17+00:00",
-   "title": "Myanmar Junta Hires US Lobby Firm in Bid to Boost Ties With Washington",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUWJuM215eG41bVdLR0FscjhBZUthdF8xQmpUSFZqUVJnOXBiVU9SSzV0SThsRWlhWjdLb0s5b3p1U1I3dTdRUGp4dDJvbGt1NXVmbFJsbnZOUEgxZl9RTzJiT3hpZFJnR2ltVmZoYjFfU05MRFlmT2NJYWJ5a1pUVXQ5c0plWkgwMkIzWjRoelNvRTdaRnAyRmRiWHNBanBvRnRKZVlieWUza0J0RXdVamZB?oc=5"
-  },
-  {
-   "ts": "2026-10-21T16:30:17+00:00",
-   "title": "In Person",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80UGJKV29FTTNRMnFHQ25VMERYdVBITGctY3kwUnM0WmV6bHlIX29QUmc3TEprbUlaNkpCYWVCc2w5RmZZZXZiSFdwb0pXcTVsaXM3eG05bw?oc=5"
   }
  ]
 }
