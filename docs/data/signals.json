@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-30T14:00:22+00:00",
+ "generated_at": "2026-10-30T14:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-10-30T14:30:19+00:00",
+   "title": "Myitkyina Thadingyut Festival held on 1st waning day",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeFUzZlRYdEZTdF9ONF9uUmdGWDBzTHBQbGIyTUlTYnA0VnVSM0xvWlFWdmpRS0FSUGhpZ2lBazc1dDJGT0VzTzY4b0FfaFdwZ0pNbGt4S3gzM2huUkoxMkhPY0NqbXlSbE1pYVVUZUdaRmRhbnJJLVU1NVhhYUJRZzc1TQ?oc=5"
+  },
   {
    "ts": "2026-10-30T12:30:17+00:00",
    "title": "Regime Threatens Migrant Workers in Thailand Over Document Boycott",
@@ -2180,13 +2187,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/cxyvrnl30n7do?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-21T21:00:20+00:00",
-   "title": "Duterte impeachment: bribing elites is China’s strategy, military official says",
-   "source": "RFA (EN)",
-   "markets": [],
-   "url": "https://rfa.org/english/southchinasea/2026/10/21/philippines-duterte-impeachment-china-influence/"
   }
  ]
 }
