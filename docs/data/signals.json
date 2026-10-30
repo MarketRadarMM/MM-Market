@@ -1,6 +1,34 @@
 {
- "generated_at": "2026-10-30T10:30:17+00:00",
+ "generated_at": "2026-10-30T11:00:25+00:00",
  "signals": [
+  {
+   "ts": "2026-10-30T11:00:23+00:00",
+   "title": "Guest Column | China’s Risky Plan to Restrict Hi-Tech Exports",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb1c4Qkt2aE1mODJyWE9EN2hWQmR2OURsZVZiUUdZaUw2azNVampWblRuVnBMNGkxb21FaGVLSzE1SkdGZVBwNzhPbjFtMXNWMGs4N1BJbHRDZkhmcEtUNzZYc3ZhNHdnTC1HVmkycWRPd3JteFdvZXROcEp2QXZKejdzWlhGclJxUzRnY1Qtc0ZJMWFoc192VFdhQ3Y1UQ?oc=5"
+  },
+  {
+   "ts": "2026-10-30T11:00:20+00:00",
+   "title": "တရုတ်ပြောတဲ့ အဆင့်မြင့်ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ပုံစံဆိုတာဘာလဲ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/crwydv1nywepo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-10-30T11:00:20+00:00",
+   "title": "\"မြန်မာ‌ကို အရေးယူ မယူဆိုတာ အဖွဲ့ဝင်နိုင်ငံတွေကပဲ ဆုံးဖြတ်သွားမယ်\" - FATF",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cqvgj81ddzl8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-10-30T11:00:20+00:00",
+   "title": "မမြဆည်ဖြစ်ရပ်နဲ့ မြန်မာ့ဆည်တွေမှာ ဘာတွေစိုးရိမ်စရာရှိလဲ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cjqlne15pg2lo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-30T10:30:15+00:00",
    "title": "Business | Myanmar Regime Hosts Russian Mining Billionaire After Approving Gold Ventures",
@@ -2152,47 +2180,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/cmn45232pg8go?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-21T14:30:16+00:00",
-   "title": "ငါးရက်ပဲအလုပ်ဆင်းလိုက်ရတဲ့ အိမ်ဖြူတော်ပြောရေးဆိုခွင့်ရှိသူ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c60qk8v7jv08o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-21T14:30:14+00:00",
-   "title": "ဗဟိုဘဏ်ဆီက သုံးနှစ်ဆက်တိုက်ငွေချေးရတာ ဘာကြောင့်လဲ",
-   "source": "BBC Burmese",
-   "markets": [
-    {
-     "market": "fx_kyat",
-     "direction": "neutral",
-     "confidence": 0.5,
-     "rationale": "CBM/forex news — read for direction"
-    },
-    {
-     "market": "gold",
-     "direction": "neutral",
-     "confidence": 0.5,
-     "rationale": "Kyat-sensitive: gold usually moves opposite to kyat"
-    }
-   ],
-   "url": "https://www.bbc.com/burmese/articles/c65yn0vlkp8po?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-21T13:30:18+00:00",
-   "title": "Property Sector Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tLTdCUkdaNE0yaXVNb29RNVpPTlpKdGNjSHZudWdfaHRLX09fRkJfa2xJNVB2Q3VzM3J1aENyenEwTk5qSklTNjRCbk92OFRvUHhjd24tajM?oc=5"
-  },
-  {
-   "ts": "2026-10-21T12:30:17+00:00",
-   "title": "Has the Myanmar Resistance Lost Politically and Diplomatically?",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMjZ5X1pSWnoxazVITXRaSE9WQm9jcHpUWVdHNWY1R0JnaXBSbGZ2TnhaSzdoOGxwT1Iwdm5WbGVKbHRpN0VNY0s4ZTVha0dMY25HcDZxTGF2QmZSVGNlaGpfaC05Nkd5VTE0dk9EN2dvZVJzejdQSnhzalVVbUNpVWstOU1ObVlVYnZxUU1HbGk5TGo3VW9YWlBPVDd2UEw4?oc=5"
   }
  ]
 }
