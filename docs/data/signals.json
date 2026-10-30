@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-30T20:00:21+00:00",
+ "generated_at": "2026-10-30T20:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-10-30T20:30:20+00:00",
+   "title": "Fighting to the last: The TNLA digs in",
+   "source": "Frontier Myanmar",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1EeUdwS2ZNaEMtRmIzRjZDSUZJOGNMcHdfeFBtZVBieFk5QUE1dE1HRXZzMFRlYkRUb01tQnNFVTh5NmZ1V3ZkZS01R29XU0h3R2NTR0VWaExKX0FwdVZOcnZIU3g4bVBqQ0VrM0dCVkdRODR3ZFZCdWFyYzlmQQ?oc=5"
+  },
   {
    "ts": "2026-10-30T20:00:21+00:00",
    "title": "News release: Arrest and legal action taken against ring leaders (senior agents) of illegal online gambling operations",
@@ -2180,13 +2187,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.co.uk/burmese/live/ck7vp818qyg7t?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-22T00:30:16+00:00",
-   "title": "Cannabis Takes Root in Sagaing as Myanmar’s Post-Coup Drug Boom Expands",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVVpYQTg3Y0E0WU85Nk1hUm9rMTdxdFIxNGlmRjhfVUZBNGFmNVpZOWJPSy1zSmZIUklwYkdPZEtlTmF4SVRILTQtMS1PdW5XbnR1c1BjTjBqeUF0QWhzcVNvY1NQUURkOXczMEVIS0xOTzFEUnJ5ZmItQmZDY09sWEt5Q0tCeDFoWVZzaUItZ3lGWncxZDNkZlRxN0ZsbmVmaENYMFp6X3V0UmlfQkNfQ29n?oc=5"
   }
  ]
 }
