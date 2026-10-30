@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-30T09:30:20+00:00",
+ "generated_at": "2026-10-30T10:00:25+00:00",
  "signals": [
+  {
+   "ts": "2026-10-30T10:00:20+00:00",
+   "title": "ရခိုင်မှာ စစ်တပ်က လေကြောင်းတိုက်ခိုက်မှုတွေ ဘာကြောင့်ပိုတိုးလုပ်နေတာလဲ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/crgqwgz93gvgo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-30T08:30:22+00:00",
    "title": "President U Min Aung Hlaing attends certificate of honour presentation ceremony and dinner for 27",
@@ -2186,13 +2193,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZkNja3UwdXFON2tnanJ1eDcybEs0b1ZHTVlKNjZTX2N1alVhV2QtakF4eUJMUnRKZG81dXowN0ZvaE5fdGFtYWF6anlNRnVYY1JraWFqMlBybmp4aFc1TEZyOTV0eXN5bkwtdnZkUjRwQy1Sd2NaMlhHaWU2M3k2d0UwS282b2VVLUs4aHFSSTh5dnBITjdHTVd4b00wZDhGRlM0M0FRazI2NWlBTFE?oc=5"
-  },
-  {
-   "ts": "2026-10-21T11:00:21+00:00",
-   "title": "Yangon’s luxury condo buyers left waiting as projects stall",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/yangons-luxury-condo-buyers-left-waiting-as-projects-stall/"
   }
  ]
 }
