@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-30T02:00:21+00:00",
+ "generated_at": "2026-10-30T02:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-10-30T02:30:18+00:00",
+   "title": "Guest Column | Appeasing the Myanmar Junta in the Face of Atrocity",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWEp3Mzg0VkRvTFB3SjVHQm90Q0hQSXhfT0MyS2dDUXR0bGNBbk5hbFJhS2VJeTFzN0RPekZaZDIzZmUyT282VmN2WkJEM0NzY2habXdVa2dsWEZMMzZuellSVUNwVm84QlE5R19fZFhhRnU3bll6ejRrT3NDb0pLM0lRc2o2MHp5Q19qdXVialM2Yy00N3FLWW5XV3JwVloyMnFzVW93?oc=5"
+  },
   {
    "ts": "2026-10-30T02:00:16+00:00",
    "title": "ရက် ၁၀၀ ငြိမ်းချမ်းရေး ခေါ်ပေမဲ့ မြန်မာရဲ့ အခြေအနေဟာ ပိုဆိုးရွားလာတယ် - ကယ်လီအန်း (မြန်မာ/ကုလ အထူးအစီရင်ခံစာတင်သွင်းသူ)",
@@ -2186,13 +2193,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS2pJeWNidkNUOG5kaW5fNHdQRklDQXo0X3BOZGRwOGNhLWtvWERPYW1saURaZ3VVaVJtWk13bU5pcnVMWllqVGZxQ19xZlFyUElMR01sWVIzZzdKR09Sd1R0N3FTZy04a24zaUZrRWNKVlRuMkJFa19pR0pqZ1hpcUstMFpYSnFfb3M2bHNkRXRWM2wxMnItVDBvRVpPcmdmUmJtQ1hPbzhXUWY4SzFrQ1ZEYjZYUjh6VlZMWElXcw?oc=5"
-  },
-  {
-   "ts": "2026-10-21T05:00:15+00:00",
-   "title": "‘ကင်ဂျုံအွန်းသေပြီ’ ဆိုတဲ့သတင်း ဘာကြောင့် ထပ်မံထွက်ပေါ်",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c6kg5yr2jlzxo?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
