@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-30T15:30:19+00:00",
+ "generated_at": "2026-10-30T16:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-10-30T16:00:20+00:00",
+   "title": "30 October 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFSGJRNi1tTnZScHlCNl91WGpxZG93WVNsZDVINE5rU09CYmliOGRxQWdGTXVDTzN4ZnF0MElTdXlXenVLYjBqZGxRQ3BGdlNaOXc?oc=5"
+  },
   {
    "ts": "2026-10-30T15:30:15+00:00",
    "title": "ဒိန်းမတ်တရားရုံးမှာ မြန်မာစစ်အာဏာပိုင်တွေကို အမှုဖွင့် ကြားနာတာမျိုး လက်တွေ့ ဖြစ်လာနိုင်လား",
@@ -2180,13 +2187,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZXVGOHE4QjBnY2N3c1RWUC0xazhpYjNIeWEtMkFnZlJ6bVZ1N1VTcXhNZ3UycjIwTVNvWTgzbG9kNjNuN1hmcEJDT3pLRGtJQlNDS2ZwVWRfdWxQX1h4MVJUelotU3Vjc2MzNnZRbUYwMm4tMmJGLVlnUy1POE9Vbms3TjZUSWpnZ3lqSEdOZTJSM0syYV96YmFJTENJN0o2SHA4YXpoS2lHbDlfVkt0ZXMzdy1RdFE?oc=5"
-  },
-  {
-   "ts": "2026-10-21T21:30:19+00:00",
-   "title": "22 October 2026",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPb2VNWHBsR3NZQ3Uzd3BhVVVnV1dVOHdnanRVb1pNMndIeFIxSkZZZWliUFVyS0hUSTl4eUwtQi1tYnZkUEFwcEdaTHJwZDhpeVE?oc=5"
   }
  ]
 }
