@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-10-30T11:00:25+00:00",
+ "generated_at": "2026-10-30T11:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-10-30T11:30:15+00:00",
+   "title": "Myanmar junta bombs religious ceremony; kills own POWs in Chin State",
+   "source": "Myanmar Now (EN)",
+   "markets": [
+    {
+     "market": "pulses",
+     "direction": "bullish",
+     "confidence": 0.55,
+     "rationale": "Conflict in bean/sesame heartland threatens supply"
+    }
+   ],
+   "url": "https://myanmar-now.org/en/news/myanmar-junta-bombs-religious-ceremony-kills-own-pows-in-chin-state/"
+  },
   {
    "ts": "2026-10-30T11:00:23+00:00",
    "title": "Guest Column | China’s Risky Plan to Restrict Hi-Tech Exports",
@@ -2173,13 +2187,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80UGJKV29FTTNRMnFHQ25VMERYdVBITGctY3kwUnM0WmV6bHlIX29QUmc3TEprbUlaNkpCYWVCc2w5RmZZZXZiSFdwb0pXcTVsaXM3eG05bw?oc=5"
-  },
-  {
-   "ts": "2026-10-21T14:30:16+00:00",
-   "title": "\"စက်ရုံပိတ်ရင် ဘာလုပ်စားရမလဲ\"- အလုပ်ဆက်ရရေးမရေရာတဲ့မြန်မာအထည်ချုပ်လုပ်သားတွေ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cmn45232pg8go?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
