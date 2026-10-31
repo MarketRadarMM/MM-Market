@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-10-31T02:00:20+00:00",
+ "generated_at": "2026-10-31T02:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-10-31T02:30:17+00:00",
+   "title": "Developing people-centred cities",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiQmhmblZWNkl5ZTR4akFYck12VXpIQlFHcGFpa21FMUlZaUY0dnBOOEJOLWVOUHB5OERiaW9Pc1JLaklOMTBJSHpNMUk5c2h4a1c3ejJKMW1RU2lwdHUzc3R1UmExbkN1?oc=5"
+  },
+  {
+   "ts": "2026-10-31T02:30:17+00:00",
+   "title": "PDF battalion adjutant arrested in Yangon for alleged terrorist activities",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObWZoTWZ5MENSRHhkZnhCbGxDbFRfdTJ0LTVHaDYzaTVfWVllY3Z3MVF5TnRuY05WT2F5VHVVbWYtVl8tczFoR2tMVFV2NnRPVXlnM2Z5SGxQekpPbnF1SXRuMDNkVXhQdGFDdlRsbWZRXzc4aTR5VVlTVE1KUmVSR3NoNVpCZmlqdkJVRGFaWlUybzA4T19EXzFpaFBkVkVZ?oc=5"
+  },
   {
    "ts": "2026-10-31T02:00:20+00:00",
    "title": "Young People Should Excel in Both Education and Sports",
@@ -2166,20 +2180,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM0lMUldqQ0p0a0JXLTJMOGpGbGZSQ0YwaEVCU09MXzczcVlyakY4bWt6amx3d3V2QVlXMHN2NUpmakhkS3BGYm9GMy05aXQ1c1ZsaVZlay1IOFE2d2ZJNHo3XzhXOGgyTjBrNXdJZzRSRHVUM2lmS1puYTNtaXBBb05MRWw3TGszRUE5eGhSd3JJVTZwZHc?oc=5"
-  },
-  {
-   "ts": "2026-10-22T13:00:22+00:00",
-   "title": "Myanmar Regime Pushes on Four Fronts in Southern Chin State",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMGtWZ1BIb19pRDFJX1BHQk9CczVULWhObUpWNzY1TXFVY1VWY0JMYS1SVENIN2lrdHJrdFRVbGs2eW5PNWlXUF9ja2FEeFExdlFVNENRUnBhVjdESmduWXBPdHBYcHJMYnZyZXBNU2w4Q3JSUGZlSTNkYXppSll2U19hUjNOVzBPWlFoc3RyXzNIWWp4MlVMaXc3WWJPVlZ3X3A0?oc=5"
-  },
-  {
-   "ts": "2026-10-22T12:00:19+00:00",
-   "title": "Nighttime junta airstrike kills 2 and injures 6 in Pauktaw Township",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/nighttime-junta-airstrike-kills-2-and-injures-6-in-pauktaw-township/"
   }
  ]
 }
