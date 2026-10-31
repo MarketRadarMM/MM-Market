@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-31T18:00:20+00:00",
+ "generated_at": "2026-10-31T18:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-10-31T18:30:19+00:00",
+   "title": "Development of entire country to be realized by making progress in socio-economic lives of individual members of public",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMDJ0Uzc4SjRKOEJySHA2SFp2dkVaa1p3Q1A0OXRsNFZhYVc5NjAwdFpfV1pqVkZCLU5ZTEFCY3hZbzNTc3pwS0NiTGhQYXIyRU5VSjFDd0FIZmJXcHFabGtfY2dJd3NERDNZTmxyT1JJMzFCc0VuRTI1blJfSWg3dGZSemd5M1VFMDd4aDdHRUhSNk5YQ1l4eTh6RFlIZF9qV3R3Qm1GZzN3N3AtV3dxRFdyWUxiaTNBLWlwMDFB?oc=5"
+  },
   {
    "ts": "2026-10-31T17:00:20+00:00",
    "title": "IBEC Archives",
@@ -2173,13 +2180,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUDhqT21tRTJJMWRwY21SV0dmMEN4aktudW1HcXFxTVNBZDBkVzc5QUF5ZUc3aFhHZnhFZk5yRVFlTzljOTN3ZEY5OTllTDdLNlpkXzduMlZ1WTRveXBOZ2hUSmhCNkxXNWx3MmlvZ0h0R0FnaE1UZnVwNFBnaVJmTmVPbXhJaTQxcG11bHJXNWk?oc=5"
-  },
-  {
-   "ts": "2026-10-22T21:00:21+00:00",
-   "title": "‘I hope that she will be free before long’ Aung San Suu Kyi’s son Kim Aris says",
-   "source": "RFA (EN)",
-   "markets": [],
-   "url": "https://rfa.org/english/myanmar/2026/10/22/interview-kim-aris-aung-san-suu-kyi-phone-call-burma/"
   }
  ]
 }
