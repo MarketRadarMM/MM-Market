@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-31T15:30:21+00:00",
+ "generated_at": "2026-10-31T16:00:25+00:00",
  "signals": [
+  {
+   "ts": "2026-10-31T16:00:24+00:00",
+   "title": "VinFast Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9NNlZOQWJjREh1YUhIR0QxNU95cm5PbTdXaXFwVUVIb3d6MmtKTVc0bG9wYUZaTVVreC05OGFDUWRITE0xSFdOM2pJaG1qSEs4?oc=5"
+  },
   {
    "ts": "2026-10-31T10:30:17+00:00",
    "title": "ဇလပ် Archives",
@@ -2173,13 +2180,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWEkzbmF2dnZVQzZqU3d5WFo4RTRrRGxaNjhGdVFLQTQ3dDVqU1NVVFM5eWFvNlFBYkVjVHJ4dlUtWDZ3NXpkak9DRzNBSHlURVBxYjZqTS1nY2dNZElMVEJJYjVNUVpXTmcybFFsYzBDcUU1VHdMZVJ4TDBROTdwT0hQYW9Bem9TdV9fZjllbTcxajlKSVVjaENiVWtha0NtYWFXT0tkenZxWGRQZnB3aTdlSQ?oc=5"
-  },
-  {
-   "ts": "2026-10-22T18:30:28+00:00",
-   "title": "Aung San Suu Kyi phone call is ‘political calculation’ by military-backed government",
-   "source": "RFA (EN)",
-   "markets": [],
-   "url": "https://rfa.org/english/myanmar/2026/10/22/aung-san-suu-kyi-son-kim-aris-burma-phone-call/"
   }
  ]
 }
