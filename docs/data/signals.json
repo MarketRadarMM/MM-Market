@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-31T16:30:17+00:00",
+ "generated_at": "2026-10-31T17:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-10-31T17:00:20+00:00",
+   "title": "IBEC Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE84Nm4zbC1jUHVIRlktejhEODdsV1Fublp3NVFxV2pwR1p6RjByU1l4bnRZSkhMRVVqem9XNFdzTk1NNnBxMHh2TzN4TVA?oc=5"
+  },
   {
    "ts": "2026-10-31T16:00:24+00:00",
    "title": "VinFast Archives",
@@ -2173,13 +2180,6 @@
    "source": "RFA (EN)",
    "markets": [],
    "url": "https://rfa.org/english/myanmar/2026/10/22/interview-kim-aris-aung-san-suu-kyi-phone-call-burma/"
-  },
-  {
-   "ts": "2026-10-22T20:00:22+00:00",
-   "title": "As Thai Unease Over Migrants Rises, Myanmar Workers Are Being Rounded Up",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWEkzbmF2dnZVQzZqU3d5WFo4RTRrRGxaNjhGdVFLQTQ3dDVqU1NVVFM5eWFvNlFBYkVjVHJ4dlUtWDZ3NXpkak9DRzNBSHlURVBxYjZqTS1nY2dNZElMVEJJYjVNUVpXTmcybFFsYzBDcUU1VHdMZVJ4TDBROTdwT0hQYW9Bem9TdV9fZjllbTcxajlKSVVjaENiVWtha0NtYWFXT0tkenZxWGRQZnB3aTdlSQ?oc=5"
   }
  ]
 }
