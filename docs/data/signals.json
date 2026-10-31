@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-31T10:00:19+00:00",
+ "generated_at": "2026-10-31T10:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-10-31T10:30:17+00:00",
+   "title": "ဇလပ် Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5pUlppTEl6anpEYWtlVjc1WXZORUpseXpRNUs5ZlpvZDZMVTFUV29wVTdpSC1VbHhBMktLclhIQWExa2h6dmVKVWtuWEhtbHFnaEFBMkdzM0ZQOUhjR21sb0JmeGxsRGhHdEhSbWhaRUdoMmE3Ym04?oc=5"
+  },
   {
    "ts": "2026-10-31T10:00:18+00:00",
    "title": "စာရင်းမည်း Archives",
@@ -2173,13 +2180,6 @@
    "source": "RFA (EN)",
    "markets": [],
    "url": "https://rfa.org/english/myanmar/2026/10/22/aung-san-suu-kyi-son-kim-aris-burma-phone-call/"
-  },
-  {
-   "ts": "2026-10-22T15:30:23+00:00",
-   "title": "Three Chinese nationals arrested with related equipment operating online fraud, gambling operations near Hopong Village, Laihka Township",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ3FoNm8zcVF6cUxWaVBCaFhJd0RCVWlUOVdxblRpMTRoMUpNaUVObHNObnY2ck9OREYybVB2cWFEQ043MnlUMm5ZejREdFhRYnN6NDR4ek16c1hzMWRwM3k5bDNVSUdBTnVwQTNiZVU1NElrSlNCd0x0MXp2cFF2cGVmNWkzMTFMRUNFWk9iQ1pCOEUzYlhLbGs1VE5xT0d2dEJBRXhoY2l0RVZJOVp3US1QdDBqYVl4MlZNOWZB?oc=5"
   }
  ]
 }
