@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-31T00:30:17+00:00",
+ "generated_at": "2026-10-31T01:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-10-31T01:00:21+00:00",
+   "title": "President U Min Aung Hlaing holds meeting with the Chairman of the State Duma of the Russian Federation",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUzllVVdqQVVkdURhcDJIYWRmTTBJM1BNZGU4aTVCS1lBYUt6Q3Z3cHQ3bjhfT1lZUGl4WTlCdXQ0ZDRNeVdiak1LVjdLcE9pMmkxSEVuWGJRejlaZ2JzWTdMekRYU1BvQTV0OFZ2S1VwU2NpTGRuVHdTMHJ5NWZTdFVlQ0JqNHJqU1ktbVpCSXRvbzVYWWhCRVd5WG9haDNySXlpTmN3?oc=5"
+  },
   {
    "ts": "2026-10-30T20:30:20+00:00",
    "title": "Fighting to the last: The TNLA digs in",
@@ -2180,13 +2187,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRDNPWFFSeW9JQk80OEhjQmd2T1JZNFRSMTMyTXU0cHdjR0tfRU4zMVJvWnhKdWVHTklicGxVTHZqQ1NTWlNJcG9pMnVnRzlOZU5sdFNqOFpvdjlsRE5kX2Z1cmhxS0NBWWVxVWpOQjlHSG5XblVYenltRnhCaVRFNUtKYnhudUhsS3BMU0ZyV29WbXBCN05YZTAtN0dUSXdlRVp4QXhaeTlVaEtUV0hCaVJxZnBsQnJZZGt4QjJIWlVhckk?oc=5"
-  },
-  {
-   "ts": "2026-10-22T02:30:13+00:00",
-   "title": "မြန်မာကနေ တရုတ်ကို မြေရှားတင်ပို့မှု တန်ချိန်ထောင်ချီမြင့်တက်",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.co.uk/burmese/live/ck7vp818qyg7t?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
