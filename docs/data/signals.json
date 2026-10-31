@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-31T03:00:19+00:00",
+ "generated_at": "2026-10-31T03:30:17+00:00",
  "signals": [
+  {
+   "ts": "2026-10-31T03:30:13+00:00",
+   "title": "အောက်တိုဘာ ၃၁ ရက် သတင်းအနှစ်ချုပ် - FATF အမည်ပျက်စာရင်းထဲ မြန်မာကို ဆက်သွင်း",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c804022k4pz4o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-10-31T03:00:15+00:00",
    "title": "သရဲတစ္ဆေမြင်တာ၊ အနားမှာ တစ်ယောက်ရှိနေတယ်လို့ ခံစားရတာတွေက ဘာကြောင့်လဲ",
@@ -2173,13 +2180,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMnlPMEdNVFBaWHVsbzNrOGlfSVJqYU0yQnFCbWtXaWlhelRBWWRpSXdSOHRMeG9BdmNPbDVYb0syeFk1Zm0xS0lFWVdWWE5YOTZZbEZKcERIQkswOVd6VzczM3FHWE14X3RxeHVrYk9MQ0tRT3FPQzVyYXRmR05GYXg0amY5QlVzUk5ZUEtRU1p0RzRMVDctcV9RY3hGNjA?oc=5"
-  },
-  {
-   "ts": "2026-10-22T13:00:23+00:00",
-   "title": "Mandalay’s Jade Pagoda to host oil-lamp offering, Patthana reciting competition",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZVNyTndYc0hRR2toYTY4YllneXI4WnIxR0ZXbnZ2MjZaVFY0WmNqZ0QyallGeC01WG14ZXpmbXZyaFNNN3dtd3E2aFQ3ZHc5RUlzeVhqbG9QQkpnLWw2NlpiQ1Ixd1RUWE9vWDNhSEh2eXEwZGU4S2RNS21ua0VoSVY0Nmx6ZHpHSUFmRXZnREMwREFUUXNYNDJwUXUwTGtRWGU2Rw?oc=5"
   }
  ]
 }
