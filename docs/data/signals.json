@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-01T08:30:19+00:00",
+ "generated_at": "2026-11-01T09:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-11-01T09:00:19+00:00",
+   "title": "အသက် Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBySGxTcFY1UkUybHhFb3gybXJnYWJjRFd5RDhsejlpU1ZxU3lmaHZkRTJjclYxNG1kU21TbC00Vk1LWDdZTnU2bkpxV0lTVGF3MmRMYXRGQmsxejk2NXRNX0F5MGY1TjM3N19McmVQQUxiUmItQ0dF?oc=5"
+  },
   {
    "ts": "2026-11-01T08:00:20+00:00",
    "title": "1 November 2026",
@@ -2173,13 +2180,6 @@
    "source": "Myanmar Now (MM)",
    "markets": [],
    "url": "https://myanmar-now.org/mm/news/81901/"
-  },
-  {
-   "ts": "2026-10-23T13:00:19+00:00",
-   "title": "'ကင်ဂျုံအွန်းသေပြီ' ဆိုတဲ့သတင်းတွေ ဘာကြောင့် ထပ်မံထွက်ပေါ်",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c6kg5yr2jlzxo?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
