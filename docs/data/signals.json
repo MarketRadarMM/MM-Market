@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-11-01T03:00:19+00:00",
+ "generated_at": "2026-11-01T03:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-11-01T03:30:18+00:00",
+   "title": "500-kV Power Grid System Set for Launch Soon",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vQmt5ZlN1VkVnYVRqZUhjY05JV0NDWDl5WmkxVGg1ejZJeUhvaFN2aENyRHp3cGk1aWFjVElFUHVWT3BrNm1pWm5FRW40UDBmS2p2YXF0ckhoaFN1allUSVVLano4cVk4V1A1bnJNWGZPaW9hWlh5bg?oc=5"
+  },
+  {
+   "ts": "2026-11-01T03:30:18+00:00",
+   "title": "MoU signed between Skynet and UniTV",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XVkxCX24tb2M0bGNiX2N2REZVOW80U2VYRVhEMlR2VFhxR29wTVluam5XQkxKSFMtbThmck9Fb21lQUxISnUzOXJrZHhNbl8wVWtwNU1BSnF6SjhxckVyRHhhTnFXYWhzXzNiaw?oc=5"
+  },
+  {
+   "ts": "2026-11-01T03:30:15+00:00",
+   "title": "ရှမ်းတွေ ကန့်ကွက်ချိန် ရှမ်းပွဲတက်တဲ့ ကိုးကန့်ခေါင်းဆောင်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/crx2d1qwdde5o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-11-01T03:00:18+00:00",
    "title": "Major Development Projects Advance Across Nay Pyi Taw",
@@ -2159,27 +2180,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/c1k234z87pdo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-23T09:30:20+00:00",
-   "title": "Analysis | China’s Myanmar Policy—Consistent but Fundamentally Flawed",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdzFVLTVTb1ZVRk1kd1VyaE1UdzNTeEVZWlZJOGhFZ1NiUXA1aG1lUmw0WUxxeFhjQUtJWS1pRE5wNWhRcjI3V0pmTXotT2ZaaHZSbE5HYkQ1UzliLXVrcDVKejFKVWJxaThzSDlMeDJZUVZRRXctcFZWV19ZWGhxNjJibWdrTVowTi1jbUlhdkJaTWZEQklyNFlySEUwcm9sa1hjTDNaV1U?oc=5"
-  },
-  {
-   "ts": "2026-10-23T09:30:20+00:00",
-   "title": "ကိုယ်ပိုင် Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLThDRU52LUtsak1nOWJNS0piWjMxU09FeUtiakRiRzVLVTIyenZTQUdqV0U3MUh5Z1l4TkMtV1AzUTNVZ0l0aDRPUkVqamU3OWl6aEJlNEFtWVZpMXdZVThneTkwajgwM2d3cnh4cmZwTHpsdTdHX2JlaEJILTlkOTkzOGJ6bHVOdTZuVUNtUXVnX1JpWXFxRHAwNWEyWENucmVDV3pXTXVUR1I3cnhvWEt3bEdqV2Rlc0dCZzkwMA?oc=5"
-  },
-  {
-   "ts": "2026-10-23T07:00:20+00:00",
-   "title": "စစ်တွေမြို့လယ် လက်နက်ကြီးကျပြီး အနည်းဆုံး ၂ ဦးသေဆုံး၊ အများအပြား ဒဏ်ရာရ",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81880/"
   }
  ]
 }
