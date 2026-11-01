@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-01T07:30:18+00:00",
+ "generated_at": "2026-11-01T08:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-11-01T08:00:20+00:00",
+   "title": "1 November 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xc2lueXU0cXBLVWVKSVpBWW1NTGRIMEFHQlhGMkpHMGNUSGFnUGJsbmhQSkNlMTZ0LVlwRm5wYXY5SG9DWGE1alhWeTVFMjBPWkE?oc=5"
+  },
   {
    "ts": "2026-11-01T07:30:16+00:00",
    "title": "Min Aung Hlaing Gives Armed Groups 100 Days to Join Peace Talks",
@@ -2173,13 +2180,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/c6kg5yr2jlzxo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-23T12:30:13+00:00",
-   "title": "ဘရာဇီးရွေးကောက်ပွဲ၊ AI အမျိုးသမီးအတုတွေသုံးပြီး လိင်ပိုင်းဆိုင်ရာအသုံးချ ငွေရှာမှုများ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c617kx5q0eweo?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
