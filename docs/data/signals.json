@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-01T09:00:21+00:00",
+ "generated_at": "2026-11-01T09:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-11-01T09:30:17+00:00",
+   "title": "စကားပုံ Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTjcxOVE0cDlEekdja0gzcWtsM2ZTYTZwSlJhSmdoaDFITXlxZ291bGdaa0dtTGdJVnNFcDZ2dHdkLTFIdmtjOEJFSkI0ZlllcHhZak1RNEtRZGpvUHVLU0ZUUzc0RWxXTy1tZkNtZ2dVMVpWNlBWdnBMWHRLZ0NMeHZ0OVl0b013V1U5UkpiLUhMMVN3V1VqWDdHSQ?oc=5"
+  },
   {
    "ts": "2026-11-01T09:00:19+00:00",
    "title": "အသက် Archives",
@@ -2173,13 +2180,6 @@
     }
    ],
    "url": "https://rfa.org/english/china/2026/10/23/china-taiwan-sanctions-paraguay-belize/"
-  },
-  {
-   "ts": "2026-10-23T13:00:20+00:00",
-   "title": "စစ်ကိုင်းအခြေစိုက် ဆားတောင်မိုးကြိုးအဖွဲ့ NUG ထံ လက်နက်အပ်ပြီး အဖွဲ့ဖျက်သိမ်း",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81901/"
   }
  ]
 }
