@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-01T09:30:19+00:00",
+ "generated_at": "2026-11-01T10:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-11-01T10:00:22+00:00",
+   "title": "President U Min Aung Hlaing inspects construction projects to develop Nay Pyi Taw Union Territory to meet city characteristics",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZnljS2k2eW9nQXJqSllocngwLUtnOFl2OFdrZTlfTzdZUk9QOGtWRkx3aFBFZzktYTRJYnVOak5xSzNZcW5OX1hfY0U0eTNBeFM5VS1qZlNBbnM4T3FlUS13a3ZLN2h2RFp4MVVScFg0SGduTXNZZ2ZFalVxVU8wc25ua3oxckpLSVhKelVvUk10UWhXZnRkM3VCV0JMWTZJOTNxbkh6NUJfaXZHVWJENlhmXzlueW1vS0FOdHlrOA?oc=5"
+  },
   {
    "ts": "2026-11-01T09:30:17+00:00",
    "title": "စကားပုံ Archives",
@@ -2160,26 +2167,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcnVNX2N2RUZVY1U5LVRyLUYwcWtQeUR6TzdmX2Qxd1AzeVU1NFg2c1hpQWMtVldDOW5fWjI1dzlYMklVWllLQk9wTnVmekJxR01UUUg5REJmRlVZSkg1YlpwOHllTGFHcmU3RjRJMHlwdkpjc0FJUTRSeVRKd3ZEeU1CWVVJOE50dEpJRURYancyYnVyTnFUQmh4M1I1ZmpsaWhSODFVdmdtdw?oc=5"
-  },
-  {
-   "ts": "2026-10-23T13:30:17+00:00",
-   "title": "China’s sanctions on Taiwan allies project its power, but with limited effect",
-   "source": "RFA (EN)",
-   "markets": [
-    {
-     "market": "fx_kyat",
-     "direction": "bearish",
-     "confidence": 0.65,
-     "rationale": "New sanctions pressure the kyat"
-    },
-    {
-     "market": "gold",
-     "direction": "bullish",
-     "confidence": 0.65,
-     "rationale": "Kyat pressure drives savings into gold"
-    }
-   ],
-   "url": "https://rfa.org/english/china/2026/10/23/china-taiwan-sanctions-paraguay-belize/"
   }
  ]
 }
