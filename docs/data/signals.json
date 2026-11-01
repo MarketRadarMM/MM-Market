@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-01T14:00:21+00:00",
+ "generated_at": "2026-11-01T14:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-11-01T14:30:14+00:00",
+   "title": "မြန်မာသုံးစွဲသူတွေကို စိုးရိမ်စိတ်မြင့်တက်စေခဲ့တဲ့ Binance အဟတ်ခံရမှု",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cx7vpy85my9po?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-11-01T13:00:15+00:00",
    "title": "အမေရိကန်မှာ မဲလိမ်မှုကြီးနေတယ်ဆိုတဲ့ထရမ့်အပြော တကယ်မှန်လား",
@@ -2160,13 +2167,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdmlIQzAzQ0dRekJYNUlrdFh1dzNCckVXQVpGQU5URTB4aVVqazJYMVBjSlkxdXF2aE9iQ25Hbmt6SEp2bExaU3oxRURyUzdMeXJzaXVpZ2Q1ekRGMWlRZ192aFlSV3JRT193TGFTQzZtd19ZQmY2STczUXRQZmYzeEw3bGZEOVR0cFA3WWlQRXBsWDhQZFpRRUoxcE5MdjBjM0tZLXlLR0R1ZGxNd19N?oc=5"
-  },
-  {
-   "ts": "2026-10-23T18:30:19+00:00",
-   "title": "News release: Arrest and legal action taken against ring leaders (senior agents) of illegal online gambling operations",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSHhpWC1pOWl4UlkxbFotMlhFOXktZ000ZzdfWE0wSDBqNUQyOHJqdUdIYV9FRWYzek5Qb2pBVTRiVi1uUGU2a0NWYVFJTHRDb2FQMk1GS2NVZWpMM3YtVjRxcG40cXJhbnZsakVjYXpVVXhiU1RFRWZPclhBS0xBQ2lFY0ZRcVdXTDktM3FXZU0zcUtJcENoQVNDTTBfa2FMaDRkQTVxWDRaU3lxaWxDVGU5QVBKUQ?oc=5"
   }
  ]
 }
