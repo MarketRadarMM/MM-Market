@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-11-01T06:00:18+00:00",
+ "generated_at": "2026-11-01T06:30:22+00:00",
  "signals": [
+  {
+   "ts": "2026-11-01T06:30:20+00:00",
+   "title": "Regime Forces Advance Toward Resistance-Held Indaw in Sagaing Offensive",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRjJ3c3pXSmFST3pGRm9mT3loYjIybmg2aW5mQ0djUnhwbDNKa2NIY25aYlZNS0Q1cFdrRjlOemt6N0xLODF4M0xwUEtobTRBS21GWm1zbV9YWjNfazQwMHh1R2dBeGdyNy1iWGozUEdCLXhfRnk3U1FVdkVKLTgwZnJ4TUQ4WUZScEtteXVKOVZYblg3TGFZUE5ONzVRODFsUERoS201b3l3azFLeVZkYlFyS0xlZEt1U1FpOGtyYUQ1dFd1cTg0Vg?oc=5"
+  },
+  {
+   "ts": "2026-11-01T06:30:20+00:00",
+   "title": "Myanmar Junta Chief Installs Loyalist Ye Win Oo as Military Commander",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaDBHT1FYNXVieVBCNGVYS0t6cGl1ZDd4bll1NW9JdWV1NW5CRG1rM2F5MldUOTM2UTdjTFAzVWE3dmVvNHZlT3pkNmM5Y1ZqTG5fMHp6M1dSdDYwUGV5c2tmMHhYUHliSWVndXdCU2lOcDBZUHlvQ0VrLVBEa1hIdzlONHIxdFpScTJpaS1lTlNjNFd5dktROFlSZnlSc0lsRTduSG5EZWJrSGowd3k0LW9oSzA?oc=5"
+  },
+  {
+   "ts": "2026-11-01T06:30:20+00:00",
+   "title": "Guest Column | Global Response to Myanmar Earthquake Shines Light on Strategic Rivalries",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYWRiRjV0ODREbElWaEFXcWxrbEQxSVJHT3ozaVYtWk1oVFlwSmZzMHBpV2NRNy1Ob1RVLVBtWUptUktEU2tDYVM3UWhBNnplbm01ZWxEbHJBc1o3U2NDY0JoSm1veFNkT3FTWFhPeGpxNzJrSUlseFJhdy14Z1Q2VFBRNTZQWEh1YnZkbVdsZEI5bHNYd3dwWGU5NUZZNEthTkV5d1dvVEQ3NGoyMjhKN09QQTJCSWhLXzhNMHlVR0hTRGs?oc=5"
+  },
   {
    "ts": "2026-11-01T03:30:18+00:00",
    "title": "500-kV Power Grid System Set for Launch Soon",
@@ -2159,27 +2180,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNC01aWNKRjRzNmhiSE9Qb3c5NW5RLW9rZlEzLVlwWDVhbi1KdmJXS0pUc0lycHVoMEhyOTVudzgtZ2dwNS1vMzBiVGV4RE1GdWJRX29RcloxZGlpSFZjR01ZMGxYSVVVZHM0UXdDTlBDZlRpRWlGRlVaeW9OU0hIT3pnUFBHNWpHVWZLTm9PeHVuQ25Va193VEl3Q19KMWV4?oc=5"
-  },
-  {
-   "ts": "2026-10-23T11:00:22+00:00",
-   "title": "Min Nanda and Shin Mwe Lon opera to be staged at Waziya Theater",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQTJ2R3QtYUt4UC1oMnN3NjBuTVhnUmlBbG03UVdwNllvVHVIbzFPTEZxVkxjYVhPM2lSUXVCRldNYjNmaXJtRGVkdHdZc0RsMXVTWU1pUWQtTnY1NWc2VFk4cDJMRGZyREtHUmhhNG1SX0VDZmRWNGd0Rkc0X2xwWEwtdjhQdG1NMEdoQThNZElhdw?oc=5"
-  },
-  {
-   "ts": "2026-10-23T11:00:20+00:00",
-   "title": "Myanmar charity worker who built a lifeline for the poor loses it all after military coup",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/myanmar-charity-worker-who-built-a-lifeline-for-the-poor-loses-it-all-after-military-coup/"
-  },
-  {
-   "ts": "2026-10-23T10:00:17+00:00",
-   "title": "KNU မပါတဲ့ KNPC က ငြိမ်းချမ်းရေးအတွက် တကယ်လုပ်နိုင်မလား",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c1k234z87pdo?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
