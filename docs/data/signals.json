@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-11-02T06:00:22+00:00",
+ "generated_at": "2026-11-02T06:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-11-02T06:30:20+00:00",
+   "title": "Scientists uncover hundreds of software vulnerabilities in cars that could allow hackers to take over your BRAKES",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOalpkbGFiUnZtU3ZEMzdfaXRaempDQmJLU3FDMDZZeVV2Tnhfci1OV0ItZE9YREtwYUpjQUVVcjljSGwwRDk1UUJoSDJlcGdtWHhBMHlyZWZ1NHV0aGk0TlVKc2o0SE14dmF0ckZaMWp4ZGpETnJOS201SWJnYkRsSllNUGFDZUV6bTYxNEM1NlVtWjRwSFVqOGJvRnFuUnRmU2xydnF5WmJ3V0Jidy1zX041R3czWWRMVlBvUUozNA?oc=5"
+  },
+  {
+   "ts": "2026-11-02T06:30:20+00:00",
+   "title": "Trump ‘checks in’ with Netanyahu amid fears of renewed hostilities – WSJ",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYVNVUFFBdVA0STMwWEZKTC0zOUh6ZXl4MGM3ZGlHM2NPMTNOb3BYdGQwNW1YZ19vVG9fZVU0NG9DN3dLNFF6WmFtZm45bTNCZVF5RmZ1aWo3bEtrSE5PNEJjNjZIS2ppcnZYOGxtNzhEaDM5ZkUxbTVvZ0Z0Z0k3X09TVlktUmM?oc=5"
+  },
+  {
+   "ts": "2026-11-02T06:30:19+00:00",
+   "title": "2 November 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XRWFySHhCUHZzSkc2YUVXTHpjdjRfa1U3dzQ3TTc1c1dpdXNQcEpLM211UFM2V2JVdVExY1I4cDR6VXI0VmhuSWVHSTVwNkJfVVE?oc=5"
+  },
   {
    "ts": "2026-11-02T05:30:18+00:00",
    "title": "အနုပညာအိပ်မက်ကို လျစ်လျူရှုထားရတဲ့ လက်ဖြောင့်တပ်သား",
@@ -2146,27 +2167,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vY3NnVFd4dGpWay1Pc0JqUjJ5R2xLRHg4QndpLU1YcE1vUEdkLWxZSkpyUkhkQXZNcTMxb2lLMDZWamRVY3hfaDdhakpWVlBvVUhscWRLSFNaRjB2NzNMeTU5X3ZHY3N1VkMwSGJCWi1nb0V2MDJXSm5CYnJlZw?oc=5"
-  },
-  {
-   "ts": "2026-10-23T20:00:22+00:00",
-   "title": "Myanmar startups join ASEAN-Korea Startup Week 2026 in Seoul, Daegu",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPak9pX29WWlhGTS0yR0tIOUMxalVoS2V4MFM0ZTFuRjkzb1lpU0lZOFlCVEdNWWVfMlBjRThGLWpocVJfTjd1dlNxcTNab3l4Z19GbEpTTDZVOTBoT1VmSzlMWlVTdXZnZURsUlRjQkI4QUotX3dxZ2tYYVdacmQ5cEw1YUczSTJfY3ZyZnVqYnlUQzFxdkE?oc=5"
-  },
-  {
-   "ts": "2026-10-23T20:00:22+00:00",
-   "title": "Pyidaungsu Hluttaw Speaker meets Myanmar Embassy staff, families and trainees in Belarus",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRnNDd0xvQjA5UjlNaGE0S1BVSU5UeExKN01wWkdFNjcyUFl5Tkl2ckJPUFR6RHI3SDRlZEtGbzRPUUNyem9ySF84cWc3YUlUbWZ1Z1dtclNNN05EeUw3SWNOQXZwa2EzRm9LU3dtMFlXY2JuWFpzWkRHaWFiYTFReFBQM1RmRlVDNXItaVhlalFiRGx4MTFKdWNiUWU2REkxNmRRWi1GNWEwV2I3ZEVUcmxR?oc=5"
-  },
-  {
-   "ts": "2026-10-23T20:00:22+00:00",
-   "title": "Government and people urged to work hand in hand to serve State’s interests",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVVhRNnRad29teWpyWEs5ejFZaWV4bHBhemdVdVpJcTZRX3N3aWx1eS00Y0I1b0pDLUJ5Vm9rdnBBNVFGWTV1MjYxMVZrbG94WEtpSFU0N2FzSUJsUzZRZzk0UkV3SjE1OUQxQXFMeHNFTExINHZmMzRzM0tNUGx6MFVoZC1XMXplMDJROTF0LWdUR1Q5QW1kd3p5UVFGMUJ5?oc=5"
   }
  ]
 }
