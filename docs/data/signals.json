@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-02T19:00:28+00:00",
+ "generated_at": "2026-11-02T19:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-11-02T19:30:20+00:00",
+   "title": "Delegation led by Minister of Foreign Affairs of Indonesia pays a courtesy call on President of the Republic of the Union of Myanmar U Min Aung Hlaing",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMUZpdGxpV29NV1A2VzRDOHdQWWhraVBsQjd0RHRLUGxiSlhQcndJc3lyWElnV1A3Q0s1YkNpb1J1VGxTRUFndlhZcUZtWEtmLUE5c09ncXdDZzVhdzVxNnlQT2Itd2Y5OHZ2YVJ4RU9GcGpWaXlpTXB2VlVXQXFEbUFPczB6Sk5Mb0ZwVG9tYzJjUTNLUU15NGJpZHo5N2NrX1NMQm9OV2pfTTYzYnIxMnZOOHNYa0U?oc=5"
+  },
   {
    "ts": "2026-11-02T19:00:26+00:00",
    "title": "Tatmadaw columns recapture Khampat, an important Myanmar-India border trade town on the Kalay-Tamu Road, accelerating efforts to reopen the route",
@@ -2172,13 +2179,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/cqy0rp5jlk3ko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-24T15:30:13+00:00",
-   "title": "ရေကူးကန်ကြီးနဲ့ဇိမ်ခံသင်္ဘောက ကင်ဂျုံအွန်းရဲ့လျှို့ဝှက်အပန်းဖြေနေရာလား",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c6d09dn0vzgdo?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
