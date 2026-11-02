@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-02T18:00:21+00:00",
+ "generated_at": "2026-11-02T18:30:23+00:00",
  "signals": [
+  {
+   "ts": "2026-11-02T18:30:21+00:00",
+   "title": "သော်ထဲထ Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWXZ0bEVtb05SRzlNUlozcXo5bWd2Vy1XR004WXFfdE04QWh6NkhEQVAwLUVJR0VNS0pPd2tlNkJsM1k0SGNzTHJpVXpWZHNLcUNvTXMzaHA0WHpFU2JNSGp6VjduRlY4NW5aVy11SDlHQzc1ejhkRl9NN3EwWTVSVDhtcWwtMXJJOFdPcF95Rl93SXVaZWlwbTBNbw?oc=5"
+  },
   {
    "ts": "2026-11-02T18:00:20+00:00",
    "title": "အားဖြည့်ဆေး Archives",
@@ -2153,13 +2160,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/c620regwn9j9o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-24T15:30:13+00:00",
-   "title": "၁၉၆၂ နဲ့ ဦးချစ်လှိုင်၊ အောင်ဗလ၊ ဦးသက်ထွန်း- ဗိုလ်ချုပ်ကြီးနေဝင်းနဲ့ လူသုံးယောက်",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cwp93m03nkdko?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
