@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-02T04:00:20+00:00",
+ "generated_at": "2026-11-02T04:30:17+00:00",
  "signals": [
+  {
+   "ts": "2026-11-02T04:30:15+00:00",
+   "title": "ဒေသတွင်းနိုင်ငံများကို ခြိမ်းခြောက်လာသည့် မြန်မာ့အကြီးစားမူးယစ်စီးပွားရေး",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/82017/"
+  },
   {
    "ts": "2026-11-02T02:00:22+00:00",
    "title": "ရခိုင်မှာ စစ်တပ်က တစ်ရက်တည်း မြို့နယ် ၄ ခု ကို လေကြောင်းတိုက်ခိုက်၊ ၁၂ ဦး သေဆုံး",
@@ -2160,13 +2167,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTEplako4ell3cW80andhMktfS2M5WTJUazM3VXJxRExJSHRaUXNhc1dkRUJmNUREdTNwdVlaYmgycDBtUzFHS19NZkprMElYRGNlSDdIMml4THJac0ZGeEVMZ0tpd3ZCNENvRE11ZjI1UGVCbkdVU2QtTTZ5UmhNTThiS1FVOFgtR1AtOEd2eEpyS2s?oc=5"
-  },
-  {
-   "ts": "2026-10-23T20:00:22+00:00",
-   "title": "27 insurance companies operating in Myanmar, discussions held to expand 6 new types",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUzJHV0dJaUZmOVl0Mk5GS21jczU5cUcyZmpQd1pLSnhTRnc3cXE3UUY1NFI1SjlfMEtJNUdwYTVXWHM0LUhsNFgyN1pRRFJzc1NLbVBJVE1HcFJFWWh3YV9lWG5NMkUyTThTdlhENXBfVTNhUmprdkhaSG9DUzk4XzN5MGt6dlZnMThoSFI3QThIT0RBczFHTzYxaWV2YU5pYVdaM1JRNGVyTXc?oc=5"
   }
  ]
 }
