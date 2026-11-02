@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-11-02T18:30:23+00:00",
+ "generated_at": "2026-11-02T19:00:28+00:00",
  "signals": [
+  {
+   "ts": "2026-11-02T19:00:26+00:00",
+   "title": "Tatmadaw columns recapture Khampat, an important Myanmar-India border trade town on the Kalay-Tamu Road, accelerating efforts to reopen the route",
+   "source": "Myawady",
+   "markets": [
+    {
+     "market": "pulses",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "China border trade affects bean flows"
+    },
+    {
+     "market": "rice",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "Border status affects rice exports"
+    },
+    {
+     "market": "fuel",
+     "direction": "neutral",
+     "confidence": 0.45,
+     "rationale": "Border routes also carry imported goods"
+    }
+   ],
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSk1BalhlU2lLd2o4bll6NkhpbjB1aTRWOVQ5NENtSUlvN1FRNE5Hb3Q1alFacHRFQ0k0U04xcDRrYVBNZ0FHdTFRTXBiS0pRd0NZOUtKVXJSNlAxZ0QtaTk1dDJhVUp0UEZZSUlBckhGQ2pLRjd6QTdzenU0MXhpcWZNN1FVb19hM19GLWstZ2J3NGRfTVFGSjBDN3hjdTMwWlJSYmJmUDRpZHRUaExZOW12Rk1tQQ?oc=5"
+  },
   {
    "ts": "2026-11-02T18:30:21+00:00",
    "title": "သော်ထဲထ Archives",
@@ -2153,13 +2179,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/c6d09dn0vzgdo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-24T15:30:13+00:00",
-   "title": "အမေရိကန်နိုင်ငံရေးသမားတွေ သက်ကြီးပိုင်းတွေဘာကြောင့်များ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c620regwn9j9o?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
