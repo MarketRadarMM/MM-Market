@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-11-02T05:00:21+00:00",
+ "generated_at": "2026-11-02T05:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-11-02T05:30:18+00:00",
+   "title": "အနုပညာအိပ်မက်ကို လျစ်လျူရှုထားရတဲ့ လက်ဖြောင့်တပ်သား",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/82023/"
+  },
+  {
+   "ts": "2026-11-02T05:30:18+00:00",
+   "title": "ရခိုင် ၄ မြို့နယ် ဗုံးကြဲမှု မွေးကင်းစကလေးအပါအဝင် လူတစ်ဒါဇင် သေဆုံး",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/82034/"
+  },
   {
    "ts": "2026-11-02T04:30:15+00:00",
    "title": "ဒေသတွင်းနိုင်ငံများကို ခြိမ်းခြောက်လာသည့် မြန်မာ့အကြီးစားမူးယစ်စီးပွားရေး",
@@ -2153,20 +2167,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVVhRNnRad29teWpyWEs5ejFZaWV4bHBhemdVdVpJcTZRX3N3aWx1eS00Y0I1b0pDLUJ5Vm9rdnBBNVFGWTV1MjYxMVZrbG94WEtpSFU0N2FzSUJsUzZRZzk0UkV3SjE1OUQxQXFMeHNFTExINHZmMzRzM0tNUGx6MFVoZC1XMXplMDJROTF0LWdUR1Q5QW1kd3p5UVFGMUJ5?oc=5"
-  },
-  {
-   "ts": "2026-10-23T20:00:22+00:00",
-   "title": "Traditional Chinlone Enchants Pakokku",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rNW12OUpuX3hJRXdHMDJGQ1JWc2Z6Qk9rT2stUXcxd3FvOTN0dHMyZWFWbWFyZDR6M1hIZkpzUTdDX216cmFVN1dVUnpZcjZmdHJZRDVrbkFqb2VySzdsb0JpZjBfREFMMVJ4a1dGWQ?oc=5"
-  },
-  {
-   "ts": "2026-10-23T20:00:22+00:00",
-   "title": "Meiktila promotes agriculture, livestock and regional development",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTEplako4ell3cW80andhMktfS2M5WTJUazM3VXJxRExJSHRaUXNhc1dkRUJmNUREdTNwdVlaYmgycDBtUzFHS19NZkprMElYRGNlSDdIMml4THJac0ZGeEVMZ0tpd3ZCNENvRE11ZjI1UGVCbkdVU2QtTTZ5UmhNTThiS1FVOFgtR1AtOEd2eEpyS2s?oc=5"
   }
  ]
 }
