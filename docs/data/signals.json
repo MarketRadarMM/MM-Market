@@ -1,6 +1,76 @@
 {
- "generated_at": "2026-11-02T15:30:23+00:00",
+ "generated_at": "2026-11-02T16:00:26+00:00",
  "signals": [
+  {
+   "ts": "2026-11-02T16:00:24+00:00",
+   "title": "5 pawsan paddy varieties grown in Yangon’s 15 townships, expected yield per acre is 72.25 baskets",
+   "source": "GNLM",
+   "markets": [
+    {
+     "market": "rice",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "Rice-market story — read for direction"
+    }
+   ],
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMkI4TUwyNDR1TzFEUDRibDRoYXIwYXJVVjhVZEp3clI5REpvMlFxenU3eC1MVGhaVU8zT1ozeHc1dGZSZEVEZzRRclJyLWNDRzU5Q3ZtVjQ0aXREb2Z4a0ppa2NxNjNVZ2toLUNPREtTRFlzMEMyd1k2TDFYM3hTNU45bmpoekx0azFtNnVGSTBNbUtPTnhrVGRXc0JyNGZ6MXN6TkFTMThCUVRZODFCaWUybTdxeEdrNExZNQ?oc=5"
+  },
+  {
+   "ts": "2026-11-02T16:00:24+00:00",
+   "title": "Geological survey and drillings in progress at Inya Lake",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUU1md1Q4azQtZWNDMUNzVzBCVE1NeDVMN3JPdW10Y1REeXpZMVlwdjN2YjRNOFZhLXNNdktVemFHWDVFTjVCVmFsWE9aY1JZWHh6Y1ZsSzhUdmlxNmI0eWZoTXRFZ1JTQ3RyQVJYa1YyWEhqazFLNU41Y1FRc1VfQm5JaXNYTlA0?oc=5"
+  },
+  {
+   "ts": "2026-11-02T16:00:24+00:00",
+   "title": "YESC instructs to continuously monitor power loss conditions",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcFNQQmlZLUF6RXB4U2xpM01tY213VzJfOXk2MDJzb0E2akIxWmRkZnRzOVN2N2w4VWlQYlZpWndPZVhoNGZRdldvN2x3RDc0WThCaS1OTXdMZVJZeHBjaTUwOHpHQ0gya3FCMnN5a3gxUzBSZ1BsMl9odHF3QjFpT05TZ1RpZ0wyVmpEeGRB?oc=5"
+  },
+  {
+   "ts": "2026-11-02T16:00:24+00:00",
+   "title": "International standard Arts Centre being built in Yangon",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaE5ZQncwZGpQaXFOVURzdEJuS2JWbzFUUlFyYnlfZUZJTzZjc2ZEcVFUMTRpa1BaYlNNTWowOUxSNEQ5TUJmVlc1RVV4TmVXcE8tZ3p2eGVocXlyMnY0bWlkaVNyOTJjMzRIY1AtaUZsU3duWGc2OUZxRzNDZTMzNUMtX1NkZGlq?oc=5"
+  },
+  {
+   "ts": "2026-11-02T16:00:21+00:00",
+   "title": "ရုရှားစစ်သားစုဆောင်းရေးတပ်ထဲက လွတ်မြောက်လာတဲ့ မြန်မာလုပ်သားတွေ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cke8rq7eng6mo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-11-02T16:00:21+00:00",
+   "title": "အမေရိကန်ကြားဖြတ်ရွေးကောက်ပွဲ သိသင့်တဲ့ ၇ ချက်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cmy8319vj7xno?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-11-02T16:00:21+00:00",
+   "title": "ရခိုင်မှာ စစ်တပ်က လေကြောင်းတိုက်ခိုက်မှုတွေ ဘာကြောင့်ပိုတိုးလုပ်နေတာလဲ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/crgqwgz93gvgo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-11-02T16:00:21+00:00",
+   "title": "\"ပြေးစရာမြေမရှိသူများ\" – အရှေ့အလယ်ပိုင်းမှာ အနှိပ်စက်ခံရပြီး အကာအကွယ်မဲ့နေတဲ့ မြန်မာအိမ်အကူများ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cj9vp08wvk9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-11-02T16:00:21+00:00",
+   "title": "သရဲတစ္ဆေမြင်တာ၊ အနားမှာ တစ်ယောက်ရှိနေတယ်လို့ ခံစားရတာတွေက ဘာကြောင့်လဲ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c920321jpnzvo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-11-02T13:00:22+00:00",
    "title": "Myanmar Regime Ramps Up Civilian Airstrikes as ASEAN Envoy Visits",
@@ -2090,83 +2160,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9BVlhVREFiRGtab0piMzdPZ2Fpa0NJcHdGeHdDaWM1QjF0UXJEZXFOT2lmVUVic2dqcHFBN2ZsYzNmYWFfME9EZ1ZpVDZkc3c5VGk3emZwTW9ic0pUUWwxUmpIR25McmJLdVRYRU91SWRxU1BEdTR6WEt3WFQ?oc=5"
-  },
-  {
-   "ts": "2026-10-24T06:00:20+00:00",
-   "title": "Myanmar delegation attends 16th China-ASEAN Prosecutors-General Conference in Brunei",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOandEejNTbjlpeTducVBSUlN4Z3BKRlMtc19yQ21OTkl4QmJHZTFxZHBQcjkxUmdFWnBjN1dWenRCYUlscTB2UHNNV0hma1BBTkhXNVNROW1GVmpDRWpsVUIxNmtVQ1ZOOTJ5bmNDcG12aFZNZG9ERHo5cTlvMkJHU2p1UkpOUHBIWkpBalp1N3I1eTQ0R2phVjhKdjVGZm1oN05NYU5QRUlNeVRSTlE?oc=5"
-  },
-  {
-   "ts": "2026-10-24T06:00:20+00:00",
-   "title": "52 KNLA, PDF members rejoin society",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Qdy1EeEh5NnVsUFBRX2hnYjl0VXRpWnVxRU1wZ09kSU0zYTNtUk1pUXVsZG5tSWI5LWJ0YWlGS0lpN0NfcTFseER1alNGakdrUTFxOEtxX0I2ZjA5NzNYV1FkcUhzVTl5cDNv?oc=5"
-  },
-  {
-   "ts": "2026-10-24T06:00:19+00:00",
-   "title": "Myanmar Junta Boss Forms New Government With Eye on December Election",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORGhsTTRZTVdvSjc4TGEzTTJvWVNrb0U0WjYtUzRrd19jQkZRMjBHYXY1NFh1TW9rYnUwcEFkXzFTUUtyTl9qTk1QNW5ybWpoOHo5ZEtLSll6amhveTd5cy1XQ1hDdnVFdFI3a0Z6T085eGdHNUlybmpuaE9zU1BaUVZQSE1mamQ0a05hUU94WTJ1b0tDU0hWRl9CVThzT2hpbzJDUlVBYTJramZ2RHozUUpZdEc?oc=5"
-  },
-  {
-   "ts": "2026-10-24T04:30:18+00:00",
-   "title": "Palm oil reference price shows uptick",
-   "source": "GNLM",
-   "markets": [
-    {
-     "market": "edible_oil",
-     "direction": "neutral",
-     "confidence": 0.5,
-     "rationale": "Edible-oil story — read for direction"
-    }
-   ],
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04dm1ldkJXa0s0VkJuZUFSN1ZlelVhS2FzOVdBSWplcDJXREYwcWhicGFKQ1J5cEZBZHFSQ1JGbEs4SWQ5RkVIUnZ1RGJsbS1CUXVrRDdJX0xEdVpBcTdhSEE2MTI4T1Z4ZEl3QTI0UQ?oc=5"
-  },
-  {
-   "ts": "2026-10-24T04:00:18+00:00",
-   "title": "99 Chinese nationals apprehended in online scams and gambling crackdown in Monghsat",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNVZqakI5TTdNMlk4NWhQYmNJZzdGaWwxU2Nlcl96dWhaZTZSc3VfMndWRWJUU0E5SUF6NzhQZDM2dk9OU2F4bk5lZGozX0ctaWYxSjBhNEJydlZRS19sUjJWWlptLVc3dVNRbmNmTFprdWhVdGZWRzRxZkk3Z0FrNUFvSnBILTl2YVhqMFh1ci1ON2dLMHFONmpsTG13QXFxVl9wWGFkYUlSUWxJ?oc=5"
-  },
-  {
-   "ts": "2026-10-24T03:00:20+00:00",
-   "title": "Hlaingbwe’s MSY village project activities inspected",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVFZQQlJYbmNHNnNyYzJNTFlJTzdJV3JWTWYtR1c1TG9sUDhIX1lGODhIM043WVlkUjhEQ01XdGM5Y0dEblJMZFJGLTFvcHR2X0RwcG1kc0QzdE9UODl3bkw5dU9wdG1kNk1BNVJtLUhwV0gtV0JEd1BKV0FKVGY1Y2VB?oc=5"
-  },
-  {
-   "ts": "2026-10-24T03:00:18+00:00",
-   "title": "DHPI seeks tenders for 45,000 gallons of diesel",
-   "source": "GNLM",
-   "markets": [
-    {
-     "market": "fuel",
-     "direction": "neutral",
-     "confidence": 0.5,
-     "rationale": "Fuel-market story — read for direction"
-    }
-   ],
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9fM1c0ekdtVVZvQ2owNTVWSVJZdGFJcXFEemtiY1J2TVJ4eXRLbG5CeEREVlh1eFZfdzhlR1ZfR2NhVEV2LVJUZ0dlY2xvbGIyYUU4eEpqNlVEa2VCMUNZVlYtV01FSWZYYUoxa1U3M0xvVEV3U01yRjNBcw?oc=5"
-  },
-  {
-   "ts": "2026-10-24T03:00:15+00:00",
-   "title": "အောက်တိုဘာ ၂၄ ရက် သတင်းအနှစ်ချုပ် - ဝေဖန်မှုများနေတဲ့ ထိုင်းရုပ်ရှင် မြန်မာ့ယဥ်ကျေးမှုကို မှီငြမ်းထားတယ်လို့ဝန်ခံ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c64g145yv9lro?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-23T22:30:20+00:00",
-   "title": "Vice President Daw Nan Ni Ni Aye attends reception marking 77",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSTdEVW03dkV4YXhmMGVjeFRwcEJFanQtOF9VWUtUVnVRczdFeVkySG1MZWJPc2h0SWdzakpxZlpOUzNtX1EtLTRrZG9pSy11STlCQlRpSS1qUVRNNGRKVk91UVVKUkhna2p3bjM3VUZaUG9DclF5aFFBZ0xPVUp2Wk96SFB6ckpXSjc4M2J5LURidDBOcEpvanJyZXBGWFlITVFaems2VjJKdzRFRTFqc0d4ZktZVjItOHlfUjd2aXZ6UEk?oc=5"
   }
  ]
 }
