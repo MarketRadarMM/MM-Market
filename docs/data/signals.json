@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-02T17:30:32+00:00",
+ "generated_at": "2026-11-02T18:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-11-02T18:00:20+00:00",
+   "title": "အားဖြည့်ဆေး Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOenc4RTl0ZnFqRmtlN2NpVElRMm5HTThNTS1oMTVxd2o2SWlzSnhhTGdsdG9JUVFnUlZnaTUzQUJlblJYVDlZS04yeTNSY1RkWTl5VmluSktOeENnUmo5alBaTmhTeU1pNzlUVmJMczhOdGNTaUFaNm5hZkpKVzR6ekxfeWppVUJ3RFB6VW9JUkFBNFJhWFZOYi1RX01FSE1MRTRBYlFlOGVCS29VUExYeEdXQTRhaktXNjNNMzBqODRocEJYNHhQbV9GQQ?oc=5"
+  },
   {
    "ts": "2026-11-02T16:30:19+00:00",
    "title": "သားဖွားဆေးရုံ Archives",
@@ -2153,13 +2160,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/cwp93m03nkdko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-24T11:30:16+00:00",
-   "title": "ရုရှားစစ်သားစုဆောင်းရေးတပ်ထဲက လွတ်မြောက်လာတဲ့ မြန်မာလုပ်သားတွေ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cke8rq7eng6mo?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
