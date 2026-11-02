@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-02T10:30:29+00:00",
+ "generated_at": "2026-11-02T11:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-11-02T11:00:20+00:00",
+   "title": "Myanmar junta attacks kill 12, including infant, across 4 Rakhine townships",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/myanmar-junta-attacks-kill-12-including-infant-across-4-rakhine-townships/"
+  },
   {
    "ts": "2026-11-02T09:30:16+00:00",
    "title": "ဟားခါး- ဖလမ်းလမ်းပိုင်းတွင် သားအမိ ၃ ဦးနှင့်ယာဉ်မောင်းတို့ ပစ်သတ်ခံရ",
@@ -2160,13 +2167,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9iR183bWhuTlVpZzcwMWRneDBtU0sza1paOWZhZ1V2N1E1andLNzFFNUxYVDRqQ2ZVclQyMk5oR1luWFhiUXZnX3FTaWd2ZDVZU2c?oc=5"
-  },
-  {
-   "ts": "2026-10-23T20:30:20+00:00",
-   "title": "7th Myanmar-China High-Level Think Tank Forum held",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUko0SU9PMlVkbUlxZDE3eEtpdzVvYWtQdHlUbElFUzdsdG1FdUFvTWd4ejEteEVicTY1bFRDeXRjWjZqU3liODFwcmVweFR5RGdmeTdxMWxmbjRkUktYazlVX1BmN3J4NWxaQm8zbnR6OVFDZHdnS2RRTDMxRVRtNQ?oc=5"
   }
  ]
 }
