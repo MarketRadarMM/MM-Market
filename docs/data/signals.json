@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-02T12:00:25+00:00",
+ "generated_at": "2026-11-02T12:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-11-02T12:30:15+00:00",
+   "title": "လနဲ့ချီကြာမယ့်အယ်လ်နီညိုဒဏ်ကို စစ်ဘေးကြားက တောင်သူတွေ ဘယ်လိုကျော်လွှားကြမလဲ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c3qjn4jnqe9eo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-11-02T12:00:23+00:00",
    "title": "Business | Regime, Thailand Discuss Russian LNG Supply Route via Dawei",
@@ -2160,13 +2167,6 @@
    "source": "Frontier Myanmar",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOUFvV1NzSmp6ejBTQWlmYTJLU3poQVVtd1JQYzJPMlFaVk1rRnZtLXJOaEdiaFZuSnRqeHk1ek1YTHV6UFpGd3BSWlRMODJtNVlQWFR1RzFTeWxhX0NJMUJHcVZyMXgwRUZwMlN2VFhjQUNPaGNtRmVDSjdYS2hJNmFjVjFnbURkUUtvSDlvQ1RqN1RsUnpuaTNn?oc=5"
-  },
-  {
-   "ts": "2026-10-23T22:00:19+00:00",
-   "title": "Live K-pop show makes South Korea more real to former North Korean arts troupe singer",
-   "source": "RFA (EN)",
-   "markets": [],
-   "url": "https://rfa.org/english/korea/2026/10/23/kpop-seoul-north-korea-escapees/"
   }
  ]
 }
