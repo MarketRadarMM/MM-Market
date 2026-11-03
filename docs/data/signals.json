@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-11-03T11:30:17+00:00",
+ "generated_at": "2026-11-03T12:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-11-03T12:00:17+00:00",
+   "title": "Myanmar military airstrikes on two schools kill seven, including children",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/myanmar-military-airstrikes-on-two-schools-kill-seven-including-children/"
+  },
+  {
+   "ts": "2026-11-03T12:00:17+00:00",
+   "title": "US prioritises own interests over Myanmar’s democracy in new strategy statement",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/us-prioritises-own-interests-over-myanmars-democracy-in-new-strategy-statement/"
+  },
   {
    "ts": "2026-11-03T11:30:16+00:00",
    "title": "30-day return requirement annulled for MOU workers’ contract extension",
@@ -2165,20 +2179,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/cm5yn5l3l93go?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-25T11:30:21+00:00",
-   "title": "How not to Grant Autonomy",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jSmlXN3ptU2hYblduMkNjV3NmMTdtcl85VWR2c2o1TUdLaFJyYlM3NnJFd2Q5LUZnSTdwcnVDcEFtRDdnYjcwelE3MzhTLXZLbUJEck1oVHJSYmVHcGdZ?oc=5"
-  },
-  {
-   "ts": "2026-10-25T11:30:21+00:00",
-   "title": "စတော်ဘယ်ရီ Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOb2w1bjlxZEkwdUVLekJwZXFZMVhlUk5nQVItdXA1SkljQWg4Zm5rdXNBTG51V2Q1RXNiRWUtLWtWTWlSN0ZLMno3Z18teGFpeWpjejFCVS1ka2F3Q2d0ZjdNRjFLR0RYNHhIZzJlRXgtdVNmWVcwWkZRZ0FMWkRIRHBIOXh4UjZYRHp6dzhSeVVfTlFiMDluUTZxYTVsR2NyTnZkSzlvWVZBYkFjdWlUeHBqMGh4cFUxZFRONlhPTQ?oc=5"
   }
  ]
 }
