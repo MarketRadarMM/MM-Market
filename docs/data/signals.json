@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-11-03T12:00:20+00:00",
+ "generated_at": "2026-11-03T12:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-11-03T12:30:18+00:00",
+   "title": "Analysis | China's BRI Plans Take Shape in Myanmar's Rebel-Held Borderlands",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb2J2aktpeFlQVFZpZDRUczlDdWItZG9VRWtmZXlVeGFmeUNuMUN2TDBDdnhIVmdnNDJIcFAwakh6a2VQWTVtSXU0VHVHU0g3eUlMOGtObi1LanZheS1LT1FXbFBUYzlKUXNDWFZKSzFRdzMtZ0dmMWFLZEhFRUdmc0lNOHZtb0FjcmpHQ0VDTDFKUjd0SEpXOE8xUHhBbTRjeVVyTzQ2S3BzS0pmbENZ?oc=5"
+  },
+  {
+   "ts": "2026-11-03T12:30:18+00:00",
+   "title": "Thai Military Chief Summons Myanmar Attaché Over Border Fighting",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ1h4bHNBNXdIc1FXWmk1ZzZnYzJMdVA2dmxmdG80RVEzZWRDT1hndlpBb0o2QTlDejlFTEFMRFN4U2tCRUVoQU1ldEY1a3Z2ZWd0VlQ4VlV1clBxc2g2dEZYQmI3bml3TUtBUFVJNUMzSEZkNDhyUmxDalFIQUxxVzBsYTJweU9DYi1JT0JIcVlueE1KbEFCcFpWSTV5ai1HZHpJT1AxT01OZw?oc=5"
+  },
   {
    "ts": "2026-11-03T12:00:17+00:00",
    "title": "Myanmar military airstrikes on two schools kill seven, including children",
@@ -2165,20 +2179,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT0ZXN0pqSVM3bjMyNzVKRk1sSkJJQklsS1dXX0ZaaE9qOHFFa2p4bjVqenIwNUpZWk9ITUpoZG5ZbTdxN0tkUEFkbmRVQW1leXhtNGFuTWlCdmozZU5ZTWV5cTdCRjRfQW90SWUtTDJLaG5hYTVKajhYcUxHeGlHTjBlc1BxRUJPYWZUWXhKTW5Xa1FzQ0Jya3NHb3pWeWt5Z2dmR1N0YWpOVzhUTnppeW5NRzZMU0JwaGc?oc=5"
-  },
-  {
-   "ts": "2026-10-25T17:30:16+00:00",
-   "title": "Bashi Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TdmNfUEp0Mkw2VzlZTkE5VU5JZHBMekdwVHN5VC11WS0xSDhCWXBNTm4yU01ncnYtS2xRVlBRWXl6RGtMOUJDZVVHWk1jUQ?oc=5"
-  },
-  {
-   "ts": "2026-10-25T13:00:16+00:00",
-   "title": "အစ္စရေးရွေးကောက်ပွဲ၊ စစ်မှုထမ်းစုဆောင်းရေးနဲ့ ခါးသက်သက်အမှန်တရား",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cm5yn5l3l93go?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
