@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-03T08:00:20+00:00",
+ "generated_at": "2026-11-03T08:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-11-03T08:30:15+00:00",
+   "title": "သက်တမ်း၀က်ရွေးကောက်ပွဲ ဒီမိုကရက်တွေမျှော်လင့်ထားတဲ့အတိုင်း မဲနိုင်မှာလား",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cmvg69vp7zy0o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-11-03T07:30:14+00:00",
    "title": "Mother and 2 children shot dead with driver on Hakha-Falam road",
@@ -2172,13 +2179,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLWl1aWhiYkRWOW8tV0JzY3B3UDM2ZjJPdV9xaW9kRFllQ0pwVlVzQmxfV0ZveldVa1VBODZfTl80OS10QmMyQWNaQXFEVmFOVTdrLUFZZDZaenZURGROcHZ6d0t1X2JUZjRCTFB3STF1M0hYaG81MHA2azAtWWpzbUdkbmtWVEIxLTlReVdEYXJfNlp4aWtIWXZYeE8zYVZ3ajg3cWI3TmpzbGVKUm5za1hrMFVCUTNsZWc?oc=5"
-  },
-  {
-   "ts": "2026-10-25T03:00:17+00:00",
-   "title": "အောက်တိုဘာ ၂၅ ရက် သတင်းအနှစ်ချုပ် - ပြင်သစ်ဆန္ဒပြပွဲ လူ ၁,၀၀၀ ကျော်အဖမ်းခံရ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c6zjxge3mrr1o?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
