@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-03T06:30:17+00:00",
+ "generated_at": "2026-11-03T07:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-11-03T07:00:19+00:00",
+   "title": "တနင်္သာရီနှင့် ကရင်နီတွင် လေယာဉ်ဗုံးကြောင့် ကလေးများသေဆုံး၊ ကျောင်းများ ပိတ်ထားရ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/82050/"
+  },
   {
    "ts": "2026-11-03T06:30:17+00:00",
    "title": "Can an electrolyte drink really stop you feeling tired all the time? A glass a day tackles exhaustion, cramps and headaches, users say",
@@ -2172,13 +2179,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxd0swbk5GU3RFbEZtQm05ZnktLTJ2d1dyOUduYTFldDc3aDBzeUxuWUlBS0M5VEp2QnVnbGR0b3dLcWNCYVo0Tndta01XRG51emc?oc=5"
-  },
-  {
-   "ts": "2026-10-25T00:30:15+00:00",
-   "title": "အငြိုးအတေး Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVEFjNTI4NVJuRnY3azBFOXNLTnJiRXRjQUk4aDVsSEVBTEY5QUw3bFp4bjVDS2pRVDhuc0RCNVlpOU9mNWlUZlVWbS1VTkVyRmp2X090SUlUa1YzZkJLTHdTNkVnbi1OUmUzUG03OEZtYkdUTlFFQTc4djZZTHlmcWllUTJidGpWdjVMVTkxaVUxTzQtb0hWMVlSb0lrSUFNSy1femEzeDdGdXJsb1hwemY1RGRJcHBOT00yclowVQ?oc=5"
   }
  ]
 }
