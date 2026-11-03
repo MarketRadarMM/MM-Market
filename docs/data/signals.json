@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-11-03T01:00:23+00:00",
+ "generated_at": "2026-11-03T01:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-11-03T01:30:19+00:00",
+   "title": "လယ် Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SblRYbmgyV005WHZac3NXRmZEMThYMjR3TmRiY0RUbkZ5Vk8zcUEzTDFvQjhNZHFmSU1qZkloQVgwN3YzMUVHc1dtbWk2cjdySmNJWW1XMWtPQ25wdldzQl8yTVhDRG5JcFh3?oc=5"
+  },
+  {
+   "ts": "2026-11-03T01:30:17+00:00",
+   "title": "တရုတ်ဩဇာတန်ပြန်ရေး၊ မြေရှားသတ္တုရယူရေးနဲ့ အပစ်ရပ်ရေး ပါဝင်တဲ့ အမေရိကန်ရဲ့ မြန်မာမဟာဗျူဟာသစ် ထွက်ပေါ်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.co.uk/burmese/live/c50me7ldz021t?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-11-03T01:00:22+00:00",
    "title": "3 November 2026",
@@ -2165,20 +2179,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUEZKTmRpaVR0UUFiazFOb2VMRTBZUHE3NU5YcmRua3hrQ2VLV2VPUEVkOEttS1JsdjRvYjY3WGsxSkJENXRPdFhzMVNCRjZ4bXp5aDQtLUUyWEl5VGFGc2FjQVMtRVVuMUtfX2U5QWJ4eUNheENQNDZoQVcxdXM3OXFn?oc=5"
-  },
-  {
-   "ts": "2026-10-24T20:30:31+00:00",
-   "title": "Myanmar Eyes Bigger Share of China’s Coffee Market",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0ySXVlWmZMbGF6TFNaMDlZX3lzcENZcXphX1pDUmpMQ3NMQ0xJb084cnlpU0ZPc05rQ1JwbjJ3UnVLaUFDZy1VSkQyMFBsTEJzeEtOVWFpZlRoN2VOWUFmc3RYQ1RmbG5tWmFHQXlPNjB6WmZ3VFhHcmQ0eUhMRTA?oc=5"
-  },
-  {
-   "ts": "2026-10-24T20:30:31+00:00",
-   "title": "Performing Arts Competition 2026 enters Day 4",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE05Z19sQXJqaXNJWTUzQmtxWERRZVB3dG9Iems5S3ZhUG9wVUJUWE1acjA2Rk1BX1JNRFkzYl9Lc3ZwT2F1NTRnQnFwdWV0bEZYTXNyVTJRZEQ3MkI2QmtENWNNd2IzejFGSHFTWU1sMXcxSXZ4QjBMaWR3?oc=5"
   }
  ]
 }
