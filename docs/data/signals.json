@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-03T00:30:19+00:00",
+ "generated_at": "2026-11-03T01:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-11-03T01:00:22+00:00",
+   "title": "3 November 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Da0JwdzR0ZW9acHNRSWRKZ3ZfT2VNeWtEOEV6MHN2TWJHc3hyMlhFRUtjR3d6dFRBcVJuenJtS2FqWEE4dWh3NXNSTURfUVBtbmc?oc=5"
+  },
   {
    "ts": "2026-11-03T00:00:23+00:00",
    "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing and high-level Myanmar delegation leaves Russian Federation, arrives in Belarus",
@@ -2172,13 +2179,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE05Z19sQXJqaXNJWTUzQmtxWERRZVB3dG9Iems5S3ZhUG9wVUJUWE1acjA2Rk1BX1JNRFkzYl9Lc3ZwT2F1NTRnQnFwdWV0bEZYTXNyVTJRZEQ3MkI2QmtENWNNd2IzejFGSHFTWU1sMXcxSXZ4QjBMaWR3?oc=5"
-  },
-  {
-   "ts": "2026-10-24T20:30:31+00:00",
-   "title": "Visa-on-arrival extended for 5 key tourist markets",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUnYzNzRsaW1oWWtubHFSbVRfTTRzakFsMW94UHp3UVVybTFLVHpoY2NVZlh0MkpBS0VndlRBZzhXYV9TNVN0a3dfMUFvRUI1eERQV1plWGJwTnQ5eFR0V3J3UE1HOUdzOWJkNmg2ekZWTXhRLVRRMFEySWlxVlh2Mw?oc=5"
   }
  ]
 }
