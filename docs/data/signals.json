@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-03T03:30:18+00:00",
+ "generated_at": "2026-11-03T04:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-11-03T04:00:19+00:00",
+   "title": "Analysts: China could erode Taiwan’s hold on remote Pratas Island without invasion",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/southchinasea/2026/11/03/taiwan-pratas-south-china-sea/"
+  },
   {
    "ts": "2026-11-03T03:00:23+00:00",
    "title": "Acting President of the Republic of the Union of Myanmar, Chairman of State Security and Peace Commission of the Republic of the Union of Myanmar",
@@ -2172,13 +2179,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRllLWFZPMXNnUTM4MkdLTGZWeTktNjR2WS01R1c2WkVINUs0WDBXS2g2V3JnYnBJYkd3R2pvNW56c1pQNXVqNHRoMFAzYWF1U0FSVmt3eHBlcThpZVJwOXlsWmR3UzVwX1RPUEhrUGJWZmtTMDB5VjhQbkNJVlcxeDB5WWQyT3gycFZ4alF4WQ?oc=5"
-  },
-  {
-   "ts": "2026-10-24T20:30:31+00:00",
-   "title": "Thilawa SEZ Captivates Domestic and Overseas Investors",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWFd5SzVsczdJb0JuWktoMnFISHdremU3MWlYb2FucXVRbTlkUjJTN2N4alRvcVViU0N4Z21oTVFVSmFSelVGSTdpTklEdDByMjk1NnlQcnhiY1FxcXZILXRJX0R3cE1GYVplM0xFTG1nLXV3ZjN2elo5Z1JxbWc4bmRrdXl4dw?oc=5"
   }
  ]
 }
