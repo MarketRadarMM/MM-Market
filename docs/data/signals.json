@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-04T03:00:23+00:00",
+ "generated_at": "2026-11-04T03:30:17+00:00",
  "signals": [
+  {
+   "ts": "2026-11-04T03:30:13+00:00",
+   "title": "နယ်စပ်တိုက်ပွဲထိုင်းသတိပေးချက်ကြားက ထိုင်းဘက် လက်နက်ကြီးကျည်ထပ်ကျ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.co.uk/burmese/live/cmp3gkwdlv31t?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-11-04T02:30:18+00:00",
    "title": "Key Criteria for Selecting Vocabulary Items",
@@ -2146,13 +2153,6 @@
    "source": "Frontier Myanmar",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRzBIZUJybmZSQ3BzOTRJMGVFTjZyaXBRQ2FIRVpjaFlZa1BHcVd1VXpJbk9xNldUMnctT2IxVW5XX3EtOC1iQ0tsSk9LSFVRZXUwRkNrVWZldk9rVExQTFlvcDkwQWVJcDNwRkFmd1J1TG5aNzJEWC0yQy1naXhpR3plNXBzbWJlel9TVHNQcW5rZ2FTbGJ6YlZIQ1lGNXRpNTlJUA?oc=5"
-  },
-  {
-   "ts": "2026-10-27T09:00:17+00:00",
-   "title": "Chin forces resist Myanmar junta’s offensive in southern Chin",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/chin-forces-resist-myanmar-juntas-offensive-in-southern-chin/"
   }
  ]
 }
