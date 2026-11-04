@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-04T00:00:25+00:00",
+ "generated_at": "2026-11-04T00:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-11-04T00:30:15+00:00",
+   "title": "အမေရိကန် သက်တမ်း၀က်ရွေးကောက်ပွဲ - မဲဆန္ဒရှင်တွေ စီးပွားရေးကို အားမရဘူးလို့ စစ်တမ်းတွေဖော်ပြ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.co.uk/burmese/live/cmn4enp2dpgpt?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-11-03T21:30:27+00:00",
    "title": "Chairman of State Administration Council Prime Minister Senior General Min Aung Hlaing meets officials from Ministry of Agriculture, Livestock and Irrigation, discusses agricultural development",
@@ -2172,13 +2179,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM3JDQmFEbjFTZS1OYkxWOEJjd2VLY0VqM0VNb2FpUm55NjNHcGt4aHRyZk5YcWxNdHU2R1B5c05aQS1DX0RyTEFKcUVybk8zR2pISUVyYUgwcWRhZXdQRmpJUFhCLUctT0JENDRZSWdtdE9KVjlZQkZFWV9pMVJKbEU0cUE5NE83eTdjcThxTHpPSHB1djljbEQ5UWNkRXBaczN6bjhZb3VvZ1RDM3ZOSmtn?oc=5"
-  },
-  {
-   "ts": "2026-10-26T06:30:18+00:00",
-   "title": "President U Min Aung Hlaing, wife Daw Kyu Kyu Hla enjoy events of 27",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYzNyRVZQU1V6d09kbF83b0l5QzMxa25rN09Da0JfRFBpMVRPZEtTRDNHcUV3ekJXZ2lVbjY4cVEwWEZ2cDhUcDZNWS0tcTN1cFlSZG9ONVh0YkZXRDAzWGlkRVRSZV82dDd3X2JHSVdObkdhY2NRVXdqOVlaTnREYkpBbkh5UFBTQnVGYlBxMHZWZ1BuSVJQajZhR2IzVmNhLU5KbVF3NDROcEl3YVl6T1loNy15WVJ3VHc?oc=5"
   }
  ]
 }
