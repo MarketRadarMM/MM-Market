@@ -1,6 +1,53 @@
 {
- "generated_at": "2026-11-04T09:00:23+00:00",
+ "generated_at": "2026-11-04T09:30:22+00:00",
  "signals": [
+  {
+   "ts": "2026-11-04T09:30:21+00:00",
+   "title": "Hindu Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KWTZxR3p2aTF5WFlpUk5UTlhZMmFFQVpWSlFIZDlyVTU2R3h3QkVEaHlCeUFtY0FzMUpoNnNmelNwb0ZDcUVmeHhRQnVvQQ?oc=5"
+  },
+  {
+   "ts": "2026-11-04T09:30:18+00:00",
+   "title": "KIA နှင့် ရှမ်းမြောက်အဖွဲ့များထိန်းချုပ်ရာ ဂိတ်အချို့မှ ကုန်စည်တင်သွင်းခွင့် တရုတ် ဖြေလျှော့",
+   "source": "Myanmar Now (MM)",
+   "markets": [
+    {
+     "market": "pulses",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "China border trade affects bean flows"
+    },
+    {
+     "market": "rice",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "Border status affects rice exports"
+    },
+    {
+     "market": "fuel",
+     "direction": "neutral",
+     "confidence": 0.45,
+     "rationale": "Border routes also carry imported goods"
+    }
+   ],
+   "url": "https://myanmar-now.org/mm/news/82086/"
+  },
+  {
+   "ts": "2026-11-04T09:30:15+00:00",
+   "title": "Two Myanmar resistance fighters defect to junta at Myaing frontline",
+   "source": "Myanmar Now (EN)",
+   "markets": [
+    {
+     "market": "pulses",
+     "direction": "bullish",
+     "confidence": 0.55,
+     "rationale": "Conflict in bean/sesame heartland threatens supply"
+    }
+   ],
+   "url": "https://myanmar-now.org/en/news/two-myanmar-resistance-fighters-defect-to-junta-at-myaing-frontline/"
+  },
   {
    "ts": "2026-11-04T08:30:20+00:00",
    "title": "ရခိုင်ဒေသ ပြန်လည်သိမ်းပိုက်ရေး စစ်တပ်၏ ထိုးစစ်ကို AA တုံ့ပြန်တိုက်ခိုက်နေ",
@@ -2125,27 +2172,6 @@
    "source": "Myanmar Now (MM)",
    "markets": [],
    "url": "https://myanmar-now.org/mm/news/81933/"
-  },
-  {
-   "ts": "2026-10-27T11:30:16+00:00",
-   "title": "အစ္စရေးရွေးကောက်ပွဲ၊ စစ်မှုထမ်းစုဆောင်းရေးနဲ့ ခါးသက်သက်အမှန်တရား",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cm5yn5l3l93go?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-27T11:00:22+00:00",
-   "title": "Rain expected until 29 October in several states and regions",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSUl3V3ZIaU1Fa1dIbXJ3WWlaNHJWOF9rSXlGQmdPN1gzUVpwMnA4NjNxdzBkUXFoZGRLbXRvdUJLc3EteFJRY0puWjVZZ1k3YThQaHlMUnY0Z1VvSnN0ZEtmMWl6cmtUS1F3aDZWZ3J6ZHRqVURxNFhZOWVjX1RrNlN6bGF5RDU5Z0k0bGx3?oc=5"
-  },
-  {
-   "ts": "2026-10-27T11:00:22+00:00",
-   "title": "Seven missing students at Mt Zwegabin safely arrive home",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORUd0OV9nUmQ4U0VaYjNSNktOMmFiSjI1RjczNWFlOG1DZExyZVl0cUpWUmg5UHVqUFJiamp1WjZyU1BsbGlIeXBiVS1ZckFpTFlxTUxTV1loZUVFOWVtZkFDMVkwdTJ0NHJWQk9seXVkLVdYeUxEYklQZ18tWGhiWVdENXRiVFJL?oc=5"
   }
  ]
 }
