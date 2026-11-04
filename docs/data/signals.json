@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-04T08:00:22+00:00",
+ "generated_at": "2026-11-04T08:30:23+00:00",
  "signals": [
+  {
+   "ts": "2026-11-04T08:30:20+00:00",
+   "title": "ရခိုင်ဒေသ ပြန်လည်သိမ်းပိုက်ရေး စစ်တပ်၏ ထိုးစစ်ကို AA တုံ့ပြန်တိုက်ခိုက်နေ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/82075/"
+  },
   {
    "ts": "2026-11-04T06:30:20+00:00",
    "title": "ဒေါ်မမ Archives",
@@ -2139,13 +2146,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORUd0OV9nUmQ4U0VaYjNSNktOMmFiSjI1RjczNWFlOG1DZExyZVl0cUpWUmg5UHVqUFJiamp1WjZyU1BsbGlIeXBiVS1ZckFpTFlxTUxTV1loZUVFOWVtZkFDMVkwdTJ0NHJWQk9seXVkLVdYeUxEYklQZ18tWGhiWVdENXRiVFJL?oc=5"
-  },
-  {
-   "ts": "2026-10-27T11:00:22+00:00",
-   "title": "Seismic vibration survey conducted inside Yangon University campus",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUzVPUXRTeXdtRFZndTdwRXNHWFFHUkFNS3ZSdENaQlZmUFJIYTY1cjdyel81RXJOTXdtVkdqM2dtWXZpZWx3R0FTdWVhUmp6UlRLb2FUVUFWbzVUUWdvN1lWZ0FtRk9XdFlvUXdFdUEwTjNJVFVnWl92MHMwbHJaOHdSVnpnbkxvSUEtN1l4OWxYMWh0MHc?oc=5"
   }
  ]
 }
