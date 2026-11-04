@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-11-04T05:30:19+00:00",
+ "generated_at": "2026-11-04T06:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-11-04T06:00:19+00:00",
+   "title": "Top UN Court to Rule November 19 on Myanmar Rohingya Genocide Case",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUUx3bjJocURRaUVBVzktNG1tV0x1dU5HVW1NS1FTbW10NFhOVGVmMGFka0xOUW9WNEE1aWVnZDhHOTA1V2VraGRUUHlTTzZtazRfcjBGWEdPOFZyNG1la3AyNkRhV1NYLUJwOWlsUC00cHVLeTA2YVBkQ1owaFZ1eGNBX1dUM3J0RVBfaGVMaldOQy1CLW5MeDlnaEExcmpHRlJpdnFoRmdZeWtWXzh1WXZ0VkxoMERyVmFZZHg2WTB0TURvOHpN?oc=5"
+  },
+  {
+   "ts": "2026-11-04T06:00:17+00:00",
+   "title": "Top UN court to rule Nov 19 on Myanmar/Rohingya genocide case",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/top-un-court-to-rule-nov-19-on-myanmar-rohingya-genocide-case/"
+  },
   {
    "ts": "2026-11-04T03:30:13+00:00",
    "title": "နယ်စပ်တိုက်ပွဲထိုင်းသတိပေးချက်ကြားက ထိုင်းဘက် လက်နက်ကြီးကျည်ထပ်ကျ",
@@ -2132,27 +2146,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZHppNWFSM3NNal9DdHJtM0JSOVpSRWxIaGdPYTJ4SXItVjZwOVZkdEpuZ0xUOGtpUVM0dlM1Nl9ad3NES3lJeDRTdWc5aElxbU9RSVdXRVhDSFhNRE14TEI0Snp1cnAtaEJ0RzYxS0c5V3RSMzdrbWgxLTBVN2Nad19hcnBUcWNsQzhJOQ?oc=5"
-  },
-  {
-   "ts": "2026-10-27T11:00:19+00:00",
-   "title": "အင်းတော်နှင့် ဝန်းသိုတို့တွင် စစ်တပ်စစ်ကြောင်း ၂ ခု ပြုတ်လုနီးပါးတိုက်ခိုက်ခံရ",
-   "source": "Myanmar Now (MM)",
-   "markets": [
-    {
-     "market": "pulses",
-     "direction": "bullish",
-     "confidence": 0.55,
-     "rationale": "Conflict in bean/sesame heartland threatens supply"
-    }
-   ],
-   "url": "https://myanmar-now.org/mm/news/81929/"
-  },
-  {
-   "ts": "2026-10-27T10:30:19+00:00",
-   "title": "Caught in limbo: US cancellation of ‘protected status’ hits thousands",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRzBIZUJybmZSQ3BzOTRJMGVFTjZyaXBRQ2FIRVpjaFlZa1BHcVd1VXpJbk9xNldUMnctT2IxVW5XX3EtOC1iQ0tsSk9LSFVRZXUwRkNrVWZldk9rVExQTFlvcDkwQWVJcDNwRkFmd1J1TG5aNzJEWC0yQy1naXhpR3plNXBzbWJlel9TVHNQcW5rZ2FTbGJ6YlZIQ1lGNXRpNTlJUA?oc=5"
   }
  ]
 }
