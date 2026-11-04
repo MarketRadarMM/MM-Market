@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-04T06:00:21+00:00",
+ "generated_at": "2026-11-04T06:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-11-04T06:30:20+00:00",
+   "title": "ဒေါ်မမ Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNjZvTUNRcVpqbHRzU05RTVFaMGNiMHJINGRKekJ3cjMyX3FKc3I3R1cwd2t6T2JSX2pZVHlZYWNPSzc0cVhNeE9zcjJKVDJCSGctZUhjVmF2ZmNsWnZtRnVJZ3dfSE9IcEl6eEhaVWQySk4tOTNEdnFTUkxQRS1IZTlfYjlUa0FPQ2ctY2lWQQ?oc=5"
+  },
   {
    "ts": "2026-11-04T06:00:19+00:00",
    "title": "Top UN Court to Rule November 19 on Myanmar Rohingya Genocide Case",
@@ -2139,13 +2146,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUzVPUXRTeXdtRFZndTdwRXNHWFFHUkFNS3ZSdENaQlZmUFJIYTY1cjdyel81RXJOTXdtVkdqM2dtWXZpZWx3R0FTdWVhUmp6UlRLb2FUVUFWbzVUUWdvN1lWZ0FtRk9XdFlvUXdFdUEwTjNJVFVnWl92MHMwbHJaOHdSVnpnbkxvSUEtN1l4OWxYMWh0MHc?oc=5"
-  },
-  {
-   "ts": "2026-10-27T11:00:22+00:00",
-   "title": "Locals celebrate traditional Chin Harvest Festival in Falam",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZHppNWFSM3NNal9DdHJtM0JSOVpSRWxIaGdPYTJ4SXItVjZwOVZkdEpuZ0xUOGtpUVM0dlM1Nl9ad3NES3lJeDRTdWc5aElxbU9RSVdXRVhDSFhNRE14TEI0Snp1cnAtaEJ0RzYxS0c5V3RSMzdrbWgxLTBVN2Nad19hcnBUcWNsQzhJOQ?oc=5"
   }
  ]
 }
