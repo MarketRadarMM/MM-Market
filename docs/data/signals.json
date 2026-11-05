@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-05T20:30:22+00:00",
+ "generated_at": "2026-11-05T21:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-11-05T21:00:20+00:00",
+   "title": "6 November 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01NlAtRVc1N01qZW1WUXdSNDBaRWlnNFZsXzl2RWhBX3Fmdl9QWm4yLWUweFZ1NXNEVVo0RWhYVmhqcUhHOHcxTXBnQkxkWEI4Vnc?oc=5"
+  },
   {
    "ts": "2026-11-05T20:00:20+00:00",
    "title": "International community condemns Joshua Wong’s 10-year ‘foreign collusion’ sentence",
@@ -2171,13 +2178,6 @@
    "source": "Myanmar Now (MM)",
    "markets": [],
    "url": "https://myanmar-now.org/mm/news/81944/"
-  },
-  {
-   "ts": "2026-10-28T04:00:21+00:00",
-   "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing discusses means to facilitate trade and promote investment between the two countries at the Myanmar-Vietnam Business Forum",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQb2o2UDh5aFdncE43MWQyQmtUckJUTFBDaGpwRDZpOGdrb2ZXeUtrZEFxNDB5SWdRVkZLV1FpZjJSOVNQbEZBMmdIQ05BbHJfNU56QUxwWVdqQzVrY1UzQzZHekpORkgwVkxicnpHSWpVVWpQRlg2TTk0Yk5rMkxYZzFoaUc4V2pWUk5YUWpyNnl2c3dsdlB3UzAwZXBJckVnWm9FazFwNmRvLWlwWVE1QUktOHZqRzQ1cWc?oc=5"
   }
  ]
 }
