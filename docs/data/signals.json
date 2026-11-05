@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-05T09:00:23+00:00",
+ "generated_at": "2026-11-05T09:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-11-05T09:30:17+00:00",
+   "title": "အမေရိကန်ရဲ့ မြန်မာ့မူ ဘယ်လောက်အလုပ်ဖြစ်မလဲ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cm0rleyp1nr9o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-11-05T07:00:20+00:00",
    "title": "Commander-in-Chief of Defence Services General Ye Win Oo pays courtesy call on Prime Minister of Lao People’s Democratic Republic",
@@ -2152,13 +2159,6 @@
    "source": "RFA (EN)",
    "markets": [],
    "url": "https://rfa.org/english/southchinasea/2026/10/28/china-teachers-philippines-return-south-china-sea/"
-  },
-  {
-   "ts": "2026-10-28T00:00:19+00:00",
-   "title": "‘We Know It’s a Sham’: Inked Fingers Become Mark of Shame in Junta Election",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRXVnX091TmJJbUo5cUJQNC1NUEQ4ZkVDRFYza241cEg0ZWdKZXQycmRaZVVsZm5qWTdQTWw5ZmZ6Zi1NXzFhTGFXWXNEWHI0VFFSaU1Od1lsTGlJaHNkaFJHdEc2b3BqSXd4RjFIR1RxZHZBYVJRUFBtNkpycEg1NW9iVXhoTUQ4Njg5a0hTX0FXR19tOWR6YTNDY1o0TlVTSF9Mc1FTUEVkSklsazlJM3hkSQ?oc=5"
   }
  ]
 }
