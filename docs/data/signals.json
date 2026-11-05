@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-05T04:30:22+00:00",
+ "generated_at": "2026-11-05T05:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-11-05T05:00:21+00:00",
+   "title": "ကမ္ဘာ့အနက်ဆုံး Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTVl2TUZPZUFkTlJzeFhKdGoyeWVMa2UtTWZfSlR5RHZMcW5CNXlKN2FvbUxtQTgteElrbFhFQ2liVi1RaDRTcTlFaHZyUzNyS2Nyc2p4VWk3TlZJSmlDTTBSYmxKOUlSbWNha2FUMU5MbzhwTXR4dFNacVJQcEJjX0VLMTUzU2JZc19EdHp0WVhQV0h3X3g1RzN5S1VpZXByNmpvbzRISEI3cTZJWEExbi1HS2ZnZHA2SC1yNDZtdWFsbFRNQi1ZUEFXRm53Y19KX1hMbXJYYURkUGQ5dk5DTjJmalJGNXI2bklZcjJkVQ?oc=5"
+  },
   {
    "ts": "2026-11-05T03:30:18+00:00",
    "title": "Military columns intensify area security operations to regain control and reopen Kalewa-Yagyi-Monywa route temporarily dominated by terrorist insurgents",
@@ -2152,13 +2159,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX0RxYkJ2MXhEY3hJbzhJbXBjT1JsV2xVbXExVG9YdEpEd2VXakFhd2lUbW85REFhZmRZT0oxdG5YZ19oNmpuSHZFZWhYdVRRd1B4M3VRLXlLdmdKMC1YMGdaWjhoUmtENXJQOGF6Q1R0R0Ywa2tXU3VpUDFvR3hjc1h5Yk5feDV2ZFRYNkg3SVVmcmpmVjlIRmMyamNBRXpXc1NmLTFJWmc0Q2M?oc=5"
-  },
-  {
-   "ts": "2026-10-28T00:00:19+00:00",
-   "title": "Specials",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE90dW43M0tBc1B5SFFHRkQ1QkZ5X1c5TmJfckxQWk4yQjdrdFU3ZTNUT0lhNm1MRldYdXhGYVhwc09Dd21IMm1CV0xtVE1VS3pzUTZWZS1lZkUwNUVOT1llbDZ3?oc=5"
   }
  ]
 }
