@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-05T12:00:26+00:00",
+ "generated_at": "2026-11-05T12:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-11-05T12:30:16+00:00",
+   "title": "Pyu Saw Htee leader and wife shot dead in Mandalay Region",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/pyu-saw-htee-leader-and-wife-shot-dead-in-mandalay-region/"
+  },
   {
    "ts": "2026-11-05T12:00:23+00:00",
    "title": "China eases trade restrictions at select border gates in Kachin and Shan states",
@@ -2152,13 +2159,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ2JrVnp5ek1QQ2FwS3R4cjZOTzZwREx3eGhaV3V1bzZmRy03cmxGSlpLTGZLWmZvZVEtTmQ0eG1iclEyckN5OWNGV2xOS0VXTjhLQXgyeFROTmJKbVVyUmduVFgwQy1Od3FRUnRtZVc5STRYNVcxUVhvQ256OEwyY3ozbW53eFdXZEJlWmFveHBTTWlqbDB1bGpZMA?oc=5"
-  },
-  {
-   "ts": "2026-10-28T02:30:20+00:00",
-   "title": "People throng 2026 Thadingyut MSME Fair & Music Concert",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUnB0bjlUS1pjc0dTN2JZNl85bjMtMVFlR09UMnJUTTRyVlFLdVRLNVc1SDF1d2xrR0EyQkJQbG00N1ByMW8tVG52Sm9rOWhNdWNXc2NiZHVtV1QxNy1hcTNnaV9zNDR6aWNLVXI4UklzcXBkM1ZGTF9SRmhKYkhKV2FxRDU?oc=5"
   }
  ]
 }
