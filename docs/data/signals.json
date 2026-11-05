@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-05T02:00:24+00:00",
+ "generated_at": "2026-11-05T02:30:25+00:00",
  "signals": [
+  {
+   "ts": "2026-11-05T02:30:22+00:00",
+   "title": "၂၀၀၈ ဖွဲ့စည်းပုံကို လိုက်နာပြီး ပြည်ထောင်စုကနေ ခွဲမထွက်ဘူးလို့ UWSA “ဝ” ပြော",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.co.uk/burmese/live/cqj34d2ymrjnt?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-11-05T00:30:17+00:00",
    "title": "ကုန်တင်မှု Archives",
@@ -2152,13 +2159,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORHdOWm5qaXhHdGdIMlQ4dkZlMkRTQ2VlaE9uOXZNU3hOTHJ4LWozNkEzZFduUDZYWUxzNTZxSmNRWlZ2ZlhUQWFvODBBeGE3UXN4VHljTDZGYWszSUEwSmhFbEFOdmpURVNGdUFZQjRGZXZBRWM2UHk3cjZpUlpldlh6ZkZGMmhFMjdxRkNTU3lFOHFMbXgxazBUbmphZzAwbGllN3ZSYWMwbllYYTNXZ1pRSDBmUGlP?oc=5"
-  },
-  {
-   "ts": "2026-10-27T15:00:21+00:00",
-   "title": "khit thit news",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mVHAtS0dVT1FjM0w5UThYNkhJMHFsVXlNRWs2Z19faThkazA5ZlBKTlg4TGZNUEZFd0Q3NjZaV2E2QkxiNnVyWTZNRDJVZWZN?oc=5"
   }
  ]
 }
