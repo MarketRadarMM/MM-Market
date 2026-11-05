@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-11-05T09:30:20+00:00",
+ "generated_at": "2026-11-05T10:00:19+00:00",
  "signals": [
+  {
+   "ts": "2026-11-05T10:00:18+00:00",
+   "title": "“ဝ”နှင့် မိုင်းလားတို့၏ နယ်မြေတောင်းဆိုမှုအရေး ထပ်မံဆွေးနွေး",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/82112/"
+  },
+  {
+   "ts": "2026-11-05T10:00:18+00:00",
+   "title": "ကောလင်းအရှေ့ခြမ်းဆေးရုံ တိုက်ခိုက်ခံရမှု ဆရာဝန်နှင့် ဆေးကျောင်းသားသေဆုံး",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/82117/"
+  },
   {
    "ts": "2026-11-05T09:30:17+00:00",
    "title": "အမေရိကန်ရဲ့ မြန်မာ့မူ ဘယ်လောက်အလုပ်ဖြစ်မလဲ",
@@ -2145,20 +2159,6 @@
    "source": "Myanmar Now (MM)",
    "markets": [],
    "url": "https://myanmar-now.org/mm/news/81939/"
-  },
-  {
-   "ts": "2026-10-28T01:30:17+00:00",
-   "title": "တော်လှန်ရေးအတွင်းအသက်ဆုံးခဲ့ရသူတွေရဲ့ အမည်နဲ့ အသက်တွေပါတဲ့ ပုဝါကိုင်ပြီး ကုလမှာ ဦးကျော်မိုးထွန်း မြန်မာ့အရေးတင်ပြ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.co.uk/burmese/live/c6wyr84pzvy4t?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-28T00:30:17+00:00",
-   "title": "South China Sea tensions cause China to ‘recall’ teachers from the Philippines",
-   "source": "RFA (EN)",
-   "markets": [],
-   "url": "https://rfa.org/english/southchinasea/2026/10/28/china-teachers-philippines-return-south-china-sea/"
   }
  ]
 }
