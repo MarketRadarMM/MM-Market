@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-11-05T00:00:20+00:00",
+ "generated_at": "2026-11-05T00:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-11-05T00:30:17+00:00",
+   "title": "ကုန်တင်မှု Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSlpJV25PY2FsbU9nbGt1Y3dqcXdNTUZ5dmlUNm9oRFNsRWZhX0Q1ajZNUXl3aGVPWGJXN3lBZTU4TXJlN05vQi1RYW1VeXM5U2NjV1VHa181OHhEWGZyTE9RRnVkRGRTRGlyYWxEaVBNOE9hWUVYMDAtLVhiZ3hvQm80RTZpc3lJRDE0QUhOQzQxQkZPM3RyQ0x3ZENxYUFNa0Ffb3l4R1J2dUFQTV9KdHpFd0xNbzJFbG5wSC1OWQ?oc=5"
+  },
+  {
+   "ts": "2026-11-05T00:30:17+00:00",
+   "title": "ကျည်ကျ Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOWpuZW4tb1VSSnZPaldHZFl6OU1XZXh6b2tKOFBIaE1BT1I2UHN1ZGo5TXhldmQ5NWtucHpqckhXdEt0WGZKd2lfX245eEdZdTlaX0dLNG5Rd09YZ2cycDNaUnlyREFLcHZZZVpmV19lS0hVTnl1YS16dmVLOG9IY0cxZ2Y3ZTBHWlItVEFZTQ?oc=5"
+  },
+  {
+   "ts": "2026-11-05T00:30:17+00:00",
+   "title": "Bright Future Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1MHVQT19ZQmdueGlEdWkwLTk3S0JIN1RESjlpSmVYMFJ2YXNibnR6bUVIUjNKR3ZFRVhzLUJjdUppbTVETlRfMUVuRFlIc1VvMzQtVVZOTXM?oc=5"
+  },
   {
    "ts": "2026-11-04T18:00:23+00:00",
    "title": "Express Archives",
@@ -2138,40 +2159,6 @@
    "source": "Khit Thit",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mVHAtS0dVT1FjM0w5UThYNkhJMHFsVXlNRWs2Z19faThkazA5ZlBKTlg4TGZNUEZFd0Q3NjZaV2E2QkxiNnVyWTZNRDJVZWZN?oc=5"
-  },
-  {
-   "ts": "2026-10-27T14:30:19+00:00",
-   "title": "Myanmar Migrant Applications Plunge at Thai CI Centers Amid Boycott",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNczhic2Zabm1iY1BQd1VtRGlKS1l5dmx2N1R1aERLWEJ4MlhUa1Vrcl9BT29pOEpNQWE1dV9mSlJrRl9rekZXX2xuSlJHdXhacHZZenZxTHlPLS16SmdUVk9YLXFMNlVBbkFrSnVMNVlqeU82YjEtLS1tUlIwQkVPOGNkVVRqRWhyeGxhNENsZmdQbUdIa3oyYXNjMnVIcEc1UjFjMXlOU3BkQkc2SFE?oc=5"
-  },
-  {
-   "ts": "2026-10-27T14:30:15+00:00",
-   "title": "ဗဟိုဘဏ်ဆီက သုံးနှစ်ဆက်တိုက်ငွေချေးရတာ ဘာကြောင့်လဲ",
-   "source": "BBC Burmese",
-   "markets": [
-    {
-     "market": "fx_kyat",
-     "direction": "neutral",
-     "confidence": 0.5,
-     "rationale": "CBM/forex news — read for direction"
-    },
-    {
-     "market": "gold",
-     "direction": "neutral",
-     "confidence": 0.5,
-     "rationale": "Kyat-sensitive: gold usually moves opposite to kyat"
-    }
-   ],
-   "url": "https://www.bbc.com/burmese/articles/c65yn0vlkp8po?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-27T14:30:15+00:00",
-   "title": "၁၉၆၂ နဲ့ ဦးချစ်လှိုင်၊ အောင်ဗလ၊ ဦးသက်ထွန်း- ဗိုလ်ချုပ်ကြီးနေဝင်းနဲ့ လူသုံးယောက်",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cwp93m03nkdko?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
