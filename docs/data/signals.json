@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-11-05T16:00:25+00:00",
+ "generated_at": "2026-11-05T16:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-11-05T16:30:18+00:00",
+   "title": "Business | Kyat Slump Disrupts Thai Border Trade as Import Costs Rise",
+   "source": "Irrawaddy",
+   "markets": [
+    {
+     "market": "pulses",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "China border trade affects bean flows"
+    },
+    {
+     "market": "rice",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "Border status affects rice exports"
+    },
+    {
+     "market": "fuel",
+     "direction": "neutral",
+     "confidence": 0.45,
+     "rationale": "Border routes also carry imported goods"
+    }
+   ],
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZGhhUVBmQVRnVHpNeGVlbGQ3bDRpalhwY0Y3ODRsakY4T2lCVmdkUnVJb3lSV3dQSGRNVjYyQXNjUS1XeGVPdFNFYWZ1TjdMSzZjTVpSMmhmRHdUYXE0Q2ZxWm5YbW5BTHdud0x0M2NhRGpyeUpGVHA1eGtHZnM3aEtIQXA3SE9TVEJjR3BwTDB6S1d4LUl6d0VpVFE1cFE?oc=5"
+  },
   {
    "ts": "2026-11-05T15:00:24+00:00",
    "title": "MAEX’s cold storage supports freshness of fruits at Danyingone wholesale market",
@@ -2152,13 +2178,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1OYmMxVkplcW02TTRLUXZQbUtJTjRtdThZMTVhVGpyX0NPcDJ0TG9GdHVuV1FCYV9KRW1YakFHaDFxMmM3VFlFQ01zNVBpZXNJQ3NjREYyQ3ptbm50cUhmQ3FWOG1Rb2dJRXZaY19JVkdEWlNDSDB2dXpNRmVqZw?oc=5"
-  },
-  {
-   "ts": "2026-10-28T02:30:20+00:00",
-   "title": "Wakema’s concrete village road construction inspected",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONlk5MVVqWlNkWEx6U2ptTEdOMFFoNFNZRlBZV1l3U2ZyTUNKOUhyNDZWMXJTMFZKTEZTdG5BYXhkeWx1dkoxdUpHM3BUWThfUUM1SVBvbjZrSzMxY3ljczYzVE4xTmJHenRUdEVpZHZmbkxwUUJ0WDJhTzNuRXpFYlQ0RQ?oc=5"
   }
  ]
 }
