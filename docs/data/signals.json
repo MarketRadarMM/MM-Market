@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-06T10:30:20+00:00",
+ "generated_at": "2026-11-06T11:00:26+00:00",
  "signals": [
+  {
+   "ts": "2026-11-06T11:00:26+00:00",
+   "title": "Myanmar Media",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBbGU2LURzMmgyeXZ2WHVLYkQ0LVBjLW5tcWJjZUFZYV9hNzNUZU44MS1teWVScGtvQlFHNHlzRnZlRWs5SWVFTlpnSk84Ums?oc=5"
+  },
   {
    "ts": "2026-11-06T10:30:19+00:00",
    "title": "MNPIFER Union Minister attends 11th Mekong-Lancang Cooperation Foreign Ministers’ Meeting",
@@ -2178,13 +2185,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTjhxa2U1ZWFwYVlCSHJLaGN3cU1uR0xNMlFpN1ZkRmtaQzh5ZHc4b09uVmJiWlZpNUlNMzNNUXdzc3hDbE10OGlGaG9GWFNFd0pqUUxhSnBnZkgzdGRiZlJ2M0cyWTV1ZEM5WjNxSDFhRDRyRkRoYUw0NXYyR3dMWTVqQ2pieHJZMDExa1pTa1RWQlYzdFlnSUtORzREUnlzUHlSdm5ndThZUEpoYzBkWGJNeVpacHljZkNQWQ?oc=5"
-  },
-  {
-   "ts": "2026-10-28T16:30:22+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBoaHVDNmRUQURsemlBMkswdDh4MjNiWUlGek1oaTRUT0xGelhEMDhBQndkZzNUTmJkdi1VaXdwblZhTEl0X3dZV1RxTQ?oc=5"
   }
  ]
 }
