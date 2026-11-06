@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-06T01:00:22+00:00",
+ "generated_at": "2026-11-06T01:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-11-06T01:30:17+00:00",
+   "title": "midterms Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3ZXlyaHUyUXBWT1Nuc3NEX21uQm9DdTRmUFhBWjg2X2RjanR6M1dlbS1KNlliYkh3Nmh6X1ZnWnRRdGpKOEVOaUVWZ2xyQ1NrM1E?oc=5"
+  },
   {
    "ts": "2026-11-06T01:00:18+00:00",
    "title": "မြန်မာကို FATF အမည်ပျက်စာရင်းကနေ ဖယ်ရှားပေးဖို့ တိုက်တွန်းခဲ့တာမရှိဘူးလို့ ဂျပန်ပြော",
@@ -2171,13 +2178,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSjJYdzRwUHRqcmFnRmZyeDlDOEJhbVJBTjVsMkNQcjFqUF8ycEdWRnlwRktZdlNGLXFDVzBwMEM5MjVtTGJPUnhVenA2MjFiSGllcUNPZkhYeVpKR2cyQkdsQl9MdFFyWHF4TGRMUkM3T3ZobGk2QmdFR0FOUExQaU9WTQ?oc=5"
-  },
-  {
-   "ts": "2026-10-28T05:30:16+00:00",
-   "title": "ASEAN envoy visits Myanmar as junta seeks return to summits",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/asean-envoy-visits-myanmar-as-junta-seeks-return-to-summits/"
   }
  ]
 }
