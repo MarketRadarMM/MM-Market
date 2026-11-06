@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-06T11:00:26+00:00",
+ "generated_at": "2026-11-06T11:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-11-06T11:30:16+00:00",
+   "title": "UK-based consumer goods giant Unilever confirms departure from Myanmar",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/uk-based-consumer-goods-giant-unilever-confirms-departure-from-myanmar/"
+  },
   {
    "ts": "2026-11-06T11:00:26+00:00",
    "title": "Myanmar Media",
@@ -2178,13 +2185,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUWxqTWJmME1vVENvY1ZpdDRCdTU1NTB0amwxandIZE5naUVDQ2JrMlROMnFBcjhuSHlNS0hodzVXM2RhWTRtVTNVZFN0Z3lPb25XWFI3djFEek1xQTY2cXNBY1hEV2hwOV90TDJlTHBVQXBjQndvcTJNZDVoNGZXY193NWItOWEwWmJOai0wWVA0Z0pfblZ2eVN6NnFmYlRicXEtT3FLWFYxbkNGelg1Ng?oc=5"
-  },
-  {
-   "ts": "2026-10-28T19:00:24+00:00",
-   "title": "Suspects arrested for scamming people by impersonating Tatmadaw member on social media and falsely claiming they could arrange the release of people’s military service records",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTjhxa2U1ZWFwYVlCSHJLaGN3cU1uR0xNMlFpN1ZkRmtaQzh5ZHc4b09uVmJiWlZpNUlNMzNNUXdzc3hDbE10OGlGaG9GWFNFd0pqUUxhSnBnZkgzdGRiZlJ2M0cyWTV1ZEM5WjNxSDFhRDRyRkRoYUw0NXYyR3dMWTVqQ2pieHJZMDExa1pTa1RWQlYzdFlnSUtORzREUnlzUHlSdm5ndThZUEpoYzBkWGJNeVpacHljZkNQWQ?oc=5"
   }
  ]
 }
