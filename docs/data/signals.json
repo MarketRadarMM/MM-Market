@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-06T08:30:19+00:00",
+ "generated_at": "2026-11-06T09:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-11-06T09:00:22+00:00",
+   "title": "မြောက်ဦးကို စစ်တပ်ဗုံးကြဲ၊ ကိုယ်ဝန်ဆောင်အမျိုးသမီးသေဆုံးပြီး ၁၁ ဦးဒဏ်ရာရ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/82133/"
+  },
   {
    "ts": "2026-11-06T08:30:17+00:00",
    "title": "မြန်မာနိုင်ငံမှ ထွက်ခွာမည်ဟု ဗြိတိန်အခြေစိုက် လူသုံးကုန်လုပ်ငန်းကြီး Unilever အတည်ပြု",
@@ -2171,13 +2178,6 @@
    "source": "Myanmar Now (EN)",
    "markets": [],
    "url": "https://myanmar-now.org/en/news/myanmar-regime-imprisons-two-islamic-teachers-and-seizes-mosque/"
-  },
-  {
-   "ts": "2026-10-28T10:00:26+00:00",
-   "title": "ထိုင်းရှိ CI စခန်းများတစ်ဦးတည်းလုပ်ပိုင်ခွင့် စစ်တပ်နှင့်နီးစပ်သည့်ကုမ္ပဏီ ဆက်တိုက်ရနေ",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81970/"
   }
  ]
 }
