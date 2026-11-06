@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-06T07:30:18+00:00",
+ "generated_at": "2026-11-06T08:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-11-06T08:00:23+00:00",
+   "title": "မယ့်ကိုကင်း Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNb1ZabmJKRW1NMUJ0eVNYRG5fa2tCcDNMbUs2VTNSRjBkalF2SEtuWWFucUVuejBTMmY4TFJuVGtPei1QOFoxaXZ1d3JsTjRfM3ltYllEMTJEZXFOZ0h4YmgyNlZPNkpNTHBrM2Exam9panJKOHdlMUlBNnU1WjlhM0lRUmd0bDB4eF9iX0FZTFJkRXpxeW9yTG1tb3NLdjVYQURrUTIxYUxtVFhILUx4QkdvQ2RCYlBKTkJxOXVzdDZWdVZHOVkyVDFtNA?oc=5"
+  },
   {
    "ts": "2026-11-06T06:00:20+00:00",
    "title": "မင်းအောင်လှိုင် တရုတ်ကို စိတ်ကောက်နေ",
@@ -2171,13 +2178,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ1ZsYUx6eVVvNHZwV3lsQ3ROaWFXNnBUOUJpZzlKN01SMzZOMUY5WU03QmZpV1o5VXlWeFl5VGtMb0dQQjg1X3U5SHVjZE85b1BDLVVBQjRWNHJDT3p6Qkg4QzFzWlNkdEZIRGRSay1DT2JidWNqSm04YjZIRFFSdzJ2UU9aZ09QLUwxYkE1SWVXc1JRazZjcXQ2LXUteHA2SlhrQnlCS2VRUVVWaEV1a1J1b1FoZFo4SktkOG55TGIxYlk?oc=5"
-  },
-  {
-   "ts": "2026-10-28T08:00:21+00:00",
-   "title": "28 October 2026",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MNkRRdjdwN1doeW5ZQmZNQ0FVODQyY2VEQXFod2NHOXVveUotVWNnbFZOWEhnd0dlNHpMLWs4Yms4cjZHdnpvdEtxS3NmVkJPcUE?oc=5"
   }
  ]
 }
