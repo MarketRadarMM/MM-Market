@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-11-06T10:00:20+00:00",
+ "generated_at": "2026-11-06T10:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-11-06T10:30:19+00:00",
+   "title": "MNPIFER Union Minister attends 11th Mekong-Lancang Cooperation Foreign Ministers’ Meeting",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQnZkNXlwTVNKVTFEajJGd25xSEhoRlMyOVJOclNqaFpEaU1HS1RSeldGUUM2YWN0X3FZeG8zQlRObmRQbXI5MzFZUGN2T2htZHNacXlUMEZ6X1ZmdDdmWnB5QWNjdzBFeE5neGVBdkVMWlBJTXhLUEI4SDk0OGVveWp2X1d2T3llczZCUmRpbEhUUGhVaEU0TThZbXpzWUN3dk1QZVBoLTE5VDY2OFp6OGdQWQ?oc=5"
+  },
+  {
+   "ts": "2026-11-06T10:30:19+00:00",
+   "title": "Myanmar joins Dialogues of South, ASEAN Market 2026 in Busan",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbVU2dlZNeThmS2NxMGxyRDludlZSVS16WW1YUjZFWmVSVmtGeXZHMkgxQVFyUDhTMXc0Q2p1VkJJR2hxeXlZVXo2Mm9vdVEwY1ZqNnNkaVZrUjRJVW52N1dubENDd2dmU082cHh1bFhCTTdEaVpIMmJwMVNkMkJZcWZMckh0ZnZZQ1dIdQ?oc=5"
+  },
   {
    "ts": "2026-11-06T10:00:19+00:00",
    "title": "The Importance of Strengthening Primary Healthcare for Sustainable Healthcare Development",
@@ -2171,20 +2185,6 @@
    "source": "Khit Thit",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBoaHVDNmRUQURsemlBMkswdDh4MjNiWUlGek1oaTRUT0xGelhEMDhBQndkZzNUTmJkdi1VaXdwblZhTEl0X3dZV1RxTQ?oc=5"
-  },
-  {
-   "ts": "2026-10-28T15:00:20+00:00",
-   "title": "ဆားဘီးယားကျောင်းသားလှုပ်ရှားမှုက ၁၄ နှစ် အာဏာယူသူကို ဘယ်လိုဖြုတ်ချခဲ့လဲ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cx62y022y8mdo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-28T14:30:19+00:00",
-   "title": "MidtermElections Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MblM3ZENpOENWT0hmVkpJVW1WMWtQenM2NU1QLXdIU1RldjFyRTduOE1iVDgyNHZCd1ZYbDBXMVZTb05EQkVDSWlPdDN3czR5Q01UajE5OHViaGVM?oc=5"
   }
  ]
 }
