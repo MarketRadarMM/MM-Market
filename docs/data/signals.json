@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-06T19:30:19+00:00",
+ "generated_at": "2026-11-06T20:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-11-06T20:00:21+00:00",
+   "title": "ဘတ် Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNT0s2TjFXSTk5bzVXdzVTMGVnX2tiUGQyS2o0dFdmeFYxNWVpYU1CSHJJck5xQ01ZWjFZWm9SRmZURDNVSVNVNmJScDFlYzhHZng1ckRySjBMSkZpY1F5bU9OaE54bEpyLTlB?oc=5"
+  },
   {
    "ts": "2026-11-06T16:00:21+00:00",
    "title": "Myanmar workers in Korea to face severe legal actions for using illegal hundi channels",
@@ -2191,13 +2198,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZDEtLTlkTWhlZ3pUWkZGd3ZUeWtvZ3VwWmxXVkpBYzJsMnptcjZRM2VpY2VnQ3FFeWcxZzIxcF9DZG5XQWdCbzlybzZfb0trS0NJRmdmVVRZY3VGR0x4QmhOTGt3YjJjaXFGeGY1ajVJZ1NDakNMQThkYWNaamJCYW9yQWJ4STFlNFZqMG5R?oc=5"
-  },
-  {
-   "ts": "2026-10-29T04:00:22+00:00",
-   "title": "AA, PLF, PDF Members Return to Civilian Life",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBEM2JjSnVuSWxKXzB2eWo3VHgyZEZTdzY2NW1EX1lMV0lKNnlmOGliSXd1V3dZN0taRTlkM3F5a19teWxUdlYtZTBnd0NBRl9WXzlIem5RUEdWTUJWWUR1aE9wVnJ2a2szWXdqbGFMczJjY3RsZmc?oc=5"
   }
  ]
 }
