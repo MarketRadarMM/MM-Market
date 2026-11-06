@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-06T00:30:18+00:00",
+ "generated_at": "2026-11-06T01:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-11-06T01:00:18+00:00",
+   "title": "မြန်မာကို FATF အမည်ပျက်စာရင်းကနေ ဖယ်ရှားပေးဖို့ တိုက်တွန်းခဲ့တာမရှိဘူးလို့ ဂျပန်ပြော",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.co.uk/burmese/live/cm3ell19z52xt?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-11-05T21:00:20+00:00",
    "title": "6 November 2026",
@@ -2171,13 +2178,6 @@
    "source": "Myanmar Now (EN)",
    "markets": [],
    "url": "https://myanmar-now.org/en/news/asean-envoy-visits-myanmar-as-junta-seeks-return-to-summits/"
-  },
-  {
-   "ts": "2026-10-28T04:30:17+00:00",
-   "title": "“ည ၇ နာရီမထိုးခင်အိမ်ပြန်ပါ”",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81944/"
   }
  ]
 }
