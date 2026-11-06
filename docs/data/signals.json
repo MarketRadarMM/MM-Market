@@ -1,6 +1,61 @@
 {
- "generated_at": "2026-11-06T14:30:17+00:00",
+ "generated_at": "2026-11-06T15:00:25+00:00",
  "signals": [
+  {
+   "ts": "2026-11-06T15:00:24+00:00",
+   "title": "Defence Services C-in-C visits National Defence Academy in Vientiane, arrives in Luang Prabang",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQUhEcExmRWdFc0g2RDJMbWNPVzFvVC1TVXZ1QWgwRmRENXRBQXFZUGRKYTYxLVpjWDlHV1Y0dTdaSFFpMzNMT0VpZ2Rhd19VR1h3S1dDaFFrR2RsMXBnUV93b2d3UTNSdDdiQXhmVWhGcmcyVG1kODVDQ3RRdTFyM053Q293SktOaXRqaHBKNlNFM0NBZGZmMXNkWF9wRVE2NnptZFZ1d3l3aEoxR2JiX2lENkNuZkxMTlE?oc=5"
+  },
+  {
+   "ts": "2026-11-06T15:00:22+00:00",
+   "title": "၁၉၆၂ နဲ့ ဦးချစ်လှိုင်၊ အောင်ဗလ၊ ဦးသက်ထွန်း- ဗိုလ်ချုပ်ကြီးနေဝင်းနဲ့ လူသုံးယောက်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cwp93m03nkdko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-11-06T15:00:20+00:00",
+   "title": "FATF အမည်ပျက်စာရင်းနဲ့ အနောက်နိုင်ငံတွေရဲ့ ဒဏ်ခတ်ပိတ်ဆို့မှု ကွာခြားချက်",
+   "source": "BBC Burmese",
+   "markets": [
+    {
+     "market": "fx_kyat",
+     "direction": "bearish",
+     "confidence": 0.65,
+     "rationale": "New sanctions pressure the kyat"
+    },
+    {
+     "market": "gold",
+     "direction": "bullish",
+     "confidence": 0.65,
+     "rationale": "Kyat pressure drives savings into gold"
+    }
+   ],
+   "url": "https://www.bbc.com/burmese/articles/cqvgj81ddzl8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-11-06T15:00:20+00:00",
+   "title": "အမေရိကန်မှာ မဲလိမ်မှုကြီးနေတယ်ဆိုတဲ့ထရမ့်အပြော တကယ်မှန်လား",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cqd09mdx4p2ro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-11-06T15:00:20+00:00",
+   "title": "ရှမ်းတွေ ကန့်ကွက်ချိန် ရှမ်းပွဲတက်တဲ့ ကိုးကန့်ခေါင်းဆောင်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/crx2d1qwdde5o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-11-06T15:00:20+00:00",
+   "title": "လနဲ့ချီကြာမယ့်အယ်လ်နီညိုဒဏ်ကို စစ်ဘေးကြားက တောင်သူတွေ ဘယ်လိုကျော်လွှားကြမလဲ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c3qjn4jnqe9eo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-11-06T13:30:16+00:00",
    "title": "အထက်တန်း ကျောင်းသင်ရိုးညွှန်းတမ်းတွင်ပါ စစ်တပ်၏ ဝါဒဖြန့်ခြိမ်းခြောက်မှုများ ရှိနေ",
@@ -2143,48 +2198,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONk12LTJoZUpGZnpLdFVHLXZvV1JWa2VHSHZ4Uk1SRUtiVkZwMkhBNXRpaGlxV2ZmS2J3M0I1WkFFUkwyQUNTTGNrblFCckpZZS1NdDZfbUFHcHlPd3hyQ1dLc3FHMEVDY3BxUEpiaFotODBqUDdoblJpRlZ0cC1obWwtLTgxYnlHSmxpRDF0a0QtakViMlpYWVNFR3gzUQ?oc=5"
-  },
-  {
-   "ts": "2026-10-29T03:30:17+00:00",
-   "title": "Myanmar theatrical artistes to perform at China festival",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYkRjeUp0elZQU1VyNGE0TFNIb0NtR2xTRzhRczRqMll3VFhySzZTRzNsME5uRVVWMEF3WmFWNS1hVm8wNm5USERtdEV0MHNTYTJSb1lYeC1JcXR0clcyc215R1FRNGxxZ1R3YW13SS1hRzRPVjNiS3hjSFB1WmlsSDFLYUVHN3Bn?oc=5"
-  },
-  {
-   "ts": "2026-10-29T03:30:17+00:00",
-   "title": "President Receives Russia-based Areal Group Delegation",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOEJYVEdVeUJ2WHJFS2Q3NHBadHJyUFB1aWRQakE3Z3ZaUGxKRHowMlE2YTVkRUlVUkdrVE9PR0k2WTlTMlJNdl9vUFBmWHBtT1M0S1NWYlZNY1d6N3k2Ukluc0VoV01heE1KdzlsT2hLOE1qeGozVEVPVXBKUlpzMVYxM1pBZw?oc=5"
-  },
-  {
-   "ts": "2026-10-29T03:00:22+00:00",
-   "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing gives the keynote review and guidance address at handover and practical demonstration ceremony of technological projects completed by the Myanmar Space Agency (MSA) during the 10",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTDB1MDVwWk0xakxNb0lQWERWVElNQU5DdGF1V1ctZ1psR1VhT2hRUHhaX2ZuZlotSWk2Y3JlS1JNcmZhN1ZJVFB4Y29DZF90S285UUJySVVsdVhHSGdLNUVoTFd0Ni1kMDNJQ0tqWGUxN2ozQ3VGZTRCVVRIYlEteUE4OU9acmlyeXp6Ni1zdWxFdWZDRmdxZlo3YmNqQ1RQYldnNm5ULXBWRm9DT0pySXMwV3NZdW9zRmJpVDdUSk42VEk?oc=5"
-  },
-  {
-   "ts": "2026-10-29T02:00:21+00:00",
-   "title": "လစာပေးဖို့ ငြင်းဆိုတဲ့ တရုတ်အလုပ်ရှင်ကို သတ်ဖြတ်မှုနဲ့ ဆက်စပ်ပြီး မြန်မာဇနီးမောင်နှံ ၂ တွဲကို ထိုင်းရဲ ဖမ်းဆီး",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.co.uk/burmese/live/cw8dzly1v81yt?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-29T00:00:19+00:00",
-   "title": "China leverages Taiwan’s reverence for Sun Yat-sen to promote ‘reunification’",
-   "source": "RFA (EN)",
-   "markets": [],
-   "url": "https://rfa.org/english/china/2026/10/28/china-taiwan-sun-yat-sen/"
-  },
-  {
-   "ts": "2026-10-28T21:30:20+00:00",
-   "title": "Questionable governance: Marking work in parliament",
-   "source": "Frontier Myanmar",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaGVfS0dGaFpRR2EyenpXMnVVSnp2aXFFeDZseEFLN1N2R0d1Q2RKbVAzN3hqRjJPZjRaWTlMNVFiRUVmaEZwZndoZEp0dkk3TlVqMGNGTmg1anBrbmdoblpkdzlMWlJDbWtfMnpqSVBjZW1YTk9zblN2WWdNcXNSMEhDVjk0RVRaMWRtMkNVNA?oc=5"
   }
  ]
 }
