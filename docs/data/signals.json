@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-06T05:30:18+00:00",
+ "generated_at": "2026-11-06T06:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-11-06T06:00:20+00:00",
+   "title": "မင်းအောင်လှိုင် တရုတ်ကို စိတ်ကောက်နေ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/82127/"
+  },
   {
    "ts": "2026-11-06T03:00:21+00:00",
    "title": "5 November 2026",
@@ -2171,13 +2178,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MNkRRdjdwN1doeW5ZQmZNQ0FVODQyY2VEQXFod2NHOXVveUotVWNnbFZOWEhnd0dlNHpMLWs4Yms4cjZHdnpvdEtxS3NmVkJPcUE?oc=5"
-  },
-  {
-   "ts": "2026-10-28T07:00:24+00:00",
-   "title": "Commander-in-Chief of Defence Services General Ye Win Oo enjoys performance at Vidhura Drama contest",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZEVJTklxY0ZDU2Y0M21tVTdWODhrLThLWXFWTUoxRTlsWWxvRDZlal9TSWlhQlM5N3duMWZZcTg4bExha0hEblBkLXg0YUJnM1dKMThGbzZEa2cwVEdpUlVXWmVBeG4zMVB4NHN2a2NWaE5WYXUySWtwUmh5d05EM1VxMk1NWVB3RUYwSEtFeWVPNVRuaXNZU3ZoXzRWVjNIOFpwQXlPMWI3VklZSVByem81aGk?oc=5"
   }
  ]
 }
