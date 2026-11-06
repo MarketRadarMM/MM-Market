@@ -1,6 +1,48 @@
 {
- "generated_at": "2026-11-06T15:00:25+00:00",
+ "generated_at": "2026-11-06T15:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-11-06T15:30:19+00:00",
+   "title": "MoEE briefs MPs on State activities in power and energy sector",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLTVjX3hFczdWemtmRHJhMEd5ck9tWEZmdUN5ZVJOR3ppV19sWTZVanBicHdHMVN6TU10YmNuanh0cFlCQ1pUeFF0a2R6YXM3SjlXSWEtNlJDVnoxRlBlQ2Rzd2N5LUdOZEZJTTBVT0tubzI1RWw3eGxpUXdCTzFZLVh0bEwxeENqZmVFamh2c0g?oc=5"
+  },
+  {
+   "ts": "2026-11-06T15:30:19+00:00",
+   "title": "Thailand ready to make new investments in Myanmar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JeXBFSXNZLUJRVkd6UTNaMzFYT0lCY0NRTHdOYjFCSnB0Q3FYV1h5VHVpRVdROTR6Y0g0LTB4aF9Ea1RaM0trVmZpS1M4T01kNWIyaWFEY25zbFFGR1BOb1BYellmdzVzSGo5ZHRaNGYxU25VUFBfMmswelM2a3M?oc=5"
+  },
+  {
+   "ts": "2026-11-06T15:30:16+00:00",
+   "title": "မြေရှားလုပ်ကွက်တွေထဲက လိင်အမြတ်ထုတ်မှု",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cvgy4xn5nleo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-11-06T15:30:16+00:00",
+   "title": "မမြဆည်ဖြစ်ရပ်နဲ့ မြန်မာ့ဆည်တွေမှာ ဘာတွေစိုးရိမ်စရာရှိလဲ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cjqlne15pg2lo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-11-06T15:30:16+00:00",
+   "title": "ဒိန်းမတ်တရားရုံးမှာ မြန်မာစစ်အာဏာပိုင်တွေကို အမှုဖွင့် ကြားနာတာမျိုး လက်တွေ့ ဖြစ်လာနိုင်လား",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c3n04prq1rlyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-11-06T15:30:16+00:00",
+   "title": "မြန်မာသုံးစွဲသူတွေကို စိုးရိမ်စိတ်မြင့်တက်စေခဲ့တဲ့ Binance ဟက်ခံရမှု",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cx7vpy85my9po?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-11-06T15:00:24+00:00",
    "title": "Defence Services C-in-C visits National Defence Academy in Vientiane, arrives in Luang Prabang",
@@ -2156,48 +2198,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPek1VRi1RbnljVUhBX2hFcW9NSmhTcTJYZ3czUFJLeUtzNGlnVHBrZThnb2VjSmVpc0MwWTVjSWV5bjVWckk4c1BackNoSGZZQWxkanZKYjNkQXZKeUJMQjBZLXA3Mmp0eHVBVHBNamJXakFLMVZUdWFwS0NZWXV1aHloTTZETmVEeVlNdmxGTmFzcWM?oc=5"
-  },
-  {
-   "ts": "2026-10-29T04:00:22+00:00",
-   "title": "UMFCCI Tech Committee calls for monthly talks, wider seminar outreach",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQT0NzQjQyeVhZNGREdzdpVmUwUnRCQm5qemxRamg0UmZtVU12Y182MzlVMUJuTWkxZzJPZDAtMmRSU0pndVI1U3UtbWd1RER3cXNmZXJKaDBUb21xWkhmQ0J5alVCcEFWd2dQbFZxRGZKbXJjRTJHaDMtZWdWdEpBa0xxTkt0dmZOcnR6ZGJ5TEJFMGRMMy1hTA?oc=5"
-  },
-  {
-   "ts": "2026-10-29T04:00:22+00:00",
-   "title": "Pindaya disburses MSY revolving funds",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XUE0wWUdrUnV3RDh6OGRCS1NCQzBwcE1lUEIzWTFjekJMU1BBN29PVkgxdHhNVkMwREozVkhubDNfem1Odk4tLXpIVjlxTTlIZmU3YmNoWGxTYzZhTU5GYUthUHpmV3E3UXVTcHRlWQ?oc=5"
-  },
-  {
-   "ts": "2026-10-29T04:00:22+00:00",
-   "title": "Aunglan’s preventive measures against El Niño-related drinking water shortages inspected",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTUNOaUpDM0lkcGdiRGpEcDI5dFoxb2N2NlhwTjQwYUU3YTdIUy1yTmNFb0kwWDZZUFhhV0tlR3pHckh3ZE1iMGowTlYxblRydjl5SEZ3emNWQ1FqS3hkdHJsV00yUGtJVHFXeS1ycnVjUlJ1ZXJSLUFIV0NnQkh4Z1VaOHZqT1dYdURrSDF6andSd3FoTXZzVDg0LU9VT0JJcUxtVE90ZEprZDhDMFBnQU53?oc=5"
-  },
-  {
-   "ts": "2026-10-29T03:30:17+00:00",
-   "title": "The Country Must Tap Regular Trade Routes for Exports",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcnZFbzJFYTNOYUUyRTUzYS1vTjNMVllNbjI1NzhFdHhwRkNDYjU3eE1NZllpaFRHNWVuMXliMlk2REZtcVdVZkNTVjNmclhrWVBDZ2lyNUNTVnFmME9XZy1qMTRsZGtkMFEweWJ0RXJROVRSaDV6S0FxY1RhRGJMWnFIekc?oc=5"
-  },
-  {
-   "ts": "2026-10-29T03:30:17+00:00",
-   "title": "Mohnyin Thanbuddhe Buddha Pujaniya Festival set for Tazaungmone Full Moon",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOM3ZqaUR0a1NNcVF0VTNaN1Q5TGZYX09DOFc4SVMzcHdXcHM4RTJKeWlDcWdqSjFXal9URzQyQm5oMUdFd2E2V1lVdE5mOXZvWUJ4MGFEXzNURk9ZaDY0WGdXMDBRSEg5UkJIa2g1VnVHOUp1LS02cHg1blpUNGMybVktTmlaX0tRa2wzZ0dsQkVkUExpa1puWktraTJmZTA?oc=5"
-  },
-  {
-   "ts": "2026-10-29T03:30:17+00:00",
-   "title": "US Envoy Spotlights People-to-People Bonds Ahead of Diplomatic Milestone",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONk12LTJoZUpGZnpLdFVHLXZvV1JWa2VHSHZ4Uk1SRUtiVkZwMkhBNXRpaGlxV2ZmS2J3M0I1WkFFUkwyQUNTTGNrblFCckpZZS1NdDZfbUFHcHlPd3hyQ1dLc3FHMEVDY3BxUEpiaFotODBqUDdoblJpRlZ0cC1obWwtLTgxYnlHSmxpRDF0a0QtakViMlpYWVNFR3gzUQ?oc=5"
   }
  ]
 }
