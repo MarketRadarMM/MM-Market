@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-11-06T02:30:17+00:00",
+ "generated_at": "2026-11-06T03:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-11-06T03:00:21+00:00",
+   "title": "5 November 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14Q0JCTDk0WVI1aFZ1SmR6VFdmTC1hV0ROdzlzcTFlSjBsdW9uQVdWdFd5LUNtMlNCSThnYUlKZjVQTU5mUEVzVUdWMUJ6RW5MOGc?oc=5"
+  },
+  {
+   "ts": "2026-11-06T03:00:18+00:00",
+   "title": "ရီပတ်ဘလီကန်ရွေးကောက်ပွဲရှုံးလို့ ဟက်ဂ်ဆက်သ်နဲ့ ရူဘီယို ရာထူးကနုတ်ထွက်ဖို့မရှိ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cm0j00gnx452o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-11-06T02:30:16+00:00",
    "title": "Hurry Up With Our Investment Projects, China tells Myanmar Regime",
@@ -2164,20 +2178,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZEVJTklxY0ZDU2Y0M21tVTdWODhrLThLWXFWTUoxRTlsWWxvRDZlal9TSWlhQlM5N3duMWZZcTg4bExha0hEblBkLXg0YUJnM1dKMThGbzZEa2cwVEdpUlVXWmVBeG4zMVB4NHN2a2NWaE5WYXUySWtwUmh5d05EM1VxMk1NWVB3RUYwSEtFeWVPNVRuaXNZU3ZoXzRWVjNIOFpwQXlPMWI3VklZSVByem81aGk?oc=5"
-  },
-  {
-   "ts": "2026-10-28T07:00:24+00:00",
-   "title": "Five local ethnic residents wounded by shrapnel as joint terrorist coalition of KNPP, KNDF, and so-called PDF wantonly launch improvised rocket attacks on innocent ethnic civilians peacefully making merit in Lehtwae Village, Loikaw Township, Kayah State",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZzVYNXFpMHRvVFZaYjktQ0c4UGFoS0hvWHJ3amNxVGtBOWJ6YnQxTTZIU3hwczBJYTNQRDM1OVc0TURjNmRZTnJpVnJ4VGZjTGtWY2puVl9KT0dWTW1TSGU2QUlla1NiT1pKNl9neVdtQ1ZPbUxXZWlvLWhGSHZDeU9RYUxERjFyWDc5UFVieUVFQlVPUmtrY0x0blF5X2txQ3U2X1o3dVg3X0x1NWY2dmJ3a2E0ZWQ1Q0pwMGxTc0o4SlE?oc=5"
-  },
-  {
-   "ts": "2026-10-28T07:00:22+00:00",
-   "title": "အာဆီယံအထူးကိုယ်စားလှယ် မြန်မာရောက်၊ဒေါ်အောင်ဆန်းစုကြည်နှင့် တွေ့နိုင်ခြေမရှိ",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81951/"
   }
  ]
 }
