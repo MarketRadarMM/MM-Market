@@ -1,6 +1,55 @@
 {
- "generated_at": "2026-11-06T09:00:24+00:00",
+ "generated_at": "2026-11-06T09:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-11-06T09:30:17+00:00",
+   "title": "MNHRC inspects Nay Pyi Taw Prison, Elderly Day Care Centre, and Nay Pyi Taw Childcare Centre",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOanB3Y2RoS29PY1Z1UWhVVDl2ZGtYR3V2NDFEMU15MUk0dWFmNV9WTDhkVzZCY2NvMmYwLWl0dnJJcWk5V1I5eDl5NU1wZXpPeVpwZExmVlZvWXU4YWU2TF9McGdzQWVqUlVBakpVOUs5OE8yS0l1aDVVcjk4YVAtZFQydk5lcDBjaVJrZi1BeEotRDRsek9ja1Jtd21jSlpwTUtGTjNCUmlWTWE4WFNSdEZ4MmdyZw?oc=5"
+  },
+  {
+   "ts": "2026-11-06T09:30:17+00:00",
+   "title": "Timely Completion of Falam Reconstruction Urged",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5MdG5idWtTMzNtUkY0VllNd1NLcHhvQVBTNF82Q0ExVy1PdG43MGdBZE4zZDVsbkJxeWJJOXlnTFY5d05hMVlpQ3RFazhqUDZra1FibnVHOEZWT1dCemM1R0wtYmtrSks3aGVlQzdTclJmeUhoQmhqclFIeFU?oc=5"
+  },
+  {
+   "ts": "2026-11-06T09:30:17+00:00",
+   "title": "Pyidaungsu Hluttaw Debate Focuses on Constitutional Amendments",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYnFRbEpweF9JeGRjYU9hRHhhUE9WQkZucGxSSFJIUlcwSGFhdGFDRl9NeUJRT0FoVVBiUU5ZUHdZbFZMa0xrVTZ5dENKWUUxMlBHRGFWc1RqdmdYV19qSzVqZ24tUXZWckctT3ZnQ3pEOWsxejkwVTJsODI4bmxhbmE5TTJkMkdHNHAwSEF0SWw?oc=5"
+  },
+  {
+   "ts": "2026-11-06T09:30:17+00:00",
+   "title": "MoL Union Minister receives IOM Chief of Mission",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUmtTVEstaGMwMVppdHpXOU5pekY5Z1d2TDlzWjF3N1p5dVZRRVlJSWE5LURwTlBaLUlqUXhNQzBBbWV4ZnhsNDFadlNDS2VKUEtObTdGcm1FTDl0cHE2ZklkX0FKSklhb1NMOVBRYlR5eHJsaGpXeWZudFFZV1dsTw?oc=5"
+  },
+  {
+   "ts": "2026-11-06T09:30:17+00:00",
+   "title": "Mingala Taungnyunt Welcomes New Mingala Market",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE85Y1NEQjFFd3dGLXBNN196Q2g3RmRZSlpYQnlzcFphQWxTdGR0cjRYX2RpVkhzZG5od3l4Vk5YdDc4SmxhcTVnVldkaXVDeWM3VVQ4Xy1lWjc3TXJ4NGN0RXA5c2d2MkFjd0Vjc3JKMjBPMVdNT1pqUDFKVQ?oc=5"
+  },
+  {
+   "ts": "2026-11-06T09:30:14+00:00",
+   "title": "Airstrike on Sagaing hospital kills Myanmar doctor, medical student",
+   "source": "Myanmar Now (EN)",
+   "markets": [
+    {
+     "market": "pulses",
+     "direction": "bullish",
+     "confidence": 0.55,
+     "rationale": "Conflict in bean/sesame heartland threatens supply"
+    }
+   ],
+   "url": "https://myanmar-now.org/en/news/airstrike-on-sagaing-hospital-kills-myanmar-doctor-medical-student/"
+  },
   {
    "ts": "2026-11-06T09:00:22+00:00",
    "title": "မြောက်ဦးကို စစ်တပ်ဗုံးကြဲ၊ ကိုယ်ဝန်ဆောင်အမျိုးသမီးသေဆုံးပြီး ၁၁ ဦးဒဏ်ရာရ",
@@ -2136,48 +2185,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTjM1UVlWUUV5bTB5bEV1dWRVSmRxMnByd2d5bmQ0bDBuSlFvRkhxTHZOTFNDdnpNVms2UTAyYnQ2Ymg5N2tLLWtreC1aRzZMV1B4QzZLY3hFazRkY0syRVFzTGJjZnFHMDItRjBCaFQ2TkJTUHB6Yk81TC1wd1pLMU9hMFU1cDhPSlhpY0hmU1B3U05rUTdtbkpqM1pLQkVVRk9j?oc=5"
-  },
-  {
-   "ts": "2026-10-28T11:00:26+00:00",
-   "title": "RBF+ will support sustainable growth of Myanmar’s MSMEs",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeUVkYm5aRHFHTXdvektQbDUxemRnQVU5dzV2RG1EbGFxQm5xOE5fTGRYOXUzLXRYRjFfckFNVmNON0pPNUFZMHIwdURzRGU1OThaczFJVzF6MVZtaUUyQkY2VkFZSWphVUN1b055UTU0SkFaandxU05XdUl1Zkx1TC1pQmg?oc=5"
-  },
-  {
-   "ts": "2026-10-28T11:00:26+00:00",
-   "title": "779 Myanmar workers sent to South Korea over 3 months",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQV1M0X2ExeUdDeGJuU2lENWlaVERXMkRwa2JMOUxGMmtnbGZFdElCT211Z3ptUEJTUTRIdHM0OVRQV29pZXoyR1ZoWUtmVUNMOWkwd3N2MkdpWmZYcE1LTVo1cmFzQkpydU5pbzZxaWwwTmV3TlUwMmRuQUlVQTNFd2RYYWI?oc=5"
-  },
-  {
-   "ts": "2026-10-28T11:00:26+00:00",
-   "title": "Trishaw drivers provided foods and financial support on Thadingyut Full Moon Day",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMjhGellzTEh3TzcwdU45bEJTaVg2MlUyaEZ5S1NTUVowbjBRcUwtdmtTUDNwQnQ2TXhCa1NBT25sbUVidXZTY2dvWVhRWENUVUZ0SklxUHBwdzZPdHljeHU0dURmLWNYeTR6T3JQQ2h0MVVxbEE4bktuVXBoaTZsMmlvMmR3NXZxd2ZFQnVKVXI2aW1uQnB2cERPRHVldElZeDR0WVU4UjY?oc=5"
-  },
-  {
-   "ts": "2026-10-28T11:00:24+00:00",
-   "title": "MNDAA နှင့် ရှမ်းအဖွဲ့အစည်းများအကြား ဆက်ဆံရေး တင်းမာ၊ တိုက်ပွဲဖြစ်မည်ကို ဒေသခံများ စိုးရိမ်",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81976/"
-  },
-  {
-   "ts": "2026-10-28T10:30:19+00:00",
-   "title": "175th Shwegyin Thadingyut Floating Lantern Festival held",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObkZlR3J6U3Z4X0RCdjhiVTRqblNXVi1jSzd0cDVTYXJvbTRKUFlZUHBQRjkxck9HMHlkN0E4Rjh2cUZ0azJmSE9KOUNaYUxmaExOa1JOM25Sa28ySUgyWFVfakVYQlpBNnpDYUVqSENkOXhIZ1QxUzFFUGpjQmJneF9aRGlDb0I5?oc=5"
-  },
-  {
-   "ts": "2026-10-28T10:30:16+00:00",
-   "title": "Myanmar regime imprisons two Islamic teachers and seizes mosque",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/myanmar-regime-imprisons-two-islamic-teachers-and-seizes-mosque/"
   }
  ]
 }
