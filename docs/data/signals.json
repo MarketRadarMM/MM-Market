@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-07T22:30:19+00:00",
+ "generated_at": "2026-11-07T23:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-11-07T23:00:21+00:00",
+   "title": "Raising awareness of heat risks and water scarcity",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONGRuWklIWHB4YllwRmZiczIwbGZVQkVWWkNvM1lkdUJIRWRCMEVRSU9jMGNITkZPOUlkM0hwTm9pRFFBWGxJZlNCaDk2Z2N2aVJSMk9MN2JlNW42ZWJ1YVpMbGNfdkZOYlVXMUtsc0lvQzh4T2VVZnlaeUx3SXhvbw?oc=5"
+  },
   {
    "ts": "2026-11-07T22:30:19+00:00",
    "title": "GTI Insein to conduct Training of Trainers programme",
@@ -2191,13 +2198,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQb1pwdWdVa0FIZnpibDBmVDdrd2oydnJoOUZvZHZ6Mm1vNXhodEhENE1NRVRFb0JRcU5JQXF1S1p3Q0ZZZGl6WlMtc3hyUjRuUVNSTFpLWHBlZ1NWSDA3SXQ3aXJ5QXIxamNlQlRhSGI5TjBRa1lZODRpd24wVXZOTVV4bGh2WDZLNjlBMHN3bGlJTkxRZm1qUm1yZnNYZFlQMG1NWjBtSDVMVnhsMHMwaFYxV2hrV242UmFzQXVVWTZlOF9KcXpMWFBXMA?oc=5"
-  },
-  {
-   "ts": "2026-10-30T08:00:17+00:00",
-   "title": "လေကြောင်းတိုက်ခိုက်မှုကြောင့် ချောင်းဦးပဋ္ဌာန်းပွဲပျက်၊ ချင်းပြည်နယ်တွင် စစ်သုံ့ပန်းများ သေဆုံး",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/81996/"
   }
  ]
 }
