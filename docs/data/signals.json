@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-07T16:00:22+00:00",
+ "generated_at": "2026-11-07T16:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-11-07T16:30:18+00:00",
+   "title": "ဂွစျေး Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMC1XNHE4OVhEMlJtNTZodmVQZGhPNC1tVU5TbXUzWkUwSjJaRGFIeFVsWU1QWkdkVTF6N1FqZE9COG9pMGhMbG1tS3g4a1pMSmRENWVuMHRueTlSODJZZGpyX3hJdVU1Qm0zMXNNb1A5VGtjUmtaaDFoYW1JRy1feUs3UVFrbU9DWWUxdjNYTQ?oc=5"
+  },
   {
    "ts": "2026-11-07T15:00:20+00:00",
    "title": "Myawady Daily Newspaper 24-2-2023.pdf - 24-2-2023 MWD(3).pdf",
@@ -2191,13 +2198,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZVRwOTJxRmsybkRMRy1yRmFfaVFNb01wWEcwSVNpakZOTWFDUUU3aGZFTU5Sd1dBOE5DM2did2UyVGdlTXYycmpSZ0M5U2F3TTRVYjdIUEJ6TEUydzhnY1Y1cnQtSUFISVlENDJ2UUZKYmtMNTJGN2tMa01hRTBKS01SRkx2UEhzclh1NlRxN1RaN2JsQzlRV2lqb0RDakJfVlE3Q19scVdoVmJEb2cwR0tGYU5oS1ZoV1NXQ1VHU3VxUkZwbWtrTEMxdlFKV19P?oc=5"
-  },
-  {
-   "ts": "2026-10-29T13:00:25+00:00",
-   "title": "Cartoon Campaign Boosts Myanmar Regime’s Hydropower Dreams",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNckotZXdid2paZ0FWMDVuWE1Ld19vdDF1Smp5Sm53VHJxbEEtYXJPUkZWUkU0dlJxQmxac2twenc2bUdXQVkzQjE4ejRfSlF0aU43dFVLWVk5cmszSGcyU2VwYUZsXzQwa0FnbUJoNnZwRW9uV3U5Q21zaUFCRVhfVDF5RHpIR0V4SG1VanNqMVJZNnVRY1hRUHNndk53SWdG?oc=5"
   }
  ]
 }
