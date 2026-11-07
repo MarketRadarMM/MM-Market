@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-07T14:30:19+00:00",
+ "generated_at": "2026-11-07T15:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-11-07T15:00:20+00:00",
+   "title": "Myawady Daily Newspaper 24-2-2023.pdf - 24-2-2023 MWD(3).pdf",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOendrRXVqa1VCM1E4aS1XZXRkekhnck5zTjZxeFdZX3oyZk9ULUoyVTVNd1IwS0htZlFFVmQyX3Q5X2J0OHJRWTFYMXNCRmI3dEtnb0t6dlhzVWE5Wk9selVqdFhqdTVyclppR3k4RDgyeDlsZzA5bERqcU84dTNMZjZWdkVIMUFJQi1HdEE4NkpiTnJMUlJIRFRZQkVabjhQMmhtTlJkZ0Q3WnBTdF84SnhVVVJfb25UU1NwUDFZdHcxdTktcV9YZlNUTVRjemtpbUFObHFzeF96NG80dzBPcTJXMDYxUGt5SjN3SzN0Zw?oc=5"
+  },
   {
    "ts": "2026-11-07T12:00:19+00:00",
    "title": "Over 2m Myanmar Migrants in Thailand Reject Regime’s Identity Document",
@@ -2191,13 +2198,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNckotZXdid2paZ0FWMDVuWE1Ld19vdDF1Smp5Sm53VHJxbEEtYXJPUkZWUkU0dlJxQmxac2twenc2bUdXQVkzQjE4ejRfSlF0aU43dFVLWVk5cmszSGcyU2VwYUZsXzQwa0FnbUJoNnZwRW9uV3U5Q21zaUFCRVhfVDF5RHpIR0V4SG1VanNqMVJZNnVRY1hRUHNndk53SWdG?oc=5"
-  },
-  {
-   "ts": "2026-10-29T11:30:17+00:00",
-   "title": "Myanmar junta launches arson spree in Sagaing after colonel’s killing",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/myanmar-junta-launches-arson-spree-in-sagaing-after-colonels-killing/"
   }
  ]
 }
