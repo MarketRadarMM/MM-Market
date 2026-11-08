@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-08T11:30:16+00:00",
+ "generated_at": "2026-11-08T12:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-11-08T12:00:18+00:00",
+   "title": "ကယ်လီဖိုးနီးယားက အငှားကိုယ်၀န်ဆောင်ကလေးအပြည့်နဲ့ အိမ်ကြီးရခိုင် ''ထိတ်လန့်ဖွယ်စံအိမ်ကြီး''ဘယ်လိုဖြစ်လာလဲ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c875pv22k2v4o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-11-08T11:00:23+00:00",
    "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing inspects Yangon Technological University in Insein Township and urban development undertakings in Hlaingthaya and Shwepyitha townships",
@@ -2184,13 +2191,6 @@
    "source": "Myanmar Now (MM)",
    "markets": [],
    "url": "https://myanmar-now.org/mm/news/82004/"
-  },
-  {
-   "ts": "2026-10-30T12:00:20+00:00",
-   "title": "‘Be back by 7’: For Yangon’s young, a life ruled by a self-enforced curfew",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/be-back-by-7-for-yangons-young-a-life-ruled-by-a-self-enforced-curfew/"
   }
  ]
 }
