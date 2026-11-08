@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-08T08:30:19+00:00",
+ "generated_at": "2026-11-08T09:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-11-08T09:00:19+00:00",
+   "title": "iCloud Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KcF84NTBzUlRkaGhNblN3eWNKZERSeFV1TXhiSUlHTjZnMUYyZ1JSQkZTVHE1X2F6NFhTTzRraHNGcExIYzFWT0lXZVNzZnM?oc=5"
+  },
   {
    "ts": "2026-11-08T07:00:19+00:00",
    "title": "Gyobingauk Township Public Library Holds Reading Activities for Children and Families",
@@ -2191,13 +2198,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdC1xdWVPQ1AySVY0dVd6cm9ObjFLYXQtN0FvNGFBckx6WFZFLS14ZzRHcE11LWJMUjFzQVNmNXJXMEZqZ1kzM3JmVnR3NEFDdVdlaWZsakp4VTNiTmFYV3NUdWNoNGRfakl6WHliRTlONzlFdWZrQmR2dVNsNGZkQzhWTUpXOVI0a1VkZWZ0ZUxnYWx6TGIyZENXcmwxUzVtb080ZmJvMzJ3YWhqcmNhM09nTXlmUzJT?oc=5"
-  },
-  {
-   "ts": "2026-10-30T10:30:15+00:00",
-   "title": "Big Brother Defends Myanmar Regime at UN, Chinese Aid Shortfall, and More",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMWhKQVlYdnpjN2paZjBKbTFQR1VDR3VodFdqZ0xiQUJMZm9WOEYyRFVMODM4b214ZHpWSW9MZHZOcVUwa3pzY3p2RThtR3BZUW1YS0JTZUJscUllZTI0RzJyWFh4M2dRdUR5WlBDaVZDbkhnNEN3a1RyLXFfTEpKcDlfakpiZDZJekItNGNUTjFlbVBjVkNEWERqWnFYaUZzYVY5d3BkLTM5US0wRTY1cldJYjZqLWxfdlp5MkRlQQ?oc=5"
   }
  ]
 }
