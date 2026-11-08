@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-08T06:30:17+00:00",
+ "generated_at": "2026-11-08T07:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-11-08T07:00:19+00:00",
+   "title": "Gyobingauk Township Public Library Holds Reading Activities for Children and Families",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX1RMWDQ2c21EUWY1ZTUxMnlFSWJlNnlPZ0xNQWV2M1R3YUtod1E3a0xHME5paEU2Y1cwYWk0VXBhaExiQzZLb0dSMjc1Mlc1Ym5LbGRWQVZrYWx3M0dXdFEtMmh6a2M0OHl1cW1JcUVCckJyTHNMQThTQ3pfcV9yS21Ua3hKdnJxZ3RyWkxpZWRFV1ZwMTlFYUpqZnY2VXJoa3d1R2lSYmt1NW1TQzc0?oc=5"
+  },
   {
    "ts": "2026-11-08T05:30:17+00:00",
    "title": "- yktnews.com",
@@ -2191,13 +2198,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMWhKQVlYdnpjN2paZjBKbTFQR1VDR3VodFdqZ0xiQUJMZm9WOEYyRFVMODM4b214ZHpWSW9MZHZOcVUwa3pzY3p2RThtR3BZUW1YS0JTZUJscUllZTI0RzJyWFh4M2dRdUR5WlBDaVZDbkhnNEN3a1RyLXFfTEpKcDlfakpiZDZJekItNGNUTjFlbVBjVkNEWERqWnFYaUZzYVY5d3BkLTM5US0wRTY1cldJYjZqLWxfdlp5MkRlQQ?oc=5"
-  },
-  {
-   "ts": "2026-10-30T10:00:20+00:00",
-   "title": "ရခိုင်မှာ စစ်တပ်က လေကြောင်းတိုက်ခိုက်မှုတွေ ဘာကြောင့်ပိုတိုးလုပ်နေတာလဲ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/crgqwgz93gvgo?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
