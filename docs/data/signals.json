@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-11-08T12:00:21+00:00",
+ "generated_at": "2026-11-08T12:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-11-08T12:30:16+00:00",
+   "title": "သန္နိဋ္ဌာန် Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPV3NmR0wxYlhFWlRVM08zQ0Mta2hsbHZhY2psYXdQTDlqMjhZSnVxbWltQzFfYm1GeVNwQjNnU2s2VDdwTzAwQjYzam5LSTdrUkljUXBSR3E4WVh5cnMydEFiNUdYVXJRQzFLUzRpVnFMVmhMUGpRQ2JPUVBFd3FCWkZnMzh3Vlhnc2lVeG5TNHNNSE9DSWNsN0VsRHpBMEpUZkZhb1I5Zk5RQnFUS0xGbnVSdmt1NXJtNnFkRWNnQm5qRzE3ZmVSNTVLaw?oc=5"
+  },
+  {
+   "ts": "2026-11-08T12:30:16+00:00",
+   "title": "China Wields Carrot and Stick at Beijing Meet, Regime Seeks Elections in Shan, and More",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMXVqbnIxX2c5dVY4TExaTnQ2Z2pxeFFTN0hPaHBiTWlDTTdObGlsZ20xRnhEUFZqckhVTEl4c0pXREFOZWszVEdlc201dGlPd1ZTYi1GQ19sTGZZb1ZkOXhvNWJCZWtQc0N1bC1xTnFrd3NaVnQwZmZrOHYxczRxdkl5cnJIWDFZOVZyWUVySGc4TTlra0h3ZEFJVFNvRF92UUpVR2J0ZzczVjlxc1hFNWlLdTAzcGFJSU5XMDBlTEl4YzBFYXZaV3k4aEJNWUpUTkE?oc=5"
+  },
   {
    "ts": "2026-11-08T12:00:18+00:00",
    "title": "ကယ်လီဖိုးနီးယားက အငှားကိုယ်၀န်ဆောင်ကလေးအပြည့်နဲ့ အိမ်ကြီးရခိုင် ''ထိတ်လန့်ဖွယ်စံအိမ်ကြီး''ဘယ်လိုဖြစ်လာလဲ",
@@ -2177,20 +2191,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRl9lY0pkQjdKaXlGTmhzN2NwYXNjZzFaYTNKVVUyWjBmNWstUHA1Q200ajFWeVJ1aEk4SmFoSGJnSUNwNHR0bTJPd29BV2tWdUVtSUVMbkNiZThRZG9YNk9HRGFrSmtLY2NiX1h6ZTFXc2FOMXNfQ0pVZkJQQ0EwY192ZEtkdzZQNENHVHRrY3Z6UTdCNFBZd2ZlYkJKLUtfMC04REIzTGxrY0pi?oc=5"
-  },
-  {
-   "ts": "2026-10-30T12:30:17+00:00",
-   "title": "Rakhine Civil Society Urges UN No-Fly Zone as Civilian Deaths Soar",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVWFMOU1mbnFzY2E0RncyZkFXU1ZQY3BtS042UXdaWW4ybGgwNkk5Qk1SS1dyM2lCWkRHU0dQS0kzRnFFQTBEZVpPZnZVenpxOWE2dmotSVEtMWswQVZpV3YtRVNocmNIUlZrU1Y3ZXJubGZHeHdBQzZrV2IyX0hNc3lsSkxzV1ZNYllReS1OTExHRTlqMFlOczdXREhFMzI0ZW5GTHdhblJsakx2LVZxNU1HS3RMQU5rZFZqcWFPVk5fWXJHUlE4?oc=5"
-  },
-  {
-   "ts": "2026-10-30T12:00:21+00:00",
-   "title": "တော်လှန်ရေးအဖွဲ့များ၏ ထောက်ပို့လမ်းကြောင်း ဆုံးရှုံးမှုနှင့် စစ်ရေးချိန်ခွင်လျှာအပြောင်းအလဲ",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/82004/"
   }
  ]
 }
