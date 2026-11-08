@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-08T05:00:19+00:00",
+ "generated_at": "2026-11-08T05:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-11-08T05:30:17+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAweHdTbTJlRzgyamZsbkt5UllKbERncTdVODRtZkdfYTJLV0xSWTVBLXRabkMxS1ZIMUNPM093YXhpYTVZMWkxRUVIUQ?oc=5"
+  },
   {
    "ts": "2026-11-08T01:30:16+00:00",
    "title": "Links Archives",
@@ -2191,13 +2198,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/crgqwgz93gvgo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-30T08:30:22+00:00",
-   "title": "President U Min Aung Hlaing attends certificate of honour presentation ceremony and dinner for 27",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTzR2ZzVVSHN1cWMyeFFWYTR1MzRYR2NmdFlMTVhKVVduS2RrYW41SmZBaDg3ZTVSeF9tMzhjRHhtRG1HX1pySUFrYnkwSlBqZU9Mcy1ObnVPdXpFR0F0Zm5DLXBSaE1raHFsaUQ1Y0E4LUxfeEtWbmloVUhIcHh5c1ZZeVVET0ZUZ2xzYVpwQWJKZHJsaGptZVItWDZCVXJhTVdLRHRMZ01NMTJ3dzktV29GWmxnQQ?oc=5"
   }
  ]
 }
