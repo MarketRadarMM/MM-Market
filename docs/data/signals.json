@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-08T01:00:21+00:00",
+ "generated_at": "2026-11-08T01:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-11-08T01:30:16+00:00",
+   "title": "Links Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5lZ1NIOFNCa0J4TjdWZUQxSGpyTXRPT25OMEtBbzgxYUE1Ni05REhTdlk4eFVRalZpSVlRbkFWXzZvb1ppVHV5WEItVm1iZw?oc=5"
+  },
   {
    "ts": "2026-11-07T23:00:21+00:00",
    "title": "Raising awareness of heat risks and water scarcity",
@@ -2191,13 +2198,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTzR2ZzVVSHN1cWMyeFFWYTR1MzRYR2NmdFlMTVhKVVduS2RrYW41SmZBaDg3ZTVSeF9tMzhjRHhtRG1HX1pySUFrYnkwSlBqZU9Mcy1ObnVPdXpFR0F0Zm5DLXBSaE1raHFsaUQ1Y0E4LUxfeEtWbmloVUhIcHh5c1ZZeVVET0ZUZ2xzYVpwQWJKZHJsaGptZVItWDZCVXJhTVdLRHRMZ01NMTJ3dzktV29GWmxnQQ?oc=5"
-  },
-  {
-   "ts": "2026-10-30T08:00:18+00:00",
-   "title": "ASEAN Envoy Ends Myanmar Trip With No Public Aung San Suu Kyi Meeting",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQb1pwdWdVa0FIZnpibDBmVDdrd2oydnJoOUZvZHZ6Mm1vNXhodEhENE1NRVRFb0JRcU5JQXF1S1p3Q0ZZZGl6WlMtc3hyUjRuUVNSTFpLWHBlZ1NWSDA3SXQ3aXJ5QXIxamNlQlRhSGI5TjBRa1lZODRpd24wVXZOTVV4bGh2WDZLNjlBMHN3bGlJTkxRZm1qUm1yZnNYZFlQMG1NWjBtSDVMVnhsMHMwaFYxV2hrV242UmFzQXVVWTZlOF9KcXpMWFBXMA?oc=5"
   }
  ]
 }
