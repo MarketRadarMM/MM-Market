@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-08T10:00:21+00:00",
+ "generated_at": "2026-11-08T10:30:17+00:00",
  "signals": [
+  {
+   "ts": "2026-11-08T10:30:15+00:00",
+   "title": "Myanmar Regime Plans April Vote in 55 Constituencies Despite Continued Clashes",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaTRENW4wc3Y4LV84U2oteDM2UlBVZXM3WGtrM0FBRXFROWhoTE5pSTIycmFFWUpKQlpwM0pBdXdEZTJMbVJnS3FPTmYzNjJsclNRNkpQQnNsdEYwTVByR3U5MmdRV09Pck1qUWRnR1h0ODZtV3UzcnNoM0I4VkdUY3RnQ0ppdGc3QmNuQVVDamN3ZHF1MXV1eS1BNzdmWXNtOC16UmhPSEJTNXAwNXJmdDQ3QnlVMFRRQjh2eFp0YXQ?oc=5"
+  },
   {
    "ts": "2026-11-08T09:00:19+00:00",
    "title": "iCloud Archives",
@@ -2191,13 +2198,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/cjqlne15pg2lo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-30T10:30:15+00:00",
-   "title": "Business | Myanmar Regime Hosts Russian Mining Billionaire After Approving Gold Ventures",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdC1xdWVPQ1AySVY0dVd6cm9ObjFLYXQtN0FvNGFBckx6WFZFLS14ZzRHcE11LWJMUjFzQVNmNXJXMEZqZ1kzM3JmVnR3NEFDdVdlaWZsakp4VTNiTmFYV3NUdWNoNGRfakl6WHliRTlONzlFdWZrQmR2dVNsNGZkQzhWTUpXOVI0a1VkZWZ0ZUxnYWx6TGIyZENXcmwxUzVtb080ZmJvMzJ3YWhqcmNhM09nTXlmUzJT?oc=5"
   }
  ]
 }
