@@ -1,6 +1,41 @@
 {
- "generated_at": "2026-11-08T10:30:17+00:00",
+ "generated_at": "2026-11-08T11:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-11-08T11:00:23+00:00",
+   "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing inspects Yangon Technological University in Insein Township and urban development undertakings in Hlaingthaya and Shwepyitha townships",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMzZXN3JzWFY2UUFiQU83V0dqNWhmVWU3aWp2SkUzaEdSdUloajdiNGdYbi1FN2tKd2xVTDR4QS16MDdtYXFjNkl2LTJhdjlydTUzSGo2QmZKZ2NOckIxcGR3ME5FNEt6UkJOUnMwMU40WDh3Z2Z0RllfTndHVEw4VExmYzFBVklEWXNvbkJaa24wNHYtVWVKNHIzSXlGSVIzQmRMbGRJSm9Zby1rZ0xGTXZHVnhEcktJeUdaLVVB?oc=5"
+  },
+  {
+   "ts": "2026-11-08T11:00:23+00:00",
+   "title": "Vice President Daw Nan Ni Ni Aye attends 71st Kayin State Day celebration",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPN2xPb204MnI1SEVCMHFBUGdHak5YZ2ZGV2FGN0RtX1I1N0t6MzFoWjZ0QmxBOEQ1YXhwbVl1NE9SaEl6Wko0aV9nSnVXcXJZMzZKZnhyMmxZWDVMb3g0V1JlU29Kd1F1ZXRfSEJROE1XTmM3MDhQWm9pRVJJVzl4MkpSNl9jd1hkREZUaHpmSXYxWGc2MTlUN1FHemI?oc=5"
+  },
+  {
+   "ts": "2026-11-08T11:00:23+00:00",
+   "title": "Vice President U Nyo Saw inspects completion of repairing earthquake-hit staff housing and construction of new staff housing in Nay Pyi Taw",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUVlHZGJkWW02RjlPVWpRLXZuaF93M1dpVXFUWk9rRjJmZGFuNnc4d2VZaldJU0VRV3lLSHkxRW1xS0U1R0pOZC0zOVhBczdVYUs5Z3NqVmkwNFhRaEVyR1NkNDFhS2xJa3FOa29SdTk4TEIxeGtuQjB1Y2hBT3FDSkpFdDZLc1dxYzl0RUY3aURRUVE4Y29uTlVyRjlNbWg1bEdKUkNjbE1ad293MWpJ?oc=5"
+  },
+  {
+   "ts": "2026-11-08T11:00:23+00:00",
+   "title": "Myanmar Tatmadaw goodwill delegation led by Commander-in-Chief of Defence Services General Ye Win Oo returns from Lao People’s Democratic Republic",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORU9vTDRjUUpORU1wS0xTZUduSXdUTFd5a3poMzFpYVZMdF9vZF9Gcms3LWFYZEVOcmY3bFJiSnltS2gyUng3OVBiaTg1YTBrdm1OeVQ1dGpWWVZYVHMyNm9mSG5mcEI0cFAzNjhLN3NfdGxSTWtsTFlqSVhyM2EzYlkzaGVuTWduQ2pMZmk3TFRGQk1UZVlscUxrQ211Q0FIUGxVWkNOUFgwT2hJNGJSOEdRU2JRQ1UyeG1qbmd1UQ?oc=5"
+  },
+  {
+   "ts": "2026-11-08T11:00:21+00:00",
+   "title": "မဲစမ်လပ် Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWFB1cUZWS29qYXp1UHNoamNlVnNHTWlpSXNKbDAyRG55emFJV2FoZ3d6a01GcVBWaWRSTmM5S21IdzkxNmt0ZDJJSnpXaGpmdG5PdHZSeV90N3VvTjJHV0J0aTFEcDhYUzFLT3pUMlE1WU9YbVN0UmJCLUVfTi1qeWh1a0pJZy1BUS1HWG5Id3NLVUloNXlnVWxKRVZ5bFVqcmluNm9RRQ?oc=5"
+  },
   {
    "ts": "2026-11-08T10:30:15+00:00",
    "title": "Myanmar Regime Plans April Vote in 55 Constituencies Despite Continued Clashes",
@@ -2156,48 +2191,6 @@
    "source": "Myanmar Now (EN)",
    "markets": [],
    "url": "https://myanmar-now.org/en/news/be-back-by-7-for-yangons-young-a-life-ruled-by-a-self-enforced-curfew/"
-  },
-  {
-   "ts": "2026-10-30T11:30:15+00:00",
-   "title": "Myanmar junta bombs religious ceremony; kills own POWs in Chin State",
-   "source": "Myanmar Now (EN)",
-   "markets": [
-    {
-     "market": "pulses",
-     "direction": "bullish",
-     "confidence": 0.55,
-     "rationale": "Conflict in bean/sesame heartland threatens supply"
-    }
-   ],
-   "url": "https://myanmar-now.org/en/news/myanmar-junta-bombs-religious-ceremony-kills-own-pows-in-chin-state/"
-  },
-  {
-   "ts": "2026-10-30T11:00:23+00:00",
-   "title": "Guest Column | China’s Risky Plan to Restrict Hi-Tech Exports",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb1c4Qkt2aE1mODJyWE9EN2hWQmR2OURsZVZiUUdZaUw2azNVampWblRuVnBMNGkxb21FaGVLSzE1SkdGZVBwNzhPbjFtMXNWMGs4N1BJbHRDZkhmcEtUNzZYc3ZhNHdnTC1HVmkycWRPd3JteFdvZXROcEp2QXZKejdzWlhGclJxUzRnY1Qtc0ZJMWFoc192VFdhQ3Y1UQ?oc=5"
-  },
-  {
-   "ts": "2026-10-30T11:00:20+00:00",
-   "title": "တရုတ်ပြောတဲ့ အဆင့်မြင့်ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ပုံစံဆိုတာဘာလဲ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/crwydv1nywepo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-30T11:00:20+00:00",
-   "title": "\"မြန်မာ‌ကို အရေးယူ မယူဆိုတာ အဖွဲ့ဝင်နိုင်ငံတွေကပဲ ဆုံးဖြတ်သွားမယ်\" - FATF",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cqvgj81ddzl8o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-10-30T11:00:20+00:00",
-   "title": "မမြဆည်ဖြစ်ရပ်နဲ့ မြန်မာ့ဆည်တွေမှာ ဘာတွေစိုးရိမ်စရာရှိလဲ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cjqlne15pg2lo?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
