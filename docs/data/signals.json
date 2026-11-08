@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-08T21:30:18+00:00",
+ "generated_at": "2026-11-08T22:00:20+00:00",
  "signals": [
+  {
+   "ts": "2026-11-08T22:00:19+00:00",
+   "title": "မြေကတုတ် Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNGlxaXY2TTQ4clhpWmVRSTVSRTJhczd1MWk4UzJrYUZoX0FxV3AzN1ZEbU1mOGJ0WGtMMTltZ2dNNF8xS0J6OWsyTWF3UEZBWGdPaXR6bkF0MXpEYXJuUWViVGJmOGpIazhzdGZ5bk9iZjZ6WDhDbmRUUDhIUEwwOWhwTUJnTU50Vmx2SHZybHFzUTd1Ulp4QkNwcHp1ZGFmbzh5ZDMxZw?oc=5"
+  },
   {
    "ts": "2026-11-08T21:00:23+00:00",
    "title": "The Light Is On, But Have We Taken Responsibility for the Coldness at Home?",
@@ -2191,13 +2198,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14RDJGYVJlVVEwa2dvcUFpdVdlMWFzZnU5TjViQklZUklnMzF5R24wVlc1RGhRYVVwa3phVnVrbEFLZmlkWjNjRHppNFk0dEdXQVE?oc=5"
-  },
-  {
-   "ts": "2026-10-31T07:00:21+00:00",
-   "title": "Vice President U Nyo Saw delivers speech at coordination meeting (1/2026) of Cybersecurity Central Committee",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVXljLWNTMkZNamk5djdZUXFGbmtIU21Fc2JQaFJBSXQ5WjlOYld3OGRlZHNtSmxwRjU4ckR1TkZFM1pWbG4tTHlDb1FBWW81ZEJ2RXc3cFhuLUN6ZFJZdjNMT1JUdk52R3lTS1o4YThiMjljVldXbmlVa0Q0b3lqYmgwLTB4UzM4Wkk3M2o2bHNxUUg4MXh3cFo5bE1iTWo4TW54cFJ2Rmd6MUgzVGZ4MHpDbFh1STY0U3BOc2lySQ?oc=5"
   }
  ]
 }
