@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-08T22:00:20+00:00",
+ "generated_at": "2026-11-08T22:30:17+00:00",
  "signals": [
+  {
+   "ts": "2026-11-08T22:30:16+00:00",
+   "title": "Myanmar Embassy in Seoul waives KRW 50,000 advance passport renewal fee",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN09OTW1aMXoyY3VRQzMyOE9KZW1VbjI4cVNEM1Z5R2ZUNHR5dUFYZjk4bUFVdHVJZ3pQZ0YyNVZ5Z0FoTUY3RUFYQ0sxbVpJeDlnZ2pwVmNkaGNGdDgxUFpjZ2ViX21mQS1KX3J5RHhEb2lCRkNRbFM2aVdjYzRIM1JsUG9Va2tOTHZHQVc5Q2sza19rWEk4OWhfcw?oc=5"
+  },
   {
    "ts": "2026-11-08T22:00:19+00:00",
    "title": "မြေကတုတ် Archives",
@@ -2191,13 +2198,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWHdkM0FXaF83R1B5MWIyRWMxZzR6TU94azVReGpRYTBWUzJiQUhlbGVVRTdicjg0aWN5SkZkRFVSXy1NbF9JN1BRQkhobm1fcVhyVi1kM1puM2Y0a2JTTTBDVEhHam5VcWhRLUl3N2RsM2s5VkF0Tk1OLUY4bzItV2RoaHNtREpoZUJ5QlJDaWVObXhiMjF2Z0VvQWFSVUJyeklZSjVvS1MzbEw2UFhEcDN4Y0NqUQ?oc=5"
-  },
-  {
-   "ts": "2026-10-31T07:30:16+00:00",
-   "title": "31 October 2026",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14RDJGYVJlVVEwa2dvcUFpdVdlMWFzZnU5TjViQklZUklnMzF5R24wVlc1RGhRYVVwa3phVnVrbEFLZmlkWjNjRHppNFk0dEdXQVE?oc=5"
   }
  ]
 }
