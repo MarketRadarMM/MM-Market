@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-09T11:30:22+00:00",
+ "generated_at": "2026-11-09T12:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-11-09T12:00:22+00:00",
+   "title": "တမံ Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PcHdXMnY3a1VQeF9uLW9MNzFadzlFbXlqVWxmOW04ZDU4c3JNQTREMFJlaFlpLVo2QUxxSEQ2RXAtZkNRUzBHakJJaHlqblF6X0xPRVFaRkpQLU84VmRzWWRoVUJ6UV92QW5z?oc=5"
+  },
   {
    "ts": "2026-11-09T11:30:19+00:00",
    "title": "Myanmar regime accused of using high school curriculum as propaganda",
@@ -2191,13 +2198,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaW53WXhYbUJpVk93Ti1jQWFDUHpQMkdNcUE5Rml4N29XemMzTGpaN1k5bktoMnpPazhPeGozaDE4YXhKNzdhVlpDcTY4UHY0TVpjTmFLYnl6dDBLdzNKRWQxVlRIZUl1WjhYeXFzUnlrN21RcU42dDFWWHRxNVR3Q3RqLS01cUVWZXlNbmhGWEI?oc=5"
-  },
-  {
-   "ts": "2026-11-01T03:00:15+00:00",
-   "title": "နိုဝင်ဘာ ၁ ရက် သတင်းအနှစ်ချုပ် - လွိုင်ကော်အရှေ့ခြမ်း စစ်ရှောင်စာသင်ကျောင်းကို စစ်တပ် ဗုံးကြဲမှု အမိန့်ပေးသူအဆင့်ဆင့်ကို ဖော်ထုတ်မယ်လို့ IEC ပြော",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cm0j0y7nv9w1o?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
