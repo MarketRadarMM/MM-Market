@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-09T01:00:20+00:00",
+ "generated_at": "2026-11-09T01:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-11-09T01:30:14+00:00",
+   "title": "ပြင်သစ် Paris Peace Forum ကို SCEF ကိုယ်စားလှယ်အဖွဲ့တက်မယ်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.co.uk/burmese/live/cmd931vy8ye8t?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-11-08T23:00:21+00:00",
    "title": "Tatmadaw columns assault terrorists based around Laungshay-Hlaingdok-Kyindwe route, occupy Hlaingdok Village and continuously take area security measures to reopen the route",
@@ -2191,13 +2198,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5pUlppTEl6anpEYWtlVjc1WXZORUpseXpRNUs5ZlpvZDZMVTFUV29wVTdpSC1VbHhBMktLclhIQWExa2h6dmVKVWtuWEhtbHFnaEFBMkdzM0ZQOUhjR21sb0JmeGxsRGhHdEhSbWhaRUdoMmE3Ym04?oc=5"
-  },
-  {
-   "ts": "2026-10-31T10:00:18+00:00",
-   "title": "စာရင်းမည်း Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYzgyNU14YWtnb0NvQS1TY19jY3k3VkJOQmJpUnc3WUUzZm96R19WQ1VwMmZmQWFud2NCZWIwOFZZRE1OSjdFVkNqUy1nMlA5Wk40Ty1CaW1fNGFkaEFJdm9FRXp1ajU5Nk1ZRERRVHB6bGl4bGw0NEtGY2FPbkIyVDhWNmhSLWdSSUl6bFZlVWZ6bk5VWUxYb0xWZF9NR0lYTktlZXBqZENvZEEyY2ZzdGFQaHhuenJVNnNtWEUwcw?oc=5"
   }
  ]
 }
