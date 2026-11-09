@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-09T11:00:22+00:00",
+ "generated_at": "2026-11-09T11:30:22+00:00",
  "signals": [
+  {
+   "ts": "2026-11-09T11:30:19+00:00",
+   "title": "Myanmar regime accused of using high school curriculum as propaganda",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/myanmar-regime-accused-of-using-high-school-curriculum-as-propaganda/"
+  },
   {
    "ts": "2026-11-09T11:00:20+00:00",
    "title": "မော်လူးမြို့အနီး တိုက်ပွဲတွင် စခန်းနှင့်သုံ့ပန်းများရ၊ အရပ်သား သေဆုံးမှုများရှိ",
@@ -2191,13 +2198,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/cm0j0y7nv9w1o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-11-01T02:30:33+00:00",
-   "title": "Progress in erecting the Maravijaya Buddha Image, which will become the tallest stone Buddha Statue in the seated posture in the world, explained",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb05nTmo4TjBCWGVjR3M4VzExNGFoc0QtQVRNU2FFQjVLdjFQREhIOG5JVGthVEh5c3VXVUJ2NDBxQmYzcG55X2xpOE9vV0E0dUpNclEzeFlvbVM3TzJ6aVdYaG9HR3hNSVQyY2xmenZEYTNUNVMxam5taUZFZ1FLNWw4ejVjVkxObmlfSDBfY0pxOWszZDNuckZmY3FMUS0zc3drXy1zcTJUZXBQZnQ1emdHTElzaHZp?oc=5"
   }
  ]
 }
