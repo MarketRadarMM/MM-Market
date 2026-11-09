@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-09T10:00:21+00:00",
+ "generated_at": "2026-11-09T10:30:20+00:00",
  "signals": [
+  {
+   "ts": "2026-11-09T10:30:18+00:00",
+   "title": "တိုက်ပွဲပြင်းထန်နေသော စစ်တွေတွင် မြို့ခံများ ထွက်ခွာခွင့်မရ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/82150/"
+  },
   {
    "ts": "2026-11-09T10:00:21+00:00",
    "title": "Dozens killed in Spanish high-speed train collision",
@@ -2191,13 +2198,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUkJRbnJuUEVDb1VVVlJhS3Ruelk3MEdYZDNDbEZ2R0ZGTF9mVXZtODVJZjRzVV83ajJyaGlhSndoUGYtdG5KaWF6aHJESlBzejlNcGdISG5IMWE5bjl3V3RsVllkUGs0aXl6N3UxZDBqbkdEYVNaZWd2Qy14Q09SNVU3WkdCT3o1a09WcXhoOW9rdGFkTTNBaTY2NVhSYVY2M3J3M0hRSTdLWC1zWm94by03RDAzeU0wMlRKcURjR0x6Q3Zka3NLRkhBblQ5Q28wM2c?oc=5"
-  },
-  {
-   "ts": "2026-10-31T20:30:17+00:00",
-   "title": "Shwe Kokko Phase II scam compounds flattened",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1rTTFtUGVsYTRvYUlHZklsVW9HSDdXTEhpOWM3THpiaHhIZm9raVFqdTNlN0cwbVMtUUM0SkpxWDhTVFVhWDRFZmJOV25EeXg2bURBQ0ZDanMtTkhjeTZWSmp0LXl5TTNNcUJlMnE5endhcW9HeHFhX1MzTQ?oc=5"
   }
  ]
 }
