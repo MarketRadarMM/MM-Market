@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-09T20:30:19+00:00",
+ "generated_at": "2026-11-09T21:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-11-09T21:00:20+00:00",
+   "title": "10 November 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZZTJBNlVONEluRS1sMU0zUC1sRXZhWTNXSkJPZktmc1VYbDI5VWtmVU80czNVZ0Nad1pSUHAyN2MtWU9MbUxHZG1ZMEI3dXhCYkd3?oc=5"
+  },
   {
    "ts": "2026-11-09T13:00:20+00:00",
    "title": "3rd Direct-to-consumer Pharmaceutical Fair to be held in Nay Pyi Taw",
@@ -2191,13 +2198,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd3ZDNXlYQUs1ZFZka1pheTNHcDhUVUE1VE5DSlpFc1ZDTi1icDZrUTBjX0JPRTZKT21Fd0NvZDFqbDdUSEFIdUJHTkx5N25uRHhQLV93LTctajJkcFRFejdHOU8tSHR5V1I5UG5GUDVxNkR5NUR3STdpT2N0b1k2ZENNQWd5blJUb0xWTE1ha2x3MklkbTlmQ09ZU2JwUnJJUWs0ZA?oc=5"
-  },
-  {
-   "ts": "2026-11-01T03:00:18+00:00",
-   "title": "MoEE UM discusses Myanmar-Thailand-Russia energy cooperation",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbVo4c3JCQ1AtZEJCUDB3RXljb2JnS0tRRlp5U2hfNjctR2liR3NpVm90N3ZSZDJBWlJUZlR3TldPV21GbHpCSDBsaENNRlFiRHFjV3RQcEVVczMzQ0VOWklEU3QtT1BudmRNRWR6ZUNETGlXX3A0SWg3eEpoUGRnS0lldVQwTjdOZmFsX2J3?oc=5"
   }
  ]
 }
