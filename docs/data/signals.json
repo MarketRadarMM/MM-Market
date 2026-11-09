@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-09T07:00:21+00:00",
+ "generated_at": "2026-11-09T07:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-11-09T07:30:17+00:00",
+   "title": "ကမ္ဘာကျော် AI ချစ်ပ်သူဌေး ဂျန်ဆန်ဟွမ်နဲ့ အချစ်ရေးခြေရှုပ်သူက တရုတ်သူလျှိုလား",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cm17k7ly4x49o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-11-09T07:00:21+00:00",
    "title": "President U Min Aung Hlaing, wife Daw Kyu Kyu Hla visit Myanmar Traditional Market Fair, Myanmar Furniture Fair (2026)",
@@ -2191,13 +2198,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMDJ0Uzc4SjRKOEJySHA2SFp2dkVaa1p3Q1A0OXRsNFZhYVc5NjAwdFpfV1pqVkZCLU5ZTEFCY3hZbzNTc3pwS0NiTGhQYXIyRU5VSjFDd0FIZmJXcHFabGtfY2dJd3NERDNZTmxyT1JJMzFCc0VuRTI1blJfSWg3dGZSemd5M1VFMDd4aDdHRUhSNk5YQ1l4eTh6RFlIZF9qV3R3Qm1GZzN3N3AtV3dxRFdyWUxiaTNBLWlwMDFB?oc=5"
-  },
-  {
-   "ts": "2026-10-31T17:00:20+00:00",
-   "title": "IBEC Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE84Nm4zbC1jUHVIRlktejhEODdsV1Fublp3NVFxV2pwR1p6RjByU1l4bnRZSkhMRVVqem9XNFdzTk1NNnBxMHh2TzN4TVA?oc=5"
   }
  ]
 }
