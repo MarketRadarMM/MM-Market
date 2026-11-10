@@ -178,6 +178,12 @@
   .empty{color:var(--muted);text-align:center;padding:30px 10px;font-size:13px}
   footer{margin-top:34px;padding-top:16px;border-top:1px solid var(--line);
          color:var(--muted);font-size:12px;text-align:center;line-height:1.7}
+
+  .lang{position:absolute;top:10px;right:10px;background:none;border:1px solid var(--line);color:var(--fg,#ddd);
+        border-radius:999px;padding:4px 10px;font-size:12px;cursor:pointer}
+  header{position:relative}
+  html[lang="en"] .my-only{display:none}
+  html[lang="my"] .en-only{display:none}
 </style>
 </head>
 <body>
@@ -196,6 +202,7 @@
     <p class="sub">မြန်မာ့ကုန်စည်ဈေးကွက် သတင်းအချက်ပြစနစ်</p>
     <div class="rule"></div>
     <p class="updated" id="updated">တင်နေသည်…</p>
+    <button class="lang" id="lang" aria-label="Language"></button>
   </header>
 
   <div class="tabs" role="tablist">
@@ -220,12 +227,139 @@
   </section>
 
   <footer>
-    ဤစနစ်သည် သတင်းများကို အလိုအလျောက် ဖတ်ရှုပြီး ဈေးကွက်သက်ရောက်မှုကို ခန့်မှန်းပေးသည့် စမ်းသပ်ကိရိယာသာ ဖြစ်သည်။ မှားယွင်းနိုင်သည်။ ရင်းနှီးမြှုပ်နှံမှု အကြံဉာဏ် မဟုတ်ပါ။<br>
-    Automated experiment · signals can be wrong · not investment advice
+    <span class="my-only">ဤစနစ်သည် သတင်းများကို အလိုအလျောက် ဖတ်ရှုပြီး ဈေးကွက်သက်ရောက်မှုကို ခန့်မှန်းပေးသည့် စမ်းသပ်ကိရိယာသာ ဖြစ်သည်။ မှားယွင်းနိုင်သည်။ ရင်းနှီးမြှုပ်နှံမှု အကြံဉာဏ် မဟုတ်ပါ။<br></span>
+    <span class="en-only">Automated experiment that reads Myanmar news and estimates the likely effect on gold, kyat FX, fuel and YSX prices. </span>Automated experiment · signals can be wrong · not investment advice
   </footer>
 </div>
 
 <script>
+
+/* ============================ language ============================ */
+const LANG=(()=>{
+  const q=new URLSearchParams(location.search).get("lang");
+  if (q==="my"||q==="en") { try{localStorage.setItem("lang",q);}catch(e){} return q; }
+  try{ const v=localStorage.getItem("lang"); if (v==="my"||v==="en") return v; }catch(e){}
+  return "en";   /* English by default; Burmese via the toggle or ?lang=my */
+})();
+document.documentElement.lang=LANG;
+if (LANG==="en") document.title="Market Radar · Myanmar Market Monitor";
+const MY2EN={
+"ဤစနစ်သည် သတင်းများကို အလိုအလျောက် ဖတ်ရှုပြီး ဈေးကွက်သက်ရောက်မှုကို ခန့်မှန်းပေးသည့် စမ်းသပ်ကိရိယာသာ ဖြစ်သည်။ မှားယွင်းနိုင်သည်။ ရင်းနှီးမြှုပ်နှံမှု အကြံဉာဏ် မဟုတ်ပါ။":"",
+"YGEA ရည်ညွှန်းဈေးသည် လူမှုကွန်ရက်မှ ထပ်ဆင့်ရရှိသော ကိန်းဂဏန်းဖြစ်သည်။":"The YGEA reference price is relayed from community sources.",
+"သတင်းအားလုံး ပြထားသည် — အချက်ပြများသာ ကြည့်ရန် နှိပ်ပါ":"Showing all news — tap to show signals only",
+"ပြင်ပဒေါ်လာဈေးသည် ဗဟိုဘဏ် တရားဝင်နှုန်းထက် မြင့်နေသည်":"The street dollar rate is above the Central Bank official rate",
+"◆ အချက်ပြများသာ ပြထားသည် — အားလုံးပြရန် နှိပ်ပါ":"◆ Showing signals only — tap to show all news",
+"မြန်မာ့ကုန်စည်ဈေးကွက် သတင်းအချက်ပြစနစ်":"Myanmar commodity market monitor · gold, FX, fuel, YSX",
+"ယခုအချိန်တွင် အချက်ပြမှု မရှိသေးပါ။":"No signals yet.",
+"ဤဘရောက်ဇာတွင် သိမ်းဆည်း၍ မရပါ":"Cannot be installed from this browser",
+"ဖုန်းတွင် အက်ပ်အဖြစ် သိမ်းရန် — Safari ဖြင့် ဖွင့်ပါ":"To install as an app, open in Safari",
+"ဖုန်းတွင် အက်ပ်အဖြစ် သိမ်းရန် — Chrome ဖြင့် ဖွင့်ပါ":"To install as an app, open in Chrome",
+"လင့်ခ်ကူးယူပြီး Safari တွင် ကူးထည့်ပါ":"Copy the link and paste it in Safari",
+"ဤကာလအတွင်း ဒေတာ မလုံလောက်ပါ":"Not enough data for this period",
+"➖ ဈေးကွက်သက်ရောက်မှု မတွေ့ပါ":"➖ No market impact found",
+"လူမှုကွန်ရက်မှ ထပ်ဆင့်ရရှိ":"relayed from community sources",
+"စတော့ဈေးကွက် ဒေတာ မရရှိပါ":"Stock market data unavailable",
+"စတင်လည်ပတ်ရန် ပြင်ဆင်နေဆဲ":"Preparing first run",
+"အခေါက်ရွှေ (စနစ်ဟောင်း)":"Pure gold (old system)",
+"ရန်ကုန်စတော့အိတ်ချိန်း":"Yangon Stock Exchange",
+"တရားဝင်နှုန်း မရရှိပါ":"Official rates unavailable",
+"စက်သုံးဆီ (ကျပ်/လီတာ)":"Fuel (MMK per litre)",
+"နောက်ဆုံးစစ်ဆေးချိန် —":"Last checked",
+"တရားဝင်နှုန်း (ကျပ်)":"Official rates (MMK)",
+"ဂရပ်ဒေတာ မရရှိသေးပါ":"Chart data not available yet",
+"ငွေလဲနှုန်း (ကျပ်)":"Exchange rates (MMK)",
+"ရွှေ ရည်ညွှန်းဈေး":"Gold reference price",
+"ပြင်ပဈေး မရရှိပါ":"Street prices unavailable",
+"တရားဝင် (ဗဟိုဘဏ်)":"Official (Central Bank)",
+"ဒေတာ မရရှိသေးပါ":"Data not available yet",
+"စတော့အိတ်ချိန်း":"Stock exchange",
+"လင့်ခ် ကူးယူရန်":"Copy link",
+"Chrome ဖြင့် ဖွင့်ရန်":"Open in Chrome",
+"ကူးယူပြီးပါပြီ ✓":"Copied ✓",
+"အခေါက် (ဟောင်း)":"Pure (old)",
+"စင်္ကာပူဒေါ်လာ":"Singapore dollar",
+"· ဟောင်းနေပါပြီ":"· stale",
+"ပိတ်ဈေး (ကျပ်)":"close (MMK)",
+"ကမ္ဘာ့ရွှေဈေး":"World gold",
+"တရားဝင်နှုန်း":"Official rates",
+"၁၅ ပဲ (ဟောင်း)":"15 pè (old)",
+"ကျပ်/ကျပ်သား":"MMK per tical",
+"လူမှုကွန်ရက်":"Community",
+"အခေါက် (သစ်)":"Pure (new)",
+"ကျပ်/ဒေါ်လာ":"Kyat / USD",
+"စောင့်ကြည့် ◆":"Watch ◆",
+"၁၅ ပဲ (သစ်)":"15 pè (new)",
+"ရန်ကုန် ၉၅":"Yangon 95",
+"ရန်ကုန် ၉၂":"Yangon 92",
+"မန္တလေး ၉၂":"Mandalay 92",
+"မန္တလေး ၉၅":"Mandalay 95",
+"အခေါက်ရွှေ":"Pure gold",
+"စနစ်ဟောင်း":"old system",
+"ပြန်ဝယ်ဈေး —":"Buy-back —",
+"ဆက်ဖတ်ရန်":"Continue",
+"စက်သုံးဆီ":"Fuel",
+"တင်နေသည်…":"Loading…",
+"ကျပ်/လီတာ":"MMK per litre",
+"စားသုံးဆီ":"Edible oil",
+"ပြင်ပဈေးက":"Street price",
+"ပြင်ပဈေး":"Street price",
+"၁၅ ပဲရည်":"15 pè yay",
+"ပိုမြင့်":"higher",
+"ဈေးကွက်":"Markets",
+"ပြန်ဝယ်":"Buy-back",
+"တရားဝင်":"Official",
+"တက်ရိပ် ▲":"Bullish ▲",
+"ကျရိပ် ▼":"Bearish ▼",
+"စနစ်သစ်":"new system",
+"အားလုံး":"All",
+"ပိတ်ဈေး":"Close",
+"ကုမ္ပဏီ":"Companies:",
+"၃၀ ရက်":"30 days",
+"၉၀ ရက်":"90 days",
+"ရက်စွဲ —":"As of",
+"ဒေါ်လာ":"US dollar",
+"၁ နှစ်":"1 year",
+"အမှတ်":"index",
+"သတင်း":"News",
+"ပြင်ပ":"Street",
+"ယွမ်":"Yuan",
+"ကျပ်":"MMK",
+"ရွှေ":"Gold",
+"ကွာဟ":"gap",
+"ဆန်":"Rice",
+"ဘတ်":"Baht",
+"ပဲ":"Pulses",
+" ခု":"",
+};
+const MY_KEYS=Object.keys(MY2EN).sort((a,b)=>b.length-a.length);
+const MY_RX=/[က-႟]/;
+function toEn(str){
+  if (!MY_RX.test(str)) return str;
+  for (const k of MY_KEYS) if (str.includes(k)) str=str.split(k).join(MY2EN[k]);
+  return str;
+}
+function localize(root){
+  if (LANG!=="en" || !root) return;
+  const w=document.createTreeWalker(root,NodeFilter.SHOW_TEXT,{acceptNode:n=>{
+    let e=n.parentElement;
+    while(e){ if (e.classList&&(e.classList.contains("headline")||e.classList.contains("my-only"))) return NodeFilter.FILTER_REJECT; e=e.parentElement; }
+    return MY_RX.test(n.nodeValue)?NodeFilter.FILTER_ACCEPT:NodeFilter.FILTER_SKIP; }});
+  const nodes=[]; while(w.nextNode()) nodes.push(w.currentNode);
+  for (const n of nodes) n.nodeValue=toEn(n.nodeValue);
+  if (root.querySelectorAll) for (const el of root.querySelectorAll("[aria-label]")) el.setAttribute("aria-label",toEn(el.getAttribute("aria-label")));
+}
+if (LANG==="en"){
+  new MutationObserver(ms=>{ for (const m of ms){ for (const n of m.addedNodes){ if (n.nodeType===1) localize(n); else if (n.nodeType===3&&n.parentElement) localize(n.parentElement); } } })
+    .observe(document.documentElement,{childList:true,subtree:true});
+  document.addEventListener("DOMContentLoaded",()=>localize(document.body));
+}
+(function(){
+  const b=document.getElementById("lang");
+  if (!b) return;
+  b.textContent = LANG==="en" ? "မြန်မာ" : "English";
+  b.onclick=()=>{ const n=LANG==="en"?"my":"en"; try{localStorage.setItem("lang",n);}catch(e){}
+    const u=new URL(location.href); u.searchParams.set("lang",n); location.href=u.toString(); };
+})();
 /* ================= in-app browser hand-off =================
    Messenger, Facebook, Instagram, Viber, Line and WeChat all render pages
    in an embedded webview that disables PWA installation. There is no way
@@ -289,6 +423,7 @@ function fmt(n,dp){
 }
 function timeAgo(iso){
   const m = Math.round((Date.now()-new Date(iso))/60000);
+  if (LANG==="en"){ if (m<60) return m+" min ago"; if (m<1440) return Math.round(m/60)+" h ago"; return Math.round(m/1440)+" d ago"; }
   if (m<60) return m+" မိနစ်အကြာ";
   if (m<1440) return Math.round(m/60)+" နာရီအကြာ";
   return Math.round(m/1440)+" ရက်အကြာ";
@@ -361,7 +496,7 @@ function renderStreet(){
            <span class="tier community">${TIERS.community.my}</span></div>`;
 
   if (g.gold_16pe){
-    h += `<div class="big"><span class="lab">${esc((L.gold_16pe&&L.gold_16pe.my)||"အခေါက်ရွှေ (စနစ်ဟောင်း)")}</span>
+    h += `<div class="big"><span class="lab">${esc((L.gold_16pe&&(L.gold_16pe[LANG]||L.gold_16pe.my))||"အခေါက်ရွှေ (စနစ်ဟောင်း)")}</span>
           <span class="val">${fmt(g.gold_16pe)}</span></div>`;
     if (g.gold_16pe_buy)
       h += `<p class="col-note" style="margin:0 0 6px">ပြန်ဝယ်ဈေး — ${fmt(g.gold_16pe_buy)} ကျပ်</p>`;
@@ -404,7 +539,7 @@ function renderStreet(){
   h += `<p class="col-note">`+
        (STREET.post_date ? `ရက်စွဲ — ${esc(STREET.post_date)}` : "")+
        (STREET.status==="stale" ? " · ဟောင်းနေပါပြီ" : "")+
-       (STREET.source_disclaimer_my ? `<br>${esc(STREET.source_disclaimer_my)}` : "")+
+       ((LANG==="en"?STREET.source_disclaimer_en:STREET.source_disclaimer_my) ? `<br>${esc(LANG==="en"?STREET.source_disclaimer_en:STREET.source_disclaimer_my)}` : "")+
        `</p>`;
   box.innerHTML = h;
 }
