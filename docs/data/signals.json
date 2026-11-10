@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-11-10T21:30:21+00:00",
+ "generated_at": "2026-11-10T22:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-11-10T22:00:22+00:00",
+   "title": "Protecting the lives and dignity of women",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aLXNjcFZTdEduVEJWakxnd2tEZFA4bkxCRVdxSzNZalFubEhaN2diTjUweE9KVE5sRmx3VzkwN3hzSHJaajdaSlFxUEhVcHNjbVdmY2NZWmJ1dlpqRzJsb1pUT2tMUHRUbnBpdnRBSGxIeV96?oc=5"
+  },
+  {
+   "ts": "2026-11-10T22:00:22+00:00",
+   "title": "71 Onshore, Offshore Oil & Gas Blocks Opened to Domestic Investors",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTkhwX2drS0JvbV9Dbm1NNnF2blpmZFprY0JUZUVSbUhENXJ2YXFGNkZhdkZQTXoyb183TkxKTEtiVmpIeTdTTVI4aGNybEI5Ty16RWxRRFZNcGl6TWtkek8xaVlyR0Z6dnVMa1NjSUdGWlNmUjItVzFQcFljM2xOdUVVeE9YU3lETGtrT3liU0U4Zw?oc=5"
+  },
+  {
+   "ts": "2026-11-10T22:00:22+00:00",
+   "title": "Myanmar Regime Routs Resistance HQ on Bago–Mon Border",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaHdWZlJsMkpuTkNlZGNkNFkxNDBLZGh2UUQyWmZReGg2Vi1VWlZqWVlaZVpIR0lGS2lSbG1wTUxWR0d2QnVOelIzald1eDNadjBZMVVKSjU5bXpDRUtzQUFiUjZMWWhlTkRQUGh2VmxYeHlLdWFJSWZIWUlsYjR6R1hNck5vZ0dWWTFYSVNpV0VUVTR5SzRTdTNqQQ?oc=5"
+  },
   {
    "ts": "2026-11-10T21:30:20+00:00",
    "title": "Ongoing precautionary measures against drinking water shortages in Dekkhinathiri",
@@ -2191,27 +2212,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVDBsYnFGcEMyVWhIcUFFRjNfWXl6aWZETUpIMnJBMGh2VzZRdWRJOWhRTFViUmhaX2lDcWVpd2Iwek1oUHRNQTVlb25RazB3WEJPaWxaS2FGNXdtWW8tdU9zcWkwR09NN2pwRnpIMjBpdWlwR1JMZll5SHkyVDgtdThMaV90RHVleEUzbngxYUlueFJ6Y1F4V0RvSjhXREw1TlpjME1wbWpVMDlvS0lnWGRVNVZRSlpiN3RoVFVkUkM4WERic3c?oc=5"
-  },
-  {
-   "ts": "2026-11-02T12:30:15+00:00",
-   "title": "လနဲ့ချီကြာမယ့်အယ်လ်နီညိုဒဏ်ကို စစ်ဘေးကြားက တောင်သူတွေ ဘယ်လိုကျော်လွှားကြမလဲ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c3qjn4jnqe9eo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-11-02T12:00:23+00:00",
-   "title": "Business | Regime, Thailand Discuss Russian LNG Supply Route via Dawei",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQnRKMnJkdDhhZktsZHZxWjZaRUJFYXhxaGtiVVh5UjJ2TUVjcV9RdkZtNGxZbmNlZXFZa0ZKdTZPV0dfMXB2U0ttR2RlX2c1ZlJjYU51aHViM0ZIcE51Qm5NX2JXc2U2dlBIZlNOb2VaeW9nTDB2MDRiRGZHT19VakhxMkRvUUpsYXFqMy1rY2lHNUtySXEzVTktY2s0WWM?oc=5"
-  },
-  {
-   "ts": "2026-11-02T12:00:23+00:00",
-   "title": "China Reopens Trade Through Border Crossings Controlled by Armed Groups",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ1k1T3JyZXZibHFxOUJMNHRvamM2MUtmVV96OW1aNC01cVYtc21CODBIWkVXcTlvb1RBREVLYjhJN0tKTURKM2laTmlickxqNlR3VW4zbkkyLWJ1ZWd6ajNrZW9Tb2FsV1JvOU5ZOVVvc2x6alVKNFFMRU5CYXBGdjUxcGQzOHZCNWZEQlB1QmFBUXU4OFVBZE1uR0h1MEtZOWhULWJuWWV6V0NBc294R1dYUQ?oc=5"
   }
  ]
 }
