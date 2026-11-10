@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-10T13:00:22+00:00",
+ "generated_at": "2026-11-10T13:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-11-10T13:30:15+00:00",
+   "title": "ဒေါ်လာသန်း ၅၀၀ အကုန်ခံရိုက်တဲ့ရာမဇာတ်တော်ရုပ်ရှင်ကို အကဲခတ်တွေအမြင်ကွဲပြား",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cm4g1ngg70w0o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-11-10T13:00:21+00:00",
    "title": "ဝီရိယ Archives",
@@ -2205,13 +2212,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBySGxTcFY1UkUybHhFb3gybXJnYWJjRFd5RDhsejlpU1ZxU3lmaHZkRTJjclYxNG1kU21TbC00Vk1LWDdZTnU2bkpxV0lTVGF3MmRMYXRGQmsxejk2NXRNX0F5MGY1TjM3N19McmVQQUxiUmItQ0dF?oc=5"
-  },
-  {
-   "ts": "2026-11-01T08:00:20+00:00",
-   "title": "1 November 2026",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xc2lueXU0cXBLVWVKSVpBWW1NTGRIMEFHQlhGMkpHMGNUSGFnUGJsbmhQSkNlMTZ0LVlwRm5wYXY5SG9DWGE1alhWeTVFMjBPWkE?oc=5"
   }
  ]
 }
