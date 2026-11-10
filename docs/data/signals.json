@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-10T16:00:23+00:00",
+ "generated_at": "2026-11-10T16:30:23+00:00",
  "signals": [
+  {
+   "ts": "2026-11-10T16:30:21+00:00",
+   "title": "North Korean affordability crisis: monthly salary can’t buy even a bag of rice",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/korea/2026/11/10/north-korea-affordability-crisis-inflation/"
+  },
   {
    "ts": "2026-11-10T16:00:23+00:00",
    "title": "Amyotha Hluttaw discusses proposals to restrict plastic products, draft data protection law",
@@ -2205,13 +2212,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.co.uk/burmese/live/cqd09m8mx542t?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-11-01T20:30:17+00:00",
-   "title": "Passing-out Parade of the 67th Intake of Defence Services Academy",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOFdPWUdPLTl0UnFfakFHcVpaQ0Z4ZTVNTVo3d3I0SldfMVZHNWVKdFV0NjVGZlBpOGpQby1vbjdST1hFYkxJLUI1bTc5NDhwUmtySWpwNU9HWmVqOWM0QzR4SFJSZHpmbW04VlVvd05xT3dIaXVVTldDWlhMWUxLYzBvb2dldld0Nnc?oc=5"
   }
  ]
 }
