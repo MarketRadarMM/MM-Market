@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-10T19:00:21+00:00",
+ "generated_at": "2026-11-10T19:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-11-10T19:30:17+00:00",
+   "title": "Bangladesh Confirms Talks With AA Over Rohingya Repatriation",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUjRyQ2FFWGwtQ09ERGN3UE1TakJSek9DZ2JDeE5pZnEtTW1mc0FpdnNvQmlOVFQySVQwVVN4Z0Y1ZjZYWThZa3QyWlUzNHpWd19STUUtQUFNMk5rVUJHTVE4TWxaU0VBRWhqWkYtbFBSVDJOaWMzbnpnQ1NteUgwMFNTcWZzSDQwdnJ2UzQ1Q0tNdmpnSU02azZkRXdMWE4xemJHc2ZBY19vdXJEUUJRNzllbUU5U3hZdjdyQmx4RQ?oc=5"
+  },
   {
    "ts": "2026-11-10T16:30:21+00:00",
    "title": "North Korean affordability crisis: monthly salary can’t buy even a bag of rice",
@@ -2205,13 +2212,6 @@
    "source": "Myanmar Now (MM)",
    "markets": [],
    "url": "https://myanmar-now.org/mm/news/82017/"
-  },
-  {
-   "ts": "2026-11-02T02:00:22+00:00",
-   "title": "ရခိုင်မှာ စစ်တပ်က တစ်ရက်တည်း မြို့နယ် ၄ ခု ကို လေကြောင်းတိုက်ခိုက်၊ ၁၂ ဦး သေဆုံး",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.co.uk/burmese/live/cqd09m8mx542t?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
