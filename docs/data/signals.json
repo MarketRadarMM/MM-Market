@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-10T12:30:20+00:00",
+ "generated_at": "2026-11-10T13:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-11-10T13:00:21+00:00",
+   "title": "ဝီရိယ Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQ0RsekpYaEZvYjg3amRMYVhSQnctMUhHaDAwdUdBM0p6ZGFRSlJodVJPdUJET1JoSmp0UzVsZ2pGYVZqMDRRVXZoTkFhSmN1d3FjdkVtczFKU3E0aXN1Umk3WTFRU0dNQ3hUT0c2UndPMVkxS2pNalNXai1KZzYtRm5jcw?oc=5"
+  },
   {
    "ts": "2026-11-10T12:00:22+00:00",
    "title": "Fighting intensifies near Sagaing-Kachin border as resistance forces capture three military outposts",
@@ -2205,13 +2212,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xc2lueXU0cXBLVWVKSVpBWW1NTGRIMEFHQlhGMkpHMGNUSGFnUGJsbmhQSkNlMTZ0LVlwRm5wYXY5SG9DWGE1alhWeTVFMjBPWkE?oc=5"
-  },
-  {
-   "ts": "2026-11-01T07:30:16+00:00",
-   "title": "Min Aung Hlaing Gives Armed Groups 100 Days to Join Peace Talks",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYjhnVlNCSlFpNVk4X2t4VlJCTVoxNXZldEdRMGtxbHJXZmkzVDBqdTRYX1lZWXIza3JkVnFBR2hadnRGcVJfbjVyWGF1V0RSQ1FkZnpSU0hacGRCN2N0YzhzTFNMNl9QY2RqTlBNSVFFWXlhWTF6cVlVSDRpdjJabXoxYlp5MzJvaWM4TXR4M3NJb21DQWtPMWtpdUxOYkhoelk1SHRmTUN0Ui0x?oc=5"
   }
  ]
 }
