@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-10T22:00:23+00:00",
+ "generated_at": "2026-11-10T22:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-11-10T22:30:17+00:00",
+   "title": "Pyithu Hluttaw Addresses Infrastructure, Transport, and Illegal Immigration",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOenc1eGVEYjJhQUNkUWF4MHcwUS1vcjdra1Zod2w2bVZkU2JCZkdEa2htaGZ1NENKS3FGQnczTldqZ1ZmWjJCX1ZzOFYxQWhKQ0t1OHJHSDJqMUQzbUhkdHJiZU5ienh2aURULUNyUTJ0VmRZUnVHby1leVo5OVVrUlp4NjNZdm5jUVdMRXM0emRsNndvbjZYaWh1TTFhWTQ?oc=5"
+  },
   {
    "ts": "2026-11-10T22:00:22+00:00",
    "title": "Protecting the lives and dignity of women",
@@ -2205,13 +2212,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/c920321jpnzvo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-11-02T13:00:22+00:00",
-   "title": "Myanmar Regime Ramps Up Civilian Airstrikes as ASEAN Envoy Visits",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVDBsYnFGcEMyVWhIcUFFRjNfWXl6aWZETUpIMnJBMGh2VzZRdWRJOWhRTFViUmhaX2lDcWVpd2Iwek1oUHRNQTVlb25RazB3WEJPaWxaS2FGNXdtWW8tdU9zcWkwR09NN2pwRnpIMjBpdWlwR1JMZll5SHkyVDgtdThMaV90RHVleEUzbngxYUlueFJ6Y1F4V0RvSjhXREw1TlpjME1wbWpVMDlvS0lnWGRVNVZRSlpiN3RoVFVkUkM4WERic3c?oc=5"
   }
  ]
 }
