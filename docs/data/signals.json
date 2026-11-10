@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-10T01:30:18+00:00",
+ "generated_at": "2026-11-10T02:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-11-10T02:00:17+00:00",
+   "title": "မြန်မာလုပ်သားအရေး တက်ကြွလှုပ်ရှားသူ ကိုဆူရတ်ကို ထိုင်းတရားရုံး ဖမ်းဝရမ်းထုတ်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.co.uk/burmese/live/crz65681pzp0t?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-11-09T21:00:20+00:00",
    "title": "10 November 2026",
@@ -2191,13 +2198,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MNFhHMS1ZVzBVY2FpUExscF81RDdDMUxSQ2VTcVFJX0JGNjFBYUNWUUVpUjk1MElwdk5hQ0dCbEk4cUdCeDNjR2pqVVJlNXBiX1NYRWs2SDNPd2E3OXdNYnhXVlNWZ2tmU2VUYg?oc=5"
-  },
-  {
-   "ts": "2026-11-01T03:00:18+00:00",
-   "title": "Symposium of Research Paper Presentation on Intellectual Property Rights held",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd3ZDNXlYQUs1ZFZka1pheTNHcDhUVUE1VE5DSlpFc1ZDTi1icDZrUTBjX0JPRTZKT21Fd0NvZDFqbDdUSEFIdUJHTkx5N25uRHhQLV93LTctajJkcFRFejdHOU8tSHR5V1I5UG5GUDVxNkR5NUR3STdpT2N0b1k2ZENNQWd5blJUb0xWTE1ha2x3MklkbTlmQ09ZU2JwUnJJUWs0ZA?oc=5"
   }
  ]
 }
