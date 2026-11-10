@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-10T23:00:22+00:00",
+ "generated_at": "2026-11-10T23:30:19+00:00",
  "signals": [
+  {
+   "ts": "2026-11-10T23:30:18+00:00",
+   "title": "Space Education Key to Expanding Younger Generations’ Space Knowledge",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTnM5eldwSjhqblBCLTZkcXdMdE5XODJIXzJhd2pxamVFNHBjUldrcVRscHNZMlZOdWRiY0h5QzlEem92Mi0wZVk3OXZWd3FDV0liaTJpQWplVy1Ncm9hVDZTdWZnXzQydmpBNlZRZnFBM2xtejFJRG52X3BFT3RoZTJNeGxqY0o4MWFSWWFSSXcyUE1ac2N0cQ?oc=5"
+  },
   {
    "ts": "2026-11-10T22:30:17+00:00",
    "title": "Pyithu Hluttaw Addresses Infrastructure, Transport, and Illegal Immigration",
@@ -2205,13 +2212,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/cj9vp08wvk9o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-11-02T16:00:21+00:00",
-   "title": "သရဲတစ္ဆေမြင်တာ၊ အနားမှာ တစ်ယောက်ရှိနေတယ်လို့ ခံစားရတာတွေက ဘာကြောင့်လဲ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c920321jpnzvo?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
