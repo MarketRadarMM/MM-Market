@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-11-10T09:00:22+00:00",
+ "generated_at": "2026-11-10T09:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-11-10T09:30:20+00:00",
+   "title": "Guest Column | Blue Tsunami Claims a Congressional Champion of Myanmar’s Cause",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYndtUnZHQ2FTSGVfdXgtX1hwcTFzMTJ3LW5ZMVVkME1YaUtGZnp1Q01JR0drZDQ2Z1RiTjhxenAzM3ZhU0ZWeThrYU5veEVlVG42bEZybVQ4M0lXOVFOeHFhSWhXM2h4RHdfNEpLLUptZzNzS0RoNlF0VWtIa0pXZnVwTXBOMG5odzgtekpfRGhPWlA1NEdsdDhHb0ZWU2UtZGpNZTZPMlBMSUJuMWNaOUR6Z3A?oc=5"
+  },
+  {
+   "ts": "2026-11-10T09:30:16+00:00",
+   "title": "Myanmar military airstrikes on schools in Sagaing kill 11",
+   "source": "Myanmar Now (EN)",
+   "markets": [
+    {
+     "market": "pulses",
+     "direction": "bullish",
+     "confidence": 0.55,
+     "rationale": "Conflict in bean/sesame heartland threatens supply"
+    }
+   ],
+   "url": "https://myanmar-now.org/en/news/myanmar-military-airstrikes-on-schools-in-sagaing-kill-11/"
+  },
   {
    "ts": "2026-11-10T07:00:18+00:00",
    "title": "Tatmadaw columns attack and destroy bases of KNU/KNLA joint forces, including the special military region headquarters of NUG and CRPH terrorist insurgents based around the border area of Mon State and Bago Region",
@@ -2184,20 +2205,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRjJ3c3pXSmFST3pGRm9mT3loYjIybmg2aW5mQ0djUnhwbDNKa2NIY25aYlZNS0Q1cFdrRjlOemt6N0xLODF4M0xwUEtobTRBS21GWm1zbV9YWjNfazQwMHh1R2dBeGdyNy1iWGozUEdCLXhfRnk3U1FVdkVKLTgwZnJ4TUQ4WUZScEtteXVKOVZYblg3TGFZUE5ONzVRODFsUERoS201b3l3azFLeVZkYlFyS0xlZEt1U1FpOGtyYUQ1dFd1cTg0Vg?oc=5"
-  },
-  {
-   "ts": "2026-11-01T06:30:20+00:00",
-   "title": "Myanmar Junta Chief Installs Loyalist Ye Win Oo as Military Commander",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaDBHT1FYNXVieVBCNGVYS0t6cGl1ZDd4bll1NW9JdWV1NW5CRG1rM2F5MldUOTM2UTdjTFAzVWE3dmVvNHZlT3pkNmM5Y1ZqTG5fMHp6M1dSdDYwUGV5c2tmMHhYUHliSWVndXdCU2lOcDBZUHlvQ0VrLVBEa1hIdzlONHIxdFpScTJpaS1lTlNjNFd5dktROFlSZnlSc0lsRTduSG5EZWJrSGowd3k0LW9oSzA?oc=5"
-  },
-  {
-   "ts": "2026-11-01T06:30:20+00:00",
-   "title": "Guest Column | Global Response to Myanmar Earthquake Shines Light on Strategic Rivalries",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYWRiRjV0ODREbElWaEFXcWxrbEQxSVJHT3ozaVYtWk1oVFlwSmZzMHBpV2NRNy1Ob1RVLVBtWUptUktEU2tDYVM3UWhBNnplbm01ZWxEbHJBc1o3U2NDY0JoSm1veFNkT3FTWFhPeGpxNzJrSUlseFJhdy14Z1Q2VFBRNTZQWEh1YnZkbVdsZEI5bHNYd3dwWGU5NUZZNEthTkV5d1dvVEQ3NGoyMjhKN09QQTJCSWhLXzhNMHlVR0hTRGs?oc=5"
   }
  ]
 }
