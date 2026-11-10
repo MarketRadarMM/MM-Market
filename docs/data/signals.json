@@ -1,6 +1,34 @@
 {
- "generated_at": "2026-11-10T15:00:25+00:00",
+ "generated_at": "2026-11-10T15:30:21+00:00",
  "signals": [
+  {
+   "ts": "2026-11-10T15:30:20+00:00",
+   "title": "Dawei Chaung dumpsite in Yangon cannot be closed yet",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNjQ4STZvQ01jc2VoM3k2R29QaDRUVVZNRmZVWTBPbklnbHJIeVUwOGU0QUpTTzRGNnBxQTN6aEVjdmxrWEZRUU5CMzFvbjNYQWdTc3I2YXJLQndCSVVuRURCa0h3c1ByUzJzay1IcGZ1NDZCQ0tSc18wN1Z6MmRrMTk3TQ?oc=5"
+  },
+  {
+   "ts": "2026-11-10T15:30:20+00:00",
+   "title": "Yangon-Bagan train ticket to switch to online sale soon",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbnE2OXdjTkpqV1VTV0Z1WUNUbGd5ak5JZWVHa2taQ2JncFVkVnQzU2RCUVg4TjlIbVdjNTN3ZW1mRFdDQ3l1aTc4VTBFN00wRV83VTdDZUdBb1VVY0NBYm90cWp2d3BpRVZRb2V1R2Zpb1p3WERmMnNxSTZpdWVMUVZodVFSeTQ?oc=5"
+  },
+  {
+   "ts": "2026-11-10T15:30:20+00:00",
+   "title": "Proof of family remittance is required for PJ passport extensions in Singapore",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMlZqX2E4VC1Ra0F5S1d1U3NJXzFiSWM1STJxbWNEMFktVDRteXhQeXpJaExlZU9QSkxiNlJpSG9SY0FQS1F2Y0o3MmJQNDJINEdld3p1eXRIeFVFUnNrM0J4d09BZm1zdWdOR29GQ2t4SEdHS3NCWmtzRWxRSV9RQ21NdGFCV0tueDhBZWRQWkV5cjdtU0VodFIwekxza2M3R0xwNElB?oc=5"
+  },
+  {
+   "ts": "2026-11-10T15:30:20+00:00",
+   "title": "Panel discussion on insolvency law held",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE45SHVLWTNhWlptU1A1RmQ1ODd2X0QycXdPM1BJaFRRLVZYd0pvRHN5SHhfWHdyYWJ2bXlFNHRNemx2NDhzbzlCVnBBX1lKTncxOXdSeVJnbHVUTkt6dXZvQlVPWDZNYkR5cUxKbTlPdW54dw?oc=5"
+  },
   {
    "ts": "2026-11-10T13:30:15+00:00",
    "title": "ဒေါ်လာသန်း ၅၀၀ အကုန်ခံရိုက်တဲ့ရာမဇာတ်တော်ရုပ်ရှင်ကို အကဲခတ်တွေအမြင်ကွဲပြား",
@@ -2184,34 +2212,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/cx7vpy85my9po?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-11-01T13:00:15+00:00",
-   "title": "အမေရိကန်မှာ မဲလိမ်မှုကြီးနေတယ်ဆိုတဲ့ထရမ့်အပြော တကယ်မှန်လား",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cqd09mdx4p2ro?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-11-01T10:00:22+00:00",
-   "title": "President U Min Aung Hlaing inspects construction projects to develop Nay Pyi Taw Union Territory to meet city characteristics",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZnljS2k2eW9nQXJqSllocngwLUtnOFl2OFdrZTlfTzdZUk9QOGtWRkx3aFBFZzktYTRJYnVOak5xSzNZcW5OX1hfY0U0eTNBeFM5VS1qZlNBbnM4T3FlUS13a3ZLN2h2RFp4MVVScFg0SGduTXNZZ2ZFalVxVU8wc25ua3oxckpLSVhKelVvUk10UWhXZnRkM3VCV0JMWTZJOTNxbkh6NUJfaXZHVWJENlhmXzlueW1vS0FOdHlrOA?oc=5"
-  },
-  {
-   "ts": "2026-11-01T09:30:17+00:00",
-   "title": "စကားပုံ Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTjcxOVE0cDlEekdja0gzcWtsM2ZTYTZwSlJhSmdoaDFITXlxZ291bGdaa0dtTGdJVnNFcDZ2dHdkLTFIdmtjOEJFSkI0ZlllcHhZak1RNEtRZGpvUHVLU0ZUUzc0RWxXTy1tZkNtZ2dVMVpWNlBWdnBMWHRLZ0NMeHZ0OVl0b013V1U5UkpiLUhMMVN3V1VqWDdHSQ?oc=5"
-  },
-  {
-   "ts": "2026-11-01T09:00:19+00:00",
-   "title": "အသက် Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBySGxTcFY1UkUybHhFb3gybXJnYWJjRFd5RDhsejlpU1ZxU3lmaHZkRTJjclYxNG1kU21TbC00Vk1LWDdZTnU2bkpxV0lTVGF3MmRMYXRGQmsxejk2NXRNX0F5MGY1TjM3N19McmVQQUxiUmItQ0dF?oc=5"
   }
  ]
 }
