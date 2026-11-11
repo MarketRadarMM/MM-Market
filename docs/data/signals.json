@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-11-11T06:00:22+00:00",
+ "generated_at": "2026-11-11T06:30:18+00:00",
  "signals": [
+  {
+   "ts": "2026-11-11T06:30:18+00:00",
+   "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing inspects regional development activities in Dawei, Taninthayi Region",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeDNqUjlwNHcxdHFxWUJfQ3Bva2hOcngwWHo2VTBocFY5bWpfVlozejk2RU1qeGtneVBXY3RaQTVKdVRXWUZ6bTh4ZDlvMkpUYUN1TkZJTTNXSGpCcEN1UVVFVGYtX2gxa2lNcXdqUUpFVHlNR21iQWRVUlZ4QXI3REk4OGZpWW1tbE84SVdMOU5ScnBFd0RxU3ljcWFKdldxc1dranFTeFlfSU9PZU85VHQ4N2M4ZFBhWC1yZnROWVM5dw?oc=5"
+  },
+  {
+   "ts": "2026-11-11T06:30:18+00:00",
+   "title": "Ministry of Foreign Affairs summons Chargé d’Affaires of the German Embassy over his video statement released via social media",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMXdsN3pqOWZIaXJJckQ3SmhldjlVREdFeXgzcGR2SVdybTJZRnN4OHZSM2p1RWZSdzFiOE1JdDY4WWVWekdqU2FYcGNLa1V5NUNibEhqU0tZeGRzOFcwR3dlQnNlcGkxMm80cjh2S3J3OGkzdWxLbTI2bTNSaG1ZU01GUTN2QmliZnM3TXR1QnRoRU5XWHh0VVhVa3dYVkpPSXl0SDJLVGlnMkxnSlFkbUxudDF1MlB0c3l1QkVB?oc=5"
+  },
+  {
+   "ts": "2026-11-11T06:30:16+00:00",
+   "title": "ဦးဝင်းမြင့်မွေးနေ့ သတင်းစကားပေးသည့် ဂျာမနီသံရုံးအကြီးကဲကို စစ်တပ် ခေါ်ယူသတိပေး",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/82180/"
+  },
   {
    "ts": "2026-11-11T06:00:19+00:00",
    "title": "Myanmar junta summons German diplomat over remarks on deposed president",
@@ -2184,34 +2205,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOenc4RTl0ZnFqRmtlN2NpVElRMm5HTThNTS1oMTVxd2o2SWlzSnhhTGdsdG9JUVFnUlZnaTUzQUJlblJYVDlZS04yeTNSY1RkWTl5VmluSktOeENnUmo5alBaTmhTeU1pNzlUVmJMczhOdGNTaUFaNm5hZkpKVzR6ekxfeWppVUJ3RFB6VW9JUkFBNFJhWFZOYi1RX01FSE1MRTRBYlFlOGVCS29VUExYeEdXQTRhaktXNjNNMzBqODRocEJYNHhQbV9GQQ?oc=5"
-  },
-  {
-   "ts": "2026-11-02T16:30:19+00:00",
-   "title": "သားဖွားဆေးရုံ Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWXI1NjNaVjhrdTVpeV9fbEpkQTZVcUlOazFxN0sybnktczZ6ZzBuUXQ3dVItV0pOWGo0VV91SGROVFhzck5vNi1qZ1lvMVhpRDhNLThrYzg0bWNQNUk1YUpXUUVCN3lzWk9tdXNZM04xVFdOYkxyS3p6clpFbkNoY1pWdmNJeS03SHdTRjBTNTlMNVVvaXVzTVF0anlaS1RCbmtTYldFcUZfUDlEWTV2TzF5UXlMWVNpNzNPckx6SmRPSEp0UG8yZmhXa29nT1E3THZGUkhLYVUtb0ZqR2ZXeENSNA?oc=5"
-  },
-  {
-   "ts": "2026-11-02T16:00:24+00:00",
-   "title": "5 pawsan paddy varieties grown in Yangon’s 15 townships, expected yield per acre is 72.25 baskets",
-   "source": "GNLM",
-   "markets": [
-    {
-     "market": "rice",
-     "direction": "neutral",
-     "confidence": 0.5,
-     "rationale": "Rice-market story — read for direction"
-    }
-   ],
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMkI4TUwyNDR1TzFEUDRibDRoYXIwYXJVVjhVZEp3clI5REpvMlFxenU3eC1MVGhaVU8zT1ozeHc1dGZSZEVEZzRRclJyLWNDRzU5Q3ZtVjQ0aXREb2Z4a0ppa2NxNjNVZ2toLUNPREtTRFlzMEMyd1k2TDFYM3hTNU45bmpoekx0azFtNnVGSTBNbUtPTnhrVGRXc0JyNGZ6MXN6TkFTMThCUVRZODFCaWUybTdxeEdrNExZNQ?oc=5"
-  },
-  {
-   "ts": "2026-11-02T16:00:24+00:00",
-   "title": "Geological survey and drillings in progress at Inya Lake",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUU1md1Q4azQtZWNDMUNzVzBCVE1NeDVMN3JPdW10Y1REeXpZMVlwdjN2YjRNOFZhLXNNdktVemFHWDVFTjVCVmFsWE9aY1JZWHh6Y1ZsSzhUdmlxNmI0eWZoTXRFZ1JTQ3RyQVJYa1YyWEhqazFLNU41Y1FRc1VfQm5JaXNYTlA0?oc=5"
   }
  ]
 }
