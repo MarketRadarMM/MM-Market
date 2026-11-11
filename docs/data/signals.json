@@ -1,6 +1,27 @@
 {
- "generated_at": "2026-11-11T15:30:31+00:00",
+ "generated_at": "2026-11-11T16:00:21+00:00",
  "signals": [
+  {
+   "ts": "2026-11-11T16:00:20+00:00",
+   "title": "Heavy rain leads to floods and landslides in southern Shan State",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUWIyS2h1ZG5ObFZZa1huUDVaYWdTdXQ4M1Z2b1hfVXQ0NFRGNUNnbjBpbWNrbzhtUUIya2t4ZlhCQ3BZWnFCcFBrU1RGM2k3TlpQRFhFREY0aWhmQl9Bc3RPSXlRcGRyeHN5RnozXzB5SlhRR3JucFlSdjk3SUFQZlMyMTBzd2E2R2dTRXNpMTFCc1k?oc=5"
+  },
+  {
+   "ts": "2026-11-11T16:00:20+00:00",
+   "title": "CBM Governor urges countering online scams and money laundering",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVmlHZnNFcEp1OGswMWRfMzN2b2pXNzMwcG9MZWtvSTd1cElndWIzWW5TdUlqTXVMZ0NjWEJzNl81TzU3enE1d1Nsa0wyOFcwMnZnZDR1Z2R1QlpHdUh1NklNREF1LUtoNHl3NUd1MVc0NjY3UlB5QUM5LW5kOWcxNHVkdV83TzlTYjFKVGx4Z01UUQ?oc=5"
+  },
+  {
+   "ts": "2026-11-11T16:00:20+00:00",
+   "title": "အပ်ငွေ Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ3RsRmRkUVpOYWxrMk9PcUtZcWJnencwUVdtUVVITUZaUnc4RkJiblljQ2g4aVJrdnZiakpyZzlBdmN2VENLNm9xMkRsbHBocXpLR3p0NHA1a0FOQXhEZjVIRnZxMzd4STRCZmh5SVhYTHItYVRDODRlM3VYTEhRenc0d18wU19uRll2cGtaaw?oc=5"
+  },
   {
    "ts": "2026-11-11T15:00:23+00:00",
    "title": "Regime Summons German Envoy Over Call for Coup Releases",
@@ -2165,27 +2186,6 @@
    "source": "RFA (EN)",
    "markets": [],
    "url": "https://rfa.org/english/southchinasea/2026/11/03/taiwan-pratas-south-china-sea/"
-  },
-  {
-   "ts": "2026-11-03T03:00:23+00:00",
-   "title": "Acting President of the Republic of the Union of Myanmar, Chairman of State Security and Peace Commission of the Republic of the Union of Myanmar",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSmVRS2p1RzF6WWNlMGJ2RUgzd2Nub0xORVVUbUcyQnVKU2MtVTc1QnduWkhVbmd0ZGlHcXZua0p0UEM3UlBnMTRYMUhCUnZHVFFURGZGRzFuM2lqMFg3YmR6bXdYUmVnWVk2SzNxZkRaa01walFlQ21MUFFrdmxPRmxaRUFqdVdJTGhyc2hYMmFfS1A4TTlzMWZXdlBBNG9NWlg2QWVvdW1xakhWUU1sUzZOTEpVUTFITGNvWFE3UWI?oc=5"
-  },
-  {
-   "ts": "2026-11-03T01:30:19+00:00",
-   "title": "လယ် Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SblRYbmgyV005WHZac3NXRmZEMThYMjR3TmRiY0RUbkZ5Vk8zcUEzTDFvQjhNZHFmSU1qZkloQVgwN3YzMUVHc1dtbWk2cjdySmNJWW1XMWtPQ25wdldzQl8yTVhDRG5JcFh3?oc=5"
-  },
-  {
-   "ts": "2026-11-03T01:30:17+00:00",
-   "title": "တရုတ်ဩဇာတန်ပြန်ရေး၊ မြေရှားသတ္တုရယူရေးနဲ့ အပစ်ရပ်ရေး ပါဝင်တဲ့ အမေရိကန်ရဲ့ မြန်မာမဟာဗျူဟာသစ် ထွက်ပေါ်",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.co.uk/burmese/live/c50me7ldz021t?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
