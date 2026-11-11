@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-11T01:30:20+00:00",
+ "generated_at": "2026-11-11T02:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-11-11T02:00:20+00:00",
+   "title": "အာဆီယံထိပ်သီးဆွေးနွေးပွဲမတိုင်ခင် ထိုင်းနိုင်ငံခြားရေးဝန်ကြီး နေပြည်တော်သွားမယ်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.co.uk/burmese/live/cq1j6lrkrw59t?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-11-11T01:00:19+00:00",
    "title": "55 container vessels scheduled to enter Yangon Port in July",
@@ -2205,13 +2212,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/cmy8319vj7xno?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-11-02T16:00:21+00:00",
-   "title": "ရခိုင်မှာ စစ်တပ်က လေကြောင်းတိုက်ခိုက်မှုတွေ ဘာကြောင့်ပိုတိုးလုပ်နေတာလဲ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/crgqwgz93gvgo?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
