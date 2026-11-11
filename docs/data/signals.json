@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-11T10:30:18+00:00",
+ "generated_at": "2026-11-11T11:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-11-11T11:00:19+00:00",
+   "title": "Myanmar junta seizes NUG Special Military Region and PDF camps",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/myanmar-junta-seizes-nug-special-military-region-and-pdf-camps/"
+  },
   {
    "ts": "2026-11-11T10:00:19+00:00",
    "title": "Myanmar’s Min Aung Hlaing remains barred from ASEAN summit despite assuming presidency",
@@ -2179,32 +2186,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMUZpdGxpV29NV1A2VzRDOHdQWWhraVBsQjd0RHRLUGxiSlhQcndJc3lyWElnV1A3Q0s1YkNpb1J1VGxTRUFndlhZcUZtWEtmLUE5c09ncXdDZzVhdzVxNnlQT2Itd2Y5OHZ2YVJ4RU9GcGpWaXlpTXB2VlVXQXFEbUFPczB6Sk5Mb0ZwVG9tYzJjUTNLUU15NGJpZHo5N2NrX1NMQm9OV2pfTTYzYnIxMnZOOHNYa0U?oc=5"
-  },
-  {
-   "ts": "2026-11-02T19:00:26+00:00",
-   "title": "Tatmadaw columns recapture Khampat, an important Myanmar-India border trade town on the Kalay-Tamu Road, accelerating efforts to reopen the route",
-   "source": "Myawady",
-   "markets": [
-    {
-     "market": "pulses",
-     "direction": "neutral",
-     "confidence": 0.5,
-     "rationale": "China border trade affects bean flows"
-    },
-    {
-     "market": "rice",
-     "direction": "neutral",
-     "confidence": 0.5,
-     "rationale": "Border status affects rice exports"
-    },
-    {
-     "market": "fuel",
-     "direction": "neutral",
-     "confidence": 0.45,
-     "rationale": "Border routes also carry imported goods"
-    }
-   ],
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSk1BalhlU2lLd2o4bll6NkhpbjB1aTRWOVQ5NENtSUlvN1FRNE5Hb3Q1alFacHRFQ0k0U04xcDRrYVBNZ0FHdTFRTXBiS0pRd0NZOUtKVXJSNlAxZ0QtaTk1dDJhVUp0UEZZSUlBckhGQ2pLRjd6QTdzenU0MXhpcWZNN1FVb19hM19GLWstZ2J3NGRfTVFGSjBDN3hjdTMwWlJSYmJmUDRpZHRUaExZOW12Rk1tQQ?oc=5"
   }
  ]
 }
