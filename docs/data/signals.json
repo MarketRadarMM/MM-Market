@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-11T14:30:22+00:00",
+ "generated_at": "2026-11-11T15:00:24+00:00",
  "signals": [
+  {
+   "ts": "2026-11-11T15:00:23+00:00",
+   "title": "Regime Summons German Envoy Over Call for Coup Releases",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR0E1VnZxeGZaZ01QSWJBUS1iTldOdjhQYnlnQXBiUDkyRFZLR3dESG5aQllQeFlqVHczbHFPcC1DczRSRXZSRExKR3cwWWdGUXNWMzNKRTJFMm84Qm5XbFlYbnlzOFA0MDd4bEZOUFR1WW9DS0hMbFlnOElBbmNOSjR5RTRocU5SZUdtbThBTVR6TTF1NDE4M2VMZEp3RUZyZFVJOC1DanRsWEhxYTJhUDhZQ21IVkFr?oc=5"
+  },
   {
    "ts": "2026-11-11T12:00:21+00:00",
    "title": "လျှပ်စစ်မီးမှန်ရန် အနည်းဆုံးနောက်ထပ် နှစ် ၂၀ စောင့်ရမည်ဟု စစ်တပ်ခန့်ဒုဝန်ကြီးပြော",
@@ -2179,13 +2186,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.co.uk/burmese/live/c50me7ldz021t?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-11-03T01:00:22+00:00",
-   "title": "3 November 2026",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Da0JwdzR0ZW9acHNRSWRKZ3ZfT2VNeWtEOEV6MHN2TWJHc3hyMlhFRUtjR3d6dFRBcVJuenJtS2FqWEE4dWh3NXNSTURfUVBtbmc?oc=5"
   }
  ]
 }
