@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-11T05:30:18+00:00",
+ "generated_at": "2026-11-11T06:00:22+00:00",
  "signals": [
+  {
+   "ts": "2026-11-11T06:00:19+00:00",
+   "title": "Myanmar junta summons German diplomat over remarks on deposed president",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/myanmar-junta-summons-german-diplomat-over-remarks-on-deposed-president/"
+  },
   {
    "ts": "2026-11-11T05:30:16+00:00",
    "title": "Mideast crisis fuels crude conflict in Myanmar",
@@ -2205,13 +2212,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUU1md1Q4azQtZWNDMUNzVzBCVE1NeDVMN3JPdW10Y1REeXpZMVlwdjN2YjRNOFZhLXNNdktVemFHWDVFTjVCVmFsWE9aY1JZWHh6Y1ZsSzhUdmlxNmI0eWZoTXRFZ1JTQ3RyQVJYa1YyWEhqazFLNU41Y1FRc1VfQm5JaXNYTlA0?oc=5"
-  },
-  {
-   "ts": "2026-11-02T16:00:24+00:00",
-   "title": "YESC instructs to continuously monitor power loss conditions",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcFNQQmlZLUF6RXB4U2xpM01tY213VzJfOXk2MDJzb0E2akIxWmRkZnRzOVN2N2w4VWlQYlZpWndPZVhoNGZRdldvN2x3RDc0WThCaS1OTXdMZVJZeHBjaTUwOHpHQ0gya3FCMnN5a3gxUzBSZ1BsMl9odHF3QjFpT05TZ1RpZ0wyVmpEeGRB?oc=5"
   }
  ]
 }
