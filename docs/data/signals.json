@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-11T04:30:18+00:00",
+ "generated_at": "2026-11-11T05:00:19+00:00",
  "signals": [
+  {
+   "ts": "2026-11-11T05:00:17+00:00",
+   "title": "နမ့်ခမ်းမြို့နယ်အရေး MNDAAနှင့် TNLA ပဋိပက္ခပြန်ဖြစ်မည်ကို ဒေသခံများ စိုးရိမ်",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/82177/"
+  },
   {
    "ts": "2026-11-11T04:00:18+00:00",
    "title": "ကျွဲခတ်လို့ အသက်ပါ နုတ်ယူခံနေရတဲ့ ဘဝတွေ",
@@ -2205,13 +2212,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaE5ZQncwZGpQaXFOVURzdEJuS2JWbzFUUlFyYnlfZUZJTzZjc2ZEcVFUMTRpa1BaYlNNTWowOUxSNEQ5TUJmVlc1RVV4TmVXcE8tZ3p2eGVocXlyMnY0bWlkaVNyOTJjMzRIY1AtaUZsU3duWGc2OUZxRzNDZTMzNUMtX1NkZGlq?oc=5"
-  },
-  {
-   "ts": "2026-11-02T16:00:21+00:00",
-   "title": "ရုရှားစစ်သားစုဆောင်းရေးတပ်ထဲက လွတ်မြောက်လာတဲ့ မြန်မာလုပ်သားတွေ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cke8rq7eng6mo?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
