@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-11-11T11:30:21+00:00",
+ "generated_at": "2026-11-11T12:00:23+00:00",
  "signals": [
+  {
+   "ts": "2026-11-11T12:00:21+00:00",
+   "title": "လျှပ်စစ်မီးမှန်ရန် အနည်းဆုံးနောက်ထပ် နှစ် ၂၀ စောင့်ရမည်ဟု စစ်တပ်ခန့်ဒုဝန်ကြီးပြော",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/82198/"
+  },
+  {
+   "ts": "2026-11-11T12:00:20+00:00",
+   "title": "‘‘သူငယ်ချင်းအရင်းအခြာကိုတောင် မပြောပြခဲ့ဘူး’’ - ကလေးမွေးအပြီး တစ်သက်မပျောက်တဲ့နောက်ဆက်တွဲပြဿနာများ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c54gner1vn7ro?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-11-11T11:30:19+00:00",
    "title": "နှိမ်နင်းခံရသဖြင့် အိမ်တွင်းအောင်းပြီး သားကောင်ရှာလာသည့်  ငွေလိမ်လုပ်ငန်းများ",
@@ -2172,20 +2186,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Da0JwdzR0ZW9acHNRSWRKZ3ZfT2VNeWtEOEV6MHN2TWJHc3hyMlhFRUtjR3d6dFRBcVJuenJtS2FqWEE4dWh3NXNSTURfUVBtbmc?oc=5"
-  },
-  {
-   "ts": "2026-11-03T00:00:23+00:00",
-   "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing and high-level Myanmar delegation leaves Russian Federation, arrives in Belarus",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ1U2UldPVktUNTBMd1dWN1pkanB6ZEpXZWVweS01NjQtZVVhS2lEWEl5Rmo2VmRYQ0w5LU43b3JlUUpiVm5lY0pDRFFIakdGR2VYT1dzNGh6b2dvcURWYW12Q3pkLXJ3TnZ4RlBOa0d6RXhlLUxHVEZ1UVdCVENNWGc5N2hSUFBDVC1jcERkVVNvMDlOZExMdHl1ZEFoQjI0bU9VVDczNHhwMTlQaGJvLVJoYjV5Z2R5T29QRUo5Yw?oc=5"
-  },
-  {
-   "ts": "2026-11-03T00:00:23+00:00",
-   "title": "Home",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9lRjBGSXVvbTVRUTlRdFRFSXdseExQWVlEa0xuYTRlX1hjUkdzMXhBMnczTXBPUXNwazNzWWhfVVc?oc=5"
   }
  ]
 }
