@@ -2,6 +2,8 @@ name: market-prices
 
 on:
   workflow_dispatch:          # lets you run it by hand from the Actions tab
+  schedule:
+    - cron: '50 14 * * *'     # GitHub's own timer, once a day at 14:50 UTC, no token needed
 
 permissions:
   contents: write             # required to commit data back to the repo
