@@ -1,7 +1,9 @@
 name: market-radar
 
 on:
-  workflow_dispatch:
+  workflow_dispatch:          # manual runs and cron-job.org still work
+  schedule:
+    - cron: '7,37 * * * *'    # GitHub's own timer, every 30 min, no token needed
 
 permissions:
   contents: write
