@@ -1,6 +1,62 @@
 {
- "generated_at": "2026-11-16T07:53:03+00:00",
+ "generated_at": "2026-11-16T18:22:21+00:00",
  "signals": [
+  {
+   "ts": "2026-11-16T18:22:20+00:00",
+   "title": "Complaints difficult to resolve if online sellers lack a physical store",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcjd6c3ZTcnFZdnpKZnM4dFJnek45RkpqWmMyUmtwREhLWlpzOUdNMm43ajdxclNJbE5ZbEtnVHVjNjlwWHNHazJrRnBKUDhsREhPUi1wLVBCMk9OamlPZmFndlcybjBDcTVlWWI5Wm4zXzJaaGVvNEk5dzIyY0JIM0NPZDB0YlpXU01CT19aak94Q29lVXlYZEVfQjU?oc=5"
+  },
+  {
+   "ts": "2026-11-16T18:22:20+00:00",
+   "title": "JFYG Stages Cultural Feast for Japan Sushi Day",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9TdmNCWmRmMGNUcndsdWNLMDhuZW5yTUdIWWloYTc0UHNjNkRucDlCYmZ4b3hwLXhiS2lJT0JfbTlTOHlSYzBleGF3REVlZGxRMW5ZRF9XaElXMlU1V2VxRC1xczlENmpyTE9kS3lwOXBmdWpOQ3N2cVJNQQ?oc=5"
+  },
+  {
+   "ts": "2026-11-16T18:22:19+00:00",
+   "title": "Yangon Condo Raid Reveals Myanmar’s Cyber Scam Sector Thriving in Commercial Capital",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVVF2VDNwQ200bmQzb2JYVkxYUEVwR3RRbU1MaTRKYmpfY3pXUVY0c0tfWTNxNVZUenN2SjJ2QjVlbFhqVXVMZ0ZyR1lPckd3NmNVSkxzU2VaNEJWWTlydEdIN2lZVjFlcEtZdjkyM0xYRldzWkI1R3RPVjZVdVpzS3h0QUlFS0FQX0g3bDdGaHVaSlpqcTRzN2d0R2FkaWFobFJ0d0pXVWFVc25nZ0hFelFGemZTQ2RyLW9BeERhbXpxUEE?oc=5"
+  },
+  {
+   "ts": "2026-11-16T18:22:19+00:00",
+   "title": "ICJ က ဂမ်ဘီယာကိုအနိုင်ပေးရုံမျှဖြင့် ရိုဟင်ဂျာများအတွက် တရားမျှတမှုရပြီဟု မသတ်မှတ်နိုင်",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/82262/"
+  },
+  {
+   "ts": "2026-11-16T18:22:19+00:00",
+   "title": "စီးပွားရေးမြို့တော် ရန်ကုန်တွင် ကျားဖြန့်တရုတ်များ၏ အခြေချလုပ်ငန်းများ ဖမ်းမိ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/82267/"
+  },
+  {
+   "ts": "2026-11-16T18:22:18+00:00",
+   "title": "Myanmar military bombs Rakhine IDP camp twice in 2 months, killing 13",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/myanmar-military-bombs-rakhine-idp-camp-twice-in-2-months-killing-13/"
+  },
+  {
+   "ts": "2026-11-16T18:22:18+00:00",
+   "title": "An ICJ victory for The Gambia will not, by itself, deliver justice for the Rohingya",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/an-icj-victory-for-the-gambia-will-not-by-itself-deliver-justice-for-the-rohingya/"
+  },
+  {
+   "ts": "2026-11-16T18:22:17+00:00",
+   "title": "ပူတင်အလွန်ကို ရုရှားသူကြွယ်တွေ ကြိုပြင်နေကြပြီလား",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cw14300v0kreo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-11-16T07:53:01+00:00",
    "title": "ASEAN Seeks ‘Calibrated Engagement’ With Myanmar: Statement",
@@ -2105,75 +2161,6 @@
    "source": "BBC Burmese",
    "markets": [],
    "url": "https://www.bbc.com/burmese/articles/cwp93m03nkdko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-11-06T15:00:20+00:00",
-   "title": "FATF အမည်ပျက်စာရင်းနဲ့ အနောက်နိုင်ငံတွေရဲ့ ဒဏ်ခတ်ပိတ်ဆို့မှု ကွာခြားချက်",
-   "source": "BBC Burmese",
-   "markets": [
-    {
-     "market": "fx_kyat",
-     "direction": "bearish",
-     "confidence": 0.65,
-     "rationale": "New sanctions pressure the kyat"
-    },
-    {
-     "market": "gold",
-     "direction": "bullish",
-     "confidence": 0.65,
-     "rationale": "Kyat pressure drives savings into gold"
-    }
-   ],
-   "url": "https://www.bbc.com/burmese/articles/cqvgj81ddzl8o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-11-06T15:00:20+00:00",
-   "title": "အမေရိကန်မှာ မဲလိမ်မှုကြီးနေတယ်ဆိုတဲ့ထရမ့်အပြော တကယ်မှန်လား",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cqd09mdx4p2ro?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-11-06T15:00:20+00:00",
-   "title": "ရှမ်းတွေ ကန့်ကွက်ချိန် ရှမ်းပွဲတက်တဲ့ ကိုးကန့်ခေါင်းဆောင်",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/crx2d1qwdde5o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-11-06T15:00:20+00:00",
-   "title": "လနဲ့ချီကြာမယ့်အယ်လ်နီညိုဒဏ်ကို စစ်ဘေးကြားက တောင်သူတွေ ဘယ်လိုကျော်လွှားကြမလဲ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c3qjn4jnqe9eo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-11-06T13:30:16+00:00",
-   "title": "အထက်တန်း ကျောင်းသင်ရိုးညွှန်းတမ်းတွင်ပါ စစ်တပ်၏ ဝါဒဖြန့်ခြိမ်းခြောက်မှုများ ရှိနေ",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/82138/"
-  },
-  {
-   "ts": "2026-11-06T12:00:17+00:00",
-   "title": "For Myanmar’s Buddhists, the pursuit of inner peace turns deadly as military targets monasteries",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/for-myanmars-buddhists-the-pursuit-of-inner-peace-turns-deadly-as-military-targets-monasteries/"
-  },
-  {
-   "ts": "2026-11-06T11:30:16+00:00",
-   "title": "UK-based consumer goods giant Unilever confirms departure from Myanmar",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/uk-based-consumer-goods-giant-unilever-confirms-departure-from-myanmar/"
-  },
-  {
-   "ts": "2026-11-06T11:00:26+00:00",
-   "title": "Myanmar Media",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBbGU2LURzMmgyeXZ2WHVLYkQ0LVBjLW5tcWJjZUFZYV9hNzNUZU44MS1teWVScGtvQlFHNHlzRnZlRWs5SWVFTlpnSk84Ums?oc=5"
   }
  ]
 }
