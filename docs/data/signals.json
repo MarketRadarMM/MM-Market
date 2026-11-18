@@ -1,6 +1,132 @@
 {
- "generated_at": "2026-11-17T19:21:28+00:00",
+ "generated_at": "2026-11-18T01:50:13+00:00",
  "signals": [
+  {
+   "ts": "2026-11-18T01:50:12+00:00",
+   "title": "Education Remains Cornerstone of National Development",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYzFXVVk2VE5yLTdUV0FMSGdsYlQzNkhsVzRscG1DNC12bGhuazYxNmk1M3FhcmowRF85LUJ4d3h5QUkxT2xLZWFHNktXUVZkOGlhUy1fUUR4QW9WT3ZVaHhxZEtlalppdkYzNWJKaExMQjduNnN2UDZlT3V1cTRLQUgxQ3o?oc=5"
+  },
+  {
+   "ts": "2026-11-18T01:50:12+00:00",
+   "title": "Protecting the Environment for the Long-Term Survival of All Living Things",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVmwwSGFOVTc1eFJwRUlzdlEza1FjMF9lZEpEYkN1TXdlQXEteFlxaHhESmNNQjhxMjkxSlpjUGtKU2ktak1Bc3lpU3ljOXJFc2VlTFhubGVPaXc4LVhtSFN6NTBjT1lPMFZ6UzVia1Bxa0xkdnI2N2tZUU1qTkQyTWZLdE1TYkdVMDNGT1ZTS0JUZVpYMXZiN1MyUDVCX1p1?oc=5"
+  },
+  {
+   "ts": "2026-11-18T01:50:12+00:00",
+   "title": "2026 Taunggyi Tazaungdine Hot-Air Balloon Festival",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPU3ItbU1aOENFTlZxTXdSSEstTERqNl9NUko5aElfSFN5WGZudE5nWGVBbFVkbDd1ZkhwMWNMdHpXeGVFcHRFWGppbi16MGFoYk9DUzF0TWdwVzRSSndkaWl5WHNNQ1g2bTQyWWZ3aFYycGNmaXFLZ0k2cWNkLWxQUQ?oc=5"
+  },
+  {
+   "ts": "2026-11-18T01:50:12+00:00",
+   "title": "Defence Services Deputy C-in-C attends 27th ASEAN Chiefs of Army Multilateral Meeting",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVHlha2Q3Ukt2UXpyTmJvS3VVOTFrVDZ3bWhXQUlEOF81OHNYbk5qRGpIRngxam90Q0FZcC1sQkJKZnREWWdWaU04bGc0UkpJZ0lfVXpNRllxeEpDazFWZDhYY3FHbzBIUmZDWWk0RW5IV3RWNjdTdUpIdVRUR29iRUlWNzhoUVlKdDZpRTRGQzh3cWltajNfQmg3N0QyZm82NmRCRlIxS3JzXzhDRndj?oc=5"
+  },
+  {
+   "ts": "2026-11-18T01:50:12+00:00",
+   "title": "2026 Traditional Kachin Harvest Feast Festival (Inlong Innan Sha) held on grand scale",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ1RnY1lqdEdabVhDQ3RvOXNmNi1QRGRsWm1nYUIwUUJITHBoQ1h2S3lXNThCQ0o1WkxlNjdHQi1EeW5xMFBhbGc2MEN3QTdKT2w0dWFaX1hCMlhRRHRCSnBjMnI1QzM1NlJxTUFLamhMVzNkbVVKTWdiV0NIMmFNTjdYUEFSNkgzalhBaURPUE56UHAxeWxmQjJNUjlPY0E3VXNfRklBSUFSYU42?oc=5"
+  },
+  {
+   "ts": "2026-11-18T01:50:12+00:00",
+   "title": "Restoration efforts underway in Falam and Tiddim",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5RN2QtRWl4T0dsZkQtSVp6RmFITkxERXkyeVFhZWpnVTJ1dHRGa1dxN2ozbE9aSFVjVUVmWFhBVFpWbjN4TWIwQng4Mjcwa1pLekRmYnZLRE11ZGg4RFBWZjh5YmViY19LLS1xaWw1X3RBMHA2MWxJSzBBUFJ0Zw?oc=5"
+  },
+  {
+   "ts": "2026-11-18T01:50:12+00:00",
+   "title": "Hotels, guesthouses almost 100% full during Taunggyi Tazaungdine Festival",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNFo0bVpCWEFfMzBhVUlqVTRndVhTX3Z0TktJbmFVYXRvV19vekpBYm5HNVA4bVZZV0dwQ3Z1aTE5cl9wMHlyN2tER2lTemFSbVhDQ3RlZVZWWTB4WVl5dlhkbjN5bm5obkR4QTF3dFRlS0hPRVpOaGJnMlJhUHkxZ3ZYX29nSjdXSWtuTGlXUEx0TEpSMUpEVzlYeng?oc=5"
+  },
+  {
+   "ts": "2026-11-18T01:50:12+00:00",
+   "title": "Reduce, reuse and recycle plastic waste",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QMUs5T0RRcE9HODF4QVQyVUFxVnlVX0dlTTd5ZTlJN0VCSjd4dUxNdHQ4RW1ma19IaTNvaklUakkzVm1jQXVxQjJZRjZzbkcyalR3V3BFWVN2OEF0UWN5OGpVZk9FM2s1a2VRTXgwSnU?oc=5"
+  },
+  {
+   "ts": "2026-11-18T01:50:12+00:00",
+   "title": "Ayeyawady Boosts Fuel Quotas for Vehicles Bound for Beach Resorts",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRUotc1R0by1fZENsa2d2WWpoU05HUDZuOWJoNmJ6MUFyc2dXNGRNaXZjWDh3YjgxTmdOenhrSHowOHRSQlFmRnNrSlNvaDdjSGVIaF9kcWFSQWdUWXFfZndjSDVjQk1GMTMxWWxfZ1UyZTVsZmRfNDhOeWNLVnFVUUlQaXRVT2hFYS1mSHhRaWIwT0Ix?oc=5"
+  },
+  {
+   "ts": "2026-11-18T01:50:12+00:00",
+   "title": "Welcome to Our EDCs",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tQkNkV3AwZzJ3M2s0ZGp5UFBwWmlSRDcwLXpFRVE3TnNyZ0NMY1J4bXU4b2FtQ2VTN2h4SEFKRTBQaDY2Q1hSYktrVTAzS2h3b3pMZTFhbw?oc=5"
+  },
+  {
+   "ts": "2026-11-18T01:50:12+00:00",
+   "title": "Ice Sculpture of Myanmar’s Iconic Shwedagon to Debut at China’s 28th Harbin Ice & Snow World",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc2ZUZ29BUlNpQ1RjODc2QUd0VF9BNnhrYkd2T0ZBa0dDTnlMY3kxb083OTEyUV94NkVzZ2duU2t3akZYd3NBU0tmZnNDMEY5cnA5aXJKRlJBS2tjRlRhaTFOZWlTQUh4LWhNV3VzZDJGRDFRRUNtQlhPbm83LUV0eGxaTmFDbHVJVjlzWDdETDZfaDhHZFQ2TThUNWdldFN2M2Y4M0d1WW1MaElDa05pQUVXNA?oc=5"
+  },
+  {
+   "ts": "2026-11-18T01:50:12+00:00",
+   "title": "MNHRC inspects Htone Bo Male I & II, Htone Bo Female I, 24-Mile Production Camp, Charitable Comprehensive School for the Blind, Cherry Myay Home for the Aged, Police Station Detention Centre, and Court Detention Centres",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQaEstQU5nUVZURWpvamhaZUJZOVhFZXZIT2xVaTViaXZmQjRCYmdLUno5VmJYSFRZTUIwbkJLb3BmeTJNczRNQ2RVOUo0TzJtRGY3RzZ3eVowX2xDRkxuTzNwRXR2VUVxZzBJMHExMnF1TC15MnA5TzhSN2tLc2FnaW82V25pemFabkZBUFlhNFRMREpFTFM4WFFzV2U4NWFYR2ZidHdIUUUxY0JoMWk3OWYzZWthVHBLV1hCaGVjRlB2WmNlaU9ZeE44WFJSTDNCTW1WOVBoS2FLZE1ZVmlMeTRIbXdlZHNyZVVTTURiUnpFZ0xEUFFrSzdkNldNTmU0N0J4dXotcmNYbEppeUtqZGRXRnNZQmVjeE9aMWNkWWRVV2VybXVOdTBtTzY5MlUyTHVCdFRPcw?oc=5"
+  },
+  {
+   "ts": "2026-11-18T01:50:12+00:00",
+   "title": "Yangon United and ISPE FC battle for U20 Title",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44Q0Z2SmtsSmxnQnI4NkhMSmhhN21DTUFYU0RYT0VfSDRQZDJaU1lkZGd2Z3NnektMNVRQdG0tTFRRSnlnbXBLR1N5WWZQbkZRYkxvdGZOOEs3dkx5NkMwR1hHTC01bXRXREdxOWxwSlhxQmlMMldMLUtwUQ?oc=5"
+  },
+  {
+   "ts": "2026-11-18T01:50:12+00:00",
+   "title": "Myanmar attends 2026 Yellow River-Mekong River Exchange Week in China",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYWFzWVNITFRsNUxwSk12WGQ3S3NrRFMwbjBMckRpQVRPRE1helZLelAzbFZ1NlZXbVE5SWJNX2ktSTBOTzJMekVLaHhDU2Zqb2xXQUUwSko0YnNZRTBUYUc0TFNxNVlIVk1ReDUyVHlWQ3BlUTRDb2h6LVZBSEpfc1NOV1RkOWhVTklZeGZlclc1QkRKX05XbE5R?oc=5"
+  },
+  {
+   "ts": "2026-11-18T01:50:12+00:00",
+   "title": "Mongton’s MSY income-generating activities inspected",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORm84bG1jaDVyYTJ2dXlBYU5zWmlnaDFvaE1YeGUyWEdra1RqSTY4LUdkRDhUWXhpU3BZYVA5T0FDZ0FpeXQyQkNBWHlvZG4yX1FabUlxV25EQjJSYWtLNnkzZ3B6dy1TRlBaeTNqUE9pc0RjSmJVS3RNMVdZakx6el9Cb1I?oc=5"
+  },
+  {
+   "ts": "2026-11-18T01:50:12+00:00",
+   "title": "Frontline troops welcomed home in Taninthayi",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pTGxUZVdSbmNzVnhhN3hnc1VsMkV0MWpKdW1ac0VXa016NG45NE5fM25XSlZ5dklfd3l3Q3lCcE1kejF4WFQ5bm0zaGRRTEU4V2JhRThuMXI4QmhKem53YWFTOXlrU2lYNGNXTlNZQzFrYVJPRnBiNw?oc=5"
+  },
+  {
+   "ts": "2026-11-18T01:50:12+00:00",
+   "title": "18 November 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoY0RVT2hrMnJZSEIxVUJIcm1BbVVoMzdFS0Z3elUtQ3lydlp4Yk5DeEplaE1WNy1NaWRma3REby1NWUY0UFJyYVFGdEdMNWlVS2pz?oc=5"
+  },
+  {
+   "ts": "2026-11-18T01:50:09+00:00",
+   "title": "မြန်မာ့အရေးမှာ 5PC တိုးတက်မှုပြသဖို့ အာဆီယံဥက္ကဋ္ဌသစ် စင်ကာပူ တိုက်တွန်းထား",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.co.uk/burmese/live/c6vg288q5l2jt?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-11-17T19:21:28+00:00",
    "title": "22nd ASEAN-PAC meeting concludes",
@@ -2048,132 +2174,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUVlHZGJkWW02RjlPVWpRLXZuaF93M1dpVXFUWk9rRjJmZGFuNnc4d2VZaldJU0VRV3lLSHkxRW1xS0U1R0pOZC0zOVhBczdVYUs5Z3NqVmkwNFhRaEVyR1NkNDFhS2xJa3FOa29SdTk4TEIxeGtuQjB1Y2hBT3FDSkpFdDZLc1dxYzl0RUY3aURRUVE4Y29uTlVyRjlNbWg1bEdKUkNjbE1ad293MWpJ?oc=5"
-  },
-  {
-   "ts": "2026-11-08T11:00:23+00:00",
-   "title": "Myanmar Tatmadaw goodwill delegation led by Commander-in-Chief of Defence Services General Ye Win Oo returns from Lao People’s Democratic Republic",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORU9vTDRjUUpORU1wS0xTZUduSXdUTFd5a3poMzFpYVZMdF9vZF9Gcms3LWFYZEVOcmY3bFJiSnltS2gyUng3OVBiaTg1YTBrdm1OeVQ1dGpWWVZYVHMyNm9mSG5mcEI0cFAzNjhLN3NfdGxSTWtsTFlqSVhyM2EzYlkzaGVuTWduQ2pMZmk3TFRGQk1UZVlscUxrQ211Q0FIUGxVWkNOUFgwT2hJNGJSOEdRU2JRQ1UyeG1qbmd1UQ?oc=5"
-  },
-  {
-   "ts": "2026-11-08T11:00:21+00:00",
-   "title": "မဲစမ်လပ် Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWFB1cUZWS29qYXp1UHNoamNlVnNHTWlpSXNKbDAyRG55emFJV2FoZ3d6a01GcVBWaWRSTmM5S21IdzkxNmt0ZDJJSnpXaGpmdG5PdHZSeV90N3VvTjJHV0J0aTFEcDhYUzFLT3pUMlE1WU9YbVN0UmJCLUVfTi1qeWh1a0pJZy1BUS1HWG5Id3NLVUloNXlnVWxKRVZ5bFVqcmluNm9RRQ?oc=5"
-  },
-  {
-   "ts": "2026-11-08T10:30:15+00:00",
-   "title": "Myanmar Regime Plans April Vote in 55 Constituencies Despite Continued Clashes",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaTRENW4wc3Y4LV84U2oteDM2UlBVZXM3WGtrM0FBRXFROWhoTE5pSTIycmFFWUpKQlpwM0pBdXdEZTJMbVJnS3FPTmYzNjJsclNRNkpQQnNsdEYwTVByR3U5MmdRV09Pck1qUWRnR1h0ODZtV3UzcnNoM0I4VkdUY3RnQ0ppdGc3QmNuQVVDamN3ZHF1MXV1eS1BNzdmWXNtOC16UmhPSEJTNXAwNXJmdDQ3QnlVMFRRQjh2eFp0YXQ?oc=5"
-  },
-  {
-   "ts": "2026-11-08T09:00:19+00:00",
-   "title": "iCloud Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KcF84NTBzUlRkaGhNblN3eWNKZERSeFV1TXhiSUlHTjZnMUYyZ1JSQkZTVHE1X2F6NFhTTzRraHNGcExIYzFWT0lXZVNzZnM?oc=5"
-  },
-  {
-   "ts": "2026-11-08T07:00:19+00:00",
-   "title": "Gyobingauk Township Public Library Holds Reading Activities for Children and Families",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX1RMWDQ2c21EUWY1ZTUxMnlFSWJlNnlPZ0xNQWV2M1R3YUtod1E3a0xHME5paEU2Y1cwYWk0VXBhaExiQzZLb0dSMjc1Mlc1Ym5LbGRWQVZrYWx3M0dXdFEtMmh6a2M0OHl1cW1JcUVCckJyTHNMQThTQ3pfcV9yS21Ua3hKdnJxZ3RyWkxpZWRFV1ZwMTlFYUpqZnY2VXJoa3d1R2lSYmt1NW1TQzc0?oc=5"
-  },
-  {
-   "ts": "2026-11-08T05:30:17+00:00",
-   "title": "- yktnews.com",
-   "source": "Khit Thit",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAweHdTbTJlRzgyamZsbkt5UllKbERncTdVODRtZkdfYTJLV0xSWTVBLXRabkMxS1ZIMUNPM093YXhpYTVZMWkxRUVIUQ?oc=5"
-  },
-  {
-   "ts": "2026-11-08T01:30:16+00:00",
-   "title": "Links Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5lZ1NIOFNCa0J4TjdWZUQxSGpyTXRPT25OMEtBbzgxYUE1Ni05REhTdlk4eFVRalZpSVlRbkFWXzZvb1ppVHV5WEItVm1iZw?oc=5"
-  },
-  {
-   "ts": "2026-11-07T23:00:21+00:00",
-   "title": "Raising awareness of heat risks and water scarcity",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONGRuWklIWHB4YllwRmZiczIwbGZVQkVWWkNvM1lkdUJIRWRCMEVRSU9jMGNITkZPOUlkM0hwTm9pRFFBWGxJZlNCaDk2Z2N2aVJSMk9MN2JlNW42ZWJ1YVpMbGNfdkZOYlVXMUtsc0lvQzh4T2VVZnlaeUx3SXhvbw?oc=5"
-  },
-  {
-   "ts": "2026-11-07T22:30:19+00:00",
-   "title": "GTI Insein to conduct Training of Trainers programme",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWnJCZkdsZllRMXdhdXlYVEszYnJSR0NTNUl0ejZGUHV5dHFWUkVkd09KbkpsNGN1cHJhdlhZMXlZaXhaMFZjYXQ4dWZQRzFTX0NMQ3J0dHpyekVhWlFlZEEycWsyNTdxTXQyTnpvd21ta0lTRkZLZXk5SlRCMDFfQlNzYw?oc=5"
-  },
-  {
-   "ts": "2026-11-07T22:30:19+00:00",
-   "title": "Several Towns Hit New Temperature Records in Oct-Nov",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTncta0x2Ym1LOE02SXFwam5ZRUJoakpWem5TVmsxeTVxaG1tWEJUbHhxbFFHWlY4cUN1dmFKMzdLYldGYl9TZ0NENWhCQjBvYUZLU1l0d05ER05JUTJGd3IxS1V4OWJfYmV4Ykx5WC1wdzlGUUxadXp2RVE2aTNfWWVxUQ?oc=5"
-  },
-  {
-   "ts": "2026-11-07T22:30:19+00:00",
-   "title": "YSX trading value exceeds K1.57B in Oct",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9INzJuWmdpMGZNUHVSamJxWEgtU0VvNm45bWNLeFBlb3dRZzJpWERyRmNoZHRyNDhDbUVnZmZCMlZ6QXl3SThuV1FwX3pISWF4aGlPWWl5WmRFdEVaaFluTDMyejdNS3lXTnowb05ybHVuQQ?oc=5"
-  },
-  {
-   "ts": "2026-11-07T22:30:19+00:00",
-   "title": "Black Sheep wins 2 international film awards at Belarus International Film Festival",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTksyaHpSeWlXNXF1bjlpYjZxOWxOUFdseTF6RTBqT1RiVWhhdXJjbDdpc3lGRmJhM0lHeHdzVW02eVV2U3h4ZjZqM01EcW9hbnEyQUtpaXdNbTI3cTIwbDdBUnpLMnNNZjdZN3FIblNaQXFXelUyVkxfOW9JZlV6aENQd2hfeVBycHlsRk1EVUZUajlzSjV0ZldDbm9EUEFVUzRxOEswNzhCUVNW?oc=5"
-  },
-  {
-   "ts": "2026-11-07T22:30:19+00:00",
-   "title": "Development Projects Propel Growth in Insein, Hlinethaya and Shwepyitha",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORDNVR2FUWDk1cWJkZUhSTkkwSGZzTmRrVzJPdHJnTE5hZkdTR3JQd2ZkUUJGQWhYb1NQY2I0UVlaODlHd3hCSFVBUE1sa3RyVE96SjVSZGhhcnZaRmlWdjNNV3VtXzBCRUhoem91MXhLUWxRNFp3MGFJMlpWcDM1MG1qWTlteXVCRkl3d2ZzZDhjYzlWTDJfMDZOSQ?oc=5"
-  },
-  {
-   "ts": "2026-11-07T22:30:19+00:00",
-   "title": "Myanmar participates in HADR Exercise held in India",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTWFLcm1UeFhmMmVuWnB5WHlEZ1ZLbXdWdmFTZXg1VkdrcjBuYzFVVVU2cjlyZzBOTzdYNTZtbEpib0QtV01UN2pfY2dyN1MwVWhZQmZ2UUl6bzJFNy03QzJ3dU5iR3FZcDdFWDdTdFdWZE10Q3lRVXRmakYybWRIMzZn?oc=5"
-  },
-  {
-   "ts": "2026-11-07T22:30:19+00:00",
-   "title": "Vice-President inspects completion of repairs and construction of staff housing in Nay Pyi Taw",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMVNxOG5QYmVLWmFHZ0RYQ2JNRGl2UlpJTFc4Vmw5cFBBYU1MNHE5d3hNZmlURjRybE5oaU5zQTZfZUFnR2Nmb1l3eE5OV1A3ZHlDc2RNMWYtWXhaS05FUUZ3eDlic0o4cmZfdmpkbFFockZoRVhnVzdSQnlYdHltTnFROWk1amlVUkh1aWt4ZzhDbFVna2dxUjhOR0FydUV1YjQycWVFOGVMdXJFb1lHdjBhaTVNY3V4U2dz?oc=5"
-  },
-  {
-   "ts": "2026-11-07T22:30:19+00:00",
-   "title": "Nyaungshwe’s MSY Village Project activities inspected",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOclpMWEFmR3pSdUZWZ1AxMkk4b0U4SXpWTnRiQWU3MVFvWUlQbnpwaThtTVFXTHlxU3hZMW1CcnRJa290T0tCbncySHF2ZW56V3M0QjVGQ0E1d3RvSEZ5eDlvcHVnVmlIc2N3T2ZSUjZBXzNNZXozRkJIQ2RiRWlwSi0xdw?oc=5"
-  },
-  {
-   "ts": "2026-11-07T22:30:19+00:00",
-   "title": "Ongoing demolition of illegal buildings in Shwe Kokko Phase II",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUS0xSDJzNTFweUtUYUVqNTVpa19QS25BLU01bXcwTUVlUWk2cllMempBeWpXazdBV0ZqSm9kQVBwVW5vd1l0UjdCVkRWOHMxRWY1cHBlRlhDc1d1YmduN3hTa0xJaWV5YW5OVHJlbExuYXRzTVEzUDFJWDRhTVFRcXEyQk1vTGRoTXVjdk05dW0?oc=5"
-  },
-  {
-   "ts": "2026-11-07T22:30:19+00:00",
-   "title": "Vice-President attends celebrations and funfairs to mark Kayin State Day",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUEV3b05MdzJpbXN1UExlZVpfRTFNX2w4RlBUUkRyX1YzQi1UNWpSeVZwel9KSFhaVmYtYi04OFF6cW1zTXI5UUl6TEdZdzdZbWF1TWlVbnpPZlZlMFk4V0h6WU5TYkZyV2dHSlNDSDN1RG52cU10eHhNZW9lVENNRnZaQzBEVlM5NUxOcVB5ckM0Ym92WTZMOF9WVkpSdw?oc=5"
   }
  ]
 }
