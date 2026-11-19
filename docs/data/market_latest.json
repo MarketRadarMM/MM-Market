@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-18T22:23:05.507931+00:00",
+  "fetched_at": "2026-11-19T22:28:30.535095+00:00",
   "tiers": {
     "official": {
       "my": "တရားဝင် (ဗဟိုဘဏ်)",
@@ -25,16 +25,16 @@
     "note": null,
     "rates": {
       "USD": 2100.0,
-      "EUR": 2305.7,
-      "SGD": 1628.35,
-      "THB": 61.92,
-      "CNY": 315.07,
-      "JPY": 1319.26,
-      "MYR": 508.72,
-      "INR": 22.46,
-      "KRW": 157.58,
-      "AUD": 1411.2,
-      "GBP": 2767.49
+      "EUR": 2304.65,
+      "SGD": 1628.6,
+      "THB": 61.9,
+      "CNY": 315.08,
+      "JPY": 1314.8,
+      "MYR": 510.14,
+      "INR": 22.5,
+      "KRW": 157.75,
+      "AUD": 1407.63,
+      "GBP": 2761.61
     },
     "per_100": [
       "IDR",
@@ -44,7 +44,7 @@
       "LAK",
       "VND"
     ],
-    "as_of": "2026-11-18"
+    "as_of": "2026-11-19"
   },
   "world_gold": {
     "tier": "global",
@@ -58,50 +58,50 @@
     "status": "ok",
     "note": null,
     "index": "MYANPIX",
-    "close": 913.46,
-    "change": 4.59,
-    "change_pct": 0.51,
-    "volume": 3448.0,
-    "value_mmk": 35508700.0,
+    "close": 901.93,
+    "change": -11.53,
+    "change_pct": -1.26,
+    "volume": 12386.0,
+    "value_mmk": 100113750.0,
     "listed": 8,
-    "market_cap_mil_mmk": 1732709.0,
-    "as_of": "2026-11-18"
+    "market_cap_mil_mmk": 1710854.0,
+    "as_of": "2026-11-19"
   },
   "stocks": {
     "tier": "exchange",
     "status": "ok",
     "note": null,
-    "as_of": "2026-11-18",
+    "as_of": "2026-11-19",
     "stocks": [
       {
         "code": "FMI",
         "name": "First Myanmar Investment",
         "number": "00001",
-        "close": 23000.0,
-        "change": 0.0,
-        "change_pct": 0.0,
+        "close": 22500.0,
+        "change": -500.0,
+        "change_pct": 2.17,
         "open": 23000.0,
         "high": 23000.0,
         "low": 22500.0,
-        "volume": 1069.0,
-        "value_mmk": 24557000.0,
+        "volume": 2166.0,
+        "value_mmk": 48760500.0,
         "listed_shares": 33109694.0,
-        "market_cap_mil_mmk": 761523.0
+        "market_cap_mil_mmk": 744968.0
       },
       {
         "code": "MTSH",
         "name": "Myanmar Thilawa SEZ Holdings",
         "number": "00002",
-        "close": 8800.0,
-        "change": 100.0,
-        "change_pct": 1.15,
+        "close": 8700.0,
+        "change": -100.0,
+        "change_pct": 1.14,
         "open": 8800.0,
         "high": 8800.0,
-        "low": 8800.0,
-        "volume": 275.0,
-        "value_mmk": 2420000.0,
+        "low": 8400.0,
+        "volume": 3837.0,
+        "value_mmk": 32828400.0,
         "listed_shares": 38929150.0,
-        "market_cap_mil_mmk": 342577.0
+        "market_cap_mil_mmk": 338684.0
       },
       {
         "code": "MCB",
@@ -113,8 +113,8 @@
         "open": 13500.0,
         "high": 13500.0,
         "low": 13000.0,
-        "volume": 312.0,
-        "value_mmk": 4062500.0,
+        "volume": 354.0,
+        "value_mmk": 4629000.0,
         "listed_shares": 10400986.0,
         "market_cap_mil_mmk": 135213.0
       },
@@ -123,13 +123,13 @@
         "name": "First Private Bank",
         "number": "00004",
         "close": 7000.0,
-        "change": 100.0,
-        "change_pct": 1.45,
+        "change": 0.0,
+        "change_pct": 0.0,
         "open": 7000.0,
         "high": 7000.0,
-        "low": 7000.0,
-        "volume": 69.0,
-        "value_mmk": 483000.0,
+        "low": 6900.0,
+        "volume": 9.0,
+        "value_mmk": 62700.0,
         "listed_shares": 31144738.0,
         "market_cap_mil_mmk": 218013.0
       },
@@ -137,46 +137,46 @@
         "code": "TMH",
         "name": "TMH Telecom",
         "number": "00005",
-        "close": 3400.0,
+        "close": 3450.0,
         "change": 50.0,
-        "change_pct": 1.49,
-        "open": 3350.0,
-        "high": 3400.0,
-        "low": 3350.0,
-        "volume": 20.0,
-        "value_mmk": 67500.0,
+        "change_pct": 1.47,
+        "open": 3400.0,
+        "high": 3450.0,
+        "low": 3400.0,
+        "volume": 1071.0,
+        "value_mmk": 3694800.0,
         "listed_shares": 12823224.0,
-        "market_cap_mil_mmk": 43599.0
+        "market_cap_mil_mmk": 44240.0
       },
       {
         "code": "EFR",
         "name": "Ever Flow River Group",
         "number": "00006",
-        "close": 1650.0,
-        "change": 0.0,
-        "change_pct": 0.0,
+        "close": 1600.0,
+        "change": -50.0,
+        "change_pct": 3.03,
         "open": 1650.0,
         "high": 1650.0,
-        "low": 1650.0,
-        "volume": 1470.0,
-        "value_mmk": 2425500.0,
+        "low": 1600.0,
+        "volume": 4036.0,
+        "value_mmk": 6458550.0,
         "listed_shares": 19977223.0,
-        "market_cap_mil_mmk": 32962.0
+        "market_cap_mil_mmk": 31964.0
       },
       {
         "code": "AMATA",
         "name": "Amata Holding",
         "number": "00007",
-        "close": 4200.0,
-        "change": 100.0,
-        "change_pct": 2.44,
-        "open": 4100.0,
+        "close": 4100.0,
+        "change": -100.0,
+        "change_pct": 2.38,
+        "open": 4200.0,
         "high": 4200.0,
-        "low": 4100.0,
-        "volume": 11.0,
-        "value_mmk": 45200.0,
+        "low": 4000.0,
+        "volume": 902.0,
+        "value_mmk": 3608300.0,
         "listed_shares": 10497598.0,
-        "market_cap_mil_mmk": 44090.0
+        "market_cap_mil_mmk": 43040.0
       },
       {
         "code": "MAEX",
@@ -185,11 +185,11 @@
         "close": 6500.0,
         "change": 0.0,
         "change_pct": 0.0,
-        "open": 6600.0,
-        "high": 6600.0,
+        "open": 6500.0,
+        "high": 6500.0,
         "low": 6500.0,
-        "volume": 222.0,
-        "value_mmk": 1448000.0,
+        "volume": 11.0,
+        "value_mmk": 71500.0,
         "listed_shares": 23804946.0,
         "market_cap_mil_mmk": 154732.0
       }
@@ -203,19 +203,19 @@
         "premium_pct": 131.9
       },
       "THB": {
-        "official": 61.92,
+        "official": 61.9,
         "street": 144.74,
         "premium_pct": 133.8
       },
       "CNY": {
-        "official": 315.07,
+        "official": 315.08,
         "street": 733,
         "premium_pct": 132.6
       },
       "SGD": {
-        "official": 1628.35,
+        "official": 1628.6,
         "street": 3813,
-        "premium_pct": 134.2
+        "premium_pct": 134.1
       }
     },
     "fx_spread": {
