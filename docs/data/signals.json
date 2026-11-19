@@ -1,6 +1,120 @@
 {
- "generated_at": "2026-11-19T01:05:08+00:00",
+ "generated_at": "2026-11-19T08:42:14+00:00",
  "signals": [
+  {
+   "ts": "2026-11-19T08:42:13+00:00",
+   "title": "Collective cleaning campaign for 2026 Traditional Kachin Harvest Feast Festival",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUVlQanZtVXBCSDZIQkFjdF90eWF2TE45ZG1OOEtUZ3ZoNUlzODEydXBqQ0Y4bVQ3XzJvTlVLRjFIWTVNS3F5TmZpM1Z1UFk2OTZuRkVhZHJoamRMR1RKeFA3VXh0UWhxRzVWR2VBcUJ6cERSOUFGRWVob2hLamFYdVZSUFlfc21pZVR3TlZ4MjRvMnZjUk5qUEszLXVCdmltSk1iNjA0NA?oc=5"
+  },
+  {
+   "ts": "2026-11-19T08:42:13+00:00",
+   "title": "Why Does China Refuse to Itemize Its Climate Bill for Developing Countries?",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM1pKTjZ0YWhqc3MwWmJ4a1FkZkRMNmRFRUt3ZWg4TnZsbm1TbmxOYVNBc0VoQkc0ODBraVQyMGFUMWU5X1k2MHplRkhwRzZnSDJuVVJnSDU0akZsdnUxUzFaZzA4eXJaZURlOHFLSXZxMGNnTjJ4dm5SdktuREFZMzEwLWlPdGh1U01fQmVDUlczV2FnSjg0eV9iQ3hYQklRSF8yU3M4WTRReDViak5ab19pR1lwN0g1OTRMNHRsdTN0a0tY?oc=5"
+  },
+  {
+   "ts": "2026-11-19T08:42:13+00:00",
+   "title": "ASEAN Leaders Accused of Enabling Myanmar Regime Atrocities",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNY2ZCN3JZVzR3Znl5S0tSWVQ1XzhJOW1SNE1FaGRsejFJd282ZnRzZkIzLVI3ZFozanMwVnpRWHNMS204Y2FyWHBPeXRNbFVnMEgwZXlGMTZ5cV85MlRxNFNJSEVVdldDeFg0b3Jkbi1YRmNHRVNvamkxMUJfd21IYjQ2X3dncTBTelZKaHV5bEwwTExxd1FuOVhsdXgwOGpzci0w?oc=5"
+  },
+  {
+   "ts": "2026-11-19T08:42:11+00:00",
+   "title": "Could caviar served on gourmet food tour of North Korea violate UN sanctions?",
+   "source": "RFA (EN)",
+   "markets": [
+    {
+     "market": "fx_kyat",
+     "direction": "bearish",
+     "confidence": 0.65,
+     "rationale": "New sanctions pressure the kyat"
+    },
+    {
+     "market": "gold",
+     "direction": "bullish",
+     "confidence": 0.65,
+     "rationale": "Kyat pressure drives savings into gold"
+    }
+   ],
+   "url": "https://rfa.org/english/korea/2026/11/19/north-korea-russia-tourism-sanctions/"
+  },
+  {
+   "ts": "2026-11-19T08:42:09+00:00",
+   "title": "နယ်စပ်ကုန်သွယ်ရေးလမ်းကြောင်းများ ပြန်ဖွင့်ရန် တရုတ်၏ကြိုးပမ်းမှုကို စစ်ခေါင်းဆောင် ပယ်ချ",
+   "source": "Myanmar Now (MM)",
+   "markets": [
+    {
+     "market": "pulses",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "China border trade affects bean flows"
+    },
+    {
+     "market": "rice",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "Border status affects rice exports"
+    },
+    {
+     "market": "fuel",
+     "direction": "neutral",
+     "confidence": 0.45,
+     "rationale": "Border routes also carry imported goods"
+    }
+   ],
+   "url": "https://myanmar-now.org/mm/news/82345/"
+  },
+  {
+   "ts": "2026-11-19T08:42:09+00:00",
+   "title": "ရိုဟင်ဂျာများကို လူမျိုးသုဉ်းသတ်ဖြတ်သည့်အမှု ICJ တရားရုံး ယနေ့အပြီးသတ် စီရင်ချက်ချမည်",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/82352/"
+  },
+  {
+   "ts": "2026-11-19T08:41:56+00:00",
+   "title": "Myanmar junta rejects China’s push to reopen key border trade route",
+   "source": "Myanmar Now (EN)",
+   "markets": [
+    {
+     "market": "pulses",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "China border trade affects bean flows"
+    },
+    {
+     "market": "rice",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "Border status affects rice exports"
+    },
+    {
+     "market": "fuel",
+     "direction": "neutral",
+     "confidence": 0.45,
+     "rationale": "Border routes also carry imported goods"
+    }
+   ],
+   "url": "https://myanmar-now.org/en/news/myanmar-junta-rejects-chinas-push-to-reopen-key-border-trade-route/"
+  },
+  {
+   "ts": "2026-11-19T08:41:56+00:00",
+   "title": "Myanmar labour union files ILO complaint over junta’s tax and remittance demands",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/myanmar-labour-union-files-ilo-complaint-over-juntas-tax-and-remittance-demands/"
+  },
+  {
+   "ts": "2026-11-19T08:41:55+00:00",
+   "title": "ရိုဟင်ဂျာလူမျိုးတုံးသတ်ဖြတ်မှုစွပ်စွဲချက်နဲ့ မြန်မာအမှုကို  ICJ ဒီနေ့ အပြီးသတ်စီရင်ချက်ချမယ်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.co.uk/burmese/live/c5742m0l72z8t?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-11-19T01:05:07+00:00",
    "title": "President U Min Aung Hlaing Addresses Nation’s Overall Situation and State Policies at Third Pyidaungsu Hluttaw",
@@ -2104,69 +2218,6 @@
    "source": "Myawady",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcVgxT0dRYnJUb05zblJGc0FCTU4xeFF1aC1PcWtKc01nQWFGT2JfNGZNeGhuVlR5VWEybDFlaGdldktISHROZFJ0eGFLX1pZTEJzWm1nbTlSTDhSTVNndlUyNnM3cWpVei13eFJkSmh4WFhfUlg0WmxCbGZxY19seE9nVkFLeE1qamFkN1VkQWkyRUlGUUEwc3NQSm01ZEVFbjV5a2JOLXVJQjlqWnA3UTlNc3N1RkZiUkNIWHNMaw?oc=5"
-  },
-  {
-   "ts": "2026-11-09T01:30:14+00:00",
-   "title": "ပြင်သစ် Paris Peace Forum ကို SCEF ကိုယ်စားလှယ်အဖွဲ့တက်မယ်",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.co.uk/burmese/live/cmd931vy8ye8t?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-11-08T23:00:21+00:00",
-   "title": "Tatmadaw columns assault terrorists based around Laungshay-Hlaingdok-Kyindwe route, occupy Hlaingdok Village and continuously take area security measures to reopen the route",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMEpkcTk4OTZISjNHaDhCbnRtTllfVlZzRWFzdVFDNWMwTEl0bUdiMG5Ubl9MRVN2NUZZVUlQUWlneEVCaUZXZUhsbU5uU0NmcFBiVHdBWEJ3QXdJMzQweE9oMmJDRXZERXhCeWFpTUJtMEFoWGNQZW5pUzVMM0ZBN1VXWWUzQW4xT3h3LXZNWGVMMGZReU9RcmZuNFh1cTRRSVhkRHRCNENaRVZ3Um5IZ0F2Sm1jdTJVVTJyczJVTQ?oc=5"
-  },
-  {
-   "ts": "2026-11-08T22:30:16+00:00",
-   "title": "Myanmar Embassy in Seoul waives KRW 50,000 advance passport renewal fee",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN09OTW1aMXoyY3VRQzMyOE9KZW1VbjI4cVNEM1Z5R2ZUNHR5dUFYZjk4bUFVdHVJZ3pQZ0YyNVZ5Z0FoTUY3RUFYQ0sxbVpJeDlnZ2pwVmNkaGNGdDgxUFpjZ2ViX21mQS1KX3J5RHhEb2lCRkNRbFM2aVdjYzRIM1JsUG9Va2tOTHZHQVc5Q2sza19rWEk4OWhfcw?oc=5"
-  },
-  {
-   "ts": "2026-11-08T22:00:19+00:00",
-   "title": "မြေကတုတ် Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNGlxaXY2TTQ4clhpWmVRSTVSRTJhczd1MWk4UzJrYUZoX0FxV3AzN1ZEbU1mOGJ0WGtMMTltZ2dNNF8xS0J6OWsyTWF3UEZBWGdPaXR6bkF0MXpEYXJuUWViVGJmOGpIazhzdGZ5bk9iZjZ6WDhDbmRUUDhIUEwwOWhwTUJnTU50Vmx2SHZybHFzUTd1Ulp4QkNwcHp1ZGFmbzh5ZDMxZw?oc=5"
-  },
-  {
-   "ts": "2026-11-08T21:00:23+00:00",
-   "title": "The Light Is On, But Have We Taken Responsibility for the Coldness at Home?",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWTlUS0RGXzdOVW5veHlQN1V6MzBkUkdQZmN2cFJCYVFjRktVWmNvS19oazNhWmtIZU5XNGFzdFJHZmN3SUZFUmgzbzJTaEFBLTkyRmlidDE5b285MHBaQUVfaUdTeDRDTm9jSklhMVFRUGdEakRDTzJzMU5ydUNKYnc5czhrLXh1UVkxaVpjSTNSTzQ1Rldmd21xci12NzA?oc=5"
-  },
-  {
-   "ts": "2026-11-08T21:00:23+00:00",
-   "title": "The Polar Vortex Could Split in Two: What an Early Stratospheric Warming Means for Winter 2026-2027",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbXAyc21YYUxmN2JrLXZ1enlheWlhTnlQUmVRLWxvZWQtQjVkOUJ5cmJWc0RCWktuS05uNk1OUkI2eTUyS1NfRl9odVQ3bVhBVVdKY2d4dnA1MkcxMXlQSmV5c3JRUHpQSDlWazU1UDF1SVdrd1E2UzFFUlh4ZExNeUN1T0tTZ2pvODMwbTFndTdWU3BpYVpKYV94ekNqbkFFRHJfY2N4d2EzZVRFT1ZDRWdvTy1sTzkxMTczNGVaUC0?oc=5"
-  },
-  {
-   "ts": "2026-11-08T21:00:23+00:00",
-   "title": "Coconut Milk Sago Cake or Coconut Milk Sago Pudding: A Traditional Myanmar Sweet Delight",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMWMyWWNsaDlrZ095RWhBWS1RS2loQzQ0VG9TRGZtQjdmY1ViLWI0R2NUUW1leDN5Y0wyd01YdS1ycHU4S202SExJVm9pNlpqc01FUzdLYl81bW1pU21FQVltLUhrbXRPUDBPQTJZbFg5NVpNTjJZanpoajBVa3hCQlU5VmVJVzJvbnEyM3c4enEzY1ZvczdSZ2dqc2tnZnA1QjAxVjhfdzUzYy1OVmtQejhR?oc=5"
-  },
-  {
-   "ts": "2026-11-08T21:00:23+00:00",
-   "title": "Taninthayi Region Earns US$52.193M from Five Aquaculture Products in FY2025-26 FY",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNHMtUzRHMWY2Y255SFhteFhvbGVUaXZub3p6ZWRPcWpsWThWTzdfd04tVDhTdHJWR2NPX2N0X09VUF91RWk2d3RDRTJoUWFJN3RSWTRxdFF4VWoxQmplQkRQT29qY1lGblVfRmVLeUpHd3djYm5rMzVWMEJaeGZJa0M5TnVITFIzc21wYUhqdVlkWkVDMVN6dVBNeWRfbjBUQ3NoR1ZlVmk?oc=5"
-  },
-  {
-   "ts": "2026-11-08T21:00:23+00:00",
-   "title": "Traditional Market Fair, Furniture Fair showcase Myanmar’s traditional foods and clothing, furniture",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORENURHczRHFPRTFHd1hzOXZZWkkxV3ZIQ2x6aXNlbTdDNmlCVnVpYTc5WUNaZDY4bHQyalA0LXpVMUJIczZpeFd1LUdRX0UyS1cyTFlpNzBXMEZKSTE5UkJsbEFOVDVpbl91c0JEQWVjRTdRY0Y2ZEFVd0QwVzAwNllkaVQwdm0xYmJ4SGdmNUtoS0psWTFaODgzcm4zZkc4Q0hkS2N4N2k2Sk5ZQ2lSaWVObnNsclVHdU9WTmFQdw?oc=5"
   }
  ]
 }
