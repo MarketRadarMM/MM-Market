@@ -1,6 +1,61 @@
 {
- "generated_at": "2026-11-20T23:20:05+00:00",
+ "generated_at": "2026-11-21T04:14:15+00:00",
  "signals": [
+  {
+   "ts": "2026-11-21T04:14:15+00:00",
+   "title": "Deputy Commander-in-Chief of Defence Services Commander-in-Chief (Army) General Kyaw Swa Lin arrives in Malaysia to attend 27th ASEAN Chiefs of Army Multilateral Meeting (27th ACAMM)",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVmxWSllLSm9jRFhiNXNITFRGVms0QjduMEJ3bnE1MTI4Z3BLdkpsVFJNYlFTOURWTk9uWHhiWUpuVjdLZk9NNGdQZlFGVEdFQ0ZfaS1DMEhDMFdYalBZTWIzVmpwR1dOZ2RGdWk2R3Jldmh4Z3lVMDRvb09jR3NWcmlWVDVHamFGWFQwcFpKV0EyWVBiM1hTOUN0cGJ1eVN5bmwzUWpLN1dRZVU5dU9vakkta015QXdFQjZZLURn?oc=5"
+  },
+  {
+   "ts": "2026-11-21T04:14:14+00:00",
+   "title": "- yktnews.com",
+   "source": "Khit Thit",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE04T2duWjY5d2p5RUlvdW05cGhlWDlDV29USk5DbmJhck53b0Yzc0dqUWRIai1fR0plZU1hN0JhTzhUSkZ4TGMyY0k1aw?oc=5"
+  },
+  {
+   "ts": "2026-11-21T04:14:14+00:00",
+   "title": "Over 47,300 private industries registered with DISI as of end-Sep",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZXdYM3NVQk96eDVsNThpRm1lZDBIVE5mM1ZoS1cyX0xpS0JWNVNOaTF0bzdtSlI5WWNEay1HcGM0YWFuYWFYMnJpQUlQd1RaeU5XSmRGeWs4dlJCMzZOSjlTWlAxVVgxVzZIVnJkQllDMWtwZlBOaFlDZl8xVVRGUDdnWUlTbzRCaENBMkp3QWM3Z0E?oc=5"
+  },
+  {
+   "ts": "2026-11-21T04:14:14+00:00",
+   "title": "JLPT Dec exam registration opens on 28 July",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYnpCVGV5amt6d0dWUDZLU3R2SkxBaVJiNmluR0ZIUy13bUxNanVrc0k4aktCSEhMYi1mcXBkVk55b0tLcGJFN1hUT3VvODZCRFR2Wm1vTEdyc0xlRlhwakh4Mlk3Y09aSXVZV2tBRVdHWXliMDBUR3plMUUwdDlJVEM2aXBldUsxaTFVMzR2ZmxxSVBqSWxscUVEbkN0dkUt?oc=5"
+  },
+  {
+   "ts": "2026-11-21T04:14:14+00:00",
+   "title": "Demolition of scam hubs in Shwe Kokko Phase II continues",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYjdwU3ZfSnFCX09OZHo5aGFlLUxXTGJsYWRrSFA5OXVKUWtrSjk4UGloclVRTl9GWjdlMXB0ZzRpX0FDYWF1ZlIwdHU0R2RQYWgxOVRnbXJnOVhKWUtweWxxTTdjNGJ6WlZkQTYteFNPZWdZcHJUa2RWNW9ZZW1HV2lGeDlVZVRP?oc=5"
+  },
+  {
+   "ts": "2026-11-21T04:14:11+00:00",
+   "title": "Washington Sanctions Two More Myanmar Regime-Allied Scam Warlords",
+   "source": "Irrawaddy",
+   "markets": [
+    {
+     "market": "fx_kyat",
+     "direction": "bearish",
+     "confidence": 0.65,
+     "rationale": "New sanctions pressure the kyat"
+    },
+    {
+     "market": "gold",
+     "direction": "bullish",
+     "confidence": 0.65,
+     "rationale": "Kyat pressure drives savings into gold"
+    }
+   ],
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcURiOE9ET3RkVXpEQmp0ak9ncnhYYi0wZFpiSzlheEU1OXpnSHI4SGF2RGFoNmp5TjN6SzZmUlhYRGVPOW03d0dfMGJNQ0FNZjVvVUlxSFVzWjhkY3U1WlBHM01MNFlGaXZCbW95M05BY1Q2YnZqUG5pLW9SQUlKaXBLdDRCekh1NnNVOE01ek01WjRYME5vX0dCSnZTd0xLMFE?oc=5"
+  },
   {
    "ts": "2026-11-20T17:12:35+00:00",
    "title": "Vice President Daw Nan Ni Ni Aye delivers an address at the Myanmar National Youth Affairs Central Committee meeting",
@@ -2208,48 +2263,6 @@
    "source": "Myanmar Now (MM)",
    "markets": [],
    "url": "https://myanmar-now.org/mm/news/82188/"
-  },
-  {
-   "ts": "2026-11-11T11:30:19+00:00",
-   "title": "သမ္မတအရေခြုံ စစ်ခေါင်းဆောင်ကို ထိပ်သီးအစည်းအဝေးတက်ခွင့်  အာဆီယံဆက်ပိတ်ပင်",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/82195/"
-  },
-  {
-   "ts": "2026-11-11T11:00:19+00:00",
-   "title": "Myanmar junta seizes NUG Special Military Region and PDF camps",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/myanmar-junta-seizes-nug-special-military-region-and-pdf-camps/"
-  },
-  {
-   "ts": "2026-11-11T10:00:19+00:00",
-   "title": "Myanmar’s Min Aung Hlaing remains barred from ASEAN summit despite assuming presidency",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/myanmars-min-aung-hlaing-remains-barred-from-asean-summit-despite-assuming-presidency/"
-  },
-  {
-   "ts": "2026-11-11T09:00:21+00:00",
-   "title": "တက္ကဆပ် Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd3hrOGRlazhZLWlFTVNfRGJ2OW96MHlSMDc3LVhOeU0xb0o2SmYxVVMzdzlmUngyUmFVRU4tNzRPYkU0UFJlX05Ec09nNGctS0M0d18yTllfYUlLMjhUR2pEQ1Q5Qjd6MW9DZVNxZ3dURWE5a3V1SHY5d05tSHQ2VXJzV2ZmanhXaGFUeHNuZXB6dmhDNTM1RGhZRQ?oc=5"
-  },
-  {
-   "ts": "2026-11-11T06:30:18+00:00",
-   "title": "President of the Republic of the Union of Myanmar U Min Aung Hlaing inspects regional development activities in Dawei, Taninthayi Region",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeDNqUjlwNHcxdHFxWUJfQ3Bva2hOcngwWHo2VTBocFY5bWpfVlozejk2RU1qeGtneVBXY3RaQTVKdVRXWUZ6bTh4ZDlvMkpUYUN1TkZJTTNXSGpCcEN1UVVFVGYtX2gxa2lNcXdqUUpFVHlNR21iQWRVUlZ4QXI3REk4OGZpWW1tbE84SVdMOU5ScnBFd0RxU3ljcWFKdldxc1dranFTeFlfSU9PZU85VHQ4N2M4ZFBhWC1yZnROWVM5dw?oc=5"
-  },
-  {
-   "ts": "2026-11-11T06:30:18+00:00",
-   "title": "Ministry of Foreign Affairs summons Chargé d’Affaires of the German Embassy over his video statement released via social media",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMXdsN3pqOWZIaXJJckQ3SmhldjlVREdFeXgzcGR2SVdybTJZRnN4OHZSM2p1RWZSdzFiOE1JdDY4WWVWekdqU2FYcGNLa1V5NUNibEhqU0tZeGRzOFcwR3dlQnNlcGkxMm80cjh2S3J3OGkzdWxLbTI2bTNSaG1ZU01GUTN2QmliZnM3TXR1QnRoRU5XWHh0VVhVa3dYVkpPSXl0SDJLVGlnMkxnSlFkbUxudDF1MlB0c3l1QkVB?oc=5"
   }
  ]
 }
