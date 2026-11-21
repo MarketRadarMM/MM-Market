@@ -1,6 +1,171 @@
 {
- "generated_at": "2026-11-21T12:57:47+00:00",
+ "generated_at": "2026-11-21T20:02:04+00:00",
  "signals": [
+  {
+   "ts": "2026-11-21T20:02:03+00:00",
+   "title": "KNU Troops Stumble Upon Another Scam Center Run by Junta-Allied Militia",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT3RiVnN4c2pKQUJIX3R2Vkphb3poVldTZzY3Q0lYYjFJQzg4NnIzRkdDUVNCMkh1eUVKTXlJVi1zX04xWFk3QW8xSElnU0xJSUhOV3JoS1RVS19oSTZSSnoyekZBek1DRTQ2UUtGdV94a0ZHdWZnYUhqRDRmT1FyUXV2SU5iY242WFNreGR4OVhWZXJZOVVIbjVzYWNQUDdYQUh4SlpKZTlydDQ2ZXZuVXFSbktSLTd6Wld5Y3FYWDhoZXQ4NE9LblVxWGR1UQ?oc=5"
+  },
+  {
+   "ts": "2026-11-21T20:02:03+00:00",
+   "title": "The Irrawaddy News Magazine [Covering Burma and Southeast Asia]",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BVzlXS1ZSWkxCaUxIZVVHQVJ1Tnl3QkdldTlEbUk1anVydlJVTHI1bDN2aHZ1aHd6Wk9oaV82SFFuamJ3SjBzcDg4ODRxNjdta09OT2QyaUdaUkxNVWJpUEprbnpyR1E?oc=5"
+  },
+  {
+   "ts": "2026-11-21T20:02:03+00:00",
+   "title": "Thai Film Stirs Concerns About Burma Relations",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hMVdfOFJlZXBpVUhfZEFKR0F0amZfb3c2SDQ1VHEybEd1U1FRbXc5Nkx5bnFWcHVnanp3RmhiVEFJM0lKa3lLRVQ2R1pWV1YwMzRxblNNa1RIcmFEcDB4QTVLVTZMS2c?oc=5"
+  },
+  {
+   "ts": "2026-11-21T20:02:03+00:00",
+   "title": "The Irrawaddy News Magazine [Covering Burma and Southeast Asia]",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5U1IzMTBNbTlSSi11NF9QQ2hKR3otVjNfVXZFOXl1cWV2Vlk4OVZnS2VKNnI0WVpaUTRPX1l0X2lXZVFkY09FSVFEcnphSlRzMlZYendXWmswcUVtV1VVU0k4RFRhc3Qt?oc=5"
+  },
+  {
+   "ts": "2026-11-21T20:02:03+00:00",
+   "title": "Russia to Observe Myanmar Junta’s December Election",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb2JlaXJYbmJBczFUenlIRnVWVG1LVzhRTWdhLVk4QVZiSXpPOGt3OWdpOVM0WG15UlJLaWZyQV94Z3R2Z0QxVmZfejJmeXQxUWJQMlhqWFlNZnoycFBFcEFXMkVxMnFrWXhCaU8zQ2hPTnNQdnB1ODBhRjlMekJtQXRaYzJnUHZrU0dHZ1AwMElRTjJCUkpqdWtzTjVfRWh5dURocnBOcHNnbTd6Z2hKNzV3?oc=5"
+  },
+  {
+   "ts": "2026-11-21T20:02:03+00:00",
+   "title": "Business | Trump’s Tariffs to Hit Myanmar’s Garment Manufacturers Hard",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV2YtQXpBa3JTM3R3a1RDcFNSZFZRV2ZsaXZTazVCUGZRNm5tV2xGWmxiTmJxZ2NjMkp1dWEwR09wcEFiS0JSb3VUX2lkdlFJYnZCMTltLUQ2d2tKdVpzZXdFM1drcndpenpPc1BzeEpVTm1xM1VJRWZqYjJLTzVMcWlXRHdYbGlrQ0FFcHktaDV2RzRLQkFTa2hIMXJiQQ?oc=5"
+  },
+  {
+   "ts": "2026-11-21T20:02:03+00:00",
+   "title": "Myanmar Junta Strike Kills at Least 32 on Buddhist Festival of Light",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa29HUU1SblQybm5zRHQ2dTJQS1pSejRGcmhpOVQxRkZrMUhwU1F1czJyVXU1cHh1TEpHUUd3TjE5ZmRCOUdzbmsxOGpnYk9QZE5hZlpMNERydHJINWctQ0t4M1dMNWN5LWFwc3RjRmRUaEVYcXdOb3lNcE0tanhBZFJPVk5YWmh5VmVPNV9ldFE2eXFZay1wVkxmdFJ3OUtUVmJEc3JWcW05WjZkbjhZ?oc=5"
+  },
+  {
+   "ts": "2026-11-21T20:02:03+00:00",
+   "title": "Norway Parliament Probes Telenor for Handover of Myanmar Opposition Data",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUGs3U2ltZllqa0haZHpNbXVZUVgwb3lROWFsbWw2LUREcGJrdHhOZFpqZGQ4aDZzQWRjcXY3ODBndWhaaFZ2d0dNRTRPWDZQUl9qU0pmYWVzMGc4LW5UX3RwMTB5b0dqSFVjcjduSTcxcHBoN3A1NVJjWW90YklvVGJJYW9XaklDeHJETDZFMExrSlFud3QxdEVxcjN1WGV2OU5NUjlwOFN5RXlpMDVMTF82a0ktXzhudEQtUEh2Y2Zmb1NlSmVTQXVTd2Rlcnc?oc=5"
+  },
+  {
+   "ts": "2026-11-21T20:02:03+00:00",
+   "title": "Myanmar Military Steps Up Chin Offensive With Airstrikes and Troop Buildup",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSmtZRl9YNzFwNmhXazhLTk1tUVgzU3ZQSDlVMk5MdjZZMTJwa0oxUkc5QTRwLUJrcEJWMTgyN3h6VjdsbjdTd0d4bGJCaHppWnBBd1A0N05UR1ppdUZXcElxeG0zNFdhZURLbU5xdFkyZG4zVVB5blZIWTdqMEtuUk0ydUc1dnhlWmlIRVBUdzFDZW5OWS1Ma1ZtckRoODJtOGFhOV9pSWJHQ0MxQ1lNQVpoRUowMlU?oc=5"
+  },
+  {
+   "ts": "2026-11-21T20:02:03+00:00",
+   "title": "Thaksin Targets Myanmar’s Wa Army, Calls for No Mercy in Drug War",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeG44S25ISTJSa3lybFNEUDFpeVFERHZLZXhEaUZiV1g3aDE1N0s4MVM1R3dvVnZQXzZUUGE5WUdpTjdGUUJid2llWEVxdGxGdGotWUgwdzROakRWY2x5X1lHVjdKY3RCR1VVVjRCdGFOakYyQW5taHA2eHE4V09Sc3RjRU5fRG1JSkZkVEd4T1hfa1dGWUxlMmdfdnlMR0RfUjMtdy1Fbw?oc=5"
+  },
+  {
+   "ts": "2026-11-21T20:02:03+00:00",
+   "title": "The Irrawaddy News Magazine [Covering Burma and Southeast Asia]",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1taURVbGZwU2k2Y25ZdmEzU3NXa2RnQm9CemRWSzY4VkZ4SndYWUZvUVhRclBwU3k1OVROQUd5eUhua3NDekFhQ1ZWVlpyRkk3cFBRT0xLRFVIMldNdU5VX29uc09zamdS?oc=5"
+  },
+  {
+   "ts": "2026-11-21T20:02:03+00:00",
+   "title": "Min Aung Hlaing Lashes Out at Beijing, Scammer Whac-a-Mole Continues in Shan, and More",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQR2N5N1lfRmJuMVZvUmlkQTVFM05hZ0JEOXRpekQxMi1kRGJoeGNJMGRubzkwbnpMLXlSSS15cjVmRFMwZkFrbFRqa2JvQjR1Y2pDZnBBdklCX3NKRkdCTG1KQlp2RHJDdHNydFJ4ZFIwVnUyUVNreGVBcWtMSEVHMGNTZ2pULWljUzIwc09ESHNzUVUxNmNkZC1fTlY5elBzX1J1Wnhsbl9yR0ZORldyRkJKOV9iWjJrb3MyZERJYnY1UllrMDVrbXhlM2FrZWFw?oc=5"
+  },
+  {
+   "ts": "2026-11-21T20:02:03+00:00",
+   "title": "Rights Groups Demand Action Against Myanmar Junta After Historic Rohingya Genocide Ruling",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQa3VIYi1jUnJSdURqTE5ZajFHd0l3ajJNaU9MajNEVG16T2hGNkpCRGRQSXpFcGtzbl9ZdEJaU2lvcVdXb0lxY1JPMFhxS3ZLN1FQQnlnbFBTUTdXMXZxaDZrSEx1Y3NZMmZnVWQwSDh5MDkzSEw5bDdVQzBmOW9qNW5rRlpfcG81eG9QbWROdXBOS0NnSHdsUUVvUHRRRGJlNkVYVnZJVnlNY0dOX2RCRTc0YVg1dkljVDFyRE9ZQkYwTnhfd0NQWXozaw?oc=5"
+  },
+  {
+   "ts": "2026-11-21T20:02:03+00:00",
+   "title": "Dozens of Civilians Killed in Myanmar Regime Strikes as ASEAN Leaders Meet",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTjdUZmlNbVFhSzBIMmpoazVGZ2JKdjFGa1lvRUNzNXNHTENuSXFNSVdSX1pnOEJQRS1pa1Q1bF83NDRtSHU5ODFLTWVmTjE4bURkV1hyTWZyZTFDZUswZkZ3bWg4MEtKOHFBTTlucXBaUUdBV3FJTnFjYTI2SjJ4Z3hRUFc0bDRRRW9CRXFIMXdraV9tWG5kLUpqSHZlNzdlQVVGUUpoUTRNMGFUTW96Uk1PeEVabUE?oc=5"
+  },
+  {
+   "ts": "2026-11-21T20:02:03+00:00",
+   "title": "Laihka Archives",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBXZzFTQWw0REVXVGNDdHlDNEprS00wdUdrOUFyMFBqYl9MMm9QR2RCeHVBcW1pdnAxSDBpRmlGaU8xNEdUYUd3aHozTTc?oc=5"
+  },
+  {
+   "ts": "2026-11-21T20:02:02+00:00",
+   "title": "U.S. Sanctions Two More Myanmar Regime-Allied Scam Warlords",
+   "source": "Irrawaddy",
+   "markets": [
+    {
+     "market": "fx_kyat",
+     "direction": "bearish",
+     "confidence": 0.65,
+     "rationale": "New sanctions pressure the kyat"
+    },
+    {
+     "market": "gold",
+     "direction": "bullish",
+     "confidence": 0.65,
+     "rationale": "Kyat pressure drives savings into gold"
+    }
+   ],
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM1ZYekN3akNwYmpEM0pTR3ZBOFAyZ3NlVEdOeW5Yal93WTdQNVhpU3dELUhRS1Nfa1RDa1V1aXhIbVZmZ05IcXl4OXhoLXRMTnNxQW9WUzF5bHFCaG1BR1B0OWF0dGZCWmhZcTE1T3EzbTNpbkJ6OUdZOGhlY2ZiR016YVNvMFVSVjB3dXVXQ0JxdXowNzhKUVRR?oc=5"
+  },
+  {
+   "ts": "2026-11-21T20:02:00+00:00",
+   "title": "Min Aung Hlaing Accuses Thailand of Aiding ‘Illegal’ Border Trade as Ties Sour",
+   "source": "Irrawaddy",
+   "markets": [
+    {
+     "market": "pulses",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "China border trade affects bean flows"
+    },
+    {
+     "market": "rice",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "Border status affects rice exports"
+    },
+    {
+     "market": "fuel",
+     "direction": "neutral",
+     "confidence": 0.45,
+     "rationale": "Border routes also carry imported goods"
+    }
+   ],
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ2t3YWlLcm04aUs5ZTJjc3NpWkVncVFQRGxqTXZuMTBGcFRiSHNXUng5LUNsUkNtQm5NOHJ5VGlTTE82MVhNRXdiWGpSWld1RmN2SVI5R3ZSUWFiQjA5OHl0Mm53N1hrclBqbmh5Sldrcjh1M0lOSDc5Z3NfZ05mMkFVckZpeFZnUTlxWlhaVTBROEIwbmE0Y18zN1c1bXROM2V3SzZn?oc=5"
+  },
+  {
+   "ts": "2026-11-21T20:02:00+00:00",
+   "title": "US Warns Against ‘Politicization’ of ICJ, Studying Myanmar Ruling",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObkhJcUx6eEJyU3pnUEJoNEFkRzJXX01iQWd0Vnd4cVBLaXpGbGhHTkVHMlNlTElzRVZNcEhlOGVxbmVJVmViNXJwQWl0eVd1N1VITThVVkJ6T0pTZWV6eXNacDdHTFkwMV85REpadHFfamNFR3pUaV94QnA2cy1Za0pycjdZVlhwVXg2d2NiOVdqOURtNDRLd3FYWXhtMDQ?oc=5"
+  },
+  {
+   "ts": "2026-11-21T20:02:00+00:00",
+   "title": "Five Key Points From Historic ICJ Rohingya Genocide Ruling",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRFZHaktCcW5CVTdVU0Q0X3JUbk5ERmh3dkNfRXBjeFRwQ2tpSWwwWnFidGYxVVo2M0hhYkQ5cENwRWh2b052aFd0RWxyTzF4bU9qdDY1MTNySVdBU3phZW1Ca3ozMy1XSlFzeW5zcGJMckJvMVFNcmJmY3NlYU9yRTJQWEdteVBXNUlIU1h5anVsSUZBSDdoSFFsZ19ZU1pocUE?oc=5"
+  },
   {
    "ts": "2026-11-21T12:57:47+00:00",
    "title": "Vice President U Nyo Saw meets departmental officials, town elders, and social organizations in Cocokyun Township, Yangon Region, inspects regional development tasks",
@@ -2130,139 +2295,6 @@
    "source": "Myanmar Now (MM)",
    "markets": [],
    "url": "https://myanmar-now.org/mm/news/82216/"
-  },
-  {
-   "ts": "2026-11-15T15:55:10+00:00",
-   "title": "ချင်း- မကွေးနယ်စပ် ဆက်တိုက်ဗုံးကြဲမှုကြောင့် အမျိုးသား ၂ ဦးသေဆုံး",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/82222/"
-  },
-  {
-   "ts": "2026-11-15T15:55:10+00:00",
-   "title": "တရုတ်- မြန်မာ ပဋိပက္ခစီးပွားရေးနှင့် မဟာဗျူဟာမြောက် သတ္တုသယံဇာတများ",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/82228/"
-  },
-  {
-   "ts": "2026-11-15T15:55:09+00:00",
-   "title": "Myanmar junta tells country that reliable electricity still 20 years away",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/myanmar-junta-tells-country-that-reliable-electricity-still-20-years-away/"
-  },
-  {
-   "ts": "2026-11-15T15:55:09+00:00",
-   "title": "Is Myanmar’s military junta losing patience with China?",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/is-myanmars-military-junta-losing-patience-with-china/"
-  },
-  {
-   "ts": "2026-11-15T15:55:09+00:00",
-   "title": "Bangkok says ASEAN should accept Myanmar back at diplomat level",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/bangkok-says-asean-should-accept-myanmar-back-at-diplomat-level/"
-  },
-  {
-   "ts": "2026-11-15T15:55:09+00:00",
-   "title": "Myanmar junta airstrike kills two university students in historic Rakhine town",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/myanmar-junta-airstrike-kills-two-university-students-in-historic-rakhine-town/"
-  },
-  {
-   "ts": "2026-11-15T15:55:09+00:00",
-   "title": "Global powers converge on Manila as ASEAN summit kicks off",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/global-powers-converge-on-manila-as-asean-summit-kicks-off/"
-  },
-  {
-   "ts": "2026-11-15T15:55:08+00:00",
-   "title": "အမေရိကန်တစ်နိုင်ငံလုံး လေယာဉ်ခရီးစဉ်တွေ ရပ်နားခဲ့ရမှု နောက်ဆုံးသိရသမျှ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cqvg2lyzngkeo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-11-15T15:55:08+00:00",
-   "title": "ထရမ့်၊ ပူတင်နဲ့ ရှီ သုံးပွင့်ဆိုင်တွေ့ဆုံမှု ဘယ်လောက်အရေးကြီးလဲ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cmj4rvdl78xjo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-11-15T15:55:08+00:00",
-   "title": "စစ်တပ်ထိန်းချုပ်ထားတဲ့ မြို့ ၃ မြို့           အေအေ တကယ်သိမ်းနိုင်မလား",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/ckzd9554lyrjo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-11-15T15:55:08+00:00",
-   "title": "‘‘Burma Act ချန်ပီယံအမတ် နိုင်ငံခြားရေးကော်မတီဥက္ကဋ္ဌဖြစ်လာမယ်ဆိုရင် မြန်မာ့အရေးလွှတ်တော်ကြားနာပွဲခေါ်လိမ့်မယ်’’",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cr9dzdp4lgl2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-11-15T15:55:08+00:00",
-   "title": "ကမ္ဘာရဲ့''လငယ်''တစ်စင်း ထွက်ပေါ်လာ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/c3zxvr9r47jro?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-11-11T19:00:25+00:00",
-   "title": "Vice President Daw Nan Ni Ni Aye delivers an address at the Myanmar National Youth Affairs Central Committee meeting",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZS1kNksxOWJJakxRN01vTWcwRC1ZYmRTVXd4b2Rkd1R4cEdpd2t2VkFiT0NteE4xSmd4TUllLUxuam9MNVZXRDJSTTAwX2dKS1ZpY2ZuYkU1T09uNVBLazFfZmt1RzQyMDJoNTBnVExCbFpmTlZTNVBqbGgxMldLLWFhazNYaGd4TW02RFQyelg0V21NbExudnhPRm91YnVrWXRjeWgxcWZjMDZvVWxmOExjUVYxenNxYVRhdDRLREpjRXc?oc=5"
-  },
-  {
-   "ts": "2026-11-11T19:00:24+00:00",
-   "title": "Myanmar’s Coup President Barred From Upcoming 49th ASEAN Summit",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZUQxXzdXcVNpQzM1Y0VlU2VFRi1ITnZhQjFYRUdpNEZCVHd6Y0ZfMG5WU0dBRXRLWWpVRnIzSnZzU2hhVElEVkVCaFlXd2ViQVZxWXZfRlRNSm1tdWMxM3RBdVpJSWRabE9JT2RIVkVoc2dIWENQTmM5dGQtX0pNWmJKTHhuTEZiUm1Ld3JuMnF5aS1ObjFuMnAwWTBwNllSdEFKX19OcThKSENrdEwyQ1hoWDU2QzRGRXkxZXpHRGFXUQ?oc=5"
-  },
-  {
-   "ts": "2026-11-11T17:00:23+00:00",
-   "title": "2026 Intangible Cultural Heritage into Campus event held at schools",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSkNCVUx2elRXdnFobU9qU3dUNnMwNXFENTVyb2ZKWmF5S1l6QVdNYm05Z290dHRSR3dxMWF1dzZpMGpyY2g4dHk0bmNXYjRCYVF4NzN1N1oyY2xFT3EtV0oyQlZ3MFhUV0h4SHhNM1hITlpsaUU1aVF5WTIwNEkzUHNNZndhOHFNWEFEMG43ZVJ6bXlsSGJZ?oc=5"
-  },
-  {
-   "ts": "2026-11-11T17:00:23+00:00",
-   "title": "20th Sitagu eyesight donation kicks off",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zS2xmblBtU2N3SkZwTnRxU1BkWW9XX1czSG1tTzZ2WmZmRmE3ZXNLamtQeXZLVkZGYkhMZDFqOGx1MjFqVVNpLXNTenlMUUFVZzJEMm1NVzBRNWpFbmlzcXYyb1U0QkdiQ1FtS3pEMVdSQQ?oc=5"
-  },
-  {
-   "ts": "2026-11-11T16:00:20+00:00",
-   "title": "Heavy rain leads to floods and landslides in southern Shan State",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUWIyS2h1ZG5ObFZZa1huUDVaYWdTdXQ4M1Z2b1hfVXQ0NFRGNUNnbjBpbWNrbzhtUUIya2t4ZlhCQ3BZWnFCcFBrU1RGM2k3TlpQRFhFREY0aWhmQl9Bc3RPSXlRcGRyeHN5RnozXzB5SlhRR3JucFlSdjk3SUFQZlMyMTBzd2E2R2dTRXNpMTFCc1k?oc=5"
-  },
-  {
-   "ts": "2026-11-11T16:00:20+00:00",
-   "title": "CBM Governor urges countering online scams and money laundering",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVmlHZnNFcEp1OGswMWRfMzN2b2pXNzMwcG9MZWtvSTd1cElndWIzWW5TdUlqTXVMZ0NjWEJzNl81TzU3enE1d1Nsa0wyOFcwMnZnZDR1Z2R1QlpHdUh1NklNREF1LUtoNHl3NUd1MVc0NjY3UlB5QUM5LW5kOWcxNHVkdV83TzlTYjFKVGx4Z01UUQ?oc=5"
-  },
-  {
-   "ts": "2026-11-11T16:00:20+00:00",
-   "title": "အပ်ငွေ Archives",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ3RsRmRkUVpOYWxrMk9PcUtZcWJnencwUVdtUVVITUZaUnc4RkJiblljQ2g4aVJrdnZiakpyZzlBdmN2VENLNm9xMkRsbHBocXpLR3p0NHA1a0FOQXhEZjVIRnZxMzd4STRCZmh5SVhYTHItYVRDODRlM3VYTEhRenc0d18wU19uRll2cGtaaw?oc=5"
   }
  ]
 }
