@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-11-22T00:16:47+00:00",
+ "generated_at": "2026-11-22T07:22:37+00:00",
  "signals": [
+  {
+   "ts": "2026-11-22T07:22:37+00:00",
+   "title": "Families of the Office of the Commander-in-Chief (Army, Navy and Air) hold communal Kathina offering ceremony 2026",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaEpLX2JaR1NmUjdWM1gtSEdoQ0VrbnpVMUhiaWxZa3hVaWVXNkFiTW5pa0M5c1VZZ2J0Y2tESDZPVmdUblByd01KdzFoMXBUSllOTWoyaEo0cm4tbVJjcHJBM3JfN0JuMm9fZEFLX2phWnpSQmhBUTh1eWdYYW50SGFyR09sNm1Fa21PajJKZ1hLUlpnSFNFYUY1ZW1TWTl2bWFfVTJWeTFWaEIxYUlLZmFjMTRYcVU2?oc=5"
+  },
+  {
+   "ts": "2026-11-22T07:22:37+00:00",
+   "title": "Overcoming the Challenges Arising from the ICJ Judgement through National Unity",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNzh3NkJmeUw5WnhtSDRHTDRpdG93YzdjVGZFaVdORWR5eVVfZjA3NUhDNkFiVzNnNGJ6LUtTM19adjZqeVpTMmZDblNfNjVXYmFXbXhBeHJlYU5FUjJpTG95OExjVlc2MDZEWFNnOEJaR1FPMWo3VGxsSEx4djBRNUJLQ1hPZDRnY3ZXMURlbzk5Qk0?oc=5"
+  },
   {
    "ts": "2026-11-22T00:16:47+00:00",
    "title": "High-level Myanmar delegation led by President of the Republic of the Union of Myanmar U Min Aung Hlaing and spouse Daw Kyu Kyu Hla arrives back from Vietnam to Myanmar",
@@ -2281,33 +2295,6 @@
    "source": "Irrawaddy",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYUtpbVN0UkdZQ1NkUlF0ZTR3ME5MR1hpanhHVXBOc3RKeXE1M2taQ00ycmxZZGRGYTA5VGQ4MXlSenB2S05ISHgyYmFqUm44QkdHbGdQUGloank4NW4ybmNYeHRQUXc5N3dQNkdWdUdKc2E3QTU2bF9GZXMwWUNIMklYemFQbmV5ZTdUX2FpRFNOa3cxS1RCY3FJODBfdw?oc=5"
-  },
-  {
-   "ts": "2026-11-15T15:55:11+00:00",
-   "title": "PNG observers call for restraint from China and US over ‘wine bottle’ shell",
-   "source": "RFA (EN)",
-   "markets": [],
-   "url": "https://rfa.org/english/pacific/2026/11/12/wine-bottle-shell-papua-new-guinea-png/"
-  },
-  {
-   "ts": "2026-11-15T15:55:10+00:00",
-   "title": "Exclusive: US-sanctioned Jinan Supercomputing Center still gets Nvidia AI products",
-   "source": "RFA (EN)",
-   "markets": [
-    {
-     "market": "fx_kyat",
-     "direction": "bearish",
-     "confidence": 0.65,
-     "rationale": "New sanctions pressure the kyat"
-    },
-    {
-     "market": "gold",
-     "direction": "bullish",
-     "confidence": 0.65,
-     "rationale": "Kyat pressure drives savings into gold"
-    }
-   ],
-   "url": "https://rfa.org/english/china/2026/11/13/nvidia-china-entity-list-sanctioned-shandong/"
   }
  ]
 }
