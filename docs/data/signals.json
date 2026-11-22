@@ -1,6 +1,54 @@
 {
- "generated_at": "2026-11-21T20:02:04+00:00",
+ "generated_at": "2026-11-22T00:16:47+00:00",
  "signals": [
+  {
+   "ts": "2026-11-22T00:16:47+00:00",
+   "title": "High-level Myanmar delegation led by President of the Republic of the Union of Myanmar U Min Aung Hlaing and spouse Daw Kyu Kyu Hla arrives back from Vietnam to Myanmar",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTmpwdjVjUUdhX0I4OGwwZjB6QVFqbFE4MkxPRmM3Mk5PNFVJWG9CUzA2RXVqaTQxbVdkZkVpTnRWdS1pSTdyeHcxZWNlX05Pa2ZRSVYyVUZ6c1MyNk9hZjFiaFhra3ZlbWYzUHFyZEZGU3VIQzJyeDc0NFh4Rko3VDlTRWJBdXhMYjNMYndIRU9Qb21jdXEzSnBjdC1NVnV0Mk5EMkJwUzh5YW1MU0pOUUVSakJaTVpkSk9BVldIZw?oc=5"
+  },
+  {
+   "ts": "2026-11-22T00:16:46+00:00",
+   "title": "Kyat depreciates to K3,800 against US dollar",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54Wl8ybWI0eXk1MTdITFNhRlFibF9PY09rT0o3dUVJeHlUMFJqRC1VelVlc2lKZXYxc0lHVW40aFlUNGFYYzE0NWF3QTcxN0tqOUIzclFjQ2Q0bzZ0T1dhVFdjeHdubHdkU1VYdGo1WE9QbW5ncVNj?oc=5"
+  },
+  {
+   "ts": "2026-11-22T00:16:46+00:00",
+   "title": "Kyat depreciates against dollar at around K3,300 in grey market",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLU53NmFYNmNJRWNWTzlsSVR6T3VIazZQSzBTTllac3Vkc0VzYUVPdXBPLUUtMXJyYVJybVg3ZTZTWi0zcjdzNWxwX3dPc1VoYzBJREh4WWFRSWplQm5xVnh2TjRCc3JUa1NNaU9LUW1YOElxRTVVRW5uLS1mOVpicVpVSjRXQWtEM1k2amRNT0w?oc=5"
+  },
+  {
+   "ts": "2026-11-22T00:16:44+00:00",
+   "title": "Kyat-US dollar exchange rate stable at around K3,450",
+   "source": "GNLM",
+   "markets": [
+    {
+     "market": "fx_kyat",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "FX-rate story — check which way"
+    },
+    {
+     "market": "gold",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "Domestic gold tracks the dollar rate"
+    }
+   ],
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTVl4cW1KUFFjTk9FcHM0dFRSM0hnWXBrQW9UVXdBNGtrSUVOMFg2b3Z1MVE0RmhsNzJyUjUxa1VFa3ZFd04ya3o1WVdha3RGUDBuX2hmU0Zld0NiNGsydVpGRWxCUVVaeFBnTGhFT2FxbExJbkw0QU5uQkZIc1B1T2tB?oc=5"
+  },
+  {
+   "ts": "2026-11-22T00:16:44+00:00",
+   "title": "Ongoing demolition of scam hubs in Shwe Kokko Phase II crackdown",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQakZwdlFmQXQxXzQ4UVZfcFJUYjVpYXI1TnVIVzNoakVEeURqQ2dQRlhCWjRQbUFqemNwalcwOHppVG5FaThJbTFIRFZJZUwzdVlZeVllaVZ4T1JlY1dtSENoV0pub2VwS1dXclRqdFZMR093RVlGeGhmdjkzajFhd2d4anNHaHctTzFreXA3MU91dzR1UFE?oc=5"
+  },
   {
    "ts": "2026-11-21T20:02:03+00:00",
    "title": "KNU Troops Stumble Upon Another Scam Center Run by Junta-Allied Militia",
@@ -2260,41 +2308,6 @@
     }
    ],
    "url": "https://rfa.org/english/china/2026/11/13/nvidia-china-entity-list-sanctioned-shandong/"
-  },
-  {
-   "ts": "2026-11-15T15:55:10+00:00",
-   "title": "Filipino fishermen urge Manila to defend territorial waters – their fishing grounds",
-   "source": "RFA (EN)",
-   "markets": [],
-   "url": "https://rfa.org/english/southchinasea/2026/11/13/fishermen-philippines-asean-apec-scarborough-shoal-china/"
-  },
-  {
-   "ts": "2026-11-15T15:55:10+00:00",
-   "title": "Exclusive: Internal ledgers show how Pyongyang steals wages from its workers in China",
-   "source": "RFA (EN)",
-   "markets": [],
-   "url": "https://rfa.org/english/korea/2026/11/14/north-korea-china-dispatched-workers/"
-  },
-  {
-   "ts": "2026-11-15T15:55:10+00:00",
-   "title": "စစ်တပ်ရဲ့ အမေရိကန်အကြိုက် မြေရှားကမ်းလှမ်းချက်နဲ့ တရုတ်ရဲ့စည်း ၃စည်း",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/82204/"
-  },
-  {
-   "ts": "2026-11-15T15:55:10+00:00",
-   "title": "ရှေးဟောင်းမြို့တော် မြောက်ဦးရှိ မူလတန်းကျောင်း ဗုံးကြဲခံရပြီး ၂ ဦးသေဆုံး",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/82210/"
-  },
-  {
-   "ts": "2026-11-15T15:55:10+00:00",
-   "title": "စစ်တောင်းမြစ်အရှေ့ခြမ်းတွင် တော်လှန်ရေးစခန်းများကျပြီးနောက် တိုက်ပွဲဆက်ပြင်းထန်",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/82216/"
   }
  ]
 }
