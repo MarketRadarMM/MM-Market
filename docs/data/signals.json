@@ -1,6 +1,187 @@
 {
- "generated_at": "2026-11-22T15:37:14+00:00",
+ "generated_at": "2026-11-22T21:41:51+00:00",
  "signals": [
+  {
+   "ts": "2026-11-22T21:41:51+00:00",
+   "title": "President Opens Tazaungdine Lighting Festival and Hot-Air Balloon Competition at Maravijaya Buddha Park",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQnR1OVgwTWhkbFVxUDhVaXoxb1Zjcjdpc0dlZnVCbFhtZElnbGhTWU5OZlExd29BRUVuT2FMOWNqUGlKTkVZT21qMU45LUdsRGhwZHRROHFqdXRLXzY2a3BBaUJoZjBOZERBeHRGb1ZkOG5rNWlQdmlKOW9uM1lxbENva1hnS1hoRzRYMVUwLUVnYnlYUDA3WjR5a3JSMjg4c21oQXZMS1JSc3gwR3JXZm54c1pWTWxPenY5S1hoRjR2aU1fTFdZ?oc=5"
+  },
+  {
+   "ts": "2026-11-22T21:41:51+00:00",
+   "title": "Myanmar avocado exports poised to generate over US$100M annually",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNODFTaEdkZ2NYOUx6anRqMkx4NUNKSmdYZGJ6bHNMQkJNYXZkQjBNUUNzaE9DN3Z5YnozUi1EZHFpN0pPcDVHX3MwcTFHODVISDJodk85WldBck4wdkpLT0tvNENBXzlabHpGVWZnVDhCTUhfdDVrZkM2NkMyU2t6dnJUUDVBbGFrZDF6VGRHMkI5UQ?oc=5"
+  },
+  {
+   "ts": "2026-11-22T21:41:51+00:00",
+   "title": "Taunggyi Tazaungdine Balloon Festival Sees Record 561 Balloons Compete",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNzREQjJGa1FnMkRRc1RMV0lNTllkZ21sOHpMMmNWbEI3UElyZmRUeWtNckRGa2ZEaWI0UldXNFF2ZG1rQVhhNHpZNW1LTU9ESXV0eklmTWF5dmhVdGRaNWVCd0QzczBlRXZodkhqcDNwU196T19JUmtudk5xa21JZUIyVlA1M3NEOU9QWDI0bmNDWUlfUkdRN0dmOA?oc=5"
+  },
+  {
+   "ts": "2026-11-22T21:41:51+00:00",
+   "title": "4th Kathina robe-offering ceremony held at Maravijaya Monastery",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQT0RWaGxZOVpaT1ZjMmsyNE9QVmttWks1ZTJuTGtxempXLUx1T1d0WmtFcGI5QjYzWERSU1I1VTNqWEFXN0wtMWhSNzJVazdMamhvVkh3MUVublIwNHpNaERtYzdoeERHZjNuc2M3SFZQMjl5LVhkMGJOX2x0RzBJcGFab0pIazQxZ3FldlY3a2tydw?oc=5"
+  },
+  {
+   "ts": "2026-11-22T21:41:49+00:00",
+   "title": "Magway Chief Minister inspects factories and edible oil production",
+   "source": "GNLM",
+   "markets": [
+    {
+     "market": "edible_oil",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "Edible-oil story — read for direction"
+    }
+   ],
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcU9GZDdjNU04Q0FDVklfUURxR2RGck5OWDNsdUJpYlZHeUhaVTlMZXNJbjdsbVEyMVRsZldEMXBUYU56TmVidk11LVBoT3dRa1FRZmh3blhZdDRPZWJubWdfRmJ0UE9BTG16WDdIR2FtMFF0cU51dXRqeTkxdlluUW1WVlpLOG1IWE5zNFhqaEVha3o5Rmc?oc=5"
+  },
+  {
+   "ts": "2026-11-22T21:41:49+00:00",
+   "title": "New Myitnge (Dokhtawady) Bridge 78% complete, set for March 2027 completion",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTEF3ZlJlMFZRVVowQS1ucVNTRXN1WHQxYTJENVZhZGxuUzRlMi1Cb2ZpLVlFSjFCM3U3bVE1TjBMRVBEanJ5VXg3aUVKQTZzQ25YbFdwQWMyUEhnXzFqanpRZlpaUnlsb09CTmhlS2dLVTZPZDhrUXg0djhZeWoyR3ROQWhsVzBfSGZjWE1LNHpFd2dtRkg1SHdFYlY?oc=5"
+  },
+  {
+   "ts": "2026-11-22T21:41:49+00:00",
+   "title": "Mandalay Region to host Space-themed Art, Cartoon and Poster Competition on 5 Dec",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPelFWeWxJdXZPVG9ENnlWeGVBZjFmdGk3VG02RFlCWFFhNGFUejBUOFBBR2EwLTVMeUh1bWh3a3hCQXZOUlNGWFdZVEhDc1EwLUp1d05maUJOX19PQTA2YTNyVkFrazlRX2ZLZU9aUFJKVnBSaHZYZ0xtaUMydDNWZS1zd0tUR3d5N3FFa1Bmak1TQkljek1oOTNCcXloN2pUeWZxaEEyQno?oc=5"
+  },
+  {
+   "ts": "2026-11-22T21:41:49+00:00",
+   "title": "Tazaungdine Lighting and Hot Air Balloon Festival Kicks Off at Maravijaya Buddha Image in Nay Pyi Taw",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTWgzOEJzVGxSUndTbDNyaGJjb3VlVXp5bVVBb3FLTko0V0FKTWpPX2lPajFoRlpsNG9TM0xNc3lDTWxpSnBMaDl6a2g1bVNkenNXSVZ3cWhoWVhVSm4wbFZ3QXEtS2xZX3BhaHY3OWRxUU5MYnZwRVFROG9RcE1yeklOZUV0U0dwQ2hDczdLRkZyYUlKb0p5ZUdUWmlyYkJkbkN6WkZjVlRWMHhUODFvbHBYTllNNmxUaXRVVDZnQWNtNmxN?oc=5"
+  },
+  {
+   "ts": "2026-11-22T21:41:49+00:00",
+   "title": "Traditional Myanmar bullock cart and ox beauty contest continues in Tatkon",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYURweWV5d3V6YnlsSV9JOEpQTnVWdkk5NmtDTVd0aGFzNGtUd1JteEdGMFBBTzBsWjVZZW5WOWdKT3hYMWJ4SThFalBja3V4NkZNbEFPSjJkYXdsUHptWUNYOElHREdzdC1pSm5UdnVGQkhZbl9UanFOQ0xlc3BoSlAzV2g4NzZ4bGhoQXRsZTFOMEt4WDZHQi1wa0VTT0Jt?oc=5"
+  },
+  {
+   "ts": "2026-11-22T21:41:49+00:00",
+   "title": "Maritime & Aerial Warnings Issued for Maritime Security Exercise",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbTd6TDRCb0tMQ0o2OHhQVGIyQ2ZWV3oxbFhvVExYeU0tMF9WcHBfMW1hVk1sS1NhMC1HS1c4aHRaVmd4b2NXbUNfOENLMW9qZE5YbDZxaXpuQXNfTmVKdEVhM2hkWi1jdUxqNV9VRGZBZGF4U3hjYkthQzRWSWtzSFFVZEhOaFU5TWM5TldzSHVDRlU?oc=5"
+  },
+  {
+   "ts": "2026-11-22T21:41:49+00:00",
+   "title": "Demolition of illegal buildings continues in Shwe Kokko",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMEZDdVJpNG0wMlotZFhYWXVENjc4STdvQXl5MS1Ib0V5WUpoNWE4dUFHV2FtZ2JqelVOMXZ5S2Jsc2RBeXpGVzZSYTZZVHUzX2hmclZ0MGprbTlTM3BGR3RVelpuLVpwSkFhbnRtRXgwQzc0ajJ5emJVTEpjY1lJTDFMR0R5OWM?oc=5"
+  },
+  {
+   "ts": "2026-11-22T21:41:49+00:00",
+   "title": "Social pensions provided to elderly residents in Nay Pyi Taw home",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZ2Y0XzJtblR3NXhBYU5fSFNIUTF2ZV9aMGhZMGhwRnd6U1RpLWEzVlQyamFWSTk1WEV4REpjZ1lBS21TeVJ3c3AzTXo0bC00cGlzVVNNemVESlJoSnpHaGl2ay1IOGx0aUZiUGt6Z2lOOEg5TTRkNl8yWGhiZEp2ZmI1TGFSa0YxME1JYU13MnVpX0Uw?oc=5"
+  },
+  {
+   "ts": "2026-11-22T21:41:49+00:00",
+   "title": "Maravijaya Buddha Image Festival to feature lighting celebrations, hot-air balloons and 600 MSME stalls",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMmZoOGthQUJSZ3ZDLU9kRlktS0NwcmFyV1IxNUR5VjY4bmd2OW5kTGlwWVdIQXl6U2NnUUFSU040WkpUb1JucmdERkVPUml0WWhGbVpBeTJoZ2JiZHZ2aXg0MThITXBsRExqUUZ5TVE0OFppMDAwLUZWWTZ2YzJIOWxOOGtFNWNaZzNSb0hCdzBhX0xlMFNHazI1M1VMYnlQeXljcGlwMi1XNXp5a2libjdXSkFsblg1cDdNUTBySlNpdHFlTVE?oc=5"
+  },
+  {
+   "ts": "2026-11-22T21:41:49+00:00",
+   "title": "100 students visit National Museum in Yangon",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5uNS1Va2k4QnB2UDlzTXhIcTlfLW9QekpQWjdWd3dCWlFhUm9IcVZkcG5HT25taERxQ0hmczJZTl94WXZzMUNRdzc4R3hQRURVekhpTFUyNFA4TV9oVndpak1CT21WUmRuRjZPdlhMYnNSeWlBLXBzdw?oc=5"
+  },
+  {
+   "ts": "2026-11-22T21:41:47+00:00",
+   "title": "Kyat-dollar exchange rate dips to K3,500 in market",
+   "source": "GNLM",
+   "markets": [
+    {
+     "market": "fx_kyat",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "FX-rate story — check which way"
+    },
+    {
+     "market": "gold",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "Domestic gold tracks the dollar rate"
+    }
+   ],
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Eb3ZtY0FuM1U3cEUtVkdrS0VMQ09CVktOVVZVbDNFa0g2OXk3NVlnNGFaaXYyLXpCTmdCdUlhRDdQV01vRGtNZUlvVEM5aUk0NVlQRHQyY3QxTHpTM0FqQTY3ZE8yUjZkQmF2TXFGVm1oWHRKeGRKaUJwUWJkeWs?oc=5"
+  },
+  {
+   "ts": "2026-11-22T21:41:45+00:00",
+   "title": "Palm oil reference price slightly declines",
+   "source": "GNLM",
+   "markets": [
+    {
+     "market": "edible_oil",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "Edible-oil story — read for direction"
+    }
+   ],
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85SVVlcG9OWHlnaDU5U3ZaVXpVZV9hUUVXY3BZUGQ4VE5fZ0VZN0RyR1pObHVQOHFlZ1p0X2pHWmJZLWx0MVdnd0JZRXM4UkxNZEYyb0g0UFhXeGI2V0xZUUtONWxDUF9vckpScXpDNGRrRE9DQ1E?oc=5"
+  },
+  {
+   "ts": "2026-11-22T21:41:45+00:00",
+   "title": "People’s Military Service Training 24 opens at commands across regions/states",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV2lLanhJajhrVmJYMm1TUXR0N1QwcDNGMi1NcXNLcVVvcUlKdGg3UklqaDlFRWxTYllIN0lnbG5jb0ZPemJ5UkNQSmJ3bUxfLXdUZEdoZ0VwV1lQcEl6VFVUREd6VE4xWjN0UjRzempzamVyOVRKMEtrUWwxMzd5SlRTd2ktNnlvUC1OUTdwdU1RTFJDNGx6SnZiYVB3VUo5Ym9F?oc=5"
+  },
+  {
+   "ts": "2026-11-22T21:41:45+00:00",
+   "title": "Open tenders called for procurement of school uniform for primary students",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSXVuSVVqUmVoLWJPTkwwSkxsWTNWbVBiRnBOdTcxSUNvOHMwX0J5NUUzT0x4dkJNYnUzWHNBdEJZbDBfQXA2di1qaFNDQ3lrcHpkejV5aTR3MzlWbU1UQV9YM0hoOG50ejlzU2JNSGVtQjNDdHplZ1MtRzVCQnRJRzJrQWF4SkU5ZmJzeFd0aGlXWmlrb2QxSWhvaEpidTQ0?oc=5"
+  },
+  {
+   "ts": "2026-11-22T21:41:45+00:00",
+   "title": "Cargo insurance awareness training to be launched",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84TWJwbVZkZXh1U2NfMGZZS2sxaW1ha2pFeS1qRWRvZkZOSjlWeC1oZm0zOGVzRG96YmFCU3BjbEZ5X2h6WWEzNkNIYUczcC1FUklxcWVoVk1hM2RLall6bmtEMXBJSU9SbjlnNDJsWFE2Qlp5ZVhybnhhMFBad1E?oc=5"
+  },
+  {
+   "ts": "2026-11-22T21:41:45+00:00",
+   "title": "Quadruplet Mother Receives Welfare Aid",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44eHBHeVpvZ3R5QlVwMVQ5NGkxUWRxT29jNlhFOWlSRVB2RXo4MThwY1BpSEJaSWQ3MDBvRGVVOENEdFRySWY0T1ZvcmZQQ2J4ZTdhTFJTUlVzVVNFTmUtUV9VVzc5bC1hRjNuUXl3V0s?oc=5"
+  },
+  {
+   "ts": "2026-11-22T21:41:45+00:00",
+   "title": "23 November 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaWjh3LVhEQXR3aVpJdFowcU9yOFoxbzhTMDF1OEk0d2tVdWROZmItZ0IwNk04OVdEV3JXcVRHYno5VEU3X1BQeWtjRl9lZ2Y1ZnBV?oc=5"
+  },
+  {
+   "ts": "2026-11-22T21:41:45+00:00",
+   "title": "21 November 2026",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rSjQ5aVhvSHVnaEI0LVYzeU92Y1c2ZmJDUWp4UWFGYmlVZzgxVFFsaTZ3NUw3LUhvLVZiSWhQLWlEekJud2s0Wm9xM2dsWjZnTk9n?oc=5"
+  },
   {
    "ts": "2026-11-22T15:37:14+00:00",
    "title": "Tatmadaw columns regain control of Indaw–Wuntho–Kawlin–Kyunhla–Kanbalu Route; demining operations conducted for safe travel of local residents",
@@ -2121,180 +2302,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeW45T3JMakhpR0xsWEh5UDVMa1oxZXpIYlRJVEdoRVVfaHlvbVhaRFRhX3RnOEJ6dDJPZ3ZYdHdTb2RGYWRJQWd0WjIxYW5ONEl4TXVXR1FMdjdkZ3Q2a2VHTU9nNkRZOThEa2Y2LWMxaUhRUkRmQV9fdTlqUGRNTVhXUFBnNVJoczBTZE5QTktqUXZlNlE?oc=5"
-  },
-  {
-   "ts": "2026-11-15T15:55:15+00:00",
-   "title": "MoFA UM receives Member of the Board – Minister-in-charge for receives Integration and Macroeconomics, Eurasian Economic Commission",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYm12NlBQdElvNTV3c0puaHVFcHB5VV8tMEt6QWVQTHpNeVZiQWpNa0NUb0JrZ3g4R1dtc044WVFLSzJLWmJTTG1xdGdyR0RERmxYMm9rRUUwS243bkE1S092UnRoOTR1dEQyNzUya3ZHRmZjZExiaFZEWFpVWmFDYUQtSkt5cGRiajEycERqalZxTTA2cEVMRHJtdlhEVDI2VGFuMUM0b3RORHBZTFM1WV93Q0RWbkhrTVZRRnVNaTdEUFZ4V3JqMjJaQ3VSLV9NRWlDMnFfVE9oM2Y4NnJUbG5maURCM05Z?oc=5"
-  },
-  {
-   "ts": "2026-11-15T15:55:15+00:00",
-   "title": "Shwe Kokko illegal building demolitions continue",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5OT0dCR3ZWcnpOcGlOb1JDMDRiOUl1V1JsNGpMNmFNRWNPaTBKX1NpNkNpbU5UOXZQcER4MkVlX19WY3h6SjdkWGJZVlpiTmZZNmVWT0x2N3MtcVhLekFpY1RlNm9EQTdNak5LcnROTWE4N1ZKZEVENk5fVzFqdw?oc=5"
-  },
-  {
-   "ts": "2026-11-15T15:55:15+00:00",
-   "title": "Paul Gilbert Strikes Final Asian Tour Chord in Yangon",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcER1MUVxMDVodG1iUkhfNVN4Qy1GTERhaXRrSWVqcm44aGVKejlLZEt2cjVTelA5Z0k0VzQ5ZlZZOGl0MGU5NzRFSFlJajQ3ZXVmZF9iVEhKUjVNSTc5dkl5ZTV5akVMR3lYekVkNXc0WUFDZjdfRnpJQlVYcUI2WDBDRUg?oc=5"
-  },
-  {
-   "ts": "2026-11-15T15:55:15+00:00",
-   "title": "Myanmar, Eurasian Economic Commission discuss trade",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORDczYnFQSmR0V085eU92cVJzTXd6bTBNUDRMaWw1R1lldHFEWTF5bTlUM0MtVWNUbUYxU0Uta20wWmczMVpFUU9xRmV6VkZCbHZiNWZVVXVac3RCdXA1U3VPUVM3SktsMXdpRjRWUm9tOVl4dmhDU3FKWFZJaHB0ZQ?oc=5"
-  },
-  {
-   "ts": "2026-11-15T15:55:15+00:00",
-   "title": "Teachers, students from Toungoo District explore museum exhibits in Nay Pyi Taw",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaTc4NDNXV2U4UE4tTHp5UnAwaDA5cjdDLU5hNVpDaXFuYWdRQlZva0JYdEVsalBoQThBdEFicG9GcjVXMFU0SExSc1doMV9ka3lpV0lNTFRqb2E5S1NGcWhpcGFuNmtPclUtQnVwN3Eyb2tPREFuR0lUOUgwYWV3R0pvMHR1SmVsdFJJUXVZLURxVFpScDNuOU9BanBfM1BNOWNtUTVR?oc=5"
-  },
-  {
-   "ts": "2026-11-15T15:55:15+00:00",
-   "title": "Effective chemical management pledged to address industrial hazards",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWjRhVEtrS2Flby1MbTctZl8zMXgtM2p3Z1RWTmV3bmliWF9sRDhzejdXM1FzTEFaV1c2LUlNdEVialNfYmNqN2VWN052YWxGRnBDWjFOa0ZSRFhRUU1YZDZWTUd4dDRjOUk1V0xTWUFvbVh1Q21reHowUEdXSWNZbmZFNVpiQTFZS0JYZXoxQUEzaWxIVFJj?oc=5"
-  },
-  {
-   "ts": "2026-11-15T15:55:14+00:00",
-   "title": "Fuel price caps retreat this week",
-   "source": "GNLM",
-   "markets": [
-    {
-     "market": "fuel",
-     "direction": "neutral",
-     "confidence": 0.5,
-     "rationale": "Fuel-market story — read for direction"
-    }
-   ],
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vWDJSUlpNV2YzbmlhdklZbUhKRkhMQWhSYUZYSHpQZlExeEpjM3d5aHZYc2F3ZHJpcml0MFVZRkpjbkptSGI2Y20ySjRSV2oxMjlWWk1HLS1HSDBSWlZNOE5jTUluUWxGcFE?oc=5"
-  },
-  {
-   "ts": "2026-11-15T15:55:14+00:00",
-   "title": "Thai Deputy PM & FM arrives in Nay Pyi Taw",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9WcmJpa0daa1RBcXlUeVR4Mm81ZDZhcWpNTk1fYlp5eVFUd0RGUEs1N09PanJkU0FtcGpYc19rVVliYlVteXEyMDduTG5WbkRscTRNdTRRbFk5bVQ1N0JWemY2RHFEX3NaTGV2NlBtQ2RCRU0?oc=5"
-  },
-  {
-   "ts": "2026-11-15T15:55:14+00:00",
-   "title": "Daytime balloons soar on opening day of Taunggyi Tazaungdine Festival",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTHZxc1BMakxOTGd0dVRKcUdwV1d0R2NodnBHU3o0MXBsSndIN1FIcWRmTlF6TUVSbXNRc2ktdkpRUl9xbkI3bXRzMDFTSmk2bElhUVcxREtreEd6b3p0X19vczlkS0RLVmJhTWZHeEo2LW5oSVBmandWYkpzUWxoSS1QREtsT2EzSDJQV203MGcxRVJVNDI4bWZR?oc=5"
-  },
-  {
-   "ts": "2026-11-15T15:55:14+00:00",
-   "title": "Myaungmya to boost egg production",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KOTdqLUM0X1pEQ19YbVo2cHZFdmdRalNEVUhLXzhQTTQ5cUVlbmpkYXBWX1cwTGV1X0pfMkFSMlNlS3A4VjhfWmdUR0w3WkN5SkNyaUN5bmJCRDl4MGxqSmhLai1oREIzUmc?oc=5"
-  },
-  {
-   "ts": "2026-11-15T15:55:14+00:00",
-   "title": "Free measles and rubella vaccination continues in Katha",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSEMwR1p4MWgzVGtHZTRXV2VWcDVva0hoZzdKaUFsWGJqeG1YUENfZ3AyQzN0NE96Ni14cXVHQzBNZWluQWh2QnVySEZXdGIteDU2Q2tYQXQ1ei1majAwZ0VFRXZrblBKcHplSVFBMUhsWTNvenNIdXhodndDZWNpYjB3WUEyN0U?oc=5"
-  },
-  {
-   "ts": "2026-11-15T15:55:14+00:00",
-   "title": "Yangon’s reservoirs and water treatment plants supply 244 million gallons a day",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPenRjeVNZQWF0eDU4S2d5MmlsRWdFWlZHbUwxXzl2Z2d0d3Y2UjVCSkltWElmaXpsRGZqMHMwQnlUdWhzWWFKajIzYk9mM3AzMjlJbFF4VVBCbjhfMEJFMzBKS1dQM1pZYVB2UzFoM0tMQklxZjdveWdHbnZ2NnJSQlllYXhiWXlWVFNXYmJ1N3VLeEFQdVB0VXptMDJCY3BCMk1uU1NB?oc=5"
-  },
-  {
-   "ts": "2026-11-15T15:55:14+00:00",
-   "title": "MRCS aids US$50,000 for Nepal flood victims",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYNHc3TV8weTNlVzNoSkMxMFpfcUFhQ1VFQzBvSEFiNFg2Y1RsaTF1czl2TWE4cl9mSEpNVUkwMlFHMGtnSjlnOFRBY2lwNkF2TW9ReVl1aDB0MEVGLVdkR3psM0t3b0dqTmg2RE5uUDVZdmxI?oc=5"
-  },
-  {
-   "ts": "2026-11-15T15:55:14+00:00",
-   "title": "Carrying prohibited items into Korea may face fines of up to 10 million won",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQemU2ZzJRcWhNejRPbEcxenNuaTRUSEQtUkpfVUItV1VSTzZ6OWlDTWs0YmE4TzQzVm85cTE3WHJyNG1qUVVlSG5KRDFsVWpGcVFQZDRiXzNibE1sTlBLYXR3OHV5aGZfckxCRTQ5T2VSSkRFdFNDV0o0NEsxci1CRl8wTTdZbGd6QTM0akNPRlhURVJackNRWUtiSndhdGxNdkE?oc=5"
-  },
-  {
-   "ts": "2026-11-15T15:55:14+00:00",
-   "title": "Bago CM, Indian Ambassador Advance Trade, Cultural Ties",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdnN0MDhxeFVFNUFRSlZTWHRIY21lMEI2a2FYV3VjUE1NaXZ5Mk0tajBhWjQ3SWF5cnRjVUVCUmZqeVhWT1NzaGt4WXRVRk5pS3dkZktNS2Z4c01Yc3VFLTUxd09NZTJkQUVkbUd0TFI3b00tbktQNF9FdDEyblRETHhPSEo?oc=5"
-  },
-  {
-   "ts": "2026-11-15T15:55:14+00:00",
-   "title": "National Library (Yangon) presents weekly documentary film show",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZHpPSy1fek9HamhCc21JSmRFZ2JoUWgwTUNkZzN2YkkxVzJrNUI5cUFBTy1qZnNmRWRVdThTdVBjSG41UjRkTWVLRmg2VVRfTHJvOWFreExjX01MYklzM2VmMVFVWml5SmIxbTVla2VRS0RPZUxBUktMeU9JTWJsbDV0WmdCY2RPSThvTzc5WQ?oc=5"
-  },
-  {
-   "ts": "2026-11-15T15:55:14+00:00",
-   "title": "Yazathingaha Road to make temporary closure due to city entrance construction",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR2JUeGxPTDJRVGE5U0NIZ3laVWZQZUdMT3pTOUhKVHhfN21XOFRlbzRMQjdEaklmSGotRWlRVjkyY3AwQ192U3E3MDU3Sk5ONVFkcU9ibUtndU55TFZ6QklyZXk4UEdoU2dBcWxmNDBaLWpKUUdQb3duc0xXS1BudzJPMGZoQV9CcE1GakVpWTkyandoeXBock9pVS1hNm9JNVkzSQ?oc=5"
-  },
-  {
-   "ts": "2026-11-15T15:55:14+00:00",
-   "title": "Myanmar, Indonesia Explore Stronger Economic & Investment Ties",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdWpLQjJjMnRINFVscVhQRHUxbFZLX0lLM3hnNVlqUXVkb0paU28wN0o1THBqaGV4ZU9VWXhhOHNnTGtzSTFDcUZqTXRSLU1WOVdMOU1fTUFKRms3VEthdUY3R2haMkdzZUZqc08yNzRsSHNheklMYjlmYnRfWm5XTmhCd0RjWGxSTUwtTQ?oc=5"
-  },
-  {
-   "ts": "2026-11-15T15:55:14+00:00",
-   "title": "Tenders invited for bridge construction works in FY2026-27",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPS2lGNmZUZlk1WW5uYUhkSlpLdmt4UUtXVlpTZE5GT1NDdWtTa0RuZ19IbkhQV1FISmN6T1UzeG4wSHFEN1pKd29TMU5HekREOHhrOXFZQ3NPTEFQQlpRZnRkNU41Tl9KREJwc0ZVMHNvdHNZTDNmdmxNNU1BbmJ5azNqYkQ5TkNlMmJ3?oc=5"
-  },
-  {
-   "ts": "2026-11-15T15:55:14+00:00",
-   "title": "Customs Dept to sell seized consumer goods",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5uV0dEa1Bmck9iZFlPaWtoMDNJSzJNTkRqeEg5cFJxdWUwclZ4Z3Q5Z2VURnctb25WT3E5ekxxaFZGLW5oY2RXTE5JU3pCOGhseDJVeE9pS003VGRmS3BCSDFHQU1xcUtzUkVaVm1adVVqWUdoRHc?oc=5"
-  },
-  {
-   "ts": "2026-11-15T15:55:12+00:00",
-   "title": "Greenback-Kyat exchange rate drops over K20 per dollar in over 2 weeks",
-   "source": "GNLM",
-   "markets": [
-    {
-     "market": "fx_kyat",
-     "direction": "neutral",
-     "confidence": 0.5,
-     "rationale": "FX-rate story — check which way"
-    },
-    {
-     "market": "gold",
-     "direction": "neutral",
-     "confidence": 0.5,
-     "rationale": "Domestic gold tracks the dollar rate"
-    }
-   ],
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdGVmbnFZZ0NIblFlaHpsLVVSSEFqYm8xZEtselliWVlKRHFpWlM1THg1RklUV0VLTHZXQVg4VDlNMTZteUpSYjRXcVUxYVlmNXN1dHRrN09JdUdGSlQ5andzczExQUtlZC05Q1J0UXg1eVIzemUxZi12SW5uMEJQdkx6N003aHpKQjdxdEp5bmVkbVlPM3U3MzFUcw?oc=5"
-  },
-  {
-   "ts": "2026-11-15T15:55:12+00:00",
-   "title": "12 November 2026",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hUF9OZ3FDcWREd3R6UHR0RG1WWW1mU1FKek1qWEdkN3pHWGk3WFY0bmZJREl6X1ZPb0NDNDdhdlhIVERCTEcwQTN4a1dES2FtZ29j?oc=5"
   }
  ]
 }
