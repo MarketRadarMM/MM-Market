@@ -1,6 +1,137 @@
 {
- "generated_at": "2026-11-24T06:54:29+00:00",
+ "generated_at": "2026-11-24T18:49:40+00:00",
  "signals": [
+  {
+   "ts": "2026-11-24T18:49:40+00:00",
+   "title": "President U Min Aung Hlaing and his wife Daw Kyu Kyu Hla launch the 2026 Matho golden lotus robe weaving and offering contests of Tazaungdaing Festival at Maravijaya Buddha Image",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYzlneUlJMXIyazdrNHNSYWt4bUFYZkl1OG0wWGU1X0JaSzVaY3NoanFmbFAtU0RqcFRkbkJxSTk5dFhDS0wtdWdyUEVJUThHZHY4Rk9HczdJMDVHbElTcTAzaVA4MTdPWEY3cGlTNnhjaThCbXI0eE85Z1JrWmhTUHNZR3hMM2lwRzVLNWxOR2E1UjBkNy1HR0JFdGFnVFN5UlJmVndsalYxemdmeTFSbFZYUXJvZw?oc=5"
+  },
+  {
+   "ts": "2026-11-24T18:49:40+00:00",
+   "title": "323 suspects, including illegal Chinese nationals operating online scams and gambling, arrested with operational equipment near Wanpon Village, Mongnawng Town, Kehsi Township",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVWh1TDF3YW5qS2MyaTRlMlBuNUlhb2RlbUUyRkpzbmVqaVJQbGVJakEyVk5ZNElhamhIZmZhazNsd1Mwa0JhWmd5R2V3dFZTSWZwd2x4WlBDNU9mRDJ6TkRfSGJORS1DRWQ1dTVxVlRwLXlwUkNhVm9XR2dUSG8wRzVBYm5hTVBDblJBa25qTjQ2eHFIbWpfakNVWXRrQmc1MFZYSVB5SVd3aGZRQTBqT1ZjbWh1UFU?oc=5"
+  },
+  {
+   "ts": "2026-11-24T18:49:40+00:00",
+   "title": "Press Release",
+   "source": "Myawady",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wZVRkYnphSjZVb2pxSWlNRTUtQmxsWVhjenJaQk9xQUJxSXZuMzJnUHpGdFZoYVJiQjlrMW55Z3JDTzBpLWJuZ1J3OEZrTzRfMUJrLVpn?oc=5"
+  },
+  {
+   "ts": "2026-11-24T18:49:39+00:00",
+   "title": "Myanmar reaffirms commitment to sustainable forest management",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNHdyZmxFVE1MZzhZemZoMkhaTllvaGloYmYyanJ3OGxoYm5rVndqVkZIbWRPc2d5LVlqLWM4NVRlZ0R5eUN3dnB3UW54bW1NTDNudXJCTktGaFFjN0dsYmltQ2VROFhPMXZzX0FMNUJYd09nVDhEMWVFYzNoNmc2UTVLT0JBOFV2ZkRmZzZJdw?oc=5"
+  },
+  {
+   "ts": "2026-11-24T18:49:38+00:00",
+   "title": "North Korea’s naval buildup poses new security challenges for US, South Korea: expert",
+   "source": "RFA (EN)",
+   "markets": [],
+   "url": "https://rfa.org/english/korea/2026/11/24/north-korea-naval-buildup-threat/"
+  },
+  {
+   "ts": "2026-11-24T18:49:38+00:00",
+   "title": "မလေးရှားက မြန်မာနိုင်ငံသား ၆,၈၀၀ ကျော်ကို ဒီဇင်ဘာတွင် ပြန်ပို့မည်",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/82459/"
+  },
+  {
+   "ts": "2026-11-24T18:49:36+00:00",
+   "title": "ICJ စီရင်ချက်အပြီး စစ်အရာရှိ ၅ ဦးကို ဗြိတိန် ဒဏ်ခတ်ပိတ်ဆို့၊ မြန်မာကို လေယာဥ်ဆီ ပိတ်ရန်ကြိုးစားမည်",
+   "source": "Myanmar Now (MM)",
+   "markets": [
+    {
+     "market": "fx_kyat",
+     "direction": "bearish",
+     "confidence": 0.65,
+     "rationale": "New sanctions pressure the kyat"
+    },
+    {
+     "market": "gold",
+     "direction": "bullish",
+     "confidence": 0.65,
+     "rationale": "Kyat pressure drives savings into gold"
+    }
+   ],
+   "url": "https://myanmar-now.org/mm/news/82454/"
+  },
+  {
+   "ts": "2026-11-24T18:49:36+00:00",
+   "title": "စစ်တပ် စစ်ကြောင်းထိုးခဲ့သည့် ကောလင်းတွင် ရုပ်အလောင်း ၁၆ ခု တွေ့",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/82469/"
+  },
+  {
+   "ts": "2026-11-24T18:49:36+00:00",
+   "title": "ICJ ၏ လူမျိုးသုဉ်းတရားစီရင်ချက်ကို လေ့လာခြင်း",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/81474/"
+  },
+  {
+   "ts": "2026-11-24T18:49:36+00:00",
+   "title": "သမိုင်းတလျှောက် အမြင့်ဆုံးစစ်အသုံးစရိတ်သုံးစွဲမည့် နေပြည်တော်စစ်အုပ်စု",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/82478/"
+  },
+  {
+   "ts": "2026-11-24T18:49:34+00:00",
+   "title": "UK sanctions five Myanmar military officers following ICJ ruling",
+   "source": "Myanmar Now (EN)",
+   "markets": [
+    {
+     "market": "fx_kyat",
+     "direction": "bearish",
+     "confidence": 0.65,
+     "rationale": "New sanctions pressure the kyat"
+    },
+    {
+     "market": "gold",
+     "direction": "bullish",
+     "confidence": 0.65,
+     "rationale": "Kyat pressure drives savings into gold"
+    }
+   ],
+   "url": "https://myanmar-now.org/en/news/uk-sanctions-five-myanmar-military-officers-following-icj-ruling/"
+  },
+  {
+   "ts": "2026-11-24T18:49:34+00:00",
+   "title": "Malaysia to repatriate thousands more Myanmar migrants",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/malaysia-to-repatriate-thousands-more-myanmar-migrants/"
+  },
+  {
+   "ts": "2026-11-24T18:49:34+00:00",
+   "title": "MNDAA strengthens military, expands economic activity in areas under its control",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/mndaa-strengthens-military-expands-economic-activity-in-areas-under-its-control/"
+  },
+  {
+   "ts": "2026-11-24T18:49:34+00:00",
+   "title": "Myanmar junta airstrikes kill four in Pauktaw, including an infant",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/myanmar-junta-airstrikes-kill-four-in-pauktaw-including-an-infant/"
+  },
+  {
+   "ts": "2026-11-24T18:49:33+00:00",
+   "title": "‘‘ဘယ်သူမှ လာကယ်မှာ မဟုတ်ဘူး’’ ဆိုတဲ့ မန်ယူ ကိုယ့်ဘာသာ ဘယ်လိုပြန်ကယ်တင်မလဲ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cw99e1zrlxdzo?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-11-24T06:54:28+00:00",
    "title": "Pyaing San Badminton Tourney Draws 600+ Players",
@@ -2203,111 +2334,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9TdmNCWmRmMGNUcndsdWNLMDhuZW5yTUdIWWloYTc0UHNjNkRucDlCYmZ4b3hwLXhiS2lJT0JfbTlTOHlSYzBleGF3REVlZGxRMW5ZRF9XaElXMlU1V2VxRC1xczlENmpyTE9kS3lwOXBmdWpOQ3N2cVJNQQ?oc=5"
-  },
-  {
-   "ts": "2026-11-16T18:22:19+00:00",
-   "title": "Yangon Condo Raid Reveals Myanmar’s Cyber Scam Sector Thriving in Commercial Capital",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVVF2VDNwQ200bmQzb2JYVkxYUEVwR3RRbU1MaTRKYmpfY3pXUVY0c0tfWTNxNVZUenN2SjJ2QjVlbFhqVXVMZ0ZyR1lPckd3NmNVSkxzU2VaNEJWWTlydEdIN2lZVjFlcEtZdjkyM0xYRldzWkI1R3RPVjZVdVpzS3h0QUlFS0FQX0g3bDdGaHVaSlpqcTRzN2d0R2FkaWFobFJ0d0pXVWFVc25nZ0hFelFGemZTQ2RyLW9BeERhbXpxUEE?oc=5"
-  },
-  {
-   "ts": "2026-11-16T18:22:19+00:00",
-   "title": "ICJ က ဂမ်ဘီယာကိုအနိုင်ပေးရုံမျှဖြင့် ရိုဟင်ဂျာများအတွက် တရားမျှတမှုရပြီဟု မသတ်မှတ်နိုင်",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/82262/"
-  },
-  {
-   "ts": "2026-11-16T18:22:19+00:00",
-   "title": "စီးပွားရေးမြို့တော် ရန်ကုန်တွင် ကျားဖြန့်တရုတ်များ၏ အခြေချလုပ်ငန်းများ ဖမ်းမိ",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/82267/"
-  },
-  {
-   "ts": "2026-11-16T18:22:18+00:00",
-   "title": "Myanmar military bombs Rakhine IDP camp twice in 2 months, killing 13",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/myanmar-military-bombs-rakhine-idp-camp-twice-in-2-months-killing-13/"
-  },
-  {
-   "ts": "2026-11-16T18:22:18+00:00",
-   "title": "An ICJ victory for The Gambia will not, by itself, deliver justice for the Rohingya",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/an-icj-victory-for-the-gambia-will-not-by-itself-deliver-justice-for-the-rohingya/"
-  },
-  {
-   "ts": "2026-11-16T18:22:17+00:00",
-   "title": "ပူတင်အလွန်ကို ရုရှားသူကြွယ်တွေ ကြိုပြင်နေကြပြီလား",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cw14300v0kreo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-11-16T07:53:01+00:00",
-   "title": "ASEAN Seeks ‘Calibrated Engagement’ With Myanmar: Statement",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOHdnMnJpTnlyM0Q1TkJTTGltOWM0MXNPcTJLbVQ2dkh1TndQOVhKNjNma29hNjFKeGNoRjFFdldFbVVmME9rS3JZb0RuYmVkdi1xT0tQQnRjcU9OS3FIVDU4ZEhpTUliRnEyRk5XSy1zVGV2TDg2ZU0zMFZhYTVxcUthNkhDWFVyME1jd1d5dmxxSndXU3AycEk1MnBPRFJmbDhSaHA4alh1SHhNcUQxX05yeFlvVW5xU3c?oc=5"
-  },
-  {
-   "ts": "2026-11-16T07:53:01+00:00",
-   "title": "Myanmar Junta Seeks Record Military Budget as Millions Struggle With Poverty",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVndCMnVUWmRhdFRiMHRqUUdZcHFqYzl6X25EVVRfVFBZNWNVZnRDVGxubm9NUnhkT0NadXowT2Jtc3FYaEIzdjBjcWVvbnJjcHI5MDhva3o0bHFfVXZ0RGNiZDRsZGRnVzNxSzU3ZUdlRllzT2ZMTlpGMXcwSnAzV0VPSjc3UUhDSDN5VF9LWjBGeWY4bHlkb08tSWY2Y25WVWpPU3lzQmpsVWF6Ym1lSmMzM24zN2VDeEE?oc=5"
-  },
-  {
-   "ts": "2026-11-16T07:53:01+00:00",
-   "title": "In-Depth | Shan State’s Scam Industry Expands Under Protection of Regime-Aligned Militias",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ0FIdVU4Z1M4R1NuN0VLdjlVTHdzZFFaLXJuTFVOUWl2QzBhZldFLVpSejZYSV9jbW1fUWVJV3dMVGpzS2NEbXFRMU5tTnk3a0dfUDBwdk1iLXptaUpfWC1uVENkbk80clVyOFo3QnBzbEF5ejJZNFFVOTJ3Unp3VXFYSmtEOTBCT1hwOG9QempOZ25leXZZTGhObG9YNXh1NUQwUTVsSnNPMXkxR09qV0lYUm9iVUF6?oc=5"
-  },
-  {
-   "ts": "2026-11-16T07:53:01+00:00",
-   "title": "Myanmar Faces Year of Blackouts as Regime Admits 30% Power Shortfall",
-   "source": "Irrawaddy",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeEc1SHppWVd3RFN0TDhmTTJOczNoLVBTNjc0cHBTS2gtOWU4X0wxRU9QSXUza1doemRFV3pQdDFjZjI4dU5lVkZfczRMR3RsZ2pYYTZhRG1kNkFEX3Ntbnd6UUVVYjlRT3JKdU9UbVg2UFM3N1BVS0twREZsR2ROZXJfS3dVWk9qcW1IaW91NWRmMDZaVGtFam95eDBfaG9sN3poV19sUllIYkRBY3c?oc=5"
-  },
-  {
-   "ts": "2026-11-16T07:53:00+00:00",
-   "title": "စစ်အုပ်စု၏ နိုင်ငံရေးကိုယ်စားပြုခွင့် ဆက်ပိတ်ပင်ရန် မနီလာ အာဆီယံထိပ်သီးအစည်းအဝေး ဆုံးဖြတ်",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/82234/"
-  },
-  {
-   "ts": "2026-11-16T07:53:00+00:00",
-   "title": "ရခိုင်တွင် စစ်ရှောင်စခန်း ဗုံးကြဲခံရ၊ စစ်ရေယာဉ်များက AA နယ်မြေအတွင်းဝင်၍ တံတား မိုင်းခွဲ",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/82245/"
-  },
-  {
-   "ts": "2026-11-16T07:53:00+00:00",
-   "title": "၂၀၂၇ ခုနှစ် အာဆီယံအလှည့်ကျဥက္ကဋ္ဌ စင်ကာပူနိုင်ငံနှင့် မင်းအောင်လှိုင်ပြဿနာ",
-   "source": "Myanmar Now (MM)",
-   "markets": [],
-   "url": "https://myanmar-now.org/mm/news/82252/"
-  },
-  {
-   "ts": "2026-11-16T07:52:59+00:00",
-   "title": "Myanmar nationals among 11 dead in Thailand fire: police",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/myanmar-nationals-among-11-dead-in-thailand-fire-police/"
-  },
-  {
-   "ts": "2026-11-16T07:52:59+00:00",
-   "title": "ASEAN seeks ‘calibrated engagement’ with Myanmar: statement",
-   "source": "Myanmar Now (EN)",
-   "markets": [],
-   "url": "https://myanmar-now.org/en/news/asean-seeks-calibrated-engagement-with-myanmar-statement/"
   }
  ]
 }
