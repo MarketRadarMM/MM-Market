@@ -1,6 +1,110 @@
 {
- "generated_at": "2026-11-23T22:52:55+00:00",
+ "generated_at": "2026-11-24T06:54:29+00:00",
  "signals": [
+  {
+   "ts": "2026-11-24T06:54:28+00:00",
+   "title": "Pyaing San Badminton Tourney Draws 600+ Players",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5zXzZ6MWdQUno0M2xuRXdHc2xqZkQ5RnQ3bmZxNlNTZFZsRUo0N1BwbUpLcmZrZEZHS3dVbWJTV2otUDl5ejk0T0RoNEljdTRPMFoxNmE2Q1U4Zk9tWDJzTUs2Q3VUdTlFWGNXQWtRMXNjbnd3RkY4LXZucw?oc=5"
+  },
+  {
+   "ts": "2026-11-24T06:54:28+00:00",
+   "title": "Yaksawk opens agricultural technology training",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4zejJYWXBhWm9qeHhCb1BIZkhPVkdfeGR6MUZDc194T25FRUVtTzFnQWRkOEZaVEQ4cHZsMFNhSWd5SXhmZmF5Y1ZvUGVqajVMRFdFcFVIZWpNRzlnWnpkS18tSHBQUzJ4LUk0SUNwOXJWUzVoSmNJT2dNZw?oc=5"
+  },
+  {
+   "ts": "2026-11-24T06:54:28+00:00",
+   "title": "Tatmadaw Captures 28 Terrorist Camps in Kyaikto-Shwegyin Area",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRmw3aTVVTlJjd3VoSl8yekJKLXBjSzl0bEFkNTVBekR4NHN0aVdiZjhteUxUV0Yzbk1vcGxDQTNzemVzWUVBbFJCWC1KdWpaQUh5NmRZQ3ZjQnBacV9HZ3ZqNkZyZEpaRlRmeS1qNlpmeXJYd0NMREptZzBYZllORVhBaXlWWVFhUTdrdEdrTQ?oc=5"
+  },
+  {
+   "ts": "2026-11-24T06:54:28+00:00",
+   "title": "Myanmar reach 1/16 finals in 2026 SSL Gold Cup",
+   "source": "GNLM",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBBSXJnUmhHb3hZbjlUeERxZE5UV0FHUzY3Z2gzTUpfaFh6OG5qVV9CaXRsQkxqeWhlVHA5eWVSRnZFbDJuNHoyWEpQY1Q1TmhtekNKbFpEOWhheGgxbmQ2Qkt3N01yVVEzSUJNdE0xYTY3RGdlU01JdWRsRQ?oc=5"
+  },
+  {
+   "ts": "2026-11-24T06:54:28+00:00",
+   "title": "Myanmar Junta Recaptures Kyaukme After 21-Day Offensive",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT3RUR1hIcGdHdEVJN0ZaYlJ2UkZHeHE5aUh3YzVFdXBYS1dFaV9wdnN2SE4zLWRxbWlNNTBSWU40ZXFBcWNlYm9KclZFZTRyU0tkejRmOFVIdjdSLTVMRFFkbXMxWlZZcWZzTTFpelRsN21tN3FEYlQ2RUlWeE5YelA3dEM2OFQ0RGtsQUp2QWpMWUVkZWM0eG90d3VoY3hNeWtzUjhqNWxkUmRTQjdXT2o3OA?oc=5"
+  },
+  {
+   "ts": "2026-11-24T06:54:28+00:00",
+   "title": "Myanmar Junta Keeps Pushing Revival of China-Backed Hydropower Project",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc3lJaEVVelZ1Ul9QRGlOVnoyLVd1dTlZcFROT0VlTGJzT1lkWFRBWjVCaEVjZzhNbHRvOTNtLVpWcXNmd25MTTZYb0lCbXMwbnRRUDFabE5SQ01zMzFhWW15b3FyTlVCVWNBbjJMUkVCYmFVbEE2NVpIZVRLdnZfRDFZVzFYc1h3ZnFJYXhqZ2xDR0hyTm9XR3U4UVBBQU1CZ05rZmFGQVhHbmtJbU9aSTZ3?oc=5"
+  },
+  {
+   "ts": "2026-11-24T06:54:28+00:00",
+   "title": "14 Countries ‘Acknowledge’ ICJ Ruling on Rohingya Genocide",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNelk1QU91TmtpYkg4cFdtVzlwSUw5d1NjTEV5WTRnRWM2RGtLMzFUZnpVRTVqSENZN3RsM083VFdULUUwbzZNbFhobHZGY0Fqa1ZkSFM1cTVma1VTNm8wZWR5d1J4bXpTLU1YQVlFdDUySkFzNmEyUU13QWF2YWV3T21paGRsek04MkR4RUdQeENwVEt1bXQta2pYWVhRVlU?oc=5"
+  },
+  {
+   "ts": "2026-11-24T06:54:28+00:00",
+   "title": "Interview | Myanmar Migrant Workers Have a Weapon Against Junta Abuses – Here’s How to Use It",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOUNQVXpkZkVzM0NfTllRekpQb2ZHcUFraEhQZ2dkWnRadFFSRlVRVDVCOGZfRG9JRDdJMnpZdncwWFpsS3VzaXJzRmktSjk5Mmd3NUQ5MnB5VEFRcWRqZVNxeEp3NFVHd2gxd3o4YmxJZnFidk5wX0FkblJmRGZoM2JNTVhoMFJvaGZ1cGJnTEhSNFBTdG9oNWRZUTVFMGkyeG5oUFlJOURBOXVBdWdPbmh3T29zaU9lYmRhRWdKZTg5ZDJaMWN1SA?oc=5"
+  },
+  {
+   "ts": "2026-11-24T06:54:28+00:00",
+   "title": "4,500 Myanmar Refugees to Get Thai Job Training Under $3m Project",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSWhOaURsTHRuTE9KeEFpVzR5ZG9oSUQ1V0JTbmVldmNFS2NuaEt4cmhNMmhFMzhnbUU1UFRWNmpSSFZHMTV0SHRldlNBWGhmS3VUX1JHVlQtTVJqWlg5d183b3l2eW01anROeGNyT2lvWDZaQy12eWdfR3JJS045UDFjbUo0T3FzUS1JeWFQb0g1X3FkWU5KbDFXbm9KMlZRMl9LQ1BVdEY?oc=5"
+  },
+  {
+   "ts": "2026-11-24T06:54:28+00:00",
+   "title": "Analysis | Inside the Shadow Networks Helping Min Aung Hlaing Consolidate Power",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOXBLUjBmYzFia21taHFNNnpZTjhxY01ILTUwWmJKOWhLLUVEdEpHR21GVWxMNDdSekIwVmViTENaOGRnOTNRc2hnMzl6ZkJVdnpBWWoxbUZEYno0T3QzbmoxdEh0dDFvaXhob3F2cTR2UkgwZlBDb2lNcC1ILUcxelVLRXBHWXBmS2RIQkRrdTF6WE95ZU8tOVE5b1ZIQWhLZXdkU3hhQlJjb1VET0VfY3RING5qRlU?oc=5"
+  },
+  {
+   "ts": "2026-11-24T06:54:28+00:00",
+   "title": "Myanmar Regime Says Combating Graft in Military Draft Process",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdVZEV0pzSTRFYnU5STRoRWJTTVhCbVhPZThJaXpBdVBqdG56NW1OZ0V0M1dKWTVESzh6YUZ4dzFlT1VQTmhpcnRUSElhVWhvOXpzdGJ1ZFZoUklPY0loR2hxMEYzektzZ0QyM0VHTnV5akJ1Y1pVOThxeGRNcTFKbnZCU2ZtREJ0ODVkUmdFdkVwN2sxdTBteFNmLXl0d21CMVFKUUtR?oc=5"
+  },
+  {
+   "ts": "2026-11-24T06:54:26+00:00",
+   "title": "ကာကွယ်ဆေးတွေ ဘေးကင်းတယ်ဆိုတာ ဘယ်လိုသိနိုင်လဲ၊ ဘယ်လိုစမ်းသပ်လဲ",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/cmz9dy594112o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-11-24T06:54:24+00:00",
+   "title": "မြန်မာစစ်တပ်အရာရှိ ၅ ဦးကို ဗြိတိန် ဒဏ်ခတ်အရေးယူ၊ ရိုဟင်ဂျာနဲ့ ရခိုင်လူမှုအသိုက်အဝန်းနဲ့ လူ့အခွင့်အရေးချိုးဖောက်ခံရသူတွေ တရားမျှတမှုရရှိရေး ပေါင် ၈ သန်းကူညီမယ်",
+   "source": "BBC Burmese",
+   "markets": [
+    {
+     "market": "fx_kyat",
+     "direction": "bearish",
+     "confidence": 0.65,
+     "rationale": "New sanctions pressure the kyat"
+    },
+    {
+     "market": "gold",
+     "direction": "bullish",
+     "confidence": 0.65,
+     "rationale": "Kyat pressure drives savings into gold"
+    }
+   ],
+   "url": "https://www.bbc.co.uk/burmese/live/cmqlq27ld9wqt?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-11-23T22:52:54+00:00",
    "title": "President U Min Aung Hlaing and Spouse Daw Kyu Kyu Hla open 2026 Tazaungdine Mathoe lotus robe-weaving contest",
@@ -2204,97 +2308,6 @@
    "source": "Myanmar Now (EN)",
    "markets": [],
    "url": "https://myanmar-now.org/en/news/asean-seeks-calibrated-engagement-with-myanmar-statement/"
-  },
-  {
-   "ts": "2026-11-16T07:52:58+00:00",
-   "title": "ICJ အမှုမှာ ဂမ်ဘီယာ ဘယ်လောက် ယုံကြည်မှုရှိလဲ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cm5y1gd4g6yzo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-11-16T07:52:58+00:00",
-   "title": "တိုင်းပြည်စီးပွားရေးမကောင်းချိန် နိုင်ငံ့အသုံးစရိတ်အမြင့်ဆုံးရောက်",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.com/burmese/articles/cmd61v051l04o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-11-16T07:52:58+00:00",
-   "title": "အာဆီယံထိပ်သီးဆွေးနွေးပွဲတက်ခွင့် နေပြည်တော် ဆက်ကန့်သတ်ခံရ",
-   "source": "BBC Burmese",
-   "markets": [],
-   "url": "https://www.bbc.co.uk/burmese/live/cm1dvpyywk12t?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "ts": "2026-11-16T00:55:56+00:00",
-   "title": "To Face the Super El Niño in Daily Life",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IY1NueUlWNS1oLVp6ZTlrUUdHMjZlOFBhUDc0QWQ1cU9YZGlYOGNRcy1Gc2w4dVQ3Y2Z0SFpvdkhkUHlwZVJsY3RZdzAyelJYYUk3b01pS1lZZzN6YVJvR2FFM0h2U1hMZ0tab3BXN0pnQQ?oc=5"
-  },
-  {
-   "ts": "2026-11-16T00:55:56+00:00",
-   "title": "Improving the lives of children in the workplace",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ud3kwc1ZxSFBkSW9mTjRQZERuS2c3TmRQTWZtTkFKMEdOYzU0dVhOOXphVjBMWTFSdEFSWGNSdFZtQnJYSEt6NklLWkpsUUhpTFJpOUdodGVuZGhvdVVRMkZXVktuZmtfVU9jMlBQemhfNi1YRHl0X1BkRGYwdw?oc=5"
-  },
-  {
-   "ts": "2026-11-15T20:58:55+00:00",
-   "title": "Vice President U Nyo Saw attends and encourages contestants on fourth day of 27",
-   "source": "Myawady",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaG1iSlhJRXpOel9UdVpvMXVRMXctMXhQRDVmS1BXOThWNEJ3MG5xYjBGSC1UcVJfSDF1SUhSZXVja1dNNndiemFiTmVUbU5PbHptXzZzREVWNFlkVFNVNzQ2STFHYUFEX1BYTG9FZE5kblZ1b2JFeW10dnVxYU5pX2NfNkFEQ3pEZkpIVngtZDNTM1VRQ3Z2ZE1rMGJkUDdweUtEeGtnOGtnOVhHVy1ZRm40TEZhSjQ0NTJiMUkyNA?oc=5"
-  },
-  {
-   "ts": "2026-11-15T20:58:54+00:00",
-   "title": "Yangon City Hall First to Receive Blue Plaque in Recognition of Its Urban Heritage Status",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNm5xenFEYTNtMEE5UEhHQVVLeU1nZ3B5MWh5SUVRV1J4LVJ4RW1KR09BR1o0R0dhSEluVEZvVjMxUXdfNU1lNktYSkQ5SmdZYnN1YkFfTm0tSlByVVhkWXZVUFEzM3ZpN0RXeW5sTC03cEdNNWdUZ1FMYVJCNTdnMHB2dWpIOC04eTRaU0UwVlMwdzUwVXdXT2pnUEQ5WjY2VzF0REQwX2sxWWtzTmFrSXZTR3I?oc=5"
-  },
-  {
-   "ts": "2026-11-15T20:58:54+00:00",
-   "title": "Shan CM urges livestock entrepreneurs to expand businesses and create jobs",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMWp6eVpZNzAtcG9NSmR1eHFRTFEwNGF1dmRWQ1dtX2tWNHFva09BNWhUM1paUmljWU9tbzRCdnA4bk05bkVzUmM5SU94SWNubkcxSWpBSElLMTY4aWQ1VmR2TnFMRTRyRTcwYm1oWTk5VHNGX2tvb2tqRGJ5MXhSVVluR0VwYVBQS3RLUzZVazRJWm1CN2JfMVRiXzJJejRt?oc=5"
-  },
-  {
-   "ts": "2026-11-15T20:58:54+00:00",
-   "title": "President, Spouse Fulfil Healthcare Needs of Sitagu, Moekaung Sayadaws",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTmhzMGpYOFZPYjAtQ3NmeGo4SFFRa21TMm5JTTRURGpDcFZzbGNURjBoQ25IX2Fmejd2UExNMWl0YzNnN28zZFFiSkY3R29uWDhrUW95SXluQVJDVHIwWFBQMjYzZ25XUUFXazlSSlNpblBLRUp5cEVwdlh4RVZkaXVYemViVHBxMExmRUFyZVBsQkQ2MXA3cg?oc=5"
-  },
-  {
-   "ts": "2026-11-15T20:58:54+00:00",
-   "title": "Around 1,000 arbitrators trained to handle commercial disputes",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVnFYTW51d0ZOcENDRnpyVDJWdGcwUEh2bTItX2pSY1NHMzhpYU1paElaSk5pM2htaFdvSkIzTWFiWk8zb3VxczBLRWFvRmRrTTIzU2VtUmdaUk5BaGd0OVlSbHh3WVNWYmJTVWptMnJveEZ2Sk54cjFGSEtYaDdoN282N0VBeDBPRWZiRlc3UQ?oc=5"
-  },
-  {
-   "ts": "2026-11-15T20:58:54+00:00",
-   "title": "Teachers, students from Toungoo explore museum exhibits in Nay Pyi Taw",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMHZUbHhhNU12bmlINXg4Y283UFJYZzRpNDZIZlZpNWpITTh4MWpwVFpuenNHc2loNnNLTU9KeGVkV0FNYWFLUmJPRnJmaHFyY2lyOGJQd0JCcmhBanBtZVFWc25UNUtfYURBVmhodjluYm9RNFFOamRsMC1yczRDUXl2d2E4Zkk0aF9TcjdscVdYX1pJb193ZF9n?oc=5"
-  },
-  {
-   "ts": "2026-11-15T20:58:54+00:00",
-   "title": "Myanmar Seismologist Daw Hla Hla Aung Wins 2026 ASEAN Prize",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZWI4YkJjSy1LMzBKNzl2RTFpVDlzTkpDckI2cjNubXI3OEtMXzNpbldyRHBjV2FkT0lxTzdRaUhDektUcmdJQTdNRWtNV2FYVFNtWGlENUVicW0wUm5QdDl5Y0IyUTgzVHZWZzZYN3NCM3ctRnlLc0lKd19OdjNJS3otVEN5Z0dEZXpiMA?oc=5"
-  },
-  {
-   "ts": "2026-11-15T20:58:54+00:00",
-   "title": "Ayeyawady CM calls for full-capacity operation of rice mill and improved rice quality",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNXFtM3RRVGZISUJuNHFSbUJ5SjlrbkFpVFh0M2hxWGpZXzRheHRiRVJYaDdyMnpJT2phNXhmVXEyd0ppX0tUcUhhYmVsNzBpRjlWSXRBRk5VaFNxT2pPOXBCLTNRVS0tT0U2Z1VoVjlLdU9jUzBQY2twTF9kOU0xUlh4V0tMZXpEUzQxOEY2MXBpVjBWRTZQd3ctODRVT3FvZ3lpLXo5SDhUOUJlc05j?oc=5"
   }
  ]
 }
