@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-24T01:55:42.496507+00:00",
+  "fetched_at": "2026-11-24T23:40:19.782174+00:00",
   "tiers": {
     "official": {
       "my": "တရားဝင် (ဗဟိုဘဏ်)",
@@ -49,7 +49,7 @@
   "world_gold": {
     "tier": "global",
     "status": "error",
-    "note": "HTTP 404",
+    "note": "ConnectTimeout",
     "xau_usd": null,
     "as_of": null
   },
@@ -199,30 +199,30 @@
     "fx_premium": {
       "USD": {
         "official": 2100.0,
-        "street": 5270,
-        "premium_pct": 151.0
+        "street": 5280,
+        "premium_pct": 151.4
       },
       "THB": {
         "official": 61.88,
-        "street": 157.37,
-        "premium_pct": 154.3
+        "street": 156.36,
+        "premium_pct": 152.7
       },
       "CNY": {
         "official": 314.64,
-        "street": 790,
-        "premium_pct": 151.1
+        "street": 797,
+        "premium_pct": 153.3
       },
       "SGD": {
         "official": 1627.91,
-        "street": 4121,
-        "premium_pct": 153.1
+        "street": 4110,
+        "premium_pct": 152.5
       }
     },
     "fx_spread": {
       "cbm_usd_mmk": 2100.0,
-      "street_usd_mmk": 5270,
-      "premium_pct": 151.0
+      "street_usd_mmk": 5280,
+      "premium_pct": 151.4
     },
-    "implied_xau_usd": 3632.3
+    "implied_xau_usd": 3636.1
   }
 }
