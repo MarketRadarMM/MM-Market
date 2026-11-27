@@ -1,6 +1,116 @@
 {
- "generated_at": "2026-11-27T05:18:29+00:00",
+ "generated_at": "2026-11-27T15:30:27+00:00",
  "signals": [
+  {
+   "ts": "2026-11-27T15:30:26+00:00",
+   "title": "Myanmar’s China Dilemma: Turning Beijing’s Need Into Leverage Requires Legitimate Leaders",
+   "source": "Irrawaddy",
+   "markets": [],
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOa09BUTRtenE3SURROXR6YTFFUjQ0UTJhVUNMTFhjSXpPSHNEY2R3YXhYXzZFUGR2VDh2bFJNNG5nZHE1UmRtUU12SllQaTFYSDhISmF6RmxQbU8tX3R1VkpXaWsycW1qWUZlZF9QWG5sMkFQbjh5YnVWWlpBdzI0R2JVRFNDU2lMQTdFQzJOaEtDMklkVUlZQkN0NU1SM1pwM00xQS1NRG1EWWhBREdCMHpVbG1CZ2NKUlZlVE53Y1Z6NGpFMEViNUs5cHFJY2FrbTl0R2JGOURFZw?oc=5"
+  },
+  {
+   "ts": "2026-11-27T15:30:25+00:00",
+   "title": "ICJ စီရင်ချက်ကို မြန်မာနိုင်ငံ လိုက်နာရေး ဂျပန်က ဖိအားပေးသင့်ပြီ",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/82536/"
+  },
+  {
+   "ts": "2026-11-27T15:30:23+00:00",
+   "title": "မြန်မာနှင့် ထိုင်းနယ်စပ်ရှိ ကုန်သွယ်လှေဂိတ် ၁၇ ခုကို ထိုင်းအစိုးရ ပိတ်မည်",
+   "source": "Myanmar Now (MM)",
+   "markets": [
+    {
+     "market": "pulses",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "China border trade affects bean flows"
+    },
+    {
+     "market": "rice",
+     "direction": "neutral",
+     "confidence": 0.5,
+     "rationale": "Border status affects rice exports"
+    },
+    {
+     "market": "fuel",
+     "direction": "neutral",
+     "confidence": 0.45,
+     "rationale": "Border routes also carry imported goods"
+    }
+   ],
+   "url": "https://myanmar-now.org/mm/news/82543/"
+  },
+  {
+   "ts": "2026-11-27T15:30:23+00:00",
+   "title": "ထိုင်းလေတပ်ပြပွဲတွင် မြန်မာစစ်တပ် တိုက်လေယာဉ် ပြသခွင့်ပြုမှုကို ထိုင်းအမတ်ဟောင်း ဝေဖန်",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/82549/"
+  },
+  {
+   "ts": "2026-11-27T15:30:23+00:00",
+   "title": "ဆင်ပေါင်ဝဲတွင် စစ်တပ်လေကြောင်းတိုက်ခိုက်မှုကြောင့် ကျောင်းသားကလေးငယ်များအပါအဝင် အနည်းဆုံး ၁၈ ဦး သေဆုံး",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/82558/"
+  },
+  {
+   "ts": "2026-11-27T15:30:23+00:00",
+   "title": "“အကြမ်းဖက်သမားများ” လက်ထဲမှရေယာဉ်ကို ပြန်သိမ်းယူသည့်ပုံစံ စစ်ရေးလေ့ကျင့်မှု မြန်မာနှင့်ရုရှား ပြုလုပ်မည်",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/82571/"
+  },
+  {
+   "ts": "2026-11-27T15:30:23+00:00",
+   "title": "ကျားဖြန့်သံသယဖြင့် ထိုင်းနယ်စပ်  မြဝတီမြို့မှ လောင်းကစားရုံများကို စစ်တပ်ဝင်စီး",
+   "source": "Myanmar Now (MM)",
+   "markets": [],
+   "url": "https://myanmar-now.org/mm/news/82575/"
+  },
+  {
+   "ts": "2026-11-27T15:30:23+00:00",
+   "title": "Myanmar refugees in Malaysia left in limbo as UNHCR halts card issuance",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/myanmar-refugees-in-malaysia-left-in-limbo-as-unhcr-halts-card-issuance/"
+  },
+  {
+   "ts": "2026-11-27T15:30:23+00:00",
+   "title": "An army of unwilling soldiers: Inside Myanmar’s war for manpower",
+   "source": "Myanmar Now (EN)",
+   "markets": [],
+   "url": "https://myanmar-now.org/en/news/an-army-of-unwilling-soldiers-inside-myanmars-war-for-manpower/"
+  },
+  {
+   "ts": "2026-11-27T15:30:21+00:00",
+   "title": "Myanmar junta airstrike kills at least 18, including schoolchildren, in Magway Region",
+   "source": "Myanmar Now (EN)",
+   "markets": [
+    {
+     "market": "pulses",
+     "direction": "bullish",
+     "confidence": 0.55,
+     "rationale": "Conflict in bean/sesame heartland threatens supply"
+    }
+   ],
+   "url": "https://myanmar-now.org/en/news/myanmar-junta-airstrike-kills-at-least-18-including-schoolchildren-in-magway-region/"
+  },
+  {
+   "ts": "2026-11-27T15:30:20+00:00",
+   "title": "ဘီဘီစီနဲ့ အင်တာဗျူးမှာ ထရမ့်နဲ့ ပူတင်တို့ရဲ့ ခင်မင်ရင်းနှီးမှုကို ဇလန်းစကီး ဝေဖန်",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c6d91jg2y5kno?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "ts": "2026-11-27T15:30:20+00:00",
+   "title": "ဦးမြင့်စိုး (ခ) ဖိုးလေး - ဒေါ်အောင်ဆန်းစုကြည်ရဲ့ စားဖိုမှူး",
+   "source": "BBC Burmese",
+   "markets": [],
+   "url": "https://www.bbc.com/burmese/articles/c8d5p91glm5o?at_medium=RSS&at_campaign=rss"
+  },
   {
    "ts": "2026-11-27T05:18:28+00:00",
    "title": "Reducing Maternal, Child Mortality Drives National Development",
@@ -2205,97 +2315,6 @@
    "source": "GNLM",
    "markets": [],
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQzI2TUJySXN4N1VPOHA3NXB6dG5vM2puS1Y1RHNaLWFFUHJIdWtFTklSdDBFRHBWLTdjc0ZkUzNRVmlVOG1EdmJTbGRucWNTemtNdjBYd0E4MFFNZVJPWmoxUTZPYmlGUWVfMWNIeDBWQmg0OUJQVDBpSVcxSlVkNEtsbHJiOXE3cVdjQWNZM1c0Zw?oc=5"
-  },
-  {
-   "ts": "2026-11-20T00:52:54+00:00",
-   "title": "Falam District IPD office, retaining wall reconstructed",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaWgzSXlNMXAtVUpOYjhlc3FIMkZzV0lKVkhBMC10cENjcnRncEFZaENENWhWTTI2Vy1IY3dCTURsV0tiM3l5YmFFcWxIdmNXN1VIMkhWWmxvZEplNFlVX2s2dGYzbnhhcGVRMFQxSEJ1QTdteElnLThsQS1uTDNqcGFDM2V1Zw?oc=5"
-  },
-  {
-   "ts": "2026-11-20T00:52:54+00:00",
-   "title": "Pyithu Hluttaw Speaker receives Nicaraguan Ambassador",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVnQ1VUpHQmZtWU9uaVNqTTcxcmxabkVWamVwLTRyOFR2TGEyM3RZblVpY2I2dXFRYXJENzFlbkpiM25wX08wNDh3NjVpYXMzZU1EVk8wYWx0bWRQRGFhMmlnZDRjLUpycFBVaXItN2FsS2ZlelpSazNRNmVXcGY0ZDNPQmE?oc=5"
-  },
-  {
-   "ts": "2026-11-20T00:52:54+00:00",
-   "title": "Ayeyawady Launches Drive to Promote Alternative Farming",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNXzNyZlFJSDV3YjdfV09iSGliQi1IV29nSF8yWU5mZDVkZGRJTHFLTDByRkdZZExLNW9GSGQ2YXZXY1dZUkRULUJRQVZXRHNYR1ltUXpxdU00dlpCNlhTOVBXZFVhOG9DV2hWZnRnZFlYWGxrNEJ2NnlkeVpJX3hRUGFPbnF1NE0?oc=5"
-  },
-  {
-   "ts": "2026-11-20T00:52:54+00:00",
-   "title": "Myanmar wins 3 golds, 2 bronzes in 34th ASEAN Armies Rifle Meet, ranking fourth",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMjNyZjd3QzFMdWhLOFltQ0JPZTFjRl9DZlo3QWtocVdabHVoTkxxVEhFb3NzWkcyb2R3d2ZSOXA1RmZCcVFfNWNZRG9mTHJFVHNiWVRGeUJFeU5xZzhmVHM0TmlkMy1FQjA4VHFFZjdvS1ZMSkVPMG9uZ1VCMTIzakludGFlekZad0NLMm5jOTB1ZF9Pd013STVMY25IME0tNXppMA?oc=5"
-  },
-  {
-   "ts": "2026-11-20T00:52:54+00:00",
-   "title": "DaikU’s completed development projects inspected",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE91VEpkQ04tX2ZTSjNDX3RHTmRtZE9tNml0UTNsTzZXNG9QTGQ4RldtQVloWFlicjBkOEt0Q0RZdnFraHJXQlYwWTZIRzBNd1dxQWllTGlVbHp1Q2hPc0dVcURjc0RBYnpLS2p5WE1oYl9RS1I3aFBuZGNON1o?oc=5"
-  },
-  {
-   "ts": "2026-11-20T00:52:54+00:00",
-   "title": "Thayawady’s MSY village project loans disbursed",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8wZUo2U2NQay14b0ZDbURMeXJjY1BDRk9OYTJSeXlJYXhCRS1HWWlqeWdGdG9JRDlNbHBJd0lIOWxlNHhZSklzXzBzemdpWlZHRi0xVkE2SlRhLTVQc3RWbllrdW9YdVZ1cHpFOUJabmYxVU1meTNDQXQ4V1JMdw?oc=5"
-  },
-  {
-   "ts": "2026-11-20T00:52:54+00:00",
-   "title": "BIMSTEC Members Deepen Cooperation to Support Landlocked States",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS25saG13czhpNVdicGlucUVyNkZCbFRnZ3poM2VxX2Z2SEF6YmRhaFRKcWhoU3N3cnVPQjFnMWw4UG5xM2pvVkxka05aME9MVlMzOGdzU3FkY0xWZHYtMVQ1b1V4Z1V2MDc5YkEzZGYtSkZLRlg0VXN3R3VUUGdfMngtQlEwekxLWDhlVnNSc2JmZw?oc=5"
-  },
-  {
-   "ts": "2026-11-20T00:52:54+00:00",
-   "title": "Vice-President receives Sri Lankan Ambassador to Myanmar",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcGNiZkNSc0t1U3hDSEVwcFlPQk4wcnRjdl9kUVBERVFvakpzNzR6ZGk4ZmFONnEyamVabWRUNFJPQlMtVEZNa0Y3dm8xR1cyOHlXYzU1OU80ZFRVTXEwT292TTN2SFpHcW5xR0VqTU9wYnlQVHRYUU5KVGVRRzhhZDRmRDVuUjY4?oc=5"
-  },
-  {
-   "ts": "2026-11-20T00:52:54+00:00",
-   "title": "Myanmar and Sri Lanka discuss agri & aquaculture cooperation",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVnZycU1rLWp0dTBaZlVmWW5yeDVzQ0d3cXN3TWJ0eEhjRnh3UHlVWkI3RG5mLW1ZX0p5QVVKUUtCcURLakVsQWRqaG14MHZFMnJLN2ZSTVlud2twY0RlRjkyZGxBZ2JObWI2Q1lfaUNBb2puNmFWY1Noc2hpcm1jUDNsT0x6Z1drTGF3?oc=5"
-  },
-  {
-   "ts": "2026-11-20T00:52:54+00:00",
-   "title": "Defence Ministry teams win men’s and women’s volleyball titles",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY29OY2ZLT09IMTllekhVQ2hsa3dEdTFlbl9iZVJpVGVULWNRUEExNXB3dzRjcVpLcHdzbTliVnM2a1VYWGlJMHlTaGJhWWQ1bWRMYk9WY2tjNi1hNUVNQ1E0NkpuMlRRTGxrZDhtNHhYd21uMGtYTmt1OGZXejg4RGtNZUlJVERXUFpiUW5n?oc=5"
-  },
-  {
-   "ts": "2026-11-20T00:52:54+00:00",
-   "title": "MNPIFER Union Minister receives Belarusian Charge’ d’Affaires ai",
-   "source": "GNLM",
-   "markets": [],
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOFpyUVdmYU9NT2NCbVZ6TFNLeFJnY0tuWE5pWWtyQzR1WkVKSkhVLURocEZyOEx6WDhtR2J1b2daX2xMcmpPZkNmSXNlc2NyQWNGN3dvT2tKaHVQWTlJeWRvUXU4bV9XT3JCRnc1M3p0clkwd08tYTQ3aWk3Vk5YQzI0czhETFBHcGR5X3prdFU?oc=5"
-  },
-  {
-   "ts": "2026-11-20T00:52:52+00:00",
-   "title": "Shan State to expand 16,138 acres of edible oil seed cultivation",
-   "source": "GNLM",
-   "markets": [
-    {
-     "market": "edible_oil",
-     "direction": "neutral",
-     "confidence": 0.5,
-     "rationale": "Edible-oil story — read for direction"
-    }
-   ],
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaWsyamZ4M21aNThjTElzdW5Sakk2aEh2N25OdC02eG1ySi1VOG9tZkxYQ1llZGhPX0VTeVZTTDEydnozYko5U3VVRlNkRENQY0J0czJEd29BeEVtWVAwMTcwU3Z2TGYtZm00Q2FjbF9yNlVORkRuUG5GZnpSNWNjUDBwZFo3T28xUU9hekxZNVdpdw?oc=5"
   }
  ]
 }
